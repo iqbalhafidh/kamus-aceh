@@ -2,18 +2,88 @@ headword: hah
 jawi: ''
 alt_spelling: []
 ipa: ''
-part_of_speech: ''
+part_of_speech: v
 definitions:
-- meaning_id: sehasta
-  meaning_en: ell, cubit
-- meaning_id: buka
-  meaning_en: open
-examples: []
+- meaning_id: membuka (mulut), menceritakan
+  meaning_en: to open (mouth), to relate
+examples:
+- aceh: ta hah babah sigo
+  jawi: ''
+  id: Bukakan mulut Anda sebentar! hah, tertawa terbahak-bahak sehingga terbuka mulut lebar-lebar
+  en: 'Open your mouth for a moment! hah: to roar with laughter so that the mouth opens wide'
+- aceh: mua hah (teu hah)
+  jawi: ''
+  id: terbuka
+  en: open
+- aceh: ka teu hah pintô
+  jawi: ''
+  id: Pintu sudah terbuka
+  en: The door is already open
+- aceh: teu hah babah
+  jawi: ''
+  id: terbuka mulut (krn keheranan)
+  en: the mouth falls open (in astonishment)
+- aceh: soe nyang kalon teu hah babah
+  jawi: ''
+  id: Siapa yg melihatnya, terbuka mulutnya
+  en: Whoever sees it, his mouth falls open
+- aceh: meu hah, meu hah
+  jawi: ''
+  id: terengah-engah, mengembus-embus
+  en: panting, puffing
+- aceh: ladôm taeu meu hah, meu hah, ban asèe grah woe lam kubang
+  jawi: ''
+  id: diantaranya ada yg tampak terengah-engah laksana anjing haus yg kembali dr kubangan
+  en: among them some were panting like a thirsty dog returning from the wallow
+- aceh: lôn pajôh campli 'oh meu hah, meu hah sarè
+  jawi: ''
+  id: Saya makan lombok hingga kepedasan
+  en: I ate chilli until my mouth burned
+- aceh: meu hah
+  jawi: ''
+  id: (tertawa) terbahak-bahak
+  en: to roar with laughter
+- aceh: jikhêm meu hah, 'oh jileungo narit nyan
+  jawi: ''
+  id: Ia tertawa terbahak-bahak ketika mendengar perkataan itu
+  en: He roared with laughter when he heard those words
+- aceh: peu hah
+  jawi: ''
+  id: membukakan, mengangkat (tutup)
+  en: to open, to lift off (a lid)
+- aceh: peu hah ulèe
+  jawi: ''
+  id: membuka tutup kepala
+  en: to open close head
+- aceh: peu hah payông
+  jawi: ''
+  id: membuka panyung
+  en: to open an umbrella
+- aceh: peu hah pintô
+  jawi: ''
+  id: membuka pintu
+  en: to open door
+- aceh: peu hah ciriek tè
+  jawi: ''
+  id: mengangkat atau membuka tutup cerek teh
+  en: to lift or open the lid of a teapot
+- aceh: peu hah 'ayèb gob
+  jawi: ''
+  id: membuka atau menceritakan aib seseorang
+  en: to expose or relate someone's disgrace
+- aceh: peu hah droe
+  jawi: ''
+  id: dng sengaja
+  en: deliberately
 etymology: ''
-related_words: []
+related_words:
+- uak
+- khak
+- plah
 dialect_notes: ''
-source: 'Daud, Bukhari & Mark Durie. Kamus Basa Acèh = Kamus Bahasa Aceh: Acehnese–Indonesian–English Thesaurus.
-  Pacific Linguistics C-151, 1999, p. 4; p. 85.'
-date_added: '2026-07-20'
+source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
+  Pendidikan dan Kebudayaan, 1985, hlm. 273'
+date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: ''
+extraction_notes: 'Homonym 1 in the source (printed as a superscript numeral before the headword). Jawi
+  left blank: the source is Latin-script only and no Jawi form is printed for this entry.'

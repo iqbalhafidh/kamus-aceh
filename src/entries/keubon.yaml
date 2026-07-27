@@ -1,0 +1,35 @@
+headword: keubon
+jawi: ''
+alt_spelling: []
+ipa: ''
+part_of_speech: n
+definitions:
+- meaning_id: kebun
+  meaning_en: garden
+- meaning_id: (dalam hikayat) tempat tidur
+  meaning_en: place sleep (in hikayat)
+- meaning_id: '-'
+  meaning_en: ''
+examples:
+- aceh: bunga
+  jawi: ''
+  id: kebun bunga
+  en: garden flower
+- aceh: tajak keu noe taeh sajan lon, dalam keubon kleumbu kaca
+  jawi: ''
+  id: tidurlah kemari bersama saya di tempat tidur yg berkelambu kaca
+  en: come and sleep here with me in the bed with the glass curtain
+- aceh: si keubon
+  jawi: ''
+  id: nama wanita
+  en: name women
+etymology: ''
+related_words: []
+dialect_notes: 'Marked (dl hik) in the source: attested in hikayat, the classical Acehnese narrative verse
+  register.'
+source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
+  Pendidikan dan Kebudayaan, 1985, hlm. 393'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+extraction_notes: 'Jawi left blank: the source is Latin-script only and no Jawi form is printed for this
+  entry.'

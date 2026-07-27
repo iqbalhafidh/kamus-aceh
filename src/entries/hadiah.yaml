@@ -1,0 +1,50 @@
+headword: hadiah
+jawi: هدية
+alt_spelling: []
+ipa: ''
+part_of_speech: n
+definitions:
+- meaning_id: hadiah, pemberian
+  meaning_en: gift
+- meaning_id: hadis Nabi Muhammad saw
+  meaning_en: a hadith of the Prophet Muhammad (peace be upon him)
+examples:
+- aceh: padum hadiah Kuruan nyoe?
+  jawi: ''
+  id: Berapa harga kitab al Qur'an ini?
+  en: What is the price of this Qur'an?
+- aceh: lôn hadiah Kuruan nyoe keu droeneu dua rupia
+  jawi: ''
+  id: Saya menjual kitab Al quran ini kpd Anda seharga dua rupiah
+  en: I sell you this Qur'an for two rupiah
+- aceh: meu hadiah
+  jawi: ''
+  id: menghadiahkan
+  en: gift
+- aceh: keu droe neu saboh Kuruan
+  jawi: ''
+  id: Saya menghadiahkan kpd Anda sebuah kita Al qur'an
+  en: I present you with a copy of the Qur'an
+- aceh: peu hadiah
+  jawi: ''
+  id: menjual (kitab Al qur'an)
+  en: to sell (a Qur'an)
+- aceh: maja
+  jawi: ''
+  id: ucapan-ucapan yg berasal dr nenek moyang yg tidak berhubungan dng agama, tetapi ada kaitannya dng
+    kepercayaan rakyat yg perlu diambil ibaratnya utk menjamin ketentraman hidup atau utk mencegah terjadinya
+    bencana, spt adat-istiadat pd suatu
+  en: sayings handed down from the ancestors, unconnected with religion but bound up with popular belief,
+    whose moral is to be taken to ensure a peaceful life or to avert disaster, like the customs of a
+etymology: Arabic loanword; the Jawi form given here is the Arabic etymon.
+related_words: []
+dialect_notes: ''
+source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
+  Pendidikan dan Kebudayaan, 1985, hlm. 273'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+language_uncertain: true
+extraction_notes: 'Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate
+  reviewer. Language flagged uncertain: this is an Arabic loanword shared with Indonesian. It is listed
+  as a headword in an Acehnese dictionary, so it is treated as naturalised Acehnese, but a reviewer should
+  confirm.'

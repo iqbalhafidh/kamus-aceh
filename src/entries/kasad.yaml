@@ -1,0 +1,27 @@
+headword: kasad
+jawi: ''
+alt_spelling: []
+ipa: ''
+part_of_speech: n
+definitions:
+- meaning_id: kasad, niat, kehendak, maksud, sasaran
+  meaning_en: intention, intend to, target
+examples:
+- aceh: kasad lôn lôn keu-meung jak u Timu
+  jawi: ''
+  id: 'Saya bermaksud hendak pergi ke daerah Aceh Timur (kadang-kadang digabungkan menjadi: hajat kasad)'
+  en: I intend to go to East Aceh
+- aceh: hajat kasad trôih lôn bak droeneu keureuna lusa na kanuri bacut tek di runoh
+  jawi: ''
+  id: maksud kedatangan saya kemari krn lusa ada kenduri sedikit di rumah
+  en: my reason for coming is that the day after tomorrow there is a small feast at my house
+etymology: ''
+related_words:
+- niet
+dialect_notes: ''
+source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
+  Pendidikan dan Kebudayaan, 1985, hlm. 383'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+extraction_notes: 'Jawi left blank: the source is Latin-script only and no Jawi form is printed for this
+  entry.'

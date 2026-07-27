@@ -2,18 +2,41 @@ headword: jarak
 jawi: ''
 alt_spelling: []
 ipa: ''
-part_of_speech: ''
+part_of_speech: a
 definitions:
 - meaning_id: jauh
-  meaning_en: far, distant
-examples: []
+  meaning_en: far
+examples:
+- aceh: that lôn jak uroe nyoe
+  jawi: ''
+  id: Jauh sekali saya berjalan hari ini
+  en: I have walked a very long way today
+- aceh: pana 'oh na jarak di sinoe u gampông nyan?
+  jawi: ''
+  id: Berapa jauhkah dr sini ke kampung itu?
+  en: How far is it from here to that village?
+- aceh: bak jioh laknat, bak jarak baya
+  jawi: ''
+  id: semoga dijauhkan laknat dan bahaya (doa restu yg diucapkan kpd pengantin laki-laki)
+  en: may curse and danger be kept far off (a blessing spoken over the bridegroom)
+- aceh: meu jarak
+  jawi: ''
+  id: berjauhan
+  en: far
+- aceh: peu jarak
+  jawi: ''
+  id: menjauhkan
+  en: to keep at a distance
+- aceh: tapeu jarak droeteu, bêk toe ngon gobnyan
+  jawi: ''
+  id: Jauhkanlah diri Anda, jangan mendekati dia
+  en: Keep your distance, do not go near him
 etymology: ''
-related_words:
-- jeuôh
-- jioh
+related_words: []
 dialect_notes: ''
-source: 'Daud, Bukhari & Mark Durie. Kamus Basa Acèh = Kamus Bahasa Aceh: Acehnese–Indonesian–English Thesaurus.
-  Pacific Linguistics C-151, 1999, p. 87.'
-date_added: '2026-07-20'
+source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
+  Pendidikan dan Kebudayaan, 1985, hlm. 332'
+date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: ''
+extraction_notes: 'Jawi left blank: the source is Latin-script only and no Jawi form is printed for this
+  entry.'

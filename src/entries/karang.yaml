@@ -2,18 +2,41 @@ headword: karang
 jawi: ''
 alt_spelling: []
 ipa: ''
-part_of_speech: ''
+part_of_speech: v
 definitions:
-- meaning_id: karang, susun
-  meaning_en: compose
-- meaning_id: karang
-  meaning_en: compose (verse)
-examples: []
+- meaning_id: mengarang, menyusun, merangkai (umpamanya bunga, permata, unsur-unsur hiasan sehingga menjadi
+    suatu kesatuan yang indah, merangkai tulisan sehingga menjadi sebuah karangan), menyatukan dua buah
+    barang atau hal
+  meaning_en: charcoal, to arrange in order, to string together, as flowers, eye, ornamental elements
+    combined into a pleasing whole, to string words together into a composition, to join two things or
+    matters
+examples:
+- aceh: karang karōt atau karang marōt
+  jawi: ''
+  id: tidak beraturan (ump sebuah karangan)
+  en: disordered, as a composition
+- aceh: keunarang lōn karang marōt that
+  jawi: ''
+  id: karangan saya sangat tidak beraturan
+  en: my composition is very disordered
+- aceh: ureueng keumarang, pengarang, penulis, keunarang
+  jawi: ''
+  id: cara atau hasil dr karang, karangan, susunan dsb
+  en: the manner or result of composing, a composition, an arrangement
+- aceh: bungong keunarang, bungong karang
+  jawi: ''
+  id: bunga yg telah dikarang, karangan karya kesusastraan
+  en: flowers strung together; a literary composition
+- aceh: kitab nyoe karangan gobnyan
+  jawi: ''
+  id: kitab ini adalah karangannya, dikarang olehnya
+  en: this book is his composition, written by him
 etymology: ''
 related_words: []
 dialect_notes: ''
-source: 'Daud, Bukhari & Mark Durie. Kamus Basa Acèh = Kamus Bahasa Aceh: Acehnese–Indonesian–English Thesaurus.
-  Pacific Linguistics C-151, 1999, p. 19; p. 57.'
-date_added: '2026-07-20'
+source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
+  Pendidikan dan Kebudayaan, 1985, hlm. 379'
+date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: ''
+extraction_notes: 'Jawi left blank: the source is Latin-script only and no Jawi form is printed for this
+  entry.'

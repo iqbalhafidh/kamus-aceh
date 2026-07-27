@@ -1,17 +1,56 @@
 headword: hak
-jawi: ''
+jawi: حق
 alt_spelling: []
 ipa: ''
-part_of_speech: ''
+part_of_speech: n
 definitions:
 - meaning_id: hak
-  meaning_en: duty, right
-examples: []
-etymology: ''
-related_words: []
+  meaning_en: right
+- meaning_id: serupa untuk menghalau hewan
+  meaning_en: similarly, used to drive off animals
+- meaning_id: meuhak-hak ternganga, terbuka (untuk mulut orang yang tertawa terbahak-bahak)
+  meaning_en: gaping wide open, open wide (of the mouth of someone roaring with laughter)
+- meaning_id: teukhên meu -
+  meaning_en: ''
+- meaning_id: tertawa terbahak-bahak
+  meaning_en: to roar with laughter
+examples:
+- aceh: nyang mée tapa-jôh cit hak Allah
+  jawi: ''
+  id: nyang keu nyang sah, hê seedara! Janganlah Anda makan hak (sesama) anak Adam, di hari kemudian tubuh
+    Anda akan dibinasakan dl neraka
+  en: O brother, do not consume what belongs to your fellow man; on the last day your body will be destroyed
+    in hell
+etymology: Arabic loanword; the Jawi form given here is the Arabic etymon.
+related_words:
+- haih
+- gatib
+- hôh
+- hah
+- hok-hok
+- khak
 dialect_notes: ''
-source: 'Daud, Bukhari & Mark Durie. Kamus Basa Acèh = Kamus Bahasa Aceh: Acehnese–Indonesian–English Thesaurus.
-  Pacific Linguistics C-151, 1999, p. 16.'
-date_added: '2026-07-20'
+source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
+  Pendidikan dan Kebudayaan, 1985, hlm. 274, 275'
+date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: ''
+language_uncertain: true
+extraction_notes: 'Source gives this only as a cross-reference (→ haih); no independent definition is
+  printed, so meaning fields are left blank rather than guessed. Homonym 2 in the source (printed as a
+  superscript numeral before the headword). Jawi transliteration is AI-generated, not from source — needs
+  verification by a Jawi-literate reviewer. Part of speech not stated in the source; left blank. Language
+  flagged uncertain: this is an Arabic loanword shared with Indonesian. It is listed as a headword in
+  an Acehnese dictionary, so it is treated as naturalised Acehnese, but a reviewer should confirm. | Homonym
+  1 in the source (printed as a superscript numeral before the headword). Jawi transliteration is AI-generated,
+  not from source — needs verification by a Jawi-literate reviewer. Language flagged uncertain: this is
+  an Arabic loanword shared with Indonesian. It is listed as a headword in an Acehnese dictionary, so
+  it is treated as naturalised Acehnese, but a reviewer should confirm. | Homonym 2 in the source (printed
+  as a superscript numeral before the headword). Jawi transliteration is AI-generated, not from source
+  — needs verification by a Jawi-literate reviewer. Part of speech not stated in the source; left blank.
+  Language flagged uncertain: this is an Arabic loanword shared with Indonesian. It is listed as a headword
+  in an Acehnese dictionary, so it is treated as naturalised Acehnese, but a reviewer should confirm.
+  | Homonym 3 in the source (printed as a superscript numeral before the headword). Jawi transliteration
+  is AI-generated, not from source — needs verification by a Jawi-literate reviewer. Part of speech not
+  stated in the source; left blank. Language flagged uncertain: this is an Arabic loanword shared with
+  Indonesian. It is listed as a headword in an Acehnese dictionary, so it is treated as naturalised Acehnese,
+  but a reviewer should confirm.'

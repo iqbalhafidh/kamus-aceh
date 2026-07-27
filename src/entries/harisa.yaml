@@ -1,0 +1,29 @@
+headword: harisa
+jawi: هريسة
+alt_spelling: []
+ipa: ''
+part_of_speech: n
+definitions:
+- meaning_id: harisa, sejenis makanan Arab
+  meaning_en: harisa (a wheat-and-meat porridge), a kind of Arab dish
+examples:
+- aceh: tob harisa
+  jawi: ''
+  id: menumbuk atau memasak harisa
+  en: to pound or cook harisa
+- aceh: tamsé saka deungon susu, tamsé madu ngon harisa
+  jawi: ''
+  id: (kerukunan suami istri itu) laksana gula dng susu dan madu dng harisa
+  en: (the harmony of husband and wife is) like sugar with milk, and honey with harisa
+etymology: Arabic loanword; the Jawi form given here is the Arabic etymon.
+related_words: []
+dialect_notes: ''
+source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
+  Pendidikan dan Kebudayaan, 1985, hlm. 283'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+language_uncertain: true
+extraction_notes: 'Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate
+  reviewer. Language flagged uncertain: this is an Arabic loanword shared with Indonesian. It is listed
+  as a headword in an Acehnese dictionary, so it is treated as naturalised Acehnese, but a reviewer should
+  confirm.'

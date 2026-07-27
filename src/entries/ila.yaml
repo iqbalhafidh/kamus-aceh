@@ -1,17 +1,33 @@
 headword: ila
 jawi: ''
-alt_spelling: []
+alt_spelling:
+- hila
 ipa: ''
-part_of_speech: ''
+part_of_speech: v
 definitions:
-- meaning_id: ela, ukuran setengah depa
-  meaning_en: ell (from finger tip to elbow)
-examples: []
+- meaning_id: ela, jarak dari tengah dada sampai ke ujung jari tengah jika direnggangkan ke samping, (kira-kira
+    setengah deupa)
+  meaning_en: ell, the distance from the middle of the chest to the tip of the middle finger when the
+    arm is stretched sideways, (about half a fathom)
+examples:
+- aceh: ta ila ija nyoe padum panyang
+  jawi: ''
+  id: Ukurlah berapa panjang kain ini
+  en: Measure how long this cloth is
+- aceh: meu ila
+  jawi: ''
+  id: ila, berela-ela
+  en: by the ell
+- aceh: jibloe ija nyan meu ila ila
+  jawi: ''
+  id: Ia membeli kain itu berela-ela panjangnya
+  en: He bought that cloth by the ell
 etymology: ''
 related_words: []
 dialect_notes: ''
-source: 'Daud, Bukhari & Mark Durie. Kamus Basa Acèh = Kamus Bahasa Aceh: Acehnese–Indonesian–English Thesaurus.
-  Pacific Linguistics C-151, 1999, p. 86.'
-date_added: '2026-07-20'
+source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
+  Pendidikan dan Kebudayaan, 1985, hlm. 309'
+date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: ''
+extraction_notes: 'Jawi left blank: the source is Latin-script only and no Jawi form is printed for this
+  entry.'

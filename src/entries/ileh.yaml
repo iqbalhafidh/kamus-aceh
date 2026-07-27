@@ -1,0 +1,39 @@
+headword: iléh
+jawi: ''
+alt_spelling:
+- hilé
+- ilèh
+ipa: ''
+part_of_speech: v
+definitions:
+- meaning_id: mengalir
+  meaning_en: to flow
+- meaning_id: menuruti arus ke bawah
+  meaning_en: to follow the current downstream
+- meaning_id: nyah
+  meaning_en: ''
+- meaning_id: musnah
+  meaning_en: destroyed, annihilated
+- meaning_id: lenyap
+  meaning_en: to vanish
+- meaning_id: ikan belut besar
+  meaning_en: a large eel
+examples:
+- aceh: ie krueng nyoe tajam that
+  jawi: ''
+  id: Air sungai ini mengalir deras sekali
+  en: This river flows very swiftly
+- aceh: panè salèh lé that iléh boh lupieng u kuala
+  jawi: ''
+  id: Dr mana agaknya sangat
+  en: Where might it be from
+etymology: ''
+related_words:
+- timon
+dialect_notes: ''
+source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
+  Pendidikan dan Kebudayaan, 1985, hlm. 308, 310'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+extraction_notes: 'Jawi left blank: the source is Latin-script only and no Jawi form is printed for this
+  entry.'

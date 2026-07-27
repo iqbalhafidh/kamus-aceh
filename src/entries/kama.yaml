@@ -2,16 +2,27 @@ headword: kama
 jawi: ''
 alt_spelling: []
 ipa: ''
-part_of_speech: ''
+part_of_speech: n
 definitions:
-- meaning_id: kamar
+- meaning_id: bulan (dalam hikayat)
+  meaning_en: month (in hikayat)
+- meaning_id: kamar, bilik
   meaning_en: room
-examples: []
+examples:
+- aceh: êh lôn toe ngon kama êh adêk
+  jawi: ''
+  id: kamar tidur saya dekat dengan kamar tidur adik
+  en: my bedroom is next to my younger sibling's
 etymology: ''
-related_words: []
-dialect_notes: ''
-source: 'Daud, Bukhari & Mark Durie. Kamus Basa Acèh = Kamus Bahasa Aceh: Acehnese–Indonesian–English Thesaurus.
-  Pacific Linguistics C-151, 1999, p. 78.'
-date_added: '2026-07-20'
+related_words:
+- bilêk
+dialect_notes: 'Marked (dl hik) in the source: attested in hikayat, the classical Acehnese narrative verse
+  register.'
+source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
+  Pendidikan dan Kebudayaan, 1985, hlm. 370'
+date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: ''
+extraction_notes: 'Homonym 1 in the source (printed as a superscript numeral before the headword). Jawi
+  left blank: the source is Latin-script only and no Jawi form is printed for this entry. | Homonym 2
+  in the source (printed as a superscript numeral before the headword). Jawi left blank: the source is
+  Latin-script only and no Jawi form is printed for this entry.'

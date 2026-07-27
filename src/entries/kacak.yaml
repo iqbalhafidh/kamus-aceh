@@ -2,16 +2,42 @@ headword: kacak
 jawi: ''
 alt_spelling: []
 ipa: ''
-part_of_speech: ''
+part_of_speech: v
 definitions:
-- meaning_id: ancam
-  meaning_en: threaten
-examples: []
+- meaning_id: mengacu, mengancam, mengamang (tindakan pertama dengan tangan, kemudian dengan senjata dan
+    sebagainya jika hendak memegang memukul dan sebagainya seseorang). membuat acara, (juga dengan kata-kata),
+    bercakap angin
+  meaning_en: to aim at, to threaten, to threaten, first with the hand, then with a weapon and so forth,
+    when about to seize or strike someone, also with words, to talk idly
+examples:
+- aceh: peue ta kacak, tatakteu!
+  jawi: ''
+  id: Apa yg Anda ancam, (jika berani) peranglah!
+  en: What are you threatening? If you dare, then fight!
+- aceh: lém atau paig kacak
+  jawi: ''
+  id: tukang cakap angin (hanya berani mengancam), tetapi tidak sampai bertindak
+  en: a windbag who only threatens and never acts
+- aceh: kacak keumunaih soh
+  jawi: ''
+  id: mengancam dengan senapan kosong, yi membuat
+  en: to threaten with an unloaded gun
+- aceh: bek meung kacak
+  jawi: ''
+  id: mantong, bak na buet! Jangan bercakap angin saja, perlihatkanlah perbuatan Anda
+  en: do not merely talk, show what you can do
+- aceh: Meu kacak
+  jawi: ''
+  id: kacak, melakukan kacak, mengancam
+  en: to make a threatening gesture
 etymology: ''
-related_words: []
+related_words:
+- agak
+- gamak
 dialect_notes: ''
-source: 'Daud, Bukhari & Mark Durie. Kamus Basa Acèh = Kamus Bahasa Aceh: Acehnese–Indonesian–English Thesaurus.
-  Pacific Linguistics C-151, 1999, p. 20.'
-date_added: '2026-07-20'
+source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
+  Pendidikan dan Kebudayaan, 1985, hlm. 362'
+date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: ''
+extraction_notes: 'Jawi left blank: the source is Latin-script only and no Jawi form is printed for this
+  entry.'

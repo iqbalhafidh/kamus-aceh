@@ -2,16 +2,49 @@ headword: '''iek'
 jawi: ''
 alt_spelling: []
 ipa: ''
-part_of_speech: ''
+part_of_speech: n
 definitions:
-- meaning_id: kencing, air seni
+- meaning_id: air seni
   meaning_en: urine
-examples: []
+examples:
+- aceh: tôh 'iek
+  jawi: ''
+  id: membuang air kecil
+  en: to throw away water small
+- aceh: panca 'iek (pancé 'iek)
+  jawi: ''
+  id: kencing sambil berdiri
+  en: to urinate while to stand
+- aceh: ulèe 'iek
+  jawi: ''
+  id: kancing pertama setelah orang bangun tidur
+  en: the first button after waking
+- aceh: sakét meutheun 'iek
+  jawi: ''
+  id: penyakit kencing tertahan
+  en: retention of urine
+- aceh: sidom
+  jawi: ''
+  id: (hrf) kencing semut = hujan rintik-rintik, gerimis
+  en: (literally) ant's urine = a fine drizzle
+- aceh: meu 'iek
+  jawi: ''
+  id: berkencing
+  en: to urinate
+- aceh: peu 'iek
+  jawi: ''
+  id: mengencingi
+  en: to urinate on
 etymology: ''
-related_words: []
+related_words:
+- udeueng
+- geureumeuih
+- ujeuen
+- èk
 dialect_notes: ''
-source: 'Daud, Bukhari & Mark Durie. Kamus Basa Acèh = Kamus Bahasa Aceh: Acehnese–Indonesian–English Thesaurus.
-  Pacific Linguistics C-151, 1999, p. 29.'
-date_added: '2026-07-20'
+source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
+  Pendidikan dan Kebudayaan, 1985, hlm. 305'
+date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: ''
+extraction_notes: 'Jawi left blank: the source is Latin-script only and no Jawi form is printed for this
+  entry.'

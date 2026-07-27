@@ -1,0 +1,107 @@
+headword: had
+jawi: حد
+alt_spelling: []
+ipa: ''
+part_of_speech: n
+definitions:
+- meaning_id: had, batas, penjara
+  meaning_en: limit, boundary, prison
+examples:
+- aceh: pana 'oh had mukim Meuraksa
+  jawi: ''
+  id: '? sampai di manakah batas mukim Meuraksa?'
+  en: how far does the boundary of the Meuraksa district reach?
+- aceh: pana 'oh ) tameutanggōh, tabōh had
+  jawi: ''
+  id: sampai kapan Anda meminta penangguhannya, tentu kanlah waktunya
+  en: how long will you ask for postponement? fix the time
+- aceh: pana 'oh had matēji? had akhe' leuhō
+  jawi: ''
+  id: Kapan ia meninggal? Akhir waktu leuhō
+  en: When did he die? At the end of the leuhō prayer time
+- aceh: ka tōk had (ka 'etnan had)
+  jawi: ''
+  id: sudah sampai waktunya atau ajalnya
+  en: his time or his appointed death has come
+- aceh: ka tok had, trōih had
+  jawi: ''
+  id: sudah tiba waktu yg ditentukan utk suatu hal
+  en: the time fixed for something has arrived
+- aceh: ka tōk had talō n-ggroe Acēh
+  jawi: ''
+  id: Sudah tiba waktunya, kerajaan Aceh dapat dikalahkan
+  en: The time had come when the kingdom of Aceh could be defeated
+- aceh: hana had ngon hingga
+  jawi: ''
+  id: tidak ada batasnya, tidak terbatas
+  en: it has no limit, unlimited
+- aceh: si Pulan ka dalam had (si Pulan ka geubōh lam had)
+  jawi: ''
+  id: Si Polan sudah dipenjarakan
+  en: So-and-so has been imprisoned
+- aceh: ubē nyang ka lōn had
+  jawi: ''
+  id: Sejauh yg sudah saya batasi atau tentukan
+  en: As far as I have limited or determined
+- aceh: ji had bu
+  jawi: ''
+  id: Ia membatasi makannya
+  en: He limits his eating
+- aceh: h'an ēk soe had padum na malaikat nyang Neupeujeut lē Tuhan
+  jawi: ''
+  id: Tidak ada ug dpt menentukan berapa banyak malaikat yg dijadikan oleh Tuhan
+  en: No one can determine how many angels God has created
+- aceh: lē
+  jawi: ''
+  id: ( dl hi ), cukup
+  en: (in hikayat), enough
+- aceh: taiemkeu aneuk, had lē tamoe!
+  jawi: ''
+  id: Diamlah Nak, jangan lagi engkau menangis
+  en: Be quiet, child, do not cry any more
+- aceh: meu had
+  jawi: ''
+  id: terbatas, tertentu
+  en: limited, fixed
+- aceh: bak meu had tameutanggōh
+  jawi: ''
+  id: Hendaknya ada batasnya Anda meminta penundaan
+  en: There should be a limit to your asking for postponement
+- aceh: meu had poh sipōh tōk gobnyan
+  jawi: ''
+  id: Ia akan tiba tepat pukul sepuluh
+  en: He will arrive exactly at ten o'clock
+- aceh: hana meu had jiteuka
+  jawi: ''
+  id: tidak tentu tibanya
+  en: his arrival is uncertain
+- aceh: peu had
+  jawi: ''
+  id: membatasi
+  en: to limit
+- aceh: bēk tapeu had gob
+  jawi: ''
+  id: Jangan Anda membiarkan orang berpantang
+  en: Do not make people go without
+- aceh: bēk tapeu had aneukteu jipumajōh
+  jawi: ''
+  id: Janganlah Anda membatasi anak Anda makan
+  en: Do not restrict your child's eating
+- aceh: teu had
+  jawi: ''
+  id: berpantang
+  en: to abstain
+etymology: Arabic loanword; the Jawi form given here is the Arabic etymon.
+related_words:
+- grak
+- gōi
+dialect_notes: ''
+source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
+  Pendidikan dan Kebudayaan, 1985, hlm. 271'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+language_uncertain: true
+extraction_notes: 'Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate
+  reviewer. Language flagged uncertain: this is an Arabic loanword shared with Indonesian. It is listed
+  as a headword in an Acehnese dictionary, so it is treated as naturalised Acehnese, but a reviewer should
+  confirm.'

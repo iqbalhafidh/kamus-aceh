@@ -1,0 +1,28 @@
+headword: kanji
+jawi: ''
+alt_spelling: []
+ipa: ''
+part_of_speech: n
+definitions:
+- meaning_id: bubur tepung (biasanya dibubuhi bermacam-macam bumbu ke dalamnya)
+  meaning_en: a flour porridge, usually with various spices added
+examples:
+- aceh: kanji leumak
+  jawi: ''
+  id: bubur santan dengan garam, kanji manèh, mameh, bubur santan dng gula
+  en: coconut-milk porridge with salt; with sugar, a sweet porridge
+- aceh: kanji nira
+  jawi: ''
+  id: bubur santan, gula dng nira enau, kanji ie bu peudaih, bubur dng rempah-rempah dan daun-daunan,
+    kanji rumbi, rumi, bubur dng minyeuk sapi, bubur ayam dng rempah-rempah
+  en: coconut porridge with sugar and palm sap; a spiced porridge with herbs; a porridge with ghee, or
+    a spiced chicken porridge
+etymology: ''
+related_words: []
+dialect_notes: ''
+source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
+  Pendidikan dan Kebudayaan, 1985, hlm. 375'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+extraction_notes: 'Jawi left blank: the source is Latin-script only and no Jawi form is printed for this
+  entry.'

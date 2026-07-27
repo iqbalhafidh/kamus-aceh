@@ -2,16 +2,67 @@ headword: keue
 jawi: ''
 alt_spelling: []
 ipa: ''
-part_of_speech: ''
+part_of_speech: n
 definitions:
-- meaning_id: depan
-  meaning_en: front
-examples: []
+- meaning_id: bahagian depan, ruang depan, (biasanya dengan kata depan)
+  meaning_en: portion front, space front, usually with a preposition
+- meaning_id: di hikayat juga peukeue dan
+  meaning_en: in hikayat also peukeue
+- meaning_id: supaya bersajak
+  meaning_en: so as to rhyme
+- meaning_id: ko)
+  meaning_en: ''
+examples:
+- aceh: likôt
+  jawi: ''
+  id: bahagian depan dan belakang, muka dan belakang
+  en: front and back
+- aceh: likôt
+  jawi: ''
+  id: Cucilah (ump mangkok) muka dan belakang, yi bahagian bawah dan atas
+  en: Wash it inside and out, that is, underneath and on top
+- aceh: di keue
+  jawi: ''
+  id: dimuka
+  en: face
+- aceh: ji jak di-loh
+  jawi: ''
+  id: Ia berjalan di depan saya
+  en: He walks ahead of me
+- aceh: jiteuka di keue lôn
+  jawi: ''
+  id: Ia datang dari muka saya
+  en: He came towards me from the front
+- aceh: mupôt-pôt meuseurapa
+  jawi: ''
+  id: Siapa yg berjalan di depan akan menjadi nenek pangang yg besar matanya
+  en: Whoever walks in front will become a roasted crone with great staring eyes
+- aceh: neujak droeneu u keue
+  jawi: ''
+  id: Berjalanlah Anda ke muka
+  en: Walk on ahead
+- aceh: meu keue
+  jawi: ''
+  id: dng bahagian muka menuju ke suatu tempat, berhadapan, bertentangan, berseberangan
+  en: with the front turned towards a place; facing, opposite, across from
+- aceh: jisurôt meu keue hana jipeulikôt
+  jawi: ''
+  id: Ia mundur ke belakang, tidak membelakangi musuh
+  en: He drew back without turning his back on the enemy
+- aceh: meungnyoe hana meu keue h'an lôn pateh
+  jawi: ''
+  id: Saya tidak percaya jika tidak berhadap-hadapan
+  en: I do not believe it unless we are face to face
+- aceh: meu keue mata jicarôt, hana mubalaih
+  jawi: ''
+  id: Ia dimaki habis-habis, tetapi
+  en: He was abused roundly, but
 etymology: ''
 related_words: []
 dialect_notes: ''
-source: 'Daud, Bukhari & Mark Durie. Kamus Basa Acèh = Kamus Bahasa Aceh: Acehnese–Indonesian–English Thesaurus.
-  Pacific Linguistics C-151, 1999, p. 87.'
-date_added: '2026-07-20'
+source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
+  Pendidikan dan Kebudayaan, 1985, hlm. 396'
+date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: ''
+extraction_notes: 'Jawi left blank: the source is Latin-script only and no Jawi form is printed for this
+  entry.'

@@ -1,0 +1,79 @@
+headword: jéh
+jawi: ''
+alt_spelling: []
+ipa: ''
+part_of_speech: ''
+definitions:
+- meaning_id: kata penunjuk untuk menyatakan orang atau benda yang berhubungan dengan orang ketiga
+  meaning_en: a demonstrative referring to a person or thing associated with the third person
+- meaning_id: itu
+  meaning_en: ''
+- meaning_id: sana
+  meaning_en: there
+- meaning_id: di sana
+  meaning_en: at there
+examples:
+- aceh: rumoh
+  jawi: ''
+  id: itu rumah
+  en: that is a house
+- aceh: rumoh jéh
+  jawi: ''
+  id: rumah itu
+  en: that house
+- aceh: ban
+  jawi: ''
+  id: spt itu
+  en: like that
+- aceh: bé
+  jawi: ''
+  id: sebesar itu
+  en: that big
+- aceh: uroejéh
+  jawi: ''
+  id: hari itu, ketika itu, beberapa waktu yg lalu
+  en: that day, at that time, some time ago
+- aceh: yôh jéh
+  jawi: ''
+  id: pd masa itu
+  en: at that time
+- aceh: baroesajéh
+  jawi: ''
+  id: kemarin dahulu
+  en: the day before yesterday
+- aceh: gobjéh
+  jawi: ''
+  id: orang yg diperkatakan pd waktu itu
+  en: the person being spoken of at the time
+- aceh: rumoh
+  jawi: ''
+  id: itu rumah, disana ada rumah
+  en: that is a house, there is a house there
+- aceh: padé gata teungoh keubeue rot
+  jawi: ''
+  id: Tanaman padi Anda yg berada di sana sedang dimakan kerbau
+  en: Your rice crop over there is being eaten by buffalo
+- aceh: padé gata
+  jawi: ''
+  id: Itu (di sana) tanaman padi Anda yg berada di sana
+  en: That over there is your rice crop
+- aceh: ngon nyoe, toh rayek?
+  jawi: ''
+  id: Itu dan ini, mana yg lebih besar?
+  en: That one and this one, which is bigger?
+- aceh: uroe jéh meudéh, uroe nyoe meunoe
+  jawi: ''
+  id: Ketika itu begitu, hari ini begini
+  en: Then it was so, today it is thus
+etymology: ''
+related_words:
+- déh
+- nyan
+- nyoe
+dialect_notes: ''
+source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
+  Pendidikan dan Kebudayaan, 1985, hlm. 335'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+extraction_notes: 'Jawi left blank: the source is Latin-script only and no Jawi form is printed for this
+  entry. Part of speech not stated in the source; left blank.'

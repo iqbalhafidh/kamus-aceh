@@ -1,19 +1,48 @@
----
-headword: "jeumeuat"
-jawi: ""
-alt_spelling: []
-ipa: "/jɯ.mɯ.at/"
-part_of_speech: "n"
-language_uncertain: false
+headword: jeumeuat
+jawi: ''
+alt_spelling:
+- jeumeu'at
+- jeumeu'ah
+ipa: ''
+part_of_speech: n
 definitions:
-  - meaning_id: "jumat"
-    meaning_en: ""
+- meaning_id: hari Jum'at
+  meaning_en: day Friday
 examples:
-  []
-etymology: ""
-related_words: []
-dialect_notes: ""
-source: "Kamus Bahasa Aceh Daring (Balai Bahasa Provinsi Aceh), 'Entri huruf — jeumeuat', URL: https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/J?page=9 (diakses 20 Juli 2026); halaman tambahan: J?page=11, J?page=12, J?page=13, J?page=14, J?page=15, J?page=16, J?page=17, J?page=18, J?page=19, J?page=2, J?page=3, J?page=4, J?page=5, J?page=6, J?page=7, J?page=8, J?page=9"
-date_added: "2026-07-20"
-contributor: "AI-extracted — needs human review"
-extraction_notes: "Diekstrak dari 18 halaman sumber (https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/J?page=10, https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/J?page=11, https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/J?page=12, https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/J?page=13, https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/J?page=14, https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/J?page=15, https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/J?page=16, https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/J?page=17, https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/J?page=18, https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/J?page=19, https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/J?page=2, https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/J?page=3, https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/J?page=4, https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/J?page=5, https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/J?page=6, https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/J?page=7, https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/J?page=8, https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/J?page=9). Ditemukan pada beberapa halaman; definisi dan contoh digabungkan. Tidak ada bentuk Jawi dalam sumber — dibiarkan kosong sesuai aturan."
+- aceh: seumayang jeumeuat
+  jawi: ''
+  id: sembahyang Jum'at
+  en: ritual prayer Friday
+- aceh: si jeumeuat (siseun jeumeuat)
+  jawi: ''
+  id: sepekan
+  en: a week
+- aceh: geunab-nab jeumeuat sigo
+  jawi: ''
+  id: sepekan sekali
+  en: once a week
+- aceh: geunab-nab uroe jeumeuat sigo
+  jawi: ''
+  id: setiap hari Jum'at sekali
+  en: every day Friday very
+- aceh: meu jeumeuat
+  jawi: ''
+  id: berjum'at-jum'at, berpekan-pekan
+  en: week after week
+- aceh: meu jeumeuat lôn preh jih, goh lom trôk
+  jawi: ''
+  id: Berpekan-pekan saya menunggunya, (tetapi) ia belum tiba
+  en: For weeks I waited for him, but he has not arrived
+etymology: ''
+related_words:
+- aleuhat
+- jeumeuat
+dialect_notes: ''
+source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
+  Pendidikan dan Kebudayaan, 1985, hlm. 339'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+extraction_notes: 'Jawi left blank: the source is Latin-script only and no Jawi form is printed for this
+  entry. | Source gives this only as a cross-reference (→ jeumeuat); no independent definition is printed,
+  so meaning fields are left blank rather than guessed. Jawi left blank: the source is Latin-script only
+  and no Jawi form is printed for this entry. Part of speech not stated in the source; left blank.'

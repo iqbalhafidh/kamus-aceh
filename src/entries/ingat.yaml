@@ -2,16 +2,50 @@ headword: ingat
 jawi: ''
 alt_spelling: []
 ipa: ''
-part_of_speech: ''
+part_of_speech: v
 definitions:
 - meaning_id: ingat
   meaning_en: remember
-examples: []
+examples:
+- aceh: bak na ta ingat keu Allah
+  jawi: ''
+  id: Hendaklah Anda ingat kpd Allah
+  en: You should remember God
+- aceh: ingat keu dônya
+  jawi: ''
+  id: mengingat kpd halhal keduniaan
+  en: to be mindful of worldly things
+- aceh: hana lôn ingat lé
+  jawi: ''
+  id: Saya tidak mengingat lagi. hana ingat lé, tidak teringat lagi = sudah lupa
+  en: I no longer remember
+- aceh: lam dumpeue buet patot tameu ingat ingat dilée
+  jawi: ''
+  id: Dl segala hal haruslah terlebih dulu Anda pertimbangkan. peu ingat, mempertimbangkan, menasehati
+  en: In everything you must first consider carefully
+- aceh: lôn peu ingat
+  jawi: ''
+  id: sakét mangat droeteu rasa, Saya (hanya) mempertimbangkan, sakit dan senang Andalah yg merasakannya.
+    pantôn peu ingat, pantun nasihat
+  en: I only advise; the pain and the pleasure are yours to feel
+- aceh: gadoh peu ingat
+  jawi: ''
+  id: tidak teringat lagi, lupa
+  en: no longer remembered, forgotten
+- aceh: h'an lontuan tupeue lé
+  jawi: ''
+  id: ka gadoh peu ingat, Saya tidak tahu lagi, saya sudah lupa. teu ingat, teringat
+  en: I no longer know, I have forgotten
+- aceh: ka teu ingat lôn
+  jawi: ''
+  id: Saya sudah teringat kembali. ingatan, ingatan
+  en: I have remembered it again
 etymology: ''
 related_words: []
 dialect_notes: ''
-source: 'Daud, Bukhari & Mark Durie. Kamus Basa Acèh = Kamus Bahasa Aceh: Acehnese–Indonesian–English Thesaurus.
-  Pacific Linguistics C-151, 1999, p. 53.'
-date_added: '2026-07-20'
+source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
+  Pendidikan dan Kebudayaan, 1985, hlm. 312'
+date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: ''
+extraction_notes: 'Jawi left blank: the source is Latin-script only and no Jawi form is printed for this
+  entry.'

@@ -1,19 +1,50 @@
----
-headword: "halua"
-jawi: ""
+headword: halua
+jawi: ''
 alt_spelling: []
-ipa: "/ha.lu.wa/"
-part_of_speech: "n"
-language_uncertain: false
+ipa: ''
+part_of_speech: n
 definitions:
-  - meaning_id: "kue manis yg beragam"
-    meaning_en: ""
+- meaning_id: halwa, nama untuk berbagai jenis kue manis
+  meaning_en: sweetmeat, confection, a name for various kinds of sweet cakes
 examples:
-  []
-etymology: ""
+- aceh: drien
+  jawi: ''
+  id: halwa dr daging buah durian dan dikeringkan
+  en: sweetmeat made from durian flesh and dried
+- aceh: meugeunta, halua gr'ing-gr'ing
+  jawi: ''
+  id: halwa dr beras ketan dng minyak sapi dan manisan tebu
+  en: sweetmeat of glutinous rice with ghee and sugar-cane syrup
+- aceh: kacang
+  jawi: ''
+  id: halwa dr beras ketan, gula, air dan kadang (reuteuek duek)
+  en: sweetmeat of glutinous rice, sugar, water and sometimes reuteuek duek
+- aceh: leungong
+  jawi: ''
+  id: halwa dng biji bijan
+  en: sweetmeat with sesame seed
+- aceh: Meulabari
+  jawi: ''
+  id: halwa Malabari, dibuat dr tepung beras, telur, jintan hitan (jeura itam), gula dan air
+  en: Malabar sweetmeat, made of rice flour, egg, black cumin, sugar and water
+- aceh: Meuseukat
+  jawi: ''
+  id: kue Maskat, dibuat dr tepung beras, telur, gula, minyak sapi dan air
+  en: Muscat cake, made of rice flour, egg, sugar, ghee and water
+- aceh: pisang
+  jawi: ''
+  id: dr pisang
+  en: from banana
+- aceh: pulôt
+  jawi: ''
+  id: beras ketan yg dikukus dng gula, dicampur santan, dan dibungkus daun pisang
+  en: glutinous rice steamed with sugar, mixed with coconut milk and wrapped in banana leaf
+etymology: ''
 related_words: []
-dialect_notes: ""
-source: "Kamus Bahasa Aceh Daring (Balai Bahasa Provinsi Aceh), 'Entri huruf — halua', URL: https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/H?page=2 (diakses 20 Juli 2026); halaman tambahan: H?page=11, H?page=12, H?page=13, H?page=14, H?page=15, H?page=16, H?page=17, H?page=18, H?page=19, H?page=2, H?page=3, H?page=4, H?page=5, H?page=6, H?page=7, H?page=8, H?page=9, H"
-date_added: "2026-07-20"
-contributor: "AI-extracted — needs human review"
-extraction_notes: "Diekstrak dari 19 halaman sumber (https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/H?page=10, https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/H?page=11, https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/H?page=12, https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/H?page=13, https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/H?page=14, https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/H?page=15, https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/H?page=16, https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/H?page=17, https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/H?page=18, https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/H?page=19, https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/H?page=2, https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/H?page=3, https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/H?page=4, https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/H?page=5, https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/H?page=6, https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/H?page=7, https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/H?page=8, https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/H?page=9, https://kamusbbpa.kemendikdasmen.go.id/kamus/Aceh/H). Ditemukan pada beberapa halaman; definisi dan contoh digabungkan. Tidak ada bentuk Jawi dalam sumber — dibiarkan kosong sesuai aturan."
+dialect_notes: ''
+source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
+  Pendidikan dan Kebudayaan, 1985, hlm. 277'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+extraction_notes: 'Jawi left blank: the source is Latin-script only and no Jawi form is printed for this
+  entry.'

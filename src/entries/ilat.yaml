@@ -1,17 +1,61 @@
 headword: ilat
 jawi: ''
-alt_spelling: []
+alt_spelling:
+- hilat
+- a
 ipa: ''
 part_of_speech: ''
 definitions:
-- meaning_id: licik
-  meaning_en: tricky
-examples: []
+- meaning_id: curang (umpamanya dalam suatu permainan)
+  meaning_en: deceitful (for example in a certain game)
+examples:
+- aceh: ureueng ilat
+  jawi: ''
+  id: penipu
+  en: a cheat
+- aceh: céng ilat
+  jawi: ''
+  id: dacing yg tidak benar
+  en: a false steelyard
+- aceh: buet gata ilat that
+  jawi: ''
+  id: Perbuatan Anda curang sekali = Anda tidak jujur
+  en: Your conduct is very deceitful = you are not honest
+- aceh: gata tameu 'èn bèk ilat
+  jawi: ''
+  id: Anda tidak boleh bermain curang
+  en: You must not play dishonestly
+- aceh: bak sisèk, bersisik curang, yi sisik-sisik yg terdapat pd burung-burung aduan spt leuek, meureubôk
+  jawi: ''
+  id: yg dianggap tidak menguntungkan pemiliknya, tanda-tanda yg tidak baik
+  en: regarded as unlucky for its owner, an ill omen
+- aceh: bak sisèk tiwaih bak bintang, sangkôt bak ruman sumpah seurapa
+  jawi: ''
+  id: Sisiknya curang, bintangnya sial, tambahan lagi romannya terkutuk
+  en: Its scales are false, its star unlucky, and its look accursed besides
+- aceh: meu ilat
+  jawi: ''
+  id: menipu
+  en: to cheat
+- aceh: peu ilat
+  jawi: ''
+  id: berlaku curang
+  en: to apply deceitful
+- aceh: bèk tapeu ilat gob
+  jawi: ''
+  id: Janganlah membohongi orang
+  en: Do not deceive people
+- aceh: bek tapeu ilat meuneu'en nyan
+  jawi: ''
+  id: Janganlah berlaku curang dl permainan itu
+  en: Do not cheat in that game
 etymology: ''
-related_words: []
+related_words:
+- ilah
 dialect_notes: ''
-source: 'Daud, Bukhari & Mark Durie. Kamus Basa Acèh = Kamus Bahasa Aceh: Acehnese–Indonesian–English Thesaurus.
-  Pacific Linguistics C-151, 1999, p. 49.'
-date_added: '2026-07-20'
+source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
+  Pendidikan dan Kebudayaan, 1985, hlm. 308'
+date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: ''
+extraction_notes: 'Jawi left blank: the source is Latin-script only and no Jawi form is printed for this
+  entry. Part of speech not stated in the source; left blank.'

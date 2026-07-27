@@ -2,16 +2,29 @@ headword: judi
 jawi: ''
 alt_spelling: []
 ipa: ''
-part_of_speech: ''
+part_of_speech: n
 definitions:
-- meaning_id: judi
-  meaning_en: gamble
-examples: []
+- meaning_id: judi, setiap permainan yang meyebabkan orang bertaruh
+  meaning_en: gambling, any game that leads people to wager
+examples:
+- aceh: meu judi
+  jawi: ''
+  id: berjudi, bermain judi
+  en: gambling, to play gambling
+- aceh: si meu judi
+  jawi: ''
+  id: pemain judi
+  en: a gambler
+- aceh: hai, aneuk, bèk tameu judi
+  jawi: ''
+  id: '! Wahai anak, janganlah engkau berjudi!'
+  en: O my son, do not gamble!
 etymology: ''
 related_words: []
 dialect_notes: ''
-source: 'Daud, Bukhari & Mark Durie. Kamus Basa Acèh = Kamus Bahasa Aceh: Acehnese–Indonesian–English Thesaurus.
-  Pacific Linguistics C-151, 1999, p. 18.'
-date_added: '2026-07-20'
+source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
+  Pendidikan dan Kebudayaan, 1985, hlm. 351'
+date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: ''
+extraction_notes: 'Jawi left blank: the source is Latin-script only and no Jawi form is printed for this
+  entry.'

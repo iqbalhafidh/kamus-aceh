@@ -1,17 +1,64 @@
 headword: hadap
-jawi: ''
+jawi: حضور
 alt_spelling: []
 ipa: ''
-part_of_speech: ''
+part_of_speech: v
 definitions:
-- meaning_id: hadap, menghadap
-  meaning_en: face towards
-examples: []
-etymology: ''
-related_words: []
+- meaning_id: menghadap
+  meaning_en: to face
+examples:
+- aceh: ka geu hadap akhirat, Ia sudah menghadapi akhirat. = Ia sudah meninggal, lheueh nyan geu hadap
+    ateueh kamoe
+  jawi: ''
+  id: Setelah itu ia menghadap kami
+  en: After that he came before us
+- aceh: ka lheueh lōn hadap raja
+  jawi: ''
+  id: Saya sudah menghadap raja
+  en: I have already presented myself before the king
+- aceh: lōn ka saho hadap
+  jawi: ''
+  id: (hrf) Saya menghadapi satu arah (= Saya hanya mempunyai satu tujuan)
+  en: (literally) I face one direction (= I have only one aim)
+- aceh: ji noe lōn ka saho hadap, aneuk lōn bandum ka lheueh lōn peukawēn, lōn keumeung jak u haji
+  jawi: ''
+  id: Sekarang saya mempunyai satu tujuan, semua anak saya telah saya kawinkan, saya hendak menunaikan
+    ibadah haji
+  en: 'Now I have one aim: I have married off all my children and wish to perform the hajj'
+- aceh: lōn na dua ho hadap
+  jawi: ''
+  id: Saya menghadapi dua arah (= saya mempunyai dua maksud)
+  en: I face two directions (= I have two purposes)
+- aceh: meu hadap
+  jawi: ''
+  id: menghadapi sesuatu
+  en: face something
+- aceh: meu hadap kiblat
+  jawi: ''
+  id: menghadap kiblat
+  en: to face the qibla
+- aceh: lōn ka meu hadap ngon gobnyan
+  jawi: ''
+  id: Saya sudah berhadapan dng dia
+  en: I have already faced him
+- aceh: peu hadap
+  jawi: ''
+  id: menghadapkan
+  en: face
+- aceh: neupeu hadap ureueng nyang bak raja
+  jawi: ''
+  id: Hadapkan orang itu kpd raja. hadapan, hadapan
+  en: Bring that man before the king
+etymology: Arabic loanword; the Jawi form given here is the Arabic etymon.
+related_words:
+- cabeueng
 dialect_notes: ''
-source: 'Daud, Bukhari & Mark Durie. Kamus Basa Acèh = Kamus Bahasa Aceh: Acehnese–Indonesian–English Thesaurus.
-  Pacific Linguistics C-151, 1999, p. 37.'
-date_added: '2026-07-20'
+source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
+  Pendidikan dan Kebudayaan, 1985, hlm. 272'
+date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: ''
+language_uncertain: true
+extraction_notes: 'Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate
+  reviewer. Language flagged uncertain: this is an Arabic loanword shared with Indonesian. It is listed
+  as a headword in an Acehnese dictionary, so it is treated as naturalised Acehnese, but a reviewer should
+  confirm.'

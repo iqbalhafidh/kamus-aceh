@@ -1,17 +1,54 @@
 headword: hajat
-jawi: ''
-alt_spelling: []
+jawi: حاجة
+alt_spelling:
+- ayat
 ipa: ''
-part_of_speech: ''
+part_of_speech: n
 definitions:
-- meaning_id: hajad, maksud
-  meaning_en: wish
-examples: []
-etymology: ''
-related_words: []
+- meaning_id: hajat, keperluan, maksud, niat, nazat
+  meaning_en: need, necessity, intention, vow
+examples:
+- aceh: 'inseuen, kaôi nada, niet: lôn na hajat'
+  jawi: ''
+  id: Saya menginginkan sesuatu, saya mempunyai niat
+  en: I desire something, I have an intention
+- aceh: lôn lôn keumeung jak keunan, Maksud saya hendak pergi ke sana, kala hajat
+  jawi: ''
+  id: melakukan hajat
+  en: to perform need
+- aceh: puasa hajat
+  jawi: ''
+  id: puasa sunat utk memenuhi suatu maksud yg telah dicapai atau yg diharapkan akan tercapai
+  en: a voluntary fast to fulfil a purpose already achieved or hoped for
+- aceh: seumayang hajat
+  jawi: ''
+  id: sembahyang hajat
+  en: ritual prayer need
+- aceh: peue ta hajat, tapeugah reujang
+  jawi: ''
+  id: Katakanlah segera apa yg Anda inginkan
+  en: Say at once what you want
+- aceh: lôn that lôn meu hajat keu inong nyan
+  jawi: ''
+  id: Saya berkeinginan sekali kpd wanita itu = Saya ingin sekali mengawininya
+  en: I greatly desire that woman = I very much wish to marry her
+- aceh: tameu hajat, bacut (tameu hajat, meu hajat bacut)
+  jawi: ''
+  id: Mari kita mengadakan nazar sedikit
+  en: Let us make a small vow
+etymology: Arabic loanword; the Jawi form given here is the Arabic etymon.
+related_words:
+- inseuen
+- kaôi nada
+- niet
+- get
 dialect_notes: ''
-source: 'Daud, Bukhari & Mark Durie. Kamus Basa Acèh = Kamus Bahasa Aceh: Acehnese–Indonesian–English Thesaurus.
-  Pacific Linguistics C-151, 1999, p. 50.'
-date_added: '2026-07-20'
+source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
+  Pendidikan dan Kebudayaan, 1985, hlm. 274'
+date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: ''
+language_uncertain: true
+extraction_notes: 'Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate
+  reviewer. Language flagged uncertain: this is an Arabic loanword shared with Indonesian. It is listed
+  as a headword in an Acehnese dictionary, so it is treated as naturalised Acehnese, but a reviewer should
+  confirm.'

@@ -2,18 +2,51 @@ headword: jroh
 jawi: ''
 alt_spelling: []
 ipa: ''
-part_of_speech: ''
+part_of_speech: a
 definitions:
-- meaning_id: hebat, baik sekali
-  meaning_en: excellent
-- meaning_id: baik
-  meaning_en: fine
-examples: []
+- meaning_id: indah, cantik, bagus, baik
+  meaning_en: beautiful, pretty, fine, good
+examples:
+- aceh: rupa, prangeui, cantik rupa, perangai, pakri hai
+  jawi: ''
+  id: jroh? Apa khabar, baiklah?
+  en: How are you, well?
+- aceh: meu jroh
+  jawi: ''
+  id: berbaikan, berdamai
+  en: to be reconciled, to make peace
+- aceh: pakon h'an tatêm meu jroh ngon gobnyan
+  jawi: ''
+  id: '? Mengapa Anda tidak mau berbaikan dng dia?'
+  en: Why will you not make peace with him?
+- aceh: gêt tameu jroh bandum geutanyoe sabê-sabê Eseulam
+  jawi: ''
+  id: Sebaiknya kita berbaikan sesama orang-orang Islam
+  en: It is best that we Muslims live at peace with one another
+- aceh: peu jroh
+  jawi: ''
+  id: membaguskan, menyelesaikan, mendamaikan
+  en: to put right, to settle, to reconcile
+- aceh: pat nyang hana gêt, tapeu jroh, Mana-mana yg tidak baik hendaklah Anda perbaiki masêng-masêng
+    peu jroh droe, na galak putroe manyoh mata
+  jawi: ''
+  id: Masingma sing mereka itu membagus-baguskan diri supaya senang dilihat oleh puteri
+  en: Each of them made himself handsome so as to please the princess
+- aceh: neu jroh
+  jawi: ''
+  id: kecantikan
+  en: pretty
+- aceh: si-neu jroh (neu jroh)
+  jawi: ''
+  id: yg secantik-cantiknya, yg paling bagus
+  en: the most beautiful, the finest
 etymology: ''
-related_words: []
+related_words:
+- gèt
 dialect_notes: ''
-source: 'Daud, Bukhari & Mark Durie. Kamus Basa Acèh = Kamus Bahasa Aceh: Acehnese–Indonesian–English Thesaurus.
-  Pacific Linguistics C-151, 1999, p. 6; p. 48.'
-date_added: '2026-07-20'
+source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
+  Pendidikan dan Kebudayaan, 1985, hlm. 349'
+date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: ''
+extraction_notes: 'Jawi left blank: the source is Latin-script only and no Jawi form is printed for this
+  entry.'

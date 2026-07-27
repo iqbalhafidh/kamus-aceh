@@ -1,17 +1,37 @@
 headword: junub
 jawi: ''
-alt_spelling: []
+alt_spelling:
+- junut
+- jeuneut
 ipa: ''
-part_of_speech: ''
+part_of_speech: a
 definitions:
-- meaning_id: junub
-  meaning_en: ritual impurity
-examples: []
+- meaning_id: dalam keadaan tidak suci untuk melakukan salat setelah berhubungan kelamin
+  meaning_en: in a state of impurity for prayer after sexual intercourse
+examples:
+- aceh: badan lôn lam junub
+  jawi: ''
+  id: Keadaan saya tidak suci
+  en: I am in a state of ritual impurity
+- aceh: lôn mantong junub bak badan, hana lôn manoe lom
+  jawi: ''
+  id: Saya masih belum suci, saya belum lagi mandi (jenabat)
+  en: I am not yet purified, I have not yet performed the ablution
+- aceh: manoe junub
+  jawi: ''
+  id: mandi jenabat
+  en: the ablution after intercourse
+- aceh: peu junub
+  jawi: ''
+  id: membuat dl keadaan tidak suci
+  en: to render ritually impure
 etymology: ''
-related_words: []
+related_words:
+- hada-ih
 dialect_notes: ''
-source: 'Daud, Bukhari & Mark Durie. Kamus Basa Acèh = Kamus Bahasa Aceh: Acehnese–Indonesian–English Thesaurus.
-  Pacific Linguistics C-151, 1999, p. 24.'
-date_added: '2026-07-20'
+source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
+  Pendidikan dan Kebudayaan, 1985, hlm. 355'
+date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: ''
+extraction_notes: 'Jawi left blank: the source is Latin-script only and no Jawi form is printed for this
+  entry.'

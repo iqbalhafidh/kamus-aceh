@@ -1,19 +1,61 @@
----
-headword: "jeum"
-jawi: ""
+headword: jeum
+jawi: ''
 alt_spelling: []
-ipa: "/jɯm/"
-part_of_speech: "n"
-language_uncertain: false
+ipa: ''
+part_of_speech: n
 definitions:
-  - meaning_id: "jam"
-    meaning_en: ""
+- meaning_id: jam
+  meaning_en: hour
 examples:
-  []
-etymology: ""
-related_words: []
-dialect_notes: ""
-source: "Kamus Bahasa Aceh Daring (Balai Bahasa Provinsi Aceh), 'Entri huruf — jeum', URL: https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/J?page=9 (diakses 20 Juli 2026); halaman tambahan: J?page=11, J?page=12, J?page=13, J?page=14, J?page=15, J?page=16, J?page=17, J?page=18, J?page=19, J?page=2, J?page=3, J?page=4, J?page=5, J?page=6, J?page=7, J?page=8, J?page=9"
-date_added: "2026-07-20"
-contributor: "AI-extracted — needs human review"
-extraction_notes: "Diekstrak dari 18 halaman sumber (https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/J?page=10, https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/J?page=11, https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/J?page=12, https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/J?page=13, https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/J?page=14, https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/J?page=15, https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/J?page=16, https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/J?page=17, https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/J?page=18, https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/J?page=19, https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/J?page=2, https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/J?page=3, https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/J?page=4, https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/J?page=5, https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/J?page=6, https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/J?page=7, https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/J?page=8, https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/J?page=9). Ditemukan pada beberapa halaman; definisi dan contoh digabungkan. Tidak ada bentuk Jawi dalam sumber — dibiarkan kosong sesuai aturan."
+- aceh: siuroe padum jeum
+  jawi: ''
+  id: '? Berapa jamkah sehari?'
+  en: How many hours are there in a day?
+- aceh: padum jeum èk tōk tajak u gampōng nyan
+  jawi: ''
+  id: '? Berapa jamkah kita atau Anda sampai ke kampung itu?'
+  en: How many hours will it take us to reach that village?
+- aceh: kunci bak ulèe
+  jawi: ''
+  id: jam kantong atau tangan yg dapat dikunci tanpa kunci khusus
+  en: a pocket or wrist watch that can be wound without a special key
+- aceh: kunci ngon aneuk kunci
+  jawi: ''
+  id: jam tangan atau jam kantong yg dapat dikunci dng kunci khusus
+  en: a wrist or pocket watch wound with a special key
+- aceh: ceure-umèn jeum
+  jawi: ''
+  id: kaca jam
+  en: glass hour
+- aceh: cipé jeum
+  jawi: ''
+  id: piring jam
+  en: a clock face
+- aceh: jarōm jeum
+  jawi: ''
+  id: jarum jam
+  en: needle hour
+- aceh: taloe jeum
+  jawi: ''
+  id: rantai jam
+  en: chain hour
+- aceh: batèe jeum (boh jeum)
+  jawi: ''
+  id: bandulan jam
+  en: a clock pendulum
+- aceh: P anoe
+  jawi: ''
+  id: jam pasir
+  en: an hourglass
+etymology: ''
+related_words:
+- minèt poh
+- sikundō
+- tèk-tok
+dialect_notes: ''
+source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
+  Pendidikan dan Kebudayaan, 1985, hlm. 337'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+extraction_notes: 'Jawi left blank: the source is Latin-script only and no Jawi form is printed for this
+  entry.'

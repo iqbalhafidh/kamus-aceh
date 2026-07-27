@@ -2,16 +2,32 @@ headword: jamak
 jawi: ''
 alt_spelling: []
 ipa: ''
-part_of_speech: ''
+part_of_speech: adv
 definitions:
-- meaning_id: jamak, melakukan dua shalat pada waktu yang sama
-  meaning_en: performing two shalat (ritual prayers) at one time
-examples: []
+- meaning_id: memasukkan dalam satu kumpulan
+  meaning_en: to place in one group
+examples:
+- aceh: balé hoka droeneu badum, lôn jamak sigo
+  jawi: ''
+  id: Wahai Anda sekalian, pembicaraan saya ini saya tunjukkan kepada Anda semua
+  en: O all of you, these words of mine are addressed to you all
+- aceh: ureueng jamak
+  jawi: ''
+  id: orang banyak, rakyat jelata
+  en: the multitude, the common people
+- aceh: leuhô ngon asa ka lôn jamak
+  jawi: ''
+  id: Saya telah menyatakan sembahyang lohor dng 'asar
+  en: I have combined the noon and afternoon prayers
 etymology: ''
-related_words: []
+related_words:
+- jawôh
+- dindéng
+- jamah
 dialect_notes: ''
-source: 'Daud, Bukhari & Mark Durie. Kamus Basa Acèh = Kamus Bahasa Aceh: Acehnese–Indonesian–English Thesaurus.
-  Pacific Linguistics C-151, 1999, p. 23.'
-date_added: '2026-07-20'
+source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
+  Pendidikan dan Kebudayaan, 1985, hlm. 324'
+date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: ''
+extraction_notes: 'Jawi left blank: the source is Latin-script only and no Jawi form is printed for this
+  entry.'

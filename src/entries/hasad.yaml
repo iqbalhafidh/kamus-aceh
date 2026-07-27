@@ -1,0 +1,27 @@
+headword: hasad
+jawi: حسد
+alt_spelling: []
+ipa: ''
+part_of_speech: n
+definitions:
+- meaning_id: hasad, dengki (dalam hikayat)
+  meaning_en: envy, malice, envy (in hikayat)
+examples:
+- aceh: bêk sagai-sagai gata hasad keu gob
+  jawi: ''
+  id: Jangan sekali-kali Anda dengki kpd orang
+  en: Never be envious of others
+etymology: Arabic loanword; the Jawi form given here is the Arabic etymon.
+related_words:
+- hasut
+dialect_notes: 'Marked (dl hik) in the source: attested in hikayat, the classical Acehnese narrative verse
+  register.'
+source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
+  Pendidikan dan Kebudayaan, 1985, hlm. 285'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+language_uncertain: true
+extraction_notes: 'Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate
+  reviewer. Language flagged uncertain: this is an Arabic loanword shared with Indonesian. It is listed
+  as a headword in an Acehnese dictionary, so it is treated as naturalised Acehnese, but a reviewer should
+  confirm.'

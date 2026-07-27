@@ -2,16 +2,49 @@ headword: kambam
 jawi: ''
 alt_spelling: []
 ipa: ''
-part_of_speech: ''
+part_of_speech: v
 definitions:
-- meaning_id: mengikat temak pada pohon kayu
-  meaning_en: tether
-examples: []
+- meaning_id: mengamban, mengikat lama-lama (umpamanya hewan pada tonggak atau batang kayu, juga orang
+    hukuman), merantai, membelenggu, tempat pengikat sesuatu, pengikat, tali, belenggu, tonggak
+  meaning_en: to carry in a sling, to tether for a long time, as an animal to a post or tree, also person
+    law, chain, to shackle, place tie something, tie, rope, shackle, post
+examples:
+- aceh: ta kambam leumo nyoe bak bak jambêe
+  jawi: ''
+  id: ikat-lah sapi ini pada batang jambu
+  en: tie this cow to the rose-apple tree
+- aceh: saboh kambam dua gajah, saboh beunasah dua panita
+  jawi: ''
+  id: dua ekor gajah diikat pada sebuah belenggu, sebuah beunasah dengan dua orang gurunya, (pb) sebuah
+    kapal kecil dengan dua buah tiang raksasa di atasnya
+  en: (proverb) two elephants in one shackle, one prayer house with two teachers, a small boat with two
+    giant masts
+- aceh: pok kambam, menanduk tempat pengikat, ki
+  jawi: ''
+  id: melawan atau menentang seseorang yang telah berjasa
+  en: to oppose one who has done one a service
+- aceh: bek, hai anuek, tapok kambam
+  jawi: ''
+  id: wahai anak, janganlah engkau melawan thd seseorang yang telah berbuat jasa kepadamu!
+  en: O child, do not oppose one who has done you a service!
+- aceh: Meu kambam
+  jawi: ''
+  id: dibelenggu, diikat
+  en: shackle, tie
+- aceh: raja eungkong ka meu kambam
+  jawi: ''
+  id: Raja kera telah terbelenggu
+  en: The monkey king has been shackled
+- aceh: Keunambam
+  jawi: ''
+  id: = kambam
+  en: ''
 etymology: ''
 related_words: []
 dialect_notes: ''
-source: 'Daud, Bukhari & Mark Durie. Kamus Basa Acèh = Kamus Bahasa Aceh: Acehnese–Indonesian–English Thesaurus.
-  Pacific Linguistics C-151, 1999, p. 46.'
-date_added: '2026-07-20'
+source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
+  Pendidikan dan Kebudayaan, 1985, hlm. 370'
+date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: ''
+extraction_notes: 'Jawi left blank: the source is Latin-script only and no Jawi form is printed for this
+  entry.'

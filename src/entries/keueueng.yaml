@@ -2,17 +2,47 @@ headword: keueueng
 jawi: ''
 alt_spelling: []
 ipa: ''
-part_of_speech: ''
+part_of_speech: a
 definitions:
-- meaning_id: pedas am
-  meaning_en: hot, spicy
-examples: []
+- meaning_id: pedas (umpamanya rempah-rempah, makanan yang terlalu banyak dibubuhi cabe), terasa pedas
+    di lidah
+  meaning_en: spicy for example spices, food with too much chilli in it, felt spicy at tongue
+examples:
+- aceh: gulè keueueng that, le that campli
+  jawi: ''
+  id: Gulai itu sangat pedas, banyak cabe dibubuhi ke dalamnya
+  en: That curry is very hot, a great deal of chilli was put in it
+- aceh: lôn keueueng that, tabri ie bacut
+  jawi: ''
+  id: Saya merasa sangat pedas, perilah air sedikit
+  en: My mouth is burning, give me a little water
+- aceh: masam keueueng
+  jawi: ''
+  id: masam pedas
+  en: hot and sour
+- aceh: kuah masam keueueng
+  jawi: ''
+  id: kuah masam pedas
+  en: a hot and sour broth
+- aceh: meu keueueng = peu keueueng droe
+  jawi: ''
+  id: membuat pedas
+  en: to make spicy
+- aceh: bek tameu keueueng
+  jawi: ''
+  id: Anda janganlah makan yg pedas-pedas
+  en: Do not eat spicy things
+- aceh: peu keueueng, membuat pedas, bèk tapeu keueueng boh campli cina
+  jawi: ''
+  id: 'Tidak ada gunanya Anda membuat pedas Lombok Cina (yg memang sudah pedas itu), maksudnya : tidak
+    ada gunanya mengajar itik berenang'
+  en: 'There is no use making chilli hot, meaning: no use teaching a duck to swim'
 etymology: ''
-related_words:
-- peudah
+related_words: []
 dialect_notes: ''
-source: 'Daud, Bukhari & Mark Durie. Kamus Basa Acèh = Kamus Bahasa Aceh: Acehnese–Indonesian–English Thesaurus.
-  Pacific Linguistics C-151, 1999, p. 73.'
-date_added: '2026-07-20'
+source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
+  Pendidikan dan Kebudayaan, 1985, hlm. 397'
+date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: ''
+extraction_notes: 'Jawi left blank: the source is Latin-script only and no Jawi form is printed for this
+  entry.'

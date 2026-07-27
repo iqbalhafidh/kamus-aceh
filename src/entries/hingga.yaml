@@ -2,16 +2,57 @@ headword: hingga
 jawi: ''
 alt_spelling: []
 ipa: ''
-part_of_speech: ''
+part_of_speech: adv
 definitions:
-- meaning_id: hingga
-  meaning_en: until, limit
-examples: []
+- meaning_id: hingga, batas yang terjauh, akhir
+  meaning_en: limit, the furthest limit, end
+examples:
+- aceh: tabôh hingga
+  jawi: ''
+  id: Tentukanlah batasnya
+  en: Fix the limit of it
+- aceh: kuasa Poteu hana hingga
+  jawi: ''
+  id: Keuasaam Allah tiada hingganya
+  en: The power of God has no limit
+- aceh: lôn jak u gampông nyan, Lalu saya pergi ke gampông
+  jawi: ''
+  id: itu
+  en: ''
+- aceh: raseuki cit ka meuhad, dum ka mupat Tuhan hingga
+  jawi: ''
+  id: Rezeki manusia ditentukan terlebih dahulu, semuanya telah ditetapkan batasnya oleh Tuhan
+  en: A person's sustenance is determined beforehand; God has fixed the limit of it all
+- aceh: sipheuet wajéb le bak Tuhan, hana ênsan êk ji hingga
+  jawi: ''
+  id: Sifat wajib banyak terdpt pd Tuhan, tidak seorang pun dpt menaksirnya
+  en: The necessary attributes of God are many; no one can reckon them
+- aceh: h'an êk hingga, h'an teu hingga
+  jawi: ''
+  id: tidak terhingga, tidak dpt ditaksir
+  en: boundless, beyond estimation
+- aceh: gadoh hingga
+  jawi: ''
+  id: hilang pengharapan, putus asa
+  en: to lose hope, to despair
+- aceh: bak peu-kara nyan lôn nyoe kekeu gadoh hingga
+  jawi: ''
+  id: Dl perkara itu saya telah kehabisan daya-upaya
+  en: In that matter I have exhausted every resource
+- aceh: meu hingga
+  jawi: ''
+  id: terhingga, terbatas, tertentu
+  en: bounded, limited, fixed
+- aceh: buet nyoe hana meu hingga lom, neuprèh meung dua uroe teuk
+  jawi: ''
+  id: Pekerjaan ini belum lagi berakhir, tunggulah kira-kira dua hari lagi
+  en: This work is not yet finished, wait about two more days
 etymology: ''
 related_words: []
 dialect_notes: ''
-source: 'Daud, Bukhari & Mark Durie. Kamus Basa Acèh = Kamus Bahasa Aceh: Acehnese–Indonesian–English Thesaurus.
-  Pacific Linguistics C-151, 1999, p. 87; vii (PDF p. 5).'
-date_added: '2026-07-20'
+source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
+  Pendidikan dan Kebudayaan, 1985, hlm. 291'
+date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: ''
+extraction_notes: 'Jawi left blank: the source is Latin-script only and no Jawi form is printed for this
+  entry.'

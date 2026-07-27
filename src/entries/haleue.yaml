@@ -2,16 +2,36 @@ headword: haleue
 jawi: ''
 alt_spelling: []
 ipa: ''
-part_of_speech: ''
+part_of_speech: a
 definitions:
-- meaning_id: halal
-  meaning_en: allowed, rightful, legal
-examples: []
+- meaning_id: halal, tidak haram menurut hukum Islam
+  meaning_en: lawful, not forbidden under Islamic law
+examples:
+- aceh: hana haleue tapajōh atra aneuk yatim
+  jawi: ''
+  id: tidak halal memakan harta anak-anak yatim
+  en: it is unlawful to consume the property of orphans
+- aceh: meue
+  jawi: ''
+  id: halal mal, barang bukti yg ditemukan pd seorang tertuduh
+  en: lawful property; material evidence found on an accused person
+- aceh: bèk nyang hareuem tapeu haleue lē gata
+  jawi: ''
+  id: Janganlah Anda menghalalkan yg telah diharamkan
+  en: Do not make lawful what has been forbidden
+- aceh: ureu-eng meukawén deungon ma ui ka jipeu haleue prumou yahji
+  jawi: ''
+  id: Seorang laki-laki yg kawin dng ibu tirinya berarti, bahwa ia telah menghalalkan perkawinan dng bekas
+    istri ayahnya
+  en: A man who marries his stepmother has thereby made lawful a marriage with his father's former wife
 etymology: ''
-related_words: []
+related_words:
+- yad
+- hareuem
 dialect_notes: ''
-source: 'Daud, Bukhari & Mark Durie. Kamus Basa Acèh = Kamus Bahasa Aceh: Acehnese–Indonesian–English Thesaurus.
-  Pacific Linguistics C-151, 1999, p. 24.'
-date_added: '2026-07-20'
+source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
+  Pendidikan dan Kebudayaan, 1985, hlm. 276'
+date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: ''
+extraction_notes: 'Jawi left blank: the source is Latin-script only and no Jawi form is printed for this
+  entry.'

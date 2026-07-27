@@ -2,27 +2,99 @@ headword: jeuet
 jawi: ''
 alt_spelling: []
 ipa: ''
-part_of_speech: ''
+part_of_speech: adv
 definitions:
-- meaning_id: bisa, boleh
-  meaning_en: able, allowed
-- meaning_id: berani
-  meaning_en: dare
-- meaning_id: jadi
-  meaning_en: become
-- meaning_id: boleh, dapat
-  meaning_en: can, able, may
-- meaning_id: baik
-  meaning_en: OK
-examples: []
+- meaning_id: dapat, mampu, sanggup, mungkin, menjadi, boleh, jadi
+  meaning_en: can, able, capable, possible, to become, may
+examples:
+- aceh: h'an jeuet lōn jak
+  jawi: ''
+  id: Saya tidak dapat pergi
+  en: I cannot go
+- aceh: h'an lōn jeuet jak
+  jawi: ''
+  id: Saya tidak berani pergi
+  en: I dare not go
+- aceh: lōn jak? jeuet
+  jawi: ''
+  id: Bolehkah saya pergi? boleh!
+  en: May I go? You may!
+- aceh: gata jeuet taseumurat?
+  jawi: ''
+  id: Dapatkah Anda menulis (surat)?
+  en: Can you write a letter?
+- aceh: meungnyoe jeuet, siplōh reunggèt lōn tueng, Jika boleh sasa-ya akan membelinya seharga sepuluh
+    ringgit, h'an jeuet
+  jawi: ''
+  id: tidak boleh, tidak mungkin
+  en: not permitted, not possible
+- aceh: keu kaya, jeuet keu ulee-balang
+  jawi: ''
+  id: jeuet
+  en: ''
+- aceh: nyang jeuet (keu) meu-nan, sabab meunoe
+  jawi: ''
+  id: sudah menjadi begitu krn begini
+  en: it became so because of this
+- aceh: buet nyan hana jeuet meunan
+  jawi: ''
+  id: Pekerjaan itu tidak boleh atau dapat (dilaksanakan) secara begitu
+  en: That work cannot be done in such a way
+- aceh: thōn nyoe padé lè nyang hana jeuet
+  jawi: ''
+  id: Tahun ini banyak tanaman padi yg tidak menjadi
+  en: This year much of the rice crop has failed
+- aceh: bak èk jeuet
+  jawi: ''
+  id: sampai jadi
+  en: until to become
+- aceh: meu jeuet
+  jawi: ''
+  id: melakukan sesuatu sampai jadi walaupun dialami kesulitan, berdaya-upaya, sedapat-dapatnya
+  en: to carry something through despite difficulty, to do one's utmost
+- aceh: tameu jeuet
+  jawi: ''
+  id: Sedapat-daatnya Anda lakukan
+  en: Do it as best you can
+- aceh: meu jeuet
+  jawi: ''
+  id: kejadian
+  en: to become
+- aceh: sineu jeuet neu jeuet
+  jawi: ''
+  id: sedapat-dapatnya
+  en: can can
+- aceh: sineu jeuet neu jeuet tateuka bak awai
+  jawi: ''
+  id: Datanglah sedapat-dapatnya lebih dahulu
+  en: Come as early as you can
+- aceh: peu jeuet
+  jawi: ''
+  id: mengusahakan hingga dapat dilakukan atau berhasil
+  en: to work at something until it can be done or succeeds
+- aceh: tapeu jeuet bab nyan dilèe, 'oh ka jeuet nya barō lōn pinah bak laèn
+  jawi: ''
+  id: Usahakan supaya Anda mahir bab itu dahulu, setelah mahir itu barulah saya pindahkan ke bab lain
+  en: Work at mastering that chapter first; once you have, I will move you to another
+- aceh: bèk tapeu jeuet lagèe di nanggroe droe!
+  jawi: ''
+  id: Jangan Anda berbuat spt di negeri sendiri
+  en: Do not behave as if you were in your own country
+- aceh: peu jeuet droe
+  jawi: ''
+  id: menjadi diri sendiri sbg, berlaku sbg
+  en: to become self own as, to apply as
+- aceh: peu jeuet
+  jawi: ''
+  id: membuat sesuatu dng cara yg memungkinkan
+  en: to do something as best one can
 etymology: ''
 related_words:
-- gèt
-- göt
-- ka jeuet
+- wal'ak
 dialect_notes: ''
-source: 'Daud, Bukhari & Mark Durie. Kamus Basa Acèh = Kamus Bahasa Aceh: Acehnese–Indonesian–English Thesaurus.
-  Pacific Linguistics C-151, 1999, p. 50; p. 52; p. 80; p. 112; p. 114; vii (PDF p. 5).'
-date_added: '2026-07-20'
+source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
+  Pendidikan dan Kebudayaan, 1985, hlm. 337'
+date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: ''
+extraction_notes: 'Jawi left blank: the source is Latin-script only and no Jawi form is printed for this
+  entry.'

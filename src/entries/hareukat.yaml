@@ -2,17 +2,72 @@ headword: hareukat
 jawi: ''
 alt_spelling: []
 ipa: ''
-part_of_speech: ''
+part_of_speech: n
 definitions:
-- meaning_id: mencari nafkah
-  meaning_en: make a living
-examples: []
+- meaning_id: gerak, (dalam hikayat), mencari nafkah, berdaya-upaya
+  meaning_en: movement, in hikayat, to seek livelihood, to make every effort
+examples:
+- aceh: aneuk nyan ka ji hareukat
+  jawi: ''
+  id: Anak itu sud-h dpt bergerak
+  en: That child can already move about
+- aceh: aneuk ubit, peue sakét, ji hareukat
+  jawi: ''
+  id: Anak kecil, sakit apa yg dialaminya, ia sedang tumbuh
+  en: A little child, what ails him? He is teething
+- aceh: atra nyan bandum hareukat droe lôn keudroe
+  jawi: ''
+  id: Semua itu adalah usaha saya sendiri
+  en: All that is my own doing
+- aceh: pangulèe hareukat, meugoe
+  jawi: ''
+  id: Penghulu semua usaha adalah pertanian (pb)
+  en: (proverb) The chief of all occupations is agriculture
+- aceh: mita hareukat, mita jalan, lueng hareukat
+  jawi: ''
+  id: mencari nafkah
+  en: to seek livelihood
+- aceh: atra hareukat, laba si hareukat, meucarikat
+  jawi: ''
+  id: harta yg diperoleh secara bersama dl perkawinan yg pd perceraian antara suami isteri harus dibagi-bagikan
+  en: property acquired jointly during a marriage, which on divorce must be divided between husband and
+    wife
+- aceh: lôn meukat uroe jêh hana meuteumeung hareukat
+  jawi: ''
+  id: Ketika berniaga dahulu saya tidak memperoleh keuntungan
+  en: When I traded before, I made no profit
+- aceh: meudua hareukat (meudua laba)
+  jawi: ''
+  id: hasil keuntungan yg dibagi dua
+  en: profit divided in two
+- aceh: bagi lhèe
+  jawi: ''
+  id: keuntungan yg dibagi tiga
+  en: profit divided in three
+- aceh: ka jijak hareukat
+  jawi: ''
+  id: Ia telah mencari nafkah dng kesungguhan hatinya
+  en: He has sought his livelihood with all his heart
+- aceh: meu hareukat
+  jawi: ''
+  id: berusaha, mencari nafkah
+  en: enterprise, to seek livelihood
+- aceh: peu hareukat
+  jawi: ''
+  id: berusaha memperoleh nafkah
+  en: enterprise by livelihood
+- aceh: peu hareukat reunggét
+  jawi: ''
+  id: memperniagakan ringgit atau uang
+  en: to trade in dollars or money
 etymology: ''
-related_words: []
-dialect_notes: ''
-source: 'Daud, Bukhari & Mark Durie. Kamus Basa Acèh = Kamus Bahasa Aceh: Acehnese–Indonesian–English Thesaurus.
-  Pacific Linguistics C-151, 1999, p. 67.'
-date_added: '2026-07-20'
+related_words:
+- meugoe
+dialect_notes: 'Marked (dl hik) in the source: attested in hikayat, the classical Acehnese narrative verse
+  register.'
+source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
+  Pendidikan dan Kebudayaan, 1985, hlm. 283'
+date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: PDF text-layer mismatch in the Acehnese form; copied from the searchable PDF text layer and needs
-  visual verification against printed p. 67.
+extraction_notes: 'Jawi left blank: the source is Latin-script only and no Jawi form is printed for this
+  entry.'

@@ -2,20 +2,52 @@ headword: ka
 jawi: ''
 alt_spelling: []
 ipa: ''
-part_of_speech: ''
+part_of_speech: adv
 definitions:
 - meaning_id: sudah
-  meaning_en: already, now
-- meaning_id: o ya
-  meaning_en: yes, OK
-- meaning_id: sudah
   meaning_en: already
-examples: []
+- meaning_id: (bentuk tidak tertekan untuk kata ganti orang kedua
+  meaning_en: the unstressed form of the second person pronoun
+- meaning_id: peta darat atau laut
+  meaning_en: a map of land or sea
+examples:
+- aceh: 'jijak, Ia sudah pergi: ka habéh'
+  jawi: ''
+  id: sudah habis
+  en: already finished
+- aceh: rayek
+  jawi: ''
+  id: sudah besar
+  en: already grown
+- aceh: bèk tamarit lé, sudah(lah), Anda jangan bercakap lagi nyang ka, (bak) ka, nyang goh, bèk lé
+  jawi: ''
+  id: yang sudah, sudahlah, yang belum, jangan (Anda kerjakan) lagi. Yang sudah, biarlah berlalu, untuk
+    masa yang akan datang Anda jangan lakukan lagi
+  en: what is done is done; what is not done, do not do. Let the past be, and do not do it again in future
+- aceh: grak bak Tuhan
+  jawi: ''
+  id: sudah ditakdirkan Tuhan
+  en: God has so ordained
+- aceh: nyang ka, kayém geujak keu noe
+  jawi: ''
+  id: yang sudah-sudah, ia selalu datang ke mari
+  en: in the past he always came here
+- aceh: 'kah pada pokok kata kerja) engkau: bèk ka meu''en di sinan'
+  jawi: ''
+  id: Engkau jangan bermain di situ
+  en: Do not play there
 etymology: ''
-related_words: []
+related_words:
+- kah
+- gamba
 dialect_notes: ''
-source: 'Daud, Bukhari & Mark Durie. Kamus Basa Acèh = Kamus Bahasa Aceh: Acehnese–Indonesian–English Thesaurus.
-  Pacific Linguistics C-151, 1999, p. 4; p. 112; p. 115; vii (PDF p. 5).'
-date_added: '2026-07-20'
+source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
+  Pendidikan dan Kebudayaan, 1985, hlm. 359'
+date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: ''
+extraction_notes: 'Homonym 1 in the source (printed as a superscript numeral before the headword). Jawi
+  left blank: the source is Latin-script only and no Jawi form is printed for this entry. | Homonym 2
+  in the source (printed as a superscript numeral before the headword). Jawi left blank: the source is
+  Latin-script only and no Jawi form is printed for this entry. | Homonym 3 in the source (printed as
+  a superscript numeral before the headword). Jawi left blank: the source is Latin-script only and no
+  Jawi form is printed for this entry.'

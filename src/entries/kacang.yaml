@@ -2,16 +2,50 @@ headword: kacang
 jawi: ''
 alt_spelling: []
 ipa: ''
-part_of_speech: ''
+part_of_speech: n
 definitions:
-- meaning_id: kacang
-  meaning_en: beans
-examples: []
+- meaning_id: kacang (hanya dikatakan untuk jenis-jenis berikut ini)
+  meaning_en: bean (only word for kinds to follow this)
+examples:
+- aceh: guda
+  jawi: ''
+  id: kacang kuda
+  en: bean horse
+- aceh: guréng
+  jawi: ''
+  id: kacang goreng
+  en: fried beans
+- aceh: kleundé
+  jawi: ''
+  id: sj kacang yang berbunga kecil-kecil, berwarna ungu
+  en: a kind of bean with small purple flowers
+- aceh: klisa
+  jawi: ''
+  id: plisa, berbiji empat segi
+  en: with four-sided seeds
+- aceh: parang
+  jawi: ''
+  id: jenis liar, bijinya utk obat
+  en: the wild kind, its seeds used as medicine
+- aceh: reubôih
+  jawi: ''
+  id: kacang rebus
+  en: boiled beans
+- aceh: seupat
+  jawi: ''
+  id: berbiji hitam (=reuteuek bangbang)
+  en: with black seeds
+- aceh: halua kacang
+  jawi: ''
+  id: sj panganan terbuat dari kacang
+  en: a kind of sweet made from beans
 etymology: ''
-related_words: []
+related_words:
+- reuteuek
 dialect_notes: ''
-source: 'Daud, Bukhari & Mark Durie. Kamus Basa Acèh = Kamus Bahasa Aceh: Acehnese–Indonesian–English Thesaurus.
-  Pacific Linguistics C-151, 1999, p. 61.'
-date_added: '2026-07-20'
+source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
+  Pendidikan dan Kebudayaan, 1985, hlm. 362'
+date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: ''
+extraction_notes: 'Jawi left blank: the source is Latin-script only and no Jawi form is printed for this
+  entry.'

@@ -2,18 +2,41 @@ headword: ju
 jawi: ''
 alt_spelling: []
 ipa: ''
-part_of_speech: ''
+part_of_speech: v
 definitions:
-- meaning_id: mendidih
-  meaning_en: boiling
-- meaning_id: mencair
-  meaning_en: melt
-examples: []
+- meaning_id: mendidih (untuk cairan, gelombang), bergelora (untuk lautan) (kiasan) mendidih karena marah
+  meaning_en: to boil (of liquid), wave, to surge (of the sea); (figuratively) to seethe with anger
+examples:
+- aceh: ie ka ju
+  jawi: ''
+  id: Air sudah mendidih
+  en: The water has boiled
+- aceh: ie laôt ju
+  jawi: ''
+  id: Air laor bergelora
+  en: The sea is surging
+- aceh: meudok-dok
+  jawi: ''
+  id: mendidih berbuat-buat
+  en: to boil make make
+- aceh: èk ju atèteu!
+  jawi: ''
+  id: Hati kita mendidih krn marah
+  en: Our hearts boil with anger
+- aceh: peu ju
+  jawi: ''
+  id: mendidihkan
+  en: to boil
+- aceh: tapeu ju ie reujang
+  jawi: ''
+  id: Usahakan supaya air cepat mendidih. ju ceungèh
+  en: See that the water boils quickly
 etymology: ''
 related_words: []
 dialect_notes: ''
-source: 'Daud, Bukhari & Mark Durie. Kamus Basa Acèh = Kamus Bahasa Aceh: Acehnese–Indonesian–English Thesaurus.
-  Pacific Linguistics C-151, 1999, p. 70; p. 95.'
-date_added: '2026-07-20'
+source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
+  Pendidikan dan Kebudayaan, 1985, hlm. 350'
+date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: ''
+extraction_notes: 'Jawi left blank: the source is Latin-script only and no Jawi form is printed for this
+  entry.'

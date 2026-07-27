@@ -1,0 +1,50 @@
+headword: kabui
+jawi: ''
+alt_spelling: []
+ipa: ''
+part_of_speech: v
+definitions:
+- meaning_id: kabulkan, setuju, terima
+  meaning_en: to grant, to agree, to accept
+examples:
+- aceh: ijab kabui, ijab
+  jawi: ''
+  id: kabul, persetujuan kpd kedua belah pihak, (terutama dl urusan perkawinan)
+  en: acceptance, the consent of both parties, especially in marriage
+- aceh: pinta
+  jawi: ''
+  id: mengabulkan permintaan
+  en: to grant a request
+- aceh: ta kabui
+  jawi: ''
+  id: '? Anda terimakasih?'
+  en: Thank you?
+- aceh: nyang lôn lakêe hana geu kabui
+  jawi: ''
+  id: yg saya minta tidak dikabulkan
+  en: what I asked was not granted
+- aceh: meu kabui, juga teu kabui
+  jawi: ''
+  id: terkabul, diterima, disempurnakan
+  en: granted, accepted, fulfilled
+- aceh: meung sapeue h'an meu kabui
+  jawi: ''
+  id: apapun tidak dikabul
+  en: nothing at all was granted
+- aceh: peu kabui
+  jawi: ''
+  id: menyuruh kabu lkan, (lebih lazim dr kabui)
+  en: to have something granted
+- aceh: neupeu kabui lakee ulontuan
+  jawi: ''
+  id: perkenankanlah permintaan hamba
+  en: grant your servant's request
+etymology: ''
+related_words: []
+dialect_notes: ''
+source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
+  Pendidikan dan Kebudayaan, 1985, hlm. 361'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+extraction_notes: 'Jawi left blank: the source is Latin-script only and no Jawi form is printed for this
+  entry.'

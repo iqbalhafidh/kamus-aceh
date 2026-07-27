@@ -1,0 +1,50 @@
+headword: jéb
+jawi: ''
+alt_spelling: []
+ipa: ''
+part_of_speech: v
+definitions:
+- meaning_id: minum
+  meaning_en: drink
+examples:
+- aceh: ie
+  jawi: ''
+  id: minum air
+  en: water drink
+- aceh: ubat
+  jawi: ''
+  id: minum obat
+  en: drink medicine
+- aceh: meujéb jeume-ujéb
+  jawi: ''
+  id: minum sesuatu
+  en: drink something
+- aceh: peujéb
+  jawi: ''
+  id: menyuruh minum, memberi minum pd seseorang atau hewan
+  en: to give someone or an animal a drink
+- aceh: tapeu jéb ie keu lôn bacut, lôn tapeu jéb ie bacut
+  jawi: ''
+  id: Berilah air sedikit kpd saya
+  en: Give me a little water
+- aceh: neujéb
+  jawi: ''
+  id: minuman, yg diminum
+  en: a drink, that which is drunk
+- aceh: teumpat neujéb
+  jawi: ''
+  id: tempat minum
+  en: place drink
+- aceh: lon teu jéb ie masen
+  jawi: ''
+  id: Air asin terminum oleh saya
+  en: I swallowed salt water
+etymology: ''
+related_words: []
+dialect_notes: ''
+source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
+  Pendidikan dan Kebudayaan, 1985, hlm. 335'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+extraction_notes: 'Jawi left blank: the source is Latin-script only and no Jawi form is printed for this
+  entry.'

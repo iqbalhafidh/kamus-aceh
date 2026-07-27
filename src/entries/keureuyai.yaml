@@ -1,0 +1,41 @@
+headword: keureuyai
+jawi: ''
+alt_spelling:
+- kreuyai
+ipa: ''
+part_of_speech: n
+definitions:
+- meaning_id: rompok
+  meaning_en: hut
+- meaning_id: serip
+  meaning_en: sheriff
+- meaning_id: depun
+  meaning_en: ''
+- meaning_id: dawai emas atau perak di tepi kain kelapa
+  meaning_en: gold or silver wire along the border of the cloth
+- meaning_id: kain selendang
+  meaning_en: cloth shawl
+- meaning_id: bungkusan sirih di leher dan lengan baju
+  meaning_en: a bundle of betel at the neck or sleeve of a garment
+examples:
+- aceh: meu keureuyai
+  jawi: ''
+  id: berompok
+  en: trimmed with braid
+- aceh: bajèe meu keureuyai
+  jawi: ''
+  id: baju baju yg dibubuhi rompok
+  en: garments trimmed with braid
+- aceh: tangkulok meu keureuyai
+  jawi: ''
+  id: tengkulak yang dibubuhi rompok
+  en: a braided collar
+etymology: ''
+related_words: []
+dialect_notes: ''
+source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
+  Pendidikan dan Kebudayaan, 1985, hlm. 415'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+extraction_notes: 'Jawi left blank: the source is Latin-script only and no Jawi form is printed for this
+  entry.'

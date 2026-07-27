@@ -2,18 +2,29 @@ headword: jumoh
 jawi: ''
 alt_spelling: []
 ipa: ''
-part_of_speech: ''
+part_of_speech: n
 definitions:
-- meaning_id: tamak, rakus
-  meaning_en: greedy
-- meaning_id: muka, moncong
-  meaning_en: snout, face (of animal)
-examples: []
+- meaning_id: moncong, mulut
+  meaning_en: snout, mouth
+- meaning_id: rakus kepada milik orang lain, loba, tamak
+  meaning_en: greedy for what belongs to others, avaricious, covetous
+examples:
+- aceh: di droeteu na
+  jawi: ''
+  id: areuta gob talakèe, Anda sangat loba kpd milik orang
+  en: You are very greedy for other people's property
+- aceh: peu jumoh droe
+  jawi: ''
+  id: berlaku spt orang rakus
+  en: to apply like person greedy
 etymology: ''
-related_words: []
+related_words:
+- haleumab
+- teumeu'a
 dialect_notes: ''
-source: 'Daud, Bukhari & Mark Durie. Kamus Basa Acèh = Kamus Bahasa Aceh: Acehnese–Indonesian–English Thesaurus.
-  Pacific Linguistics C-151, 1999, p. 50; p. 104.'
-date_added: '2026-07-20'
+source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
+  Pendidikan dan Kebudayaan, 1985, hlm. 354'
+date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: ''
+extraction_notes: 'Jawi left blank: the source is Latin-script only and no Jawi form is printed for this
+  entry.'

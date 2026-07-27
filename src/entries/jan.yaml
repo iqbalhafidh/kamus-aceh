@@ -2,17 +2,50 @@ headword: jan
 jawi: ''
 alt_spelling: []
 ipa: ''
-part_of_speech: ''
+part_of_speech: n
 definitions:
-- meaning_id: waktu
-  meaning_en: time
-examples: []
+- meaning_id: keselamatan, waktu, jikalau
+  meaning_en: safety, time, if
+examples:
+- aceh: hana jan lôn jak!
+  jawi: ''
+  id: Saya tidak mau pergi
+  en: I do not want to go
+- aceh: hana jan lôn singgah bak gata, lê buet laen
+  jawi: ''
+  id: Saya tidak mempunyai waktu utk singgah pd Anda, saya mempunyai banyak pekerjaan lain
+  en: I have no time to call on you, I have much other work
+- aceh: h'an jan
+  jawi: ''
+  id: tidak mempunyai waktu utk ..., begitu ... sudaa
+  en: to have no time for, no sooner than
+- aceh: h'an jan lôn êh, ka teungeut
+  jawi: ''
+  id: begitu saya terbaring, sudah tertidur
+  en: no sooner had I lain down than I was asleep
+- aceh: padum jan, jijak kapai u Pulo We?
+  jawi: ''
+  id: pabila ada kapal yg berlayar ke Pulau We?
+  en: when is there a ship sailing to Pulau Weh?
+- aceh: 'bek jan, jangan sampai (berlalu waktunya): tajok peue yang jilakèe bèk jan jipubuet-buet nyang
+    kon-kon'
+  jawi: ''
+  id: Berilah apa yang dimintanya sebelum ia berbuat hal yg tidak-tidak
+  en: Give him what he asks before he does something foolish
+- aceh: na lôn bayeue
+  jawi: ''
+  id: Jika telah ada (uang), akan saya bayar
+  en: When I have the money, I will pay
+- aceh: na waktèe jeuet lôn jak
+  jawi: ''
+  id: Jika
+  en: if
 etymology: ''
-related_words:
-- watée
+related_words: []
 dialect_notes: ''
-source: 'Daud, Bukhari & Mark Durie. Kamus Basa Acèh = Kamus Bahasa Aceh: Acehnese–Indonesian–English Thesaurus.
-  Pacific Linguistics C-151, 1999, p. 96.'
-date_added: '2026-07-20'
+source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
+  Pendidikan dan Kebudayaan, 1985, hlm. 327'
+date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: ''
+extraction_notes: 'Jawi left blank: the source is Latin-script only and no Jawi form is printed for this
+  entry.'

@@ -1,0 +1,29 @@
+headword: hajarat
+jawi: هجرة
+alt_spelling:
+- hejeurat
+- hajaratôn
+ipa: ''
+part_of_speech: ''
+definitions:
+- meaning_id: nabi
+  meaning_en: prophet
+examples:
+- aceh: 'n hijrat, perpisahan nabi Muhammad saw. dng penduduk Mekah dan perpindahannya ke Madinah, saat
+    berlakunya perhitungan tahun Islam pd tahun 622 M. : hajarat nabi si-ribêe lhe reutôih, hijrat nabi
+    1300: biek aneuk hana hajarat, di lua hajarat'
+  jawi: ''
+  id: seorang anak yg buruk pendidikannya, anak yg tidak berguna di mana-mana
+  en: a badly brought-up child, a child of no use anywhere
+etymology: Arabic loanword; the Jawi form given here is the Arabic etymon.
+related_words: []
+dialect_notes: ''
+source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
+  Pendidikan dan Kebudayaan, 1985, hlm. 274'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+language_uncertain: true
+extraction_notes: 'Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate
+  reviewer. Part of speech not stated in the source; left blank. Language flagged uncertain: this is an
+  Arabic loanword shared with Indonesian. It is listed as a headword in an Acehnese dictionary, so it
+  is treated as naturalised Acehnese, but a reviewer should confirm.'

@@ -2,16 +2,43 @@ headword: keuprak
 jawi: ''
 alt_spelling: []
 ipa: ''
-part_of_speech: ''
+part_of_speech: v
 definitions:
-- meaning_id: mengepakkan sayap
-  meaning_en: flap (of wings)
+- meaning_id: bertepuk tangan, membunyikan sayap, mengepak-ngepakkan sayap (umpamanya ayam jantan yang
+    sedang berlaga, tetapi bukan mengepak-ngepakkan sayap hendak berkokok
+  meaning_en: to clap the hands, to make the wings sound, to beat the wings, as a fighting cock, but not
+    the wing-beating of a cock about to crow
+- meaning_id: untuk yang terakhir disebut keupak), menggoyang-goyangkan sayap atau bulu (umpamanya ayam
+    betina yang mengirap bulu untuk menghilangkan debu di badannya)
+  meaning_en: the last of these is called keupak, to shake the wings or feathers, as a hen ruffling herself
+    to shed dust
+- meaning_id: ji —
+  meaning_en: ''
+- meaning_id: Ia bertepuk tangan. Ayam jantan mengepak-ngepakkan bulunya ji — bulee keunong ateueh lon
+  meaning_en: He clapped his hands; the cock beat its feathers
+- meaning_id: Ayam itu mengepak-ngepak bulunya sehingga terkena saya. meu —
+  meaning_en: That fowl flapped its feathers so that they struck me
+- meaning_id: terkepak
+  meaning_en: flapped
+- meaning_id: keumang meu —
+  meaning_en: ''
+- meaning_id: terkelopak
+  meaning_en: peeled open
+- meaning_id: terbuka seluruhnya (dalam arti kata ini dan berikutnya disebut juga meukeupak)
+  meaning_en: wide open; in this and the following sense also called meukeupak
+- meaning_id: puteh meu —
+  meaning_en: ''
+- meaning_id: putih seluruhnya
+  meaning_en: white entirely
 examples: []
 etymology: ''
-related_words: []
+related_words:
+- keupong
+- keupak
 dialect_notes: ''
-source: 'Daud, Bukhari & Mark Durie. Kamus Basa Acèh = Kamus Bahasa Aceh: Acehnese–Indonesian–English Thesaurus.
-  Pacific Linguistics C-151, 1999, p. 37.'
-date_added: '2026-07-20'
+source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
+  Pendidikan dan Kebudayaan, 1985, hlm. 411'
+date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: ''
+extraction_notes: 'Jawi left blank: the source is Latin-script only and no Jawi form is printed for this
+  entry.'

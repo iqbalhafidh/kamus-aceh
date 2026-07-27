@@ -1,19 +1,39 @@
 headword: hawa
-jawi: ''
+jawi: هوى
 alt_spelling: []
 ipa: ''
-part_of_speech: ''
+part_of_speech: n
 definitions:
-- meaning_id: hasrat
-  meaning_en: desire
-examples: []
-etymology: ''
+- meaning_id: keinginan, hawa-nafsu
+  meaning_en: desire, carnal desire, passion
+- meaning_id: udara
+  meaning_en: air
+examples:
+- aceh: na hawa gata keu peunajôh mangat?
+  jawi: ''
+  id: Ingatkah Anda akan makanan enak?
+  en: Do you remember the good food?
+- aceh: mata mantong, kon hawa babah
+  jawi: ''
+  id: keing inan mata saja, bukan keinginan mulut
+  en: a desire of the eye only, not of the mouth
+etymology: Arabic loanword; the Jawi form given here is the Arabic etymon.
 related_words:
-- meuh' eut
+- ai
+- h'eut
+- napsu
 dialect_notes: ''
-source: 'Daud, Bukhari & Mark Durie. Kamus Basa Acèh = Kamus Bahasa Aceh: Acehnese–Indonesian–English Thesaurus.
-  Pacific Linguistics C-151, 1999, p. 50.'
-date_added: '2026-07-20'
+source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
+  Pendidikan dan Kebudayaan, 1985, hlm. 285, 286'
+date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: Headword spelling was aligned to the supplied OCR by conservative fuzzy matching (fuzzy:0.97);
-  verify against printed p. 50.
+language_uncertain: true
+extraction_notes: 'Homonym 1 in the source (printed as a superscript numeral before the headword). Jawi
+  transliteration is AI-generated, not from source — needs verification by a Jawi-literate reviewer. Language
+  flagged uncertain: this is an Arabic loanword shared with Indonesian. It is listed as a headword in
+  an Acehnese dictionary, so it is treated as naturalised Acehnese, but a reviewer should confirm. | Homonym
+  2 in the source (printed as a superscript numeral before the headword). Jawi transliteration is AI-generated,
+  not from source — needs verification by a Jawi-literate reviewer. Part of speech not stated in the source;
+  left blank. Language flagged uncertain: this is an Arabic loanword shared with Indonesian. It is listed
+  as a headword in an Acehnese dictionary, so it is treated as naturalised Acehnese, but a reviewer should
+  confirm.'

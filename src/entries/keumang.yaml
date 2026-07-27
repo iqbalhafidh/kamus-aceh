@@ -2,16 +2,57 @@ headword: keumang
 jawi: ''
 alt_spelling: []
 ipa: ''
-part_of_speech: ''
+part_of_speech: v
 definitions:
-- meaning_id: mekar, terbuka
-  meaning_en: to blossom, open (flower)
-examples: []
+- meaning_id: berkembang, terbuka, menggembung, mekar (umpamanya buah-buahan, beras yang dimasak), melebar
+    (umpamanya dada atau bahu)
+  meaning_en: to develop, open, to swell, to burst open, as fruit, cooked rice, wide (for example chest
+    or shoulder)
+examples:
+- aceh: bung-gong ka keumang
+  jawi: ''
+  id: Bunga sudah berkembang atau mekar
+  en: The flower has opened
+- aceh: mata uroe ka keumang, Mata hari sudah naik keumang beukah, dada agam nyan keumang
+  jawi: ''
+  id: Dada laki-laki itu melebar
+  en: That man's chest is broad
+- aceh: buet nyoe keumang ujong
+  jawi: ''
+  id: Perkara ini berkembang di ujungnya, maksudnya berkepanjangan
+  en: This affair spreads at its end, that is, it drags on
+- aceh: ate
+  jawi: ''
+  id: senang hati, gembira
+  en: glad at heart, joyful
+- aceh: kunchop
+  jawi: ''
+  id: berkembang dan tertutup, kembang kempis atau kembang kuncup
+  en: opening and closing, expanding and contracting
+- aceh: peu keumang
+  jawi: ''
+  id: mengembangkan, membukakan
+  en: to spread out, to open
+- aceh: peu keumang payong
+  jawi: ''
+  id: membuka payung
+  en: to open an umbrella
+- aceh: peu keumang bulee, mengembangkan bulu, jih keumang that ate
+  jawi: ''
+  id: Ia sangat gembira
+  en: He is very glad
+- aceh: teu keumang
+  jawi: ''
+  id: (dl hik), berkembang
+  en: in hikayat, to develop
 etymology: ''
-related_words: []
-dialect_notes: ''
-source: 'Daud, Bukhari & Mark Durie. Kamus Basa Acèh = Kamus Bahasa Aceh: Acehnese–Indonesian–English Thesaurus.
-  Pacific Linguistics C-151, 1999, p. 99.'
-date_added: '2026-07-20'
+related_words:
+- kamaloyang
+dialect_notes: 'Marked (dl hik) in the source: attested in hikayat, the classical Acehnese narrative verse
+  register.'
+source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
+  Pendidikan dan Kebudayaan, 1985, hlm. 402'
+date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: ''
+extraction_notes: 'Jawi left blank: the source is Latin-script only and no Jawi form is printed for this
+  entry.'

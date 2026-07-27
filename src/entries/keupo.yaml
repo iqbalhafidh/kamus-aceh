@@ -1,0 +1,45 @@
+headword: keupo
+jawi: ''
+alt_spelling: []
+ipa: ''
+part_of_speech: v
+definitions:
+- meaning_id: mengirap, mengebas sesuatu (umpamanya debu atau air) di badan, menggoyang-goyangkan (umpamanya
+    bulu)
+  meaning_en: to flap, to shake something such as dust or water off the body, to shake, as feathers
+examples:
+- aceh: droe
+  jawi: ''
+  id: menggoyang-goyang kan badan
+  en: to sway the body
+- aceh: meuse manok keupo abee, meunan lagee luroh daesa
+  jawi: ''
+  id: Laksana ayam mengirap debu dr tubuhnya, sehingga semua akan hapus semua dosanya
+  en: As a fowl shakes the dust from its body, so shall all his sins be wiped away
+- aceh: meu keupo
+  jawi: ''
+  id: dikirap
+  en: shaken out
+- aceh: meu keupo (=teu keupo)
+  jawi: ''
+  id: tergelepar-gelepar (ump burung yg hendak mati atau sesuatu yg kena tembakan)
+  en: fluttering convulsively, as a dying bird or something that has been shot
+- aceh: cicem nyan ka meu keupo keupo
+  jawi: ''
+  id: Burung itu menggelepar-gelepar
+  en: That bird is fluttering about
+- aceh: peu keupo
+  jawi: ''
+  id: = keupo
+  en: ''
+etymology: ''
+related_words:
+- keupak
+- keuprak
+dialect_notes: ''
+source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
+  Pendidikan dan Kebudayaan, 1985, hlm. 410'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+extraction_notes: 'Jawi left blank: the source is Latin-script only and no Jawi form is printed for this
+  entry.'

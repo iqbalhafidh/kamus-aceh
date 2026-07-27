@@ -1,17 +1,53 @@
 headword: hikayat
-jawi: ''
+jawi: حكاية
 alt_spelling: []
 ipa: ''
-part_of_speech: ''
+part_of_speech: n
 definitions:
-- meaning_id: hikayat
-  meaning_en: epic poetry
-examples: []
-etymology: ''
-related_words: []
+- meaning_id: hikayat, cerita
+  meaning_en: hikayat, story
+examples:
+- aceh: di Acèh le hikayat
+  jawi: ''
+  id: Di daerah Aceh terdpt banyak hikayat
+  en: In Aceh there are many hikayat
+- aceh: beuet hikayat (ba hikayat)
+  jawi: ''
+  id: membaca hikayat
+  en: to read hikayat
+- aceh: pugah hikayat
+  jawi: ''
+  id: menceritakan hikayat
+  en: to relate hikayat
+- aceh: ruhé
+  jawi: ''
+  id: hikayat jenaka yg tidak mengisahkan suatu masalah tertentu, tetapi fantasi pengarang yg isinya kadang-kadang
+    didasarkan kpd pengalamannya sendiri atau orang lain
+  en: a comic hikayat that tells no particular story but is the author's invention, its content sometimes
+    drawn from his own or others' experience
+- aceh: neuba hikayat mangat that su
+  jawi: ''
+  id: Ia membaca hikayat dng suara yg merdu sekali
+  en: He recites the hikayat in a very melodious voice
+- aceh: meu hikayat
+  jawi: ''
+  id: mempunyai hikayat, membaca hikayat
+  en: to possess a hikayat, to recite a hikayat
+- aceh: peu hikayat = hikayat, geupeu hikayat lê ureueng nyang keumisah
+  jawi: ''
+  id: dijadikan hikayat oleh orang yg mengisahkannya
+  en: made into a hikayat by the one who tells it
+etymology: Arabic loanword; the Jawi form given here is the Arabic etymon.
+related_words:
+- nalam
+- sanjak
 dialect_notes: ''
-source: 'Daud, Bukhari & Mark Durie. Kamus Basa Acèh = Kamus Bahasa Aceh: Acehnese–Indonesian–English Thesaurus.
-  Pacific Linguistics C-151, 1999, p. 19.'
-date_added: '2026-07-20'
+source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
+  Pendidikan dan Kebudayaan, 1985, hlm. 290'
+date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: ''
+language_uncertain: true
+extraction_notes: 'Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate
+  reviewer. Language flagged uncertain: this is an Arabic loanword shared with Indonesian. It is listed
+  as a headword in an Acehnese dictionary, so it is treated as naturalised Acehnese, but a reviewer should
+  confirm.'

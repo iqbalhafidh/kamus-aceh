@@ -2,18 +2,74 @@ headword: ho
 jawi: ''
 alt_spelling: []
 ipa: ''
-part_of_speech: ''
+part_of_speech: adv
 definitions:
-- meaning_id: ke mana
-  meaning_en: whither
-- meaning_id: ke mana
-  meaning_en: to somewhere
-examples: []
+- meaning_id: arah, daerah, pihak, arah ke mana, ke mana
+  meaning_en: direction, region, district, side, party, direction to which, to which
+examples:
+- aceh: nyoe ho, nyan ho, jéh ho
+  jawi: ''
+  id: kemari, ke sini, ke sana, di sini, di sana
+  en: hither, to here, to there, here, there
+- aceh: tajak?
+  jawi: ''
+  id: Ke mana Anda pergi?
+  en: Where are you going?
+- aceh: rêt
+  jawi: ''
+  id: Mana jalan ke sana?
+  en: Which is the way there?
+- aceh: nyang tajak, lôn seutêt
+  jawi: ''
+  id: Ke mana Anda pergi saya akan ikuti
+  en: Wherever you go, I will follow
+- aceh: salèh ho
+  jawi: ''
+  id: entah ke mana! ho
+  en: who knows where!
+- aceh: lé, ho lé, (dl hik) lé ho
+  jawi: ''
+  id: lama-lama, lambat-lambat
+  en: olds, slows
+- aceh: teungoh kamoe meuduek-duek ho mugrêb lé
+  jawi: ''
+  id: Sedang kami duduk-duduk, lambat-laun hari pun magrib
+  en: While we sat about, little by little dusk came on
+- aceh: dadang-dadang geumeuhaba, uroe pi teuma lé ho sinja
+  jawi: ''
+  id: Sedang mereka bercerita-cerita, lama kelamaan hari pun senja
+  en: While they were talking, evening gradually fell
+- aceh: siuroe bak siuroe
+  jawi: ''
+  id: dr sehari ke hari = setiap hari
+  en: from day to day = every day
+- aceh: trêb ho raya lé
+  jawi: ''
+  id: semakin lama semakin besar
+  en: growing larger and larger
+- aceh: ka
+  jawi: ''
+  id: berada di mana
+  en: there is at which
+- aceh: ka si Gam
+  jawi: ''
+  id: Di mana (berada) si Gam?
+  en: Where is si Gam?
+- aceh: balé ho ka teuku bandum
+  jawi: ''
+  id: Nah, di mana Anda sekalian, para Teuku
+  en: Well then, where are you all, Teuku?
+- aceh: ka atra lôn nyang lôn peuduek sinoe?
+  jawi: ''
+  id: Di mana barang saya yg saya
+  en: Where is my property that I
 etymology: ''
 related_words: []
-dialect_notes: ''
-source: 'Daud, Bukhari & Mark Durie. Kamus Basa Acèh = Kamus Bahasa Aceh: Acehnese–Indonesian–English Thesaurus.
-  Pacific Linguistics C-151, 1999, p. 115; p. 116.'
-date_added: '2026-07-20'
+dialect_notes: 'Marked (dl hik) in the source: attested in hikayat, the classical Acehnese narrative verse
+  register.'
+source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
+  Pendidikan dan Kebudayaan, 1985, hlm. 293'
+date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: ''
+extraction_notes: 'Jawi left blank: the source is Latin-script only and no Jawi form is printed for this
+  entry.'

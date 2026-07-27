@@ -1,17 +1,52 @@
 headword: ilah
 jawi: ''
-alt_spelling: []
+alt_spelling:
+- hilah
 ipa: ''
-part_of_speech: ''
-definitions: []
-examples: []
+part_of_speech: n
+definitions:
+- meaning_id: hela, cara untuk mencapai atau melepaskan diri dari sesuatu, mengelakkan diri
+  meaning_en: to haul, to drag, a means of attaining something or of getting free of it, to evade
+examples:
+- aceh: le ilah, (raya ilah)
+  jawi: ''
+  id: banyak helah
+  en: many trick
+- aceh: mita ilah
+  jawi: ''
+  id: mencari helah, mencari jalan ke luar
+  en: to seek trick, to seek walk to outside
+- aceh: utôih that gata mita ilah
+  jawi: ''
+  id: Anda pandai sekali mencari helah
+  en: You are very clever at finding excuses
+- aceh: bah lôn ilah ilah
+  jawi: ''
+  id: Biarlah saya berusaha sekuat-sekuat saya
+  en: Let me try with all my strength
+- aceh: cangguk ji ilah nibak uleue, tikoih ji ilah nibak mie, kameng ji ilah nibak rimueng
+  jawi: ''
+  id: Kata menghindari diri dr ular, tikus dr kucing, kambing dr harimau
+  en: As one avoids a snake, a mouse a cat, a goat a tiger
+- aceh: meu ilah, ilah meutampòk
+  jawi: ''
+  id: gelang bertatah yg dipakai setinggi siku
+  en: an inlaid bracelet worn at elbow height
+- aceh: sagòb awan
+  jawi: ''
+  id: gelang tangan dng motif yg samar-sambar
+  en: a bracelet with an indistinct pattern
+- aceh: meu ilah
+  jawi: ''
+  id: memakai gelang, mempunyai gelang
+  en: to wear a bracelet, to have a bracelet
 etymology: ''
-related_words: []
+related_words:
+- buang
 dialect_notes: ''
-source: 'Daud, Bukhari & Mark Durie. Kamus Basa Acèh = Kamus Bahasa Aceh: Acehnese–Indonesian–English Thesaurus.
-  Pacific Linguistics C-151, 1999, vii (PDF p. 5).'
-date_added: '2026-07-20'
+source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
+  Pendidikan dan Kebudayaan, 1985, hlm. 309'
+date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: Occurs in the unglossed Acehnese poem “Ranup Sigapu”; no definition has been inferred. Loan/proper-name
-  status should be checked by a reviewer.
-language_uncertain: true
+extraction_notes: 'Jawi left blank: the source is Latin-script only and no Jawi form is printed for this
+  entry.'

@@ -1,0 +1,40 @@
+headword: hisab
+jawi: حساب
+alt_spelling: []
+ipa: ''
+part_of_speech: v
+definitions:
+- meaning_id: hisab, perhitungan
+  meaning_en: reckoning, calculation, counting
+examples:
+- aceh: bak hisab lôn thôn siribèe dua reutôn hijrah
+  jawi: ''
+  id: menurut perhitungan saya pd tahun seribu dua ratus hijrah
+  en: by my reckoning in the year twelve hundred of the hijra
+- aceh: baci ta hisab lé gata thôn nyan
+  jawi: ''
+  id: Coba Anda hitung tahun itu
+  en: Reckon up that year
+- aceh: tacuba hisab bandum, padum
+  jawi: ''
+  id: Coba Anda hitung semuanya, berapa
+  en: Count them all up, how many
+etymology: Arabic loanword; the Jawi form given here is the Arabic etymon.
+related_words:
+- isap
+dialect_notes: ''
+source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
+  Pendidikan dan Kebudayaan, 1985, hlm. 293'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+language_uncertain: true
+extraction_notes: 'Homonym 1 in the source (printed as a superscript numeral before the headword). Jawi
+  transliteration is AI-generated, not from source — needs verification by a Jawi-literate reviewer. Language
+  flagged uncertain: this is an Arabic loanword shared with Indonesian. It is listed as a headword in
+  an Acehnese dictionary, so it is treated as naturalised Acehnese, but a reviewer should confirm. | Source
+  gives this only as a cross-reference (→ isap); no independent definition is printed, so meaning fields
+  are left blank rather than guessed. Homonym 2 in the source (printed as a superscript numeral before
+  the headword). Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate
+  reviewer. Part of speech not stated in the source; left blank. Language flagged uncertain: this is an
+  Arabic loanword shared with Indonesian. It is listed as a headword in an Acehnese dictionary, so it
+  is treated as naturalised Acehnese, but a reviewer should confirm.'

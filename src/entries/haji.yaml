@@ -1,17 +1,28 @@
 headword: haji
-jawi: ''
-alt_spelling: []
+jawi: حاج
+alt_spelling:
+- aji
 ipa: ''
-part_of_speech: ''
+part_of_speech: n
 definitions:
-- meaning_id: haji
-  meaning_en: pilgrim to Mecca
-examples: []
-etymology: ''
-related_words: []
+- meaning_id: seseorang yang telah menuna ikan rukun Islam kelima, haji
+  meaning_en: a person who has fulfilled the fifth pillar of Islam, hajj
+examples:
+- aceh: teungku haji
+  jawi: ''
+  id: penamaan thd orang yg telah menunaikan ibadah haji
+  en: the title given to one who has performed the hajj
+etymology: Arabic loanword; the Jawi form given here is the Arabic etymon.
+related_words:
+- badai
+- bajèe
 dialect_notes: ''
-source: 'Daud, Bukhari & Mark Durie. Kamus Basa Acèh = Kamus Bahasa Aceh: Acehnese–Indonesian–English Thesaurus.
-  Pacific Linguistics C-151, 1999, p. 24.'
-date_added: '2026-07-20'
+source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
+  Pendidikan dan Kebudayaan, 1985, hlm. 274'
+date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: ''
+language_uncertain: true
+extraction_notes: 'Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate
+  reviewer. Language flagged uncertain: this is an Arabic loanword shared with Indonesian. It is listed
+  as a headword in an Acehnese dictionary, so it is treated as naturalised Acehnese, but a reviewer should
+  confirm.'

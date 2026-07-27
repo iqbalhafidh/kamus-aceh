@@ -1,19 +1,22 @@
----
-headword: "keujruen"
-jawi: ""
+headword: keujruen
+jawi: ''
 alt_spelling: []
-ipa: "/kɯ.jrun/"
-part_of_speech: "n"
-language_uncertain: false
+ipa: ''
+part_of_speech: n
 definitions:
-  - meaning_id: "gelar para kepala di daerah-daerah kesultanan Aceh pd masa dahulu"
-    meaning_en: ""
+- meaning_id: gelar para kepala di dalam daerah-daerah kesultanan Aceh pada masa dahulu
+  meaning_en: the title of chiefs in the districts of the former Acehnese sultanate
 examples:
-  []
-etymology: ""
+- aceh: keujruen blang
+  jawi: ''
+  id: kepala yg bertugas mengawasi urusan persawahan dan pengutipan pajak sawah
+  en: the official who oversees the rice fields and collects the field tax
+etymology: ''
 related_words: []
-dialect_notes: ""
-source: "Kamus Bahasa Aceh Daring (Balai Bahasa Provinsi Aceh), 'Entri huruf — keujruen', URL: https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/K?page=2 (diakses 20 Juli 2026)"
-date_added: "2026-07-20"
-contributor: "AI-extracted — needs human review"
-extraction_notes: "Diekstrak dari 1 halaman sumber (https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/K?page=2). Tidak ada bentuk Jawi dalam sumber — dibiarkan kosong sesuai aturan."
+dialect_notes: ''
+source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
+  Pendidikan dan Kebudayaan, 1985, hlm. 398'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+extraction_notes: 'Jawi left blank: the source is Latin-script only and no Jawi form is printed for this
+  entry.'

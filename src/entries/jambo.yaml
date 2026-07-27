@@ -1,0 +1,30 @@
+headword: jambo
+jawi: ''
+alt_spelling: []
+ipa: ''
+part_of_speech: n
+definitions:
+- meaning_id: dangau, pondok yang paling sederhana, beratap, dengan atau tanpa dinding untuk berbagai-bagai
+    keperluan sementara, seperti tempat tinggal, tempat menyimpan sesuatu, tempat menjaga burung di sawah
+    atau di kebun
+  meaning_en: field hut, the simplest kind of hut, roofed, with or without walls, for various temporary
+    purposes, such as a dwelling place, place to store something, a platform for watching birds in a field
+    or garden
+examples:
+- aceh: jambo judi
+  jawi: ''
+  id: pondok tempat orang bermain judi
+  en: a gambling hut
+- aceh: jambo madat
+  jawi: ''
+  id: pondok orang mengisap madat
+  en: an opium den
+etymology: ''
+related_words: []
+dialect_notes: ''
+source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
+  Pendidikan dan Kebudayaan, 1985, hlm. 325'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+extraction_notes: 'Jawi left blank: the source is Latin-script only and no Jawi form is printed for this
+  entry.'

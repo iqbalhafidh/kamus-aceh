@@ -1,18 +1,49 @@
 headword: keumeung
 jawi: ''
-alt_spelling: []
+alt_spelling:
+- keumeu
 ipa: ''
-part_of_speech: ''
+part_of_speech: n
 definitions:
-- meaning_id: bermaksud
-  meaning_en: intend, be going to
-examples: []
+- meaning_id: sebagai awalan menjadi meu- (pada bunyi bibir menjadi mu-) mau hendak, akan, ingin, akan
+    (keu), bermaksud
+  meaning_en: as a prefix it becomes meu- (mu- before labials), meaning 'to want', will, want, intention
+- meaning_id: bertih (=beureuteh)
+  meaning_en: parched rice
+examples:
+- aceh: lon keumeung jak, (lon keumeung jak)
+  jawi: ''
+  id: Saya hendak pergi
+  en: I intend to go
+- aceh: bek tamanoe lam krueng nyan, ta keumeung buya kab atau jikab le buya?
+  jawi: ''
+  id: Anda jangan mandi di sungai itu
+  en: Do not bathe in that river
+- aceh: lon keumeung keu inong nyan
+  jawi: ''
+  id: Saya menginginkan wanita itu, (=saya ingin kawin dengan wanita itu)
+  en: I desire that woman (= I wish to marry her)
+- aceh: soe nyang h'an keumeung (=h'an tem keumeung keu kaya?)
+  jawi: ''
+  id: Siapa yg tidak ingin kaya?
+  en: Who does not wish to be rich?
+- aceh: kayee nyan keumeung reubah, takoh (keu) reujang!
+  jawi: ''
+  id: Batang kayu itu hendak tumbang, potonglah segera!
+  en: That tree is about to fall, cut it down at once!
+- aceh: kapai jimumeulayeue
+  jawi: ''
+  id: Kapal itu hendak berlayar atau berangkat
+  en: That ship is about to sail
 etymology: ''
-related_words:
-- meu-
+related_words: []
 dialect_notes: ''
-source: 'Daud, Bukhari & Mark Durie. Kamus Basa Acèh = Kamus Bahasa Aceh: Acehnese–Indonesian–English Thesaurus.
-  Pacific Linguistics C-151, 1999, p. 50.'
-date_added: '2026-07-20'
+source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
+  Pendidikan dan Kebudayaan, 1985, hlm. 403'
+date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: ''
+extraction_notes: 'Homonym 1 in the source (printed as a superscript numeral before the headword). Jawi
+  left blank: the source is Latin-script only and no Jawi form is printed for this entry. Part of speech
+  not stated in the source; left blank. | Homonym 2 in the source (printed as a superscript numeral before
+  the headword). Jawi left blank: the source is Latin-script only and no Jawi form is printed for this
+  entry.'

@@ -1,19 +1,47 @@
----
-headword: "hiram"
-jawi: ""
-alt_spelling: []
-ipa: "/hi.ram/"
-part_of_speech: "a"
-language_uncertain: false
+headword: hiram
+jawi: ''
+alt_spelling:
+- iram
+ipa: ''
+part_of_speech: a
 definitions:
-  - meaning_id: "bermuka muram, suram, marah"
-    meaning_en: ""
+- meaning_id: muram, suram, marah
+  meaning_en: gloomy, downcast, dim, dull, angry
 examples:
-  []
-etymology: ""
+- aceh: pakon gata hiram that muka uroe nyoe, peue sabab nyang jeuet keu beungêh?
+  jawi: ''
+  id: Mengapa muka Anda sangat muram hari ini? Apakah sebabnya sehingga Anda marah?
+  en: Why is your face so gloomy today? What has made you angry?
+- aceh: kasam
+  jawi: ''
+  id: sangat marah
+  en: very angry
+- aceh: meu hiram (hiramkasam)
+  jawi: ''
+  id: saling bermarahan
+  en: to be angry with one another
+- aceh: lôn na meu hiram kasam bacut ngon si Pulan
+  jawi: ''
+  id: Saya sedikit bermarahan dng si Polan
+  en: I am a little at odds with so-and-so
+- aceh: bêk meu hiram kasam ngon sêedara
+  jawi: ''
+  id: Janganlah Anda bermarahan sesama saudara
+  en: Do not quarrel with your own kin
+- aceh: peu hiram (hiramkasam)
+  jawi: ''
+  id: membuat marah
+  en: to make angry
+- aceh: gata nyang peu hiram gob, tamarit baranggapeue
+  jawi: ''
+  id: Andalah yg membuat orang marah krn kata-kata Anda yg tidak layak
+  en: It is you who anger people with your unseemly words
+etymology: ''
 related_words: []
-dialect_notes: ""
-source: "Kamus Bahasa Aceh Daring (Balai Bahasa Provinsi Aceh), 'Entri huruf — hiram', URL: https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/H?page=2 (diakses 20 Juli 2026); halaman tambahan: H?page=11, H?page=12, H?page=13, H?page=14, H?page=15, H?page=16, H?page=17, H?page=18, H?page=19, H?page=2, H?page=3, H?page=4, H?page=5, H?page=6, H?page=7, H?page=8, H?page=9, H"
-date_added: "2026-07-20"
-contributor: "AI-extracted — needs human review"
-extraction_notes: "Diekstrak dari 19 halaman sumber (https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/H?page=10, https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/H?page=11, https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/H?page=12, https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/H?page=13, https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/H?page=14, https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/H?page=15, https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/H?page=16, https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/H?page=17, https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/H?page=18, https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/H?page=19, https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/H?page=2, https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/H?page=3, https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/H?page=4, https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/H?page=5, https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/H?page=6, https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/H?page=7, https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/H?page=8, https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/H?page=9, https://kamusbbpa.kemendikdasmen.go.id/kamus/Aceh/H). Ditemukan pada beberapa halaman; definisi dan contoh digabungkan. Tidak ada bentuk Jawi dalam sumber — dibiarkan kosong sesuai aturan."
+dialect_notes: ''
+source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
+  Pendidikan dan Kebudayaan, 1985, hlm. 292'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+extraction_notes: 'Jawi left blank: the source is Latin-script only and no Jawi form is printed for this
+  entry.'

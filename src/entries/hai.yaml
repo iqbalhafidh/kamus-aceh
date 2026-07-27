@@ -4,17 +4,42 @@ alt_spelling: []
 ipa: ''
 part_of_speech: ''
 definitions:
-- meaning_id: hai, hei
-  meaning_en: hi, hey
-- meaning_id: hai
-  meaning_en: hey
-examples: []
+- meaning_id: wahai, hai
+  meaning_en: O!, hey!
+- meaning_id: hal, keadaan, perkara, kecelakaan, halangan
+  meaning_en: matter, state, affair, misfortune, obstacle
+examples:
+- aceh: soe nyan? Hai, siapa itu? hai, aneuk, bèk kameu'ên di sinan
+  jawi: ''
+  id: Hai, anak janganlah engkau bermain di situ
+  en: Hey, child, do not play there
+- aceh: pakri hai
+  jawi: ''
+  id: '?'
+  en: ''
+- aceh: Jroh!
+  jawi: ''
+  id: Apa hal (=khabar)? baik!
+  en: How are things? Well!
+- aceh: taingat keu hai droe, bèk tapeuduli keu hai gob, Ingatlah akan hal atau urusan sendiri, Janganlah
+    Anda mempedulikan hal atau urusan orang lain ulontuan keumeung peugah hai droe ulôntuan
+  jawi: ''
+  id: Saya ingin menceritakan keadaan saya
+  en: I want to tell of my situation
+- aceh: pada hai, hana lôn tupeue sapeue
+  jawi: ''
+  id: padahal saya tidak tahu apa-apa
+  en: although I know nothing at all
 etymology: ''
 related_words:
-- héi
+- êhwai
 dialect_notes: ''
-source: 'Daud, Bukhari & Mark Durie. Kamus Basa Acèh = Kamus Bahasa Aceh: Acehnese–Indonesian–English Thesaurus.
-  Pacific Linguistics C-151, 1999, p. 8; p. 115.'
-date_added: '2026-07-20'
+source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
+  Pendidikan dan Kebudayaan, 1985, hlm. 274'
+date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: ''
+extraction_notes: 'Homonym 1 in the source (printed as a superscript numeral before the headword). Jawi
+  left blank: the source is Latin-script only and no Jawi form is printed for this entry. Part of speech
+  not stated in the source; left blank. | Homonym 2 in the source (printed as a superscript numeral before
+  the headword). Jawi left blank: the source is Latin-script only and no Jawi form is printed for this
+  entry. Part of speech not stated in the source; left blank.'

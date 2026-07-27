@@ -1,0 +1,28 @@
+headword: keumuncak
+jawi: ''
+alt_spelling:
+- keumucak
+ipa: ''
+part_of_speech: n
+definitions:
+- meaning_id: kemuncak, puncak, menara kecil di atas sebuah bangunan
+  meaning_en: pinnacle, summit, a small tower on a building
+examples:
+- aceh: gunong
+  jawi: ''
+  id: puncak gunung
+  en: the summit of the mountain
+- aceh: meuligoe
+  jawi: ''
+  id: menara kecil di atas mahligai
+  en: a small turret above the pavilion
+etymology: ''
+related_words:
+- pucak
+dialect_notes: ''
+source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
+  Pendidikan dan Kebudayaan, 1985, hlm. 406'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+extraction_notes: 'Jawi left blank: the source is Latin-script only and no Jawi form is printed for this
+  entry.'

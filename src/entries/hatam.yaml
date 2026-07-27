@@ -1,0 +1,33 @@
+headword: hatam
+jawi: ''
+alt_spelling: []
+ipa: ''
+part_of_speech: n
+definitions:
+- meaning_id: tamat
+  meaning_en: finished
+examples:
+- aceh: '''oh lheueh hatam deung-on tahalé, geubôt suré idang raya'
+  jawi: ''
+  id: Setelah orang-orang tamat membaca quran dan tahlil, disajikanlah hidangan besar (yg berisi makanan)
+  en: When the people had finished reciting the Qur'an and the tahlil, a great meal was served
+- aceh: meu hatam
+  jawi: ''
+  id: melakukan hatam, sedang melakukan hatam
+  en: to perform the khatam, to be performing the khatam
+- aceh: peu hatam
+  jawi: ''
+  id: menamatkan
+  en: finished
+etymology: ''
+related_words:
+- beuet
+- darôih
+- tamat
+dialect_notes: ''
+source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
+  Pendidikan dan Kebudayaan, 1985, hlm. 285'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+extraction_notes: 'Jawi left blank: the source is Latin-script only and no Jawi form is printed for this
+  entry.'

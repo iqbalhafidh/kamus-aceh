@@ -2,16 +2,38 @@ headword: keumbeue
 jawi: ''
 alt_spelling: []
 ipa: ''
-part_of_speech: ''
+part_of_speech: a
 definitions:
-- meaning_id: kembar
-  meaning_en: twins
-examples: []
+- meaning_id: kembar, berbentuk dua, (juga) bersatu, berganda
+  meaning_en: twin, form two, one (also), manifold
+examples:
+- aceh: aneuk keumbeue
+  jawi: ''
+  id: anak kembar
+  en: child twin
+- aceh: pisang, pineueng keumbeue
+  jawi: ''
+  id: pisang, pinang kembar, (menurut kepercayaan tidak boleh dimakan krn dapat melahirkan anak kembar)
+  en: twin bananas or areca nuts, which by belief must not be eaten lest twins be born
+- aceh: lon keumbeue taloe
+  jawi: ''
+  id: Saya memintal tali
+  en: I to spin rope
+- aceh: meu keumbeue
+  jawi: ''
+  id: bersatu, dl keadaan kembar
+  en: joined, twinned
+- aceh: dulon meu keumbeue
+  jawi: ''
+  id: kepompong (ulat sutera) yg kembar
+  en: a twin silkworm cocoon
 etymology: ''
-related_words: []
+related_words:
+- keumba
 dialect_notes: ''
-source: 'Daud, Bukhari & Mark Durie. Kamus Basa Acèh = Kamus Bahasa Aceh: Acehnese–Indonesian–English Thesaurus.
-  Pacific Linguistics C-151, 1999, p. 26.'
-date_added: '2026-07-20'
+source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
+  Pendidikan dan Kebudayaan, 1985, hlm. 402'
+date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: ''
+extraction_notes: 'Jawi left blank: the source is Latin-script only and no Jawi form is printed for this
+  entry.'

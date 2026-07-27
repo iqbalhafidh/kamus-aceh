@@ -1,17 +1,31 @@
 headword: hareuem
-jawi: ''
+jawi: حرام
 alt_spelling: []
 ipa: ''
-part_of_speech: ''
+part_of_speech: a
 definitions:
-- meaning_id: haram
-  meaning_en: forbidden, illegal
-examples: []
-etymology: ''
-related_words: []
+- meaning_id: haram, dilarang (menurut hukum agama Islam)
+  meaning_en: unlawful, forbid (according to law religion Islam)
+examples:
+- aceh: bèk meunan tamarit
+  jawi: ''
+  id: nyan hareuem, Janganlah Anda berkata begitu, itu haram! bak hareuem lòn, hana lòn kheun keu gobnyan,
+    Sungguh haram, saya tidak mengatakan sesuatu kpd orang itu
+  en: Do not speak so, that is forbidden! Truly forbidden, I said nothing to that man
+- aceh: bèk tameu hareuem
+  jawi: ''
+  id: atra na, Janganlah Anda bersumpah tiada, bukankah demikian adanya? peu hareuem, mengharamkan
+  en: 'Do not swear there is none when in fact there is. peu hareuem: to declare forbidden'
+etymology: Arabic loanword; the Jawi form given here is the Arabic etymon.
+related_words:
+- gageueng
 dialect_notes: ''
-source: 'Daud, Bukhari & Mark Durie. Kamus Basa Acèh = Kamus Bahasa Aceh: Acehnese–Indonesian–English Thesaurus.
-  Pacific Linguistics C-151, 1999, p. 24.'
-date_added: '2026-07-20'
+source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
+  Pendidikan dan Kebudayaan, 1985, hlm. 282'
+date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: ''
+language_uncertain: true
+extraction_notes: 'Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate
+  reviewer. Language flagged uncertain: this is an Arabic loanword shared with Indonesian. It is listed
+  as a headword in an Acehnese dictionary, so it is treated as naturalised Acehnese, but a reviewer should
+  confirm.'

@@ -1,21 +1,27 @@
----
-headword: "jangak"
-jawi: ""
-alt_spelling: []
-ipa: "/ja.ŋa?/"
-part_of_speech: "v"
-language_uncertain: false
+headword: jangak
+jawi: ''
+alt_spelling:
+- jangat
+ipa: ''
+part_of_speech: v
 definitions:
-  - meaning_id: "1 menyerang secara rahasia pd malam hari, mengintai; perampok malam"
-    meaning_en: ""
-  - meaning_id: "2 binatang menyengat, mis. tawon"
-    meaning_en: ""
-examples:
-  []
-etymology: ""
-related_words: []
-dialect_notes: ""
-source: "Kamus Bahasa Aceh Daring (Balai Bahasa Provinsi Aceh), 'Entri huruf — jangak', URL: https://kamusbbpa.kemendikdasmen.go.id/kamus/Aceh/J (diakses 20 Juli 2026)"
-date_added: "2026-07-20"
-contributor: "AI-extracted — needs human review"
-extraction_notes: "Diekstrak dari 1 halaman sumber (https://kamusbbpa.kemendikdasmen.go.id/kamus/Aceh/J). Tidak ada bentuk Jawi dalam sumber — dibiarkan kosong sesuai aturan."
+- meaning_id: sejenis penyengat kecil
+  meaning_en: a kind of small wasp
+- meaning_id: menyerang secara rahasia pada malam hari, mengitai. perampok malam
+  meaning_en: to attack secretly by night, a night robber
+examples: []
+etymology: ''
+related_words:
+- geumeuto
+- lhang
+- srabèe
+dialect_notes: ''
+source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
+  Pendidikan dan Kebudayaan, 1985, hlm. 329'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+extraction_notes: 'Homonym 1 in the source (printed as a superscript numeral before the headword). Jawi
+  left blank: the source is Latin-script only and no Jawi form is printed for this entry. Part of speech
+  not stated in the source; left blank. | Homonym 2 in the source (printed as a superscript numeral before
+  the headword). Jawi left blank: the source is Latin-script only and no Jawi form is printed for this
+  entry.'

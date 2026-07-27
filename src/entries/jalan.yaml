@@ -2,16 +2,36 @@ headword: jalan
 jawi: ''
 alt_spelling: []
 ipa: ''
-part_of_speech: ''
+part_of_speech: n
 definitions:
-- meaning_id: jalan
-  meaning_en: road, street, way
-examples: []
+- meaning_id: jalan, (kiasan) jalan keluar, cara, jalan besar yang diperbuat dahulu oleh pemerintah Belanda
+  meaning_en: walk, walk exit (figuratively), way, the main road built in former times by the Dutch government
+examples:
+- aceh: 'mita jalan hareukat, mencari nafkah: hana jalan'
+  jawi: ''
+  id: tidak ada jalan keluar
+  en: there is no way out
+- aceh: neubri seudeukah bak jalan Allah
+  jawi: ''
+  id: Berilah sedekah pada jalan Allah
+  en: Give alms in the way of God
+- aceh: Tuan di jalan
+  jawi: ''
+  id: nama pusara seorang keramat di Lam Nga dalam Sagi XXVI mukim dahulu
+  en: the name of a saint's tomb at Lam Nga in the former Sagi of twenty-six mukim
+- aceh: u Indrapuri jipeugêt lé ureueng Cina bak masa Kompeuni
+  jawi: ''
+  id: Jalan raya ke Indrapuri dikerjakan oleh orang-orang Cina pada masa pemerintahan Belanda dahulu
+  en: The highway to Indrapuri was built by Chinese labourers under the former Dutch administration
 etymology: ''
-related_words: []
+related_words:
+- lueng
+- rêt
+- sabi
 dialect_notes: ''
-source: 'Daud, Bukhari & Mark Durie. Kamus Basa Acèh = Kamus Bahasa Aceh: Acehnese–Indonesian–English Thesaurus.
-  Pacific Linguistics C-151, 1999, p. 60.'
-date_added: '2026-07-20'
+source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
+  Pendidikan dan Kebudayaan, 1985, hlm. 323'
+date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: ''
+extraction_notes: 'Jawi left blank: the source is Latin-script only and no Jawi form is printed for this
+  entry.'

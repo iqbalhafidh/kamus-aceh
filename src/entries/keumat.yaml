@@ -1,0 +1,36 @@
+headword: keumat
+jawi: ''
+alt_spelling:
+- meukeumat
+ipa: ''
+part_of_speech: v
+definitions:
+- meaning_id: melekat, lengket, berpadu, tersangkut
+  meaning_en: to stick, sticky, united, caught
+examples:
+- aceh: ija lon ka meu keumat bak duroe
+  jawi: ''
+  id: Kain saya tersangkut duri
+  en: cloth I caught thorn
+- aceh: raja nyan that meu keumat gaseh keu tuan putroe
+  jawi: ''
+  id: Raja itu sangat mengasihi tuan putri
+  en: That king loves the princess dearly
+- aceh: peu keumat
+  jawi: ''
+  id: melekatkan dsb
+  en: to stick and so forth
+- aceh: tire nyoe tapeu keumat bak labang jeh
+  jawi: ''
+  id: Sangkutan tirai ini pd paku itu
+  en: Hang this curtain on that nail
+etymology: ''
+related_words:
+- mat
+dialect_notes: ''
+source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
+  Pendidikan dan Kebudayaan, 1985, hlm. 402'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+extraction_notes: 'Jawi left blank: the source is Latin-script only and no Jawi form is printed for this
+  entry.'

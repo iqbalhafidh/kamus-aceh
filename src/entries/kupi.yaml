@@ -2,17 +2,35 @@ headword: kupi
 jawi: ''
 alt_spelling: []
 ipa: ''
-part_of_speech: ''
+part_of_speech: n
 definitions:
 - meaning_id: kopi
   meaning_en: coffee
-examples: []
+- meaning_id: deudak —
+  meaning_en: ''
+- meaning_id: teupông
+  meaning_en: ''
+- meaning_id: atau
+  meaning_en: ''
+examples:
+- aceh: bubôk kupi
+  jawi: ''
+  id: bubuk kopi
+  en: ground coffee
+- aceh: tajêb kupi
+  jawi: ''
+  id: '? Maukah Anda menim mi-kopi?'
+  en: Would you like some coffee?
+- aceh: h'ah, lon h'an jeuet lôn jêb kupi, h'an teungeut malam
+  jawi: ''
+  id: tidak, saya tidak mau karena saya tidak dapat tidur malam jika minum kopi
+  en: no, I do not want any, because I cannot sleep at night if I drink coffee
 etymology: ''
-related_words:
-- kuphi
+related_words: []
 dialect_notes: ''
-source: 'Daud, Bukhari & Mark Durie. Kamus Basa Acèh = Kamus Bahasa Aceh: Acehnese–Indonesian–English Thesaurus.
-  Pacific Linguistics C-151, 1999, p. 72.'
-date_added: '2026-07-20'
+source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
+  Pendidikan dan Kebudayaan, 1985, hlm. 365'
+date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: ''
+extraction_notes: 'Jawi left blank: the source is Latin-script only and no Jawi form is printed for this
+  entry.'

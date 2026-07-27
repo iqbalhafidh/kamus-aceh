@@ -2,16 +2,39 @@ headword: kawai
 jawi: ''
 alt_spelling: []
 ipa: ''
-part_of_speech: ''
+part_of_speech: v
 definitions:
+- meaning_id: mengawal
+  meaning_en: beginning
+- meaning_id: menjaga
+  meaning_en: to guard
+- meaning_id: penjagaan
+  meaning_en: watch
 - meaning_id: kawal
-  meaning_en: guard, escort
+  meaning_en: guard
+- meaning_id: daerah
+  meaning_en: region, district
+- meaning_id: ureueng -
+  meaning_en: ''
+- meaning_id: para pengawal
+  meaning_en: the (plural marker) beginning
+- meaning_id: ureueng - pintō
+  meaning_en: ''
+- meaning_id: pengawal pintu gerbang
+  meaning_en: the gatekeeper
+- meaning_id: balē -
+  meaning_en: ''
+- meaning_id: rumah pengawalan di gerbang istana raja Aceh pada masa dahulu
+  meaning_en: the guardhouse at the gate of the former Acehnese royal palace
+- meaning_id: bak pintō nyan ka geubōh -
+  meaning_en: ''
 examples: []
 etymology: ''
 related_words: []
 dialect_notes: ''
-source: 'Daud, Bukhari & Mark Durie. Kamus Basa Acèh = Kamus Bahasa Aceh: Acehnese–Indonesian–English Thesaurus.
-  Pacific Linguistics C-151, 1999, p. 47.'
-date_added: '2026-07-20'
+source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
+  Pendidikan dan Kebudayaan, 1985, hlm. 384'
+date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: ''
+extraction_notes: 'Jawi left blank: the source is Latin-script only and no Jawi form is printed for this
+  entry.'

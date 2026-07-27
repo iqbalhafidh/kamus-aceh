@@ -1,0 +1,35 @@
+headword: hasut
+jawi: حسود
+alt_spelling: []
+ipa: ''
+part_of_speech: n
+definitions:
+- meaning_id: hasut, fitnah
+  meaning_en: incitement, sedition, slander
+examples:
+- aceh: pakon gata galak that ta hasut keu gob nyang hana takalon?
+  jawi: ''
+  id: Mengapa Anda suka sekali menghasut orang yg Anda sendiri tidak melihatnya?
+  en: Why are you so fond of inciting people about what you did not see yourself?
+- aceh: meu hasut
+  jawi: ''
+  id: menghasut
+  en: to incite
+- aceh: meu hasut
+  jawi: ''
+  id: hasut-menghasut (dl hik)
+  en: mutual incitement (in hikayat)
+etymology: Arabic loanword; the Jawi form given here is the Arabic etymon.
+related_words:
+- hasad
+dialect_notes: 'Marked (dl hik) in the source: attested in hikayat, the classical Acehnese narrative verse
+  register.'
+source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
+  Pendidikan dan Kebudayaan, 1985, hlm. 285'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+language_uncertain: true
+extraction_notes: 'Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate
+  reviewer. Language flagged uncertain: this is an Arabic loanword shared with Indonesian. It is listed
+  as a headword in an Acehnese dictionary, so it is treated as naturalised Acehnese, but a reviewer should
+  confirm.'

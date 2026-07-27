@@ -2,16 +2,50 @@ headword: kawan
 jawi: ''
 alt_spelling: []
 ipa: ''
-part_of_speech: ''
+part_of_speech: n
 definitions:
-- meaning_id: kawanan
-  meaning_en: herd of animals
-examples: []
+- meaning_id: kawanan, kelompok, kawan, teman, rekan, sahabat
+  meaning_en: friend, group, companion
+examples:
+- aceh: 'soe nyan: kawan atawa lawan'
+  jawi: ''
+  id: '? Siapakah itu, kawan atau lawan?'
+  en: Who is that, friend or foe?
+- aceh: geutanyoe
+  jawi: ''
+  id: kawan atau orang-orang kita?
+  en: friends, or our own people?
+- aceh: keubeue
+  jawi: ''
+  id: kawanan kerbau
+  en: friend buffalo
+- aceh: eungkôt, kawanan ikan, meukawan, (dl hik) meukeukawan
+  jawi: ''
+  id: berkawan-kawan, sangat banyak
+  en: friend friend, very many
+- aceh: soe jak nyan meukawan
+  jawi: ''
+  id: '? Siapakah yang berjalan beramai-ramajitu?'
+  en: Who are those people walking in a crowd?
+- aceh: Peukawan
+  jawi: ''
+  id: membuat sehingga menjadi kelompok atau kawanan, menyertai dengan kelompok atau kawanan
+  en: to form into a group or herd, to join with a group
+- aceh: peukawan droe
+  jawi: ''
+  id: bergabung dng kelompok atau kawanan
+  en: to join a group or herd
+- aceh: tapeukawan droeteu ngon lôn
+  jawi: ''
+  id: mari, Anda bergabung dengan saya
+  en: come, join me
 etymology: ''
 related_words: []
-dialect_notes: ''
-source: 'Daud, Bukhari & Mark Durie. Kamus Basa Acèh = Kamus Bahasa Aceh: Acehnese–Indonesian–English Thesaurus.
-  Pacific Linguistics C-151, 1999, p. 105.'
-date_added: '2026-07-20'
+dialect_notes: 'Marked (dl hik) in the source: attested in hikayat, the classical Acehnese narrative verse
+  register.'
+source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
+  Pendidikan dan Kebudayaan, 1985, hlm. 385'
+date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: ''
+extraction_notes: 'Jawi left blank: the source is Latin-script only and no Jawi form is printed for this
+  entry.'

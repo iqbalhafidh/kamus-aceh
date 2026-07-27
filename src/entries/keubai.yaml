@@ -2,16 +2,39 @@ headword: keubai
 jawi: ''
 alt_spelling: []
 ipa: ''
-part_of_speech: ''
+part_of_speech: a
 definitions:
-- meaning_id: kebal
-  meaning_en: invulnerable
-examples: []
+- meaning_id: kebal, tak dimakan oleh senjata besi atau peluru
+  meaning_en: invulnerable, proof against iron weapons and bullets
+examples:
+- aceh: du'akeubai
+  jawi: ''
+  id: doa kebal
+  en: prayer invulnerable
+- aceh: èleumée keubai
+  jawi: ''
+  id: ilmu kebal
+  en: knowledge invulnerable
+- aceh: sarông, kebal sejak lahir krn dilahirkan dng sarung (orang yg demikian hanya dapat dilukai dng
+    menikamkan sarung senjata ke badannya keubai sarông)
+  jawi: ''
+  id: keubai
+  en: invulnerability
+- aceh: siuroe
+  jawi: ''
+  id: kebal sehari, (sj kekebalan yg diperoleh al dng menggosok sj minyak, minyeuk keubai siuroe)
+  en: a day's invulnerability, obtained among other ways by rubbing on a certain oil
+- aceh: peukeubai
+  jawi: ''
+  id: membuat seseorang kebal
+  en: to make someone invulnerable
 etymology: ''
-related_words: []
+related_words:
+- raksa
 dialect_notes: ''
-source: 'Daud, Bukhari & Mark Durie. Kamus Basa Acèh = Kamus Bahasa Aceh: Acehnese–Indonesian–English Thesaurus.
-  Pacific Linguistics C-151, 1999, p. 21.'
-date_added: '2026-07-20'
+source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
+  Pendidikan dan Kebudayaan, 1985, hlm. 392'
+date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: ''
+extraction_notes: 'Jawi left blank: the source is Latin-script only and no Jawi form is printed for this
+  entry.'

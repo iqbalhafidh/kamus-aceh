@@ -1,19 +1,30 @@
----
-headword: "juhang"
-jawi: ""
-alt_spelling: []
-ipa: "/ju.haŋ/"
-part_of_speech: "n"
-language_uncertain: false
+headword: juhang
+jawi: ''
+alt_spelling:
+- jôhang
+ipa: ''
+part_of_speech: n
 definitions:
-  - meaning_id: "ikan laut yg bersama-sama menampakkan kepalanya jika timbul di permukaan air, seperti ikan pari, bertanduk"
-    meaning_en: ""
+- meaning_id: sejenis ikan laut yang bersama-sama menampakkan kepala-nya jika timbul di permukaan air
+  meaning_en: a kind of sea fish that shows its head in shoals when it surfaces
 examples:
-  []
-etymology: ""
+- aceh: bungong juhang
+  jawi: ''
+  id: sj motif hiasan dr lukisan-lukisan tajam yg berbentuk biku-biku
+  en: a kind of ornamental motif of sharp zigzag lines
+- aceh: meu juhang
+  jawi: ''
+  id: menyerupai kepala ikan juahng yg timbul di permukaan air, berbentuk tajam, bertubrukan satu sama
+    lain, porak-poranda (dl hik)
+  en: like the heads of juahng fish breaking the surface, sharp, colliding with one another, in disarray
+    (in hikayat)
+etymology: ''
 related_words: []
-dialect_notes: ""
-source: "Kamus Bahasa Aceh Daring (Balai Bahasa Provinsi Aceh), 'Entri huruf — juhang', URL: https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/J?page=9 (diakses 20 Juli 2026); halaman tambahan: J?page=11, J?page=12, J?page=13, J?page=14, J?page=15, J?page=16, J?page=17, J?page=18, J?page=19, J?page=2, J?page=3, J?page=4, J?page=5, J?page=6, J?page=7, J?page=8, J?page=9"
-date_added: "2026-07-20"
-contributor: "AI-extracted — needs human review"
-extraction_notes: "Diekstrak dari 18 halaman sumber (https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/J?page=10, https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/J?page=11, https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/J?page=12, https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/J?page=13, https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/J?page=14, https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/J?page=15, https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/J?page=16, https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/J?page=17, https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/J?page=18, https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/J?page=19, https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/J?page=2, https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/J?page=3, https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/J?page=4, https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/J?page=5, https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/J?page=6, https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/J?page=7, https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/J?page=8, https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/J?page=9). Ditemukan pada beberapa halaman; definisi dan contoh digabungkan. Tidak ada bentuk Jawi dalam sumber — dibiarkan kosong sesuai aturan."
+dialect_notes: 'Marked (dl hik) in the source: attested in hikayat, the classical Acehnese narrative verse
+  register.'
+source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
+  Pendidikan dan Kebudayaan, 1985, hlm. 352'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+extraction_notes: 'Jawi left blank: the source is Latin-script only and no Jawi form is printed for this
+  entry.'

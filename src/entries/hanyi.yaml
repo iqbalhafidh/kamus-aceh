@@ -1,0 +1,31 @@
+headword: hanyi
+jawi: ''
+alt_spelling:
+- anyi
+ipa: ''
+part_of_speech: a
+definitions:
+- meaning_id: anyir, kurang sopan dalam berkata-kata
+  meaning_en: rank-smelling, impolite in speech
+examples:
+- aceh: engkōt nyan hanyi that, meung kon tabōh bawang putēh h'an ēk tapajōh
+  jawi: ''
+  id: Ikan itu anyir sekali, jika tidak dibubuhi bawang putih tidak sedap dimakan
+  en: That fish smells very rank; without garlic it is not good to eat
+- aceh: bak glunyueng narit nyan, h'an mée lōn leungo
+  jawi: ''
+  id: Kata-kata itu tidak sedap terdengar, tidak layak saya mendengarnya
+  en: Those words are unpleasant to hear, it is not fitting that I should hear them
+- aceh: peu hanyi
+  jawi: ''
+  id: membuat anyir
+  en: to make rank-smelling
+etymology: ''
+related_words: []
+dialect_notes: ''
+source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
+  Pendidikan dan Kebudayaan, 1985, hlm. 281'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+extraction_notes: 'Jawi left blank: the source is Latin-script only and no Jawi form is printed for this
+  entry.'

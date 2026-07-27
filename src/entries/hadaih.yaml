@@ -1,0 +1,37 @@
+headword: hadaih
+jawi: حدث
+alt_spelling: []
+ipa: ''
+part_of_speech: a
+definitions:
+- meaning_id: hadas, keadaan tidak suci yang melarang seseorang melakukan sembahyang
+  meaning_en: ritual impurity, a state of ritual impurity that bars a person from performing the prayer
+examples:
+- aceh: cut
+  jawi: ''
+  id: hadas kecil
+  en: ritual impurity small
+- aceh: rayek, hadaih akeuba
+  jawi: ''
+  id: hadas besar, jeunabat
+  en: major ritual impurity, janabah
+- aceh: boih hadaih rayek
+  jawi: ''
+  id: membuang hadas besar, menyucikan jenazah
+  en: to remove major ritual impurity, to purify a corpse
+- aceh: 'manoe hadaih rayek = manoe jeunabat, manoe junub, mandi junub: meu hadaih'
+  jawi: ''
+  id: berhadas, tidak suci utk bersembahyang
+  en: to be in a state of ritual impurity, unfit for prayer
+etymology: Arabic loanword; the Jawi form given here is the Arabic etymon.
+related_words: []
+dialect_notes: ''
+source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
+  Pendidikan dan Kebudayaan, 1985, hlm. 272'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+language_uncertain: true
+extraction_notes: 'Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate
+  reviewer. Language flagged uncertain: this is an Arabic loanword shared with Indonesian. It is listed
+  as a headword in an Acehnese dictionary, so it is treated as naturalised Acehnese, but a reviewer should
+  confirm.'
