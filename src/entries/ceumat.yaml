@@ -1,0 +1,48 @@
+headword: ceumat
+jawi: چيوماټ
+alt_spelling: []
+ipa: ''
+part_of_speech: v
+definitions:
+- meaning_id: menyematkan, menusuk, mencucukkan, merangkai, menjahit, mengikat, menambat, mengikat secara kendur
+  meaning_en: to pin, to stab, to pierce, to string, to sew, to tie, to fasten, to loosely tie
+  examples:
+  - aceh: ta
+    jawi: ''
+    id: ''
+    en: ''
+  - aceh: ija
+    jawi: ''
+    id: ''
+    en: ''
+- meaning_id: Jahitlah kain secara kendur
+  meaning_en: Sew the fabric loosely
+  examples:
+  - aceh: meu
+    jawi: ''
+    id: ''
+    en: ''
+  - aceh: teu
+    jawi: ''
+    id: dicemat, tercemar
+    en: ''
+  - aceh: peu
+    jawi: ''
+    id: mencemarkan
+    en: ''
+  - aceh: ceumumat
+    jawi: ''
+    id: melakukan cemar
+    en: ''
+  - aceh: ceuneumat
+    jawi: ''
+    id: cemaran
+    en: ''
+etymology: ''
+related_words:
+- seumat
+dialect_notes: ''
+source: Kamus Aceh-Indonesia (Acehnese-Indonesian Dictionary), p. 127
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+extraction_notes: Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate reviewer.

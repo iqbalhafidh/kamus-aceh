@@ -1,17 +1,60 @@
 headword: gulè
-jawi: ''
+jawi: ڬله
 alt_spelling: []
 ipa: ''
-part_of_speech: ''
+part_of_speech: n
 definitions:
-- meaning_id: sayur
-  meaning_en: vegetable
-examples: []
+- meaning_id: 'sj gulai sayur utk kawan nasi: —'
+  meaning_en: ''
+  examples:
+  - aceh: leumak
+    jawi: ''
+    id: gulai yg dimasak dng *
+    en: ''
+  - aceh: santan
+    jawi: ''
+    id: '* dan kadang-kadang juga dng ikan asing'
+    en: '* and sometimes also with foreign fish'
+  - aceh: masam keueung
+    jawi: ''
+    id: (—
+    en: ''
+  - aceh: masam peudaih
+    jawi: ''
+    id: ), gulai masam padas
+    en: ''
+  - aceh: pi u
+    jawi: ''
+    id: gulai yg dimasak dng ampas parutan kelapa yg telah diperam dan diambil minyaknya
+    en: curry cooked with fermented coconut pulp that has been pressed to extract oil
+  - aceh: rampon
+    jawi: ''
+    id: (—
+    en: ''
+  - aceh: rampoe
+    jawi: ''
+    id: ), campuran berbagai-bagai sayuran
+    en: 1glaih, glah, additional form of jlaih (→ jeulaih)
+  - aceh: taguen Klèng
+    jawi: ''
+    id: gulai dng daging kambing serta dibubuhi rempah-rempah, —
+    en: goat curry seasoned with spices, —
+  - aceh: meuaweueh
+    jawi: ''
+    id: —
+    en: ''
+  - aceh: kamèng
+    jawi: ''
+    id: ''
+    en: ''
+  - aceh: meuaweueh
+    jawi: ''
+    id: buah nangka muda
+    en: young jackfruit
 etymology: ''
 related_words: []
 dialect_notes: ''
-source: 'Daud, Bukhari & Mark Durie. Kamus Basa Acèh = Kamus Bahasa Aceh: Acehnese–Indonesian–English Thesaurus.
-  Pacific Linguistics C-151, 1999, p. 61; p. 71.'
-date_added: '2026-07-20'
+source: Kamus Aceh-Indonesia (Acehnese-Indonesian Dictionary), p. 260
+date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: ''
+extraction_notes: Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate reviewer. Some fields (English translations, Jawi) may be incomplete due to API rate limits during processing. Re-run the translation script to fill in missing fields.

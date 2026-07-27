@@ -1,17 +1,32 @@
 headword: dirui
-jawi: ''
+jawi: دروي
 alt_spelling: []
 ipa: ''
-part_of_speech: ''
+part_of_speech: n
 definitions:
-- meaning_id: sepoi-sepoi
-  meaning_en: gentle, cool (breeze)
-examples: []
+- meaning_id: "lembut dan menyenangkan,\n menyejukkan, sepoi-sepoi: — that angèn nyoe, meus'ebas'eb jita-mong lam-lam bulèeteu, angin ini sangat sepoi, ia merasuk-rasuk sampai-sampai ke dl bulu roma kita"
+  meaning_en: 'soft and pleasant, cooling, gentle: — that angèn nyoe, meus''ebas''eb jita-mong lam-lam bulèeteu, this wind is very gentle, it seeps in through our skin hairs'
+  examples:
+  - aceh: jipôt angèn — — basa, angin berembus sangat menyejukkan, meu — (
+    jawi: ''
+    id: ), berangin-angin, membiarkan diembus angin, menghirup udara segar
+    en: ''
+  - aceh: tutông that, jak tajak meu
+    jawi: ''
+    id: keu deh u blang, udara panas sekali, mari kita menghirup udara segar di sawah
+    en: ''
+  - aceh: peu
+    jawi: ''
+    id: menginginkan, mendinginkan
+    en: ''
+  - aceh: "tapeu — lôn bacut, dinginkan badan saya sedikit. → angèn, sapui\n disa (dl hik) n desa, daerah: eu —, kalon —, tandang —, bertualang melihat daerah, bepergian (utk kesenangan sendiri), melihat sesuatu: sukèe indra jidong bak saboh sagrè, teudong keudroe jieu"
+    jawi: ''
+    id: kelompok indra berdiri pd sebuah sudut, masing-masing mereka melihat pertunjukan
+    en: ''
 etymology: ''
 related_words: []
 dialect_notes: ''
-source: 'Daud, Bukhari & Mark Durie. Kamus Basa Acèh = Kamus Bahasa Aceh: Acehnese–Indonesian–English Thesaurus.
-  Pacific Linguistics C-151, 1999, p. 96.'
-date_added: '2026-07-20'
+source: Kamus Aceh-Indonesia (Acehnese-Indonesian Dictionary), p. 171
+date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: ''
+extraction_notes: Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate reviewer.

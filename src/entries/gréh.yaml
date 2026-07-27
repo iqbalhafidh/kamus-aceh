@@ -1,17 +1,36 @@
 headword: gréh
-jawi: ''
+jawi: ڬره
 alt_spelling: []
 ipa: ''
-part_of_speech: ''
+part_of_speech: v
 definitions:
-- meaning_id: mengarit
-  meaning_en: cut into segments
-examples: []
+- meaning_id: mengarit, mengerat, mengampak, menggergaji secara melintang
+  meaning_en: to cut, to trim, to flatten, to saw across
+  examples:
+  - aceh: si Amat teungoh ji
+    jawi: ''
+    id: ''
+    en: ''
+  - aceh: bak u
+    jawi: ''
+    id: Si Amat sedang menggergaji batang pohon kelapa dl bentuk melintang
+    en: ''
+  - aceh: teubêe si
+    jawi: ''
+    id: sekerat tebu
+    en: ''
+  - aceh: padum
+    jawi: ''
+    id: ''
+    en: ''
+  - aceh: jeuet bak u myoe?
+    jawi: ''
+    id: Berapa potong batang kelapa ini dapat dikampak atau digergaji dl potong-potongan melintang
+    en: How many sections of this coconut trunk can be chopped or sawn into crosswise pieces
 etymology: ''
 related_words: []
 dialect_notes: ''
-source: 'Daud, Bukhari & Mark Durie. Kamus Basa Acèh = Kamus Bahasa Aceh: Acehnese–Indonesian–English Thesaurus.
-  Pacific Linguistics C-151, 1999, p. 41.'
-date_added: '2026-07-20'
+source: Kamus Aceh-Indonesia (Acehnese-Indonesian Dictionary), p. 254
+date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: ''
+extraction_notes: Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate reviewer.

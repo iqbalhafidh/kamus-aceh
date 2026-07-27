@@ -1,0 +1,47 @@
+headword: glèh
+jawi: ݢله
+alt_spelling:
+- jlèh
+ipa: ''
+part_of_speech: a
+definitions:
+- meaning_id: bersih, suci
+  meaning_en: ''
+  examples:
+  - aceh: ija
+    jawi: ''
+    id: kain yg bersih
+    en: ''
+  - aceh: lòn hana
+    jawi: ''
+    id: ''
+    en: ''
+  - aceh: badan
+    jawi: ''
+    id: Badan saya tidak suci = dl keadaan haid (berkata seorang wanita yg masih berhaid)
+    en: My body is impure = in a state of menstruation (said by a woman who is still menstruating)
+  - aceh: meu
+    jawi: ''
+    id: membersihkan diri, tidak bersengketa, tidak bevutang
+    en: cleaning oneself, not disputing, not in debt
+  - aceh: lòn ka lòn meu
+    jawi: ''
+    id: ''
+    en: ''
+  - aceh: ngon gobnyan
+    jawi: ''
+    id: Saya sudah menyelesaikan sengketa utang dengannya
+    en: I have settled the debt dispute with him
+  - aceh: peu
+    jawi: ''
+    id: melakukan pembersihan
+    en: doing cleaning
+etymology: ''
+related_words:
+- nèh
+- suci
+dialect_notes: ''
+source: Kamus Aceh-Indonesia (Acehnese-Indonesian Dictionary), p. 245
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+extraction_notes: 'Source lists variant spellings: jlèh. Some fields (English translations, Jawi) may be incomplete due to API rate limits during processing. Re-run the translation script to fill in missing fields. Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate reviewer.'

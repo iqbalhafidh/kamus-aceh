@@ -1,17 +1,26 @@
-headword: Éseulam
-jawi: ''
+headword: éseulam
+jawi: اسولم
 alt_spelling: []
 ipa: ''
-part_of_speech: ''
+part_of_speech: n
 definitions:
-- meaning_id: Islam
-  meaning_en: Islam
-examples: []
+- meaning_id: 'Islam: agama –, agama Islam'
+  meaning_en: sigumpai, a clot of blood in the hand of a newborn baby
+  examples: []
+- meaning_id: ureueng –, orang Islam
+  meaning_en: ''
+  examples: []
+- meaning_id: si nyan awai jikphé dudoe ji –, Mula-mula ia seorang kafir, kemudian, menjadi penganut agama Islam. peu –, mengislamkan seseorang
+  meaning_en: si nyan awai jikphé dudoe ji –, At first he was an infidel, then, became a follower of Islam. peu –, to convert someone to Islam
+  examples: []
+- meaning_id: soe peu – inong nyan yoh goh jimeukawén ngon lakoe jeunoe? Siapa yg mengislamkan wanita itu sebelum ia kawin dng suaminya yg sekarang?
+  meaning_en: soe peu – inong nyan yoh goh jimeukawén ngon lakoe jeunoe? Who converted that woman before she married her current husband?
+  examples: []
 etymology: ''
-related_words: []
+related_words:
+- moseulimin
 dialect_notes: ''
-source: 'Daud, Bukhari & Mark Durie. Kamus Basa Acèh = Kamus Bahasa Aceh: Acehnese–Indonesian–English Thesaurus.
-  Pacific Linguistics C-151, 1999, p. 23.'
-date_added: '2026-07-20'
+source: Kamus Aceh-Indonesia (Acehnese-Indonesian Dictionary), p. 194
+date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: ''
+extraction_notes: Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate reviewer.

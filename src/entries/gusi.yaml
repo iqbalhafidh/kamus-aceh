@@ -1,18 +1,24 @@
 headword: gusi
-jawi: ''
+jawi: ݢوسي
 alt_spelling: []
 ipa: ''
-part_of_speech: ''
+part_of_speech: n
 definitions:
 - meaning_id: gusi
   meaning_en: gum
-examples: []
+  examples:
+  - aceh: keumong
+    jawi: ''
+    id: bengkak gusi
+    en: swollen gums
+  - aceh: meudanoh
+    jawi: ''
+    id: bernanah gusi
+    en: bleeding gums
 etymology: ''
-related_words:
-- rhö
+related_words: []
 dialect_notes: ''
-source: 'Daud, Bukhari & Mark Durie. Kamus Basa Acèh = Kamus Bahasa Aceh: Acehnese–Indonesian–English Thesaurus.
-  Pacific Linguistics C-151, 1999, p. 28.'
-date_added: '2026-07-20'
+source: Kamus Aceh-Indonesia (Acehnese-Indonesian Dictionary), p. 267
+date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: ''
+extraction_notes: Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate reviewer.

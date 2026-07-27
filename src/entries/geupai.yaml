@@ -1,17 +1,34 @@
 headword: geupai
-jawi: ''
+jawi: ڬڤاي
 alt_spelling: []
 ipa: ''
-part_of_speech: ''
+part_of_speech: v
 definitions:
-- meaning_id: kepal
-  meaning_en: squeeze in fist
-examples: []
+- meaning_id: 'kepal: ji - bu, Ia mengepal nasi'
+  meaning_en: 'to clench: he clenched the rice'
+  examples: []
+- meaning_id: si-, sekepal
+  meaning_en: si-, sekepal
+  examples: []
+- meaning_id: meu-, teu-, mengepal
+  meaning_en: meu-, teu-, to hold in one's hand
+  examples: []
+- meaning_id: bu meu-, teu-, nasi kepal
+  meaning_en: ''
+  examples: []
+- meaning_id: peu-, melakukan kepalan
+  meaning_en: ''
+  examples: []
+- meaning_id: soe geumeupai raya-raya that? Siapa yg mengepal besar-besar sekali? geuneupai, cara atau hasil mengepal
+  meaning_en: soe geumeupai raya-raya that? Who is holding their head up high? geuneupai, way or result of holding up
+  examples: []
+- meaning_id: raya that geuneupai, Besar-besar sekali kepalannya!
+  meaning_en: ''
+  examples: []
 etymology: ''
 related_words: []
 dialect_notes: ''
-source: 'Daud, Bukhari & Mark Durie. Kamus Basa Acèh = Kamus Bahasa Aceh: Acehnese–Indonesian–English Thesaurus.
-  Pacific Linguistics C-151, 1999, p. 43.'
-date_added: '2026-07-20'
+source: Kamus Aceh-Indonesia (Acehnese-Indonesian Dictionary), p. 231
+date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: ''
+extraction_notes: Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate reviewer.

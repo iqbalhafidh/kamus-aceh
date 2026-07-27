@@ -1,19 +1,20 @@
----
-headword: "dalém"
-jawi: ""
-alt_spelling: []
-ipa: "/da.lem/"
-part_of_speech: "n"
-language_uncertain: false
+headword: dalém
+jawi: دالم
+alt_spelling:
+- lém
+ipa: ''
+part_of_speech: n
 definitions:
-  - meaning_id: "sapaan untuk abang kandung atau laki-laki yg dituakan"
-    meaning_en: ""
-examples:
-  []
-etymology: ""
-related_words: []
-dialect_notes: ""
-source: "Kamus Bahasa Aceh Daring (Balai Bahasa Provinsi Aceh), 'Entri huruf — dalém', URL: https://kamusbbpa.kemendikdasmen.go.id/kamus/Aceh/D (diakses 20 Juli 2026)"
-date_added: "2026-07-20"
-contributor: "AI-extracted — needs human review"
-extraction_notes: "Diekstrak dari 1 halaman sumber (https://kamusbbpa.kemendikdasmen.go.id/kamus/Aceh/D). Tidak ada bentuk Jawi dalam sumber — dibiarkan kosong sesuai aturan."
+- meaning_id: abang, kemenakan zg lebih tua, penamaan pemain sadati oleh anak-anak sadati, seorang budak yg telah dimerdekakan yg berumur lebih tua dr pembicaraan pd masa dahulu
+  meaning_en: older brother, nephew who is older, naming of players by children, a child who has been freed and is older than the person being spoken to in the past
+  examples: []
+etymology: ''
+related_words:
+- abang
+- aduen
+- lém
+dialect_notes: ''
+source: Kamus Aceh-Indonesia (Acehnese-Indonesian Dictionary), p. 155
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+extraction_notes: 'Source lists variant spellings: lém. Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate reviewer.'

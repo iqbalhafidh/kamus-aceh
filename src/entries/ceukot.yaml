@@ -1,19 +1,40 @@
----
-headword: "ceukot"
-jawi: ""
+headword: ceukot
+jawi: چيوکوٰت
 alt_spelling: []
-ipa: "/cɯ.kot/"
-part_of_speech: "v"
-language_uncertain: false
+ipa: ''
+part_of_speech: v
 definitions:
-  - meaning_id: "memutar, membengkokkan, mematahkan, memutuskan, memetik kangkung dng memutar batangnya"
-    meaning_en: ""
-examples:
-  []
-etymology: ""
+- meaning_id: memutar, membengkokkan, mematahkan, memutuskan, memetik kangkung dng memutar batangnya
+  meaning_en: ''
+  examples:
+  - aceh: mata
+    jawi: ''
+    id: ''
+    en: ''
+  - aceh: misé julêng
+    jawi: ''
+    id: matanya berputar spt orang juling
+    en: ''
+  - aceh: buet nyan dilée ka ji
+    jawi: ''
+    id: ''
+    en: ''
+  - aceh: lom
+    jawi: ''
+    id: Perbuatan dahulu sudah diungkitnya kembali
+    en: Past actions have been brought up again
+  - aceh: meu
+    jawi: ''
+    id: berputar
+    en: rotate
+  - aceh: peu
+    jawi: ''
+    id: membuat berputar
+    en: ''
+etymology: ''
 related_words: []
-dialect_notes: ""
-source: "Kamus Bahasa Aceh Daring (Balai Bahasa Provinsi Aceh), 'Entri huruf — ceukot', URL: https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/C?page=2 (diakses 20 Juli 2026)"
-date_added: "2026-07-20"
-contributor: "AI-extracted — needs human review"
-extraction_notes: "Diekstrak dari 1 halaman sumber (https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/C?page=2). Tidak ada bentuk Jawi dalam sumber — dibiarkan kosong sesuai aturan."
+dialect_notes: ''
+source: Kamus Aceh-Indonesia (Acehnese-Indonesian Dictionary), p. 126
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+extraction_notes: Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate reviewer. Some fields (English translations, Jawi) may be incomplete due to API rate limits during processing. Re-run the translation script to fill in missing fields.

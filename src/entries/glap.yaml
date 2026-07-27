@@ -1,19 +1,53 @@
 headword: glap
-jawi: ''
+jawi: ڬلڤ
 alt_spelling: []
 ipa: ''
-part_of_speech: ''
+part_of_speech: a
 definitions:
-- meaning_id: penjara, bui
-  meaning_en: prison, jail
-examples: []
+- meaning_id: "gelap, tidak terang, penjara: — *that buleuen malam\n nyoe!"
+  meaning_en: 'dark, not bright, prison: — *that buleuen malam nyoe!'
+  examples:
+  - aceh: Malam ini gelap sekali. —
+    jawi: ''
+    id: gulita, geulumeut*, gelap gulita
+    en: ''
+  - aceh: beuthat beu
+    jawi: ''
+    id: ''
+    en: ''
+  - aceh: geulumeut jilôb cit!
+    jawi: ''
+    id: Walaupun (tempat itu) gelap gulita, ia masuk juga ke dalamnya
+    en: ''
+  - aceh: urpueng nyan ka jibôh lam
+    jawi: ''
+    id: Orang itu sudah dipenjarakan
+    en: ''
+  - aceh: peu
+    jawi: ''
+    id: "membuat gelap, memenjarakan → bencana, jen, had\n 1glaga, geulaga, b(eu)laga"
+    en: ''
+  - aceh: taboih
+    jawi: ''
+    id: ''
+    en: ''
+  - aceh: panyot!
+    jawi: ''
+    id: Buanglah jelaga lampu!
+    en: ''
+  - aceh: meu
+    jawi: ''
+    id: berjelaga
+    en: ''
+  - aceh: peu
+    jawi: ''
+    id: "membiarkan berjelaga\n 2glaga, geulaga, b(eu)laga"
+    en: ''
 etymology: ''
 related_words:
-- peunjara keureungkheng
+- rabo
 dialect_notes: ''
-source: 'Daud, Bukhari & Mark Durie. Kamus Basa Acèh = Kamus Bahasa Aceh: Acehnese–Indonesian–English Thesaurus.
-  Pacific Linguistics C-151, 1999, p. 22.'
-date_added: '2026-07-20'
+source: Kamus Aceh-Indonesia (Acehnese-Indonesian Dictionary), p. 243
+date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: PDF text-layer mismatch in the Acehnese form; copied from the searchable PDF text layer and needs
-  visual verification against printed p. 22.
+extraction_notes: Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate reviewer.

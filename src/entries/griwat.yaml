@@ -1,0 +1,32 @@
+headword: griwat
+jawi: ݢريوات
+alt_spelling:
+- geuriwat
+- griwai
+ipa: ''
+part_of_speech: v
+definitions:
+- meaning_id: 'menggerakkan: — droe, menggerakkan diri'
+  meaning_en: ''
+  examples:
+  - aceh: hana ji — dore lê. Ia tidak menggerakkan dirinya lagi → bi-lêh, meu
+    jawi: ''
+    id: menggerakkan
+    en: to move
+  - aceh: peu —
+    jawi: ''
+    id: "=\n gro"
+    en: 'depa: tabri sihaih jimeucok si -, kita berikan sehasta dimintanya sedepa = diberikan sedikit dimintany- banyak → atôt'
+- meaning_id: n aneuk gro sj ikan air tawar yg sangat kecil
+  meaning_en: ''
+  examples: []
+etymology: ''
+related_words:
+- "iet\n gr'o-gr'o mengorok"
+- 'mendekur: meu — —'
+- mengeluarkan bunyi mendekur
+dialect_notes: ''
+source: Kamus Aceh-Indonesia (Acehnese-Indonesian Dictionary), p. 255
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+extraction_notes: 'Source lists variant spellings: geuriwat, griwai. Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate reviewer. Some fields (English translations, Jawi) may be incomplete due to API rate limits during processing. Re-run the translation script to fill in missing fields.'

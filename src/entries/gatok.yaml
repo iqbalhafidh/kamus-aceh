@@ -1,20 +1,34 @@
 headword: gatok
-jawi: ''
-alt_spelling: []
+jawi: ݢatok
+alt_spelling:
+- katok
+- boh gatok boh panta
 ipa: ''
 part_of_speech: ''
 definitions:
-- meaning_id: main guli
-  meaning_en: marbles (using areca nuts)
-- meaning_id: mata kaki
-  meaning_en: ankle
-examples: []
+- meaning_id: –
+  meaning_en: ), sj white lice that attach to cloth
+  examples:
+  - aceh: gaki
+    jawi: ''
+    id: mata kaki
+    en: ''
+  - aceh: raya
+    jawi: ''
+    id: –, (hrf) besar mata kaki = pemalas
+    en: ''
+  - aceh: jih raya
+    jawi: ''
+    id: –, Ia seorang pemalas
+    en: ''
 etymology: ''
 related_words:
-- tumèt
+- gutok
+- meu* –
+- mupantan
+- bermain kelereng
 dialect_notes: ''
-source: 'Daud, Bukhari & Mark Durie. Kamus Basa Acèh = Kamus Bahasa Aceh: Acehnese–Indonesian–English Thesaurus.
-  Pacific Linguistics C-151, 1999, p. 18; p. 30.'
-date_added: '2026-07-20'
+source: Kamus Aceh-Indonesia (Acehnese-Indonesian Dictionary), p. 221
+date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: ''
+extraction_notes: 'Source lists variant spellings: katok, boh gatok boh panta. Part of speech not specified in source. Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate reviewer.'

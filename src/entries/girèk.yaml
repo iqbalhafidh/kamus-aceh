@@ -1,0 +1,30 @@
+headword: girèk
+jawi: گريك
+alt_spelling:
+- geugirèk
+ipa: ''
+part_of_speech: n
+definitions:
+- meaning_id: sj burung yg menurut kepercayaan rakyat jika terbang mengikuti dan meneriakkan hantu-hantu pembawa penyakit *
+  meaning_en: ''
+  examples:
+  - aceh: rambalui
+    jawi: ''
+    id: ''
+    en: ''
+  - aceh: dan
+    jawi: ''
+    id: ''
+    en: ''
+  - aceh: hantu buru
+    jawi: ''
+    id: '*'
+    en: '*'
+etymology: ''
+related_words:
+- ja-wòh
+dialect_notes: ''
+source: Kamus Aceh-Indonesia (Acehnese-Indonesian Dictionary), p. 241
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+extraction_notes: 'Source lists variant spellings: geugirèk. Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate reviewer. Some fields (English translations, Jawi) may be incomplete due to API rate limits during processing. Re-run the translation script to fill in missing fields.'

@@ -1,19 +1,20 @@
----
-headword: "pura"
-jawi: ""
+headword: pura
+jawi: ڤورا
 alt_spelling: []
-ipa: "/pu.ra/"
-part_of_speech: "n"
-language_uncertain: false
+ipa: ''
+part_of_speech: ''
 definitions:
-  - meaning_id: "pura"
-    meaning_en: ""
-examples:
-  []
-etymology: ""
-related_words: []
-dialect_notes: ""
-source: "Kamus Bahasa Aceh Daring (Balai Bahasa Provinsi Aceh), 'Entri huruf — pura', URL: https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/P?page=19 (diakses 20 Juli 2026); halaman tambahan: P?page=11, P?page=12, P?page=13, P?page=14, P?page=15, P?page=16, P?page=17, P?page=18, P?page=19, P?page=6, P?page=7, P?page=8, P?page=9"
-date_added: "2026-07-20"
-contributor: "AI-extracted — needs human review"
-extraction_notes: "Diekstrak dari 14 halaman sumber (https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/P?page=10, https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/P?page=11, https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/P?page=12, https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/P?page=13, https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/P?page=14, https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/P?page=15, https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/P?page=16, https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/P?page=17, https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/P?page=18, https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/P?page=19, https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/P?page=6, https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/P?page=7, https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/P?page=8, https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/P?page=9). Ditemukan pada beberapa halaman; definisi dan contoh digabungkan. Tidak ada bentuk Jawi dalam sumber — dibiarkan kosong sesuai aturan."
+- meaning_id: '''eun, meu''eun, tidak suka, jengkel: peu -, membuat seseorang jengkel'
+  meaning_en: '''eun, meu''eun, dislike, annoyed: peu -, to annoy someone'
+  examples: []
+- meaning_id: bèk tapeu - atè gob, Janganlah Anda menjengkelkan orang. peu - droe, membuat diri sendiri
+  meaning_en: bèk tapeu - atè gob, Don't annoy people. peu - droe, to make oneself
+  examples: []
+etymology: ''
+related_words:
+- kebòn, ladang, lampòih
+dialect_notes: ''
+source: Kamus Aceh-Indonesia (Acehnese-Indonesian Dictionary), p. 198
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+extraction_notes: Cross-reference entry pointing to 'kebòn, ladang, lampòih'. Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate reviewer.

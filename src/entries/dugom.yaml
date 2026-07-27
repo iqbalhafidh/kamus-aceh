@@ -1,19 +1,49 @@
----
-headword: "dugom"
-jawi: ""
+headword: dugom
+jawi: دوݢوم
 alt_spelling: []
-ipa: "/du.gɔm/"
-part_of_speech: "v"
-language_uncertain: false
+ipa: ''
+part_of_speech: v
 definitions:
-  - meaning_id: "tiarap, telungkup"
-    meaning_en: ""
-examples:
-  []
-etymology: ""
-related_words: []
-dialect_notes: ""
-source: "Kamus Bahasa Aceh Daring (Balai Bahasa Provinsi Aceh), 'Entri huruf — dugom', URL: https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/D?page=5 (diakses 20 Juli 2026); halaman tambahan: D?page=11, D?page=12, D?page=13, D?page=14, D?page=15, D?page=16, D?page=17, D?page=18, D?page=19, D?page=2, D?page=3, D?page=4, D?page=5, D?page=6, D?page=7, D?page=8, D?page=9"
-date_added: "2026-07-20"
-contributor: "AI-extracted — needs human review"
-extraction_notes: "Diekstrak dari 18 halaman sumber (https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/D?page=10, https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/D?page=11, https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/D?page=12, https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/D?page=13, https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/D?page=14, https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/D?page=15, https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/D?page=16, https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/D?page=17, https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/D?page=18, https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/D?page=19, https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/D?page=2, https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/D?page=3, https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/D?page=4, https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/D?page=5, https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/D?page=6, https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/D?page=7, https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/D?page=8, https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/D?page=9). Ditemukan pada beberapa halaman; definisi dan contoh digabungkan. Tidak ada bentuk Jawi dalam sumber — dibiarkan kosong sesuai aturan."
+- meaning_id: tiarap, telungkup (utk benda-benda yg berbentuk mangkok)
+  meaning_en: ''
+  examples:
+  - aceh: ka thèe
+    jawi: ''
+    id: sudah dpt menelungkup (dikatakan utk menyatakan umur seorang anak)
+    en: ''
+  - aceh: ka — blangong beusoe!
+    jawi: ''
+    id: Telungkupkanlah belanga besil
+    en: ''
+  - aceh: meu
+    jawi: ''
+    id: (
+    en: ''
+  - aceh: teu
+    jawi: ''
+    id: ), tertelungkup, terbalik (ump perahu)
+    en: –, → *
+  - aceh: bèk kaéh meu
+    jawi: ''
+    id: ''
+    en: ''
+  - aceh: reujang maté makeu
+    jawi: ''
+    id: Janganlah engkau tidur telungkup, lekas meninggal ibu (atau ayah)mu!
+    en: ''
+  - aceh: reubah meu
+    jawi: ''
+    id: jatuh tersungkur
+    en: to fall prostrate
+  - aceh: peu
+    jawi: ''
+    id: '='
+    en: ''
+etymology: ''
+related_words:
+- gom
+dialect_notes: ''
+source: Kamus Aceh-Indonesia (Acehnese-Indonesian Dictionary), p. 183
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+extraction_notes: Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate reviewer. Some fields (English translations, Jawi) may be incomplete due to API rate limits during processing. Re-run the translation script to fill in missing fields.

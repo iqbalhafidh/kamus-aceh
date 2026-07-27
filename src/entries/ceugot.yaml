@@ -1,19 +1,36 @@
----
-headword: "ceugot"
-jawi: ""
+headword: ceugot
+jawi: چئوقت
 alt_spelling: []
-ipa: "/cɯ.got/"
-part_of_speech: "v"
-language_uncertain: false
+ipa: ''
+part_of_speech: v
 definitions:
-  - meaning_id: "mengambil sesuatu yg posisinya lebih tinggi dng menggunakan tangan"
-    meaning_en: ""
-examples:
-  []
-etymology: ""
+- meaning_id: merenggut sesuatu dng merentangkan badan seraya mengulurkan tangan, menggapai
+  meaning_en: ''
+  examples:
+  - aceh: ta
+    jawi: ''
+    id: ''
+    en: ''
+  - aceh: plôk daweuet
+    jawi: ''
+    id: gapaikan tempat tinta itu
+    en: ''
+  - aceh: meu
+    jawi: ''
+    id: digapai, tergapai
+    en: peu ~, to make a ceuph'um sound repeatedly
+  - aceh: peu
+    jawi: ''
+    id: menyuruh gapai
+    en: ''
+  - aceh: leugôt, reunggôt
+    jawi: ''
+    id: '*'
+    en: '*'
+etymology: ''
 related_words: []
-dialect_notes: ""
-source: "Kamus Bahasa Aceh Daring (Balai Bahasa Provinsi Aceh), 'Entri huruf — ceugot', URL: https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/C?page=2 (diakses 20 Juli 2026)"
-date_added: "2026-07-20"
-contributor: "AI-extracted — needs human review"
-extraction_notes: "Diekstrak dari 1 halaman sumber (https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/C?page=2). Tidak ada bentuk Jawi dalam sumber — dibiarkan kosong sesuai aturan."
+dialect_notes: ''
+source: Kamus Aceh-Indonesia (Acehnese-Indonesian Dictionary), p. 125
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+extraction_notes: Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate reviewer. Some fields (English translations, Jawi) may be incomplete due to API rate limits during processing. Re-run the translation script to fill in missing fields.

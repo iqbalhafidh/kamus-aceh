@@ -1,0 +1,28 @@
+headword: bukét
+jawi: بوکت
+alt_spelling: []
+ipa: ''
+part_of_speech: ''
+definitions:
+- meaning_id: '*'
+  meaning_en: '*'
+  examples:
+  - aceh: cot
+    jawi: ''
+    id: ''
+    en: ''
+  - aceh: glé
+    jawi: ''
+    id: ''
+    en: ''
+  - aceh: gôh
+    jawi: ''
+    id: '*'
+    en: '*'
+etymology: ''
+related_words: []
+dialect_notes: ''
+source: Kamus Aceh-Indonesia (Acehnese-Indonesian Dictionary), p. 264
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+extraction_notes: Part of speech not specified in source. Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate reviewer. Some fields (English translations, Jawi) may be incomplete due to API rate limits during processing. Re-run the translation script to fill in missing fields.

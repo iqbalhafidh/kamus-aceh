@@ -1,19 +1,51 @@
----
-headword: "glayang"
-jawi: ""
+headword: glayang
+jawi: ڬلايڠ
 alt_spelling: []
-ipa: "/gla.yaŋ/"
-part_of_speech: "n"
-language_uncertain: false
+ipa: ''
+part_of_speech: n
 definitions:
-  - meaning_id: "layang-layang"
-    meaning_en: ""
-examples:
-  []
-etymology: ""
+- meaning_id: 'layang-layang: –'
+  meaning_en: 'kite: –'
+  examples:
+  - aceh: tukong
+    jawi: ''
+    id: layang-layang yg berbentuk bi-sa
+    en: kite shaped like bi-sa
+  - aceh: taloe
+    jawi: ''
+    id: –, benang layang-layang
+    en: kite string
+- meaning_id: –
+  meaning_en: ), sj white lice that attach to cloth
+  examples:
+  - aceh: kleueng
+    jawi: ''
+    id: (–
+    en: ''
+  - aceh: Acèh
+    jawi: ''
+    id: ), sj layang-layang besar yg berbentuk burung elang (kleueng)
+    en: ), a large kite shaped like an eagle (kleueng)
+  - aceh: pupo
+    jawi: ''
+    id: – (
+    en: – (
+  - aceh: peuèk
+    jawi: ''
+    id: –), menerbangkan atau menaikkan layang-layang
+    en: flying or raising a kite
+  - aceh: ikan
+    jawi: ''
+    id: –, sj ikan yg bersirip-sirip panjang
+    en: ''
+  - aceh: meu
+    jawi: ''
+    id: –, mempunyai atau menaikkan layang-layang
+    en: ''
+etymology: ''
 related_words: []
-dialect_notes: ""
-source: "Kamus Bahasa Aceh Daring (Balai Bahasa Provinsi Aceh), 'Entri huruf — glayang', URL: https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/G?page=3 (diakses 20 Juli 2026)"
-date_added: "2026-07-20"
-contributor: "AI-extracted — needs human review"
-extraction_notes: "Diekstrak dari 1 halaman sumber (https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/G?page=3). Tidak ada bentuk Jawi dalam sumber — dibiarkan kosong sesuai aturan."
+dialect_notes: ''
+source: Kamus Aceh-Indonesia (Acehnese-Indonesian Dictionary), p. 244
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+extraction_notes: Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate reviewer.

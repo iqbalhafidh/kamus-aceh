@@ -1,17 +1,44 @@
 headword: gulam
-jawi: ''
+jawi: ڬولم
 alt_spelling: []
 ipa: ''
-part_of_speech: ''
+part_of_speech: v
 definitions:
-- meaning_id: pikul
-  meaning_en: carry on shoulder
-examples: []
+- meaning_id: memikul
+  meaning_en: to carry on the shoulder
+  examples:
+  - aceh: meu
+    jawi: ''
+    id: memikul
+    en: to carry on the shoulder
+  - aceh: peu
+    jawi: ''
+    id: menyuruh pikul, memikul sesuatu di bahu seseorang
+    en: ''
+  - aceh: geumulam
+    jawi: ''
+    id: melakukan pekerjaan memikul
+    en: doing carrying work
+  - aceh: bèk meunan tageumulam
+    jawi: ''
+    id: ''
+    en: ''
+  - aceh: sakèt bahòl
+    jawi: ''
+    id: '! Jangan begitu Anda memikul, sakit bahu Anda!'
+    en: Don't carry it like that, your shoulder will hurt!
+  - aceh: geumulam
+    jawi: ''
+    id: yg dipikul di bahu, pikulan
+    en: ''
+  - aceh: brat that geunulam lòn
+    jawi: ''
+    id: Berat sekali beban yg saya pikul
+    en: ''
 etymology: ''
 related_words: []
 dialect_notes: ''
-source: 'Daud, Bukhari & Mark Durie. Kamus Basa Acèh = Kamus Bahasa Aceh: Acehnese–Indonesian–English Thesaurus.
-  Pacific Linguistics C-151, 1999, p. 43.'
-date_added: '2026-07-20'
+source: Kamus Aceh-Indonesia (Acehnese-Indonesian Dictionary), p. 260
+date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: ''
+extraction_notes: Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate reviewer. Some fields (English translations, Jawi) may be incomplete due to API rate limits during processing. Re-run the translation script to fill in missing fields.

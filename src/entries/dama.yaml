@@ -1,17 +1,32 @@
 headword: dama
-jawi: ''
+jawi: داما
 alt_spelling: []
 ipa: ''
-part_of_speech: ''
+part_of_speech: n
 definitions:
-- meaning_id: damar
-  meaning_en: resin
-examples: []
+- meaning_id: d-mar
+  meaning_en: d-mar
+  examples:
+  - aceh: uteuen bak
+    jawi: ''
+    id: hutan pohon damar
+    en: damar forest
+  - aceh: asap
+    jawi: ''
+    id: asap damar utk membuat tinta
+    en: ''
+  - aceh: bôh
+    jawi: ''
+    id: melumuri damar, memakai
+    en: ''
+  - aceh: meu
+    jawi: ''
+    id: mengumpulkan damar dl hutan
+    en: ''
 etymology: ''
 related_words: []
 dialect_notes: ''
-source: 'Daud, Bukhari & Mark Durie. Kamus Basa Acèh = Kamus Bahasa Aceh: Acehnese–Indonesian–English Thesaurus.
-  Pacific Linguistics C-151, 1999, p. 99.'
-date_added: '2026-07-20'
+source: Kamus Aceh-Indonesia (Acehnese-Indonesian Dictionary), p. 156
+date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: ''
+extraction_notes: Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate reviewer.

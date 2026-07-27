@@ -1,17 +1,21 @@
 headword: ceurana
-jawi: ''
-alt_spelling: []
+jawi: چيورانا
+alt_spelling:
+- crana
 ipa: ''
-part_of_speech: ''
+part_of_speech: n
 definitions:
-- meaning_id: cerana, temp at sirih
-  meaning_en: tray for betel
-examples: []
+- meaning_id: cerana, sj baki tembaga, dulang tembaga (tempat sirih, tempat air minum)
+  meaning_en: cerana, a copper plate, copper tray (place for betel nut, place for drinking water)
+  examples:
+  - aceh: meu
+    jawi: ''
+    id: mempunyai cerana
+    en: has a wife
 etymology: ''
 related_words: []
 dialect_notes: ''
-source: 'Daud, Bukhari & Mark Durie. Kamus Basa Acèh = Kamus Bahasa Aceh: Acehnese–Indonesian–English Thesaurus.
-  Pacific Linguistics C-151, 1999, p. 74.'
-date_added: '2026-07-20'
+source: Kamus Aceh-Indonesia (Acehnese-Indonesian Dictionary), p. 130
+date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: ''
+extraction_notes: 'Source lists variant spellings: crana. Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate reviewer.'

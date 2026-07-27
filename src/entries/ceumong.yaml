@@ -1,19 +1,40 @@
----
-headword: "ceumong"
-jawi: ""
+headword: ceumong
+jawi: چئومڠ
 alt_spelling: []
-ipa: "/cɯ.mɔŋ/"
-part_of_speech: "v"
-language_uncertain: false
+ipa: ''
+part_of_speech: a
 definitions:
-  - meaning_id: "menangis, meratap, meraung;"
-    meaning_en: ""
-examples:
-  []
-etymology: ""
+- meaning_id: menangis, meratap, merangung
+  meaning_en: to cry, wail, sob
+  examples:
+  - aceh: bèk ta
+    jawi: ''
+    id: ''
+    en: ''
+  - aceh: keu ureueng nyang ka hana lè
+    jawi: ''
+    id: Jangan Anda meratapi orang yg telah tiada
+    en: Don't mourn those who have passed away
+  - aceh: meu
+    jawi: ''
+    id: melakukan
+    en: ''
+  - aceh: ceumong
+    jawi: ''
+    id: ''
+    en: ''
+  - aceh: peu
+    jawi: ''
+    id: menyuruh *
+    en: to order/ask someone to do something
+  - aceh: ceumong
+    jawi: ''
+    id: '*'
+    en: '*'
+etymology: ''
 related_words: []
-dialect_notes: ""
-source: "Kamus Bahasa Aceh Daring (Balai Bahasa Provinsi Aceh), 'Entri huruf — ceumong', URL: https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/C?page=2 (diakses 20 Juli 2026)"
-date_added: "2026-07-20"
-contributor: "AI-extracted — needs human review"
-extraction_notes: "Diekstrak dari 1 halaman sumber (https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/C?page=2). Tidak ada bentuk Jawi dalam sumber — dibiarkan kosong sesuai aturan."
+dialect_notes: ''
+source: Kamus Aceh-Indonesia (Acehnese-Indonesian Dictionary), p. 127
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+extraction_notes: Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate reviewer.

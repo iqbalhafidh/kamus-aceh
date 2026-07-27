@@ -1,17 +1,60 @@
-headword: Dônya
-jawi: ''
+headword: dônya
+jawi: دونيا
 alt_spelling: []
 ipa: ''
-part_of_speech: ''
+part_of_speech: n
 definitions:
-- meaning_id: dunia
-  meaning_en: world
-examples: []
+- meaning_id: 'dunia: —'
+  meaning_en: 'world: —'
+  examples:
+  - aceh: ka akhé, anuek miet cut-cut ka jitupeue meusulèt
+    jawi: ''
+    id: '*'
+    en: '*'
+  - aceh: dônya
+    jawi: ''
+    id: ''
+    en: ''
+  - aceh: ''
+    jawi: ''
+    id: n
+    en: ''
+  - aceh: 'dunia: —'
+    jawi: ''
+    id: ka akhié, anuek miet cut-cut ka jitupeue meusulèt*, dunia sudah tua umurnya, anak-anak kecil pun sudah tahu berdusta
+    en: ''
+  - aceh: tinggai — (peulikôt —)
+    jawi: ''
+    id: meninggalkan dunia, membelakangkan dunia, sudah meninggal
+    en: ''
+  - aceh: te-
+    jawi: ''
+    id: ungku Pulan ka neutinggai, neu-peulikôt —, Teungku Pola telah meninggal. → akhirat
+    en: repeatedly, imitation of drum sounds etc.
+  - aceh: hawa keu
+    jawi: ''
+    id: kesukaan kpd harta dunia
+    en: ''
+  - aceh: ke-ureuna
+    jawi: ''
+    id: krn mementingkan dunia
+    en: ''
+  - aceh: riôh atau subra
+    jawi: ''
+    id: (dl hik), keributan yg memenuhi dunia, ribut sekali
+    en: (dl hik), a commotion that fills the world, very noisy
+  - aceh: meu
+    jawi: ''
+    id: menyukai hal-hal keduniaan
+    en: ''
+  - aceh: pakon meu
+    jawi: ''
+    id: that gata, hana taingat bacut keu akhirat, mengapa Anda sangat mementingkan urusan-urusan keduniaan? Anda tidak teringat sedikit pun kpd hari akhirat!
+    en: ''
 etymology: ''
 related_words: []
 dialect_notes: ''
-source: 'Daud, Bukhari & Mark Durie. Kamus Basa Acèh = Kamus Bahasa Aceh: Acehnese–Indonesian–English Thesaurus.
-  Pacific Linguistics C-151, 1999, p. 90.'
-date_added: '2026-07-20'
+source: Kamus Aceh-Indonesia (Acehnese-Indonesian Dictionary), pp. 175, 176
+date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: ''
+extraction_notes: Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate reviewer.

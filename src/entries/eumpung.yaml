@@ -1,19 +1,32 @@
 headword: eumpung
-jawi: ''
+jawi: اؤڤڠ
 alt_spelling: []
 ipa: ''
-part_of_speech: ''
+part_of_speech: n
 definitions:
-- meaning_id: kandang
-  meaning_en: animal's pen, nest, lair, etc.
-- meaning_id: sarang
-  meaning_en: nest, den, lair, hive
-examples: []
+- meaning_id: 'sarang, kandang, sangkar, tempat tinggal binatang: - cicém, sarang burung yg diperbuat oleh burung sendiri atau orang'
+  meaning_en: 'nest, cage, enclosure, animal dwelling: - cicém, bird''s nest made by the bird itself or a person'
+  examples: []
+- meaning_id: '- tikòih, lubang tempat tinggal tikur'
+  meaning_en: ''
+  examples: []
+- meaning_id: rimeung, sarang harimau
+  meaning_en: ''
+  examples: []
+- meaning_id: '- aneuk, indung telur, peranakan, keutuban'
+  meaning_en: ''
+  examples: []
+- meaning_id: meu -, membuat sarang, mempunyai sarang
+  meaning_en: ''
+  examples: []
+- meaning_id: tikòih ka jimeu - di lampòih gata, Tikus telah membuat sarang di kebun Anda
+  meaning_en: ''
+  examples: []
 etymology: ''
-related_words: []
+related_words:
+- weue
 dialect_notes: ''
-source: 'Daud, Bukhari & Mark Durie. Kamus Basa Acèh = Kamus Bahasa Aceh: Acehnese–Indonesian–English Thesaurus.
-  Pacific Linguistics C-151, 1999, p. 64; p. 104.'
-date_added: '2026-07-20'
+source: Kamus Aceh-Indonesia (Acehnese-Indonesian Dictionary), p. 198
+date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: ''
+extraction_notes: Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate reviewer.

@@ -1,0 +1,34 @@
+headword: gritan
+jawi: ݢريتن
+alt_spelling:
+- geuritan
+ipa: ''
+part_of_speech: n
+definitions:
+- meaning_id: 'kereta: — apui, kereta api'
+  meaning_en: ''
+  examples:
+  - aceh: ateueng
+    jawi: ''
+    id: jalan kereta api
+    en: railway
+  - aceh: — guda, — keubeue
+    jawi: ''
+    id: leumo, kereta kuda, kereta kerbau, kereta sapi
+    en: ''
+  - aceh: ''
+    jawi: ''
+    id: angen, kereta angin, sepeda
+    en: ''
+  - aceh: meu
+    jawi: ''
+    id: memiliki kereta, mengendarai kereta
+    en: has a car, drives a car
+etymology: ''
+related_words:
+- grubak
+dialect_notes: ''
+source: Kamus Aceh-Indonesia (Acehnese-Indonesian Dictionary), p. 255
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+extraction_notes: 'Source lists variant spellings: geuritan. Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate reviewer. Some fields (English translations, Jawi) may be incomplete due to API rate limits during processing. Re-run the translation script to fill in missing fields.'

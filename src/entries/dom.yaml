@@ -1,19 +1,57 @@
----
-headword: "dom"
-jawi: ""
+headword: dom
+jawi: دوم
 alt_spelling: []
-ipa: "/dɔm/"
-part_of_speech: "v"
-language_uncertain: false
+ipa: ''
+part_of_speech: v
 definitions:
-  - meaning_id: "menginap"
-    meaning_en: ""
-examples:
-  []
-etymology: ""
-related_words: []
-dialect_notes: ""
-source: "Kamus Bahasa Aceh Daring (Balai Bahasa Provinsi Aceh), 'Entri huruf — dom', URL: https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/D?page=5 (diakses 20 Juli 2026); halaman tambahan: D?page=11, D?page=12, D?page=13, D?page=14, D?page=15, D?page=16, D?page=17, D?page=18, D?page=19, D?page=2, D?page=3, D?page=4, D?page=5, D?page=6, D?page=7, D?page=8, D?page=9"
-date_added: "2026-07-20"
-contributor: "AI-extracted — needs human review"
-extraction_notes: "Diekstrak dari 18 halaman sumber (https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/D?page=10, https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/D?page=11, https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/D?page=12, https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/D?page=13, https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/D?page=14, https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/D?page=15, https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/D?page=16, https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/D?page=17, https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/D?page=18, https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/D?page=19, https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/D?page=2, https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/D?page=3, https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/D?page=4, https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/D?page=5, https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/D?page=6, https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/D?page=7, https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/D?page=8, https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/D?page=9). Ditemukan pada beberapa halaman; definisi dan contoh digabungkan. Tidak ada bentuk Jawi dalam sumber — dibiarkan kosong sesuai aturan."
+- meaning_id: bermalam
+  meaning_en: ''
+  examples:
+  - aceh: geutanyoe pat ta
+    jawi: ''
+    id: ''
+    en: ''
+  - aceh: malam nyoe?
+    jawi: ''
+    id: dimanakah kita bermalam malam ini?
+    en: ''
+  - aceh: bêk tawoe, malam nyoe tabak kampe!
+    jawi: ''
+    id: jangan lah Anda pulang, malam ini Anda bermalam pd kami!
+    en: don't go home, stay with us tonight!
+  - aceh: di sinan kapai ji
+    jawi: ''
+    id: ''
+    en: ''
+  - aceh: dua malam
+    jawi: ''
+    id: disitu kapal berlabuh dua malam
+    en: ''
+  - aceh: padé
+    jawi: ''
+    id: bermalam pd suatu tempat di sawah utk menjaga tanaman padi
+    en: ''
+  - aceh: meu
+    jawi: ''
+    id: "=\n\n\n\n —"
+    en: ''
+  - aceh: uroe geumeujak, malam geu-meu
+    jawi: ''
+    id: Siang mereka berjalan, malam mereka bermalam
+    en: ''
+  - aceh: peu
+    jawi: ''
+    id: menyuruh bermalam
+    en: ''
+  - aceh: bèk tapeu — aneuk lôn di rumoh gata
+    jawi: ''
+    id: Janganlah Anda membiarkan anak saya bermalam di rumah Anda
+    en: Do not let my child stay overnight at your house
+etymology: ''
+related_words:
+- du-dom
+dialect_notes: ''
+source: Kamus Aceh-Indonesia (Acehnese-Indonesian Dictionary), pp. 174, 175
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+extraction_notes: Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate reviewer. Some fields (English translations, Jawi) may be incomplete due to API rate limits during processing. Re-run the translation script to fill in missing fields.

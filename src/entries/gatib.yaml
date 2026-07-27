@@ -1,0 +1,107 @@
+headword: gatib
+jawi: ڬاتيب
+alt_spelling:
+- katib
+ipa: ''
+part_of_speech: v
+definitions:
+- meaning_id: nikah
+  meaning_en: ''
+  examples:
+  - aceh: aneuk dara nyan goh lom
+    jawi: ''
+    id: Gadis itu belum menikah
+    en: That girl is not married yet
+  - aceh: hak
+    jawi: ''
+    id: ''
+    en: ''
+  - aceh: hak nikah
+    jawi: ''
+    id: biaya menikahkan yg oleh adat (pd masa dahulu) ditetapkan sebanyak satu *
+    en: ''
+  - aceh: samaih
+    jawi: ''
+    id: ''
+    en: ''
+  - aceh: (= seperempat
+    jawi: ''
+    id: ''
+    en: ''
+  - aceh: reunggêt
+    jawi: ''
+    id: '*)'
+    en: ''
+  - aceh: meu
+    jawi: ''
+    id: telah menikah
+    en: ''
+  - aceh: lôn ka lheueh meu
+    jawi: ''
+    id: –
+    en: ), sj white lice that attach to cloth
+  - aceh: beuklam
+    jawi: ''
+    id: Saya sudah menikah tadi malam
+    en: I got married last night
+  - aceh: meu
+    jawi: ''
+    id: –
+    en: ), sj white lice that attach to cloth
+  - aceh: bak teungku Pulan
+    jawi: ''
+    id: menikah *
+    en: to marry *
+  - aceh: dng teungku
+    jawi: ''
+    id: '* Polan'
+    en: ''
+  - aceh: peu
+    jawi: ''
+    id: –
+    en: ), sj white lice that attach to cloth
+- meaning_id: menikahkan
+  meaning_en: ''
+  examples:
+  - aceh: inong nyan ka geu-
+    jawi: ''
+    id: ''
+    en: ''
+  - aceh: peu
+    jawi: ''
+    id: –
+    en: ), sj white lice that attach to cloth
+  - aceh: ngon si Pulan
+    jawi: ''
+    id: Wanita itu telah dinikahkan dng si Polan
+    en: ''
+  - aceh: nyan teungku nyang peu
+    jawi: ''
+    id: –
+    en: ), sj white lice that attach to cloth
+  - aceh: lôn
+    jawi: ''
+    id: ''
+    en: ''
+  - aceh: uroe jêh!
+    jawi: ''
+    id: Itu adalah *
+    en: That is *
+  - aceh: teungku
+    jawi: ''
+    id: '* yg menikahkan saya tempo hari'
+    en: '* who married me the other day'
+  - aceh: ureueng peu
+    jawi: ''
+    id: –, orang yg bertugas menikahkan seseorang
+    en: –, person who marries someone
+etymology: ''
+related_words:
+- kawén
+- nikah
+- Bd hatib
+dialect_notes: ''
+source: Kamus Aceh-Indonesia (Acehnese-Indonesian Dictionary), pp. 220, 221
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+extraction_notes: 'Source lists variant spellings: katib. Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate reviewer. Some fields (English translations, Jawi) may be incomplete due to API rate limits during processing. Re-run the translation script to fill in missing fields.'

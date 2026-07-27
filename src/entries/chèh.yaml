@@ -1,18 +1,25 @@
 headword: chèh
-jawi: ''
-alt_spelling:
-- syèh
+jawi: چيه
+alt_spelling: []
 ipa: ''
 part_of_speech: ''
 definitions:
-- meaning_id: pemimpin tari Seudati
-  meaning_en: leader, Seudati leader
-examples: []
+- meaning_id: ''
+  meaning_en: ''
+  examples:
+  - aceh: cèh Ar n
+    jawi: ''
+    id: syeikh, pemimpin, kepala, ketua (ump persatuan para tasawuf, kelompok pemain sadati, jemaah haji)
+    en: sheikh, leader, head, chairman (of a Sufi group, Sadati players group, Hajj congregation)
+  - aceh: hana soe keu
+    jawi: ''
+    id: tidak ada seorang pun yg menjadi pemimpin
+    en: no one becomes a leader
 etymology: ''
-related_words: []
+related_words:
+- siah
 dialect_notes: ''
-source: 'Daud, Bukhari & Mark Durie. Kamus Basa Acèh = Kamus Bahasa Aceh: Acehnese–Indonesian–English Thesaurus.
-  Pacific Linguistics C-151, 1999, p. 5.'
-date_added: '2026-07-20'
+source: Kamus Aceh-Indonesia (Acehnese-Indonesian Dictionary), p. 132
+date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: Spelling/dialect variant(s) explicitly discussed in the Introduction.
+extraction_notes: Part of speech not specified in source. Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate reviewer. Some fields (English translations, Jawi) may be incomplete due to API rate limits during processing. Re-run the translation script to fill in missing fields.

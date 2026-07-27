@@ -1,17 +1,68 @@
 headword: gunténg
-jawi: ''
+jawi: ݢونتيڠ
 alt_spelling: []
 ipa: ''
-part_of_speech: ''
+part_of_speech: n
 definitions:
-- meaning_id: gunting
-  meaning_en: scissors
-examples: []
+- meaning_id: 'gunting: —'
+  meaning_en: 'Scissors: —'
+  examples:
+  - aceh: bika
+    jawi: ''
+    id: jangan besi yg dipergunakan oleh pandai emas
+    en: ), tell something, chat, told
+  - aceh: meuih
+    jawi: ''
+    id: gunting besar untuk menggunting logam mulia yg dipergunakan oleh pandai emas
+    en: ''
+  - aceh: sirông
+    jawi: ''
+    id: → *
+    en: → *
+  - aceh: sirông
+    jawi: ''
+    id: '*'
+    en: '*'
+  - aceh: meu
+    jawi: ''
+    id: (
+    en: ''
+  - aceh: teu
+    jawi: ''
+    id: ), tergunting, digunting
+    en: Cut, clipped
+  - aceh: bèk meu
+    jawi: ''
+    id: ''
+    en: ''
+  - aceh: keureutaih lôn
+    jawi: ''
+    id: Jangan sampai Anda menggunting kertas saya
+    en: Don't cut my paper
+  - aceh: peu
+    jawi: ''
+    id: menyuruh gunting
+    en: to order to cut
+  - aceh: teu
+    jawi: ''
+    id: tidak sengaja tergunting
+    en: ''
+  - aceh: geumunténg
+    jawi: ''
+    id: melakukan pengguntingan, sedang melakukan pengguntingan
+    en: to cut with scissors, is cutting with scissors
+  - aceh: geumunténg
+    jawi: ''
+    id: cara menggunting, hasil menggunting
+    en: how to cut, cutting results
+  - aceh: hana gèt geumunténgji
+    jawi: ''
+    id: Guntingannya tidak baik
+    en: ''
 etymology: ''
 related_words: []
 dialect_notes: ''
-source: 'Daud, Bukhari & Mark Durie. Kamus Basa Acèh = Kamus Bahasa Aceh: Acehnese–Indonesian–English Thesaurus.
-  Pacific Linguistics C-151, 1999, p. 65.'
-date_added: '2026-07-20'
+source: Kamus Aceh-Indonesia (Acehnese-Indonesian Dictionary), p. 264
+date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: ''
+extraction_notes: Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate reviewer. Some fields (English translations, Jawi) may be incomplete due to API rate limits during processing. Re-run the translation script to fill in missing fields.

@@ -1,0 +1,58 @@
+headword: gumpie
+jawi: ݢومڤي
+alt_spelling: []
+ipa: ''
+part_of_speech: n
+definitions:
+- meaning_id: tika-tika (ump benang, tali)
+  meaning_en: ''
+  examples:
+  - aceh: beuneung saboh
+    jawi: ''
+    id: –, benang sebuah kumparan
+    en: –, thread of a coil
+  - aceh: ji – ijaji
+    jawi: ''
+    id: Ia menguntal-untal kainnya
+    en: ''
+  - aceh: meu
+    jawi: ''
+    id: – (
+    en: – (
+  - aceh: teu
+    jawi: ''
+    id: –), teruntal
+    en: –), teruntal
+  - aceh: meu
+    jawi: ''
+    id: –, bergumpai-gumpai
+    en: –, gathered together
+  - aceh: taloe ka lheueh teu
+    jawi: ''
+    id: –, Tali sudah diuntal
+    en: –, The rope has been untied
+  - aceh: peu
+    jawi: ''
+    id: – = –
+    en: – = –
+  - aceh: geumumpie
+    jawi: ''
+    id: melakukan tika-tika
+    en: ''
+  - aceh: geumumpie
+    jawi: ''
+    id: cara menguntai, hasil untaian
+    en: braiding method, result of braiding
+  - aceh: taloe glayang nyan raya that geumumpie, nyeum lôn na siribèe deupa
+    jawi: ''
+    id: Besar sekali kumparan tali layangan itu, menurut hemat saya panjangnya seribu depa
+    en: The kite string reel was very large, in my opinion it was a thousand depa long
+etymology: ''
+related_words:
+- gumpai
+- gutie
+dialect_notes: ''
+source: Kamus Aceh-Indonesia (Acehnese-Indonesian Dictionary), p. 262
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+extraction_notes: Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate reviewer. Some fields (English translations, Jawi) may be incomplete due to API rate limits during processing. Re-run the translation script to fill in missing fields.

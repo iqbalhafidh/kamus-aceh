@@ -1,17 +1,36 @@
 headword: cih
-jawi: ''
+jawi: چيه
 alt_spelling: []
 ipa: ''
-part_of_speech: ''
+part_of_speech: p
 definitions:
-- meaning_id: cis
-  meaning_en: word for chasing a dog
-examples: []
+- meaning_id: seruan mengusir anjing, cis
+  meaning_en: ''
+  examples:
+  - aceh: meu
+    jawi: ''
+    id: mengucapkan cis
+    en: saying cis
+  - aceh: peu
+    jawi: ''
+    id: memperdengarkan cis
+    en: ''
+  - aceh: peue tapeu
+    jawi: ''
+    id: ''
+    en: ''
+  - aceh: tapeu
+    jawi: ''
+    id: ''
+    en: ''
+  - aceh: asèe
+    jawi: ''
+    id: '? apa yg Anda ciskan, apa Anda mengusir anjing?'
+    en: ''
 etymology: ''
 related_words: []
 dialect_notes: ''
-source: 'Daud, Bukhari & Mark Durie. Kamus Basa Acèh = Kamus Bahasa Aceh: Acehnese–Indonesian–English Thesaurus.
-  Pacific Linguistics C-151, 1999, p. 64.'
-date_added: '2026-07-20'
+source: Kamus Aceh-Indonesia (Acehnese-Indonesian Dictionary), p. 135
+date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: ''
+extraction_notes: Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate reviewer. Some fields (English translations, Jawi) may be incomplete due to API rate limits during processing. Re-run the translation script to fill in missing fields.

@@ -1,17 +1,28 @@
 headword: cintra
-jawi: ''
+jawi: چينترا
 alt_spelling: []
 ipa: ''
-part_of_speech: ''
+part_of_speech: n
 definitions:
-- meaning_id: sangkar
-  meaning_en: cage
-examples: []
-etymology: ''
+- meaning_id: 'jentera, mesin, pesawat, sangkar burung: —'
+  meaning_en: machinery, machine, aircraft, birdcage
+  examples:
+  - aceh: muka
+    jawi: ''
+    id: sj sangkar tertutup utk menangkap burung
+    en: cage for catching birds
+  - aceh: pintō meu
+    jawi: ''
+    id: pintu berjentera
+    en: ''
+  - aceh: subang meu
+    jawi: ''
+    id: subang berjentera
+    en: mechanical earrings
+etymology: Sanskrit
 related_words: []
 dialect_notes: ''
-source: 'Daud, Bukhari & Mark Durie. Kamus Basa Acèh = Kamus Bahasa Aceh: Acehnese–Indonesian–English Thesaurus.
-  Pacific Linguistics C-151, 1999, p. 104.'
-date_added: '2026-07-20'
+source: Kamus Aceh-Indonesia (Acehnese-Indonesian Dictionary), p. 137
+date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: ''
+extraction_notes: 'Etymology: Sanskrit. Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate reviewer.'

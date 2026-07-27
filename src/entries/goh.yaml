@@ -1,18 +1,25 @@
 headword: goh
-jawi: ''
+jawi: ڬوه
 alt_spelling: []
 ipa: ''
 part_of_speech: ''
 definitions:
-- meaning_id: belum
-  meaning_en: not yet
-examples: []
+- meaning_id: 'belum: —'
+  meaning_en: 'not yet: —'
+  examples:
+  - aceh: lom jiteuka
+    jawi: ''
+    id: —
+    en: ''
+  - aceh: jiteuka lom
+    jawi: ''
+    id: Ia belum lagi daang
+    en: there are many dead logs floating in the river so it's hard for us to cast a net
 etymology: ''
 related_words:
-- goh lom
+- lom
 dialect_notes: ''
-source: 'Daud, Bukhari & Mark Durie. Kamus Basa Acèh = Kamus Bahasa Aceh: Acehnese–Indonesian–English Thesaurus.
-  Pacific Linguistics C-151, 1999, p. 112.'
-date_added: '2026-07-20'
+source: Kamus Aceh-Indonesia (Acehnese-Indonesian Dictionary), p. 251
+date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: ''
+extraction_notes: Part of speech not specified in source. Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate reviewer.

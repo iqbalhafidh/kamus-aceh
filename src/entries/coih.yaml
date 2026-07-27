@@ -1,0 +1,65 @@
+headword: coih
+jawi: چوه
+alt_spelling: []
+ipa: ''
+part_of_speech: ''
+definitions:
+- meaning_id: '*'
+  meaning_en: '*'
+  examples:
+  - aceh: coih-coih
+    jawi: ''
+    id: ''
+    en: ''
+  - aceh: ''
+    jawi: ''
+    id: n
+    en: ''
+  - aceh: 'tiruan bunyi gemersik orang berjalan penuh ketakutan di malam hari, sesuatu yg berjalan cepat-cepat:'
+    jawi: ''
+    id: meu
+    en: ''
+  - aceh: — —, berbunyi
+    jawi: ''
+    id: coih-coih; jiplueng meu* — —, ia lari cepat sekali
+    en: coih-coih; jiplueng meu* — —, he ran very fast
+  - aceh: jijak meu
+    jawi: ''
+    id: —
+    en: ''
+  - aceh: di keue gob
+    jawi: ''
+    id: ia melintas di hadapan orang tanpa mempudlikannya → *
+    en: ''
+  - aceh: cui
+    jawi: ''
+    id: "*\n §1§ *"
+    en: '* §1§ *'
+  - aceh: cok
+    jawi: ''
+    id: ''
+    en: ''
+  - aceh: ''
+    jawi: ''
+    id: n
+    en: ''
+  - aceh: 'mengambil, membawa, memegang:'
+    jawi: ''
+    id: meu* —, (—), berlombalomba mengambil, terambil
+    en: –, a gun that uses flint for its ammunition
+  - aceh: ceumecok
+    jawi: ''
+    id: melakukan
+    en: ''
+  - aceh: cok
+    jawi: ''
+    id: §2§ cok
+    en: §2§ cok
+etymology: ''
+related_words:
+- cot
+dialect_notes: ''
+source: Kamus Aceh-Indonesia (Acehnese-Indonesian Dictionary), pp. 138, 139
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+extraction_notes: Part of speech not specified in source. Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate reviewer. Some fields (English translations, Jawi) may be incomplete due to API rate limits during processing. Re-run the translation script to fill in missing fields.

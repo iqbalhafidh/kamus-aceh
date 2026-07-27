@@ -1,17 +1,93 @@
 headword: guni
-jawi: ''
+jawi: ݢوني
 alt_spelling: []
 ipa: ''
-part_of_speech: ''
+part_of_speech: n
 definitions:
-- meaning_id: goni
-  meaning_en: gunny sack
-examples: []
+- meaning_id: 'karung goni: breueuh jibôh lam—, Ia mengisi beras dl karung goni. meu—, memakai karung goni, bergoni-goni'
+  meaning_en: ''
+  examples:
+  - aceh: kupiah
+    jawi: ''
+    id: Gagah sekali ia memakai kopiah
+    en: ''
+  - aceh: meu
+    jawi: ''
+    id: bersikap gagah
+    en: ''
+  - aceh: meu
+    jawi: ''
+    id: ''
+    en: ''
+  - aceh: that bak jimeungui
+    jawi: ''
+    id: Gagah sekali ia berpakaian
+    en: He dresses very gallantly
+  - aceh: peu
+    jawi: ''
+    id: membuat indah
+    en: ''
+  - aceh: peu
+    jawi: ''
+    id: ''
+    en: ''
+  - aceh: droe
+    jawi: ''
+    id: membuat diri gagah
+    en: to make oneself brave/dashing
+  - aceh: pakon tapeu
+    jawi: ''
+    id: ''
+    en: ''
+  - aceh: droe tajak
+    jawi: ''
+    id: '? Mengapa Anda bersikap seolah-olah mempunyai pakaian gagah jika Anda berjalan?'
+    en: '? Why do you act as if you''re dressed up when you walk?'
+  - aceh: gunjak
+    jawi: ''
+    id: "*\n 2*"
+    en: '*'
+  - aceh: gunjak
+    jawi: ''
+    id: ''
+    en: ''
+  - aceh: ''
+    jawi: ''
+    id: a
+    en: ''
+  - aceh: 'bersemangat: —'
+    jawi: ''
+    id: that ratéb sadati
+    en: that ratéb sadati
+  - aceh: Bersemangat sekali orang melagukan
+    jawi: ''
+    id: ''
+    en: ''
+  - aceh: sadati
+    jawi: ''
+    id: ''
+    en: ''
+  - aceh: .
+    jawi: ''
+    id: soe
+    en: friend
+  - aceh: —
+    jawi: ''
+    id: ie
+    en: water
+  - aceh: '? Siapa yg menggongcang-goncangkan air?'
+    jawi: ''
+    id: meu* —, bersemangat, bergerak ke sana kemari
+    en: ''
+  - aceh: prang meu
+    jawi: ''
+    id: peperangan yg hebat
+    en: ''
 etymology: ''
-related_words: []
+related_words:
+- guyak** Bd **gunjak 1
 dialect_notes: ''
-source: 'Daud, Bukhari & Mark Durie. Kamus Basa Acèh = Kamus Bahasa Aceh: Acehnese–Indonesian–English Thesaurus.
-  Pacific Linguistics C-151, 1999, p. 67.'
-date_added: '2026-07-20'
+source: Kamus Aceh-Indonesia (Acehnese-Indonesian Dictionary), pp. 263, 264
+date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: ''
+extraction_notes: Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate reviewer. Some fields (English translations, Jawi) may be incomplete due to API rate limits during processing. Re-run the translation script to fill in missing fields.

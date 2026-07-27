@@ -1,18 +1,63 @@
 headword: euntreuk
-jawi: ''
-alt_spelling: []
-ipa: ''
-part_of_speech: ''
-definitions:
-- meaning_id: nanti
-  meaning_en: later today
-examples: []
-etymology: ''
-related_words:
+jawi: اؤيتروق
+alt_spelling:
 - eunteuk
+- treuk
+- teuk
+ipa: ''
+part_of_speech: a
+definitions:
+- meaning_id: 'nanti, lagi: — lôn teuka, nanti saya datang'
+  meaning_en: 'later, again: — lôn teuka, later I''ll come'
+  examples:
+  - aceh: atra nyan bèk tapeujôk bak jih, — hana jipeut (r)ôk, Jangan Anda serahkan benda itu kepadanya, nanti ia tidak akan menyampaikannya (kpd yg berhak)
+    jawi: ''
+    id: malam, nanti malam, malam ini
+    en: ''
+  - aceh: siat
+    jawi: ''
+    id: sebentar lagi
+    en: ''
+  - aceh: bacut
+    jawi: ''
+    id: sedikit lagi
+    en: ''
+  - aceh: tinggai siplôh
+    jawi: ''
+    id: tinggal sepuluh lagi
+    en: only ten left
+  - aceh: sigo aleuhat
+    jawi: ''
+    id: seminggu lagi
+    en: In a week's time
+  - aceh: an ... treuk
+    jawi: ''
+    id: → an
+    en: → an
+  - aceh: seun t(r) euk
+    jawi: ''
+    id: → seum
+    en: ''
+  - aceh: meu
+    jawi: ''
+    id: —, selalu berkata nanti = selalu menundanunda atau minta ditunda
+    en: ''
+  - aceh: gata
+    jawi: ''
+    id: ''
+    en: ''
+  - aceh: sabé tameutanggôh meu
+    jawi: ''
+    id: —, Anda selalu minta ditunda-tunda
+    en: ''
+  - aceh: peu
+    jawi: ''
+    id: penangguhan
+    en: ''
+etymology: ''
+related_words: []
 dialect_notes: ''
-source: 'Daud, Bukhari & Mark Durie. Kamus Basa Acèh = Kamus Bahasa Aceh: Acehnese–Indonesian–English Thesaurus.
-  Pacific Linguistics C-151, 1999, p. 97.'
-date_added: '2026-07-20'
+source: Kamus Aceh-Indonesia (Acehnese-Indonesian Dictionary), pp. 201, 202
+date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: ''
+extraction_notes: 'Source lists variant spellings: eunteuk, treuk, teuk. Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate reviewer.'

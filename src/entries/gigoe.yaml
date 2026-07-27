@@ -1,17 +1,157 @@
 headword: gigoe
-jawi: ''
+jawi: ڬڠو
 alt_spelling: []
 ipa: ''
-part_of_speech: ''
+part_of_speech: n
 definitions:
-- meaning_id: gigi
-  meaning_en: tooth
-examples: []
+- meaning_id: 'gigi, yg menyerupai barisan gigi: —'
+  meaning_en: ''
+  examples:
+  - aceh: ateueh
+    jawi: ''
+    id: gigi bagian atas
+    en: upper teeth
+  - aceh: meuyub
+    jawi: ''
+    id: gigi bagian bawah
+    en: ''
+  - aceh: keue
+    jawi: ''
+    id: gigi bagian muka
+    en: ''
+  - aceh: mideuen
+    jawi: ''
+    id: —
+    en: ''
+  - aceh: peungadeuen
+    jawi: ''
+    id: gigi seri
+    en: incisor teeth
+  - aceh: asèe
+    jawi: ''
+    id: taring
+    en: ''
+  - aceh: lagèe papeuen
+    jawi: ''
+    id: susunan gigi seperti papan (rapat berjejer)
+    en: making a disturbance/noise
+  - aceh: ureueng rihiek
+    jawi: ''
+    id: ''
+    en: ''
+  - aceh: tupieb
+    jawi: ''
+    id: Orang yg bergigi tidak teratur bermulut bocor
+    en: A person with irregular teeth has a leaky mouth
+  - aceh: kou
+    jawi: ''
+    id: mengasah gigi, → *
+    en: to sharpen teeth
+  - aceh: asah
+    jawi: ''
+    id: '*'
+    en: '*'
+  - aceh: doe
+    jawi: ''
+    id: (
+    en: ''
+  - aceh: tòb reuhung
+    jawi: ''
+    id: ), menutupi lobang gigi
+    en: Pulan's body
+  - aceh: sakèt
+    jawi: ''
+    id: sakit gigi
+    en: toothache
+  - aceh: ulat
+    jawi: ''
+    id: ulat gigi
+    en: ''
+  - aceh: aneuk nyan
+    jawi: ''
+    id: ''
+    en: ''
+  - aceh: kanjipajòh lè ulat
+    jawi: ''
+    id: Gigi anak itu sudah rusak
+    en: The child's teeth are damaged
+  - aceh: kareueng
+    jawi: ''
+    id: karang gigi
+    en: dental plaque
+  - aceh: kab
+    jawi: ''
+    id: menggigit gigi, (ki) memberanikan diri
+    en: to scream, to shout in pain, to wheeze
+  - aceh: jimeukeumaih
+    jawi: ''
+    id: ''
+    en: ''
+  - aceh: jikab
+    jawi: ''
+    id: ''
+    en: ''
+  - aceh: teuma jibloh sidroe
+    jawi: ''
+    id: ''
+    en: ''
+  - aceh: lam krueng raya
+    jawi: ''
+    id: Ia bersiap-siap serta memberanikan diri lalu seorang diri melangkah ke dl sungai besar
+    en: ''
+  - aceh: kreueh
+    jawi: ''
+    id: → *
+    en: → *
+  - aceh: kreueh
+    jawi: ''
+    id: '*'
+    en: '*'
+  - aceh: mamoh
+    jawi: ''
+    id: → *
+    en: → *
+  - aceh: mamoh
+    jawi: ''
+    id: '*'
+    en: '*'
+  - aceh: glanteue
+    jawi: ''
+    id: gigi halilintar
+    en: lightning teeth
+  - aceh: daruet
+    jawi: ''
+    id: → *
+    en: → *
+  - aceh: daruet
+    jawi: ''
+    id: '*'
+    en: '*'
+  - aceh: reuyeuek
+    jawi: ''
+    id: → *
+    en: → *
+  - aceh: reuyeuek
+    jawi: ''
+    id: '*'
+    en: '*'
+  - aceh: meu
+    jawi: ''
+    id: bergigi
+    en: ''
+  - aceh: aneuk nyan ka meu
+    jawi: ''
+    id: Anak itu sudah tumbuh giginya
+    en: ''
+  - aceh: peu
+    jawi: ''
+    id: membubuhi gigi pd sesuatu
+    en: ''
 etymology: ''
-related_words: []
+related_words:
+- geuheuem
 dialect_notes: ''
-source: 'Daud, Bukhari & Mark Durie. Kamus Basa Acèh = Kamus Bahasa Aceh: Acehnese–Indonesian–English Thesaurus.
-  Pacific Linguistics C-151, 1999, p. 28.'
-date_added: '2026-07-20'
+source: Kamus Aceh-Indonesia (Acehnese-Indonesian Dictionary), p. 240
+date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: ''
+extraction_notes: Some fields (English translations, Jawi) may be incomplete due to API rate limits during processing. Re-run the translation script to fill in missing fields. Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate reviewer.

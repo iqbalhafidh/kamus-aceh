@@ -1,0 +1,32 @@
+headword: goirat
+jawi: ݢويرت
+alt_spelling: []
+ipa: ''
+part_of_speech: ''
+definitions:
+- meaning_id: '*'
+  meaning_en: '*'
+  examples:
+  - aceh: roirat
+    jawi: ''
+    id: ''
+    en: ''
+  - aceh: ''
+    jawi: ''
+    id: a
+    en: ''
+  - aceh: 'dukacita:'
+    jawi: ''
+    id: '''ou meu-rumpok ngon raja, gadoh lé'
+    en: ''
+  - aceh: —
+    jawi: ''
+    id: tuan putroe*, Ketika bertemu dng raja, maka hilanglah dukacita tuan putri
+    en: tuan putroe*, When meeting with the king, then the sorrow of tuan putri disappears
+etymology: ''
+related_words: []
+dialect_notes: ''
+source: Kamus Aceh-Indonesia (Acehnese-Indonesian Dictionary), p. 251
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+extraction_notes: Part of speech not specified in source. Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate reviewer. Some fields (English translations, Jawi) may be incomplete due to API rate limits during processing. Re-run the translation script to fill in missing fields.

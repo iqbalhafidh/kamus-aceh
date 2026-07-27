@@ -1,17 +1,49 @@
 headword: gigèh
-jawi: ''
+jawi: ڬيڬه
 alt_spelling: []
 ipa: ''
-part_of_speech: ''
+part_of_speech: a
 definitions:
-- meaning_id: tekun, getol
-  meaning_en: industrious
-examples: []
+- meaning_id: 'rajin: —'
+  meaning_en: ''
+  examples:
+  - aceh: that bak jimita
+    jawi: ''
+    id: ''
+    en: ''
+  - aceh: pèng, siuroe seupôt èk jimubuet
+    jawi: ''
+    id: ''
+    en: ''
+  - aceh: sabé
+    jawi: ''
+    id: Ia rajin sekali mencari uang, sehari suntuk ia bekerja
+    en: making 'euh-'euh sounds
+  - aceh: meu
+    jawi: ''
+    id: berusaha dng rajin
+    en: ''
+  - aceh: neumeu
+    jawi: ''
+    id: ''
+    en: ''
+  - aceh: bacut, bèk neuduek mantong!
+    jawi: ''
+    id: Rajinlah berusaha sedikit, jangan Anda menganggur saja
+    en: ''
+  - aceh: peu
+    jawi: ''
+    id: ''
+    en: ''
+  - aceh: droe
+    jawi: ''
+    id: berusaha rajin
+    en: ''
 etymology: ''
-related_words: []
+related_words:
+- jeumot
 dialect_notes: ''
-source: 'Daud, Bukhari & Mark Durie. Kamus Basa Acèh = Kamus Bahasa Aceh: Acehnese–Indonesian–English Thesaurus.
-  Pacific Linguistics C-151, 1999, p. 50.'
-date_added: '2026-07-20'
+source: Kamus Aceh-Indonesia (Acehnese-Indonesian Dictionary), p. 240
+date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: ''
+extraction_notes: Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate reviewer. Some fields (English translations, Jawi) may be incomplete due to API rate limits during processing. Re-run the translation script to fill in missing fields.

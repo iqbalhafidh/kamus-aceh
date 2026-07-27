@@ -1,17 +1,32 @@
 headword: dada
-jawi: ''
+jawi: ددا
 alt_spelling: []
 ipa: ''
-part_of_speech: ''
+part_of_speech: n
 definitions:
 - meaning_id: dada
   meaning_en: chest
-examples: []
+  examples:
+  - aceh: ulèe
+    jawi: ''
+    id: 'bagian atas tulang dada: —'
+    en: 'upper part of the breastbone: —'
+  - aceh: limpeuen
+    jawi: ''
+    id: (hrf) dada lipan, nama sj hiasan benang kasap
+    en: ''
+  - aceh: meu
+    jawi: ''
+    id: berdada
+    en: buxom
+  - aceh: peu
+    jawi: ''
+    id: mendorong dng sekuat tenaga
+    en: ''
 etymology: ''
 related_words: []
 dialect_notes: ''
-source: 'Daud, Bukhari & Mark Durie. Kamus Basa Acèh = Kamus Bahasa Aceh: Acehnese–Indonesian–English Thesaurus.
-  Pacific Linguistics C-151, 1999, p. 29.'
-date_added: '2026-07-20'
+source: Kamus Aceh-Indonesia (Acehnese-Indonesian Dictionary), p. 152
+date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: ''
+extraction_notes: Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate reviewer.

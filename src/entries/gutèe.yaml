@@ -1,17 +1,129 @@
 headword: gutèe
-jawi: ''
+jawi: ݢوټي
 alt_spelling: []
 ipa: ''
-part_of_speech: ''
+part_of_speech: n
 definitions:
-- meaning_id: kutu
-  meaning_en: louse
-examples: []
+- meaning_id: 'kutu: —'
+  meaning_en: ''
+  examples:
+  - aceh: òk
+    jawi: ''
+    id: (—
+    en: ''
+  - aceh: ulèe
+    jawi: ''
+    id: ), kuku rambut, kutu kepala
+    en: ''
+  - aceh: alèh
+    jawi: ''
+    id: ''
+    en: ''
+  - aceh: mita
+    jawi: ''
+    id: ''
+    en: ''
+  - aceh: lakoe!
+    jawi: ''
+    id: entah kutu yg mencari jantannya! (dikatakan thd seorang gadis yg banyak kutunya krn, menurut kepercayaan orang, kutu - kutu akan hilang dng sendirinya setelah seorang gadis kawin)
+    en: perhaps the lice are looking for their mate! (said of a girl who has many lice because, according to belief, the lice will disappear by themselves after a girl gets married)
+  - aceh: glib
+    jawi: ''
+    id: (
+    en: ''
+  - aceh: kalon
+    jawi: ''
+    id: ''
+    en: ''
+  - aceh: mita
+    jawi: ''
+    id: ), mencari kutu di kepala
+    en: ''
+  - aceh: pingkom
+    jawi: ''
+    id: ''
+    en: ''
+  - aceh: cèh
+    jawi: ''
+    id: menindis kutu dng kuku ibu jari
+    en: squashing lice with a thumbnail
+  - aceh: treuk jibapo kah u Glè Bruek lè
+    jawi: ''
+    id: 'Nanti engkau diterbangkan kutu ke Gle Bruek: —'
+    en: 'You will be flown to Gle Bruek: —'
+  - aceh: asèe
+    jawi: ''
+    id: kutu anjing
+    en: dog lice
+  - aceh: ija
+    jawi: ''
+    id: ( —
+    en: ( —
+  - aceh: putèh
+    jawi: ''
+    id: ), sj kutu putih yg melekat pd kain
+    en: rubber from the rambung tree
+  - aceh: tanoh
+    jawi: ''
+    id: undur-undur, sj kutu besar yg hidup di dl tanah, → *
+    en: ''
+  - aceh: kurok-kurok
+    jawi: ''
+    id: '*'
+    en: '*'
+  - aceh: geutanyoe biek
+    jawi: ''
+    id: ''
+    en: ''
+  - aceh: tanoh, panè èk talawan ureueng rayek
+    jawi: ''
+    id: Kita ini spt kutu tanah, manalah mungkin dapat melawan orang-orang besar
+    en: ''
+  - aceh: bak atè gata kamoe nyoe
+    jawi: ''
+    id: ''
+    en: ''
+  - aceh: tanoh
+    jawi: ''
+    id: '? Anda pikir, kami ini kutu tanah (=orang kecil)?'
+    en: ''
+  - aceh: Jawa pajòh
+    jawi: ''
+    id: Orang Jawa pemakan kutu
+    en: Javanese louse-eater
+  - aceh: meu
+    jawi: ''
+    id: berkutu, banyak kutunya, bersimpul-simpul, tidak rata
+    en: lousy, full of lice, knotted, uneven
+  - aceh: muboh
+    jawi: ''
+    id: = spt telur kutu
+    en: ''
+  - aceh: ija nyoe meu
+    jawi: ''
+    id: ''
+    en: ''
+  - aceh: ban sigo tòk
+    jawi: ''
+    id: Kain ini tersimpul-simpul di seluruh bidangnya)
+    en: This cloth is tied/tied up all over its surface
+  - aceh: peu
+    jawi: ''
+    id: membiarkan berkutu
+    en: ''
+  - aceh: bèk tapeu
+    jawi: ''
+    id: ''
+    en: ''
+  - aceh: lòn keunoe
+    jawi: ''
+    id: Jangan Anda membiarkan saya berkutu dng jalan tidur dekat-dekat)
+    en: Don't let me have fleas from sleeping close by
 etymology: ''
-related_words: []
+related_words:
+- piet
 dialect_notes: ''
-source: 'Daud, Bukhari & Mark Durie. Kamus Basa Acèh = Kamus Bahasa Aceh: Acehnese–Indonesian–English Thesaurus.
-  Pacific Linguistics C-151, 1999, p. 110.'
-date_added: '2026-07-20'
+source: Kamus Aceh-Indonesia (Acehnese-Indonesian Dictionary), p. 267
+date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: ''
+extraction_notes: Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate reviewer. Some fields (English translations, Jawi) may be incomplete due to API rate limits during processing. Re-run the translation script to fill in missing fields.

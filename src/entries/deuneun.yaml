@@ -1,0 +1,51 @@
+headword: deuneun
+jawi: ديوين
+alt_spelling:
+- meu
+ipa: ''
+part_of_speech: ''
+definitions:
+- meaning_id: — *
+  meaning_en: ''
+  examples:
+  - aceh: droe, peu
+    jawi: ''
+    id: ''
+    en: ''
+  - aceh: —
+    jawi: ''
+    id: ''
+    en: ''
+  - aceh: droe
+    jawi: ''
+    id: ''
+    en: ''
+  - aceh: ''
+    jawi: ''
+    id: v* setengah bersandar, bersandar sepenuhnya
+    en: half-leaning, leaning fully
+  - aceh: bèk ta(peu)
+    jawi: ''
+    id: ''
+    en: ''
+  - aceh: droe-teu
+    jawi: ''
+    id: atau
+    en: or
+  - aceh: bèk ta(meu)
+    jawi: ''
+    id: ''
+    en: ''
+  - aceh: bak lôn
+    jawi: ''
+    id: janganlah Anda bersandar pd saya
+    en: do not lean on me
+etymology: ''
+related_words:
+- sadeue
+- sine
+dialect_notes: ''
+source: Kamus Aceh-Indonesia (Acehnese-Indonesian Dictionary), p. 167
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+extraction_notes: 'Source lists variant spellings: meu. Part of speech not specified in source. Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate reviewer. Some fields (English translations, Jawi) may be incomplete due to API rate limits during processing. Re-run the translation script to fill in missing fields.'

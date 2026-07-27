@@ -1,18 +1,54 @@
 headword: ceureupa
-jawi: ''
-alt_spelling: []
+jawi: جاۏراڤ
+alt_spelling:
+- ceuleupa
+- ceureupu
 ipa: ''
-part_of_speech: ''
+part_of_speech: n
 definitions:
-- meaning_id: tempat tembakau
-  meaning_en: tobacco jar
-examples: []
+- meaning_id: kotak persegi panjang, terbuat dr perak, suasa, atau emas, tempat menyimpan tembakau dan gambir
+  meaning_en: ''
+  examples:
+  - aceh: meu
+    jawi: ''
+    id: mempunyai
+    en: ''
+  - aceh: ceureupa
+    jawi: ''
+    id: ''
+    en: ''
+  - aceh: beudé meu
+    jawi: ''
+    id: "senapang yg diisi pelornya dr belakang laras\n §1§ *"
+    en: a rifle loaded from the rear of the barrel
+  - aceh: ceureupu
+    jawi: ''
+    id: ''
+    en: ''
+  - aceh: →
+    jawi: ''
+    id: ''
+    en: ''
+  - aceh: ceureupa
+    jawi: ''
+    id: "*\n §2§ *"
+    en: ''
+  - aceh: ceureupu
+    jawi: ''
+    id: ''
+    en: ''
+  - aceh: ''
+    jawi: ''
+    id: Tam n
+    en: The woman was very happy, she went everywhere
+  - aceh: 'cerpu, sandal:'
+    jawi: ''
+    id: tatalong bagan ngon gaki wie seureuta tangui* —, masuklah ke jamban dng kaki serta menggunakan sandal
+    en: tatalong bagan ngon gaki wie seureuta tangui* —, enter the toilet with your feet and wear sandals
 etymology: ''
-related_words:
-- plōk bakông
+related_words: []
 dialect_notes: ''
-source: 'Daud, Bukhari & Mark Durie. Kamus Basa Acèh = Kamus Bahasa Aceh: Acehnese–Indonesian–English Thesaurus.
-  Pacific Linguistics C-151, 1999, p. 74.'
-date_added: '2026-07-20'
+source: Kamus Aceh-Indonesia (Acehnese-Indonesian Dictionary), p. 131
+date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: ''
+extraction_notes: 'Source lists variant spellings: ceuleupa, ceureupu. Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate reviewer. Some fields (English translations, Jawi) may be incomplete due to API rate limits during processing. Re-run the translation script to fill in missing fields.'

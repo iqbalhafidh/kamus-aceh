@@ -1,17 +1,50 @@
 headword: giduek
-jawi: ''
+jawi: گيدوک
 alt_spelling: []
 ipa: ''
-part_of_speech: ''
+part_of_speech: v
 definitions:
-- meaning_id: mengendarai, duduk atas sesuatu
-  meaning_en: ride, sit on
-examples: []
+- meaning_id: 'mengendarai: ji — guda (ji — ateueh guda), Ia mengendarai kuda. meu — (teu —), berkendaraan'
+  meaning_en: ''
+  examples:
+  - aceh: peu
+    jawi: ''
+    id: menyuruh kendarai
+    en: ''
+  - aceh: peu
+    jawi: ''
+    id: "keubeue inong,\n\n\n\n menyuruh tunggangi kerbau betina (tindakan hukuman pd masa kerajaan Aceh thd laki-laki yg menganiaya istrinya), melakukan perzinahan atau pencurian"
+    en: ''
+  - aceh: geupeu
+    jawi: ''
+    id: ''
+    en: ''
+  - aceh: keubeue
+    jawi: ''
+    id: menyuruh tungzangi kerbau
+    en: ordering to buffalo
+  - aceh: geumiduek
+    jawi: ''
+    id: melakukan pekerjaan mengendarai, sedang melakukan pekerjaan mengendarai
+    en: kitchen, stove
+  - aceh: geunudiek
+    jawi: ''
+    id: yg dikendarai
+    en: which is driven/operated
+  - aceh: jameun dilée geuniduek
+    jawi: ''
+    id: ''
+    en: ''
+  - aceh: raja-raja Acèh, gajah puteh
+    jawi: ''
+    id: Kendaraan raja-raja Aceh dahulu adalah gajah putih
+    en: The vehicle of Aceh kings in the past was a white elephant
 etymology: ''
-related_words: []
+related_words:
+- duek
+- pasang
 dialect_notes: ''
-source: 'Daud, Bukhari & Mark Durie. Kamus Basa Acèh = Kamus Bahasa Aceh: Acehnese–Indonesian–English Thesaurus.
-  Pacific Linguistics C-151, 1999, p. 37.'
-date_added: '2026-07-20'
+source: Kamus Aceh-Indonesia (Acehnese-Indonesian Dictionary), pp. 239, 240
+date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: ''
+extraction_notes: Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate reviewer. Some fields (English translations, Jawi) may be incomplete due to API rate limits during processing. Re-run the translation script to fill in missing fields.

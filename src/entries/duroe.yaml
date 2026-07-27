@@ -1,17 +1,72 @@
 headword: duroe
-jawi: ''
+jawi: دروي
 alt_spelling: []
 ipa: ''
-part_of_speech: ''
+part_of_speech: n
 definitions:
-- meaning_id: duri
-  meaning_en: thorn
-examples: []
+- meaning_id: 'duri, sesuatu yg runcing bentuknya: —'
+  meaning_en: ''
+  examples:
+  - aceh: drien
+    jawi: ''
+    id: "duri kulit\n buah durian"
+    en: 'Islam: religion –, Islamic religion'
+  - aceh: panaih
+    jawi: ''
+    id: duri kulit buah nangka
+    en: jackfruit skin thorn
+  - aceh: peulawaji lagêe
+    jawi: ''
+    id: ''
+    en: ''
+  - aceh: panaih ban saboh badan
+    jawi: ''
+    id: Bekas penyakit cacarnya menyerupai duri buah nanzka di seluruh badannya
+    en: The scars from his smallpox resemble jackfruit thorns all over his body
+  - aceh: seukê
+    jawi: ''
+    id: duri daun pandan
+    en: pandan leaf thorn
+  - aceh: meu
+    jawi: ''
+    id: berduri
+    en: ''
+  - aceh: trieng meu
+    jawi: ''
+    id: sj bambu berduri
+    en: thorny bamboo
+  - aceh: têk dara nyan ka meu
+    jawi: ''
+    id: Buah dada dara itu sudah menyerupai duri batang kapuk
+    en: ''
+  - aceh: rêt meu
+    jawi: ''
+    id: ''
+    en: ''
+  - aceh: bêk tajak!
+    jawi: ''
+    id: Jalan berduri, janganlah Anda lalui!
+    en: ''
+  - aceh: peu
+    jawi: ''
+    id: meletakkan duri
+    en: Why do you always go there?
+  - aceh: bêk tapeu
+    jawi: ''
+    id: ''
+    en: ''
+  - aceh: rêt
+    jawi: ''
+    id: ''
+    en: ''
+  - aceh: teutob gob!
+    jawi: ''
+    id: Janganlah Anda meletakkan duri di jalan, akan tercucuk (kaki) orang
+    en: ''
 etymology: ''
 related_words: []
 dialect_notes: ''
-source: 'Daud, Bukhari & Mark Durie. Kamus Basa Acèh = Kamus Bahasa Aceh: Acehnese–Indonesian–English Thesaurus.
-  Pacific Linguistics C-151, 1999, p. 99.'
-date_added: '2026-07-20'
+source: Kamus Aceh-Indonesia (Acehnese-Indonesian Dictionary), p. 185
+date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: ''
+extraction_notes: Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate reviewer. Some fields (English translations, Jawi) may be incomplete due to API rate limits during processing. Re-run the translation script to fill in missing fields.

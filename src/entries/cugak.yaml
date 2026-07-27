@@ -1,0 +1,37 @@
+headword: cugak
+jawi: چوڬك
+alt_spelling:
+- meucugak
+ipa: ''
+part_of_speech: a
+definitions:
+- meaning_id: mencuri, mencuak ke luar dan mengganggu
+  meaning_en: ''
+  examples:
+  - aceh: bek meunan meu
+    jawi: ''
+    id: '~'
+    en: '~'
+  - aceh: tagulam
+    jawi: ''
+    id: ''
+    en: ''
+  - aceh: kayee, teupeh gob!
+    jawi: ''
+    id: jangan Anda memikul kayu begitu sehingga mengganggu orang lain
+    en: Don't carry wood like that so it bothers others
+  - aceh: peu
+    jawi: ''
+    id: ~, menyuruh
+    en: ''
+  - aceh: meucagak
+    jawi: ''
+    id: ''
+    en: ''
+etymology: ''
+related_words: []
+dialect_notes: ''
+source: Kamus Aceh-Indonesia (Acehnese-Indonesian Dictionary), p. 145
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+extraction_notes: 'Source lists variant spellings: meucugak. Some fields (English translations, Jawi) may be incomplete due to API rate limits during processing. Re-run the translation script to fill in missing fields. Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate reviewer.'

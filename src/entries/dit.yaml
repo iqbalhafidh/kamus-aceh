@@ -1,19 +1,156 @@
 headword: dit
-jawi: ''
+jawi: ديت
 alt_spelling: []
 ipa: ''
-part_of_speech: ''
+part_of_speech: p
 definitions:
-- meaning_id: sedikit
-  meaning_en: few
-examples: []
+- meaning_id: 'sebutan utk suatu jumlah yg dianggap pantang: — that gaji lôn, gaji saya sedikit sekali'
+  meaning_en: he jumped and jingled, making the bells sound
+  examples:
+  - aceh: — noe — nan — dèn, — lagèe, si
+    jawi: ''
+    id: noe, sebanyak ini, itu, sana
+    en: ''
+  - aceh: barangga
+    jawi: ''
+    id: betapapun sedikitnya
+    en: ''
+  - aceh: barangga
+    jawi: ''
+    id: jibri, tatueng cit, betapapun sedikit diberikannya, Anda terima juga
+    en: ''
+  - aceh: meu
+    jawi: ''
+    id: tertentu banyaknya
+    en: certain quantity
+  - aceh: meu
+    jawi: ''
+    id: —, berbuat sesuatu dl jumlah yg sedikit-diknya
+    en: 'pinching with thumb and forefinger, taking with thumb and forefinger: ji – eungkôt raya-raya that*, he took fish by pinching very big'
+  - aceh: jimè jimeu
+    jawi: ''
+    id: —, mereka berlomba-lomba membawanya dl jumlah yg sedikit-dikitnya
+    en: ''
+  - aceh: peu
+    jawi: ''
+    id: mempersedikit, memperkecil jumlah
+    en: ''
+  - aceh: tumpôk nyoe tapeu
+    jawi: ''
+    id: ''
+    en: ''
+  - aceh: bacut
+    jawi: ''
+    id: ''
+    en: ''
+  - aceh: sabab jih hana payah
+    jawi: ''
+    id: kecilkan sedikit tumpukan ini sebab ia tidak banyak melakukan pekerjaan
+    en: make this pile a bit smaller because he doesn't do much work
+  - aceh: meu
+    jawi: ''
+    id: jumlah yg sedikit-dikitnya
+    en: a small amount
+  - aceh: sineu
+    jawi: ''
+    id: yg sedikit-dikitnya
+    en: at least
+  - aceh: pa
+    jawi: ''
+    id: berapa banyak
+    en: 'dra. v to flog: si meuranté nyan geu — limong plôn go, The chained man was flogged fifty times. peu —, to order a flogging'
+  - aceh: pa
+    jawi: ''
+    id: ''
+    en: ''
+  - aceh: yum
+    jawi: ''
+    id: berapakah harganya itu
+    en: how much is that
+  - aceh: pa
+    jawi: ''
+    id: ''
+    en: ''
+  - aceh: pa
+    jawi: ''
+    id: ''
+    en: ''
+  - aceh: na
+    jawi: ''
+    id: betapapun sedikitnya
+    en: ''
+  - aceh: pa
+    jawi: ''
+    id: ''
+    en: ''
+  - aceh: pa
+    jawi: ''
+    id: ''
+    en: ''
+  - aceh: na
+    jawi: ''
+    id: ''
+    en: ''
+  - aceh: tatueng cit
+    jawi: ''
+    id: betapapun sedikit jumlahnya, Anda terima juga!
+    en: No matter how small the amount, you still accept it!
+  - aceh: sa
+    jawi: ''
+    id: sedikitnya serupa dng
+    en: at least similar to
+  - aceh: sa
+    jawi: ''
+    id: ''
+    en: ''
+  - aceh: ngon uroe jéh
+    jawi: ''
+    id: sedikitnya serupa dng hari itu
+    en: at least similar to that day
+  - aceh: hana sa
+    jawi: ''
+    id: tidak sama banyaknya, tidak ada sama sekali
+    en: ''
+  - aceh: pa
+    jawi: ''
+    id: ''
+    en: ''
+  - aceh: na meuteumeung padé lam thôn nyoe?
+    jawi: ''
+    id: ''
+    en: ''
+  - aceh: hana sa
+    jawi: ''
+    id: berapa banyak Anda memperoleh hasil padi tahun ini? tidak seberapa
+    en: ''
+  - aceh: tu
+    jawi: ''
+    id: mengetahui jumlahnya
+    en: ''
+  - aceh: ka lôn tu
+    jawi: ''
+    id: ''
+    en: ''
+  - aceh: jiteumeung
+    jawi: ''
+    id: saya telah mengetahui berapa banyak yg diperolehnya
+    en: I have learned how much he obtained
+  - aceh: hana tahu
+    jawi: ''
+    id: ''
+    en: ''
+  - aceh: peugah lé
+    jawi: ''
+    id: kita tidak dpt menceritakan berapa banyaknya, banyak sekali
+    en: we cannot tell how many, very many
 etymology: ''
 related_words:
+- bacut
+- dum
 - mit
 - nit
 dialect_notes: ''
-source: 'Daud, Bukhari & Mark Durie. Kamus Basa Acèh = Kamus Bahasa Aceh: Acehnese–Indonesian–English Thesaurus.
-  Pacific Linguistics C-151, 1999, p. 86.'
-date_added: '2026-07-20'
+source: Kamus Aceh-Indonesia (Acehnese-Indonesian Dictionary), pp. 171, 172
+date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: ''
+extraction_notes: Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate reviewer.

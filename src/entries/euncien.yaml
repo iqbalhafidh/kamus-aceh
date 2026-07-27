@@ -1,17 +1,36 @@
 headword: euncien
-jawi: ''
+jawi: اؤينچين
 alt_spelling: []
 ipa: ''
-part_of_speech: ''
+part_of_speech: n
 definitions:
-- meaning_id: cincin
-  meaning_en: ring
-examples: []
+- meaning_id: 'cicin: —'
+  meaning_en: 'cicin: —'
+  examples:
+  - aceh: mumata
+    jawi: ''
+    id: cincin bermata
+    en: ring with a gemstone
+  - aceh: mata
+    jawi: ''
+    id: )
+    en: )
+  - aceh: akèk
+    jawi: ''
+    id: cincin yg bermata akik
+    en: ''
+  - aceh: awé siblah
+    jawi: ''
+    id: cincin belah rotan
+    en: split bamboo ring
+  - aceh: meu
+    jawi: ''
+    id: mempunyai cincin, memakai cincin
+    en: ''
 etymology: ''
 related_words: []
 dialect_notes: ''
-source: 'Daud, Bukhari & Mark Durie. Kamus Basa Acèh = Kamus Bahasa Aceh: Acehnese–Indonesian–English Thesaurus.
-  Pacific Linguistics C-151, 1999, p. 77.'
-date_added: '2026-07-20'
+source: Kamus Aceh-Indonesia (Acehnese-Indonesian Dictionary), p. 199
+date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: ''
+extraction_notes: Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate reviewer. Some fields (English translations, Jawi) may be incomplete due to API rate limits during processing. Re-run the translation script to fill in missing fields.

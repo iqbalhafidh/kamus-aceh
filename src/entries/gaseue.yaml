@@ -1,17 +1,28 @@
 headword: gaseue
-jawi: ''
+jawi: گاسع
 alt_spelling: []
 ipa: ''
 part_of_speech: ''
 definitions:
-- meaning_id: kasok, kasau
-  meaning_en: rafter
-examples: []
+- meaning_id: '*'
+  meaning_en: '*'
+  examples:
+  - aceh: gasie
+    jawi: ''
+    id: ''
+    en: ''
+  - aceh: ''
+    jawi: ''
+    id: n
+    en: ''
+  - aceh: 'kasau: —'
+    jawi: ''
+    id: rumoh nyan ka patah, reubah bak u beuklam*, Kasau rumah itu sudah patah, tadi malam tumbang batang kelapa (ke atasnya)
+    en: ''
 etymology: ''
 related_words: []
 dialect_notes: ''
-source: 'Daud, Bukhari & Mark Durie. Kamus Basa Acèh = Kamus Bahasa Aceh: Acehnese–Indonesian–English Thesaurus.
-  Pacific Linguistics C-151, 1999, p. 78.'
-date_added: '2026-07-20'
+source: Kamus Aceh-Indonesia (Acehnese-Indonesian Dictionary), p. 219
+date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: ''
+extraction_notes: Part of speech not specified in source. Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate reviewer. Some fields (English translations, Jawi) may be incomplete due to API rate limits during processing. Re-run the translation script to fill in missing fields.

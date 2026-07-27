@@ -1,17 +1,78 @@
 headword: gleueng
-jawi: ''
+jawi: ڬلوڬ
 alt_spelling: []
 ipa: ''
-part_of_speech: ''
+part_of_speech: n
 definitions:
-- meaning_id: gelang
-  meaning_en: bracelet
-examples: []
+- meaning_id: 'gelang (utk tangan atau kaki): — —, gelang-gelang'
+  meaning_en: ''
+  examples:
+  - aceh: jaroe
+    jawi: ''
+    id: gelang tangan
+    en: bracelet
+  - aceh: gaki
+    jawi: ''
+    id: gelang kaki
+    en: ''
+  - aceh: bulat
+    jawi: ''
+    id: gelang yg berbentuk bulat
+    en: a round-shaped bracelet
+  - aceh: meusagoe
+    jawi: ''
+    id: gelang yg berbentuk bersegi-segi
+    en: doing something hastily, rushing
+  - aceh: peunuta
+    jawi: ''
+    id: gelang putar
+    en: ''
+  - aceh: mubalot
+    jawi: ''
+    id: gelang tembaga yg dibalut suasana
+    en: ''
+  - aceh: soh
+    jawi: ''
+    id: gelang yg kosong di tengahnya
+    en: ''
+  - aceh: keureusèk
+    jawi: ''
+    id: atau
+    en: or
+  - aceh: meugeunta
+    jawi: ''
+    id: gelang kosong yg diisi batu-batu kecil sehingga berdering-dering bunyinya
+    en: empty bracelet filled with small stones that makes a ringing sound
+  - aceh: jaroe pirak
+    jawi: ''
+    id: gelang tangan perak
+    en: ''
+  - aceh: keumudoe
+    jawi: ''
+    id: gelang-gelang rotan pd bagian belakang perauu pukat tempat mengikat kemudi
+    en: rattan rings on the back of a fishing boat, place to tie the rudder
+  - aceh: pintò
+    jawi: ''
+    id: gelang-gelang pintu
+    en: door hinges
+  - aceh: meu
+    jawi: ''
+    id: bergelang tangan atau kaki, memakai gelang
+    en: ''
+  - aceh: peu
+    jawi: ''
+    id: menggelangi
+    en: to swim
 etymology: ''
-related_words: []
+related_words:
+- ikai
+- kruncòng
+- puntu
+- sangga
+- sawèk
+- taloe
 dialect_notes: ''
-source: 'Daud, Bukhari & Mark Durie. Kamus Basa Acèh = Kamus Bahasa Aceh: Acehnese–Indonesian–English Thesaurus.
-  Pacific Linguistics C-151, 1999, p. 6; p. 77.'
-date_added: '2026-07-20'
+source: Kamus Aceh-Indonesia (Acehnese-Indonesian Dictionary), p. 245
+date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: ''
+extraction_notes: Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate reviewer. Some fields (English translations, Jawi) may be incomplete due to API rate limits during processing. Re-run the translation script to fill in missing fields.

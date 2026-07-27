@@ -1,20 +1,31 @@
 headword: ghuen
-jawi: ''
+jawi: ݢوئين
 alt_spelling: []
 ipa: ''
-part_of_speech: ''
+part_of_speech: a
 definitions:
-- meaning_id: kental
-  meaning_en: thick, stiff (liquids)
-- meaning_id: kental
-  meaning_en: congealed
-examples: []
+- meaning_id: 'beku, kental, keras, berdadin: timah meung ka sijuek ka —, Jika timah sudah dingin, ia membeku'
+  meaning_en: God willing
+  examples:
+  - aceh: meulisan
+    jawi: ''
+    id: manisan keras
+    en: ''
+  - aceh: tatageuen bak
+    jawi: ''
+    id: Masaklah sampai keras
+    en: ''
+  - aceh: peu
+    jawi: ''
+    id: membuat sampai keras
+    en: ''
 etymology: ''
 related_words:
-- kai
+- beuku
+- kliet
+- likat
 dialect_notes: ''
-source: 'Daud, Bukhari & Mark Durie. Kamus Basa Acèh = Kamus Bahasa Aceh: Acehnese–Indonesian–English Thesaurus.
-  Pacific Linguistics C-151, 1999, p. 6; p. 83.'
-date_added: '2026-07-20'
+source: Kamus Aceh-Indonesia (Acehnese-Indonesian Dictionary), p. 239
+date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: ''
+extraction_notes: Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate reviewer.

@@ -1,17 +1,24 @@
 headword: euntah
-jawi: ''
+jawi: اونته
 alt_spelling: []
 ipa: ''
-part_of_speech: ''
+part_of_speech: adv
 definitions:
-- meaning_id: entah
-  meaning_en: maybe, who knows whether
-examples: []
+- meaning_id: 'entah: — ... —, entah ... entah, barangkali'
+  meaning_en: ''
+  examples:
+  - aceh: geupatêh — h'an geutanyoe marit
+    jawi: ''
+    id: Barangkali ia percaya yg kita katakan, barangkali juga tidak
+    en: Perhaps he believes what we say, perhaps not
+  - aceh: na — tan di rumoh, hana lon tupeue
+    jawi: ''
+    id: Saya tidak tahu apakah ia ada di rumah atau tidak
+    en: empty, uninhabited
 etymology: ''
 related_words: []
 dialect_notes: ''
-source: 'Daud, Bukhari & Mark Durie. Kamus Basa Acèh = Kamus Bahasa Aceh: Acehnese–Indonesian–English Thesaurus.
-  Pacific Linguistics C-151, 1999, p. 114.'
-date_added: '2026-07-20'
+source: Kamus Aceh-Indonesia (Acehnese-Indonesian Dictionary), p. 200
+date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: ''
+extraction_notes: Some fields (English translations, Jawi) may be incomplete due to API rate limits during processing. Re-run the translation script to fill in missing fields. Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate reviewer.

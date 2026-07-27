@@ -1,0 +1,36 @@
+headword: gruih
+jawi: ڬروه
+alt_spelling:
+- gruh
+ipa: ''
+part_of_speech: ''
+definitions:
+- meaning_id: suara menderu atau mendesing krn gerakan cepat
+  meaning_en: ''
+  examples:
+  - aceh: meu –
+    jawi: ''
+    id: menderu
+    en: rumbling
+  - aceh: meu – jigrôb meut'am jitak
+    jawi: ''
+    id: Ia melompat cepat-cepat dan menetaknya kuat-kuat sehingga berdentam bunyinya
+    en: ordering to make a noise
+  - aceh: asèe ji-plueng taleungo meu –
+    jawi: ''
+    id: Anjing berlari dng suara yg mendesing
+    en: ''
+  - aceh: jihue ôn pineung meu –
+    jawi: ''
+    id: Ia menghela daun pinang dng memperdengarkan bunyi mendesing
+    en: ''
+- meaning_id: Bd. hée
+  meaning_en: ''
+  examples: []
+etymology: ''
+related_words: []
+dialect_notes: ''
+source: Kamus Aceh-Indonesia (Acehnese-Indonesian Dictionary), p. 257
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+extraction_notes: 'Source lists variant spellings: gruh. Part of speech not specified in source. Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate reviewer. Some fields (English translations, Jawi) may be incomplete due to API rate limits during processing. Re-run the translation script to fill in missing fields.'

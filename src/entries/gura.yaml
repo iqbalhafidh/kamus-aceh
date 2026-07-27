@@ -1,18 +1,33 @@
 headword: gura
-jawi: ''
+jawi: ݢورا
 alt_spelling: []
 ipa: ''
-part_of_speech: ''
+part_of_speech: a
 definitions:
-- meaning_id: lucu, menyenangkan
-  meaning_en: funny, enjoyable
-examples: []
+- meaning_id: 'riang, bersemangat, meriah, ri-uh: —'
+  meaning_en: 'cheerful, enthusiastic, lively, ri-uh: —'
+  examples:
+  - aceh: that
+    jawi: ''
+    id: meriah sekali (ump keramaian)
+    en: very lively (ump keramaian)
+  - aceh: bak
+    jawi: ''
+    id: '! Gembirakanlah!'
+    en: '! Rejoice!'
+  - aceh: meu
+    jawi: ''
+    id: bergembira
+    en: rejoice
+  - aceh: peu
+    jawi: ''
+    id: membiarkan
+    en: ''
 etymology: ''
 related_words:
-- hayeue
+- gunjak*. Bd *gurak
 dialect_notes: ''
-source: 'Daud, Bukhari & Mark Durie. Kamus Basa Acèh = Kamus Bahasa Aceh: Acehnese–Indonesian–English Thesaurus.
-  Pacific Linguistics C-151, 1999, p. 51.'
-date_added: '2026-07-20'
+source: Kamus Aceh-Indonesia (Acehnese-Indonesian Dictionary), p. 265
+date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: ''
+extraction_notes: Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate reviewer. Some fields (English translations, Jawi) may be incomplete due to API rate limits during processing. Re-run the translation script to fill in missing fields.

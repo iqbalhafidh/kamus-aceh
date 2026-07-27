@@ -1,0 +1,42 @@
+headword: dami
+jawi: دمي
+alt_spelling: []
+ipa: ''
+part_of_speech: adv
+definitions:
+- meaning_id: demi (ucapkan ketika orang bersumpah)
+  meaning_en: for the sake of (said when someone swears)
+  examples:
+  - aceh: cak ban
+    jawi: ''
+    id: (*
+    en: (*
+  - aceh: ban lami
+    jawi: ''
+    id: '*)'
+    en: ''
+  - aceh: Allah
+    jawi: ''
+    id: demi Allah
+    en: ''
+  - aceh: geuleungo jikheun meunan, mirahle muka gobnyan
+    jawi: ''
+    id: ketika ia mendengar perkataannya itu, merahlah mukanya
+    en: when he heard those words, his face turned red
+  - aceh: han
+    jawi: ''
+    id: ''
+    en: ''
+  - aceh: mantong
+    jawi: ''
+    id: b-ru saja
+    en: just go
+etymology: ''
+related_words:
+- ban 1
+- lami
+dialect_notes: ''
+source: Kamus Aceh-Indonesia (Acehnese-Indonesian Dictionary), p. 156
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+extraction_notes: Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate reviewer.

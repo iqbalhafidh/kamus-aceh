@@ -1,17 +1,48 @@
 headword: drah
-jawi: ''
+jawi: دراه
 alt_spelling: []
 ipa: ''
-part_of_speech: ''
+part_of_speech: n
 definitions:
-- meaning_id: deras
-  meaning_en: fast, vigorous (movement)
-examples: []
+- meaning_id: 'sesuatu yg terkecil (dl hik): (hana) (b)ubé —, (tidak) sebesar bagian yg terkecil, (tidak) sedikit jua'
+  meaning_en: 'the smallest thing (in parables): (hana) (b)ubé —, not as big as the smallest part, not a little either'
+  examples:
+  - aceh: "hana raya, cut bubé —, tidak besar, hanya sekecil bagian yg terkecil → alah, dôseuta\n 1 draih a deras, cepat (utk gerakan), jelas"
+    jawi: ''
+    id: that jijak, Ia berjalan cepat sekali
+    en: that jijak, He walks very fast
+  - aceh: '''oh hana lé bibi, jima-ritpi hana'
+    jawi: ''
+    id: lé, sewaktu ia tidak berbibir lagi, berkata-kata pun ia tidak jelas lagi
+    en: lé, sewaktu ia tidak berbibir lagi, berkata-kata pun ia tidak jelas lagi
+  - aceh: su jih
+    jawi: ''
+    id: that, suara-suaranya melengking sekali
+    en: ''
+  - aceh: peu
+    jawi: ''
+    id: mempercepat
+    en: to accelerate
+  - aceh: "pakon ta-peu — that? mengapa Anda berjalan cepat sekali?\n 2 draih n deras, pelajaran: ji"
+    jawi: ''
+    id: Kuru-an bak juih Taba, ia mendaras, Alquran juz Tabarakalladzi
+    en: ''
+  - aceh: meu
+    jawi: ''
+    id: mendaras, bercerita, berbual-bual
+    en: ''
+  - aceh: '''oh saré trôih u meunasah, jimeu'
+    jawi: ''
+    id: "ngon Malém Diwa, sesampai di meunasah lalu berceritalah ia dng Malém Diwa\n dr'am-dr'am, dr'um-dr'um, bunyi gemuruh tembakan meriam, senapang, aum harimau, api yg sedang menyala besar: meu ~ bergemuruh, menyebar ke mana-mana"
+    en: on Malém Diwa, upon arriving at the meunasah, he then told Malém Diwa stories
+- meaning_id: su meureuyam meu ~ , suara meriam bergemuruh. bèe minyeuk ata that meu ~ , bau minyak athar menyebar ke mana-mana
+  meaning_en: ''
+  examples: []
 etymology: ''
-related_words: []
+related_words:
+- beukam
 dialect_notes: ''
-source: 'Daud, Bukhari & Mark Durie. Kamus Basa Acèh = Kamus Bahasa Aceh: Acehnese–Indonesian–English Thesaurus.
-  Pacific Linguistics C-151, 1999, p. 81.'
-date_added: '2026-07-20'
+source: Kamus Aceh-Indonesia (Acehnese-Indonesian Dictionary), pp. 176, 177
+date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: ''
+extraction_notes: Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate reviewer.

@@ -1,0 +1,29 @@
+headword: ghak
+jawi: غك
+alt_spelling: []
+ipa: ''
+part_of_speech: ''
+definitions:
+- meaning_id: '*'
+  meaning_en: '*'
+  examples:
+  - aceh: gh'ak
+    jawi: ''
+    id: ''
+    en: ''
+  - aceh: 'menggeletar (ump lembing yg ditacapkan ke tanah dan tinggal tertancap di dalamnya):'
+    jawi: ''
+    id: panê leumbêng nyoe srôt u leuen meu
+    en: panê leumbêng nyoe srôt u leuen meu
+  - aceh: —
+    jawi: ''
+    id: teudong*, dr mana datangnya lembing yg dilemparkan dng sekuat-kuatnya dan jatuh di pekarangan sehingga menggeletar tertancap di atas tanah
+    en: ''
+etymology: ''
+related_words:
+- gab
+dialect_notes: ''
+source: Kamus Aceh-Indonesia (Acehnese-Indonesian Dictionary), p. 238
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+extraction_notes: Part of speech not specified in source. Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate reviewer. Some fields (English translations, Jawi) may be incomplete due to API rate limits during processing. Re-run the translation script to fill in missing fields.

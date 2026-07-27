@@ -1,19 +1,41 @@
 headword: guru
-jawi: ''
+jawi: ݢورو
 alt_spelling: []
 ipa: ''
-part_of_speech: ''
+part_of_speech: n
 definitions:
-- meaning_id: guru
-  meaning_en: teacher
-examples: []
+- meaning_id: guru, guru sihir (Bd *
+  meaning_en: ''
+  examples:
+  - aceh: gurèe
+    jawi: ''
+    id: ''
+    en: ''
+  - aceh: '): —'
+    jawi: ''
+    id: sikula*, guru sekolah
+    en: ''
+  - aceh: prang
+    jawi: ''
+    id: ahli nujum yg mengetahui waktu melakukan serangan, → *
+    en: astrologer who knows the time to attack, → *
+  - aceh: jak
+    jawi: ''
+    id: '*'
+    en: '*'
+  - aceh: pawang—buya
+    jawi: ''
+    id: pawang buaya; —
+    en: ''
+  - aceh: rimueng
+    jawi: ''
+    id: pawang harimau
+    en: Tiger shaman
 etymology: ''
 related_words:
-- gurèe
-- ustat
+- bumèe
 dialect_notes: ''
-source: 'Daud, Bukhari & Mark Durie. Kamus Basa Acèh = Kamus Bahasa Aceh: Acehnese–Indonesian–English Thesaurus.
-  Pacific Linguistics C-151, 1999, p. 16; p. 68.'
-date_added: '2026-07-20'
+source: Kamus Aceh-Indonesia (Acehnese-Indonesian Dictionary), p. 266
+date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: ''
+extraction_notes: Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate reviewer. Some fields (English translations, Jawi) may be incomplete due to API rate limits during processing. Re-run the translation script to fill in missing fields.

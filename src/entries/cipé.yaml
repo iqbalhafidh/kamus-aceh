@@ -1,18 +1,24 @@
 headword: cipé
-jawi: ''
+jawi: چيڤ
 alt_spelling: []
 ipa: ''
-part_of_speech: ''
+part_of_speech: n
 definitions:
-- meaning_id: ceper
-  meaning_en: saucer
-examples: []
+- meaning_id: 'ceper, piring kecil yg bulat bentuknya: —'
+  meaning_en: 'small round plate: —'
+  examples:
+  - aceh: lhōk
+    jawi: ''
+    id: ceper yg cekung bentuknya
+    en: ''
+  - aceh: meu
+    jawi: ''
+    id: mempunyai ceper
+    en: to have a short temper
 etymology: ''
-related_words:
-- ceupé
+related_words: []
 dialect_notes: ''
-source: 'Daud, Bukhari & Mark Durie. Kamus Basa Acèh = Kamus Bahasa Aceh: Acehnese–Indonesian–English Thesaurus.
-  Pacific Linguistics C-151, 1999, p. 79.'
-date_added: '2026-07-20'
+source: Kamus Aceh-Indonesia (Acehnese-Indonesian Dictionary), p. 137
+date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: ''
+extraction_notes: Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate reviewer.

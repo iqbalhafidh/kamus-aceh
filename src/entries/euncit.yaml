@@ -1,18 +1,46 @@
 headword: euncit
-jawi: ''
-alt_spelling: []
+jawi: اونچيت
+alt_spelling:
+- ncit
 ipa: ''
-part_of_speech: ''
+part_of_speech: n
 definitions:
-- meaning_id: jejak
-  meaning_en: spoor, trail
-examples: []
+- meaning_id: bekas, jejak, sisa terakhir, sebab, akibat
+  meaning_en: ~, calling *
+  examples:
+  - aceh: nyoe
+    jawi: ''
+    id: ''
+    en: ''
+  - aceh: rimeung jak
+    jawi: ''
+    id: Ini adalah jejak harimau
+    en: This is a tiger's track
+  - aceh: kajisawiet
+    jawi: ''
+    id: Sisa-sisanya telah diraupnya
+    en: ''
+  - aceh: aneukku ban maté, 'oh lheueh nyan bahkeu tameukeu
+    jawi: ''
+    id: ''
+    en: ''
+  - aceh: reuja
+    jawi: ''
+    id: Krn anakku baru meninggal, setelah itu bolehlah kita berpesta-pora
+    en: ''
+  - aceh: meu
+    jawi: ''
+    id: berjejak
+    en: stepping
 etymology: ''
 related_words:
 - bakat
+- beukaih
+- euntée
+- keudèh
+- krak
 dialect_notes: ''
-source: 'Daud, Bukhari & Mark Durie. Kamus Basa Acèh = Kamus Bahasa Aceh: Acehnese–Indonesian–English Thesaurus.
-  Pacific Linguistics C-151, 1999, p. 63.'
-date_added: '2026-07-20'
+source: Kamus Aceh-Indonesia (Acehnese-Indonesian Dictionary), p. 199
+date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: ''
+extraction_notes: 'Source lists variant spellings: ncit. Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate reviewer.'

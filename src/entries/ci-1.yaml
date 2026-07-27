@@ -1,0 +1,52 @@
+headword: ci
+jawi: ''
+alt_spelling: []
+ipa: ''
+part_of_speech: v
+definitions:
+- meaning_id: mencoba, merasakan, menguji
+  meaning_en: trying, feeling, testing
+  examples:
+  - aceh: cuba ta
+    jawi: ''
+    id: ''
+    en: ''
+  - aceh: sinyan, jeuet tapeucaya atawah h’an
+    jawi: ''
+    id: ''
+    en: ''
+  - aceh: meu
+    jawi: ''
+    id: melakukan ci
+    en: doing ci
+  - aceh: boh mamplam di peukan lagoe meu
+    jawi: ''
+    id: ''
+    en: ''
+  - aceh: ceumeu
+    jawi: ''
+    id: ''
+    en: ''
+  - aceh: hana le lom
+    jawi: ''
+    id: buah mangga mulai dijual di pasar, belum banyak lagi
+    en: Mangoes are starting to be sold in the market, not many yet
+  - aceh: peu
+    jawi: ''
+    id: menyuruh coba
+    en: ''
+  - aceh: ceumeuci
+    jawi: ''
+    id: melakukan ci — *
+    en: ''
+  - aceh: cuba
+    jawi: ''
+    id: '*'
+    en: '*'
+etymology: ''
+related_words: []
+dialect_notes: ''
+source: Kamus Aceh-Indonesia (Acehnese-Indonesian Dictionary), p. 134
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+extraction_notes: Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate reviewer. Headword was originally parsed as '1' (entry number); corrected to 'ci' from POS field. Jawi field cleared — original AI-generated Jawi was for the numeric entry number, not the actual headword. Needs regeneration. Some fields (English translations, Jawi) may be incomplete due to API rate limits during processing. Re-run the translation script to fill in missing fields.

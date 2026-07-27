@@ -1,19 +1,20 @@
----
-headword: "galeuen"
-jawi: ""
+headword: galeuen
+jawi: ڬالئين
 alt_spelling: []
-ipa: "/ga.lɯən/"
-part_of_speech: "n"
-language_uncertain: false
+ipa: ''
+part_of_speech: a
 definitions:
-  - meaning_id: "kuning kecokelatan"
-    meaning_en: ""
-examples:
-  []
-etymology: ""
+- meaning_id: 'berwarna kuning kecoklat-coklatan: buya—, buaya yg berwarna kuning kecoklat-coklatan'
+  meaning_en: ''
+  examples:
+  - aceh: keubeue
+    jawi: ''
+    id: kerbau yg berwarna kuning kecoklat-coklatan
+    en: buffalo that is yellowish-brown
+etymology: ''
 related_words: []
-dialect_notes: ""
-source: "Kamus Bahasa Aceh Daring (Balai Bahasa Provinsi Aceh), 'Entri huruf — galeuen', URL: https://kamusbbpa.kemendikdasmen.go.id/kamus/Aceh/G (diakses 20 Juli 2026)"
-date_added: "2026-07-20"
-contributor: "AI-extracted — needs human review"
-extraction_notes: "Diekstrak dari 1 halaman sumber (https://kamusbbpa.kemendikdasmen.go.id/kamus/Aceh/G). Tidak ada bentuk Jawi dalam sumber — dibiarkan kosong sesuai aturan."
+dialect_notes: ''
+source: Kamus Aceh-Indonesia (Acehnese-Indonesian Dictionary), p. 210
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+extraction_notes: Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate reviewer. Some fields (English translations, Jawi) may be incomplete due to API rate limits during processing. Re-run the translation script to fill in missing fields.

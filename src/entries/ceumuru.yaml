@@ -1,17 +1,28 @@
 headword: ceumuru
-jawi: ''
+jawi: چئومرو
 alt_spelling: []
 ipa: ''
-part_of_speech: ''
+part_of_speech: a
 definitions:
-- meaning_id: cemburu
-  meaning_en: jealous
-examples: []
+- meaning_id: 'cemburu, iri hati: —'
+  meaning_en: jealous, envious
+  examples:
+  - aceh: geutham lam agama
+    jawi: ''
+    id: cemburu dilarang dl agama
+    en: ''
+  - aceh: bèk hai rakan ta
+    jawi: ''
+    id: janganlah teman-teman Anda beriri hati
+    en: ''
+  - aceh: peu
+    jawi: ''
+    id: mencemburui
+    en: ''
 etymology: ''
 related_words: []
 dialect_notes: ''
-source: 'Daud, Bukhari & Mark Durie. Kamus Basa Acèh = Kamus Bahasa Aceh: Acehnese–Indonesian–English Thesaurus.
-  Pacific Linguistics C-151, 1999, p. 50.'
-date_added: '2026-07-20'
+source: Kamus Aceh-Indonesia (Acehnese-Indonesian Dictionary), p. 127
+date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: ''
+extraction_notes: Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate reviewer. Some fields (English translations, Jawi) may be incomplete due to API rate limits during processing. Re-run the translation script to fill in missing fields.

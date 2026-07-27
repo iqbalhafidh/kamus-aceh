@@ -1,0 +1,34 @@
+headword: ceupeueb
+jawi: چڤيوڤ
+alt_spelling: []
+ipa: ''
+part_of_speech: v
+definitions:
+- meaning_id: 'menggapai, menyambar, mencekau, memegang, menangkap: bak buya — keuh, semoga engkau disambar buaya'
+  meaning_en: ''
+  examples:
+  - aceh: lôn le that buet hana lôn tubo
+    jawi: ''
+    id: pekerjaan saya banyak sekali, saya tak tahu mana yg akan saya kerjakan
+    en: my work is a lot, I don't know which one I will do
+  - aceh: meu
+    jawi: ''
+    id: tersambar, disambar
+    en: ''
+  - aceh: peu —, menyuruh
+    jawi: ''
+    id: mengharapkan disambar
+    en: ''
+- meaning_id: ceumeupeueb, melakukan ceupeueb
+  meaning_en: ceumeupeueb, doing ceupeueb
+  examples: []
+- meaning_id: Bd ceume-eb
+  meaning_en: Bd ceume-eb
+  examples: []
+etymology: ''
+related_words: []
+dialect_notes: ''
+source: Kamus Aceh-Indonesia (Acehnese-Indonesian Dictionary), p. 129
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+extraction_notes: Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate reviewer. Some fields (English translations, Jawi) may be incomplete due to API rate limits during processing. Re-run the translation script to fill in missing fields.

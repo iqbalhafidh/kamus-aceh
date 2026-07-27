@@ -1,17 +1,36 @@
 headword: dadeueng
-jawi: ''
+jawi: دادوڠ
 alt_spelling: []
 ipa: ''
-part_of_speech: ''
+part_of_speech: v
 definitions:
-- meaning_id: memanggang, mengeringkan
-  meaning_en: roast, dry by the fire
-examples: []
+- meaning_id: menjemur, mengeringkan memanggang (dekat api)
+  meaning_en: ''
+  examples:
+  - aceh: ta
+    jawi: ''
+    id: ''
+    en: ''
+  - aceh: ija
+    jawi: ''
+    id: ''
+    en: ''
+  - aceh: lòn bak apui
+    jawi: ''
+    id: keringkanlah kain saya di api
+    en: ''
+  - aceh: meu
+    jawi: ''
+    id: melakukan pekerjaan menjemur, berjemur (di api)
+    en: ''
+  - aceh: peu
+    jawi: ''
+    id: mengusahakan menje-
+    en: trying to-
 etymology: ''
 related_words: []
 dialect_notes: ''
-source: 'Daud, Bukhari & Mark Durie. Kamus Basa Acèh = Kamus Bahasa Aceh: Acehnese–Indonesian–English Thesaurus.
-  Pacific Linguistics C-151, 1999, p. 70.'
-date_added: '2026-07-20'
+source: Kamus Aceh-Indonesia (Acehnese-Indonesian Dictionary), p. 152
+date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: ''
+extraction_notes: Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate reviewer. Some fields (English translations, Jawi) may be incomplete due to API rate limits during processing. Re-run the translation script to fill in missing fields.

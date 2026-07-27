@@ -1,17 +1,102 @@
 headword: gom
-jawi: ''
+jawi: ڬوم
 alt_spelling: []
 ipa: ''
-part_of_speech: ''
+part_of_speech: v
 definitions:
-- meaning_id: telungkup Umum - Other Actions
-  meaning_en: invert a container
-examples: []
+- meaning_id: menarapkan, menelungkupkan, melemparkan diri keatas sesuatu
+  meaning_en: ''
+  examples:
+  - aceh: droe
+    jawi: ''
+    id: menelungkupkan diri ke atas sesuatu
+    en: to bend forward over something
+  - aceh: si
+    jawi: ''
+    id: ''
+    en: ''
+  - aceh: dônya
+    jawi: ''
+    id: seluruh dunia
+    en: the whole world
+  - aceh: ta
+    jawi: ''
+    id: ''
+    en: ''
+  - aceh: cawan bak gêt
+    jawi: ''
+    id: telungkupkan mangkok baik-baik
+    en: Say how many months you will pay your debt!
+  - aceh: putroe neu
+    jawi: ''
+    id: ''
+    en: ''
+  - aceh: dore ateueh aneukeunda, neucôm badan deungon muka
+    jawi: ''
+    id: Tuan putri menelungkupkan dirinya ke atas putranya dan mencium badan serta mukanya
+    en: The princess bent over her son and kissed his body and face
+  - aceh: meu
+    jawi: ''
+    id: ''
+    en: ''
+  - aceh: teu
+    jawi: ''
+    id: terbalik, tertelungkup
+    en: ''
+  - aceh: pingan ka ha-bêh meu
+    jawi: ''
+    id: ''
+    en: ''
+  - aceh: bak teumpatji
+    jawi: ''
+    id: Piring piring sudah ditelungkupkan pd tempatnya
+    en: The plates have been turned over in their place
+  - aceh: lôn kalon jih ka teu
+    jawi: ''
+    id: ''
+    en: ''
+  - aceh: bak aleue
+    jawi: ''
+    id: Saya melihatnya sudah tertelungkup di lantai
+    en: I saw him already face down on the floor
+  - aceh: bruek teu
+    jawi: ''
+    id: →
+    en: →
+  - aceh: bruek
+    jawi: ''
+    id: ''
+    en: ''
+  - aceh: peu
+    jawi: ''
+    id: gelap krn ditutupi atau dibayangi sesuatu, mendung
+    en: dark because covered or shaded by something, cloudy
+  - aceh: sidêh pi peu
+    jawi: ''
+    id: ''
+    en: ''
+  - aceh: sinoe pi reudôk tamsê keumeung tôk uju-en keunong sa
+    jawi: ''
+    id: Keadaan di sana mendung, di sini pun gelap, laksana akan turun hujan pd musim penghujan
+    en: The condition there is cloudy, here it is dark, as if it will rain in the rainy season
+  - aceh: meung ka reudôk deungon peu
+    jawi: ''
+    id: ''
+    en: ''
+  - aceh: cit teuka reudom siblah Utara
+    jawi: ''
+    id: Jika sudah gelap serta mendung, pasti terlihat cuaca suram di sebelah Utara
+    en: If it's already dark and cloudy, the weather will surely look gloomy in the North
+  - aceh: Geuneugom
+    jawi: ''
+    id: sj alat penangkap ikan dl air yg dangkal
+    en: ''
 etymology: ''
-related_words: []
+related_words:
+- jakhôb
+- khôb
 dialect_notes: ''
-source: 'Daud, Bukhari & Mark Durie. Kamus Basa Acèh = Kamus Bahasa Aceh: Acehnese–Indonesian–English Thesaurus.
-  Pacific Linguistics C-151, 1999, p. 47.'
-date_added: '2026-07-20'
+source: Kamus Aceh-Indonesia (Acehnese-Indonesian Dictionary), pp. 251, 252
+date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: ''
+extraction_notes: Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate reviewer. Some fields (English translations, Jawi) may be incomplete due to API rate limits during processing. Re-run the translation script to fill in missing fields.

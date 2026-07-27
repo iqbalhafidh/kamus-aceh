@@ -1,0 +1,41 @@
+headword: cib-cib
+jawi: چيب-چيب
+alt_spelling:
+- crib-crib
+ipa: ''
+part_of_speech: n
+definitions:
+- meaning_id: tiruan bunyi anak ayam atau anak burung pemakan padi
+  meaning_en: ''
+  examples:
+  - aceh: meu
+    jawi: ''
+    id: memperdengarkan suara
+    en: making a sound
+  - aceh: cib-cib
+    jawi: ''
+    id: ''
+    en: ''
+  - aceh: leuek jikutru, tulô meu
+    jawi: ''
+    id: burung balam mendekat, burung pipit menciap-ciap
+    en: → blood
+  - aceh: peu
+    jawi: ''
+    id: menyuruh
+    en: to order, to tell
+  - aceh: cib-cib
+    jawi: ''
+    id: '*'
+    en: '*'
+  - aceh: cab-cib, c’ieb-c’ieb
+    jawi: ''
+    id: '*'
+    en: '*'
+etymology: ''
+related_words: []
+dialect_notes: ''
+source: Kamus Aceh-Indonesia (Acehnese-Indonesian Dictionary), p. 134
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+extraction_notes: 'Source lists variant spellings: crib-crib. Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate reviewer. Some fields (English translations, Jawi) may be incomplete due to API rate limits during processing. Re-run the translation script to fill in missing fields.'

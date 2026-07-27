@@ -1,20 +1,147 @@
 headword: gasa
-jawi: ''
+jawi: گاسا
 alt_spelling: []
 ipa: ''
-part_of_speech: ''
+part_of_speech: a
 definitions:
-- meaning_id: kasar
-  meaning_en: coarse, rude
-- meaning_id: kasar
-  meaning_en: rough, rude
-examples: []
+- meaning_id: kasar, (ki) tidak sopan
+  meaning_en: rough, (ki) impolite
+  examples:
+  - aceh: ija
+    jawi: ''
+    id: kain kasar
+    en: coarse cloth
+  - aceh: peuneugètji
+    jawi: ''
+    id: buatannya kasar
+    en: roughly made
+  - aceh: naritji
+    jawi: ''
+    id: ''
+    en: ''
+  - aceh: that
+    jawi: ''
+    id: kata-katanya kasar sekali, tidak sopan, tidak sopan
+    en: his words are very harsh, impolite, rude
+  - aceh: adat
+    jawi: ''
+    id: adat yg kasar, tidak sopan
+    en: ''
+  - aceh: hukôm
+    jawi: ''
+    id: hukum yg sewenang-wenang
+    en: ''
+  - aceh: siat
+    jawi: ''
+    id: ''
+    en: ''
+  - aceh: siat halôih
+    jawi: ''
+    id: sebentar (terdengar) keras, sebentar halus
+    en: for a moment (heard) loud, for a moment soft
+  - aceh: peu
+    jawi: ''
+    id: mengasarkan, melakukan sesuatu secara kasar
+    en: to do something roughly
+  - aceh: peu
+    jawi: ''
+    id: ''
+    en: ''
+  - aceh: droe
+    jawi: ''
+    id: "bersikap kasar, bersikap tidak sopan\n §1§ *"
+    en: to be rude, to be impolite
+  - aceh: gasai
+    jawi: ''
+    id: ''
+    en: ''
+  - aceh: ''
+    jawi: ''
+    id: a
+    en: ''
+  - aceh: ganjil
+    jawi: ''
+    id: 'tidak genap: — geunap'
+    en: ''
+  - aceh: ganjil atau genap, sj permainan, →
+    jawi: ''
+    id: cék*
+    en: cék*
+  - aceh: peu
+    jawi: ''
+    id: membuat ganjil
+    en: to make odd
+  - aceh: gasai 2
+    jawi: ''
+    id: "*\n §2§ *"
+    en: ''
+  - aceh: gasai
+    jawi: ''
+    id: ''
+    en: ''
+  - aceh: ''
+    jawi: ''
+    id: v
+    en: v
+  - aceh: gemal
+    jawi: ''
+    id: 'berkas kecil (tt padi atau rumput), ikat kecil: ta'
+    en: peu* ~ , to make a stinky smell
+  - aceh: —
+    jawi: ''
+    id: padé nyan*, Berkaskan padi itu dl berkas-berkas kecil
+    en: ''
+  - aceh: si
+    jawi: ''
+    id: ''
+    en: ''
+  - aceh: padé
+    jawi: ''
+    id: seberkas kecil padi
+    en: a small stalk of rice
+  - aceh: meu
+    jawi: ''
+    id: mengikat atau memberkas kecil-kecil
+    en: ''
+  - aceh: nyan ka meu
+    jawi: ''
+    id: ''
+    en: ''
+  - aceh: na dua reutôih
+    jawi: ''
+    id: Yg sudah diberkas kecil-kecil sebanyak dua ratus gemal
+    en: ''
+  - aceh: peu
+    jawi: ''
+    id: menyuruh berkaskan
+    en: ''
+  - aceh: geumasai
+    jawi: ''
+    id: sedang menggemal
+    en: ''
+  - aceh: geunasai
+    jawi: ''
+    id: cara menggemal, hasil menggemal
+    en: ''
+  - aceh: padé geunasai
+    jawi: ''
+    id: padi yg telah digemal gemal
+    en: rice that has been trampled
+- meaning_id: Bd *
+  meaning_en: ''
+  examples:
+  - aceh: gasai 1
+    jawi: ''
+    id: ''
+    en: ''
+  - aceh: geucai
+    jawi: ''
+    id: '*'
+    en: '*'
 etymology: ''
-related_words:
-- krang
+related_words: []
 dialect_notes: ''
-source: 'Daud, Bukhari & Mark Durie. Kamus Basa Acèh = Kamus Bahasa Aceh: Acehnese–Indonesian–English Thesaurus.
-  Pacific Linguistics C-151, 1999, p. 16; p. 82.'
-date_added: '2026-07-20'
+source: Kamus Aceh-Indonesia (Acehnese-Indonesian Dictionary), p. 218
+date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: ''
+extraction_notes: Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate reviewer. Some fields (English translations, Jawi) may be incomplete due to API rate limits during processing. Re-run the translation script to fill in missing fields.

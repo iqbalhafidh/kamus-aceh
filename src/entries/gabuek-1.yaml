@@ -1,0 +1,28 @@
+headword: gabuek
+jawi: ''
+alt_spelling: []
+ipa: ''
+part_of_speech: n
+definitions:
+- meaning_id: kesibukan yg membuat orang gugup dan apa yg dikerjakan menjadi salah, kebingungan (krn terkejut)
+  meaning_en: ''
+  examples:
+  - aceh: bèk tajak u kantô uroe nyoe, lôn teungoh — that
+    jawi: ''
+    id: Janganlah Anda datang ke kantor hari ini, saya tengah sibuk sekali
+    en: Don't come to the office today, I'm very busy
+  - aceh: peu
+    jawi: ''
+    id: menyibukkan
+    en: ''
+  - aceh: bèk tapeu — droe
+    jawi: ''
+    id: Janganlah Anda membingungkan diri sendiri
+    en: Do not confuse yourself
+etymology: ''
+related_words: []
+dialect_notes: ''
+source: Kamus Aceh-Indonesia (Acehnese-Indonesian Dictionary), p. 204
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+extraction_notes: Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate reviewer. Some fields (English translations, Jawi) may be incomplete due to API rate limits during processing. Re-run the translation script to fill in missing fields. Headword was originally parsed as '1' (entry number); corrected to 'gabuek' from POS field. Jawi field cleared — original AI-generated Jawi was for the numeric entry number, not the actual headword. Needs regeneration.

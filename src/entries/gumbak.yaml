@@ -1,0 +1,38 @@
+headword: gumbak
+jawi: ݢومبق
+alt_spelling: []
+ipa: ''
+part_of_speech: n
+definitions:
+- meaning_id: gombal
+  meaning_en: ''
+  examples:
+  - aceh: 'rambut di kepala yg ditinggalkan sehabis bercukur: — pupôk'
+    jawi: ''
+    id: keue, seberkas rambut di ubun-ubun
+    en: hey, a strand of hair on the crown
+  - aceh: ''
+    jawi: ''
+    id: geunirêng, serupa yg tumbuh di kiri kanan kepala
+    en: ''
+  - aceh: — lagèe
+    jawi: ''
+    id: guda, gombakya spt gombak kuda
+    en: guda, gombakya like horse mane
+  - aceh: aneuk ka rayek, keu peue tapeuduek —? Anak itu sudah besar, utk apa Anda membiarkan tumbuh gombakya? ayeuem
+    jawi: ''
+    id: ''
+    en: ''
+etymology: ''
+related_words:
+- ayeuem
+- meu —
+- bergombak
+- peu —
+- membiarkan tumbuh gombak
+- mengadakan gombak
+dialect_notes: ''
+source: Kamus Aceh-Indonesia (Acehnese-Indonesian Dictionary), p. 261
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+extraction_notes: Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate reviewer. Some fields (English translations, Jawi) may be incomplete due to API rate limits during processing. Re-run the translation script to fill in missing fields.

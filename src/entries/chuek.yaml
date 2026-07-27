@@ -1,0 +1,42 @@
+headword: chuek
+jawi: چيوك
+alt_spelling:
+- cruek
+- chok
+- meunchuek-chuek
+ipa: ''
+part_of_speech: a
+definitions:
+- meaning_id: basah kuyup
+  meaning_en: soaking wet
+  examples:
+  - aceh: meu ~ ija lòn basah lam ujeuen
+    jawi: ''
+    id: kain saya basah kuyup
+    en: My cloth is soaking wet
+  - aceh: meu
+    jawi: ''
+    id: ~ , membuat basah kuyup
+    en: ''
+- meaning_id: Bd *
+  meaning_en: ''
+  examples:
+  - aceh: cèk-cuek
+    jawi: ''
+    id: ''
+    en: ''
+  - aceh: 'ch''ueng a berbau pesing, berbau air seni:'
+    jawi: ''
+    id: soe tòh iek? bèe ~ that
+    en: what is this? that ~
+  - aceh: siapa yg telah buang air kecil bau-nya pesing sekali.
+    jawi: ''
+    id: peu* ~ , membuat berbau pesing
+    en: padé, rice bran that occurs when pounding rice
+etymology: ''
+related_words: []
+dialect_notes: ''
+source: Kamus Aceh-Indonesia (Acehnese-Indonesian Dictionary), p. 133
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+extraction_notes: 'Source lists variant spellings: cruek, chok, meunchuek-chuek. Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate reviewer. Some fields (English translations, Jawi) may be incomplete due to API rate limits during processing. Re-run the translation script to fill in missing fields.'

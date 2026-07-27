@@ -1,18 +1,76 @@
 headword: gata
-jawi: ''
+jawi: ڬاتا
 alt_spelling: []
 ipa: ''
-part_of_speech: ''
+part_of_speech: n
 definitions:
-- meaning_id: kamu
-  meaning_en: you (respectful, younger than speaker)
-examples: []
+- meaning_id: 'kata ganti orang kedua (tunggal dan jamak) Anda, tuan: —'
+  meaning_en: ''
+  examples:
+  - aceh: bandum
+    jawi: ''
+    id: Anda semua
+    en: ''
+  - aceh: hoka
+    jawi: ''
+    id: '? Di manakah Anda?'
+    en: ''
+  - aceh: jieu
+    jawi: ''
+    id: Ia melihat Anda
+    en: ''
+  - aceh: peue nyan bak
+    jawi: ''
+    id: Ada apa dng Anda?
+    en: What's up with you?
+  - aceh: kupiah
+    jawi: ''
+    id: kopiah (kepunyaan) Anda
+    en: your cap
+  - aceh: meu
+    jawi: ''
+    id: (—), berkata dng menggunakan kata ganti orang kedua *
+    en: (—), speaking using second-person pronoun *
+  - aceh: gata
+    jawi: ''
+    id: '* thd sesamanya'
+    en: ''
+  - aceh: bek tamarit keu ureueng tuha meu
+    jawi: ''
+    id: —, Janganlah Anda memakai kata *
+    en: ''
+  - aceh: gata
+    jawi: ''
+    id: '* thd orang tua'
+    en: Don't you hoard what others have dug
+  - aceh: peu
+    jawi: ''
+    id: menggunakan *
+    en: using *
+  - aceh: gata
+    jawi: ''
+    id: '* thd seseorang'
+    en: '* regarding someone'
+  - aceh: pakon tapeu
+    jawi: ''
+    id: ''
+    en: ''
+  - aceh: gobnyan
+    jawi: ''
+    id: ''
+    en: ''
+  - aceh: gobnyan ureueng rayek
+    jawi: ''
+    id: Mengapa Anda menyebut *
+    en: ''
+  - aceh: gata
+    jawi: ''
+    id: '* terhadapnya, ia seorang bangsawan'
+    en: Everyone agrees
 etymology: ''
-related_words:
-- ta-
+related_words: []
 dialect_notes: ''
-source: 'Daud, Bukhari & Mark Durie. Kamus Basa Acèh = Kamus Bahasa Aceh: Acehnese–Indonesian–English Thesaurus.
-  Pacific Linguistics C-151, 1999, p. 11.'
-date_added: '2026-07-20'
+source: Kamus Aceh-Indonesia (Acehnese-Indonesian Dictionary), p. 220
+date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: ''
+extraction_notes: Some fields (English translations, Jawi) may be incomplete due to API rate limits during processing. Re-run the translation script to fill in missing fields. Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate reviewer.

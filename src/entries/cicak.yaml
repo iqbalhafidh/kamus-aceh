@@ -1,18 +1,40 @@
 headword: cicak
-jawi: ''
+jawi: چچك
 alt_spelling: []
 ipa: ''
-part_of_speech: ''
+part_of_speech: n
 definitions:
 - meaning_id: cecak
-  meaning_en: house lizard
-examples: []
+  meaning_en: ''
+  examples:
+  - aceh: kah lagèe
+    jawi: ''
+    id: ''
+    en: ''
+  - aceh: putéh
+    jawi: ''
+    id: engkau spt seekor cecak putih
+    en: ''
+  - aceh: peu
+    jawi: ''
+    id: menasihati akan bahaya yg akan terjadi
+    en: ''
+  - aceh: bèk kapeu
+    jawi: ''
+    id: '! jangan engkau melarangnya!'
+    en: ''
+  - aceh: buet nyang ka geupe
+    jawi: ''
+    id: ''
+    en: ''
+  - aceh: bèk tapubuet
+    jawi: ''
+    id: perbuatan yg dilarang jangan Anda lakukan
+    en: don't do what is forbidden
 etymology: ''
-related_words:
-- ticak
+related_words: []
 dialect_notes: ''
-source: 'Daud, Bukhari & Mark Durie. Kamus Basa Acèh = Kamus Bahasa Aceh: Acehnese–Indonesian–English Thesaurus.
-  Pacific Linguistics C-151, 1999, p. 107.'
-date_added: '2026-07-20'
+source: Kamus Aceh-Indonesia (Acehnese-Indonesian Dictionary), p. 134
+date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: ''
+extraction_notes: Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate reviewer. Some fields (English translations, Jawi) may be incomplete due to API rate limits during processing. Re-run the translation script to fill in missing fields.

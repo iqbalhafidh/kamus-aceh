@@ -1,18 +1,50 @@
 headword: gasien
-jawi: ''
+jawi: ڬسين
 alt_spelling: []
 ipa: ''
-part_of_speech: ''
+part_of_speech: a
 definitions:
 - meaning_id: miskin
   meaning_en: poor
-examples: []
+  examples:
+  - aceh: ureueng
+    jawi: ''
+    id: ''
+    en: ''
+  - aceh: meuku-wien dalam tapêh, ureueng kaya mulia nibak warêh
+    jawi: ''
+    id: (pb) Orang miskin terbaring dl sabut kelapa (=hidup melarat), orang kaya dimuliakan oleh kaum kerabatnya
+    en: ''
+  - aceh: si
+    jawi: ''
+    id: ''
+    en: ''
+  - aceh: meuseukin
+    jawi: ''
+    id: orang yg miskin sekali
+    en: ''
+  - aceh: tuleueng
+    jawi: ''
+    id: tulang kering
+    en: ''
+  - aceh: peu
+    jawi: ''
+    id: membuat miskin, menganggap seseorang miskin
+    en: ''
+  - aceh: bêk sagai-sagai tapeu
+    jawi: ''
+    id: ''
+    en: ''
+  - aceh: Tuhan, sabab neuthêe akai hambaNeu bandum
+    jawi: ''
+    id: Janganlah sekali-kali Anda menganggap Tuhan miskin sebab Ia mengetahui pikiran semua hamba-Nya
+    en: ''
 etymology: ''
 related_words:
 - meuseukin
+- papa
 dialect_notes: ''
-source: 'Daud, Bukhari & Mark Durie. Kamus Basa Acèh = Kamus Bahasa Aceh: Acehnese–Indonesian–English Thesaurus.
-  Pacific Linguistics C-151, 1999, p. 76.'
-date_added: '2026-07-20'
+source: Kamus Aceh-Indonesia (Acehnese-Indonesian Dictionary), p. 219
+date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: ''
+extraction_notes: Some fields (English translations, Jawi) may be incomplete due to API rate limits during processing. Re-run the translation script to fill in missing fields. Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate reviewer.

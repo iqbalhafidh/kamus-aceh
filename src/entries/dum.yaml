@@ -1,20 +1,402 @@
 headword: dum
-jawi: ''
-alt_spelling: []
+jawi: دوم
+alt_spelling:
+- dub
 ipa: ''
 part_of_speech: ''
 definitions:
-- meaning_id: banyak
-  meaning_en: much, many
-examples: []
+- meaning_id: (dl susunan dng ban hanya dibentuk dr dum = bandum) jumlah, semua, seharga
+  meaning_en: ''
+  examples:
+  - aceh: tuha lam
+    jawi: ''
+    id: yg tertua dr semua, seharga
+    en: ''
+  - aceh: tuha lam
+    jawi: ''
+    id: yg tertua dr semua
+    en: ''
+  - aceh: wajèb taiman ban
+    jawi: ''
+    id: ''
+    en: ''
+  - aceh: geutanyoe akan Nabi
+    jawi: ''
+    id: Semua kita wajib beriman kpd Nabi
+    en: All of us must believe in the Prophet
+  - aceh: geutanyoe, geutanyoe
+    jawi: ''
+    id: kita semua
+    en: ''
+  - aceh: ji
+    jawi: ''
+    id: semua mereka
+    en: all of them
+  - aceh: sinaroe
+    jawi: ''
+    id: semuanya tanpa kecuali
+    en: 'thank you, gratitude: we thank God for His mercy'
+  - aceh: nyang ma
+    jawi: ''
+    id: semua yg hadir
+    en: everyone present
+  - aceh: na
+    jawi: ''
+    id: sebanyak yg ada
+    en: ''
+  - aceh: na maknusia
+    jawi: ''
+    id: semua manusia
+    en: all humans
+  - aceh: peue
+    jawi: ''
+    id: semua yg ada
+    en: a prayer to obtain happiness
+  - aceh: peue buet
+    jawi: ''
+    id: semua pekerjaan
+    en: ''
+  - aceh: soe
+    jawi: ''
+    id: setiap orang, macam siapa
+    en: everyone, like who
+  - aceh: soe
+    jawi: ''
+    id: ''
+    en: ''
+  - aceh: jipeugah meunan cit
+    jawi: ''
+    id: Kpd siapa saja ia akan bercerita demikian
+    en: To whom will he tell it like that
+  - aceh: soe tuha gob-nyan?
+    jawi: ''
+    id: spt siapa orang itu, setua siapa orang itu? —
+    en: ''
+  - aceh: noe
+    jawi: ''
+    id: —
+    en: ''
+  - aceh: nan
+    jawi: ''
+    id: ''
+    en: ''
+  - aceh: dèh
+    jawi: ''
+    id: ''
+    en: ''
+  - aceh: nyoe
+    jawi: ''
+    id: ''
+    en: ''
+  - aceh: nyan
+    jawi: ''
+    id: ''
+    en: ''
+  - aceh: jèh
+    jawi: ''
+    id: sebanyak atau spt ini, itu sana
+    en: ''
+  - aceh: ureueng
+    jawi: ''
+    id: ''
+    en: ''
+  - aceh: noe
+    jawi: ''
+    id: atau —
+    en: '! Haven''t I told you not to make a disturbance?'
+  - aceh: noe ureueng h'an èk lòn bri bu
+    jawi: ''
+    id: Kpd sebanyak orang itu tidak dpt saya memberi makan
+    en: To that many people I cannot give food
+  - aceh: tajak bloe breueh
+    jawi: ''
+    id: ''
+    en: ''
+  - aceh: noe
+    jawi: ''
+    id: Pergilah Anda membeli beras sebanyak ini
+    en: ''
+  - aceh: bu ka habeh
+    jawi: ''
+    id: Semua nasi habis (dimakan)
+    en: ''
+  - aceh: bubông tirèh
+    jawi: ''
+    id: Semua atap sudah bocor
+    en: ''
+  - aceh: rakyat jitròn
+    jawi: ''
+    id: ''
+    en: ''
+  - aceh: ie raya
+    jawi: ''
+    id: Semua rakyat turun (ke kota) laksana banjir →
+    en: All people come down (to the city) like a flood →
+  - aceh: dèn-dang
+    jawi: ''
+    id: ''
+    en: ''
+  - aceh: ban
+    jawi: ''
+    id: semua
+    en: ''
+  - aceh: ban
+    jawi: ''
+    id: ''
+    en: ''
+  - aceh: geutanyoe
+    jawi: ''
+    id: (
+    en: ''
+  - aceh: geutanyoe ban
+    jawi: ''
+    id: ), kita semua
+    en: We all
+  - aceh: ban
+    jawi: ''
+    id: ''
+    en: ''
+  - aceh: ureueng na di meuseujid
+    jawi: ''
+    id: Semua orang berada di dl mesjid
+    en: Everyone is inside the mosque
+  - aceh: ban
+    jawi: ''
+    id: ''
+    en: ''
+  - aceh: sapeue narit
+    jawi: ''
+    id: Semua orang seia sekata
+    en: ''
+  - aceh: barang (ga)
+    jawi: ''
+    id: ''
+    en: ''
+  - aceh: beurang(ga)
+    jawi: ''
+    id: ''
+    en: ''
+  - aceh: marang(g-)
+    jawi: ''
+    id: ''
+    en: ''
+  - aceh: meurang(ga)
+    jawi: ''
+    id: berapa pun atau betapa pun keadaannya
+    en: whatever the circumstances
+  - aceh: neubri barangga
+    jawi: ''
+    id: ''
+    en: ''
+  - aceh: keu lòn
+    jawi: ''
+    id: Berikanlah kpd sya berapa pun banyaknya
+    en: Give me whatever amount
+  - aceh: barangga
+    jawi: ''
+    id: ''
+    en: ''
+  - aceh: tabri pi jeuet cit
+    jawi: ''
+    id: Berapa pun Anda berikan, boleh juga
+    en: Whatever you give is also acceptable
+  - aceh: meu
+    jawi: ''
+    id: tertentu (jumlahnya, harganya, keadaannya dsb)
+    en: ''
+  - aceh: goh lom meu
+    jawi: ''
+    id: ''
+    en: ''
+  - aceh: yum lada jeunoe
+    jawi: ''
+    id: ''
+    en: ''
+  - aceh: sibuleuen treuk meuhat meu
+    jawi: ''
+    id: Sekarang belum lagi diketahui harga lada
+    en: ''
+- meaning_id: sebulan lagi pasti dpt diketahui
+  meaning_en: ''
+  examples:
+  - aceh: hana meu
+    jawi: ''
+    id: ''
+    en: ''
+  - aceh: uroe tròih lòn riwang keu noe
+    jawi: ''
+    id: Belum tentu berapa hari saya akan kpmabli kemari
+    en: Not sure how many days I will come back here
+  - aceh: tapeugah bumeu
+    jawi: ''
+    id: ''
+    en: ''
+  - aceh: buleuen tabanyeue utang gata!
+    jawi: ''
+    id: Katakanlah berapa bulan Anda akan membayar utang Anda!
+    en: ''
+  - aceh: meu
+    jawi: ''
+    id: melakukan sesuatu secara bersama-sama
+    en: ''
+  - aceh: meungyo nyang biek teuga, bak that jirungkhom jimeu
+    jawi: ''
+    id: ''
+    en: ''
+  - aceh: lheueh cit hana soe èk mat
+    jawi: ''
+    id: Jika orang kuat, betapapun banyak orang bersama-sama menerkamnya, ia akan lepas juga, tak seorang pun dpt memegangnya
+    en: If a person is strong, however many people attack him together, he will break free, no one can hold him
+  - aceh: peu
+    jawi: ''
+    id: menentukan (jumlah)
+    en: ''
+  - aceh: pa
+    jawi: ''
+    id: berapa, betapa
+    en: ''
+  - aceh: pa
+    jawi: ''
+    id: ''
+    en: ''
+  - aceh: yum
+    jawi: ''
+    id: berapa harganya?
+    en: How much is it?
+  - aceh: pa
+    jawi: ''
+    id: ''
+    en: ''
+  - aceh: tuha gurèe gata?
+    jawi: ''
+    id: Berapa umur guru Anda?
+    en: How old is your teacher?
+  - aceh: hana lòn tupeue pa
+    jawi: ''
+    id: ''
+    en: ''
+  - aceh: na!
+    jawi: ''
+    id: Saya tidak tahu berapa!
+    en: ''
+  - aceh: pa
+    jawi: ''
+    id: (—), berapa, berapa saja, beberapa
+    en: (—), how many, any number, several
+  - aceh: pa
+    jawi: ''
+    id: ''
+    en: ''
+  - aceh: pa
+    jawi: ''
+    id: ''
+    en: ''
+  - aceh: tameunabsu
+    jawi: ''
+    id: ''
+    en: ''
+  - aceh: lòn peuhasé cit
+    jawi: ''
+    id: Berapa pun Anda menginginkannya akan saya usahakan juga
+    en: ''
+  - aceh: ka pa
+    jawi: ''
+    id: (
+    en: ''
+  - aceh: pa
+    jawi: ''
+    id: )
+    en: )
+  - aceh: go lòn kheun bèk
+    jawi: ''
+    id: Sudah beberapa kali saya katakan jangan!
+    en: ''
+  - aceh: lam pa
+    jawi: ''
+    id: ''
+    en: ''
+  - aceh: pa
+    jawi: ''
+    id: ''
+    en: ''
+  - aceh: urie mantong ka pulèh geupeuu-
+    jawi: ''
+    id: ''
+    en: ''
+  - aceh: bat
+    jawi: ''
+    id: Dl beberapa hari saja diobati, ia sudah baik
+    en: ''
+  - aceh: h'an pa
+    jawi: ''
+    id: ''
+    en: ''
+  - aceh: na
+    jawi: ''
+    id: tidak seberapa, sedikit
+    en: ''
+  - aceh: sa
+    jawi: ''
+    id: serupa, sama
+    en: ''
+  - aceh: soe le nyoe ngon nyan?
+    jawi: ''
+    id: Mana yg lebih banyak, ini atau itu?
+    en: Which is more, this or that?
+  - aceh: tabagi bak sa
+    jawi: ''
+    id: Bagilah dl pembagian yg sama
+    en: ''
+  - aceh: neuba rakyat sa
+    jawi: ''
+    id: ''
+    en: ''
+  - aceh: naleueng
+    jawi: ''
+    id: Ia membawa rakyatnya sebanyak rumput
+    en: ''
+  - aceh: hana sa
+    jawi: ''
+    id: tidak seberapa, tidak serupa, tidak ada
+    en: ''
+  - aceh: pa
+    jawi: ''
+    id: ''
+    en: ''
+  - aceh: lôn ba yeue?
+    jawi: ''
+    id: ''
+    en: ''
+  - aceh: hana sa
+    jawi: ''
+    id: Berapa harus saya bayar? tidak apa-apa
+    en: How much should I pay? It's okay
+  - aceh: tu
+    jawi: ''
+    id: tahu jumlah atau keadaannya
+    en: ''
+  - aceh: hana lôn tu
+    jawi: ''
+    id: (
+    en: ''
+  - aceh: lê
+    jawi: ''
+    id: ), Saya tidak tahu berapa (banyak)
+    en: ), I don't know how much (many)
+  - aceh: yumji hana lôn tu
+    jawi: ''
+    id: Saya tidak tahu berapa harganya
+    en: ''
+  - aceh: peutu
+    jawi: ''
+    id: menyuruh beritahukan jumlahnya
+    en: ''
 etymology: ''
 related_words:
-- jai
-- le
+- dit
+- ladôm
 dialect_notes: ''
-source: 'Daud, Bukhari & Mark Durie. Kamus Basa Acèh = Kamus Bahasa Aceh: Acehnese–Indonesian–English Thesaurus.
-  Pacific Linguistics C-151, 1999, p. 86.'
-date_added: '2026-07-20'
+source: Kamus Aceh-Indonesia (Acehnese-Indonesian Dictionary), pp. 183, 184, 185
+date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: PDF text-layer mismatch in the Acehnese form; copied from the searchable PDF text layer and needs
-  visual verification against printed p. 86.
+extraction_notes: 'Source lists variant spellings: dub. Part of speech not specified in source. Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate reviewer. Some fields (English translations, Jawi) may be incomplete due to API rate limits during processing. Re-run the translation script to fill in missing fields.'

@@ -1,17 +1,63 @@
 headword: guda
-jawi: ''
+jawi: ڬودا
 alt_spelling: []
 ipa: ''
-part_of_speech: ''
+part_of_speech: n
 definitions:
-- meaning_id: kuda
-  meaning_en: horse
-examples: []
+- meaning_id: 'kuda, kuda-kuda pd alat musik bertali, → biula, hareubab, meja kayu kecil berbentuk bulat torak yg dipergunakan oleh pandai emas ketika membentuk gelang tangan dan kaki, berjalan cepat-cepat, berlari, berpacu spt kuda: aneuk –, anak kuda'
+  meaning_en: ''
+  examples: []
+- meaning_id: beudê tapak –, → beudê
+  meaning_en: ''
+  examples: []
+- meaning_id: ulêe tapak –, gagang gliwang dl bentuk kuda-kuda
+  meaning_en: ulêe tapak -, the handle of a cleaver in the shape of a horse
+  examples: []
+- meaning_id: haboh –, → sanggoi
+  meaning_en: to burden, to make, a burden
+  examples: []
+- meaning_id: lagêe ureueng bri ie –, spt orang memberi minum kuda (dikatakan thd seorang laki-laki yg jarang mengujungi istrinya)
+  meaning_en: like someone giving a horse drink (said of a man who rarely visits his wife)
+  examples: []
+- meaning_id: jeuet bri ie –, dapat dijadikan air minum kuda
+  meaning_en: ''
+  examples: []
+- meaning_id: bandum masoh ka ji –, Semua musuh sudah melarikan diri
+  meaning_en: ''
+  examples:
+  - aceh: panglima takalon ureueng meu
+    jawi: ''
+    id: Di belakang para *
+    en: ''
+  - aceh: ulèbalang
+    jawi: ''
+    id: '* dan panglima tampaklah orang-orang yg mengendari kuda'
+    en: '* and the commander see the people who ride horses'
+  - aceh: peu
+    jawi: ''
+    id: memperlakukan seseorang seperti kuda, berlari cepat spt kuda, mengejar sekuat-kuatnya
+    en: to treat someone like a horse, to run fast like a horse, to pursue with all one's might
+  - aceh: agam nyan jeuet jipeu
+    jawi: ''
+    id: ''
+    en: ''
+  - aceh: lê inongji
+    jawi: ''
+    id: Laki-laki itu dapat diperkuda oleh istrinya
+    en: ''
+  - aceh: jipeu
+    jawi: ''
+    id: ''
+    en: ''
+  - aceh: lê musôh lagèe raya
+    jawi: ''
+    id: Mereka lintang pukang dikejar musuh
+    en: They were fleeing from the enemy
 etymology: ''
-related_words: []
+related_words:
+- geuguda
 dialect_notes: ''
-source: 'Daud, Bukhari & Mark Durie. Kamus Basa Acèh = Kamus Bahasa Aceh: Acehnese–Indonesian–English Thesaurus.
-  Pacific Linguistics C-151, 1999, p. 107.'
-date_added: '2026-07-20'
+source: Kamus Aceh-Indonesia (Acehnese-Indonesian Dictionary), pp. 258, 259
+date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: ''
+extraction_notes: Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate reviewer.

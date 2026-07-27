@@ -1,17 +1,26 @@
 headword: gunca
-jawi: ''
+jawi: ڬونچا
 alt_spelling: []
 ipa: ''
-part_of_speech: ''
+part_of_speech: n
 definitions:
-- meaning_id: ukuran padi, kacang
-  meaning_en: measure of rice, beans naLeh)
-examples: []
+- meaning_id: "ukurang utk benda-benda kering yg hanya dikenal namanya saja, disamakan dng 10 nalêh\n atau 1/10 kuyan, satuan pembagian seberat 1 gunca beras: ka jipase rab lhee—, sudah diisinya hampir sebanyak tiga gunca"
+  meaning_en: 'unit for dry objects only known by name, equal to 10 nalêh or 1/10 kuyan, a unit of division weighing 1 gunca of rice: ka jipase rab lhee—, already filled almost three gunca'
+  examples:
+  - aceh: reuteuek si
+    jawi: ''
+    id: brat
+    en: connected
 etymology: ''
-related_words: []
+related_words:
+- reuteuek
+- meu —
+- meugeu—
+- bergunca-gunca
+- si are bijêh êk jeuet meu — — padê
+- Satu are bibit dapat menghasilkan padi bergunca-gunca
 dialect_notes: ''
-source: 'Daud, Bukhari & Mark Durie. Kamus Basa Acèh = Kamus Bahasa Aceh: Acehnese–Indonesian–English Thesaurus.
-  Pacific Linguistics C-151, 1999, p. 86.'
-date_added: '2026-07-20'
+source: Kamus Aceh-Indonesia (Acehnese-Indonesian Dictionary), p. 263
+date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: ''
+extraction_notes: Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate reviewer. Some fields (English translations, Jawi) may be incomplete due to API rate limits during processing. Re-run the translation script to fill in missing fields.

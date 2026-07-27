@@ -1,20 +1,53 @@
 headword: glah
-jawi: ''
+jawi: ڬله
 alt_spelling: []
 ipa: ''
 part_of_speech: ''
 definitions:
-- meaning_id: kelas
-  meaning_en: classroom, grade
-- meaning_id: gel as
-  meaning_en: glass
-examples: []
+- meaning_id: 1glaih, glah, bentuk tambahan dr jlaih (→ jeulaih)
+  meaning_en: Do not lift and shake the bucket so that the water becomes completely cloudy
+  examples:
+  - aceh: aneuk gata peue ka
+    jawi: ''
+    id: ''
+    en: ''
+  - aceh: bak têk
+    jawi: ''
+    id: Sudahkah anak Anda lepas dari susuannya?
+    en: Has your child weaned from their caregiver?
+  - aceh: aneuk lôn hana
+    jawi: ''
+    id: ''
+    en: ''
+  - aceh: lom
+    jawi: ''
+    id: Anak perempuan saya belum lagi dikawinkan
+    en: ''
+  - aceh: ka tameu
+    jawi: ''
+    id: (
+    en: ''
+  - aceh: utang
+    jawi: ''
+    id: )
+    en: )
+  - aceh: gata ngon si Pulan?
+    jawi: ''
+    id: Sudahkah Anda menyelesaikan utang dng si Polan?
+    en: ''
+  - aceh: teuma jipeu
+    jawi: ''
+    id: ''
+    en: ''
+  - aceh: droeji
+    jawi: ''
+    id: Lalu, ia melepaskan dirinya
+    en: Then, he freed himself
 etymology: ''
-related_words: []
+related_words:
+- glaih
 dialect_notes: ''
-source: 'Daud, Bukhari & Mark Durie. Kamus Basa Acèh = Kamus Bahasa Aceh: Acehnese–Indonesian–English Thesaurus.
-  Pacific Linguistics C-151, 1999, p. 58; p. 79.'
-date_added: '2026-07-20'
+source: Kamus Aceh-Indonesia (Acehnese-Indonesian Dictionary), p. 243
+date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: PDF text-layer mismatch in the Acehnese form; copied from the searchable PDF text layer and needs
-  visual verification against printed p. 58.
+extraction_notes: Cross-reference entry pointing to 'glaih'. Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate reviewer.

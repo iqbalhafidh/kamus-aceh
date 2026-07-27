@@ -1,0 +1,33 @@
+headword: gô-gô
+jawi: ݢو-ݢو
+alt_spelling:
+- gô
+ipa: ''
+part_of_speech: n
+definitions:
+- meaning_id: guruh
+  meaning_en: this is as a substitute for buying bananas for the children (said as a polite remark when giving a gift)
+  examples:
+  - aceh: di langêt, bu kunyêt di seuramoe
+    jawi: ''
+    id: ''
+    en: ''
+  - aceh: si Ma'in jijak meutangkêh, si Putêh jijak andam droe
+    jawi: ''
+    id: 'Guruh berbunyi di langit, nasi kuning di serambi: si Main pergi bermain anggar, si Puteh mengandam rambutnya'
+    en: 'Thunder sounds in the sky, yellow rice in the veranda: si Main goes to play fencing, si Puteh combs her hair'
+  - aceh: meu
+    jawi: ''
+    id: bergemuruh
+    en: rumbling
+  - aceh: su meu-reuyam that meu
+    jawi: ''
+    id: Bunyi meriam sangat gemuruh
+    en: ''
+etymology: ''
+related_words: []
+dialect_notes: ''
+source: Kamus Aceh-Indonesia (Acehnese-Indonesian Dictionary), p. 249
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+extraction_notes: 'Entry numbered as ''1'' in source. Source lists variant spellings: gô. Some fields (English translations, Jawi) may be incomplete due to API rate limits during processing. Re-run the translation script to fill in missing fields. Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate reviewer.'

@@ -1,0 +1,35 @@
+headword: grok-grok
+jawi: ݢروك-ݢروك
+alt_spelling: []
+ipa: ''
+part_of_speech: ''
+definitions:
+- meaning_id: bunyi bual air dl hokah, membaca cepat-cepat
+  meaning_en: ''
+  examples:
+  - aceh: ka ji
+    jawi: ''
+    id: ''
+    en: ''
+  - aceh: laju
+    jawi: ''
+    id: Ia membaca cepat-cepat spt bual air dl hokah
+    en: He read quickly like boiling water in a pipe
+  - aceh: meu
+    jawi: ''
+    id: mengeluarkan bunyi grok-grok, sedang membaca dng irama yg cepat sekali
+    en: ''
+- meaning_id: Bd *
+  meaning_en: ''
+  examples:
+  - aceh: gr'ok
+    jawi: ''
+    id: '*'
+    en: '*'
+etymology: ''
+related_words: []
+dialect_notes: ''
+source: Kamus Aceh-Indonesia (Acehnese-Indonesian Dictionary), p. 256
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+extraction_notes: Part of speech not specified in source. Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate reviewer. Some fields (English translations, Jawi) may be incomplete due to API rate limits during processing. Re-run the translation script to fill in missing fields.

@@ -1,0 +1,39 @@
+headword: gurahna
+jawi: ݢوراهنا
+alt_spelling:
+- gurana
+- geura(h)na
+ipa: ''
+part_of_speech: a
+definitions:
+- meaning_id: 'gerhana bulan, gerhana matahari: —'
+  meaning_en: 'lunar eclipse, solar eclipse: —'
+  examples:
+  - aceh: matauroe
+    jawi: ''
+    id: gerhana matahari
+    en: ''
+  - aceh: buleuen
+    jawi: ''
+    id: gerhana bulan
+    en: lunar eclipse
+  - aceh: na takalon
+    jawi: ''
+    id: ''
+    en: ''
+  - aceh: beuklam?
+    jawi: ''
+    id: Adakah Anda melihat gerhana tadi malam?
+    en: ''
+  - aceh: seumayang
+    jawi: ''
+    id: Sembahyang gerhana
+    en: ''
+etymology: ''
+related_words:
+- rahôb
+dialect_notes: ''
+source: Kamus Aceh-Indonesia (Acehnese-Indonesian Dictionary), p. 265
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+extraction_notes: 'Source lists variant spellings: gurana, geura(h)na. Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate reviewer.'

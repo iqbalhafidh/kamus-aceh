@@ -1,0 +1,69 @@
+headword: dōdi
+jawi: ڎودي
+alt_spelling:
+- daida
+- daidi
+- dōda
+- dōdèng
+ipa: ''
+part_of_speech: ''
+definitions:
+- meaning_id: '*'
+  meaning_en: '*'
+  examples:
+  - aceh: dōdō
+    jawi: ''
+    id: ''
+    en: ''
+  - aceh: 'ketika menyanyikan lagulagu kidung:'
+    jawi: ''
+    id: ka
+    en: to
+  - aceh: –
+    jawi: ''
+    id: adekkeu*, nyanyikan adikmu spy ia tertidur
+    en: adekkeu*, sing to your younger sibling so they fall asleep
+  - aceh: do ida idi, sinyak cut
+    jawi: ''
+    id: ''
+    en: ''
+  - aceh: lōn ku
+    jawi: ''
+    id: –
+    en: ), sj white lice that attach to cloth
+  - aceh: ma peuèh dalam ayon
+    jawi: ''
+    id: ''
+    en: ''
+  - aceh: jièk jitron tulek
+    jawi: ''
+    id: –
+    en: ), sj white lice that attach to cloth
+  - aceh: do dia idi
+    jawi: ''
+    id: anakku sayang, mari kunyanyikan lagu, ibu tidurkan dl ayunan yg ditolak ke atas dan ke bawah
+    en: ''
+  - aceh: meu
+    jawi: ''
+    id: –, bersenandung
+    en: to hum
+  - aceh: sira jogrōb
+    jawi: ''
+    id: ''
+    en: ''
+  - aceh: jimeu
+    jawi: ''
+    id: –, ia menyanyikan sambil melompat
+    en: ''
+  - aceh: peu
+    jawi: ''
+    id: –, menyuruh menyanyi
+    en: –, telling to sing
+etymology: ''
+related_words:
+- lalè
+dialect_notes: ''
+source: Kamus Aceh-Indonesia (Acehnese-Indonesian Dictionary), p. 173
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+extraction_notes: 'Source lists variant spellings: daida, daidi, dōda, dōdèng. Part of speech not specified in source. Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate reviewer. Some fields (English translations, Jawi) may be incomplete due to API rate limits during processing. Re-run the translation script to fill in missing fields.'

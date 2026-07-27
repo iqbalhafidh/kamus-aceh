@@ -1,0 +1,50 @@
+headword: ceunana
+jawi: چيوننا
+alt_spelling:
+- cinana
+- ceundana
+ipa: ''
+part_of_speech: n
+definitions:
+- meaning_id: "(kayu) cendana\n  *"
+  meaning_en: ''
+  examples:
+  - aceh: ceunawan
+    jawi: ''
+    id: ''
+    en: ''
+  - aceh: '1'
+    jawi: ''
+    id: n
+    en: ''
+  - aceh: ceundawan
+    jawi: ''
+    id: ''
+    en: ''
+  - aceh: —
+    jawi: ''
+    id: ''
+    en: ''
+  - aceh: cèndawan
+    jawi: ''
+    id: "*\n §2§ *"
+    en: ''
+  - aceh: ceunawan
+    jawi: ''
+    id: ''
+    en: ''
+  - aceh: ceundawan
+    jawi: ''
+    id: ''
+    en: ''
+  - aceh: ''
+    jawi: ''
+    id: n* cendawan, jamur
+    en: ''
+etymology: ''
+related_words: []
+dialect_notes: ''
+source: Kamus Aceh-Indonesia (Acehnese-Indonesian Dictionary), p. 127
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+extraction_notes: 'Source lists variant spellings: cinana, ceundana. Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate reviewer. Some fields (English translations, Jawi) may be incomplete due to API rate limits during processing. Re-run the translation script to fill in missing fields.'

@@ -1,19 +1,36 @@
 headword: cuba
-jawi: ''
+jawi: جوبا
 alt_spelling: []
 ipa: ''
-part_of_speech: ''
+part_of_speech: v
 definitions:
-- meaning_id: coba
-  meaning_en: try
-examples: []
+- meaning_id: mencoba, berusaha, menguji
+  meaning_en: After eating three pieces of betel lime, then he departed
+  examples:
+  - aceh: ci neukalon siat
+    jawi: ''
+    id: pergilah Anda melihat sebentar
+    en: Go and see for a moment
+  - aceh: bah lôn
+    jawi: ''
+    id: –, biar saya coba
+    en: ''
+  - aceh: peu
+    jawi: ''
+    id: –, mencobakan
+    en: –, trying
+  - aceh: ceunuba
+    jawi: ''
+    id: cobaan
+    en: ''
+  - aceh: le that ceunuba
+    jawi: ''
+    id: banyak sekali cobaan
+    en: ''
 etymology: ''
-related_words:
-- trtf
+related_words: []
 dialect_notes: ''
-source: 'Daud, Bukhari & Mark Durie. Kamus Basa Acèh = Kamus Bahasa Aceh: Acehnese–Indonesian–English Thesaurus.
-  Pacific Linguistics C-151, 1999, p. 51; vii (PDF p. 5).'
-date_added: '2026-07-20'
+source: Kamus Aceh-Indonesia (Acehnese-Indonesian Dictionary), p. 144
+date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: PDF text-layer mismatch in the Acehnese form; copied from the searchable PDF text layer and needs
-  visual verification against printed p. 51.
+extraction_notes: Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate reviewer.

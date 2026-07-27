@@ -1,0 +1,25 @@
+headword: euntam
+jawi: اونتم
+alt_spelling:
+- heuntam
+ipa: ''
+part_of_speech: v
+definitions:
+- meaning_id: menghantam, memukul kuat-kuat
+  meaning_en: ''
+  examples:
+  - aceh: ta — sigo bak mukaji!
+    jawi: ''
+    id: Pukullah kuat-kuat ke mukanya!
+    en: Hit his face hard!
+  - aceh: meu
+    jawi: ''
+    id: menghantam
+    en: to strike/hit
+etymology: ''
+related_words: []
+dialect_notes: ''
+source: Kamus Aceh-Indonesia (Acehnese-Indonesian Dictionary), p. 200
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+extraction_notes: 'Source lists variant spellings: heuntam. Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate reviewer. Some fields (English translations, Jawi) may be incomplete due to API rate limits during processing. Re-run the translation script to fill in missing fields.'

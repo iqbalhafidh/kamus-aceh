@@ -1,17 +1,42 @@
 headword: dukông
-jawi: ''
+jawi: دوكروڠ
 alt_spelling: []
 ipa: ''
-part_of_speech: ''
+part_of_speech: v
 definitions:
-- meaning_id: dukung
-  meaning_en: carry on back, support
-examples: []
+- meaning_id: dukung (dng atau tanpa kain), gendong (utk makhluk hidup), memikul sesuatu di punggung
+  meaning_en: ''
+  examples:
+  - aceh: ji — aneukji keu dēh keu noe
+    jawi: ''
+    id: Ia mendukung anaknya ke sana kemari
+    en: ''
+  - aceh: bak — boh
+    jawi: ''
+    id: → tingtingkue
+    en: this branch is very lush, a very good hiding place
+  - aceh: meu
+    jawi: ''
+    id: mendukung
+    en: ''
+  - aceh: deumukông
+    jawi: ''
+    id: melakukan pekerjaan mendukung
+    en: ''
+  - aceh: soe nyang deumukông tapeugah bak kamoe
+    jawi: ''
+    id: Beritahukanlah kpd kami siapa pendukungnya!
+    en: Tell us who its supporter is!
+  - aceh: peu
+    jawi: ''
+    id: menyuruh dukung
+    en: to support
 etymology: ''
-related_words: []
+related_words:
+- kong
+- tingkue
 dialect_notes: ''
-source: 'Daud, Bukhari & Mark Durie. Kamus Basa Acèh = Kamus Bahasa Aceh: Acehnese–Indonesian–English Thesaurus.
-  Pacific Linguistics C-151, 1999, p. 43.'
-date_added: '2026-07-20'
+source: Kamus Aceh-Indonesia (Acehnese-Indonesian Dictionary), p. 183
+date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: ''
+extraction_notes: Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate reviewer. Some fields (English translations, Jawi) may be incomplete due to API rate limits during processing. Re-run the translation script to fill in missing fields.

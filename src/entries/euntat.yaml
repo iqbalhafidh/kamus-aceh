@@ -1,19 +1,84 @@
 headword: euntat
-jawi: ''
-alt_spelling: []
+jawi: اونتت
+alt_spelling:
+- antat
 ipa: ''
-part_of_speech: ''
+part_of_speech: v
 definitions:
-- meaning_id: antar
-  meaning_en: accompany
-examples: []
+- meaning_id: bawa, antar, serah-kan
+  meaning_en: to bring, to deliver, to hand over
+  examples:
+  - aceh: ta — surat nyoe bak teungku
+    jawi: ''
+    id: Bawalah surat ini kpd *
+    en: ''
+  - aceh: teungku
+    jawi: ''
+    id: '*'
+    en: '*'
+  - aceh: "—\n\n 1 euntee\n euntreuk\n mam"
+    jawi: ''
+    id: pleue
+    en: pleue
+- meaning_id: → mampleue
+  meaning_en: → mampleue
+  examples:
+  - aceh: meu
+    jawi: ''
+    id: mengantarnan
+    en: to accompany
+  - aceh: — meu — (meu
+    jawi: ''
+    id: ), antar pengantar, kirim mengirim
+    en: ), delivery person, sending to send
+  - aceh: peu
+    jawi: ''
+    id: (peuntat), menyuruh bawa, mengajarkan membaca syahadat kpd orang yg sedang sekarat
+    en: (peuntat), to instruct to bring, to teach the recitation of the shahadah to someone who is dying
+  - aceh: neupeu
+    jawi: ''
+    id: lon sikeujab, buleuen seupôt that hana lôn jeuet woe, Antarkan saya sebentar bulan gelap sekali, saya tidak berani pulang ke rumah
+    en: lon sikeujab, buleuen seupôt that hana lôn jeuet woe, Take me for a moment, it's very dark, I'm afraid to go home
+  - aceh: "ureueng sakét nyan ka geu-peu —, nyeum (bak peunyeum lôn meuhat u barôh), Orang sakit itu sudah diajarkan membaca shayadat, menurut hemat saya ia pasti meninggal\n 1 euntée, ntée n sisa, jejak, bekas"
+    jawi: ''
+    id: èk, tahi yg sudah kering
+    en: ''
+  - aceh: boh
+    jawi: ''
+    id: menghilangkan sisa-sisanya, (ki) musnahkan seluruhnya
+    en: remove its remains, (ki) destroy completely
+  - aceh: taboh — jih u laôt, Buanglah sisa-sisanya ke laut (ump rumah dan seluruh isinya milik seorang penjahat ulung) meu
+    jawi: ''
+    id: meninggalkan sisa atau jejak
+    en: ''
+  - aceh: "meu — ji tan lé, Sisa-sisanya pun tidak ada lagi! peu —, meninggalkan bekas → bakat, beukaih, euncit\n 2 euntée, ntée n jin, hantu: buleuen peungeuih meusé uroe"
+    jawi: ''
+    id: jak lakoe binoe, Bulan terang laksana hari, hantu berjalan suami istri (dikatakan thd perjumpaan dua orang yg sedang bermesra-mesraan)
+    en: jak lakoe binoe, Bright as day, moonwalking husband and wife (said about two people meeting intimately)
+  - aceh: jikab lé
+    jawi: ''
+    id: bak pha (beutéh), digigit di paha atau betis oleh hantu
+    en: ''
+  - aceh: — ie
+    jawi: ''
+    id: laôt, hantu air atau laut (yg menenggelamkan perahu di laut)
+    en: ''
+  - aceh: ''
+    jawi: ''
+    id: tanoh, hantu tanah
+    en: ''
+  - aceh: mata
+    jawi: ''
+    id: mata hantu
+    en: ghost eye
+  - aceh: meu
+    jawi: ''
+    id: berhantu, dihuni hantu
+    en: haunted, inhabited by ghosts
 etymology: ''
-related_words:
-- in tat
+related_words: []
 dialect_notes: ''
-source: 'Daud, Bukhari & Mark Durie. Kamus Basa Acèh = Kamus Bahasa Aceh: Acehnese–Indonesian–English Thesaurus.
-  Pacific Linguistics C-151, 1999, p. 36; p. 47.'
-date_added: '2026-07-20'
+source: Kamus Aceh-Indonesia (Acehnese-Indonesian Dictionary), pp. 200, 201
+date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: PDF text-layer mismatch in the Acehnese form; copied from the searchable PDF text layer and needs
-  visual verification against printed p. 36.
+extraction_notes: 'Source lists variant spellings: antat. Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate reviewer.'

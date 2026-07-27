@@ -1,0 +1,54 @@
+headword: cōng
+jawi: چُوڠ
+alt_spelling:
+- euncōng
+ipa: ''
+part_of_speech: p
+definitions:
+- meaning_id: bagian yg terletak di atas sekali, di atas, dr atas
+  meaning_en: the part located at the very top, on top, from above
+  examples:
+  - aceh: di
+    jawi: ''
+    id: ''
+    en: ''
+  - aceh: peutoe dong
+    jawi: ''
+    id: di atas lemari
+    en: ''
+  - aceh: di
+    jawi: ''
+    id: ''
+    en: ''
+  - aceh: guda
+    jawi: ''
+    id: dr atas kuda
+    en: ''
+  - aceh: ék
+    jawi: ''
+    id: ''
+    en: ''
+  - aceh: bak kayee
+    jawi: ''
+    id: memanjat pohon
+    en: climbing a tree
+  - aceh: rōt
+    jawi: ''
+    id: ''
+    en: ''
+  - aceh: bak kayèe
+    jawi: ''
+    id: "jatuh dr pohon\n §1§ cong n sj bisul jahat pd kaki yg menyakitkan"
+    en: ''
+  - aceh: ka timoh
+    jawi: ''
+    id: "sudah tumbuh sj bisul\n §2§ cong"
+    en: ''
+etymology: ''
+related_words:
+- com
+dialect_notes: ''
+source: Kamus Aceh-Indonesia (Acehnese-Indonesian Dictionary), p. 139
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+extraction_notes: 'Source lists variant spellings: euncōng. Some fields (English translations, Jawi) may be incomplete due to API rate limits during processing. Re-run the translation script to fill in missing fields. Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate reviewer.'

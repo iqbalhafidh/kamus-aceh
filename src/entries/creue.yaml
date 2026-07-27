@@ -1,17 +1,28 @@
 headword: creue
-jawi: ''
+jawi: چروئ
 alt_spelling: []
 ipa: ''
-part_of_speech: ''
+part_of_speech: v
 definitions:
-- meaning_id: memotong cabang pohon
-  meaning_en: lop
-examples: []
+- meaning_id: 'memangkas, meranting (tt cabang-cabang pohon): —'
+  meaning_en: ''
+  examples:
+  - aceh: dheuen bak kayèe
+    jawi: ''
+    id: memangkas dahan pohon kayu
+    en: pruning tree branches
+  - aceh: meu
+    jawi: ''
+    id: dipangkas
+    en: trimmed
+  - aceh: peu
+    jawi: ''
+    id: menyuruh pangkas
+    en: order to trim
 etymology: ''
 related_words: []
 dialect_notes: ''
-source: 'Daud, Bukhari & Mark Durie. Kamus Basa Acèh = Kamus Bahasa Aceh: Acehnese–Indonesian–English Thesaurus.
-  Pacific Linguistics C-151, 1999, p. 41.'
-date_added: '2026-07-20'
+source: Kamus Aceh-Indonesia (Acehnese-Indonesian Dictionary), p. 141
+date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: ''
+extraction_notes: Some fields (English translations, Jawi) may be incomplete due to API rate limits during processing. Re-run the translation script to fill in missing fields. Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate reviewer.

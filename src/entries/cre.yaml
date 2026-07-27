@@ -1,0 +1,42 @@
+headword: cre
+jawi: چره
+alt_spelling:
+- che
+ipa: ''
+part_of_speech: n
+definitions:
+- meaning_id: tiruan bunyi rentetan kata-kata dl ucapan yg lancar, berkata-kata dng berirama, meratap, menangis
+  meaning_en: ''
+  examples:
+  - aceh: tadeungokeuh
+    jawi: ''
+    id: ''
+    en: ''
+  - aceh: suara maja
+    jawi: ''
+    id: terdengarlah rentetan kata-kata wanita tua
+    en: the sound of old woman's words was heard
+  - aceh: meu
+    jawi: ''
+    id: (—), berbicara dng suara yg berirama
+    en: ''
+  - aceh: jimeu-saé lagèe bae
+    jawi: ''
+    id: ''
+    en: ''
+  - aceh: meu
+    jawi: ''
+    id: —
+    en: ''
+  - aceh: peutoe meunyanyoe
+    jawi: ''
+    id: ia bersyair spt orang meratap sedih laksana peti nyanyi
+    en: ''
+etymology: ''
+related_words:
+- creuk
+dialect_notes: ''
+source: Kamus Aceh-Indonesia (Acehnese-Indonesian Dictionary), p. 140
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+extraction_notes: 'Source lists variant spellings: che. Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate reviewer. Some fields (English translations, Jawi) may be incomplete due to API rate limits during processing. Re-run the translation script to fill in missing fields.'

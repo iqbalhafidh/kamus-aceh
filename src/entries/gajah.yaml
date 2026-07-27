@@ -1,17 +1,52 @@
 headword: gajah
-jawi: ''
+jawi: ڬاجه
 alt_spelling: []
 ipa: ''
-part_of_speech: ''
+part_of_speech: n
 definitions:
-- meaning_id: gajah
-  meaning_en: elephant
-examples: []
+- meaning_id: 'gajah: —'
+  meaning_en: ''
+  examples:
+  - aceh: tunggai
+    jawi: ''
+    id: gajah tunggal jantan
+    en: ''
+  - aceh: inong
+    jawi: ''
+    id: gajah betina
+    en: ''
+  - aceh: du'a
+    jawi: ''
+    id: doa utk menangkap gajah
+    en: prayer to catch an elephant
+  - aceh: meu
+    jawi: ''
+    id: mempunyai atau mengendarai gajah
+    en: ''
+  - aceh: meu
+    jawi: ''
+    id: —, bermain gajah-gajahan
+    en: ''
+  - aceh: peu
+    jawi: ''
+    id: melakukan sesuatu dng kekuatan
+    en: to do something with strength
+  - aceh: kuta
+    jawi: ''
+    id: ''
+    en: ''
+  - aceh: nyan ka jipeu
+    jawi: ''
+    id: ''
+    en: ''
+  - aceh: lê musôh
+    jawi: ''
+    id: Kubu pertahanan itu sudah diperangi oleh musuh dng sekuat-kuatnya
+    en: The defensive position was attacked by the enemy with all their might
 etymology: ''
 related_words: []
 dialect_notes: ''
-source: 'Daud, Bukhari & Mark Durie. Kamus Basa Acèh = Kamus Bahasa Aceh: Acehnese–Indonesian–English Thesaurus.
-  Pacific Linguistics C-151, 1999, p. 107.'
-date_added: '2026-07-20'
+source: Kamus Aceh-Indonesia (Acehnese-Indonesian Dictionary), p. 207
+date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: ''
+extraction_notes: Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate reviewer. Some fields (English translations, Jawi) may be incomplete due to API rate limits during processing. Re-run the translation script to fill in missing fields.

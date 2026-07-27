@@ -1,17 +1,29 @@
 headword: gheuem
-jawi: ''
+jawi: ڬهوم
 alt_spelling: []
 ipa: ''
 part_of_speech: ''
 definitions:
-- meaning_id: geraham
-  meaning_en: molar
-examples: []
+- meaning_id: '*'
+  meaning_en: '*'
+  examples:
+  - aceh: gigoe gheuem
+    jawi: ''
+    id: ''
+    en: ''
+  - aceh: ''
+    jawi: ''
+    id: n
+    en: ''
+  - aceh: 'geraham:'
+    jawi: ''
+    id: lôn ka timoh* —, Saya telah mengalami tumbuh geraham
+    en: ''
 etymology: ''
-related_words: []
+related_words:
+- gigoe
 dialect_notes: ''
-source: 'Daud, Bukhari & Mark Durie. Kamus Basa Acèh = Kamus Bahasa Aceh: Acehnese–Indonesian–English Thesaurus.
-  Pacific Linguistics C-151, 1999, p. 28.'
-date_added: '2026-07-20'
+source: Kamus Aceh-Indonesia (Acehnese-Indonesian Dictionary), pp. 238, 239
+date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: ''
+extraction_notes: Part of speech not specified in source. Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate reviewer. Some fields (English translations, Jawi) may be incomplete due to API rate limits during processing. Re-run the translation script to fill in missing fields.

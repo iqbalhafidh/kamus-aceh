@@ -1,19 +1,40 @@
 headword: culok
-jawi: ''
+jawi: چولوک
 alt_spelling: []
 ipa: ''
-part_of_speech: ''
+part_of_speech: v
 definitions:
-- meaning_id: col ok
-  meaning_en: poke, poke into
-- meaning_id: colok
-  meaning_en: poke into
-examples: []
+- meaning_id: 'mencolok, memfitnah: hana patòt aneuk jaroe - mata, (ki) tidak wajar jari-jari menusuk mata'
+  meaning_en: 'glaring, slandering: hana patòt aneuk jaroe - eyes, (it) is not proper to poke fingers into eyes'
+  examples: []
+- meaning_id: '- daweuet, memasukkan pena ke dl tempat tinta'
+  meaning_en: ''
+  examples: []
+- meaning_id: bèk sagai tapeu - gob, jangan sekali-kali Anda memfitnah orang
+  meaning_en: bèk sagai tapeu - gob, never slander anyone
+  examples: []
+- meaning_id: meu -, teu -, di atau tercolik
+  meaning_en: ''
+  examples: []
+- meaning_id: matajih ka meu - ngon kayèe, matanya tercolok kayu
+  meaning_en: ''
+  examples: []
+- meaning_id: peu -, menyuruh -
+  meaning_en: ordering
+  examples: []
+- meaning_id: ceumulok, melakukan perbuatan memfitnah
+  meaning_en: ka jimeu – –, They have allied (in a bad sense). peu –, to join in an alliance, to ally in a bad sense
+  examples: []
+- meaning_id: ceunulok, alat utk mencolok
+  meaning_en: ''
+  examples: []
+- meaning_id: Bd cucok
+  meaning_en: ''
+  examples: []
 etymology: ''
 related_words: []
 dialect_notes: ''
-source: 'Daud, Bukhari & Mark Durie. Kamus Basa Acèh = Kamus Bahasa Aceh: Acehnese–Indonesian–English Thesaurus.
-  Pacific Linguistics C-151, 1999, p. 42; p. 44.'
-date_added: '2026-07-20'
+source: Kamus Aceh-Indonesia (Acehnese-Indonesian Dictionary), p. 147
+date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: ''
+extraction_notes: Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate reviewer.

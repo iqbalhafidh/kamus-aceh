@@ -1,17 +1,41 @@
 headword: curéh
-jawi: ''
+jawi: جوريه
 alt_spelling: []
 ipa: ''
-part_of_speech: ''
+part_of_speech: v
 definitions:
-- meaning_id: menggores
-  meaning_en: scratch
-examples: []
+- meaning_id: menggores, menakik, mengukir
+  meaning_en: scratch, scrape, carve
+  examples:
+  - aceh: meu
+    jawi: ''
+    id: digores
+    en: ''
+  - aceh: meu
+    jawi: ''
+    id: ''
+    en: ''
+  - aceh: ngon duroe
+    jawi: ''
+    id: tergores duri
+    en: forbidden acts, don't you do
+  - aceh: peu
+    jawi: ''
+    id: menyuruh gores
+    en: ''
+  - aceh: ceumurèh
+    jawi: ''
+    id: perbuatan menggores
+    en: scratching action
+  - aceh: ceumurèh
+    jawi: ''
+    id: melakukan penggoresan, cara atau hasilnya
+    en: to make a scratch, the way or result of it
 etymology: ''
-related_words: []
+related_words:
+- urèh
 dialect_notes: ''
-source: 'Daud, Bukhari & Mark Durie. Kamus Basa Acèh = Kamus Bahasa Aceh: Acehnese–Indonesian–English Thesaurus.
-  Pacific Linguistics C-151, 1999, p. 40.'
-date_added: '2026-07-20'
+source: Kamus Aceh-Indonesia (Acehnese-Indonesian Dictionary), pp. 148, 149
+date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: ''
+extraction_notes: Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate reviewer.

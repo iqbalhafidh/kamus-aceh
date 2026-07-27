@@ -1,17 +1,52 @@
 headword: gôt
-jawi: ''
+jawi: ݢوت
 alt_spelling: []
 ipa: ''
-part_of_speech: ''
+part_of_speech: v
 definitions:
-- meaning_id: tarik
-  meaning_en: pull on
-examples: []
+- meaning_id: 'tarik, ambil (dl arti yg tidak baik): —'
+  meaning_en: ''
+  examples:
+  - aceh: keumudoe
+    jawi: ''
+    id: menarik kemudi, mengendalikan kemudi
+    en: with the tongue
+  - aceh: gamêt
+    jawi: ''
+    id: —
+    en: ''
+  - aceh: beudê
+    jawi: ''
+    id: menarik pelatuk senapan, menembak
+    en: ''
+  - aceh: atr-atra gob ji
+    jawi: ''
+    id: ''
+    en: ''
+  - aceh: keu jih bandum
+    jawi: ''
+    id: Semua harta orang lain pun dijadikan miliknya
+    en: ''
+  - aceh: meu
+    jawi: ''
+    id: (
+    en: ''
+  - aceh: teu
+    jawi: ''
+    id: ), ditarik, diambil
+    en: ), pulled, taken
+  - aceh: bêk meu
+    jawi: ''
+    id: ''
+    en: ''
+  - aceh: areuta gob
+    jawi: ''
+    id: Janganlah mengambil harta orang lain
+    en: Do not take other people's property
 etymology: ''
 related_words: []
 dialect_notes: ''
-source: 'Daud, Bukhari & Mark Durie. Kamus Basa Acèh = Kamus Bahasa Aceh: Acehnese–Indonesian–English Thesaurus.
-  Pacific Linguistics C-151, 1999, p. 44.'
-date_added: '2026-07-20'
+source: Kamus Aceh-Indonesia (Acehnese-Indonesian Dictionary), p. 252
+date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: ''
+extraction_notes: Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate reviewer. Some fields (English translations, Jawi) may be incomplete due to API rate limits during processing. Re-run the translation script to fill in missing fields.

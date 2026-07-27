@@ -1,17 +1,22 @@
 headword: gubeue
-jawi: ''
+jawi: ڬبوؤ
 alt_spelling: []
 ipa: ''
-part_of_speech: ''
+part_of_speech: v
 definitions:
-- meaning_id: menggembalakan
-  meaning_en: herd, watch over
-examples: []
+- meaning_id: 'menggembalakan, (dl hik) menjaga, memelihara: si – keubeue, penggembala kerbau'
+  meaning_en: ''
+  examples: []
+- meaning_id: geumubeue, gumubeue, melakukan penggembalaan, sedang melakukan penggembalaan
+  meaning_en: ''
+  examples: []
+- meaning_id: si geumubeue
+  meaning_en: ''
+  examples: []
 etymology: ''
 related_words: []
 dialect_notes: ''
-source: 'Daud, Bukhari & Mark Durie. Kamus Basa Acèh = Kamus Bahasa Aceh: Acehnese–Indonesian–English Thesaurus.
-  Pacific Linguistics C-151, 1999, p. 64.'
-date_added: '2026-07-20'
+source: Kamus Aceh-Indonesia (Acehnese-Indonesian Dictionary), p. 258
+date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: ''
+extraction_notes: Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate reviewer. Some fields (English translations, Jawi) may be incomplete due to API rate limits during processing. Re-run the translation script to fill in missing fields.

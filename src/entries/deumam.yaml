@@ -1,18 +1,38 @@
 headword: deumam
-jawi: ''
+jawi: ديومم
 alt_spelling: []
 ipa: ''
-part_of_speech: ''
+part_of_speech: n
 definitions:
-- meaning_id: demam
-  meaning_en: fever
-examples: []
+- meaning_id: 'demam: —'
+  meaning_en: ''
+  examples:
+  - aceh: kapialu
+    jawi: ''
+    id: demam kepialu, demam yg terus-menerus dan sangat
+    en: to drive, driving
+  - aceh: kura
+    jawi: ''
+    id: demam kura
+    en: chickenpox
+  - aceh: paneuih
+    jawi: ''
+    id: "demam.\n\n\n\n panas"
+    en: fever.
+  - aceh: si Pulan ka — si Pulan ka jiyo lé
+    jawi: ''
+    id: si Polan sudah demam
+    en: ''
+  - aceh: peu
+    jawi: ''
+    id: droe, berbuat seolah-olah demam
+    en: ''
 etymology: ''
 related_words:
-- sijuek-seuum
+- sampong
+- sijuek
 dialect_notes: ''
-source: 'Daud, Bukhari & Mark Durie. Kamus Basa Acèh = Kamus Bahasa Aceh: Acehnese–Indonesian–English Thesaurus.
-  Pacific Linguistics C-151, 1999, p. 31.'
-date_added: '2026-07-20'
+source: Kamus Aceh-Indonesia (Acehnese-Indonesian Dictionary), pp. 165, 166
+date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: ''
+extraction_notes: Some fields (English translations, Jawi) may be incomplete due to API rate limits during processing. Re-run the translation script to fill in missing fields. Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate reviewer.

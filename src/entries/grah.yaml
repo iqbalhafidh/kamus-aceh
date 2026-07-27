@@ -1,17 +1,60 @@
 headword: grah
-jawi: ''
+jawi: ڬره
 alt_spelling: []
 ipa: ''
-part_of_speech: ''
+part_of_speech: a
 definitions:
-- meaning_id: haus
-  meaning_en: thirsty
-examples: []
+- meaning_id: haus, merasa haus
+  meaning_en: ''
+  examples:
+  - aceh: lôn
+    jawi: ''
+    id: ''
+    en: ''
+  - aceh: that
+    jawi: ''
+    id: ''
+    en: ''
+  - aceh: tabri ie bacut
+    jawi: ''
+    id: Saya haus sekali, berilah air sedikit
+    en: I'm very thirsty, give me a little water
+  - aceh: asèe
+    jawi: ''
+    id: ''
+    en: ''
+  - aceh: →
+    jawi: ''
+    id: '*'
+    en: '*'
+  - aceh: jlong
+    jawi: ''
+    id: '*'
+    en: '*'
+  - aceh: peu
+    jawi: ''
+    id: membuat
+    en: ''
+- meaning_id: haus, membiarkan haus
+  meaning_en: thirsty, to let thirst
+  examples:
+  - aceh: bèk tapeu
+    jawi: ''
+    id: ''
+    en: ''
+  - aceh: gob diblong
+    jawi: ''
+    id: ''
+    en: ''
+  - aceh: taentat ie bak reujang
+    jawi: ''
+    id: Janganlah Anda membiarkan orang haus di sawah, antarlah segera air ke sana *
+    en: ''
 etymology: ''
-related_words: []
+related_words:
+- dahga
 dialect_notes: ''
-source: 'Daud, Bukhari & Mark Durie. Kamus Basa Acèh = Kamus Bahasa Aceh: Acehnese–Indonesian–English Thesaurus.
-  Pacific Linguistics C-151, 1999, p. 34.'
-date_added: '2026-07-20'
+source: Kamus Aceh-Indonesia (Acehnese-Indonesian Dictionary), p. 253
+date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: ''
+extraction_notes: Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate reviewer.

@@ -1,17 +1,50 @@
 headword: deuek
-jawi: ''
+jawi: ڢوک
 alt_spelling: []
 ipa: ''
-part_of_speech: ''
+part_of_speech: a
 definitions:
 - meaning_id: lapar
   meaning_en: hungry
-examples: []
+  examples:
+  - aceh: pruet lôn
+    jawi: ''
+    id: ''
+    en: ''
+  - aceh: bu hana lé
+    jawi: ''
+    id: perut saya lapar, nasi tak ada lagi
+    en: My stomach is hungry, there's no more rice
+  - aceh: lôn
+    jawi: ''
+    id: ''
+    en: ''
+  - aceh: that
+    jawi: ''
+    id: saya merasa sangat lapar
+    en: I feel very hungry
+  - aceh: troe
+    jawi: ''
+    id: sekali lapar dan sekali kenyang
+    en: ''
+  - aceh: peu
+    jawi: ''
+    id: membiarkan lapar
+    en: to go hungry
+  - aceh: pakon tapeu— droe?
+    jawi: ''
+    id: mengapa Anda membiarkan lapar
+    en: why do you let yourself be hungry
+  - aceh: pakon tapeu— droe?
+    jawi: ''
+    id: mengapa Anda membiarkan lapar sendiri?
+    en: Why did you let yourself go hungry?
 etymology: ''
-related_words: []
+related_words:
+- tumpoe 1
+- nyampang 2
 dialect_notes: ''
-source: 'Daud, Bukhari & Mark Durie. Kamus Basa Acèh = Kamus Bahasa Aceh: Acehnese–Indonesian–English Thesaurus.
-  Pacific Linguistics C-151, 1999, p. 34.'
-date_added: '2026-07-20'
+source: Kamus Aceh-Indonesia (Acehnese-Indonesian Dictionary), p. 165
+date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: ''
+extraction_notes: Some fields (English translations, Jawi) may be incomplete due to API rate limits during processing. Re-run the translation script to fill in missing fields. Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate reviewer.

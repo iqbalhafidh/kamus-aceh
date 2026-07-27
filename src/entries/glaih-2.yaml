@@ -1,0 +1,33 @@
+headword: glaih
+jawi: ڬله
+alt_spelling:
+- glah
+ipa: ''
+part_of_speech: n
+definitions:
+- meaning_id: "gelas → kaca\n\n\n\n 3glaih, *"
+  meaning_en: ''
+  examples:
+  - aceh: glah
+    jawi: ''
+    id: ''
+    en: ''
+  - aceh: ''
+    jawi: ''
+    id: n
+    en: ''
+  - aceh: 'kelas: ~'
+    jawi: ''
+    id: lhèe*, kelas tiga
+    en: ''
+  - aceh: meu
+    jawi: ''
+    id: ~ ~, berkelas-kelas, terbagi dl kelas
+    en: ''
+etymology: ''
+related_words: []
+dialect_notes: ''
+source: Kamus Aceh-Indonesia (Acehnese-Indonesian Dictionary), pp. 243, 244
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+extraction_notes: 'Entry numbered as ''2'' in source. Source lists variant spellings: glah. Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate reviewer. Some fields (English translations, Jawi) may be incomplete due to API rate limits during processing. Re-run the translation script to fill in missing fields.'

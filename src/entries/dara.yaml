@@ -1,17 +1,54 @@
 headword: dara
-jawi: ''
+jawi: دارا
 alt_spelling: []
 ipa: ''
-part_of_speech: ''
+part_of_speech: n
 definitions:
-- meaning_id: dara
-  meaning_en: virgin
-examples: []
+- meaning_id: dara, gadis, memasuki masa bunting
+  meaning_en: young woman, girl, entering pregnancy
+  examples:
+  - aceh: aneuk
+    jawi: ''
+    id: –
+    en: ), sj white lice that attach to cloth
+  - aceh: seupo nyan?
+    jawi: ''
+    id: gadis siapa itu? –
+    en: which girl is that? –
+  - aceh: palèh hana malèe
+    jawi: ''
+    id: dara celaka, tak tahu malu!
+    en: miserable virgin, shameless!
+  - aceh: ulèe
+    jawi: ''
+    id: –, masa seorang gadis dpt dikawinkan
+    en: –, when can a girl be married
+  - aceh: cok
+    jawi: ''
+    id: –, merenggut keperawanan seorang gadis
+    en: ''
+- meaning_id: – *
+  meaning_en: ''
+  examples:
+  - aceh: ba-
+    jawi: ''
+    id: "*\n\n\n\n rō, pengantin wanita baik, yg kawin sbg gadis atau bukan"
+    en: ''
+  - aceh: tueng
+    jawi: ''
+    id: barō, → meunarō
+    en: ''
+- meaning_id: padé lōn ka ~, padi saya sudah dara dan hampir membunting
+  meaning_en: padé lōn ka ~, my rice is barren and almost pregnant
+  examples: []
+- meaning_id: peu ~ ~ droe, berlaku spt seorang dara
+  meaning_en: trying to achieve something
+  examples: []
 etymology: ''
-related_words: []
+related_words:
+- biké
 dialect_notes: ''
-source: 'Daud, Bukhari & Mark Durie. Kamus Basa Acèh = Kamus Bahasa Aceh: Acehnese–Indonesian–English Thesaurus.
-  Pacific Linguistics C-151, 1999, p. 26.'
-date_added: '2026-07-20'
+source: Kamus Aceh-Indonesia (Acehnese-Indonesian Dictionary), pp. 158, 159
+date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: ''
+extraction_notes: Some fields (English translations, Jawi) may be incomplete due to API rate limits during processing. Re-run the translation script to fill in missing fields. Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate reviewer.

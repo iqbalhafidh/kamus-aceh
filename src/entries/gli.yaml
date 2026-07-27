@@ -1,17 +1,328 @@
 headword: gli
-jawi: ''
+jawi: ݢلي
 alt_spelling: []
 ipa: ''
-part_of_speech: ''
+part_of_speech: a
 definitions:
-- meaning_id: geli
-  meaning_en: ticklish
-examples: []
+- meaning_id: geli, menggelikan
+  meaning_en: Funny, amusing
+  examples:
+  - aceh: bèk tamat bak geutiek lòn
+    jawi: ''
+    id: —! Janganlah Anda memegang ketiak saya, saya merasa geli
+    en: ''
+  - aceh: that gata, h'an
+    jawi: ''
+    id: ''
+    en: ''
+  - aceh: jeuet meung teupèh
+    jawi: ''
+    id: Anda seorang penggeli, tidak boleh bersentuh sedikit pun
+    en: You are a leper, you must not touch at all
+  - aceh: peu
+    jawi: ''
+    id: –
+    en: ), sj white lice that attach to cloth
+  - aceh: droe
+    jawi: ''
+    id: membuat seolah-olah merasa geli →
+    en: to make feel disgusted →
+  - aceh: geunta
+    jawi: ''
+    id: ''
+    en: ''
+  - aceh: glèk
+    jawi: ''
+    id: ''
+    en: ''
+  - aceh: glib
+    jawi: ''
+    id: v mengamat-amati, memandang, memperhatikan
+    en: ''
+  - aceh: peue ka
+    jawi: ''
+    id: –
+    en: ), sj white lice that attach to cloth
+  - aceh: gabè
+    jawi: ''
+    id: ''
+    en: ''
+  - aceh: ka jeuet
+    jawi: ''
+    id: Apakah yg engkau amat-amati selalu, sudah cukup, (dikatakan thd seorang anak yg sedang memperhatikan pekerjaan seseorang agar ia berlalu dr tempat itu)
+    en: ''
+  - aceh: gutee
+    jawi: ''
+    id: mencari kutu
+    en: ''
+  - aceh: meu
+    jawi: ''
+    id: –, sedang mengamat-amati
+    en: ''
+  - aceh: peu
+    jawi: ''
+    id: – = –, →
+    en: wild, likes to fight (for children)
+  - aceh: eu
+    jawi: ''
+    id: ''
+    en: ''
+  - aceh: kalon
+    jawi: ''
+    id: ''
+    en: ''
+  - aceh: gliba
+    jawi: ''
+    id: n sisi pipih pd mata senjata tajam →
+    en: n flat side of sharp weapon's eye →
+  - aceh: lambông
+    jawi: ''
+    id: ''
+    en: ''
+  - aceh: glih
+    jawi: ''
+    id: ''
+    en: ''
+  - aceh: jlih
+    jawi: ''
+    id: ''
+    en: ''
+  - aceh: klih
+    jawi: ''
+    id: 'n dahak yg tersumbat jauh dl kerongkongan dan sukar dapat dikeluarkan: ~'
+    en: 'n phlegm that is stuck deep in the throat and difficult to remove: ~'
+  - aceh: lam reu-kueng lôn h'an jitém teubiet
+    jawi: ''
+    id: Dahak dl kerongkongan saya tidak mau keluar
+    en: ''
+  - aceh: meu
+    jawi: ''
+    id: ~, berdahak dl kerongkongan →
+    en: ~, phlegm in the throat →
+  - aceh: geuh'euk
+    jawi: ''
+    id: §1§
+    en: §1§
+  - aceh: glik
+    jawi: ''
+    id: →
+    en: →
+  - aceh: glèk
+    jawi: ''
+    id: §2§
+    en: Do not laugh improperly in front of the guests!
+  - aceh: glik a
+    jawi: ''
+    id: u
+    en: u
+  - aceh: sigo glik
+    jawi: ''
+    id: → u
+    en: → u
+  - aceh: glikè
+    jawi: ''
+    id: ''
+    en: ''
+  - aceh: jlikè
+    jawi: ''
+    id: ''
+    en: ''
+  - aceh: geulingkè
+    jawi: ''
+    id: ''
+    en: ''
+  - aceh: klikè
+    jawi: ''
+    id: n kelikir
+    en: n kelikir
+  - aceh: glima
+    jawi: ''
+    id: 'n buah delima, jenis jambu: –'
+    en: 'n pomegranates, guava type: –'
+  - aceh: bruek
+    jawi: ''
+    id: (–
+    en: ''
+  - aceh: Makah
+    jawi: ''
+    id: ), delima merekah
+    en: ''
+- meaning_id: –
+  meaning_en: ), sj white lice that attach to cloth
+  examples:
+  - aceh: bintang
+    jawi: ''
+    id: buah serikaya
+    en: sugar-apple fruit
+- meaning_id: –
+  meaning_en: ), sj white lice that attach to cloth
+  examples:
+  - aceh: breueh
+    jawi: ''
+    id: jambu biji, jambu klutuk
+    en: guava, rose apple
+- meaning_id: –
+  meaning_en: ), sj white lice that attach to cloth
+  examples:
+  - aceh: wantai
+    jawi: ''
+    id: (–
+    en: ''
+  - aceh: banta
+    jawi: ''
+    id: ) (dl hik), delima wanta, sj pohon delima atau jambu yg berbunga indah, tetapi tidak mengeluarkan buahnya
+    en: ) (in stories), pomegranate, just a pomegranate or guava tree that blooms beautifully, but doesn't bear fruit
+- meaning_id: (
+  meaning_en: ''
+  examples:
+  - aceh: batèe
+    jawi: ''
+    id: ) –, batu delima batu merah →
+    en: ) –, pomegranate stone red stone →
+  - aceh: sijuek
+    jawi: ''
+    id: ''
+    en: ''
+- meaning_id: –
+  meaning_en: ), sj white lice that attach to cloth
+  examples:
+  - aceh: masak
+    jawi: ''
+    id: (–
+    en: ''
+  - aceh: muda
+    jawi: ''
+    id: ), sj batu permata yg berwarna meah tua atau merah pucat
+    en: ), sj a gemstone that is dark red or pale red
+- meaning_id: –
+  meaning_en: ), sj white lice that attach to cloth
+  examples:
+  - aceh: Siam
+    jawi: ''
+    id: batu permata dari Siam yg berwarna lebih keruh dp yg berasal dr tanah ARab
+    en: gemstone from Siam which is more cloudy than that from the land of Arabia
+  - aceh: bungong
+    jawi: ''
+    id: –, →
+    en: ''
+  - aceh: bungong
+    jawi: ''
+    id: ''
+    en: ''
+  - aceh: ija bungong
+    jawi: ''
+    id: –, →
+    en: ''
+  - aceh: acèkarom
+    jawi: ''
+    id: ''
+    en: ''
+  - aceh: glinggang
+    jawi: ''
+    id: n pohon gelinggang
+    en: ''
+  - aceh: glinya
+    jawi: ''
+    id: v mengacaubalaukan, mengobrak-abrik
+    en: to mess up, to tear apart
+  - aceh: bèk ka
+    jawi: ''
+    id: –
+    en: ), sj white lice that attach to cloth
+  - aceh: bantai
+    jawi: ''
+    id: Jangan engkau mengobrak-abrik bantal
+    en: ''
+  - aceh: padé habèh ji
+    jawi: ''
+    id: –
+    en: ), sj white lice that attach to cloth
+  - aceh: le'buì
+    jawi: ''
+    id: Padi telah diinjak-injak oleh bagi
+    en: Rice has been trampled by cattle
+  - aceh: meu
+    jawi: ''
+    id: – (
+    en: – (
+  - aceh: teu
+    jawi: ''
+    id: –), dikacaubalaukan
+    en: ''
+  - aceh: meu
+    jawi: ''
+    id: –, melakukan pengacau balauan, sedang melakukan pengacau balauan. Bd
+    en: –, causing trouble, while causing trouble. Bd
+  - aceh: glinyè
+    jawi: ''
+    id: ''
+    en: ''
+  - aceh: gui glinyè
+    jawi: ''
+    id: v bersandar pd seseorang
+    en: v leaning on someone
+  - aceh: bèk ta
+    jawi: ''
+    id: –
+    en: ), sj white lice that attach to cloth
+  - aceh: lôn taduek keudeh
+    jawi: ''
+    id: Janganlah Anda bersandar pd saya
+    en: ''
+- meaning_id: duduklah ke sana
+  meaning_en: ''
+  examples: []
+- meaning_id: Bd
+  meaning_en: title
+  examples:
+  - aceh: glinya
+    jawi: ''
+    id: ''
+    en: ''
+  - aceh: gliwang
+    jawi: ''
+    id: ''
+    en: ''
+  - aceh: kliwang
+    jawi: ''
+    id: n sj kelewang yg pd ujung matanya lebih lebar dr gagangnya ug dipegang di tangan tanpa sarungnya
+    en: ''
+- meaning_id: (pd masa dahulu senjata para pengikut
+  meaning_en: ''
+  examples:
+  - aceh: ulèe-balang
+    jawi: ''
+    id: '): –'
+    en: '): –'
+  - aceh: lipèh ujông
+    jawi: ''
+    id: kelewang yg tipis ujung matanya
+    en: a thin sword with a pointed end
+- meaning_id: –
+  meaning_en: ), sj white lice that attach to cloth
+  examples:
+  - aceh: teubai ujông
+    jawi: ''
+    id: kelewang yg tebal ujung matanya
+    en: a thick-bladed sword with a sharp tip
+  - aceh: meu
+    jawi: ''
+    id: –, menyerupai kelewang, memakai kelewang, bersenjata kelewang
+    en: –, resembling a cleaver, using a cleaver, armed with a cleaver
+  - aceh: peu
+    jawi: ''
+    id: –, memerangi dng menggunakan kelewang
+    en: Fighting using a cleaver
 etymology: ''
-related_words: []
+related_words:
+- ladieng
+- peudeueng
+- ruduih
+- sikin
+- tarah
+- bajoe
 dialect_notes: ''
-source: 'Daud, Bukhari & Mark Durie. Kamus Basa Acèh = Kamus Bahasa Aceh: Acehnese–Indonesian–English Thesaurus.
-  Pacific Linguistics C-151, 1999, p. 6; p. 32.'
-date_added: '2026-07-20'
+source: Kamus Aceh-Indonesia (Acehnese-Indonesian Dictionary), pp. 245, 246, 247
+date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: ''
+extraction_notes: Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate reviewer.

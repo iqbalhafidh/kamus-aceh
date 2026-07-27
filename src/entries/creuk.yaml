@@ -1,0 +1,37 @@
+headword: creuk
+jawi: چروق
+alt_spelling: []
+ipa: ''
+part_of_speech: v
+definitions:
+- meaning_id: bercakap-cakap, beromong kosong, bual dsb
+  meaning_en: ''
+  examples:
+  - aceh: le that
+    jawi: ''
+    id: ''
+    en: ''
+  - aceh: gata
+    jawi: ''
+    id: Anda banyak omong
+    en: You talk too much
+  - aceh: meu
+    jawi: ''
+    id: saling omong
+    en: ''
+  - aceh: bandum rasa mabôk taleungo jimeu
+    jawi: ''
+    id: ''
+    en: ''
+  - aceh: ubê-bê raga
+    jawi: ''
+    id: Waktu mereka mabuk semua, terdengarlah mereka membual
+    en: ''
+etymology: ''
+related_words:
+- cre
+dialect_notes: ''
+source: Kamus Aceh-Indonesia (Acehnese-Indonesian Dictionary), p. 141
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+extraction_notes: Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate reviewer. Some fields (English translations, Jawi) may be incomplete due to API rate limits during processing. Re-run the translation script to fill in missing fields.

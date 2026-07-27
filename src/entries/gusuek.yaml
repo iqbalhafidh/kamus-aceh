@@ -1,17 +1,52 @@
 headword: gusuek
-jawi: ''
+jawi: گوسويك
 alt_spelling: []
 ipa: ''
-part_of_speech: ''
+part_of_speech: v
 definitions:
-- meaning_id: belai
-  meaning_en: stroke
-examples: []
+- meaning_id: menggosok lembut-lembut dng tangan, mengusap
+  meaning_en: ''
+  examples:
+  - aceh: ta
+    jawi: ''
+    id: ''
+    en: ''
+  - aceh: bak rueng lòn sigo
+    jawi: ''
+    id: Usaplah punggung saya sebentar
+    en: Please pat my back for a moment
+  - aceh: cèetam ji
+    jawi: ''
+    id: ''
+    en: ''
+  - aceh: bak rueng, jis'aih bak glunyueng, teuma jatimong lam atè
+    jawi: ''
+    id: Setan mengusap belakang Anda, ia membisikan sesuatu ke telinga Anda lalu masuk ke dl hati Anda
+    en: ''
+  - aceh: meu
+    jawi: ''
+    id: digosok
+    en: ''
+  - aceh: meu
+    jawi: ''
+    id: (—), saling menggosok
+    en: (-), rubbing each other
+  - aceh: geumusuek
+    jawi: ''
+    id: melakukan pekerjaan mengusap
+    en: to perform a wiping job
+  - aceh: geunusuek
+    jawi: ''
+    id: gosokan
+    en: sharpening
 etymology: ''
-related_words: []
+related_words:
+- geusok
+- pleu
+- sampòh
+- uet
 dialect_notes: ''
-source: 'Daud, Bukhari & Mark Durie. Kamus Basa Acèh = Kamus Bahasa Aceh: Acehnese–Indonesian–English Thesaurus.
-  Pacific Linguistics C-151, 1999, p. 40.'
-date_added: '2026-07-20'
+source: Kamus Aceh-Indonesia (Acehnese-Indonesian Dictionary), p. 267
+date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: ''
+extraction_notes: Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate reviewer. Some fields (English translations, Jawi) may be incomplete due to API rate limits during processing. Re-run the translation script to fill in missing fields.

@@ -1,0 +1,61 @@
+headword: ésrapi
+jawi: اسرڤي
+alt_spelling:
+- éseurapi
+ipa: ''
+part_of_speech: n
+definitions:
+- meaning_id: "Israfil, nama salah seorang malaikat → Jébrai, Édrai, Mikai, seurapi\n 1 et a ukuran yg dianggap sedikit, hanya sampai dengan: gobnyan – that, – nibak lôn, Ia pendek sekali, le ih pendek dari saya"
+  meaning_en: ''
+  examples: []
+- meaning_id: nyoe –, jéh –, – nyoe, – jan, – jéh, – noe, – nan, – déh, sejauh, sependek, atau sepanjang ini, itu, di sana
+  meaning_en: ''
+  examples:
+  - aceh: "na – noe – Ulèe Lheue? Jauhkanlah ini ke Ulèe?\n\n\n\n cit na — noe? Hanya sejauh, sependek, atau sepanjang ini? meu —, meuna —, meuneu"
+    jawi: ''
+    id: sejauh, sepanjang jarak tertentu
+    en: ''
+  - aceh: hana meuneu
+    jawi: ''
+    id: tidak diketahui sejauh, serendah, setinggi mana
+    en: unknown how far, how low, how high
+  - aceh: peu
+    jawi: ''
+    id: mengurangi ukuran
+    en: ''
+  - aceh: taloe nyan panyang that, tapeu — bacut! Tali itu panjang sekali, kurangilah ukurannya sedikit. bah lon peu — narit mantong, Biarlah saya memendekkan pembicaraan saya. pa —, pana —, panè
+    jawi: ''
+    id: berapa panjang, pendek, tinggi rendah, jauh
+    en: ), its size is known
+- meaning_id: sampai ke mana
+  meaning_en: ''
+  examples:
+  - aceh: panè — paneuk si Gam, sabe ngon soe? Berapa tinggi si Gam, serupa dia? di sinoe u gampông nyan pa — atau panè — na jarak? Berapa jauh dari sini ke kampung itu? sa
+    jawi: ''
+    id: serupa ukurannya
+    en: ''
+  - aceh: hana sa
+    jawi: ''
+    id: tidak serupa ukurannya
+    en: 'a term for a number considered taboo: — that gaji lôn, my salary is very little'
+  - aceh: pa —, panè — na takeumeung jak? hana sa
+    jawi: ''
+    id: Berapa jauh Anda hendak pergi? tidak jauh
+    en: ''
+  - aceh: tu — (tune
+    jawi: ''
+    id: ), diketahui ukurannya
+    en: a short, jerking sound of a balam bird —
+  - aceh: hana lôn tu — (tunè
+    jawi: ''
+    id: jarang), Saya tidak tahu sejauh mana
+    en: rarely), I don't know to what extent
+etymology: ''
+related_words:
+- '''oh'
+- peneuk
+dialect_notes: ''
+source: Kamus Aceh-Indonesia (Acehnese-Indonesian Dictionary), pp. 194, 195
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+extraction_notes: 'Source lists variant spellings: éseurapi. Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate reviewer. Some fields (English translations, Jawi) may be incomplete due to API rate limits during processing. Re-run the translation script to fill in missing fields.'

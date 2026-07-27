@@ -1,17 +1,27 @@
 headword: galang
-jawi: ''
+jawi: ڬلڠ
 alt_spelling: []
 ipa: ''
-part_of_speech: ''
+part_of_speech: n
 definitions:
-- meaning_id: kampak pembelah
-  meaning_en: axe for splitting wood
-examples: []
+- meaning_id: 'kampak pendek yg bermata lebar utk membelah kayu: meu —, mempunyai kampak galang'
+  meaning_en: 'a short axe with a wide blade for chopping wood: meu —, has a kampak galang'
+  examples: []
+- meaning_id: menyandang kampak galang
+  meaning_en: carrying a kampak galang
+  examples:
+  - aceh: peu
+    jawi: ''
+    id: membelah dng kampak galang
+    en: to split with a cleaver
+  - aceh: tapeu —, h'an jeuet? Tidakkah Anda dapat membelah dng kampak galang?
+    jawi: ''
+    id: baci, kapak, sron
+    en: ''
 etymology: ''
 related_words: []
 dialect_notes: ''
-source: 'Daud, Bukhari & Mark Durie. Kamus Basa Acèh = Kamus Bahasa Aceh: Acehnese–Indonesian–English Thesaurus.
-  Pacific Linguistics C-151, 1999, p. 65.'
-date_added: '2026-07-20'
+source: Kamus Aceh-Indonesia (Acehnese-Indonesian Dictionary), p. 209
+date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: ''
+extraction_notes: Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate reviewer. Some fields (English translations, Jawi) may be incomplete due to API rate limits during processing. Re-run the translation script to fill in missing fields.

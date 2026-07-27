@@ -1,19 +1,26 @@
----
-headword: "eungkong"
-jawi: ""
-alt_spelling: []
-ipa: "/ɯŋ.kɔŋ/"
-part_of_speech: "n"
-language_uncertain: false
+headword: eungkong
+jawi: اؤڠڬوڠ
+alt_spelling:
+- ngkong
+ipa: ''
+part_of_speech: n
 definitions:
-  - meaning_id: "monyet berwarna coklat kemerahan dan berekor pendek"
-    meaning_en: ""
-examples:
-  []
-etymology: ""
-related_words: []
-dialect_notes: ""
-source: "Kamus Bahasa Aceh Daring (Balai Bahasa Provinsi Aceh), 'Entri huruf — eungkong', URL: https://kamusbbpa.kemendikdasmen.go.id/kamus/Aceh/E (diakses 20 Juli 2026)"
-date_added: "2026-07-20"
-contributor: "AI-extracted — needs human review"
-extraction_notes: "Diekstrak dari 1 halaman sumber (https://kamusbbpa.kemendikdasmen.go.id/kamus/Aceh/E). Tidak ada bentuk Jawi dalam sumber — dibiarkan kosong sesuai aturan."
+- meaning_id: beruk yg berekor pendek, dapat diajar memetik buah kelapa
+  meaning_en: ''
+  examples:
+  - aceh: jipeukeunong bèb bak
+    jawi: ''
+    id: Ia beromong kosong
+    en: ''
+  - aceh: lam uteuen le
+    jawi: ''
+    id: Dl hutan banyak beruk
+    en: ''
+etymology: ''
+related_words:
+- kra
+dialect_notes: ''
+source: Kamus Aceh-Indonesia (Acehnese-Indonesian Dictionary), p. 200
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+extraction_notes: 'Source lists variant spellings: ngkong. Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate reviewer. Some fields (English translations, Jawi) may be incomplete due to API rate limits during processing. Re-run the translation script to fill in missing fields.'
