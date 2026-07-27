@@ -1,0 +1,28 @@
+headword: "adè"
+jawi: ""
+alt_spelling: []
+ipa: ""
+part_of_speech: "n"
+definitions:
+  - meaning_id: "lumpur, lanau, endapan cairan"
+    meaning_en: "mud, silt, sediment of liquids"
+examples:
+  - aceh: "meu adè"
+    jawi: ""
+    id: "berlumpur"
+    en: "muddy"
+  - aceh: "krueng nyan le that meu adè, 'oh tablòh sp'ob'oh keuieng"
+    id: "sungai itu penuh dengan endapan lumpur, jika kita masuk dalamnya, kita akan tenggelam hingga pinggang"
+    en: "that river is full of silt, if we enter it we'll sink to our waist"
+  - aceh: "peu adè"
+    id: "membuat berlumpur, melumpuri"
+    en: "to make muddy"
+  - aceh: "bèk tapeu adè droeteuh"
+    id: "jangan Anda melumpuri diri Anda"
+    en: "don't cover yourself in mud"
+related_words: []
+dialect_notes: ""
+source: "Aboe Bakar et al., Kamus Aceh-Indonesia Seri 1 A–L, 1985, p.7"
+date_added: "2025-06-18"
+contributor: "AI-extracted — needs human review"
+extraction_notes: "Superscript 2. Jawi transliteration is AI-generated, not from source — needs verification."

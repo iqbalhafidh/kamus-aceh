@@ -1,0 +1,22 @@
+headword: "adat"
+jawi: ""
+alt_spelling: []
+ipa: ""
+part_of_speech: "n"
+definitions:
+  - meaning_id: "tata cara penghormatan, kesopanan, sopan santun"
+    meaning_en: "ceremonial protocol, courtesy, manners"
+examples:
+  - aceh: "bri adat"
+    jawi: ""
+    id: "melakukan sesuatu menurut tata cara sopan santun"
+    en: "to do something according to proper etiquette"
+  - aceh: "hana adat"
+    id: "tidak beradat, tidak mengenal sopan santun"
+    en: "without manners, not knowing courtesy"
+related_words: []
+dialect_notes: ""
+source: "Aboe Bakar et al., Kamus Aceh-Indonesia Seri 1 A–L, 1985, p.6"
+date_added: "2025-06-18"
+contributor: "AI-extracted — needs human review"
+extraction_notes: "Superscript 4. Jawi transliteration is AI-generated, not from source — needs verification."

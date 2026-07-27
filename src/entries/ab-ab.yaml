@@ -1,0 +1,19 @@
+headword: "'ab-'ab"
+jawi: ""
+alt_spelling: []
+ipa: ""
+part_of_speech: "n"
+definitions:
+  - meaning_id: "tiruan suara itik"
+    meaning_en: "imitation of the sound of ducks"
+examples:
+  - aceh: "Seu iték nyan meu 'ab-'ab that"
+    jawi: ""
+    id: "Suara itik itu keras sekali"
+    en: "The sound of those ducks is very loud"
+related_words: []
+dialect_notes: ""
+source: "Aboe Bakar et al., Kamus Aceh-Indonesia Seri 1 A–L, 1985, p.1"
+date_added: "2025-06-18"
+contributor: "AI-extracted — needs human review"
+extraction_notes: "Jawi transliteration is AI-generated, not from source — needs verification."

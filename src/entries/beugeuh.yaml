@@ -1,0 +1,25 @@
+headword: "beungeh"
+jawi: ""
+alt_spelling: []
+ipa: ""
+part_of_speech: "a"
+definitions:
+  - meaning_id: "marah, murka, geram, panas hati"
+    meaning_en: "angry, furious, enraged, hot-tempered"
+examples:
+  - aceh: "gata pakon beungeh?"
+    jawi: ""
+    id: "mengapa Anda marah?"
+    en: "why are you angry?"
+  - aceh: "meu beungeh"
+    id: "marah, memarahi, saling bermarahan"
+    en: "to be angry, to scold, to be angry at each other"
+  - aceh: "pudroe"
+    id: "membuat marah"
+    en: "to make angry"
+related_words: ["amarah", "marah"]
+dialect_notes: ""
+source: "Aboe Bakar et al., Kamus Aceh-Indonesia Seri 1 A–L, 1985, p.75"
+date_added: "2025-06-18"
+contributor: "AI-extracted — needs human review"
+extraction_notes: "Jawi transliteration is AI-generated, not from source — needs verification."

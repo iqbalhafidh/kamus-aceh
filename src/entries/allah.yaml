@@ -1,0 +1,25 @@
+headword: "Allah"
+jawi: "الله"
+alt_spelling: []
+ipa: ""
+part_of_speech: "n"
+definitions:
+  - meaning_id: "Allah, Tuhan Yang Maha Esa"
+    meaning_en: "Allah, the One and Only God"
+examples:
+  - aceh: "Poteu Allah (Potallah)"
+    jawi: ""
+    id: "Tuhan kita"
+    en: "our Lord"
+  - aceh: "keureuna Allah"
+    id: "krn Allah, cuma-cuma, tidak mengharapkan suatu balasan dr manusia"
+    en: "for Allah's sake, without expecting anything in return"
+  - aceh: "insya Allah, jeunoe ngon apueh droeneuh, kamoe na seunang bacut"
+    id: "Insya Allah, dng doa Anda, kini kami mudah-mudahan dl keadaan senang sedikit"
+    en: "God willing, with your prayers, we hope to be in a slightly better state now"
+related_words: ["alôh-alah", "ilahi"]
+dialect_notes: ""
+source: "Aboe Bakar et al., Kamus Aceh-Indonesia Seri 1 A–L, 1985, p.18"
+date_added: "2025-06-18"
+contributor: "AI-extracted — needs human review"
+extraction_notes: "Arabic word, also used as exclamation. Jawi form from standard Arabic. Needs verification for Acehnese Jawi convention."

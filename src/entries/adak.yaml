@@ -1,0 +1,19 @@
+headword: "adak"
+jawi: ""
+alt_spelling: []
+ipa: ""
+part_of_speech: "adv"
+definitions:
+  - meaning_id: "jika, sekiranya, kalau"
+    meaning_en: "if, in case, when"
+examples:
+  - aceh: "adak na pèng lôn jak u Arab"
+    jawi: ""
+    id: "sekiranya saya beruang, saya pergi ke negeri Arab"
+    en: "if I had money, I would go to Arabia"
+related_words: ["dat"]
+dialect_notes: ""
+source: "Aboe Bakar et al., Kamus Aceh-Indonesia Seri 1 A–L, 1985, p.5"
+date_added: "2025-06-18"
+contributor: "AI-extracted — needs human review"
+extraction_notes: "Jawi transliteration is AI-generated, not from source — needs verification."

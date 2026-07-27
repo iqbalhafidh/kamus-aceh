@@ -1,0 +1,22 @@
+headword: "acan"
+jawi: ""
+alt_spelling: []
+ipa: ""
+part_of_speech: "v"
+definitions:
+  - meaning_id: "berdandan, menghiasi"
+    meaning_en: "to dress up, to adorn"
+examples:
+  - aceh: "Inong nyan utòih that bak ji acan droe"
+    jawi: ""
+    id: "wanita itu pandai sekali berdandan"
+    en: "that woman is very skilled at dressing up"
+  - aceh: "rumoh nyan gèt that ji acan"
+    id: "rumah itu bagus sekali"
+    en: "that house is very nicely decorated"
+related_words: []
+dialect_notes: ""
+source: "Aboe Bakar et al., Kamus Aceh-Indonesia Seri 1 A–L, 1985, p.3"
+date_added: "2025-06-18"
+contributor: "AI-extracted — needs human review"
+extraction_notes: "Jawi transliteration is AI-generated, not from source — needs verification."

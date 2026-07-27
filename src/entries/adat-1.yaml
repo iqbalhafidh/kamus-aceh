@@ -1,0 +1,25 @@
+headword: "adat"
+jawi: ""
+alt_spelling: []
+ipa: ""
+part_of_speech: "adv"
+definitions:
+  - meaning_id: "seperti, jika, kalau"
+    meaning_en: "like, if, when"
+examples:
+  - aceh: "adat h'an"
+    jawi: ""
+    id: "jika tidak"
+    en: "if not"
+  - aceh: "adat meunan"
+    id: "jika demikian; jadi, lalu, maka"
+    en: "if so; then, therefore"
+  - aceh: "adat meunan, nyang tòk langkah ulòntuan ubak Teungku, nyang gurèe ulòntuan, adat meunan keureuna hajat ulontuan Teungku meulangkah u rumòh ulòntuan singoh"
+    id: "jadi, kedatangan saya pada Teungku, guru saya, karena hajat saya (spy) Teungku besok datang ke rumah saya"
+    en: "so, my coming to Teungku, my teacher, is because of my intention that Teungku should come to my house tomorrow"
+related_words: ["akit", "apo", "apoe", "beukeusit", "jakalèe", "meung", "meungnyo", "meunyo", "sangkira"]
+dialect_notes: ""
+source: "Aboe Bakar et al., Kamus Aceh-Indonesia Seri 1 A–L, 1985, p.5"
+date_added: "2025-06-18"
+contributor: "AI-extracted — needs human review"
+extraction_notes: "Superscript 1 indicates first homonym. Jawi transliteration is AI-generated, not from source — needs verification."

@@ -1,0 +1,25 @@
+headword: "achiheum"
+jawi: ""
+alt_spelling: []
+ipa: ""
+part_of_speech: "n"
+definitions:
+  - meaning_id: "tiruan bunyi orang bersin"
+    meaning_en: "imitation of the sound of someone sneezing"
+examples:
+  - aceh: "meu achiheum"
+    jawi: ""
+    id: "memperdengarkan suara bersin"
+    en: "to produce a sneezing sound"
+  - aceh: "soe meu achiheum nyan raya that su?"
+    id: "siapa yang bersin itu? suara sekali"
+    en: "who sneezed? what a loud sound!"
+  - aceh: "peu achiheum droe"
+    id: "sengaja memperdengarkan suara bersin"
+    en: "to deliberately produce a sneezing sound"
+related_words: []
+dialect_notes: ""
+source: "Aboe Bakar et al., Kamus Aceh-Indonesia Seri 1 A–L, 1985, p.4"
+date_added: "2025-06-18"
+contributor: "AI-extracted — needs human review"
+extraction_notes: "Jawi transliteration is AI-generated, not from source — needs verification."

@@ -1,0 +1,25 @@
+headword: "abêe"
+jawi: ""
+alt_spelling: []
+ipa: ""
+part_of_speech: "n"
+definitions:
+  - meaning_id: "abu, debu"
+    meaning_en: "ash, dust"
+examples:
+  - aceh: "abêe dapu"
+    jawi: ""
+    id: "abu dapur"
+    en: "hearth ash"
+  - aceh: "meu abêe"
+    id: "berabu, berdebu"
+    en: "ashy, dusty"
+  - aceh: "peu abêe"
+    id: "mengenakan abu"
+    en: "to apply ash"
+related_words: ["dhoi", "lon", "awe", "pisang abêe", "seudong abêe"]
+dialect_notes: "Bd dabêe, keulabêe"
+source: "Aboe Bakar et al., Kamus Aceh-Indonesia Seri 1 A–L, 1985, p.2"
+date_added: "2025-06-18"
+contributor: "AI-extracted — needs human review"
+extraction_notes: "Jawi transliteration is AI-generated, not from source — needs verification."

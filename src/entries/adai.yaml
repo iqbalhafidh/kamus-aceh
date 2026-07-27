@@ -1,0 +1,22 @@
+headword: "adai"
+jawi: ""
+alt_spelling: []
+ipa: ""
+part_of_speech: "n"
+definitions:
+  - meaning_id: "azal, asal, permulaan"
+    meaning_en: "origin, beginning, starting point"
+examples:
+  - aceh: "hana akai, hana budai, hana adai, hana bicara"
+    jawi: ""
+    id: "tiada akal, tiada ginjal (ki untuk keberanian atau harga diri), tiada asal berketurunan rendah), tiada bicara"
+    en: "no intelligence, no kidneys (metaphor for courage or dignity), no origin (low birth), no speech"
+  - aceh: "nibak adai dum ka meuhat, saket mangat ka meuhingga"
+    id: "sejak mula sudah ditetapkan, sakit dan seang sudah ditentukan"
+    en: "from the beginning it was determined, illness and joy were decreed"
+related_words: ["adali", "budai"]
+dialect_notes: ""
+source: "Aboe Bakar et al., Kamus Aceh-Indonesia Seri 1 A–L, 1985, p.5"
+date_added: "2025-06-18"
+contributor: "AI-extracted — needs human review"
+extraction_notes: "Jawi transliteration is AI-generated, not from source — needs verification."

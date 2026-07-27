@@ -1,0 +1,28 @@
+headword: "bak"
+jawi: ""
+alt_spelling: []
+ipa: ""
+part_of_speech: ""
+definitions:
+  - meaning_id: "kata depan yg menunjukkan tempat dan waktu: pd, di, pada"
+    meaning_en: "preposition indicating place and time: at, on, in"
+examples:
+  - aceh: "bak teumpat nyan"
+    jawi: ""
+    id: "pd tempat itu"
+    en: "at that place"
+  - aceh: "bak keudè nyan"
+    id: "di kedai itu"
+    en: "at that shop"
+  - aceh: "bak uroe nyoe"
+    id: "pd hari ini"
+    en: "on this day"
+  - aceh: "Peue na bak gata!"
+    id: "ada apa dng Anda, apa urusan Anda"
+    en: "what's the matter with you"
+related_words: []
+dialect_notes: ""
+source: "Aboe Bakar et al., Kamus Aceh-Indonesia Seri 1 A–L, 1985, p.50"
+date_added: "2025-06-18"
+contributor: "AI-extracted — needs human review"
+extraction_notes: "Superscript 2. Multiple uses: preposition, 'to/toward', 'according to', 'while', 'hoping/so that'. Jawi transliteration is AI-generated, not from source — needs verification."

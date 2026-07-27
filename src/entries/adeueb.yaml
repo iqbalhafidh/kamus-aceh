@@ -1,0 +1,28 @@
+headword: "adeueb"
+jawi: ""
+alt_spelling: ["'adeueb"]
+ipa: ""
+part_of_speech: "n"
+definitions:
+  - meaning_id: "azab, siksa, hukuman"
+    meaning_en: "punishment, torture, torment"
+examples:
+  - aceh: "ureueng ceu meucue nyan ka geu adeueb ngon geuikat"
+    jawi: ""
+    id: "pencuri itu telah disiksa dan diikat (tangannya)"
+    en: "that thief was tortured and bound (his hands)"
+  - aceh: "meu adeueb that uroe nyoe, jitunggee utang wie uneun"
+    id: "saya merasa azab sekali hari ini, orang menagih utang dr kiri dan kanan"
+    en: "I feel tormented today, creditors demand payment from left and right"
+  - aceh: "peu adeueb"
+    id: "menghukum, mengazab"
+    en: "to punish, to torment"
+  - aceh: "bèk kapeu adeueb binatang lagee nyan!"
+    id: "janganlah engkau menyiksa binatang seperti itu!"
+    en: "don't torture animals like that!"
+related_words: ["anianya", "ana nya", "sèksa"]
+dialect_notes: ""
+source: "Aboe Bakar et al., Kamus Aceh-Indonesia Seri 1 A–L, 1985, p.7"
+date_added: "2025-06-18"
+contributor: "AI-extracted — needs human review"
+extraction_notes: "Arabic loanword ('azab). Jawi transliteration is AI-generated, not from source — needs verification."

@@ -1,0 +1,25 @@
+headword: "abaih"
+jawi: ""
+alt_spelling: []
+ipa: ""
+part_of_speech: "v"
+definitions:
+  - meaning_id: "memarang miring dr atas ke bawah, mengarahkan, menyindir, menetak atau menakik"
+    meaning_en: "to cut diagonally from top to bottom, to direct, to insinuate, to notch or gouge"
+examples:
+  - aceh: "kayèe nyan ka geu 'abaih' lè gobnyan"
+    jawi: ""
+    id: "Kayu itu sudah dipotongnya"
+    en: "That wood has already been cut by him"
+  - aceh: "neu 'abaih' prahò nyan u wie"
+    id: "Arahkan perahu itu ke kiri"
+    en: "Direct that boat to the left"
+  - aceh: "Jimarit ji 'abaih' ho laèn, tapi meukeu sud laen"
+    id: "ia berkata ke arah lain, tetapi maksudnya lain"
+    en: "he speaks in another direction, but means something else"
+related_words: []
+dialect_notes: ""
+source: "Aboe Bakar et al., Kamus Aceh-Indonesia Seri 1 A–L, 1985, p.1–2"
+date_added: "2025-06-18"
+contributor: "AI-extracted — needs human review"
+extraction_notes: "Superscript 2 indicates second homonym entry. Jawi transliteration is AI-generated, not from source — needs verification."

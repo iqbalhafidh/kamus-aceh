@@ -1,0 +1,19 @@
+headword: "abuen"
+jawi: ""
+alt_spelling: []
+ipa: ""
+part_of_speech: "n"
+definitions:
+  - meaning_id: "kelebihan, nilai lebih dl urusan dagang yg diperoleh pembeli di luar perseroan"
+    meaning_en: "extra profit, surplus value in trade obtained by a buyer outside the partnership"
+examples:
+  - aceh: "hareukat abuen"
+    jawi: ""
+    id: "keuntungan tersendiri di luar perseroan"
+    en: "separate profit outside the partnership"
+related_words: ["balông", "bungông", "hareukat", "laba"]
+dialect_notes: ""
+source: "Aboe Bakar et al., Kamus Aceh-Indonesia Seri 1 A–L, 1985, p.3"
+date_added: "2025-06-18"
+contributor: "AI-extracted — needs human review"
+extraction_notes: "Jawi transliteration is AI-generated, not from source — needs verification."

@@ -1,0 +1,19 @@
+headword: "abai-abai"
+jawi: ""
+alt_spelling: []
+ipa: ""
+part_of_speech: "v"
+definitions:
+  - meaning_id: "berperai-perai (dl hik)"
+    meaning_en: "to be carefree/relaxed (in hikayat)"
+examples:
+  - aceh: "H'an jitukri abai-abai"
+    jawi: ""
+    id: "ia tidak tahu berperai-perai"
+    en: "he does not know how to be carefree"
+related_words: ["bali"]
+dialect_notes: ""
+source: "Aboe Bakar et al., Kamus Aceh-Indonesia Seri 1 A–L, 1985, p.1"
+date_added: "2025-06-18"
+contributor: "AI-extracted — needs human review"
+extraction_notes: "Marked as appearing in hikayat (dl hik). Jawi transliteration is AI-generated, not from source — needs verification."

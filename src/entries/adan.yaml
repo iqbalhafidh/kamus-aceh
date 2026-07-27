@@ -1,0 +1,22 @@
+headword: "adan"
+jawi: ""
+alt_spelling: []
+ipa: ""
+part_of_speech: "n"
+definitions:
+  - meaning_id: "Aden, nama sebuah negeri di Arab, nama laki-laki"
+    meaning_en: "Aden, name of a country in Arabia; also a male name"
+examples:
+  - aceh: "Muhammad adan"
+    jawi: ""
+    id: "Muhammad Aden"
+    en: "Muhammad Aden"
+  - aceh: "nanggroe adan"
+    id: "negeri Adan"
+    en: "the land of Aden"
+related_words: []
+dialect_notes: ""
+source: "Aboe Bakar et al., Kamus Aceh-Indonesia Seri 1 A–L, 1985, p.5"
+date_added: "2025-06-18"
+contributor: "AI-extracted — needs human review"
+extraction_notes: "Also cross-referenced as → bang. Jawi transliteration is AI-generated, not from source — needs verification."

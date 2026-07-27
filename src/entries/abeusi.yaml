@@ -1,0 +1,25 @@
+headword: "abeusi"
+jawi: ""
+alt_spelling: []
+ipa: ""
+part_of_speech: "n"
+definitions:
+  - meaning_id: "negro, Abesinia"
+    meaning_en: "Negro, Abyssinian"
+examples:
+  - aceh: "ureung abeusi"
+    jawi: ""
+    id: "orang negro"
+    en: "Negro person"
+  - aceh: "nanggroe abeusi"
+    id: "negeri Abesinia"
+    en: "Abyssinia (country)"
+  - aceh: "biek abeusi srom mata uroe"
+    id: "spt orang Abesinia yang melembarkan matahari"
+    en: "like an Abyssinian facing the sun"
+related_words: ["nubi"]
+dialect_notes: ""
+source: "Aboe Bakar et al., Kamus Aceh-Indonesia Seri 1 A–L, 1985, p.2–3"
+date_added: "2025-06-18"
+contributor: "AI-extracted — needs human review"
+extraction_notes: "Jawi transliteration is AI-generated, not from source — needs verification."

@@ -1,0 +1,25 @@
+headword: "abeueng-abeueng"
+jawi: ""
+alt_spelling: []
+ipa: ""
+part_of_speech: "n"
+definitions:
+  - meaning_id: "pohon pulai (sejenis pohon yang sangat ringan kayunya)"
+    meaning_en: "pulai tree (a type of tree with very light wood)"
+examples:
+  - aceh: "bak abeueng-abeueng"
+    jawi: ""
+    id: "pohon pulai"
+    en: "pulai tree"
+  - aceh: "Umpama boh abeueng-abeueng, angên ba pôt keu dêh keu noe"
+    id: "laksana buah pulai yang diterbangkan angin ke sana kemari"
+    en: "like a pulai fruit carried by the wind here and there"
+  - aceh: "lôn tamsê bungong abeueng-abeueng, angên tinteueng trôih bak musêm"
+    id: "saya bagaikan bunga pulai yang diembus angin bila tiba musimnya"
+    en: "I am like a pulai flower blown by the wind when the season comes"
+related_words: []
+dialect_notes: ""
+source: "Aboe Bakar et al., Kamus Aceh-Indonesia Seri 1 A–L, 1985, p.2"
+date_added: "2025-06-18"
+contributor: "AI-extracted — needs human review"
+extraction_notes: "Jawi transliteration is AI-generated, not from source — needs verification."

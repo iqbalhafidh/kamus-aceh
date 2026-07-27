@@ -1,0 +1,25 @@
+headword: "achèk"
+jawi: ""
+alt_spelling: ["'achèk"]
+ipa: ""
+part_of_speech: "a"
+definitions:
+  - meaning_id: "asyik, terpikat, terpukau"
+    meaning_en: "enchanted, captivated, fascinated"
+examples:
+  - aceh: "Èk achèk tadeungo gobnyan beu-et"
+    jawi: ""
+    id: "Kita asyik mendengar ia membaca Alquran"
+    en: "We are enchanted listening to him recite the Quran"
+  - aceh: "pakon gata achèk that keu gamba nyan?"
+    id: "mengapa Anda terpikat benar dng gambar itu"
+    en: "why are you so captivated by that picture?"
+  - aceh: "peu achèk"
+    id: "membuat asyik"
+    en: "to captivate"
+related_words: []
+dialect_notes: ""
+source: "Aboe Bakar et al., Kamus Aceh-Indonesia Seri 1 A–L, 1985, p.4"
+date_added: "2025-06-18"
+contributor: "AI-extracted — needs human review"
+extraction_notes: "Jawi transliteration is AI-generated, not from source — needs verification."

@@ -1,0 +1,25 @@
+headword: "adòh"
+jawi: ""
+alt_spelling: []
+ipa: ""
+part_of_speech: ""
+definitions:
+  - meaning_id: "aduh"
+    meaning_en: "ouch (exclamation of pain)"
+examples:
+  - aceh: "Peue nyang ta adòh sabé!"
+    jawi: ""
+    id: "apa yg Anda aduhkan selalu!"
+    en: "what are you always complaining about!"
+  - aceh: "meu adòh"
+    id: "mengaduh"
+    en: "to groan/complain"
+  - aceh: "peu adòh"
+    id: "mengaduhkan"
+    en: "to complain about"
+related_words: ["alah", "alon-alah", "dòh-dòh"]
+dialect_notes: ""
+source: "Aboe Bakar et al., Kamus Aceh-Indonesia Seri 1 A–L, 1985, p.8"
+date_added: "2025-06-18"
+contributor: "AI-extracted — needs human review"
+extraction_notes: "Jawi transliteration is AI-generated, not from source — needs verification."

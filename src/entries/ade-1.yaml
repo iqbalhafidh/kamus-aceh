@@ -1,0 +1,19 @@
+headword: "adè"
+jawi: ""
+alt_spelling: []
+ipa: ""
+part_of_speech: "a"
+definitions:
+  - meaning_id: "adil, pantas, layak"
+    meaning_en: "just, fair, proper, fitting"
+examples:
+  - aceh: "wali ngon dua saksi nyang adè"
+    jawi: ""
+    id: "wali dan dua orang saksi yg adil"
+    en: "guardian and two just witnesses"
+related_words: []
+dialect_notes: ""
+source: "Aboe Bakar et al., Kamus Aceh-Indonesia Seri 1 A–L, 1985, p.7"
+date_added: "2025-06-18"
+contributor: "AI-extracted — needs human review"
+extraction_notes: "Superscript 1. Jawi transliteration is AI-generated, not from source — needs verification."

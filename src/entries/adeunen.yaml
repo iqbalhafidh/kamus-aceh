@@ -1,0 +1,24 @@
+headword: "adeunèn"
+jawi: ""
+alt_spelling: ["'adeunèn"]
+ipa: ""
+part_of_speech: "n"
+definitions:
+  - meaning_id: "sorga"
+    meaning_en: "heaven, paradise"
+  - meaning_id: "nama laki-laki"
+    meaning_en: "a male name"
+examples:
+  - aceh: "janatò, janatò, janatòn adeunèn"
+    jawi: ""
+    id: "taman dl sorga"
+    en: "gardens in paradise"
+  - aceh: "Muhamad adeunèn"
+    id: "Muhammad Adeunèn"
+    en: "Muhammad Adeunèn"
+related_words: []
+dialect_notes: ""
+source: "Aboe Bakar et al., Kamus Aceh-Indonesia Seri 1 A–L, 1985, p.7"
+date_added: "2025-06-18"
+contributor: "AI-extracted — needs human review"
+extraction_notes: "Arabic-derived (ad-dunya/ad-din?). Jawi transliteration is AI-generated, not from source — needs verification."
