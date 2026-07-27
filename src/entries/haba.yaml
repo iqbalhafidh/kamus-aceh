@@ -1,79 +1,52 @@
 headword: haba
-jawi: هبا
+jawi: ''
 alt_spelling: []
 ipa: ''
 part_of_speech: n
 definitions:
 - meaning_id: kabar, berita, desas-desus
-  meaning_en: iron used by goldsmiths
-  examples:
-  - aceh: angèn
-    jawi: ''
-    id: kabar angin, omong kosong
-    en: rumors, nonsense
-  - aceh: jameuen
-    jawi: ''
-    id: cerita zaman dahulu
-    en: story from the past
-  - aceh: asai jeuet cicém ték-ték wang
-    jawi: ''
-    id: cerita tt kejadian burung ték-ték-wang
-    en: ''
-  - aceh: bèk keunong
-    jawi: ''
-    id: ''
-    en: ''
-  - aceh: gob ateueh geutanyoe
-    jawi: ''
-    id: Jangan sampai kita difitnah orang
-    en: Let's not be slandered by people
-- meaning_id: → *
-  meaning_en: → *
-  examples:
-  - aceh: gah
-    jawi: ''
-    id: '*'
-    en: '*'
-  - aceh: bèk sagai taleungo
-    jawi: ''
-    id: ''
-    en: ''
-  - aceh: gob!
-    jawi: ''
-    id: Jangan sekali-kali Anda mendengar cerita orang (yg tidak baik)!
-    en: ''
-  - aceh: meu
-    jawi: ''
-    id: ), menceritakan sesuatu, sedang bercakap-cakap, diceritakan
-    en: ), telling something, chatting, being told
-  - aceh: teuma neumeu
-    jawi: ''
-    id: ''
-    en: ''
-  - aceh: lê
-    jawi: ''
-    id: Lalu berceritalah ia
-    en: Then he told the story
-  - aceh: peue jimeu
-    jawi: ''
-    id: ''
-    en: ''
-  - aceh: nyan
-    jawi: ''
-    id: '? Apa yg diceritakannya itu?'
-    en: '? What did he say?'
-  - aceh: peu
-    jawi: ''
-    id: memberitahukan, menerangkan
-    en: ''
-  - aceh: gob peu
-    jawi: ''
-    id: ''
-    en: ''
+  meaning_en: ''
+examples:
+- aceh: angèn
+  jawi: ''
+  id: kabar angin, omong kosong
+  en: ''
+- aceh: '- jameuen'
+  jawi: ''
+  id: cerita zaman dahulu
+  en: ''
+- aceh: '- asai jeuet cicém ték-ték wang'
+  jawi: ''
+  id: cerita tt kejadian burung ték-ték-wang
+  en: ''
+- aceh: bèk keunong - gob ateueh geutanyoe
+  jawi: ''
+  id: Jangan sampai kita difitnah orang;
+  en: ''
+- aceh: bèk sagai taleungo - gob! Jangan sekali-kali Anda mendengar cerita orang (yg tidak baik)! meu)
+  jawi: ''
+  id: menceritakan sesuatu, sedang bercakap-cakap, diceritakan
+  en: ''
+- aceh: teuma neumeu - lê
+  jawi: ''
+  id: Lalu berceritalah ia
+  en: ''
+- aceh: peue jimeu - nyan? Apa yg diceritakannya itu? peu -
+  jawi: ''
+  id: memberitahukan, menerangkan
+  en: ''
+- aceh: gob peu
+  jawi: ''
+  id: ''
+  en: ''
 etymology: ''
-related_words: []
+related_words:
+- gah
 dialect_notes: ''
-source: Kamus Aceh-Indonesia (Acehnese-Indonesian Dictionary), pp. 269, 270
+source: 'Kamus Aceh-Indonesia (extracted from pp.124-270 of the source edition, Acehnese section entries
+  cèm-unyèn through gutie/H). File: markdown.md supplied by the user. — p.269'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: Some fields (English translations, Jawi) may be incomplete due to API rate limits during processing. Re-run the translation script to fill in missing fields. Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate reviewer.
+extraction_notes: Indonesian example translations are taken verbatim from the source. English meanings
+  and Jawi transliterations are AI-flagged as unverified and need human review. Jawi transliteration is
+  AI-generated, not from source — needs verification by a Jawi-literate reviewer.

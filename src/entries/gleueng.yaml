@@ -1,68 +1,64 @@
 headword: gleueng
-jawi: ڬلوڬ
+jawi: ''
 alt_spelling: []
 ipa: ''
 part_of_speech: n
 definitions:
 - meaning_id: 'gelang (utk tangan atau kaki): — —, gelang-gelang'
   meaning_en: ''
-  examples:
-  - aceh: jaroe
-    jawi: ''
-    id: gelang tangan
-    en: bracelet
-  - aceh: gaki
-    jawi: ''
-    id: gelang kaki
-    en: ''
-  - aceh: bulat
-    jawi: ''
-    id: gelang yg berbentuk bulat
-    en: a round-shaped bracelet
-  - aceh: meusagoe
-    jawi: ''
-    id: gelang yg berbentuk bersegi-segi
-    en: doing something hastily, rushing
-  - aceh: peunuta
-    jawi: ''
-    id: gelang putar
-    en: ''
-  - aceh: mubalot
-    jawi: ''
-    id: gelang tembaga yg dibalut suasana
-    en: ''
-  - aceh: soh
-    jawi: ''
-    id: gelang yg kosong di tengahnya
-    en: ''
-  - aceh: keureusèk
-    jawi: ''
-    id: atau
-    en: or
-  - aceh: meugeunta
-    jawi: ''
-    id: gelang kosong yg diisi batu-batu kecil sehingga berdering-dering bunyinya
-    en: empty bracelet filled with small stones that makes a ringing sound
-  - aceh: jaroe pirak
-    jawi: ''
-    id: gelang tangan perak
-    en: ''
-  - aceh: keumudoe
-    jawi: ''
-    id: gelang-gelang rotan pd bagian belakang perauu pukat tempat mengikat kemudi
-    en: rattan rings on the back of a fishing boat, place to tie the rudder
-  - aceh: pintò
-    jawi: ''
-    id: gelang-gelang pintu
-    en: door hinges
-  - aceh: meu
-    jawi: ''
-    id: bergelang tangan atau kaki, memakai gelang
-    en: ''
-  - aceh: peu
-    jawi: ''
-    id: menggelangi
-    en: to swim
+examples:
+- aceh: jaroe
+  jawi: ''
+  id: gelang tangan
+  en: ''
+- aceh: '- gaki'
+  jawi: ''
+  id: gelang kaki
+  en: ''
+- aceh: '- bulat'
+  jawi: ''
+  id: gelang yg berbentuk bulat
+  en: ''
+- aceh: '- meusagoe'
+  jawi: ''
+  id: gelang yg berbentuk bersegi-segi
+  en: ''
+- aceh: '- peunuta'
+  jawi: ''
+  id: gelang putar
+  en: ''
+- aceh: '- mubalot'
+  jawi: ''
+  id: gelang tembaga yg dibalut suasana
+  en: ''
+- aceh: '- soh'
+  jawi: ''
+  id: gelang yg kosong di tengahnya
+  en: ''
+- aceh: '- keureusèk atau meugeunta'
+  jawi: ''
+  id: gelang kosong yg diisi batu-batu kecil sehingga berdering-dering bunyinya
+  en: ''
+- aceh: '- jaroe pirak'
+  jawi: ''
+  id: gelang tangan perak
+  en: ''
+- aceh: '- - keumudoe'
+  jawi: ''
+  id: gelang-gelang rotan pd bagian belakang perauu pukat tempat mengikat kemudi
+  en: ''
+- aceh: '- - pintò'
+  jawi: ''
+  id: gelang-gelang pintu
+  en: ''
+- aceh: meu -
+  jawi: ''
+  id: bergelang tangan atau kaki, memakai gelang
+  en: ''
+- aceh: peu -
+  jawi: ''
+  id: menggelangi
+  en: ''
 etymology: ''
 related_words:
 - ikai
@@ -72,7 +68,10 @@ related_words:
 - sawèk
 - taloe
 dialect_notes: ''
-source: Kamus Aceh-Indonesia (Acehnese-Indonesian Dictionary), p. 245
+source: 'Kamus Aceh-Indonesia (extracted from pp.124-270 of the source edition, Acehnese section entries
+  cèm-unyèn through gutie/H). File: markdown.md supplied by the user. — p.245'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate reviewer. Some fields (English translations, Jawi) may be incomplete due to API rate limits during processing. Re-run the translation script to fill in missing fields.
+extraction_notes: Indonesian example translations are taken verbatim from the source. English meanings
+  and Jawi transliterations are AI-flagged as unverified and need human review. Jawi transliteration is
+  AI-generated, not from source — needs verification by a Jawi-literate reviewer.

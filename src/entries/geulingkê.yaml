@@ -1,29 +1,39 @@
 headword: geulingkê
-jawi: كوليڠكٽ
+jawi: ''
 alt_spelling: []
 ipa: ''
 part_of_speech: ''
 definitions:
-- meaning_id: "geulincê, meugeucê, teugeulincê v\n tergelincir, salah berbicara: awai\n waktêe leuhô watêe — mata\n uroe si u mugrêb nibak siteungoh\n langêt, Permulaan waktu lohor\n ialah jika tergelincir matahari ke\n sebelah magrib dr setengah langit"
-  meaning_en: geulincê, meugeucê, teugeulincê v
-  examples:
-  - aceh: "lôn bunoe rôh meu — srôt lam\n mon, Tadi saya tergelincir jatuh\n ke dl sumur. lôn ka teu"
-    jawi: ''
-    id: "narit\n bacut, Saya tersalah bicara sedikit"
-    en: ''
-  - aceh: peu
-    jawi: ''
-    id: membiarkan tevgelincir
-    en: letting slip
-  - aceh: "bèk tapeu — droe lam\n mon, Janganlah Anda meluncurkan diri dl sumur\n geuliték — giték\n geulugia, gulugia, keulukia, kulikia\n a kekurangan (dl hik): ie ngon\n eumpeun na di sinan, sapeue\n pi tan —, Di sana ada air dan\n makanan, tidak satu pun yg\n kekurangan. banda ramè nanggroe pi aman, sapeue pi tan"
-    jawi: ''
-    id: "bandarnya ramai, negerinya aman,\n tidak satu pun yg kekurangan (di\n dalamnya)"
-    en: ''
+- meaning_id: glikê geulincê, meugeucê, teugeulincê v tergelincir, salah berbicara
+  meaning_en: ''
+examples:
+- aceh: awai waktêe leuhô watêe - mata uroe si u mugrêb nibak siteungoh langêt
+  jawi: ''
+  id: Permulaan waktu lohor ialah jika tergelincir matahari ke sebelah magrib dr setengah langit
+  en: ''
+- aceh: lôn bunoe rôh meu - srôt lam mon
+  jawi: ''
+  id: Tadi saya tergelincir jatuh ke dl sumur. lôn ka teu — narit bacut, Saya tersalah bicara se- dikit
+  en: ''
+- aceh: peu -
+  jawi: ''
+  id: membiarkan tev- gelincir
+  en: ''
+- aceh: bèk tapeu - droe lam mon
+  jawi: ''
+  id: 'Janganlah Anda meluncur- kan diri dl sumur geuliték — giték geulugia, gulugia, keulukia, kulikia
+    a kekurangan (dl hik): ie ngon eumpeun na di sinan, sapeue pi tan —, Di sana ada air dan makanan,
+    tidak satu pun yg kekurangan. banda ramè nang- groe pi aman, sapeue pi tan —, bandarnya ramai, negerinya
+    aman, tidak satu pun yg kekurangan (di dalamnya)'
+  en: ''
 etymology: ''
-related_words:
-- glikê
+related_words: []
 dialect_notes: ''
-source: Kamus Aceh-Indonesia (Acehnese-Indonesian Dictionary), p. 226
+source: 'Kamus Aceh-Indonesia (extracted from pp.124-270 of the source edition, Acehnese section entries
+  cèm-unyèn through gutie/H). File: markdown.md supplied by the user. — p.226'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: Cross-reference entry pointing to 'glikê'. Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate reviewer.
+extraction_notes: Part of speech not explicitly marked in source. Indonesian example translations are
+  taken verbatim from the source. English meanings and Jawi transliterations are AI-flagged as unverified
+  and need human review. Jawi transliteration is AI-generated, not from source — needs verification by
+  a Jawi-literate reviewer.

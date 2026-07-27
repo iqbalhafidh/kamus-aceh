@@ -1,5 +1,5 @@
 headword: glum
-jawi: ڬلم
+jawi: ''
 alt_spelling:
 - jlum
 ipa: ''
@@ -7,42 +7,37 @@ part_of_speech: n
 definitions:
 - meaning_id: belang-belang putih di badan baik krn suatu penyakit gatal maupun penebalan kulit
   meaning_en: ''
-  examples:
-  - aceh: bak badanji jitimoh
-    jawi: ''
-    id: Di badannya tumbuh belang-belang putih
-    en: White stripes grew on his body
-  - aceh: meu
-    jawi: ''
-    id: berbelang-belang putih di badan
-    en: striped white on the body
-  - aceh: gobnyan meu
-    jawi: ''
-    id: ''
-    en: ''
-  - aceh: ban saboh badan
-    jawi: ''
-    id: Orang itu berbelang-belang di seluruh badannya
-    en: That person is striped all over his body
-  - aceh: peu
-    jawi: ''
-    id: menumbuhkan atau membiarkan belang-belang di badan
-    en: causing or allowing spots to appear on the body
-  - aceh: pakon tapeu
-    jawi: ''
-    id: ''
-    en: ''
-  - aceh: droe
-    jawi: ''
-    id: Mengapa Anda membiarkan tumbuh belang-belang di badan?
-    en: thrush
+examples:
+- aceh: bak badanji jitimoh -
+  jawi: ''
+  id: Di badannya tumbuh belang-belang putih
+  en: ''
+- aceh: meu -
+  jawi: ''
+  id: berbelang-belang putih di badan
+  en: ''
+- aceh: gobnyan meu - ban saboh badan
+  jawi: ''
+  id: Orang itu berbelang-belang di seluruh badannya
+  en: ''
+- aceh: peu -
+  jawi: ''
+  id: menumbuhkan atau membiarkan belang-belang di badan
+  en: ''
+- aceh: pakon tapeu - droe
+  jawi: ''
+  id: Mengapa Anda membiarkan tumbuh belang-belang di badan?
+  en: ''
 etymology: ''
 related_words:
 - kurap
 - leuki
 - panée
 dialect_notes: ''
-source: Kamus Aceh-Indonesia (Acehnese-Indonesian Dictionary), p. 247
+source: 'Kamus Aceh-Indonesia (extracted from pp.124-270 of the source edition, Acehnese section entries
+  cèm-unyèn through gutie/H). File: markdown.md supplied by the user. — p.247'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: 'Source lists variant spellings: jlum. Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate reviewer. Some fields (English translations, Jawi) may be incomplete due to API rate limits during processing. Re-run the translation script to fill in missing fields.'
+extraction_notes: Indonesian example translations are taken verbatim from the source. English meanings
+  and Jawi transliterations are AI-flagged as unverified and need human review. Jawi transliteration is
+  AI-generated, not from source — needs verification by a Jawi-literate reviewer.

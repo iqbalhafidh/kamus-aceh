@@ -1,37 +1,45 @@
 headword: dôseuta
-jawi: دوسيوت
+jawi: ''
 alt_spelling: []
 ipa: ''
 part_of_speech: n
 definitions:
-- meaning_id: 'dusta, bohong (dl hik): narit —, kata-kata bohong'
+- meaning_id: dusta, bohong (dl hik)
   meaning_en: ''
-  examples:
-  - aceh: ure-ueng nyan galik that keu narit
-    jawi: ''
-    id: orang itu sangat suka akan kata-kata bohong
-    en: ''
-  - aceh: meu
-    jawi: ''
-    id: berdusta
-    en: to lie
-  - aceh: jih that teupat, mubacut h'an jimeu
-    jawi: ''
-    id: Ia seorang yg sangat jujur, sedikitpun ia tidak mau berdusta
-    en: He is very honest, he doesn't want to lie at all
-  - aceh: peu
-    jawi: ''
-    id: mendustakan seseorang
-    en: ''
-  - aceh: ya Tuhanku, droeneukeuh nyang êk trôk thêe, jipeuayeb lôn ngon ji-peu
-    jawi: ''
-    id: ya Tuhanku, Engkaulah yang mengetahui semua, ia melontarkan kata-kata aib dan mendustakan aku!
-    en: O my Lord, You know all, he uttered slanderous words and lied about me!
+examples:
+- aceh: narit -
+  jawi: ''
+  id: kata-kata bohong
+  en: ''
+- aceh: ure-ueng nyan galik that keu narit -
+  jawi: ''
+  id: orang itu sangat suka akan kata-kata bohong
+  en: ''
+- aceh: meu -
+  jawi: ''
+  id: berdusta
+  en: ''
+- aceh: jih that teupat
+  jawi: ''
+  id: mubacut h'an jimeu —, Ia seorang yg sangat jujur, sedikitpun ia tidak mau berdusta
+  en: ''
+- aceh: peu -
+  jawi: ''
+  id: mendustakan seseorang
+  en: ''
+- aceh: ya Tuhanku
+  jawi: ''
+  id: droeneukeuh nyang êk trôk thêe, jipeuayeb lôn ngon ji-peu —, ya Tuhanku, Engkaulah yang mengetahui
+    semua, ia melontarkan kata-kata aib dan mendustakan aku!
+  en: ''
 etymology: ''
 related_words:
 - sulêt
 dialect_notes: ''
-source: Kamus Aceh-Indonesia (Acehnese-Indonesian Dictionary), p. 176
+source: 'Kamus Aceh-Indonesia (extracted from pp.124-270 of the source edition, Acehnese section entries
+  cèm-unyèn through gutie/H). File: markdown.md supplied by the user. — p.176'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate reviewer. Some fields (English translations, Jawi) may be incomplete due to API rate limits during processing. Re-run the translation script to fill in missing fields.
+extraction_notes: Indonesian example translations are taken verbatim from the source. English meanings
+  and Jawi transliterations are AI-flagged as unverified and need human review. Jawi transliteration is
+  AI-generated, not from source — needs verification by a Jawi-literate reviewer.

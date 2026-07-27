@@ -1,76 +1,48 @@
 headword: gaya
-jawi: ݢايا
+jawi: ''
 alt_spelling: []
 ipa: ''
 part_of_speech: n
 definitions:
 - meaning_id: kekuatan, lagak
-  meaning_en: strength, posture
-  examples:
-  - aceh: meu
-    jawi: ''
-    id: berkekuatan, berlagak
-    en: ''
-  - aceh: ureueng nyan h'an ēk sagai jimeu
-    jawi: ''
-    id: ''
-    en: ''
-  - aceh: jih ka trēb tuat sakēt
-    jawi: ''
-    id: Orang itu tidak berkekuatan sama sekali, ia sudah lama sakit
-    en: That person has no strength at all, he has been sick for a long time
-  - aceh: bēk tameu
-    jawi: ''
-    id: ''
-    en: ''
-  - aceh: bak lōn
-    jawi: ''
-    id: Jangan Anda bergaya kpd saya
-    en: Don't be condescending to me
-  - aceh: peu
-    jawi: ''
-    id: membuat gaya
-    en: ''
-  - aceh: peue tapeu
-    jawi: ''
-    id: ''
-    en: ''
-  - aceh: droeteu bak lōn
-    jawi: ''
-    id: ''
-    en: ''
-  - aceh: di lōn na cit atra nyan
-    jawi: ''
-    id: Tidak perlu Anda berlagak kpd saya, saya pun memiliki benda itu *
-    en: ''
-  - aceh: gayam
-    jawi: ''
-    id: ''
-    en: ''
-  - aceh: ''
-    jawi: ''
-    id: n
-    en: ''
-  - aceh: 'gagang pengaruh:'
-    jawi: ''
-    id: mat* —, memegang gagang pengaruh, memegang kemudi, pimpinan, kekuasaan
-    en: mat* -, to hold the handle of influence, to hold the rudder, leadership, power
-  - aceh: dilēe Gōmpeunie nyang mat
-    jawi: ''
-    id: ''
-    en: ''
-  - aceh: di nenggroe geutanyoe
-    jawi: ''
-    id: Pd masa dahulu pemerintah Belanda yg memegang kekuasaan di negeri kita
-    en: ''
-  - aceh: peue takeumeung peulaku jinoe, jih nyang mat
-    jawi: ''
-    id: Apa yg hendak kita lakukan sekarang, dia yg memegang pimpinan
-    en: What are we to do now, he is the one in charge
+  meaning_en: ''
+examples:
+- aceh: meu -
+  jawi: ''
+  id: berkekuatan, berlagak
+  en: ''
+- aceh: ureueng nyan h'an ēk sagai jimeu -, jih ka trēb tuat sakēt
+  jawi: ''
+  id: Orang itu tidak berkekuatan sama sekali, ia sudah lama sakit
+  en: ''
+- aceh: bēk tameu - bak lōn
+  jawi: ''
+  id: Jangan Anda bergaya kpd saya
+  en: ''
+- aceh: peu -
+  jawi: ''
+  id: membuat gaya
+  en: ''
+- aceh: 'peue tapeu - droeteu bak lōn, di lōn na cit atra nyan, Tidak perlu Anda berlagak kpd saya, saya
+    pun memiliki benda itu *gayam n gagang pengaruh: mat* -'
+  jawi: ''
+  id: memegang gagang pengaruh, memegang kemudi, pimpinan, kekuasaan
+  en: ''
+- aceh: dilēe Gōmpeunie nyang mat - di nenggroe geutanyoe
+  jawi: ''
+  id: Pd masa dahulu pemerintah Belanda yg memegang kekuasaan di negeri kita
+  en: ''
+- aceh: peue takeumeung peulaku jinoe, jih nyang mat -
+  jawi: ''
+  id: Apa yg hendak kita lakukan sekarang, dia yg memegang pimpinan
+  en: ''
 etymology: ''
 related_words: []
 dialect_notes: ''
-source: Kamus Aceh-Indonesia (Acehnese-Indonesian Dictionary), p. 222
+source: 'Kamus Aceh-Indonesia (extracted from pp.124-270 of the source edition, Acehnese section entries
+  cèm-unyèn through gutie/H). File: markdown.md supplied by the user. — p.222'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate reviewer.
+extraction_notes: Indonesian example translations are taken verbatim from the source. English meanings
+  and Jawi transliterations are AI-flagged as unverified and need human review. Jawi transliteration is
+  AI-generated, not from source — needs verification by a Jawi-literate reviewer.

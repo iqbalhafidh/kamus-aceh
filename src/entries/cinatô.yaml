@@ -1,35 +1,49 @@
 headword: cinatô
-jawi: چيناتو
+jawi: ''
 alt_spelling: []
 ipa: ''
 part_of_speech: ''
 definitions:
-- meaning_id: cincu, tincu
+- meaning_id: catô $^{1}$cincu, tincu
   meaning_en: ''
-  examples:
-  - aceh: rukok crub
-    jawi: ''
-    id: –
-    en: ), sj white lice that attach to cloth
-  - aceh: ujông
-    jawi: ''
-    id: rokok cerutu yg runcing ujungnya
-    en: ''
-  - aceh: kayèe
-    jawi: ''
-    id: –, kayu runcing
-    en: –, sharpened wood
-  - aceh: peu
-    jawi: ''
-    id: –, meruncingkan
-    en: ''
+examples:
+- aceh: a runcing
+  jawi: ''
+  id: menjurus ke satu arah (sesuatu yg tajam)
+  en: ''
+- aceh: rukok crub – ujông
+  jawi: ''
+  id: rokok cerutu yg runcing ujungnya
+  en: ''
+- aceh: kayèe –
+  jawi: ''
+  id: kayu runcing
+  en: ''
+- aceh: 'peu –, meruncingkan, pembantu sopir kendaraan bermotor cincong n tiruan bunyi bahasa Cina, cara
+    orang Cina berkata-kata: trôk u banda, meuteumèe Cina, tadeungo subra basa –, sesampai di kota kami
+    bertemu dng orang Cina dan mendengar mereka riuh rendah berbicara dl bahasanya cindè, ceundè n cindai,
+    sj sutera yg berbunga-bunga: ija –'
+  jawi: ''
+  id: kain cindai
+  en: ''
 etymology: ''
 related_words:
-- catô
-- "tampheuek\n §2§ cincu nakhoda kapal"
-- pembantu sopir kendaraan bermotor
+- tampheuek $^{2}$cincu nakhoda kapal
+- pembantu sopir kendaraan bermotor cincong *n* tiruan bunyi bahasa Cina
+- 'cara orang Cina berkata-kata: *trôk u banda*'
+- '*meuteumèe Cina*'
+- '*tadeungo subra basa* –'
+- sesampai di kota kami bertemu dng orang Cina dan mendengar mereka riuh rendah berbicara dl bahasanya
+  cindè
+- ceundè *n* cindai
+- 'sj sutera yg berbunga-bunga: *ija* –'
+- kain cindai
 dialect_notes: ''
-source: Kamus Aceh-Indonesia (Acehnese-Indonesian Dictionary), p. 136
+source: 'Kamus Aceh-Indonesia (extracted from pp.124-270 of the source edition, Acehnese section entries
+  cèm-unyèn through gutie/H). File: markdown.md supplied by the user. — p.136'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: Cross-reference entry pointing to 'catô'. Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate reviewer.
+extraction_notes: Part of speech not explicitly marked in source. Indonesian example translations are
+  taken verbatim from the source. English meanings and Jawi transliterations are AI-flagged as unverified
+  and need human review. Jawi transliteration is AI-generated, not from source — needs verification by
+  a Jawi-literate reviewer.

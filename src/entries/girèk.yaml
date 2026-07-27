@@ -1,30 +1,35 @@
 headword: girèk
-jawi: گريك
+jawi: ''
 alt_spelling:
 - geugirèk
 ipa: ''
 part_of_speech: n
 definitions:
-- meaning_id: sj burung yg menurut kepercayaan rakyat jika terbang mengikuti dan meneriakkan hantu-hantu pembawa penyakit *
+- meaning_id: sj burung yg menurut kepercayaan rakyat jika terbang mengikuti dan meneriakkan hantu-hantu
+    pembawa penyakit *
   meaning_en: ''
-  examples:
-  - aceh: rambalui
-    jawi: ''
-    id: ''
-    en: ''
-  - aceh: dan
-    jawi: ''
-    id: ''
-    en: ''
-  - aceh: hantu buru
-    jawi: ''
-    id: '*'
-    en: '*'
+examples:
+- aceh: rambalui dan hantu buru*
+  jawi: ''
+  id: ''
+  en: ''
 etymology: ''
 related_words:
 - ja-wòh
+- '**kirèk** 1gisa *v* memutar (ke belakang)'
+- pulang ke rumah
+- 'kembali: *ta* — *panyot nyan*'
+- Putarlah lampu itu. *bungong* —
+- bunga berputar (nama salah satu motif hiasan)
 dialect_notes: ''
-source: Kamus Aceh-Indonesia (Acehnese-Indonesian Dictionary), p. 241
+source: 'Kamus Aceh-Indonesia (extracted from pp.124-270 of the source edition, Acehnese section entries
+  cèm-unyèn through gutie/H). File: markdown.md supplied by the user. — p.241 ; Kamus Aceh-Indonesia (extracted
+  from pp.124-270 of the source edition, Acehnese section entries cèm-unyèn through gutie/H). File: markdown.md
+  supplied by the user. — pp.241-242'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: 'Source lists variant spellings: geugirèk. Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate reviewer. Some fields (English translations, Jawi) may be incomplete due to API rate limits during processing. Re-run the translation script to fill in missing fields.'
+extraction_notes: Indonesian example translations are taken verbatim from the source. English meanings
+  and Jawi transliterations are AI-flagged as unverified and need human review. Jawi transliteration is
+  AI-generated, not from source — needs verification by a Jawi-literate reviewer. Cross-reference entry
+  — see related_words. Jawi transliteration is AI-generated, not from source — needs verification by a
+  Jawi-literate reviewer.

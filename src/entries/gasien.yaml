@@ -1,50 +1,42 @@
 headword: gasien
-jawi: ڬسين
+jawi: ''
 alt_spelling: []
 ipa: ''
 part_of_speech: a
 definitions:
 - meaning_id: miskin
-  meaning_en: poor
-  examples:
-  - aceh: ureueng
-    jawi: ''
-    id: ''
-    en: ''
-  - aceh: meuku-wien dalam tapêh, ureueng kaya mulia nibak warêh
-    jawi: ''
-    id: (pb) Orang miskin terbaring dl sabut kelapa (=hidup melarat), orang kaya dimuliakan oleh kaum kerabatnya
-    en: ''
-  - aceh: si
-    jawi: ''
-    id: ''
-    en: ''
-  - aceh: meuseukin
-    jawi: ''
-    id: orang yg miskin sekali
-    en: ''
-  - aceh: tuleueng
-    jawi: ''
-    id: tulang kering
-    en: ''
-  - aceh: peu
-    jawi: ''
-    id: membuat miskin, menganggap seseorang miskin
-    en: ''
-  - aceh: bêk sagai-sagai tapeu
-    jawi: ''
-    id: ''
-    en: ''
-  - aceh: Tuhan, sabab neuthêe akai hambaNeu bandum
-    jawi: ''
-    id: Janganlah sekali-kali Anda menganggap Tuhan miskin sebab Ia mengetahui pikiran semua hamba-Nya
-    en: ''
+  meaning_en: ''
+examples:
+- aceh: ureueng - meuku-wien dalam tapêh, ureueng kaya mulia nibak warêh
+  jawi: ''
+  id: (pb) Orang miskin terbaring dl sabut kelapa (=hidup melarat), orang kaya dimuliakan oleh kaum kerabatnya
+  en: ''
+- aceh: si - meuseukin
+  jawi: ''
+  id: orang yg miskin sekali
+  en: ''
+- aceh: tuleueng -
+  jawi: ''
+  id: tulang kering
+  en: ''
+- aceh: peu -
+  jawi: ''
+  id: membuat miskin, menganggap seseorang miskin
+  en: ''
+- aceh: bêk sagai-sagai tapeu - Tuhan, sabab neuthêe akai hambaNeu bandum
+  jawi: ''
+  id: Janganlah sekali-kali Anda menganggap Tuhan miskin sebab Ia mengetahui pikiran semua hamba-Nya.,
+    papa
+  en: ''
 etymology: ''
 related_words:
-- meuseukin
+- '**meuseukin**'
 - papa
 dialect_notes: ''
-source: Kamus Aceh-Indonesia (Acehnese-Indonesian Dictionary), p. 219
+source: 'Kamus Aceh-Indonesia (extracted from pp.124-270 of the source edition, Acehnese section entries
+  cèm-unyèn through gutie/H). File: markdown.md supplied by the user. — p.219'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: Some fields (English translations, Jawi) may be incomplete due to API rate limits during processing. Re-run the translation script to fill in missing fields. Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate reviewer.
+extraction_notes: Indonesian example translations are taken verbatim from the source. English meanings
+  and Jawi transliterations are AI-flagged as unverified and need human review. Jawi transliteration is
+  AI-generated, not from source — needs verification by a Jawi-literate reviewer.

@@ -1,48 +1,51 @@
 headword: gapi
-jawi: ݢاڤي
+jawi: ''
 alt_spelling: []
 ipa: ''
 part_of_speech: a
 definitions:
 - meaning_id: 'bulai, nama orang : leumo —, sapi bulai'
   meaning_en: ''
-  examples:
-  - aceh: 'Si —, si bulai → jagat gapiet v kepit, jepit (membawa sesuatu di bawah ketiak): ta'
-    jawi: ''
-    id: payông lôn lé gata, Kepitlah payung saya = Bawahlah payung saya oleh Anda
-    en: ''
-  - aceh: jijak ji
-    jawi: ''
-    id: jaroe, Ia berjalan dng mengepit tangan di bawah ketiaknya
-    en: ''
-  - aceh: meu
-    jawi: ''
-    id: terkepit
-    en: ''
-  - aceh: rèt meu
-    jawi: ''
-    id: jalan sempit
-    en: narrow road/path
-  - aceh: peu
-    jawi: ''
-    id: = —
-    en: ''
-  - aceh: geunapiet
-    jawi: ''
-    id: melakukan perbuatan menjepit
-    en: to do pinching actions
-  - aceh: geunapiet
-    jawi: ''
-    id: kepitan
-    en: kepitan
-  - aceh: jaroe lôn rôh lam geunapiet
-    jawi: ''
-    id: Tangan saya termasuk dl kepitan
-    en: My hand is in a fist
+- meaning_id: 'Si —, si bulai, jepit (membawa sesuatu di bawah ketiak): ta — payông lôn lé gata, Kepitlah
+    payung saya = Bawahlah payung saya oleh Anda'
+  meaning_en: ''
+- meaning_id: jijak ji — jaroe, Ia berjalan dng mengepit tangan di bawah ketiaknya
+  meaning_en: ''
+- meaning_id: meu —, terkepit
+  meaning_en: ''
+- meaning_id: jikeumeung tarèk ka meu —, Ia hendak mena- riknya, tetapi sudah terjepit
+  meaning_en: ''
+examples:
+- aceh: rèt meu -
+  jawi: ''
+  id: jalan sempit
+  en: ''
+- aceh: peu - = -
+  jawi: ''
+  id: ''
+  en: ''
+- aceh: geunapiet
+  jawi: ''
+  id: melakukan perbuatan menjepit
+  en: ''
+- aceh: geunapiet
+  jawi: ''
+  id: kepitan
+  en: ''
+- aceh: jaroe lôn rôh lam geunapiet
+  jawi: ''
+  id: Tangan saya termasuk dl kepitan
+  en: ''
 etymology: ''
-related_words: []
+related_words:
+- jagat gapiet v kepit
+- 'jepit (membawa sesuatu di bawah ketiak): ta — payông lôn lé gata'
+- Kepitlah payung saya = Bawahlah payung saya oleh Anda
 dialect_notes: ''
-source: Kamus Aceh-Indonesia (Acehnese-Indonesian Dictionary), pp. 216, 217
+source: 'Kamus Aceh-Indonesia (extracted from pp.124-270 of the source edition, Acehnese section entries
+  cèm-unyèn through gutie/H). File: markdown.md supplied by the user. — pp.216-217'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate reviewer. Some fields (English translations, Jawi) may be incomplete due to API rate limits during processing. Re-run the translation script to fill in missing fields.
+extraction_notes: Indonesian example translations are taken verbatim from the source. English meanings
+  and Jawi transliterations are AI-flagged as unverified and need human review. Jawi transliteration is
+  AI-generated, not from source — needs verification by a Jawi-literate reviewer.

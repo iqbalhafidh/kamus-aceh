@@ -1,28 +1,27 @@
 headword: gaibugai
-jawi: غايعو٢ڠعي
+jawi: ''
 alt_spelling: []
 ipa: ''
 part_of_speech: a
 definitions:
 - meaning_id: tidak bijaksana, tidak berbudi
-  meaning_en: unwise, unrefined
-  examples:
-  - aceh: tamita rakan nyang bêk
-    jawi: ''
-    id: Berkawanlah dng orang yg tidak berbudi
-    en: Be friends with someone who has no manners
-  - aceh: buetji
-    jawi: ''
-    id: ''
-    en: ''
-  - aceh: that
-    jawi: ''
-    id: Perbuatannya tidak bijaksana sekali
-    en: ''
+  meaning_en: ''
+examples:
+- aceh: tamita rakan nyang bêk -
+  jawi: ''
+  id: Berkawanlah dng orang yg ti- dak berbudi
+  en: ''
+- aceh: buetji - that
+  jawi: ''
+  id: Per- buatannya tidak bijaksana sekali
+  en: ''
 etymology: ''
 related_words: []
 dialect_notes: ''
-source: Kamus Aceh-Indonesia (Acehnese-Indonesian Dictionary), p. 207
+source: 'Kamus Aceh-Indonesia (extracted from pp.124-270 of the source edition, Acehnese section entries
+  cèm-unyèn through gutie/H). File: markdown.md supplied by the user. — p.207'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate reviewer.
+extraction_notes: Indonesian example translations are taken verbatim from the source. English meanings
+  and Jawi transliterations are AI-flagged as unverified and need human review. Jawi transliteration is
+  AI-generated, not from source — needs verification by a Jawi-literate reviewer.

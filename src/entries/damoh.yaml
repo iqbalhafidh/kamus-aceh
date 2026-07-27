@@ -1,40 +1,31 @@
 headword: damoh
-jawi: داموه
+jawi: ''
 alt_spelling: []
 ipa: ''
 part_of_speech: a
 definitions:
 - meaning_id: (dl hik)
   meaning_en: ''
-  examples:
-  - aceh: thôn nyoe
-    jawi: ''
-    id: –
-    en: ), sj white lice that attach to cloth
-  - aceh: that boh kayèe
-    jawi: ''
-    id: Tahun ini banyak sekali buah-buahan
-    en: ''
-  - aceh: rakyat
-    jawi: ''
-    id: –
-    en: ), sj white lice that attach to cloth
-  - aceh: bukon bubarang
-    jawi: ''
-    id: Banyaknya rakyat tidak terkira
-    en: bracelet shaped like squares
-  - aceh: makén
-    jawi: ''
-    id: –
-    en: ), sj white lice that attach to cloth
-  - aceh: jiteuka sôsah
-    jawi: ''
-    id: semakin banyak datang kesusahan
-    en: the more suffering comes
+examples:
+- aceh: thôn nyoe – that boh kayèe
+  jawi: ''
+  id: Tahun ini banyak sekali buah-buahan
+  en: ''
+- aceh: rakyat – bukon bubarang
+  jawi: ''
+  id: Banyaknya rakyat tidak terkira
+  en: ''
+- aceh: makén – jiteuka sôsah
+  jawi: ''
+  id: semakin banyak datang kesusahan
+  en: ''
 etymology: ''
 related_words: []
 dialect_notes: ''
-source: Kamus Aceh-Indonesia (Acehnese-Indonesian Dictionary), p. 157
+source: 'Kamus Aceh-Indonesia (extracted from pp.124-270 of the source edition, Acehnese section entries
+  cèm-unyèn through gutie/H). File: markdown.md supplied by the user. — p.157'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate reviewer. Some fields (English translations, Jawi) may be incomplete due to API rate limits during processing. Re-run the translation script to fill in missing fields.
+extraction_notes: Indonesian example translations are taken verbatim from the source. English meanings
+  and Jawi transliterations are AI-flagged as unverified and need human review. Jawi transliteration is
+  AI-generated, not from source — needs verification by a Jawi-literate reviewer.

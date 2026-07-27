@@ -1,18 +1,58 @@
 headword: con
-jawi: چون
+jawi: ''
 alt_spelling:
 - cong
 ipa: ''
 part_of_speech: n
 definitions:
-- meaning_id: keturunan garis kelima
+- meaning_id: keturunan garis kelima, suram, murung, masam, tidak ramah, marah
   meaning_en: ''
-  examples: []
+examples:
+- aceh: aneuk nyan lam - sabé takalon rupa
+  jawi: ''
+  id: kita melihat anak itu selalu bermuka masam
+  en: ''
+- aceh: peu -, membuat cōn
+  jawi: ''
+  id: ''
+  en: ''
+- aceh: 'jipeu - muka ''oh tajak u rumohjih, ia memperlihatkan muka yg masam jika kita pergi ke rumahnya,
+    euncōng p bagian yg terletak di atas sekali, di atas, dr atas: di - peutoe dong'
+  jawi: ''
+  id: di atas lemari
+  en: ''
+- aceh: di - guda
+  jawi: ''
+  id: dr atas kuda
+  en: ''
+- aceh: ék - bak kayee
+  jawi: ''
+  id: memanjat pohon
+  en: ''
+- aceh: rōt - bak kayèe
+  jawi: ''
+  id: jatuh dr pohon
+  en: ''
 etymology: ''
 related_words:
-- cucō
+- cucō cōn a muram
+- suram
+- murung
+- masam
+- tidak ramah
+- 'marah: *aneuk nyan lam* — *sabé takalon rupa*'
+- kita melihat anak itu selalu bermuka masam. *peu* —
+- membuat *cōn*
+- cui cōn-bruen → cōn cōng
+- euncōng p bagian yg terletak di atas sekali
+- di atas
+- 'dr atas: *di* — *peutoe dong*'
+- di atas lemari
 dialect_notes: ''
-source: Kamus Aceh-Indonesia (Acehnese-Indonesian Dictionary), p. 139
+source: 'Kamus Aceh-Indonesia (extracted from pp.124-270 of the source edition, Acehnese section entries
+  cèm-unyèn through gutie/H). File: markdown.md supplied by the user. — p.139'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: 'Source lists variant spellings: cong. Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate reviewer. Some fields (English translations, Jawi) may be incomplete due to API rate limits during processing. Re-run the translation script to fill in missing fields.'
+extraction_notes: Indonesian example translations are taken verbatim from the source. English meanings
+  and Jawi transliterations are AI-flagged as unverified and need human review. Jawi transliteration is
+  AI-generated, not from source — needs verification by a Jawi-literate reviewer.

@@ -5,17 +5,20 @@ ipa: ''
 part_of_speech: sj
 definitions:
 - meaning_id: ukuran berat utk menimbang candu = 10 mata = 1/10 tahé *
-  meaning_en: unit of weight for weighing opium = 10 mata = 1/10 tahé *
-  examples:
-  - aceh: ciah
-    jawi: ''
-    id: '*'
-    en: '*'
+  meaning_en: ''
+examples:
+- aceh: ciah*
+  jawi: ''
+  id: ''
+  en: ''
 etymology: ''
 related_words:
 - siah
 dialect_notes: ''
-source: Kamus Aceh-Indonesia (Acehnese-Indonesian Dictionary), p. 134
+source: 'Kamus Aceh-Indonesia (extracted from pp.124-270 of the source edition, Acehnese section entries
+  cèm-unyèn through gutie/H). File: markdown.md supplied by the user. — p.134'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate reviewer. Headword was originally parsed as '2' (entry number); corrected to 'ci' from POS field. Jawi field cleared — original AI-generated Jawi was for the numeric entry number, not the actual headword. Needs regeneration. Some fields (English translations, Jawi) may be incomplete due to API rate limits during processing. Re-run the translation script to fill in missing fields.
+extraction_notes: Homonym 2 of the headword 'ci'. Indonesian example translations are taken verbatim from
+  the source. English meanings and Jawi transliterations are AI-flagged as unverified and need human review.
+  Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate reviewer.

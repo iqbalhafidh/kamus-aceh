@@ -1,80 +1,63 @@
 headword: eungkôt
-jawi: اڠڪوټ
+jawi: ''
 alt_spelling: []
 ipa: ''
 part_of_speech: n
 definitions:
-- meaning_id: 'ikan: —'
+- meaning_id: ikan
   meaning_en: ''
-  examples:
-  - aceh: laôt
-    jawi: ''
-    id: —
-    en: ''
-  - aceh: pasi
-    jawi: ''
-    id: ikan laut
-    en: saltwater fish
-  - aceh: krueng
-    jawi: ''
-    id: ikan sungai, ikan air tawar
-    en: ''
-  - aceh: darat
-    jawi: ''
-    id: —
-    en: ''
-  - aceh: paya
-    jawi: ''
-    id: ikan yg hidup di rawa-rawa dan sawah
-    en: ''
-- meaning_id: → *
-  meaning_en: → *
-  examples:
-  - aceh: darat
-    jawi: ''
-    id: '*'
-    en: '*'
-  - aceh: thô
-    jawi: ''
-    id: ikan kering
-    en: dried fish
-  - aceh: boh
-    jawi: ''
-    id: telur ikan
-    en: fish egg
-  - aceh: meung ka lheueh raya
-    jawi: ''
-    id: (pb) jika ikan terlepas dr pancing biasanya disebut besar = kebiasaan seseorang utk membesar-besarkan sesuatu yg telah hilang atau yg tidak dapat dimilikinya
-    en: (pb) if a fish escapes from the hook it is said to be big = a person's habit of exaggerating something that has been lost or that cannot be possessed
-  - aceh: meung
-    jawi: ''
-    id: ''
-    en: ''
-  - aceh: ka na ie na
-    jawi: ''
-    id: Jika ada air tentu ada ikan
-    en: Where there's water, there are fish
-  - aceh: meung ka na darat meuhat na laôt
-    jawi: ''
-    id: Jika ada darat pasti ada laut. → *
-    en: ''
-  - aceh: asap
-    jawi: ''
-    id: '*'
-    en: '*'
-  - aceh: meu
-    jawi: ''
-    id: ada ikan
-    en: ''
-  - aceh: meu
-    jawi: ''
-    id: sj permainan anak-anak
-    en: ''
+examples:
+- aceh: laôt, - pasi
+  jawi: ''
+  id: ikan laut
+  en: ''
+- aceh: '- krueng'
+  jawi: ''
+  id: ikan sungai, ikan air tawar
+  en: ''
+- aceh: '- darat, - paya'
+  jawi: ''
+  id: ikan yg hidup di rawa-rawa dan sawah;
+  en: ''
+- aceh: '- thô'
+  jawi: ''
+  id: ikan kering
+  en: ''
+- aceh: boh -
+  jawi: ''
+  id: telur ikan
+  en: ''
+- aceh: '- meung ka lheueh raya'
+  jawi: ''
+  id: (pb) jika ikan terlepas dr pancing biasanya disebut besar = kebiasaan seseorang utk membesar-besarkan
+    sesuatu yg telah hilang atau yg tidak dapat dimilikinya
+  en: ''
+- aceh: meung ka na ie na -
+  jawi: ''
+  id: Jika ada air tentu ada ikan
+  en: ''
+- aceh: meung ka na darat meuhat na laôt
+  jawi: ''
+  id: Jika ada darat pasti ada laut
+  en: ''
+- aceh: meu -
+  jawi: ''
+  id: ada ikan
+  en: ''
+- aceh: meu -
+  jawi: ''
+  id: sj permainan anak-anak
+  en: ''
 etymology: ''
 related_words:
+- darat
+- asap
 - ikan
 dialect_notes: ''
-source: Kamus Aceh-Indonesia (Acehnese-Indonesian Dictionary), p. 200
+source: 'Kamus Aceh-Indonesia (extracted from pp.124-270 of the source edition, Acehnese section entries
+  cèm-unyèn through gutie/H). File: markdown.md supplied by the user. — p.200'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: Some fields (English translations, Jawi) may be incomplete due to API rate limits during processing. Re-run the translation script to fill in missing fields. Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate reviewer.
+extraction_notes: Indonesian example translations are taken verbatim from the source. English meanings
+  and Jawi transliterations are AI-flagged as unverified and need human review. Jawi transliteration is
+  AI-generated, not from source — needs verification by a Jawi-literate reviewer.

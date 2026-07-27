@@ -1,52 +1,55 @@
 headword: grueb
-jawi: ݢرويب
+jawi: ''
 alt_spelling: []
 ipa: ''
 part_of_speech: v
 definitions:
 - meaning_id: memijit dng sebelah atau dua belah tangan, menekan sambil melilit (tt ular), memeluk kuat-kuat
-  meaning_en: pressing with one or both hands, pressing while winding (about a snake), hugging tightly
-  examples:
-  - aceh: Ji – boh mangoita
-    jawi: ''
-    id: Ia memijit buah manggis dng belah tangan
-    en: He squeezes the mangosteen with his hand
-  - aceh: ta – gleueng nyeo, guruek that
-    jawi: ''
-    id: Tekankan gelang ini, ia longgar sekali (di tangan saya)
-    en: ''
-  - aceh: lôn kalon uleue baroe ji – kamèng
-    jawi: ''
-    id: Kemaren saya melihat ular melilit seekor kambing
-    en: ''
-  - aceh: bèk ta – lôn bak keuieng
-    jawi: ''
-    id: Jangan engkau memeluk kuat-kuat pinggang saya
-    en: Don't hug my waist tightly
-  - aceh: geutanyoe dum bumeupakat, mangat ta – si cilaka jéh
-    jawi: ''
-    id: Marilah kita bersepakat utk membinasakan si bedebah itu
-    en: ''
-  - aceh: meu –
-    jawi: ''
-    id: dijepit
-    en: why are you left behind by other people?
-  - aceh: peu –
-    jawi: ''
-    id: menyuruh jepit dng sebelah atau dua belah tangan
-    en: ''
-  - aceh: geumeurueb
-    jawi: ''
-    id: melakukan perbuatan memijit
-    en: to perform the act of pinching
-  - aceh: geumeurueb, neugrueb
-    jawi: ''
-    id: cara atau hasil memijit
-    en: ''
+  meaning_en: ''
+examples:
+- aceh: Ji – boh mangoita
+  jawi: ''
+  id: Ia memijit buah manggis dng belah tangan
+  en: ''
+- aceh: ta – gleueng nyeo, guruek that
+  jawi: ''
+  id: Tekankan gelang ini, ia longgar sekali (di tangan saya)
+  en: ''
+- aceh: lôn kalon uleue baroe ji – kamèng
+  jawi: ''
+  id: Kemaren saya melihat ular melilit seekor kambing
+  en: ''
+- aceh: bèk ta – lôn bak keuieng
+  jawi: ''
+  id: Jangan engkau memeluk kuat-kuat pinggang saya
+  en: ''
+- aceh: geutanyoe dum bumeupakat, mangat ta – si cilaka jéh
+  jawi: ''
+  id: Marilah kita bersepakat utk membinasakan si bedebah itu
+  en: ''
+- aceh: meu –
+  jawi: ''
+  id: dijepit
+  en: ''
+- aceh: peu –
+  jawi: ''
+  id: menyuruh jepit dng sebelah atau dua belah tangan
+  en: ''
+- aceh: geumeurueb
+  jawi: ''
+  id: melakukan perbuatan memijit
+  en: ''
+- aceh: geumeurueb, neugrueb
+  jawi: ''
+  id: cara atau hasil memijit
+  en: ''
 etymology: ''
 related_words: []
 dialect_notes: ''
-source: Kamus Aceh-Indonesia (Acehnese-Indonesian Dictionary), p. 257
+source: 'Kamus Aceh-Indonesia (extracted from pp.124-270 of the source edition, Acehnese section entries
+  cèm-unyèn through gutie/H). File: markdown.md supplied by the user. — p.257'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate reviewer.
+extraction_notes: Indonesian example translations are taken verbatim from the source. English meanings
+  and Jawi transliterations are AI-flagged as unverified and need human review. Jawi transliteration is
+  AI-generated, not from source — needs verification by a Jawi-literate reviewer.

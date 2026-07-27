@@ -1,34 +1,41 @@
 headword: gritan
-jawi: ݢريتن
+jawi: ''
 alt_spelling:
 - geuritan
 ipa: ''
 part_of_speech: n
 definitions:
-- meaning_id: 'kereta: — apui, kereta api'
+- meaning_id: kereta
   meaning_en: ''
-  examples:
-  - aceh: ateueng
-    jawi: ''
-    id: jalan kereta api
-    en: railway
-  - aceh: — guda, — keubeue
-    jawi: ''
-    id: leumo, kereta kuda, kereta kerbau, kereta sapi
-    en: ''
-  - aceh: ''
-    jawi: ''
-    id: angen, kereta angin, sepeda
-    en: ''
-  - aceh: meu
-    jawi: ''
-    id: memiliki kereta, mengendarai kereta
-    en: has a car, drives a car
+examples:
+- aceh: '- apui'
+  jawi: ''
+  id: kereta api
+  en: ''
+- aceh: ateueng -
+  jawi: ''
+  id: jalan kereta api
+  en: ''
+- aceh: '- guda, - keubeue, - leumo'
+  jawi: ''
+  id: kereta kuda, kereta kerbau, kereta sapi
+  en: ''
+- aceh: '- angen'
+  jawi: ''
+  id: kereta angin, sepeda
+  en: ''
+- aceh: meu -
+  jawi: ''
+  id: memiliki kereta, mengendarai kereta
+  en: ''
 etymology: ''
 related_words:
 - grubak
 dialect_notes: ''
-source: Kamus Aceh-Indonesia (Acehnese-Indonesian Dictionary), p. 255
+source: 'Kamus Aceh-Indonesia (extracted from pp.124-270 of the source edition, Acehnese section entries
+  cèm-unyèn through gutie/H). File: markdown.md supplied by the user. — p.255'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: 'Source lists variant spellings: geuritan. Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate reviewer. Some fields (English translations, Jawi) may be incomplete due to API rate limits during processing. Re-run the translation script to fill in missing fields.'
+extraction_notes: Indonesian example translations are taken verbatim from the source. English meanings
+  and Jawi transliterations are AI-flagged as unverified and need human review. Jawi transliteration is
+  AI-generated, not from source — needs verification by a Jawi-literate reviewer.

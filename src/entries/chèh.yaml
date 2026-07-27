@@ -1,25 +1,30 @@
 headword: chèh
-jawi: چيه
+jawi: ''
 alt_spelling: []
 ipa: ''
 part_of_speech: ''
-definitions:
-- meaning_id: ''
-  meaning_en: ''
-  examples:
-  - aceh: cèh Ar n
-    jawi: ''
-    id: syeikh, pemimpin, kepala, ketua (ump persatuan para tasawuf, kelompok pemain sadati, jemaah haji)
-    en: sheikh, leader, head, chairman (of a Sufi group, Sadati players group, Hajj congregation)
-  - aceh: hana soe keu
-    jawi: ''
-    id: tidak ada seorang pun yg menjadi pemimpin
-    en: no one becomes a leader
+definitions: []
+examples:
+- aceh: 'cèh Ar n syeikh, pemimpin, kepala, ketua (ump persatuan para tasawuf, kelompok pemain sadati,
+    jemaah haji): hana soe keu -'
+  jawi: ''
+  id: tidak ada seorang pun yg menjadi pemimpin
+  en: ''
+- aceh: 'cèn v menyukai, mencintai, terpaut pd, sangat rindu akan sesuatu, sayang akan: legèe lòn - keu
+    jih, meunan cit lòn - keu gata, Sebagaimana saya mencintainya, demikian pula saya mencintai Anda:
+    sore nyang h''an - keu areuta? siapa yg tidak sayang thp hartanya? meu -'
+  jawi: ''
+  id: berkeinginan
+  en: ''
 etymology: ''
 related_words:
 - siah
 dialect_notes: ''
-source: Kamus Aceh-Indonesia (Acehnese-Indonesian Dictionary), p. 132
+source: 'Kamus Aceh-Indonesia (extracted from pp.124-270 of the source edition, Acehnese section entries
+  cèm-unyèn through gutie/H). File: markdown.md supplied by the user. — p.132'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: Part of speech not specified in source. Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate reviewer. Some fields (English translations, Jawi) may be incomplete due to API rate limits during processing. Re-run the translation script to fill in missing fields.
+extraction_notes: Part of speech not explicitly marked in source. Definition may be embedded in examples
+  or incomplete in source. Indonesian example translations are taken verbatim from the source. English
+  meanings and Jawi transliterations are AI-flagged as unverified and need human review. Jawi transliteration
+  is AI-generated, not from source — needs verification by a Jawi-literate reviewer.

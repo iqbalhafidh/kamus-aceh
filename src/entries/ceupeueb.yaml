@@ -1,34 +1,40 @@
 headword: ceupeueb
-jawi: چڤيوڤ
+jawi: ''
 alt_spelling: []
 ipa: ''
 part_of_speech: v
 definitions:
-- meaning_id: 'menggapai, menyambar, mencekau, memegang, menangkap: bak buya — keuh, semoga engkau disambar buaya'
+- meaning_id: menggapai, menyambar, mencekau, memegang, menangkap
   meaning_en: ''
-  examples:
-  - aceh: lôn le that buet hana lôn tubo
-    jawi: ''
-    id: pekerjaan saya banyak sekali, saya tak tahu mana yg akan saya kerjakan
-    en: my work is a lot, I don't know which one I will do
-  - aceh: meu
-    jawi: ''
-    id: tersambar, disambar
-    en: ''
-  - aceh: peu —, menyuruh
-    jawi: ''
-    id: mengharapkan disambar
-    en: ''
-- meaning_id: ceumeupeueb, melakukan ceupeueb
-  meaning_en: ceumeupeueb, doing ceupeueb
-  examples: []
-- meaning_id: Bd ceume-eb
-  meaning_en: Bd ceume-eb
-  examples: []
+examples:
+- aceh: bak buya - keuh
+  jawi: ''
+  id: semoga engkau disambar buaya
+  en: ''
+- aceh: lôn le that buet hana lôn tubo -
+  jawi: ''
+  id: pekerjaan saya banyak sekali, saya tak tahu mana yg akan saya kerjakan
+  en: ''
+- aceh: meu -
+  jawi: ''
+  id: tersambar, disambar
+  en: ''
+- aceh: peu -
+  jawi: ''
+  id: menyuruh —, mengharapkan disambar
+  en: ''
+- aceh: ceumeupeueb
+  jawi: ''
+  id: melakukan ceupeueb
+  en: ''
 etymology: ''
-related_words: []
+related_words:
+- ceume-eb
 dialect_notes: ''
-source: Kamus Aceh-Indonesia (Acehnese-Indonesian Dictionary), p. 129
+source: 'Kamus Aceh-Indonesia (extracted from pp.124-270 of the source edition, Acehnese section entries
+  cèm-unyèn through gutie/H). File: markdown.md supplied by the user. — p.129'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate reviewer. Some fields (English translations, Jawi) may be incomplete due to API rate limits during processing. Re-run the translation script to fill in missing fields.
+extraction_notes: Indonesian example translations are taken verbatim from the source. English meanings
+  and Jawi transliterations are AI-flagged as unverified and need human review. Jawi transliteration is
+  AI-generated, not from source — needs verification by a Jawi-literate reviewer.

@@ -1,72 +1,62 @@
 headword: gadè
-jawi: ڬاده
+jawi: ''
 alt_spelling: []
 ipa: ''
 part_of_speech: v
 definitions:
 - meaning_id: meminta-minta, mengharapkan
   meaning_en: ''
-  examples:
-  - aceh: ta
-    jawi: ''
-    id: ''
-    en: ''
-  - aceh: baranggapat, kon meuteumèe meung breueh sikai
-    jawi: ''
-    id: Cobalah Anda meminta-minta dimana saja, Anda tentu akan memperoleh beras *
-    en: ''
-  - aceh: sekai
-    jawi: ''
-    id: '*'
-    en: '*'
-  - aceh: langkah
-    jawi: ''
-    id: mengharapkan kedatangan, bermohon spy mau datang
-    en: ''
-  - aceh: lôn
-    jawi: ''
-    id: ''
-    en: ''
-  - aceh: langkah droeneu keudèh u gampong lôn bak uroe Seu-nanyan
-    jawi: ''
-    id: Saya mohon kedatangan Anda ke kampung saya pd hari Senin
-    en: I request your presence to my village on Monday
-  - aceh: laman
-    jawi: ''
-    id: ''
-    en: ''
-  - aceh: langkah Tuanku neujak saweue ayah
-    jawi: ''
-    id: Patik mengharapkan kedatangan Tuanku utk menjenguk ayah
-    en: ''
-  - aceh: peu
-    jawi: ''
-    id: menyuruh minta-minta, menyuruh bawa
-    en: ''
-  - aceh: —
-    jawi: ''
-    id: tujòh boh rumoh*, Jika engkau sembuh, anakku, kelak akan kubawa kau pd tujuh buah rumah
-    en: ''
-  - aceh: geumadè
-    jawi: ''
-    id: sedang meminta-minta
-    en: begging
-  - aceh: ureueng geumade
-    jawi: ''
-    id: meminta-minta
-    en: begging
-  - aceh: carat geumadè na lhèe peukara, sampòreuna ngon peuet; peutama tungkat, keudua keunandoe, keulhèe geuleueng jaroe, sampòreuna deungon du'a
-    jawi: ''
-    id: 'Syarat orang meminta tiga perkara, yg sempurna empat: pertama, adanya tongkat, kedua, adanya kampil, ketiga menadahkan tangan, (yg tiga ini baru) sempurna dgn pembacaan doa (pb)'
-    en: 'Requirements for requesting three things, which are perfect with four: first, having a stick, second, having a kampil, third raising hands, (these three are) perfect with the recitation of a prayer (pb)'
-  - aceh: geumadè
-    jawi: ''
-    id: hal meminta-minta hasil dr minta-minta
-    en: the result of asking
+- meaning_id: '*carat geumadè na lhèe peukara, sampòreuna ngon peuet'
+  meaning_en: ''
+- meaning_id: 'peutama tungkat, keudua keunandoe, keulhèe geuleueng jaroe, sampòreuna deungon du''a*,
+    Syarat orang meminta tiga perkara, yg sempurna empat: pertama, adanya tongkat, kedua, adanya kampil,
+    ketiga menadahkan tangan, (yg tiga ini baru) sempurna dgn pembacaan doa (pb)'
+  meaning_en: ''
+examples:
+- aceh: ta - baranggapat, kon meuteumèe meung breueh sikai, Cobalah Anda meminta-minta dimana saja, Anda
+    tentu akan memperoleh beras *sekai*
+  jawi: ''
+  id: ''
+  en: ''
+- aceh: '- langkah'
+  jawi: ''
+  id: mengharapkan kedatangan, bermohon spy mau datang
+  en: ''
+- aceh: lôn - langkah droeneu keudèh u gampong lôn bak uroe Seu-nanyan
+  jawi: ''
+  id: Saya mohon kedatangan Anda ke kampung saya pd hari Senin
+  en: ''
+- aceh: laman - langkah Tuanku neujak saweue ayah
+  jawi: ''
+  id: Patik mengharapkan kedatangan Tuanku utk menjenguk ayah
+  en: ''
+- aceh: peu -
+  jawi: ''
+  id: menyuruh minta-minta, menyuruh bawa
+  en: ''
+- aceh: meung pulèhkeu, aneuk, kujak peu - tujòh boh rumoh
+  jawi: ''
+  id: Jika engkau sembuh, anakku, kelak akan kubawa kau pd tujuh buah rumah
+  en: ''
+- aceh: geumadè
+  jawi: ''
+  id: sedang meminta-minta
+  en: ''
+- aceh: ureueng geumade
+  jawi: ''
+  id: meminta-minta
+  en: ''
+- aceh: geumadè
+  jawi: ''
+  id: hal meminta-minta hasil dr minta-minta
+  en: ''
 etymology: ''
 related_words: []
 dialect_notes: ''
-source: Kamus Aceh-Indonesia (Acehnese-Indonesian Dictionary), p. 205
+source: 'Kamus Aceh-Indonesia (extracted from pp.124-270 of the source edition, Acehnese section entries
+  cèm-unyèn through gutie/H). File: markdown.md supplied by the user. — p.205'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate reviewer. Some fields (English translations, Jawi) may be incomplete due to API rate limits during processing. Re-run the translation script to fill in missing fields.
+extraction_notes: Indonesian example translations are taken verbatim from the source. English meanings
+  and Jawi transliterations are AI-flagged as unverified and need human review. Jawi transliteration is
+  AI-generated, not from source — needs verification by a Jawi-literate reviewer.

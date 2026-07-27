@@ -4,33 +4,25 @@ alt_spelling: []
 ipa: ''
 part_of_speech: n
 definitions:
-- meaning_id: '*'
-  meaning_en: '*'
-  examples:
-  - aceh: daka
-    jawi: ''
-    id: ''
-    en: ''
-  - aceh: ''
-    jawi: ''
-    id: n
-    en: ''
-  - aceh: 'zakar, kemaluan laki-laki:'
-    jawi: ''
-    id: meu* —, berkemaluan
-    en: ''
-  - aceh: ka meu
-    jawi: ''
-    id: ''
-    en: ''
-  - aceh: aneuk nyan
-    jawi: ''
-    id: anak itu (yg lahirnya belum cukup bulan) sudah berkemaluan
-    en: that child (who wasn't born yet) has already had sexual intercourse
+- meaning_id: zakar, kemaluan laki-laki
+  meaning_en: ''
+examples:
+- aceh: meu -
+  jawi: ''
+  id: berkemaluan
+  en: ''
+- aceh: ka meu - aneuk nyan
+  jawi: ''
+  id: anak itu (yg lahirnya belum cukup bulan) sudah berkemaluan
+  en: ''
 etymology: ''
 related_words: []
 dialect_notes: ''
-source: Kamus Aceh-Indonesia (Acehnese-Indonesian Dictionary), p. 154
+source: 'Kamus Aceh-Indonesia (extracted from pp.124-270 of the source edition, Acehnese section entries
+  cèm-unyèn through gutie/H). File: markdown.md supplied by the user. — p.154'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: Part of speech not specified in source. Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate reviewer. Some fields (English translations, Jawi) may be incomplete due to API rate limits during processing. Re-run the translation script to fill in missing fields. Headword was originally parsed as '1' (entry number); corrected to 'daka' based on source analysis. Jawi field cleared — original AI-generated Jawi was for the numeric entry number, not the actual headword. Needs regeneration.
+extraction_notes: Homonym 1 of the headword 'daka'. Indonesian example translations are taken verbatim
+  from the source. English meanings and Jawi transliterations are AI-flagged as unverified and need human
+  review. Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate
+  reviewer.

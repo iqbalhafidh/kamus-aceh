@@ -1,46 +1,46 @@
 headword: cureueh
-jawi: چوريوه
+jawi: ''
 alt_spelling: []
 ipa: ''
 part_of_speech: ''
 definitions:
-- meaning_id: '*'
-  meaning_en: '*'
-  examples:
-  - aceh: nyureueh
-    jawi: ''
-    id: ''
-    en: ''
-  - aceh: ''
-    jawi: ''
-    id: v* menggaru, mengumpulkan dng menggunakan garu, menggores
-    en: ''
-  - aceh: brôih
-    jawi: ''
-    id: menggaru kotoran dng garu
-    en: scratching feces with a comb
-  - aceh: meu
-    jawi: ''
-    id: digaru
-    en: ''
-  - aceh: meu
-    jawi: ''
-    id: bergores-gores, coreng-moreng
-    en: ''
-  - aceh: ceumureueh
-    jawi: ''
-    id: melakukan perbuatan menggaru
-    en: ''
-  - aceh: ceumureueh
-    jawi: ''
-    id: alat utk menggaru
-    en: tool for scratching
+- meaning_id: ', *'
+  meaning_en: ''
+examples:
+- aceh: nyureueh v* menggaru
+  jawi: ''
+  id: mengumpulkan dng menggunakan garu, menggores
+  en: ''
+- aceh: '- brôih'
+  jawi: ''
+  id: menggaru kotoran dng garu
+  en: ''
+- aceh: meu -
+  jawi: ''
+  id: digaru
+  en: ''
+- aceh: meu -
+  jawi: ''
+  id: bergores-gores, coreng-moreng
+  en: ''
+- aceh: ceumureueh
+  jawi: ''
+  id: melakukan perbuatan menggaru
+  en: ''
+- aceh: ceumureueh, alat utk menggaru, *creueh*
+  jawi: ''
+  id: ''
+  en: ''
 etymology: ''
 related_words:
-- careueh
-- creueh
+- '**careueh**'
+- '**creueh**'
 dialect_notes: ''
-source: Kamus Aceh-Indonesia (Acehnese-Indonesian Dictionary), p. 149
+source: 'Kamus Aceh-Indonesia (extracted from pp.124-270 of the source edition, Acehnese section entries
+  cèm-unyèn through gutie/H). File: markdown.md supplied by the user. — p.149'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: Part of speech not specified in source. Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate reviewer. Some fields (English translations, Jawi) may be incomplete due to API rate limits during processing. Re-run the translation script to fill in missing fields.
+extraction_notes: Part of speech not explicitly marked in source. Indonesian example translations are
+  taken verbatim from the source. English meanings and Jawi transliterations are AI-flagged as unverified
+  and need human review. Jawi transliteration is AI-generated, not from source — needs verification by
+  a Jawi-literate reviewer.

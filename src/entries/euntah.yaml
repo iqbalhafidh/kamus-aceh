@@ -1,24 +1,27 @@
 headword: euntah
-jawi: اونته
+jawi: ''
 alt_spelling: []
 ipa: ''
 part_of_speech: adv
 definitions:
 - meaning_id: 'entah: — ... —, entah ... entah, barangkali'
   meaning_en: ''
-  examples:
-  - aceh: geupatêh — h'an geutanyoe marit
-    jawi: ''
-    id: Barangkali ia percaya yg kita katakan, barangkali juga tidak
-    en: Perhaps he believes what we say, perhaps not
-  - aceh: na — tan di rumoh, hana lon tupeue
-    jawi: ''
-    id: Saya tidak tahu apakah ia ada di rumah atau tidak
-    en: empty, uninhabited
+examples:
+- aceh: geupatêh - h'an geutanyoe marit
+  jawi: ''
+  id: Barangkali ia percaya yg kita katakan, barangkali juga tidak
+  en: ''
+- aceh: '- na - tan di rumoh, hana lon tupeue'
+  jawi: ''
+  id: Saya tidak tahu apakah ia ada di rumah atau tidak
+  en: ''
 etymology: ''
 related_words: []
 dialect_notes: ''
-source: Kamus Aceh-Indonesia (Acehnese-Indonesian Dictionary), p. 200
+source: 'Kamus Aceh-Indonesia (extracted from pp.124-270 of the source edition, Acehnese section entries
+  cèm-unyèn through gutie/H). File: markdown.md supplied by the user. — p.200'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: Some fields (English translations, Jawi) may be incomplete due to API rate limits during processing. Re-run the translation script to fill in missing fields. Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate reviewer.
+extraction_notes: Indonesian example translations are taken verbatim from the source. English meanings
+  and Jawi transliterations are AI-flagged as unverified and need human review. Jawi transliteration is
+  AI-generated, not from source — needs verification by a Jawi-literate reviewer.

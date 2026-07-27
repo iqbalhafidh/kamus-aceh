@@ -1,5 +1,5 @@
 headword: gada
-jawi: ݢادة
+jawi: ''
 alt_spelling:
 - rada
 ipa: ''
@@ -7,23 +7,24 @@ part_of_speech: v
 definitions:
 - meaning_id: (dl hik) memerangi
   meaning_en: ''
-  examples:
-  - aceh: meu
-    jawi: ''
-    id: berperang, bertempur
-    en: ''
-  - aceh: neukalon tantra teungoh mue
-    jawi: ''
-    id: di
-    en: in
-  - aceh: teungoh padang
-    jawi: ''
-    id: Ia melihat balatentara sedang berperang di tengah medan
-    en: He saw soldiers fighting in the middle of the field
+- meaning_id: berada di medan peperangan
+  meaning_en: ''
+examples:
+- aceh: meu -
+  jawi: ''
+  id: berperang, bertempur
+  en: ''
+- aceh: neukalon tantra teungoh mue - di teungoh padang
+  jawi: ''
+  id: Ia melihat balatentara sedang berperang di tengah medan
+  en: ''
 etymology: ''
 related_words: []
 dialect_notes: ''
-source: Kamus Aceh-Indonesia (Acehnese-Indonesian Dictionary), p. 205
+source: 'Kamus Aceh-Indonesia (extracted from pp.124-270 of the source edition, Acehnese section entries
+  cèm-unyèn through gutie/H). File: markdown.md supplied by the user. — p.205'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: 'Source lists variant spellings: rada. Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate reviewer. Some fields (English translations, Jawi) may be incomplete due to API rate limits during processing. Re-run the translation script to fill in missing fields.'
+extraction_notes: Indonesian example translations are taken verbatim from the source. English meanings
+  and Jawi transliterations are AI-flagged as unverified and need human review. Jawi transliteration is
+  AI-generated, not from source — needs verification by a Jawi-literate reviewer.

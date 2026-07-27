@@ -1,28 +1,40 @@
 headword: eumpieng
-jawi: اومڤين
+jawi: ''
 alt_spelling: []
 ipa: ''
 part_of_speech: n
 definitions:
-- meaning_id: 'emping: - breueh, emping beras'
+- meaning_id: emping
   meaning_en: ''
-  examples: []
-- meaning_id: '- mulieng, emping belinjo'
-  meaning_en: ''
-  examples: []
-- meaning_id: '- ara, lumut makanan itik'
-  meaning_en: '- ara, duckweed food for ducks'
-  examples: []
-- meaning_id: meu -, mempunyai emping
-  meaning_en: hum, something that hums
-  examples: []
-- meaning_id: meu - ara, menyerupai lumut makanan anak itik (dikatakan thd sayur lemak (gulè leumak) yg santannya tidak baik dikacau sehingga ada yg
-  meaning_en: ''
-  examples: []
+examples:
+- aceh: '- breueh'
+  jawi: ''
+  id: em- ping beras
+  en: ''
+- aceh: '- mulieng'
+  jawi: ''
+  id: emping be- linjo
+  en: ''
+- aceh: '- ara'
+  jawi: ''
+  id: lumut makanan itik
+  en: ''
+- aceh: meu -
+  jawi: ''
+  id: mempunyai emping
+  en: ''
+- aceh: meu - ara
+  jawi: ''
+  id: menyerupai lumut makan- an anak itik (dikatakan thd sayur lemak (gulè leumak) yg santannya tidak
+    baik dikacau sehingga ada yg
+  en: ''
 etymology: ''
 related_words: []
 dialect_notes: ''
-source: Kamus Aceh-Indonesia (Acehnese-Indonesian Dictionary), p. 198
+source: 'Kamus Aceh-Indonesia (extracted from pp.124-270 of the source edition, Acehnese section entries
+  cèm-unyèn through gutie/H). File: markdown.md supplied by the user. — p.198'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate reviewer.
+extraction_notes: Indonesian example translations are taken verbatim from the source. English meanings
+  and Jawi transliterations are AI-flagged as unverified and need human review. Jawi transliteration is
+  AI-generated, not from source — needs verification by a Jawi-literate reviewer.

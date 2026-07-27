@@ -1,18 +1,58 @@
 headword: ganchéb
-jawi: ڬانچيب
+jawi: ''
 alt_spelling: []
 ipa: ''
 part_of_speech: n
 definitions:
-- meaning_id: kacip pinang
-  meaning_en: betel nut cutter
-  examples: []
+- meaning_id: kacip pinang, rampagoe 1 *
+  meaning_en: ''
+- meaning_id: — keumudoe, gagang kemudi, kepala kemudi
+  meaning_en: ''
+- meaning_id: — saoh, gagang sauh
+  meaning_en: ''
+examples:
+- aceh: 'ganda a ganda, kembar ...: si -, si-go -, silipat* -'
+  jawi: ''
+  id: tambah sekali sebanyak itu, dua kali
+  en: ''
+- aceh: dua -
+  jawi: ''
+  id: dua kali lipat
+  en: ''
+- aceh: ji - jinamée
+  jawi: ''
+  id: Ia menggandakan maskawinnya
+  en: ''
+- aceh: meu - -, berganda-ganda (dl hik *meu-geuganda*)
+  jawi: ''
+  id: ''
+  en: ''
+- aceh: areuta lôn ka meu -
+  jawi: ''
+  id: Harta kekayaan saya sudah bertambah banyak
+  en: ''
+- aceh: peu -, menggandakan - go
+  jawi: ''
+  id: lipat
+  en: ''
 etymology: ''
 related_words:
-- ganhéb
-- rampagoe
+- '**ganhéb**'
+- rampagoe 1 **ganda** *a* ganda
+- 'kembar ...: *si* —'
+- '*si-go* —'
+- '*silipat* —'
+- tambah sekali sebanyak itu
+- dua kali
+- go
+- ganda-watra 2 ganda ganja 2 ganda n gagang
+- 'tangkai: — dayong'
+- gagang pengayuh
 dialect_notes: ''
-source: Kamus Aceh-Indonesia (Acehnese-Indonesian Dictionary), p. 213
+source: 'Kamus Aceh-Indonesia (extracted from pp.124-270 of the source edition, Acehnese section entries
+  cèm-unyèn through gutie/H). File: markdown.md supplied by the user. — pp.213-214'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate reviewer.
+extraction_notes: Indonesian example translations are taken verbatim from the source. English meanings
+  and Jawi transliterations are AI-flagged as unverified and need human review. Jawi transliteration is
+  AI-generated, not from source — needs verification by a Jawi-literate reviewer.

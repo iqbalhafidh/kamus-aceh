@@ -1,27 +1,26 @@
 headword: euntang
-jawi: اونتڠ
+jawi: ''
 alt_spelling: []
 ipa: ''
 part_of_speech: n
 definitions:
-- meaning_id: '1 arah, daerah, kira-kira letaknya: —'
-  meaning_en: '1 direction, area, approximately its location: —'
-  examples:
-  - aceh: toh rumoh droeneu?
-    jawi: ''
-    id: Di mana kira-kira letak rumah Anda
-    en: ''
-  - aceh: keunong beude — dada
-    jawi: ''
-    id: Ia terkena peluru kira-kira di dada
-    en: He was shot approximately in the chest
+- meaning_id: 1 arah, daerah, kira-kira letaknya
+  meaning_en: ''
 - meaning_id: 2 jika
-  meaning_en: to dirty
-  examples:
-  - aceh: nyang geungui ka gêt! nyang hana geutri-mong, pakriban?
-    jawi: ''
-    id: Jika ia dapat memakainya, sudah baik, tetapi bagaimana jika ia tidak mau menerimanya?
-    en: If he can wear it, that's fine, but what if he doesn't want to accept it?
+  meaning_en: ''
+examples:
+- aceh: toh rumoh droeneu? Di mana kira-kira letak rumah Anda
+  jawi: ''
+  id: ''
+  en: ''
+- aceh: keunong beude - dada
+  jawi: ''
+  id: Ia terkena peluru kira-kira di dada
+  en: ''
+- aceh: '- nyang geungui ka gêt! nyang hana geutri-mong, pakriban? Jika ia dapat memakainya'
+  jawi: ''
+  id: sudah baik, tetapi bagaimana jika ia tidak mau menerimanya?
+  en: ''
 etymology: ''
 related_words:
 - arah
@@ -29,7 +28,10 @@ related_words:
 - pihak
 - teutang
 dialect_notes: ''
-source: Kamus Aceh-Indonesia (Acehnese-Indonesian Dictionary), p. 200
+source: 'Kamus Aceh-Indonesia (extracted from pp.124-270 of the source edition, Acehnese section entries
+  cèm-unyèn through gutie/H). File: markdown.md supplied by the user. — p.200'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate reviewer.
+extraction_notes: Indonesian example translations are taken verbatim from the source. English meanings
+  and Jawi transliterations are AI-flagged as unverified and need human review. Jawi transliteration is
+  AI-generated, not from source — needs verification by a Jawi-literate reviewer.

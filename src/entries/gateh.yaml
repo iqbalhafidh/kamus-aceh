@@ -1,35 +1,38 @@
 headword: gateh
-jawi: غاته
+jawi: ''
 alt_spelling: []
 ipa: ''
 part_of_speech: n
 definitions:
-- meaning_id: 'kaki bhg bawah: —'
+- meaning_id: kaki bhg bawah
   meaning_en: ''
-  examples:
-  - aceh: keue
-    jawi: ''
-    id: kaki bhg bawah depan
-    en: front lower leg
-  - aceh: likôt
-    jawi: ''
-    id: kaki bhg bawah belakang
-    en: lower back leg
-  - aceh: kamèng
-    jawi: ''
-    id: bhg bawah kaki kambing
-    en: meu - (teu-), to be scooped
-  - aceh: leumo
-    jawi: ''
-    id: bhg bawah kaki sapi
-    en: ''
+examples:
+- aceh: keue
+  jawi: ''
+  id: kaki bhg bawah depan
+  en: ''
+- aceh: '- likôt'
+  jawi: ''
+  id: kaki bhg bawah belakang
+  en: ''
+- aceh: '- kamèng'
+  jawi: ''
+  id: bhg bawah kaki kambing
+  en: ''
+- aceh: '- leumo'
+  jawi: ''
+  id: bhg bawah kaki sapi
+  en: ''
 etymology: ''
 related_words:
 - beutêh
 - kukuet
 - thu
 dialect_notes: ''
-source: Kamus Aceh-Indonesia (Acehnese-Indonesian Dictionary), p. 220
+source: 'Kamus Aceh-Indonesia (extracted from pp.124-270 of the source edition, Acehnese section entries
+  cèm-unyèn through gutie/H). File: markdown.md supplied by the user. — p.220'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate reviewer. Some fields (English translations, Jawi) may be incomplete due to API rate limits during processing. Re-run the translation script to fill in missing fields.
+extraction_notes: Indonesian example translations are taken verbatim from the source. English meanings
+  and Jawi transliterations are AI-flagged as unverified and need human review. Jawi transliteration is
+  AI-generated, not from source — needs verification by a Jawi-literate reviewer.

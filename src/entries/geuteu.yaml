@@ -1,58 +1,37 @@
 headword: geuteu
-jawi: كوتيو
+jawi: ''
 alt_spelling: []
 ipa: ''
 part_of_speech: n
 definitions:
 - meaning_id: tumbuhan yg berduri besar pd pangkal, batang, dan cabang-cabangnya
   meaning_en: ''
-  examples:
-  - aceh: bijêh
-    jawi: ''
-    id: biji tumbuhan *
-    en: ''
-  - aceh: geuteu
-    jawi: ''
-    id: ''
-    en: ''
-  - aceh: (utk permainan
-    jawi: ''
-    id: ''
-    en: ''
-  - aceh: catô
-    jawi: ''
-    id: '*)'
-    en: ''
-  - aceh: meu
-    jawi: ''
-    id: ''
-    en: ''
-  - aceh: meugeuteuh
-    jawi: ''
-    id: tidak rata, berlekuk-lekuk
-    en: uneven, bumpy
-  - aceh: taleueng tika bêk meu
-    jawi: ''
-    id: ''
-    en: ''
-  - aceh: taboih tanoh di barôh
-    jawi: ''
-    id: Bentangkanlah tikar dan jangan berlekuk-lekuk, buangkanlah bingkah-bingkah tanah di bawahnya
-    en: ''
-  - aceh: meugeuteu
-    jawi: ''
-    id: bermain biji tumbuhan *
-    en: ''
-  - aceh: geuteu
-    jawi: ''
-    id: '*'
-    en: '*'
+examples:
+- aceh: bijêh -, biji tumbuhan *geuteu (utk permainan catô*)
+  jawi: ''
+  id: ''
+  en: ''
+- aceh: meu -, meugeuteuh
+  jawi: ''
+  id: tidak rata, berlekuk-lekuk
+  en: ''
+- aceh: taleueng tika bêk meu -, taboih tanoh di barôh
+  jawi: ''
+  id: Bentangkanlah tikar dan jangan berlekuk-lekuk, buangkanlah bingkah-bingkah tanah di bawahnya
+  en: ''
+- aceh: meugeuteu, bermain biji tumbuhan *geuteu, rikieh*
+  jawi: ''
+  id: ''
+  en: ''
 etymology: ''
 related_words:
-- geutueh
-- rikieh
+- '**geutueh**'
+- '**rikieh**'
 dialect_notes: ''
-source: Kamus Aceh-Indonesia (Acehnese-Indonesian Dictionary), p. 238
+source: 'Kamus Aceh-Indonesia (extracted from pp.124-270 of the source edition, Acehnese section entries
+  cèm-unyèn through gutie/H). File: markdown.md supplied by the user. — p.238'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate reviewer. Some fields (English translations, Jawi) may be incomplete due to API rate limits during processing. Re-run the translation script to fill in missing fields.
+extraction_notes: Indonesian example translations are taken verbatim from the source. English meanings
+  and Jawi transliterations are AI-flagged as unverified and need human review. Jawi transliteration is
+  AI-generated, not from source — needs verification by a Jawi-literate reviewer.

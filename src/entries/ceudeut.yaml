@@ -1,23 +1,28 @@
 headword: ceudeut
-jawi: چودوت
+jawi: ''
 alt_spelling: []
 ipa: ''
 part_of_speech: a
 definitions:
-- meaning_id: 'menjulur, mencuat, mengembung, membengkak, menegang: pruet ka —, pakri jijak lom? perutnya sudah mengembung sekali, mengapa ia berjalan lagi? meu —, bercuat'
-  meaning_en: His body is short and very fat
-  examples:
-  - aceh: meu
-    jawi: ''
-    id: membuat mencuat
-    en: To make something protrude
-- meaning_id: Bd cateueng
+- meaning_id: menjulur, mencuat, mengembung, membengkak, menegang
   meaning_en: ''
-  examples: []
+examples:
+- aceh: pruet ka -
+  jawi: ''
+  id: pakri jijak lom? perutnya sudah mengembung sekali, mengapa ia berjalan lagi? meu —, bercuat
+  en: ''
+- aceh: meu -
+  jawi: ''
+  id: membuat mencuat
+  en: ''
 etymology: ''
-related_words: []
+related_words:
+- cateueng
 dialect_notes: ''
-source: Kamus Aceh-Indonesia (Acehnese-Indonesian Dictionary), p. 124
+source: 'Kamus Aceh-Indonesia (extracted from pp.124-270 of the source edition, Acehnese section entries
+  cèm-unyèn through gutie/H). File: markdown.md supplied by the user. — p.124'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: Some fields (English translations, Jawi) may be incomplete due to API rate limits during processing. Re-run the translation script to fill in missing fields. Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate reviewer.
+extraction_notes: Indonesian example translations are taken verbatim from the source. English meanings
+  and Jawi transliterations are AI-flagged as unverified and need human review. Jawi transliteration is
+  AI-generated, not from source — needs verification by a Jawi-literate reviewer.

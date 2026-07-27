@@ -1,31 +1,45 @@
 headword: geunyie
-jawi: غونيي
+jawi: ''
 alt_spelling: []
 ipa: ''
 part_of_speech: v
 definitions:
-- meaning_id: 'mengelim (utk kain): ta - ija lôn siat, Kelimlah kain saya sebentar! meu - teu -, dikelimkan: ija nyan ka lheueh teu-, Kain itu sudah dikelim'
+- meaning_id: mengelim (utk kain)
   meaning_en: ''
-  examples: []
-- meaning_id: (ki) meu -, kikir, pelit
-  meaning_en: ''
-  examples: []
-- meaning_id: 'ureueng nyan meu That, biek pajôh boh manok ngon purêh, Orang itu kikir sekali, bangsa pemakan telur ayam dng lidi (dikatakan thd seseorang yg pelit sekali): berbicara dng tambahan tekanan suara sehingga bunyi a akhir menjadi e'
-  meaning_en: 'That person is very tight-fisted, the kind of person who would eat chicken eggs with toothpicks (said of someone extremely stingy): speaking with added vocal pressure so that the final ''a'' sound becomes ''e'''
-  examples: []
-- meaning_id: "awak Meuraksa geumarit meu - that, Orang-orang kampung Mpuraksa berbicara dng\n geurayong\n tambahan tekanan suara"
-  meaning_en: Meuraksa people speaking with additional vocal pressure
-  examples: []
-- meaning_id: peu- = -geumeunyie, melakukan pengeliman, mengelim
-  meaning_en: peu- = -geumeunyie, performing the elimination process, to eliminate
-  examples: []
-- meaning_id: geunyeunyie, kelim atau cara mengelim
-  meaning_en: ''
-  examples: []
+examples:
+- aceh: ta - ija lôn siat
+  jawi: ''
+  id: 'Kelimlah kain saya sebentar! meu - teu -, dikelimkan: ija nyan ka lheueh teu-, Kain itu sudah dikelim'
+  en: ''
+- aceh: (ki) meu -
+  jawi: ''
+  id: kikir, pelit
+  en: ''
+- aceh: ureueng nyan meu That
+  jawi: ''
+  id: 'biek pajôh boh manok ngon purêh, Orang itu kikir sekali, bangsa pemakan telur ayam dng lidi (dikatakan
+    thd seseorang yg pelit sekali): berbicara dng tambahan tekanan suara sehingga bunyi a akhir menjadi
+    e'
+  en: ''
+- aceh: awak Meuraksa geumarit meu - that
+  jawi: ''
+  id: Orang-orang kampung Mpuraksa berbicara dng geurayong tambahan tekanan suara
+  en: ''
+- aceh: peu- = -geumeunyie
+  jawi: ''
+  id: melakukan pengeliman, mengelim
+  en: ''
+- aceh: geunyeunyie
+  jawi: ''
+  id: kelim atau cara mengelim
+  en: ''
 etymology: ''
 related_words: []
 dialect_notes: ''
-source: Kamus Aceh-Indonesia (Acehnese-Indonesian Dictionary), p. 231
+source: 'Kamus Aceh-Indonesia (extracted from pp.124-270 of the source edition, Acehnese section entries
+  cèm-unyèn through gutie/H). File: markdown.md supplied by the user. — p.231'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate reviewer.
+extraction_notes: Indonesian example translations are taken verbatim from the source. English meanings
+  and Jawi transliterations are AI-flagged as unverified and need human review. Jawi transliteration is
+  AI-generated, not from source — needs verification by a Jawi-literate reviewer.

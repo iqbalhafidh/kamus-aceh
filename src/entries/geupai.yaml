@@ -1,34 +1,47 @@
 headword: geupai
-jawi: ڬڤاي
+jawi: ''
 alt_spelling: []
 ipa: ''
 part_of_speech: v
 definitions:
-- meaning_id: 'kepal: ji - bu, Ia mengepal nasi'
-  meaning_en: 'to clench: he clenched the rice'
-  examples: []
-- meaning_id: si-, sekepal
-  meaning_en: si-, sekepal
-  examples: []
-- meaning_id: meu-, teu-, mengepal
-  meaning_en: meu-, teu-, to hold in one's hand
-  examples: []
-- meaning_id: bu meu-, teu-, nasi kepal
+- meaning_id: kepal
   meaning_en: ''
-  examples: []
-- meaning_id: peu-, melakukan kepalan
-  meaning_en: ''
-  examples: []
-- meaning_id: soe geumeupai raya-raya that? Siapa yg mengepal besar-besar sekali? geuneupai, cara atau hasil mengepal
-  meaning_en: soe geumeupai raya-raya that? Who is holding their head up high? geuneupai, way or result of holding up
-  examples: []
-- meaning_id: raya that geuneupai, Besar-besar sekali kepalannya!
-  meaning_en: ''
-  examples: []
+examples:
+- aceh: ji - bu
+  jawi: ''
+  id: Ia mengepal nasi
+  en: ''
+- aceh: si-
+  jawi: ''
+  id: sekepal
+  en: ''
+- aceh: meu-
+  jawi: ''
+  id: teu-, mengepal
+  en: ''
+- aceh: bu meu-
+  jawi: ''
+  id: teu-, nasi kepal
+  en: ''
+- aceh: peu-
+  jawi: ''
+  id: melakukan kepalan
+  en: ''
+- aceh: soe geumeupai raya-raya that? Siapa yg mengepal besar-besar sekali? geuneupai
+  jawi: ''
+  id: cara atau hasil mengepal
+  en: ''
+- aceh: raya that geuneupai
+  jawi: ''
+  id: Besar-besar sekali kepalannya!
+  en: ''
 etymology: ''
 related_words: []
 dialect_notes: ''
-source: Kamus Aceh-Indonesia (Acehnese-Indonesian Dictionary), p. 231
+source: 'Kamus Aceh-Indonesia (extracted from pp.124-270 of the source edition, Acehnese section entries
+  cèm-unyèn through gutie/H). File: markdown.md supplied by the user. — p.231'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate reviewer.
+extraction_notes: Indonesian example translations are taken verbatim from the source. English meanings
+  and Jawi transliterations are AI-flagged as unverified and need human review. Jawi transliteration is
+  AI-generated, not from source — needs verification by a Jawi-literate reviewer.

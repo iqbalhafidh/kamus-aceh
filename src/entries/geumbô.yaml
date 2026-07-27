@@ -1,42 +1,37 @@
 headword: geumbô
-jawi: ڬعومبو
+jawi: ''
 alt_spelling: []
 ipa: ''
 part_of_speech: a
 definitions:
 - meaning_id: gembur, kendor
-  meaning_en: loose, soft
-  examples:
-  - aceh: kasô nyan
-    jawi: ''
-    id: ''
-    en: ''
-  - aceh: that
-    jawi: ''
-    id: "Kasur itu kendor\n sekali buatannya"
-    en: That mattress is saggy, very poorly made
-  - aceh: tanoh nyan
-    jawi: ''
-    id: Tanah itu gembur
-    en: That soil is loose
-  - aceh: peu
-    jawi: ''
-    id: mengemburkan
-    en: to bloom, to flourish
-  - aceh: bêk tapeu
-    jawi: ''
-    id: ''
-    en: ''
-  - aceh: eumpang nyan, taikat bak kong
-    jawi: ''
-    id: Janganlah Anda mengendorkan karung itu, ikatlah kuat-kuat
-    en: Don't loosen that sack, tie it tightly
+  meaning_en: ''
+examples:
+- aceh: kasô nyan - that
+  jawi: ''
+  id: Kasur itu kendor sekali buatannya
+  en: ''
+- aceh: tanoh nyan -
+  jawi: ''
+  id: Tanah itu gembur
+  en: ''
+- aceh: peu -
+  jawi: ''
+  id: mengemburkan
+  en: ''
+- aceh: bêk tapeu - eumpang nyan, taikat bak kong
+  jawi: ''
+  id: Janganlah Anda mengendorkan karung itu, ikatlah kuat-kuat
+  en: ''
 etymology: ''
 related_words:
 - geunjô
 - keundô
 dialect_notes: ''
-source: Kamus Aceh-Indonesia (Acehnese-Indonesian Dictionary), p. 227
+source: 'Kamus Aceh-Indonesia (extracted from pp.124-270 of the source edition, Acehnese section entries
+  cèm-unyèn through gutie/H). File: markdown.md supplied by the user. — p.227'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate reviewer. Some fields (English translations, Jawi) may be incomplete due to API rate limits during processing. Re-run the translation script to fill in missing fields.
+extraction_notes: Indonesian example translations are taken verbatim from the source. English meanings
+  and Jawi transliterations are AI-flagged as unverified and need human review. Jawi transliteration is
+  AI-generated, not from source — needs verification by a Jawi-literate reviewer.

@@ -1,122 +1,71 @@
 headword: grak-gruk
-jawi: غرك-ݢروك
+jawi: ''
 alt_spelling: []
 ipa: ''
 part_of_speech: ''
 definitions:
 - meaning_id: gerodak, gemuruh, bunyi guruh yg samar-samar
   meaning_en: ''
-  examples:
-  - aceh: pruet lôn
-    jawi: ''
-    id: Perut saya menggerodak
-    en: My stomach is rumbling
-  - aceh: jèh na kaleungo guròh di ateueh
-    jawi: ''
-    id: ''
-    en: ''
-  - aceh: malaikat teungoh hue kulèt
-    jawi: ''
-    id: Tidakkah engkau mendengar bunyi guruh di langit? malaikat sibuk menghela kulit
-    en: Don't you hear the thunder in the sky? angels are busy shedding skin
-  - aceh: →
-    jawi: ''
-    id: '*'
-    en: '*'
-  - aceh: gruk
-    jawi: ''
-    id: "*\n 1*"
-    en: ''
-  - aceh: gr'am
-    jawi: ''
-    id: ''
-    en: ''
-  - aceh: ''
-    jawi: ''
-    id: a
-    en: ''
-  - aceh: 'murka, sakit hati : —'
-    jawi: ''
-    id: that atè lôn
-    en: ''
-  - aceh: ''
-    jawi: ''
-    id: adak kuteumèe kucèb-cèbji*, Sakit sekali hatiku, jika kudapat akan ku-kerumit
-    en: My heart is very painful, if I get entangled
-  - aceh: meu
-    jawi: ''
-    id: (—), merasa sakit hati
-    en: (—), to feel hurt/offended
-  - aceh: bak atè lôn that meu
-    jawi: ''
-    id: ''
-    en: ''
-  - aceh: na dum asam lawan ngon sira
-    jawi: ''
-    id: dl hati saya terasa sakit sekali spt asam yg dibubuhi garam
-    en: in my heart I feel very sick like salted acid
-  - aceh: →
-    jawi: ''
-    id: '*'
-    en: '*'
-  - aceh: g'am
-    jawi: ''
-    id: "*\n 2*"
-    en: '*'
-  - aceh: gr'am
-    jawi: ''
-    id: '* bunyi air yg diucrahkan dl jumlah yg besar, bunyi letusan yg serempatk'
-    en: ''
-  - aceh: meu
-    jawi: ''
-    id: (—), memperdengarkan bunyi *
-    en: ''
-  - aceh: gr'am
-    jawi: ''
-    id: '*'
-    en: '*'
-  - aceh: jiplè ie meu
-    jawi: ''
-    id: Ia mencurahkan air sehingga terdengar bunyi menderam
-    en: ''
-  - aceh: di sinoe meu
-    jawi: ''
-    id: ''
-    en: ''
-  - aceh: di sidèh meugr'um
-    jawi: ''
-    id: ''
-    en: ''
-  - aceh: taleungo t'um meuhayak dônya
-    jawi: ''
-    id: Di sini terdengar berderam, di sana terdengar berderum, dan letusan senapan seolah-olah menggoncangkan dunia
-    en: ''
-  - aceh: ie
-    jawi: ''
-    id: ''
-    en: ''
-  - aceh: mata rô meu
-    jawi: ''
-    id: —, Air matanya jatuh spt dicurahkan
-    en: —, His tears fell as if poured out
-  - aceh: peu
-    jawi: ''
-    id: menyuruh curahkan
-    en: to wash feet
-  - aceh: bêk tapeu
-    jawi: ''
-    id: ''
-    en: ''
-  - aceh: ie u yub
-    jawi: ''
-    id: Jangan engkau curahkan air ke bawah
-    en: Don't pour water downward
+examples:
+- aceh: pruet lôn -
+  jawi: ''
+  id: Perut saya menggerodak
+  en: ''
+- aceh: 'jèh na kaleungo guròh di ateueh -, malaikat teungoh hue kulèt, Tidakkah engkau mendengar bunyi
+    guruh di langit? malaikat sibuk menghela kulit , sakit hati : - that atè lôn, adak kuteumèe kucèb-cèbji*'
+  jawi: ''
+  id: Sakit sekali hatiku, jika kudapat akan ku-kerumit
+  en: ''
+- aceh: meu - (-)
+  jawi: ''
+  id: merasa sakit hati
+  en: ''
+- aceh: bak atè lôn that meu -, na dum asam lawan ngon sira
+  jawi: ''
+  id: dl hati saya terasa sakit sekali spt asam yg dibubuhi garam *, bunyi letusan yg serempatk
+  en: ''
+- aceh: meu - (-), memperdengarkan bunyi *gr'am*
+  jawi: ''
+  id: ''
+  en: ''
+- aceh: jiplè ie meu -
+  jawi: ''
+  id: Ia mencurahkan air sehingga terdengar bunyi menderam
+  en: ''
+- aceh: di sinoe meu -, di sidèh meugr'um, taleungo t'um meuhayak dônya
+  jawi: ''
+  id: Di sini terdengar berderam, di sana terdengar berderum, dan letusan senapan seolah-olah menggoncangkan
+    dunia
+  en: ''
+- aceh: ie mata rô meu - -
+  jawi: ''
+  id: Air matanya jatuh spt dicurahkan
+  en: ''
+- aceh: peu -
+  jawi: ''
+  id: menyuruh curahkan
+  en: ''
+- aceh: bêk tapeu - ie u yub
+  jawi: ''
+  id: Jangan engkau curahkan air ke bawah
+  en: ''
 etymology: ''
 related_words:
+- '* **gruk** 1**gr''am** *a* murka'
+- 'sakit hati : — *that atè lôn*'
+- '*adak kuteumèe kucèb-cèbji*'
+- Sakit sekali hatiku
+- jika kudapat akan ku-kerumit
+- '* **g''am** 2**gr''am** bunyi air yg diucrahkan dl jumlah yg besar'
+- bunyi letusan yg serempatk
 - gr'am-gr'um
 - gr'um
 dialect_notes: ''
-source: Kamus Aceh-Indonesia (Acehnese-Indonesian Dictionary), pp. 253, 254
+source: 'Kamus Aceh-Indonesia (extracted from pp.124-270 of the source edition, Acehnese section entries
+  cèm-unyèn through gutie/H). File: markdown.md supplied by the user. — pp.253-254'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: Part of speech not specified in source. Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate reviewer. Some fields (English translations, Jawi) may be incomplete due to API rate limits during processing. Re-run the translation script to fill in missing fields.
+extraction_notes: Part of speech not explicitly marked in source. Indonesian example translations are
+  taken verbatim from the source. English meanings and Jawi transliterations are AI-flagged as unverified
+  and need human review. Jawi transliteration is AI-generated, not from source — needs verification by
+  a Jawi-literate reviewer.

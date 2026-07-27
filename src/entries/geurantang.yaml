@@ -1,37 +1,33 @@
 headword: geurantang
-jawi: ڬورنتڠ
+jawi: ''
 alt_spelling: []
 ipa: ''
 part_of_speech: ''
 definitions:
-- meaning_id: geuratan, gratan
+- meaning_id: grantang ¹geuratan, gratan
   meaning_en: ''
-  examples:
-  - aceh: meu
-    jawi: ''
-    id: –, berkarat
-    en: ''
-  - aceh: beusoe nyan ka
-    jawi: ''
-    id: ''
-    en: ''
-  - aceh: meu
-    jawi: ''
-    id: –, besi itu sudah berkarat
-    en: The iron has already rusted
-  - aceh: peu
-    jawi: ''
-    id: –, membuat berkarat →
-    en: ''
-  - aceh: èk
-    jawi: ''
-    id: §2§ geuratan
-    en: §2§ scratch
+examples:
+- aceh: 'n karat (an): meu –'
+  jawi: ''
+  id: berkarat
+  en: ''
+- aceh: beusoe nyan ka meu –
+  jawi: ''
+  id: besi itu sudah berkarat
+  en: ''
+- aceh: peu –
+  jawi: ''
+  id: membuat berkarat
+  en: ''
 etymology: ''
 related_words:
-- grantang
+- '*èk* ²geuratan *n* sj balok pd rumah Aceh'
 dialect_notes: ''
-source: Kamus Aceh-Indonesia (Acehnese-Indonesian Dictionary), p. 232
+source: 'Kamus Aceh-Indonesia (extracted from pp.124-270 of the source edition, Acehnese section entries
+  cèm-unyèn through gutie/H). File: markdown.md supplied by the user. — p.232'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: Cross-reference entry pointing to 'grantang'. Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate reviewer.
+extraction_notes: Part of speech not explicitly marked in source. Indonesian example translations are
+  taken verbatim from the source. English meanings and Jawi transliterations are AI-flagged as unverified
+  and need human review. Jawi transliteration is AI-generated, not from source — needs verification by
+  a Jawi-literate reviewer.

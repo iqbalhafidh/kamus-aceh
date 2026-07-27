@@ -1,63 +1,44 @@
 headword: gawoi
-jawi: ڬاوي
+jawi: ''
 alt_spelling: []
 ipa: ''
 part_of_speech: a
 definitions:
-- meaning_id: 'kacau-balau: —'
+- meaning_id: kacau-balau
   meaning_en: ''
-  examples:
-  - aceh: mawōi
-    jawi: ''
-    id: (dl hik) kalang-kabut
-    en: ''
-  - aceh: huru-hara
-    jawi: ''
-    id: ''
-    en: ''
-  - aceh: nanggroe nyan
-    jawi: ''
-    id: ''
-    en: ''
-  - aceh: that
-    jawi: ''
-    id: Negeri itu kacau-balau sekali
-    en: ''
-  - aceh: ureueng lam kuta
-    jawi: ''
-    id: ''
-    en: ''
-  - aceh: mawōi
-    jawi: ''
-    id: ''
-    en: ''
-  - aceh: sabab musoh ka jiglēt silingka
-    jawi: ''
-    id: Orang-orang di kubu pertahanan sudah kalang-kabut sebab musuh sudah dikepung di sekelilingnya
-    en: ''
-  - aceh: meu
-    jawi: ''
-    id: menjadi kacau-balau
-    en: become chaotic
-  - aceh: padē gata ngon padē lōn ka meu
-    jawi: ''
-    id: Tanaman padi Anda telah bercampur-baur dng tanaman padi saya
-    en: ''
-  - aceh: peu
-    jawi: ''
-    id: mengacaukan
-    en: ''
-- meaning_id: Bd
-  meaning_en: title
-  examples:
-  - aceh: cawōi
-    jawi: ''
-    id: ''
-    en: ''
+examples:
+- aceh: mawōi (dl hik) kalang-kabut, huru-hara
+  jawi: ''
+  id: ''
+  en: ''
+- aceh: nanggroe nyan - that
+  jawi: ''
+  id: Negeri itu kacau-balau sekali
+  en: ''
+- aceh: ureueng lam kuta - mawōi, sabab musoh ka jiglēt silingka
+  jawi: ''
+  id: Orang-orang di kubu pertahanan sudah kalang-kabut sebab musuh sudah dikepung di sekelilingnya
+  en: ''
+- aceh: meu -
+  jawi: ''
+  id: menjadi kacau-balau
+  en: ''
+- aceh: padē gata ngon padē lōn ka meu -
+  jawi: ''
+  id: Tanaman padi Anda telah bercampur-baur dng tanaman padi saya
+  en: ''
+- aceh: peu -
+  jawi: ''
+  id: mengacaukan
+  en: ''
 etymology: ''
-related_words: []
+related_words:
+- cawōi
 dialect_notes: ''
-source: Kamus Aceh-Indonesia (Acehnese-Indonesian Dictionary), p. 222
+source: 'Kamus Aceh-Indonesia (extracted from pp.124-270 of the source edition, Acehnese section entries
+  cèm-unyèn through gutie/H). File: markdown.md supplied by the user. — p.222'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate reviewer. Some fields (English translations, Jawi) may be incomplete due to API rate limits during processing. Re-run the translation script to fill in missing fields.
+extraction_notes: Indonesian example translations are taken verbatim from the source. English meanings
+  and Jawi transliterations are AI-flagged as unverified and need human review. Jawi transliteration is
+  AI-generated, not from source — needs verification by a Jawi-literate reviewer.

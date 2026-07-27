@@ -1,14 +1,87 @@
 headword: geurêb
-jawi: غرب
+jawi: ''
 alt_spelling: []
 ipa: ''
 part_of_speech: ''
-definitions: []
+definitions:
+- meaning_id: geumeurêb geureuba
+  meaning_en: ''
+- meaning_id: banyak sekali
+  meaning_en: ''
+examples:
+- aceh: 'a (dl hik) bersemangat se- kali: tasaba bacut, bèk – that! Bersabarlah sedikit'
+  jawi: ''
+  id: jangan An- da bersemangat sekali
+  en: ''
+- aceh: 'ban dua blah pihat – that ureueng maté, Pd kedua belah pihak terdapat banyak sekali orang mati.,
+    Mere- ka lari jatuh bangun dan saling bertubrukan geureubang a terurai (utk rambut), terbuka lebar-lebar
+    (utk pintu dan sayap): ta – ôk gata! Uraikanlah rambut Anda! oh ban jikalon meunan, ji – lê sayeuepji'
+  jawi: ''
+  id: Ketika ia melihat hal demikian, serta-mer- ta ia melepaskan sayapnya
+  en: ''
+- aceh: bèk ta – pintô
+  jawi: ''
+  id: Janganlah Anda membu- ka pintu lebar-lebar
+  en: ''
+- aceh: pintô –
+  jawi: ''
+  id: pin- tu gerbang dl kota
+  en: ''
+- aceh: meu –, teu –
+  jawi: ''
+  id: terutai terlepas, terbuka lebar-le- bar
+  en: ''
+- aceh: inong peue nyan! teungoh meugrêb mantong jiduek bak ulèe reunyeun ngon ôk teu –! Wanita apa itu!
+    pd waktu magrib ia masih duduk di kepala tangga rumahnya dng rambut terutai
+  jawi: ''
+  id: ''
+  en: ''
+- aceh: 'peu – = – geureubuk bunyi pekak suatu benda yg jatuh, pukulan, tumbukan: meu –, berbunyi geureubuk,
+    mengucak (utk kain cucian): bèk ta – tima, habèh ceukoe ie'
+  jawi: ''
+  id: Janganlah Anda mengangkat dan mengentak timba akibatnya air menjadi keruh semu- anya
+  en: ''
+- aceh: ta – ija lam kulam
+  jawi: ''
+  id: Kucak- lah kain dl kolam
+  en: ''
+- aceh: meu –
+  jawi: ''
+  id: diang- kat dan dientak ke atas dan ke ba- wah
+  en: ''
+- aceh: 'Bd. eunchôk geureuda a garuda, sj burung dl do- ngengan, rakus, loba: bak – seu- ba! Semoga engkau
+    ditelah garu- da! (kutukan)'
+  jawi: ''
+  id: ''
+  en: ''
+- aceh: aneuk nyan – that dumnan bu, siat ka habèh jipajôh, Anak itu rakus sekali, nasi yg de- mikian
+    banyaknya dapat dihabis- kan diwaktu sekejap saja geureudak n sj ikan tawar
+  jawi: ''
+  id: ''
+  en: ''
 etymology: ''
 related_words:
-- geumeurêb
+- 'gurak geureubak-geureubuk *a* berkali-kali geureubuk: *jiplueng* –'
+- Mere- ka lari jatuh bangun dan saling bertubrukan geureubang *a* terurai (utk rambut)
+- 'terbuka lebar-lebar (utk pintu dan sayap): *ta – ôk gata!* Uraikanlah rambut Anda! *oh ban jikalon*
+  *meunan'
+- ji – lê sayeuepji*
+- Ketika ia melihat hal demikian
+- serta-mer- ta ia melepaskan sayapnya
+- ge- ureubak-geureubuk geureuchôk *v* mengangkat dan meng- entak sesuatu ke atas dan keba- wah (ump ketika
+  mengambil air dng timba dl sumur)
+- 'mengucak (utk kain cucian): *bèk ta – tima'
+- '* *habèh ceukoe ie*'
+- Janganlah Anda mengangkat dan mengentak timba akibatnya air menjadi keruh semu- anya. *ta – ija lam
+  kulam*
+- Kucak- lah kain dl kolam. *meu* –
+- diang- kat dan dientak ke atas dan ke ba- wah
 dialect_notes: ''
-source: Kamus Aceh-Indonesia (Acehnese-Indonesian Dictionary), p. 232
+source: 'Kamus Aceh-Indonesia (extracted from pp.124-270 of the source edition, Acehnese section entries
+  cèm-unyèn through gutie/H). File: markdown.md supplied by the user. — p.232'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: Cross-reference entry pointing to 'geumeurêb'. Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate reviewer.
+extraction_notes: Part of speech not explicitly marked in source. Indonesian example translations are
+  taken verbatim from the source. English meanings and Jawi transliterations are AI-flagged as unverified
+  and need human review. Jawi transliteration is AI-generated, not from source — needs verification by
+  a Jawi-literate reviewer.

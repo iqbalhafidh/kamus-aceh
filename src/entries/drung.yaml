@@ -1,124 +1,35 @@
 headword: drung
-jawi: درڬ
+jawi: ''
 alt_spelling: []
 ipa: ''
 part_of_speech: v
 definitions:
-- meaning_id: membengkokkan kaki muka atau meregangkan seluruh badan sementara kaki belakang tetap berdiri, berlutut, membungkukkan badan (utk binatang)
-  meaning_en: bending the front leg or stretching the whole body while the hind legs remain standing, kneeling, bowing (for animals)
-  examples:
-  - aceh: gajah ka ji
-    jawi: ''
-    id: ''
-    en: ''
-  - aceh: gajah sudah membungkukkan kaki mukanya
-    jawi: ''
-    id: ''
-    en: ''
-  - aceh: meu
-    jawi: ''
-    id: membungkuk
-    en: bending over
-  - aceh: pakon tajak meu
-    jawi: ''
-    id: '? Mengapa Anda berjalan membungkuk sekali?'
-    en: ''
-  - aceh: pakon meu
-    jawi: ''
-    id: ''
-    en: ''
-  - aceh: that gata ateueh lôn
-    jawi: ''
-    id: '? Mengapa Anda membungkukkan badan ke atas saya?'
-    en: '? Why are you bending over me?'
-  - aceh: deumeuruang
-    jawi: ''
-    id: —
-    en: ''
-  - aceh: peu
-    jawi: ''
-    id: menyuruh lakukan *
-    en: ''
-  - aceh: drung
-    jawi: ''
-    id: "*\n §1§ *"
-    en: '* §1§ *'
-  - aceh: du
-    jawi: ''
-    id: ''
-    en: ''
-  - aceh: ''
-    jawi: ''
-    id: n
-    en: ''
-  - aceh: '(di daerah Pidie) ayah: —'
-    jawi: ''
-    id: ha
-    en: ''
-  - aceh: kakek dr pihak ayah →
-    jawi: ''
-    id: "ayah, du-ya, ku*\n §2§ *"
-    en: father, du-ya, ku*
-  - aceh: du
-    jawi: ''
-    id: ''
-    en: ''
-  - aceh: 'tunduk (menyembunyikan diri), selam:'
-    jawi: ''
-    id: ta
-    en: you
-  - aceh: —
-    jawi: ''
-    id: bacut bèk leumah gob kalon*, tunduklah sedikit spy Anda tidak dilihat orang
-    en: ''
-  - aceh: jak
-    jawi: ''
-    id: ''
-    en: ''
-  - aceh: gasêng gata
-    jawi: ''
-    id: tempatkan gasing Anda dl lingkaran →
-    en: place your spinning top in the circle →
-  - aceh: tunu
-    jawi: ''
-    id: ''
-    en: ''
-  - aceh: peu
-    jawi: ''
-    id: menyuruh tunduk, memberibingkan atau meletakkan secara memanjang (ump meriam, mayat)
-    en: ''
-  - aceh: pakon tajak peu
-    jawi: ''
-    id: ''
-    en: ''
-  - aceh: aneuk gob likôt eumpung manok, kon teu-boih jih dum
-    jawi: ''
-    id: '? mengapa Anda menyuruh anak-anak orang bersembunyi di belakang kandang ayam, bukannya mereka akan kotor semua?'
-    en: '? why did you tell the children to hide behind the chicken coop, won''t they get dirty all over?'
-  - aceh: neucok bak arôn nyang sulu-sulu, teuma neupeu
-    jawi: ''
-    id: ''
-    en: ''
-  - aceh: keu beunteueng kuta
-    jawi: ''
-    id: ia mengambil batang-batang cemara yg lurus-lurus dan meletakkannya sbg balok-balok lintang di kubu pertahanan
-    en: ''
-  - aceh: teu
-    jawi: ''
-    id: terbaring
-    en: 'pilgrimage, visiting the grave of a holy person: jak — bak kubu Teungku di Anjông, visiting Teuku''s grave in Anjông'
-  - aceh: meu-reuyam raya ubè-bè bak u bandum teu
-    jawi: ''
-    id: ''
-    en: ''
-  - aceh: di ateueh kuta
-    jawi: ''
-    id: meriam-meriam sebesar batang kelapa terbaring di atas kubu pertahanan
-    en: ''
+- meaning_id: membengkokkan kaki muka atau meregangkan seluruh badan sementara kaki belakang tetap berdiri,
+    berlutut, membungkukkan badan (utk binatang)
+  meaning_en: ''
+- meaning_id: membungkukkan badan ke muka dng tangan menjulur ke tanah, merukuk dalam-dalam
+  meaning_en: ''
+examples:
+- aceh: gajah ka ji -, gajah sudah membungkukkan kaki mukanya
+  jawi: ''
+  id: ''
+  en: ''
+- aceh: meu-
+  jawi: ''
+  id: membungkuk
+  en: ''
+- aceh: pakon tajak meu -? Mengapa Anda berjalan membungkuk sekali? pakon meu - that gata ateueh lôn?
+    Mengapa Anda membungkukkan badan ke atas saya? deumeuruang, -, peu-, menyuruh lakukan *drung*
+  jawi: ''
+  id: ''
+  en: ''
 etymology: ''
 related_words: []
 dialect_notes: ''
-source: Kamus Aceh-Indonesia (Acehnese-Indonesian Dictionary), p. 179
+source: 'Kamus Aceh-Indonesia (extracted from pp.124-270 of the source edition, Acehnese section entries
+  cèm-unyèn through gutie/H). File: markdown.md supplied by the user. — p.179'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate reviewer.
+extraction_notes: Indonesian example translations are taken verbatim from the source. English meanings
+  and Jawi transliterations are AI-flagged as unverified and need human review. Jawi transliteration is
+  AI-generated, not from source — needs verification by a Jawi-literate reviewer.

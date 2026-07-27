@@ -1,24 +1,32 @@
 headword: ganja
-jawi: ݢاج
+jawi: ''
 alt_spelling: []
 ipa: ''
 part_of_speech: n
 definitions:
-- meaning_id: 'ganja: rukok —, rokok dng tembakau yg dicampur dng ganja'
+- meaning_id: ganja
   meaning_en: ''
-  examples:
-  - aceh: meu
-    jawi: ''
-    id: mengisap ganja, mempunyai ganja
-    en: ''
-  - aceh: hai aneuk, bêk sagai-sagai tameu
-    jawi: ''
-    id: "papateu! Wahai anak\n\n\n\n janganlah engkau mengisap ganja, engkau akan papa akibatnya"
-    en: to grit teeth, to dare
+examples:
+- aceh: rukok -
+  jawi: ''
+  id: rokok dng tembakau yg dicampur dng ganja
+  en: ''
+- aceh: meu -
+  jawi: ''
+  id: mengisap ganja, mempu- nyai ganja
+  en: ''
+- aceh: hai aneuk
+  jawi: ''
+  id: bêk sagai-sa- gai tameu —, papateu! Wahai anak janganlah engkau mengisap ganja, engkau akan papa
+    akibatnya
+  en: ''
 etymology: ''
 related_words: []
 dialect_notes: ''
-source: Kamus Aceh-Indonesia (Acehnese-Indonesian Dictionary), pp. 214, 215
+source: 'Kamus Aceh-Indonesia (extracted from pp.124-270 of the source edition, Acehnese section entries
+  cèm-unyèn through gutie/H). File: markdown.md supplied by the user. — pp.214-215'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate reviewer. Some fields (English translations, Jawi) may be incomplete due to API rate limits during processing. Re-run the translation script to fill in missing fields.
+extraction_notes: Indonesian example translations are taken verbatim from the source. English meanings
+  and Jawi transliterations are AI-flagged as unverified and need human review. Jawi transliteration is
+  AI-generated, not from source — needs verification by a Jawi-literate reviewer.

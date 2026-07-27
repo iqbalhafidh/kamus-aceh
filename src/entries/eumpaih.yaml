@@ -1,5 +1,5 @@
 headword: eumpaih
-jawi: عمڤاءيح
+jawi: ''
 alt_spelling:
 - heumpaih
 - umpaih
@@ -7,32 +7,23 @@ ipa: ''
 part_of_speech: v
 definitions:
 - meaning_id: empas (dng tangan atau benda)
-  meaning_en: to pat (with hand or object)
-  examples:
-  - aceh: ta
-    jawi: ''
-    id: ''
-    en: ''
-  - aceh: bak ulèeji sigo
-    jawi: ''
-    id: Empaskan di kepalanya sekali!
-    en: You are like kalakanji grass because you like to meddle in other people's affairs
-  - aceh: ji
-    jawi: ''
-    id: ''
-    en: ''
-  - aceh: droe
-    jawi: ''
-    id: Ia menyiksa diri sendiri
-    en: He tortures himself
-  - aceh: teu
-    jawi: ''
-    id: terhempas
-    en: ''
+  meaning_en: ''
+examples:
+- aceh: ta - bak ulèeji sigo, Empaskan di kepa- lanya sekali! ji - droe
+  jawi: ''
+  id: Ia menyik- sa diri sendiri
+  en: ''
+- aceh: teu -
+  jawi: ''
+  id: terhempas
+  en: ''
 etymology: ''
 related_words: []
 dialect_notes: ''
-source: Kamus Aceh-Indonesia (Acehnese-Indonesian Dictionary), p. 197
+source: 'Kamus Aceh-Indonesia (extracted from pp.124-270 of the source edition, Acehnese section entries
+  cèm-unyèn through gutie/H). File: markdown.md supplied by the user. — p.197'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: 'Source lists variant spellings: heumpaih, umpaih. Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate reviewer.'
+extraction_notes: Indonesian example translations are taken verbatim from the source. English meanings
+  and Jawi transliterations are AI-flagged as unverified and need human review. Jawi transliteration is
+  AI-generated, not from source — needs verification by a Jawi-literate reviewer.

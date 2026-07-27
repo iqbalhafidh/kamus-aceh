@@ -1,14 +1,54 @@
 headword: gambaran
-jawi: ڬمبرن
+jawi: ''
 alt_spelling: []
 ipa: ''
 part_of_speech: ''
-definitions: []
+definitions:
+- meaning_id: gamba gambê
+  meaning_en: ''
+- meaning_id: '''oh ka ta — lidah tiōng, jipoh lé patok, Begitu Anda menarik picu senjata api, maka memukullah
+    pelatuknya'
+  meaning_en: ''
+- meaning_id: 'meu — (teu —), ditarik picu, berpicu, membuat isyarat dng tangan: ureueng nyan ji — lōn
+    lam kawan ramē, orang itu memanggil saya dng isyarat tangan dl rombongan orang banyak'
+  meaning_en: ''
+- meaning_id: meu — —, saling menggamit
+  meaning_en: ''
+- meaning_id: peu — = —, menyuruh gamit
+  meaning_en: ''
+- meaning_id: tepau — ureueng jéh siat, gamitlah orang itu sebentar (supaya ia datang kemari)
+  meaning_en: ''
+- meaning_id: geumamèt, membuat gerakan menggamit dng tangan, sedang menggamit, lambé
+  meaning_en: ''
+examples:
+- aceh: 'n gambir gamêh-gamoh a sibuk: jiwoe u rumoh -'
+  jawi: ''
+  id: Ia pulang ke rumah dl keadaan sibuk
+  en: ''
+- aceh: peu -
+  jawi: ''
+  id: bergegas-gegas
+  en: ''
+- aceh: peu 1 gamet gampong - droe
+  jawi: ''
+  id: 'menyibukkan diri, menarik picu senjata api: — beudé lōn ka patah, Picu bedil saya sudah patah'
+  en: ''
 etymology: ''
 related_words:
-- gamba
+- mèh -moh 1 gamèt picu senjata api
+- 'menarik picu senjata api: — beudé lōn ka patah'
+- Picu bedil saya sudah patah
+- lidah tiōng 2 gamèt v menggamit
+- 'membuat isyarat dng tangan: ureueng nyan ji — lōn lam kawan ramē'
+- orang itu memanggil saya dng isyarat tangan dl rombongan orang banyak
+- kawōt
+- lambé
 dialect_notes: ''
-source: Kamus Aceh-Indonesia (Acehnese-Indonesian Dictionary), p. 211
+source: 'Kamus Aceh-Indonesia (extracted from pp.124-270 of the source edition, Acehnese section entries
+  cèm-unyèn through gutie/H). File: markdown.md supplied by the user. — pp.211-212'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: Cross-reference entry pointing to 'gamba'. Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate reviewer.
+extraction_notes: Part of speech not explicitly marked in source. Indonesian example translations are
+  taken verbatim from the source. English meanings and Jawi transliterations are AI-flagged as unverified
+  and need human review. Jawi transliteration is AI-generated, not from source — needs verification by
+  a Jawi-literate reviewer.

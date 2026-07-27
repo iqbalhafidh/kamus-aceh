@@ -1,24 +1,34 @@
 headword: geurudoe
-jawi: ڬرودو
+jawi: ''
 alt_spelling:
 - gurudoe
 - grudoe
 ipa: ''
 part_of_speech: n
 definitions:
-- meaning_id: 'gurdi, sj bor : ji - kayèe, Ia mengebor kayu, meu -, mempunyai bor gurdi, sedang mengebor dng bor gurdi, (ki) bekerja tanpa tujuan dan sembrono'
+- meaning_id: gurdi, sj bor
   meaning_en: ''
-  examples: []
-- meaning_id: ji - baranggapeue, Ia bekerja sembrono sekali
-  meaning_en: ''
-  examples: []
-- meaning_id: peu -, menyuruh mengebor dng gurdi
-  meaning_en: peu -, to order to drill with a drill
-  examples: []
+examples:
+- aceh: ji - kayèe
+  jawi: ''
+  id: Ia mengebor kayu, meu -, mempunyai bor gurdi, sedang mengebor dng bor gurdi, (ki) bekerja tanpa
+    tujuan dan sembrono
+  en: ''
+- aceh: ji - baranggapeue
+  jawi: ''
+  id: Ia bekerja sembrono sekali
+  en: ''
+- aceh: peu -
+  jawi: ''
+  id: menyuruh mengebor dng gurdi
+  en: ''
 etymology: ''
 related_words: []
 dialect_notes: ''
-source: Kamus Aceh-Indonesia (Acehnese-Indonesian Dictionary), p. 234
+source: 'Kamus Aceh-Indonesia (extracted from pp.124-270 of the source edition, Acehnese section entries
+  cèm-unyèn through gutie/H). File: markdown.md supplied by the user. — p.234'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: 'Source lists variant spellings: gurudoe, grudoe. Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate reviewer. Some fields (English translations, Jawi) may be incomplete due to API rate limits during processing. Re-run the translation script to fill in missing fields.'
+extraction_notes: Indonesian example translations are taken verbatim from the source. English meanings
+  and Jawi transliterations are AI-flagged as unverified and need human review. Jawi transliteration is
+  AI-generated, not from source — needs verification by a Jawi-literate reviewer.

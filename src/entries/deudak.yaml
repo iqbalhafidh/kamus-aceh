@@ -1,40 +1,30 @@
 headword: deudak
-jawi: دودق
+jawi: ''
 alt_spelling: []
 ipa: ''
 part_of_speech: n
 definitions:
-- meaning_id: 'dedak, sisa tumbukan, buah lada yg belum masak yg dicampur dng yg sudah masak spy banyak jumlahnya: — kawa, bubuk kopi'
-  meaning_en: 'rice bran, leftover from pounding, unripe pepper mixed with ripe ones to increase quantity: — kawa, coffee powder'
-  examples:
-  - aceh: ''
-    jawi: ''
-    id: lada, dedak lada, lada yg halus-halus
-    en: ''
-  - aceh: ''
-    jawi: ''
-    id: padé, dedak padi yg terjadi ketika menumbuk padi
-    en: Why do you always cry?
-  - aceh: 'habèh hancô jeuet keu —, semua sudah hancur menjadi dedak: meu'
-    jawi: ''
-    id: "berdedak,\n\n\n\n bercampur dedak"
-    en: ''
-  - aceh: lada nyoe meu
-    jawi: ''
-    id: ''
-    en: ''
-  - aceh: h'an lon bloe
-    jawi: ''
-    id: ''
-    en: ''
-  - aceh: lada ini bercampur dng buah yg belum masak
-    jawi: ''
-    id: saya tidak mau membelinya
-    en: ''
+- meaning_id: 'dedak, sisa tumbukan, buah lada yg belum masak yg dicampur dng yg sudah masak spy banyak
+    jumlahnya: — kawa, bubuk kopi'
+  meaning_en: ''
+- meaning_id: — lada, dedak lada, lada yg halus-halus
+  meaning_en: ''
+- meaning_id: — padé, dedak padi yg terjadi ketika menumbuk padi
+  meaning_en: ''
+- meaning_id: 'habèh hancô jeuet keu —, semua sudah hancur menjadi dedak: meu —, berdedak, bercampur dedak'
+  meaning_en: ''
+examples:
+- aceh: lada nyoe meu -, h'an lon bloe, lada ini bercampur dng buah yg belum masak
+  jawi: ''
+  id: saya tidak mau membelinya
+  en: ''
 etymology: ''
 related_words: []
 dialect_notes: ''
-source: Kamus Aceh-Indonesia (Acehnese-Indonesian Dictionary), pp. 164, 165
+source: 'Kamus Aceh-Indonesia (extracted from pp.124-270 of the source edition, Acehnese section entries
+  cèm-unyèn through gutie/H). File: markdown.md supplied by the user. — pp.164-165'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate reviewer.
+extraction_notes: Indonesian example translations are taken verbatim from the source. English meanings
+  and Jawi transliterations are AI-flagged as unverified and need human review. Jawi transliteration is
+  AI-generated, not from source — needs verification by a Jawi-literate reviewer.

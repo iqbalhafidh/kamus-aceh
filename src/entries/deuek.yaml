@@ -1,50 +1,45 @@
 headword: deuek
-jawi: ڢوک
+jawi: ''
 alt_spelling: []
 ipa: ''
 part_of_speech: a
 definitions:
 - meaning_id: lapar
-  meaning_en: hungry
-  examples:
-  - aceh: pruet lôn
-    jawi: ''
-    id: ''
-    en: ''
-  - aceh: bu hana lé
-    jawi: ''
-    id: perut saya lapar, nasi tak ada lagi
-    en: My stomach is hungry, there's no more rice
-  - aceh: lôn
-    jawi: ''
-    id: ''
-    en: ''
-  - aceh: that
-    jawi: ''
-    id: saya merasa sangat lapar
-    en: I feel very hungry
-  - aceh: troe
-    jawi: ''
-    id: sekali lapar dan sekali kenyang
-    en: ''
-  - aceh: peu
-    jawi: ''
-    id: membiarkan lapar
-    en: to go hungry
-  - aceh: pakon tapeu— droe?
-    jawi: ''
-    id: mengapa Anda membiarkan lapar
-    en: why do you let yourself be hungry
-  - aceh: pakon tapeu— droe?
-    jawi: ''
-    id: mengapa Anda membiarkan lapar sendiri?
-    en: Why did you let yourself go hungry?
+  meaning_en: ''
+examples:
+- aceh: pruet lôn -, bu hana lé
+  jawi: ''
+  id: perut saya lapar, nasi tak ada lagi
+  en: ''
+- aceh: lôn - that
+  jawi: ''
+  id: saya merasa sangat lapar
+  en: ''
+- aceh: '- troe'
+  jawi: ''
+  id: sekali lapar dan sekali kenyang
+  en: ''
+- aceh: peu -
+  jawi: ''
+  id: membiarkan lapar
+  en: ''
+- aceh: pakon tapeu- droe? mengapa Anda membiarkan lapar
+  jawi: ''
+  id: ''
+  en: ''
+- aceh: pakon tapeu- droe? mengapa Anda membiarkan lapar sendiri?
+  jawi: ''
+  id: ''
+  en: ''
 etymology: ''
 related_words:
 - tumpoe 1
 - nyampang 2
 dialect_notes: ''
-source: Kamus Aceh-Indonesia (Acehnese-Indonesian Dictionary), p. 165
+source: 'Kamus Aceh-Indonesia (extracted from pp.124-270 of the source edition, Acehnese section entries
+  cèm-unyèn through gutie/H). File: markdown.md supplied by the user. — p.165'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: Some fields (English translations, Jawi) may be incomplete due to API rate limits during processing. Re-run the translation script to fill in missing fields. Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate reviewer.
+extraction_notes: Indonesian example translations are taken verbatim from the source. English meanings
+  and Jawi transliterations are AI-flagged as unverified and need human review. Jawi transliteration is
+  AI-generated, not from source — needs verification by a Jawi-literate reviewer.

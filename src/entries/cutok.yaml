@@ -1,5 +1,5 @@
 headword: cutok
-jawi: چوتوک
+jawi: ''
 alt_spelling:
 - cuthok
 - tutok
@@ -7,65 +7,51 @@ ipa: ''
 part_of_speech: v
 definitions:
 - meaning_id: mencotok
-  meaning_en: to peck
-  examples:
-  - aceh: manok nyan teungoh ji
-    jawi: ''
-    id: ''
-    en: ''
-  - aceh: eumpeuen
-    jawi: ''
-    id: ayam itu sedang mencotok umpan
-    en: ''
-  - aceh: meu
-    jawi: ''
-    id: dicotok
-    en: to poke
-  - aceh: pakon pisang nyoe ka meu
-    jawi: ''
-    id: ''
-    en: ''
-  - aceh: dum?
-    jawi: ''
-    id: mengapa semua pisang ini sudah dicotok?
-    en: ''
-  - aceh: peu
-    jawi: ''
-    id: mempercotokkan
-    en: to poke or stir
-  - aceh: bèk kapeu
-    jawi: ''
-    id: ''
-    en: ''
-  - aceh: padé bak manok
-    jawi: ''
-    id: Jangan engkau biarkan ayam-ayam mencotok padi
-    en: ''
-  - aceh: ceumutok
-    jawi: ''
-    id: "melakukan perbuatan mencotok Bd catok, coh\n\n\n §1§ da. cutda n kakak, kemenakan perempuan yg lebih tua, sebutan utk wanita yg umurnya lebih tua dr pembicaraan: bobnyan – (di) lôn, ia kakak saya"
-    en: ''
+  meaning_en: ''
 - meaning_id: aneuk –, anak seorang budak wanita
   meaning_en: ''
-  examples: []
 - meaning_id: biek aneuk – seuôn, idang, spt anak budak pembawa hidangan. meu –, mempunyai kakak
-  meaning_en: biek aneuk – seuôn, idang, spt anak budak pembawa hidangan. meu –, mempunyai kakak
-  examples: []
-- meaning_id: "peu –, menyebut seorang wanita dng da → a po, cut\n  da sang, kata sandang utk nama-nama binatang dl dongeng: da bubrang, sang berang-berang"
-  meaning_en: dirt that comes out of the eye
-  examples: []
+  meaning_en: ''
+- meaning_id: 'peu –, menyebut seorang wanita dng da, cut ²da sang, kata sandang utk nama-nama binatang
+    dl dongeng: da bubrang, sang berang-berang'
+  meaning_en: ''
 - meaning_id: da rimueng, sang harimau
   meaning_en: ''
-  examples: []
-- meaning_id: "da cagèe, sang beruang\n  da → dak 1\n  dab n gendang yg lebih kecil dp rapai: meu –, menabuh dab\n  dab"
+- meaning_id: da cagèe, sang beruang
   meaning_en: ''
-  examples: []
+examples:
+- aceh: manok nyan teungoh ji - eumpeuen
+  jawi: ''
+  id: ayam itu sedang mencotok umpan
+  en: ''
+- aceh: meu -
+  jawi: ''
+  id: dicotok
+  en: ''
+- aceh: pakon pisang nyoe ka meu - dum? mengapa semua pisang ini sudah dicotok? peu -
+  jawi: ''
+  id: mempercotokkan
+  en: ''
+- aceh: bèk kapeu - padé bak manok
+  jawi: ''
+  id: Jangan engkau biarkan ayam-ayam mencotok padi
+  en: ''
+- aceh: ceumutok
+  jawi: ''
+  id: 'melakukan perbuatan mencotok Bd catok, coh # D ¹da. cutda n kakak, kemenakan perempuan yg lebih
+    tua, sebutan utk wanita yg umurnya lebih tua dr pembicaraan: bobnyan – (di) lôn, ia kakak saya'
+  en: ''
 etymology: ''
 related_words:
-- deumab
-- ndab
+- a po
+- cut ²da sang
+- 'kata sandang utk nama-nama binatang dl dongeng: da bubrang'
+- sang berang-berang
 dialect_notes: ''
-source: Kamus Aceh-Indonesia (Acehnese-Indonesian Dictionary), pp. 150, 151
+source: 'Kamus Aceh-Indonesia (extracted from pp.124-270 of the source edition, Acehnese section entries
+  cèm-unyèn through gutie/H). File: markdown.md supplied by the user. — pp.150-151'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: 'Source lists variant spellings: cuthok, tutok. Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate reviewer.'
+extraction_notes: Indonesian example translations are taken verbatim from the source. English meanings
+  and Jawi transliterations are AI-flagged as unverified and need human review. Jawi transliteration is
+  AI-generated, not from source — needs verification by a Jawi-literate reviewer.

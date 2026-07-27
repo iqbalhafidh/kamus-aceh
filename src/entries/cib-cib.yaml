@@ -1,5 +1,5 @@
 headword: cib-cib
-jawi: چيب-چيب
+jawi: ''
 alt_spelling:
 - crib-crib
 ipa: ''
@@ -7,35 +7,26 @@ part_of_speech: n
 definitions:
 - meaning_id: tiruan bunyi anak ayam atau anak burung pemakan padi
   meaning_en: ''
-  examples:
-  - aceh: meu
-    jawi: ''
-    id: memperdengarkan suara
-    en: making a sound
-  - aceh: cib-cib
-    jawi: ''
-    id: ''
-    en: ''
-  - aceh: leuek jikutru, tulô meu
-    jawi: ''
-    id: burung balam mendekat, burung pipit menciap-ciap
-    en: → blood
-  - aceh: peu
-    jawi: ''
-    id: menyuruh
-    en: to order, to tell
-  - aceh: cib-cib
-    jawi: ''
-    id: '*'
-    en: '*'
-  - aceh: cab-cib, c’ieb-c’ieb
-    jawi: ''
-    id: '*'
-    en: '*'
+examples:
+- aceh: meu -, memperdengarkan suara cib-cib
+  jawi: ''
+  id: ''
+  en: ''
+- aceh: leuek jikutru, tulô meu -
+  jawi: ''
+  id: burung balam mendekat, burung pipit menciap-ciap
+  en: ''
+- aceh: peu -, menyuruh cib-cib - *cab-cib, c’ieb-c’ieb*
+  jawi: ''
+  id: ''
+  en: ''
 etymology: ''
 related_words: []
 dialect_notes: ''
-source: Kamus Aceh-Indonesia (Acehnese-Indonesian Dictionary), p. 134
+source: 'Kamus Aceh-Indonesia (extracted from pp.124-270 of the source edition, Acehnese section entries
+  cèm-unyèn through gutie/H). File: markdown.md supplied by the user. — p.134'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: 'Source lists variant spellings: crib-crib. Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate reviewer. Some fields (English translations, Jawi) may be incomplete due to API rate limits during processing. Re-run the translation script to fill in missing fields.'
+extraction_notes: Indonesian example translations are taken verbatim from the source. English meanings
+  and Jawi transliterations are AI-flagged as unverified and need human review. Jawi transliteration is
+  AI-generated, not from source — needs verification by a Jawi-literate reviewer.

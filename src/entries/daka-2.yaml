@@ -2,71 +2,39 @@ headword: daka
 jawi: ''
 alt_spelling: []
 ipa: ''
-part_of_speech: ''
+part_of_speech: Bld
 definitions:
-- meaning_id: '*'
-  meaning_en: '*'
-  examples:
-  - aceh: daka
-    jawi: ''
-    id: ''
-    en: ''
-  - aceh: ''
-    jawi: ''
-    id: Bld
-    en: ''
-  - aceh: pipa yg dipasang di jalan atau tanggul utk mengalirkan air.
-    jawi: ''
-    id: ''
-    en: ''
-  - aceh: dakhat
-    jawi: ''
-    id: ''
-    en: ''
-  - aceh: dukhat
-    jawi: ''
-    id: ''
-    en: ''
-  - aceh: ''
-    jawi: ''
-    id: a
-    en: ''
-  - aceh: 'cabul, jalang, nakal, jahat:'
-    jawi: ''
-    id: aneuk nyan
-    en: ''
-  - aceh: —
-    jawi: ''
-    id: that
-    en: ''
-  - aceh: anak itu nakal sekali.
-    jawi: ''
-    id: meu* —, berlaku cabul
-    en: meu* —, berlaku cabul
-  - aceh: peu
-    jawi: ''
-    id: menimbulkan kecabulan, menjerumuskan seseorang ke dl kecabulan
-    en: ''
-  - aceh: peu
-    jawi: ''
-    id: ''
-    en: ''
-  - aceh: droe
-    jawi: ''
-    id: berlaku cabul sendiri
-    en: ''
-  - aceh: bêk kapeu
-    jawi: ''
-    id: ''
-    en: ''
-  - aceh: droekeuh!
-    jawi: ''
-    id: janganlah engkau berlaku cabul
-    en: ''
-etymology: Dutch (Bld)
+- meaning_id: pipa yg dipasang di jalan atau tanggul utk mengalirkan air. *
+  meaning_en: ''
+examples:
+- aceh: 'dakhat, dukhat a cabul, jalang, nakal, jahat: aneuk nyan - that*'
+  jawi: ''
+  id: anak itu nakal sekali
+  en: ''
+- aceh: meu -
+  jawi: ''
+  id: berlaku cabul
+  en: ''
+- aceh: peu -
+  jawi: ''
+  id: menimbulkan kecabulan, menjerumuskan seseorang ke dl kecabulan
+  en: ''
+- aceh: peu - droe
+  jawi: ''
+  id: berlaku cabul sendiri
+  en: ''
+- aceh: bêk kapeu - droekeuh! janganlah engkau berlaku cabul
+  jawi: ''
+  id: ''
+  en: ''
+etymology: ''
 related_words: []
 dialect_notes: ''
-source: Kamus Aceh-Indonesia (Acehnese-Indonesian Dictionary), p. 154
+source: 'Kamus Aceh-Indonesia (extracted from pp.124-270 of the source edition, Acehnese section entries
+  cèm-unyèn through gutie/H). File: markdown.md supplied by the user. — p.154'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: Part of speech not specified in source. Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate reviewer. Some fields (English translations, Jawi) may be incomplete due to API rate limits during processing. Re-run the translation script to fill in missing fields. Headword was originally parsed as '2' (entry number); corrected to 'daka' based on source analysis. Jawi field cleared — original AI-generated Jawi was for the numeric entry number, not the actual headword. Needs regeneration.
+extraction_notes: Homonym 2 of the headword 'daka'. Indonesian example translations are taken verbatim
+  from the source. English meanings and Jawi transliterations are AI-flagged as unverified and need human
+  review. Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate
+  reviewer.

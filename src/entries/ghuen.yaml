@@ -1,31 +1,35 @@
 headword: ghuen
-jawi: ݢوئين
+jawi: ''
 alt_spelling: []
 ipa: ''
 part_of_speech: a
 definitions:
-- meaning_id: 'beku, kental, keras, berdadin: timah meung ka sijuek ka —, Jika timah sudah dingin, ia membeku'
-  meaning_en: God willing
-  examples:
-  - aceh: meulisan
-    jawi: ''
-    id: manisan keras
-    en: ''
-  - aceh: tatageuen bak
-    jawi: ''
-    id: Masaklah sampai keras
-    en: ''
-  - aceh: peu
-    jawi: ''
-    id: membuat sampai keras
-    en: ''
+- meaning_id: beku, kental, keras, ber- dadin
+  meaning_en: ''
+examples:
+- aceh: timah meung ka sijuek ka -
+  jawi: ''
+  id: Jika timah sudah dingin, ia membeku
+  en: ''
+- aceh: meulisan -
+  jawi: ''
+  id: ma- nisan keras
+  en: ''
+- aceh: tatageuen bak -
+  jawi: ''
+  id: Ma- saklah sampai keras
+  en: ''
+- aceh: peu -,
+  jawi: ''
+  id: ''
+  en: ''
 etymology: ''
-related_words:
-- beuku
-- kliet
-- likat
+related_words: []
 dialect_notes: ''
-source: Kamus Aceh-Indonesia (Acehnese-Indonesian Dictionary), p. 239
+source: 'Kamus Aceh-Indonesia (extracted from pp.124-270 of the source edition, Acehnese section entries
+  cèm-unyèn through gutie/H). File: markdown.md supplied by the user. — p.239'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate reviewer.
+extraction_notes: Indonesian example translations are taken verbatim from the source. English meanings
+  and Jawi transliterations are AI-flagged as unverified and need human review. Jawi transliteration is
+  AI-generated, not from source — needs verification by a Jawi-literate reviewer.

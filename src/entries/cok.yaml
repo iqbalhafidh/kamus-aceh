@@ -1,17 +1,34 @@
-headword: Cok
+headword: cok
 jawi: ''
 alt_spelling: []
 ipa: ''
-part_of_speech: ''
+part_of_speech: n
 definitions:
-- meaning_id: ambil
-  meaning_en: take, get
-examples: []
+- meaning_id: mengambil, membawa, memegang
+  meaning_en: ''
+- meaning_id: cot cōk-ceuek
+  meaning_en: ''
+examples:
+- aceh: meu -
+  jawi: ''
+  id: (—), berlomba- lomba mengambil, terambil
+  en: ''
+- aceh: ceumecok, melakukan cok
+  jawi: ''
+  id: ''
+  en: ''
 etymology: ''
-related_words: []
+related_words:
+- chōk-cheuek
 dialect_notes: ''
-source: 'Daud, Bukhari & Mark Durie. Kamus Basa Acèh = Kamus Bahasa Aceh: Acehnese–Indonesian–English Thesaurus.
-  Pacific Linguistics C-151, 1999, p. 42.'
-date_added: '2026-07-20'
+source: 'Kamus Aceh-Indonesia (extracted from pp.124-270 of the source edition, Acehnese section entries
+  cèm-unyèn through gutie/H). File: markdown.md supplied by the user. — pp.138-139 ; Kamus Aceh-Indonesia
+  (extracted from pp.124-270 of the source edition, Acehnese section entries cèm-unyèn through gutie/H).
+  File: markdown.md supplied by the user. — p.139'
+date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: ''
+extraction_notes: Indonesian example translations are taken verbatim from the source. English meanings
+  and Jawi transliterations are AI-flagged as unverified and need human review. Jawi transliteration is
+  AI-generated, not from source — needs verification by a Jawi-literate reviewer. Part of speech not explicitly
+  marked in source. Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate
+  reviewer.

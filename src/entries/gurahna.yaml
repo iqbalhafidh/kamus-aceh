@@ -1,39 +1,33 @@
 headword: gurahna
-jawi: ݢوراهنا
+jawi: ''
 alt_spelling:
 - gurana
 - geura(h)na
 ipa: ''
 part_of_speech: a
 definitions:
-- meaning_id: 'gerhana bulan, gerhana matahari: —'
-  meaning_en: 'lunar eclipse, solar eclipse: —'
-  examples:
-  - aceh: matauroe
-    jawi: ''
-    id: gerhana matahari
-    en: ''
-  - aceh: buleuen
-    jawi: ''
-    id: gerhana bulan
-    en: lunar eclipse
-  - aceh: na takalon
-    jawi: ''
-    id: ''
-    en: ''
-  - aceh: beuklam?
-    jawi: ''
-    id: Adakah Anda melihat gerhana tadi malam?
-    en: ''
-  - aceh: seumayang
-    jawi: ''
-    id: Sembahyang gerhana
-    en: ''
+- meaning_id: gerhana bulan, gerhana matahari
+  meaning_en: ''
+examples:
+- aceh: matauroe
+  jawi: ''
+  id: gerhana matahari
+  en: ''
+- aceh: '- buleuen'
+  jawi: ''
+  id: gerhana bulan
+  en: ''
+- aceh: na takalon - beuklam? Adakah Anda melihat gerhana tadi malam? seumayang -
+  jawi: ''
+  id: ''
+  en: ''
 etymology: ''
-related_words:
-- rahôb
+related_words: []
 dialect_notes: ''
-source: Kamus Aceh-Indonesia (Acehnese-Indonesian Dictionary), p. 265
+source: 'Kamus Aceh-Indonesia (extracted from pp.124-270 of the source edition, Acehnese section entries
+  cèm-unyèn through gutie/H). File: markdown.md supplied by the user. — p.265'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: 'Source lists variant spellings: gurana, geura(h)na. Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate reviewer.'
+extraction_notes: Indonesian example translations are taken verbatim from the source. English meanings
+  and Jawi transliterations are AI-flagged as unverified and need human review. Jawi transliteration is
+  AI-generated, not from source — needs verification by a Jawi-literate reviewer.

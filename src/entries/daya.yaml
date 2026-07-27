@@ -2,18 +2,94 @@ headword: daya
 jawi: ''
 alt_spelling: []
 ipa: ''
-part_of_speech: ''
+part_of_speech: n
 definitions:
-- meaning_id: daya, usaha
-  meaning_en: effort
-- meaning_id: tipu-daya
-  meaning_en: trickery
-examples: []
+- meaning_id: (dl hik) tipu-daya, cara atau usaha penipuan
+  meaning_en: ''
+- meaning_id: v membohongi, menipu
+  meaning_en: ''
+- meaning_id: tipèe —, tipu-daya
+  meaning_en: ''
+- meaning_id: bèk ta — lòn, janganlah Anda memperdayakan saya
+  meaning_en: ''
+- meaning_id: h'an èk ta — jih, Kita atau Anda tidak dpt memperdayakan
+  meaning_en: ''
+examples:
+- aceh: peu - = -., rabé, reuah ²daya n barat -
+  jawi: ''
+  id: 'barat daya: selatan (barat) —, Barat daya semata Selatan'
+  en: ''
+- aceh: 'barat barat -, barat barat daya ³daya n nama sebuah negeri di pantai barat Aceh yg pd masa dahulu
+    merupakan sebuah kerajaan dayang, déndayang n dayang-dayang, pelayan wanita di istana, biti perwara
+    (dl hik) dayông n (pen)dayung, pengayuh, mendayung: - sampan'
+  jawi: ''
+  id: mendayung sampan
+  en: ''
+- aceh: lagèe Niah ban geu -
+  jawi: ''
+  id: ''
+  en: ''
+- aceh: tuleueng -
+  jawi: ''
+  id: tulang belikat
+  en: ''
+- aceh: meu -
+  jawi: ''
+  id: berdayung, mempunyai dayung
+  en: ''
+- aceh: ureueng nyan teu-ga that jimeu -
+  jawi: ''
+  id: orang itu kuat sekali berdayung
+  en: ''
+- aceh: 'peu -, = -., peunganyoh dayu, meu - - a lemah, tidak berdaya krn sakit: pakon gata meu-nan meu
+    - -? ulôntuan sakét sabé geunab uroe, mengapakah Anda tampak lemah sekali? saya sakit setiap hari:
+    tubôhji pijuet meu - -'
+  jawi: ''
+  id: tubuhnya tampak kurus dan lemah sekali
+  en: ''
+- aceh: 'peu - - droe, berbuat seolah-olah lemah sekali dayuih adv dayus, tidak mau menghiraukan atau
+    mengambil pusing akan sesuatu, tidak mau menjaga kehormatan keluarganya: peue ha-reutoe -? ureueng
+    lakoe nyang hana jitém hiro keu ahaliji, apakah arti dayuih? seorang laki-laki yg tidak menghiraukan
+    kehormatan ahli-familinya'
+  jawi: ''
+  id: ''
+  en: ''
+- aceh: peu -
+  jawi: ''
+  id: menyebut seseorang sbg dayus, mendayuskan seseorang
+  en: ''
+- aceh: menghina seseorang atas perbuatannya yg tidak senonoh dè a tidak dalam, ceper, lipè déah, dèah,
+    dèeh, doyah n tempat bersembahyang yg tidak dipergunakan utk bersembahyang Jum'at
+  jawi: ''
+  id: berlantai batu tinggi dan berdinding papan, kadang-kadang bermihrab yg disemen ke dl dinding serta
+    dipagari tembok yg rendah
+  en: ''
 etymology: ''
-related_words: []
+related_words:
+- bimaran
+- '*rabé*'
+- '*reuah* ²daya *n* barat —'
+- 'barat daya: selatan (barat) —'
+- Barat daya semata Selatan
+- '*nieh*'
+- '*kayôh*'
+- '*peunganyoh* dayu'
+- meu — — *a* lemah
+- 'tidak berdaya krn sakit: *pakon gata meu-nan meu* — —? *ulôntuan sakét sabé geunab uroe*'
+- 'mengapakah Anda tampak lemah sekali? saya sakit setiap hari: *tubôhji pijuet meu* — —'
+- tubuhnya tampak kurus dan lemah sekali
+- '*deue*'
+- '*lipè* déah'
+- dèah
+- dèeh
+- doyah *n* tempat bersembahyang yg tidak dipergunakan utk bersembahyang Jum'at
+- berlantai batu tinggi dan berdinding papan
+- kadang-kadang bermihrab yg disemen ke dl dinding serta dipagari tembok yg rendah → *meunasah*
 dialect_notes: ''
-source: 'Daud, Bukhari & Mark Durie. Kamus Basa Acèh = Kamus Bahasa Aceh: Acehnese–Indonesian–English Thesaurus.
-  Pacific Linguistics C-151, 1999, p. 47; p. 49.'
-date_added: '2026-07-20'
+source: 'Kamus Aceh-Indonesia (extracted from pp.124-270 of the source edition, Acehnese section entries
+  cèm-unyèn through gutie/H). File: markdown.md supplied by the user. — pp.161-162'
+date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: ''
+extraction_notes: Indonesian example translations are taken verbatim from the source. English meanings
+  and Jawi transliterations are AI-flagged as unverified and need human review. Jawi transliteration is
+  AI-generated, not from source — needs verification by a Jawi-literate reviewer.

@@ -1,21 +1,32 @@
----
-headword: "cicah"
-jawi: ""
-alt_spelling: []
-ipa: "/ci.cah/"
-part_of_speech: "n"
-language_uncertain: false
+headword: cicah
+jawi: ''
+alt_spelling:
+- ceucah
+ipa: ''
+part_of_speech: v
 definitions:
-  - meaning_id: "1 masakan yg bahannya dipotong kecil-kecil, kemudian dicampurkan dng kelapa dan rempah-rempah utk lauk nasi"
-    meaning_en: ""
-  - meaning_id: "2 memotong kecil-kecil (tt buahbuahan)"
-    meaning_en: ""
+- meaning_id: memotong halus-halus (terutama buah-buahan)
+  meaning_en: ''
 examples:
-  []
-etymology: ""
+- aceh: keumamah, keumamaih ceunicah
+  jawi: ''
+  id: memotong halus-halus ikan kayu lalu dicampurkan dng rempah-rempah utk lauk nasi
+  en: ''
+- aceh: ceunicah, cinicah, hasil cicah
+  jawi: ''
+  id: sj rujak
+  en: ''
+- aceh: tapeugèt ceunicah
+  jawi: ''
+  id: buatlah rujak
+  en: ''
+etymology: ''
 related_words: []
-dialect_notes: ""
-source: "Kamus Bahasa Aceh Daring (Balai Bahasa Provinsi Aceh), 'Entri huruf — cicah', URL: https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/C?page=3 (diakses 20 Juli 2026)"
-date_added: "2026-07-20"
-contributor: "AI-extracted — needs human review"
-extraction_notes: "Diekstrak dari 1 halaman sumber (https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/C?page=3). Tidak ada bentuk Jawi dalam sumber — dibiarkan kosong sesuai aturan."
+dialect_notes: ''
+source: 'Kamus Aceh-Indonesia (extracted from pp.124-270 of the source edition, Acehnese section entries
+  cèm-unyèn through gutie/H). File: markdown.md supplied by the user. — p.134'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+extraction_notes: Indonesian example translations are taken verbatim from the source. English meanings
+  and Jawi transliterations are AI-flagged as unverified and need human review. Jawi transliteration is
+  AI-generated, not from source — needs verification by a Jawi-literate reviewer.

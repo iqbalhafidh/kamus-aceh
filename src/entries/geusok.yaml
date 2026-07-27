@@ -1,71 +1,41 @@
 headword: geusok
-jawi: ݢوسوق
+jawi: ''
 alt_spelling: []
 ipa: ''
 part_of_speech: v
 definitions:
 - meaning_id: menggosok, mengasah, menggesek (ump biola), (ki) merayu
   meaning_en: ''
-  examples:
-  - aceh: ta
-    jawi: ''
-    id: ''
-    en: ''
-  - aceh: talam mangat glèh
-    jawi: ''
-    id: Gosoklah talam itu supaya bersih!
-    en: Scrub that plate until it's clean!
-  - aceh: carong that ji
-    jawi: ''
-    id: ''
-    en: ''
-  - aceh: biula
-    jawi: ''
-    id: Ia pandai sekali menggesek biola
-    en: ''
-  - aceh: ka ji
-    jawi: ''
-    id: (—)
-    en: ''
-  - aceh: kon jipatèh, ureueng hana akai
-    jawi: ''
-    id: Ia telah dirayu orang, tentulah ia mempercayainya, ia seorang yg tidak berakal
-    en: He had been seduced, of course he believed it, he was an unthinking person
-  - aceh: meu
-    jawi: ''
-    id: dogosok
-    en: scrub
-  - aceh: bèk meu
-    jawi: ''
-    id: ''
-    en: ''
-  - aceh: ngon lòn taduek!
-    jawi: ''
-    id: Janganlah Anda duduk rapat sekali dng saya!
-    en: Don't sit so close to me!
-  - aceh: peu
-    jawi: ''
-    id: = —
-    en: ''
-  - aceh: geumeusok
-    jawi: ''
-    id: melakukan pekerjaan menggosok, sedang melakukan penggosokan
-    en: To do a rubbing job, is performing a rubbing
-  - aceh: geuneusok
-    jawi: ''
-    id: cara menggosok, hasil menggosok, penggesek biola
-    en: ''
-- meaning_id: Bd
-  meaning_en: title
-  examples:
-  - aceh: gisèng, gusuek
-    jawi: ''
-    id: ''
-    en: ''
+examples:
+- aceh: ta - talam mangat glèh, Gosoklah talam itu supaya bersih! carong that ji - biula
+  jawi: ''
+  id: Ia pandai sekali menggesek biola
+  en: ''
+- aceh: ka ji - (-), kon jipatèh, ureueng hana akai
+  jawi: ''
+  id: Ia telah dirayu orang, tentulah ia mempercayainya, ia seorang yg tidak berakal
+  en: ''
+- aceh: meu -
+  jawi: ''
+  id: dogosok
+  en: ''
+- aceh: bèk meu - ngon lòn taduek! Janganlah Anda duduk rapat sekali dng saya! peu - = -, geumeusok
+  jawi: ''
+  id: melakukan pekerjaan menggosok, sedang melakukan penggosokan
+  en: ''
+- aceh: geuneusok
+  jawi: ''
+  id: cara menggosok, hasil menggosok, penggesek biola
+  en: ''
 etymology: ''
-related_words: []
+related_words:
+- gisèng
+- gusuek
 dialect_notes: ''
-source: Kamus Aceh-Indonesia (Acehnese-Indonesian Dictionary), p. 235
+source: 'Kamus Aceh-Indonesia (extracted from pp.124-270 of the source edition, Acehnese section entries
+  cèm-unyèn through gutie/H). File: markdown.md supplied by the user. — p.235'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate reviewer. Some fields (English translations, Jawi) may be incomplete due to API rate limits during processing. Re-run the translation script to fill in missing fields.
+extraction_notes: Indonesian example translations are taken verbatim from the source. English meanings
+  and Jawi transliterations are AI-flagged as unverified and need human review. Jawi transliteration is
+  AI-generated, not from source — needs verification by a Jawi-literate reviewer.

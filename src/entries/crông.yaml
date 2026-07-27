@@ -1,25 +1,35 @@
 headword: crông
-jawi: چروڠ
+jawi: ''
 alt_spelling: []
 ipa: ''
 part_of_speech: v
 definitions:
-- meaning_id: 'menimba, mengambil sesuatu dr dl air: ta - ie lam mon ngon tima, ambillah air dr sumur dng timba'
+- meaning_id: menimba, mengambil sesuatu dr dl air
   meaning_en: ''
-  examples: []
-- meaning_id: ta - manok ka rôt lam mon, angkatlah ayam yg jatuh ke dl sumru
-  meaning_en: ''
-  examples: []
-- meaning_id: meu - (teu-), ditimba
-  meaning_en: to make a desing sound heard
-  examples: []
-- meaning_id: ceumeucrông, melakukan pekerjaan menimba
-  meaning_en: ''
-  examples: []
+examples:
+- aceh: ta - ie lam mon ngon tima
+  jawi: ''
+  id: ambillah air dr sumur dng timba
+  en: ''
+- aceh: ta - manok ka rôt lam mon
+  jawi: ''
+  id: angkatlah ayam yg jatuh ke dl sumru
+  en: ''
+- aceh: meu - (teu-)
+  jawi: ''
+  id: ditimba
+  en: ''
+- aceh: ceumeucrông
+  jawi: ''
+  id: melakukan pekerjaan menimba
+  en: ''
 etymology: ''
 related_words: []
 dialect_notes: ''
-source: Kamus Aceh-Indonesia (Acehnese-Indonesian Dictionary), p. 142
+source: 'Kamus Aceh-Indonesia (extracted from pp.124-270 of the source edition, Acehnese section entries
+  cèm-unyèn through gutie/H). File: markdown.md supplied by the user. — p.142'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate reviewer.
+extraction_notes: Indonesian example translations are taken verbatim from the source. English meanings
+  and Jawi transliterations are AI-flagged as unverified and need human review. Jawi transliteration is
+  AI-generated, not from source — needs verification by a Jawi-literate reviewer.

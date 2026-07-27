@@ -1,32 +1,45 @@
 headword: geuntêng
-jawi: كونتڠ
+jawi: ''
 alt_spelling: []
 ipa: ''
 part_of_speech: a
 definitions:
-- meaning_id: 'genting, ramping: euncien nyoe arat that, oh aneuk jaroe, cincin ini sempit sekali sehingga jari jari menjadi genting'
-  meaning_en: 'tight, slim: this ring is very tight so my finger becomes tight'
-  examples: []
-- meaning_id: nibak putôih bahlê-, nibak buta bahlê julêng, Dp putus biarlah genting, dp buta biarlah juling (pb) = dp tidak memperoleh sama sekali, biarlah memperoleh sedikit saja
+- meaning_id: genting, ramping
   meaning_en: ''
-  examples: []
-- meaning_id: '- that keuengi, Pinggangnya ramping sekali'
-  meaning_en: '- that keuengi, His waist is very slim'
-  examples: []
-- meaning_id: '- lumgke, tanduk yg genting'
-  meaning_en: '- lumgke, sharp horn'
-  examples: []
-- meaning_id: peu-, menggentingkan
-  meaning_en: ''
-  examples: []
-- meaning_id: merampingkan
-  meaning_en: 'protruding, bulging, swelling, taut: pruet ka —, pakri jijak lom? perutnya sudah mengembung sekali, mengapa ia berjalan lagi? meu —, protruding'
-  examples: []
+examples:
+- aceh: euncien nyoe arat that
+  jawi: ''
+  id: oh aneuk jaroe, cincin ini sempit sekali sehingga jari jari menjadi genting
+  en: ''
+- aceh: nibak pu- tôih bahlê-
+  jawi: ''
+  id: nibak buta bahlê ju- lêng, Dp putus biarlah genting, dp buta biarlah juling (pb) = dp tidak memperoleh
+    sama sekali, biarlah memperoleh sedikit saja
+  en: ''
+- aceh: '- that keuengi'
+  jawi: ''
+  id: Pinggangnya ramping sekali
+  en: ''
+- aceh: '- lumgke'
+  jawi: ''
+  id: tanduk yg gen- ting
+  en: ''
+- aceh: peu-
+  jawi: ''
+  id: menggentingkan
+  en: ''
+- aceh: me- rampingkan
+  jawi: ''
+  id: ''
+  en: ''
 etymology: ''
 related_words:
 - takok
 dialect_notes: ''
-source: Kamus Aceh-Indonesia (Acehnese-Indonesian Dictionary), p. 230
+source: 'Kamus Aceh-Indonesia (extracted from pp.124-270 of the source edition, Acehnese section entries
+  cèm-unyèn through gutie/H). File: markdown.md supplied by the user. — p.230'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate reviewer.
+extraction_notes: Indonesian example translations are taken verbatim from the source. English meanings
+  and Jawi transliterations are AI-flagged as unverified and need human review. Jawi transliteration is
+  AI-generated, not from source — needs verification by a Jawi-literate reviewer.

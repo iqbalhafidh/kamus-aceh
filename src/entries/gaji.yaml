@@ -1,256 +1,156 @@
 headword: gaji
-jawi: ڬاجي
+jawi: ''
 alt_spelling: []
 ipa: ''
 part_of_speech: n
 definitions:
 - meaning_id: gaji, upah, jerih payah
   meaning_en: ''
-  examples:
-  - aceh: pajôh
-    jawi: ''
-    id: makan gaji, bekerja pd seseorang atau sesuatu jawatan pemerintahah atau swasta
-    en: ''
-  - aceh: meu
-    jawi: ''
-    id: bergaji, menerima gaji
-    en: neu - beuleubaih, floor beams below roof
-  - aceh: na tameu
-    jawi: ''
-    id: '? Adakah Anda menerima gaji?'
-    en: ''
-  - aceh: gak-gök n
-    jawi: ''
-    id: sj permainan anak-anak
-    en: ''
-  - aceh: meu
-    jawi: ''
-    id: bermain
-    en: ''
-  - aceh: gak-gök
-    jawi: ''
-    id: →
-    en: →
-  - aceh: gok
-    jawi: ''
-    id: ''
-    en: ''
-  - aceh: gaki n
-    jawi: ''
-    id: kaki, bagian bawah suatu benda, ukuran panjang
-    en: foot, bottom part of an object, unit of length
-  - aceh: srah
-    jawi: ''
-    id: mencuci kaki
-    en: come back
-  - aceh: aneuk
-    jawi: ''
-    id: jari-jari kaki
-    en: ''
-  - aceh: inong
-    jawi: ''
-    id: ibu jari kaki
-    en: ''
-  - aceh: tapak
-    jawi: ''
-    id: telapak kaki
-    en: ''
-  - aceh: mata
-    jawi: ''
-    id: mata kaki
-    en: ''
-  - aceh: jak ngon
-    jawi: ''
-    id: berjalan kaki
-    en: a piece
-- meaning_id: '-'
-  meaning_en: '-'
-  examples:
-  - aceh: tamèh
-    jawi: ''
-    id: kaki tiang
-    en: pillar foot
-- meaning_id: '-'
-  meaning_en: '-'
-  examples:
-  - aceh: reunyeun
-    jawi: ''
-    id: kaki tangga
-    en: ''
-- meaning_id: '-'
-  meaning_en: '-'
-  examples:
-  - aceh: awan
-    jawi: ''
-    id: kaki awan
-    en: turn, market day
-- meaning_id: '-'
-  meaning_en: '-'
-  examples:
-  - aceh: langèt
-    jawi: ''
-    id: kaki langit, horison
-    en: ''
-  - aceh: si
-    jawi: ''
-    id: sekali (ukuran panjang = 2
-    en: ''
-  - aceh: meuseuti
-    jawi: ''
-    id: ''
-    en: ''
-  - aceh: meu
-    jawi: ''
-    id: berkaki, berjalan kaki
-    en: on foot, walking
-  - aceh: peue gata hana meu
-    jawi: ''
-    id: ''
-    en: ''
-  - aceh: lè, h'an jeuet tajak keudroe, tayue (bak) gob sabè
-    jawi: ''
-    id: '? Spakah Anda tidak berkaki lagi sehingga tidak dapat berjalan sendiri dan selalu menyuruh kerjakan kpd orang lain?'
-    en: ''
-  - aceh: ureueng Meusè geujak èk haji, ladòm meu
-    jawi: ''
-    id: ''
-    en: ''
-  - aceh: ladom meukandreuen
-    jawi: ''
-    id: "Orang-orang Mesir pergi naik haji, ada yg berjalan kaki dan ada yg berkendara\n §1§"
-    en: ''
-  - aceh: gala v
-    jawi: ''
-    id: 'gadaian, petaruh: -'
-    en: ''
-  - aceh: meula-ba
-    jawi: ''
-    id: gadaian yg diperhitungkan bunganya
-    en: collateral whose interest is calculated
-  - aceh: lampòih nyoe lam
-    jawi: ''
-    id: ''
-    en: ''
-  - aceh: gob
-    jawi: ''
-    id: Kebun ini digadai orang
-    en: This garden has been pawned
-  - aceh: peuduek lam
-    jawi: ''
-    id: menjadikan sbg barang gadaian
-    en: to use as collateral
-  - aceh: lòn
-    jawi: ''
-    id: ''
-    en: ''
-  - aceh: bak gob
-    jawi: ''
-    id: Saya menggadaikannya dr orang
-    en: ''
-  - aceh: meu
-    jawi: ''
-    id: (
-    en: ''
-  - aceh: teu
-    jawi: ''
-    id: ), digadaikan
-    en: ), pawned
-  - aceh: bèk meu
-    jawi: ''
-    id: ''
-    en: ''
-  - aceh: keudeh keunoe
-    jawi: ''
-    id: Janganlah tergadai kesana kemari
-    en: ''
-  - aceh: peu
-    jawi: ''
-    id: menggadaikan
-    en: ''
-  - aceh: atra nyan lòn peu
-    jawi: ''
-    id: ''
-    en: ''
-  - aceh: siplòh reunggèt
-    jawi: ''
-    id: Benda itu saya gadaikan sepuluh ringgit
-    en: I pawned that thing for ten ringgit
-  - aceh: geumala
-    jawi: ''
-    id: melakukan perbuatan menggadaikan
-    en: to pawn
-  - aceh: geunala
-    jawi: ''
-    id: barang yg telah digadaikan
-    en: ''
-  - aceh: atra lam geunala
-    jawi: ''
-    id: barang yg telah digadaikan
-    en: ''
-  - aceh: geunala atra nyoe siplòh reunggèt
-    jawi: ''
-    id: Utang barang gadaian ini berjumlah sepuluh ringgit. →
-    en: ''
-  - aceh: gala-ran
-    jawi: ''
-    id: §2§
-    en: Do not laugh improperly in front of the guests!
-  - aceh: gala gala-gala, geugala n
-    jawi: ''
-    id: damar, lak
-    en: ''
-  - aceh: gala-gala
-    jawi: ''
-    id: →
-    en: →
-  - aceh: 'dama: ureueng lam kuta teungoh taguen'
-    jawi: ''
-    id: Orang-orang di dl kubu pertahanan sedang memasak damar (utk disiram kpd mush)
-    en: ''
-  - aceh: meu
-    jawi: ''
-    id: (dl hik, biasanya secara ki dan dng peng-ikar)berkekuatan, berkehidupan; badanji
-    en: (in stories, usually with ki and with peng-ikar) powerful, alive; badanji
-  - aceh: hancò
-    jawi: ''
-    id: tuleuenji patah
-    en: ''
-  - aceh: h'an bubè drah pi meu
-    jawi: ''
-    id: Badanya hancur, tulang-tulangnya patah, sedikit pun ia tidak berkekuatan
-    en: ''
-  - aceh: hana sapat na meu
-    jawi: ''
-    id: Di mana-mana tidak menunjukkan adanya kehidupan
-    en: ''
-  - aceh: galagarò n
-    jawi: ''
-    id: sj gaharu yg tergolong
-    en: ''
-  - aceh: aweueh peuet plòh peuet
-    jawi: ''
-    id: ''
-    en: ''
-  - aceh: galah n
-    jawi: ''
-    id: galah, kayu pendorong perahu dr tepian ke laut atau sebaliknya →
-    en: ''
-  - aceh: jhò
-    jawi: ''
-    id: ''
-    en: ''
-  - aceh: si
-    jawi: ''
-    id: ''
-    en: ''
-  - aceh: uroe
-    jawi: ''
-    id: "Matahari sudah terbit setinggi galah\n\n\n\n di langit (kira-kira pukul 7.00 — 7.30 pagi). ji — prahô, Ia mendorong perahu dng galah; meu —, geumalah, sedang mendorong dng galaah; meu — — panyang, (meutak-tham), bermain galasin; aneuk miet teungoh jimeu — — panyang, Anak-anak sedang bermain galasin; peu —, mendorong, menyuruh dorong; tapeu — bak kong, hai! Hai, doronglah kuat-kuat!\n galak adv suka, mau, cinta, gembira, sedang: lôn — that keu saka, Saya suka sekali makan gula; lôn hana — keu ureueng ...[truncated]"
-    en: to smell
+- meaning_id: meu —, geumalah, sedang mendorong dng galaah
+  meaning_en: ''
+- meaning_id: meu — — panyang, (meutak-tham), bermain galasin
+  meaning_en: ''
+- meaning_id: aneuk miet teungoh jimeu — — panyang, Anak-anak sedang bermain galasin
+  meaning_en: ''
+- meaning_id: peu —, mendorong, menyuruh dorong
+  meaning_en: ''
+- meaning_id: tapeu — bak kong, hai! Hai, doronglah kuat-kuat!
+  meaning_en: ''
+examples:
+- aceh: pajôh -
+  jawi: ''
+  id: makan gaji, bekerja pd seseorang atau sesuatu jawatan pemerintahah atau swasta
+  en: ''
+- aceh: meu -
+  jawi: ''
+  id: bergaji, menerima gaji
+  en: ''
+- aceh: 'na tameu -? Adakah Anda menerima gaji? gak-gök n sj permainan anak-anak: meu -, bermain gak-gök,
+    bagian bawah suatu benda, ukuran panjang: srah -'
+  jawi: ''
+  id: mencuci kaki
+  en: ''
+- aceh: aneuk -
+  jawi: ''
+  id: jari-jari kaki
+  en: ''
+- aceh: inong -
+  jawi: ''
+  id: ibu jari kaki
+  en: ''
+- aceh: tapak -
+  jawi: ''
+  id: telapak kaki
+  en: ''
+- aceh: mata -
+  jawi: ''
+  id: mata kaki
+  en: ''
+- aceh: jak ngon -
+  jawi: ''
+  id: berjalan kaki
+  en: ''
+- aceh: '- tamèh'
+  jawi: ''
+  id: kaki tiang
+  en: ''
+- aceh: '- reunyeun'
+  jawi: ''
+  id: kaki tangga
+  en: ''
+- aceh: '- awan'
+  jawi: ''
+  id: kaki awan
+  en: ''
+- aceh: '- langèt'
+  jawi: ''
+  id: kaki langit, horison
+  en: ''
+- aceh: si -, sekali (ukuran panjang = 2 meuseuti
+  jawi: ''
+  id: ''
+  en: ''
+- aceh: meu -
+  jawi: ''
+  id: berkaki, berjalan kaki
+  en: ''
+- aceh: 'peue gata hana meu - lè, h''an jeuet tajak keudroe, tayue (bak) gob sabè? Spakah Anda tidak berkaki
+    lagi sehingga tidak dapat berjalan sendiri dan selalu menyuruh kerjakan kpd orang lain? ureueng Meusè
+    geujak èk haji, ladòm meu -, ladom meukandreuen, Orang-orang Mesir pergi naik haji, ada yg berjalan
+    kaki dan ada yg berkendara $^{1}$gala v gadaian, petaruh: - meula-ba'
+  jawi: ''
+  id: gadaian yg diperhitungkan bunganya
+  en: ''
+- aceh: lampòih nyoe lam - gob, Kebun ini digadai orang peuduek lam -
+  jawi: ''
+  id: menjadikan sbg barang gadaian
+  en: ''
+- aceh: lòn - bak gob
+  jawi: ''
+  id: Saya menggadaikannya dr orang
+  en: ''
+- aceh: meu - (teu -)
+  jawi: ''
+  id: digadaikan
+  en: ''
+- aceh: bèk meu - keudeh keunoe, Janganlah tergadai kesana kemari peu -
+  jawi: ''
+  id: menggadaikan
+  en: ''
+- aceh: atra nyan lòn peu - siplòh reunggèt
+  jawi: ''
+  id: Benda itu saya gadaikan sepuluh ringgit
+  en: ''
+- aceh: geumala
+  jawi: ''
+  id: melakukan perbuatan menggadaikan
+  en: ''
+- aceh: geunala
+  jawi: ''
+  id: barang yg telah digadaikan
+  en: ''
+- aceh: atra lam geunala
+  jawi: ''
+  id: barang yg telah digadaikan
+  en: ''
+- aceh: geunala atra nyoe siplòh reunggèt, Utang barang gadaian ini berjumlah sepuluh ringgit., geugala
+    n damar, lak, gala-gala*
+  jawi: ''
+  id: Orang-orang di dl kubu pertahanan sedang memasak damar (utk disiram kpd mush)
+  en: ''
+- aceh: meu - (dl hik
+  jawi: ''
+  id: biasanya secara ki dan dng peng-ikar)berkekuatan, berkehidupan
+  en: ''
+- aceh: badanji hancò, tuleuenji patah, h'an bubè drah pi meu -
+  jawi: ''
+  id: Badanya hancur, tulang-tulangnya patah, sedikit pun ia tidak berkekuatan
+  en: ''
+- aceh: hana sapat na meu -, Di mana-mana tidak menunjukkan adanya kehidupan galagarò n sj gaharu yg tergolong
+    aweueh peuet plòh peuet galah n galah
+  jawi: ''
+  id: kayu pendorong perahu dr tepian ke laut atau sebaliknya, Matahari sudah terbit setinggi galah di
+    langit (kira-kira pukul 7.00 — 7.30 pagi). ji — prahô, Ia mendorong perahu dng galah
+  en: ''
 etymology: ''
-related_words: []
+related_words:
+- '*gok* *gaki n* kaki'
+- bagian bawah suatu benda
+- 'ukuran panjang: *srah* -'
+- mencuci kaki
+- '*gala-ran* $^{2}$*gala gala-gala'
+- geugala n* damar
+- lak
+- '*gala-gala* → *dama: ureueng lam kuta teungoh taguen* -'
+- Orang-orang di dl kubu pertahanan sedang memasak damar (utk disiram kpd mush)
+- '*jhò* : *si* - *uroe*'
+- Matahari sudah terbit setinggi galah di langit (kira-kira pukul 7.00 — 7.30 pagi). ji — prahô
+- Ia mendorong perahu dng galah
 dialect_notes: ''
-source: Kamus Aceh-Indonesia (Acehnese-Indonesian Dictionary), pp. 207, 208, 209
+source: 'Kamus Aceh-Indonesia (extracted from pp.124-270 of the source edition, Acehnese section entries
+  cèm-unyèn through gutie/H). File: markdown.md supplied by the user. — pp.207-209'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate reviewer. Some fields (English translations, Jawi) may be incomplete due to API rate limits during processing. Re-run the translation script to fill in missing fields.
+extraction_notes: Indonesian example translations are taken verbatim from the source. English meanings
+  and Jawi transliterations are AI-flagged as unverified and need human review. Jawi transliteration is
+  AI-generated, not from source — needs verification by a Jawi-literate reviewer.

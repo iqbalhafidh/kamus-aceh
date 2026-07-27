@@ -2,18 +2,46 @@ headword: gasi
 jawi: ''
 alt_spelling: []
 ipa: ''
-part_of_speech: ''
+part_of_speech: v
 definitions:
-- meaning_id: cangkok, okulasi
-  meaning_en: graft
-- meaning_id: kebiri
-  meaning_en: castrate
-examples: []
+- meaning_id: mengebirikan, mencangkok tanaman
+  meaning_en: ''
+examples:
+- aceh: manok -
+  jawi: ''
+  id: ayam kebiri
+  en: ''
+- aceh: kamêng -
+  jawi: ''
+  id: kambing kebiri
+  en: ''
+- aceh: ta - bak jambêe nyoe
+  jawi: ''
+  id: Cangkoklah ba- tang jambu ini
+  en: ''
+- aceh: meu -, (teu -)
+  jawi: ''
+  id: dikebiri
+  en: ''
+- aceh: peu -
+  jawi: ''
+  id: menyuruh kebirikan
+  en: ''
+- aceh: geumasi
+  jawi: ''
+  id: sedang mengebirikan
+  en: ''
+- aceh: ayah teungoh geugeumasi bak kuyuen di likôt rumoh
+  jawi: ''
+  id: Ayah sedang mencangkok pohon jeruk nipis di belakang rumah
+  en: ''
 etymology: ''
 related_words: []
 dialect_notes: ''
-source: 'Daud, Bukhari & Mark Durie. Kamus Basa Acèh = Kamus Bahasa Aceh: Acehnese–Indonesian–English Thesaurus.
-  Pacific Linguistics C-151, 1999, p. 61; p. 64; p. 104.'
-date_added: '2026-07-20'
+source: 'Kamus Aceh-Indonesia (extracted from pp.124-270 of the source edition, Acehnese section entries
+  cèm-unyèn through gutie/H). File: markdown.md supplied by the user. — p.219'
+date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: ''
+extraction_notes: Indonesian example translations are taken verbatim from the source. English meanings
+  and Jawi transliterations are AI-flagged as unverified and need human review. Jawi transliteration is
+  AI-generated, not from source — needs verification by a Jawi-literate reviewer.

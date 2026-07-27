@@ -1,31 +1,41 @@
 headword: gichek
-jawi: ݢيجيك
+jawi: ''
 alt_spelling:
 - giche
 - gichok
 ipa: ''
 part_of_speech: v
 definitions:
-- meaning_id: "menginjakinjak ke atas sesuatu sehingga menzotorkan kaki atau sesuatu: bak ka — tika êh, Janganlah engkau menginjak-injak tikar tempat\n tidur. bek ka — leubob, Janganlah engkau menginjak-injak lumpur. meu —, teu —, terinjak, diinjak"
+- meaning_id: menginjak- injak ke atas sesuatu sehingga menzotorkan kaki atau sesuatu
   meaning_en: ''
-  examples:
-  - aceh: rôh teu
-    jawi: ''
-    id: êk leumo gaki lôn, Kaki saya tak sengaja menginjak tahi sapi
-    en: êk leumo gaki lôn, My foot accidentally stepped on cow dung
-- meaning_id: geu-michèk, melakukan penginjakan
-  meaning_en: tickling, stepping on
-  examples: []
-- meaning_id: bèk kageumi chèk sabé lam tika, Jangan selalu engkau menginjak-injak tikar tempat tidur (sehingga kotor)
-  meaning_en: bèk kageumi chèk sabé lam tika, Don't always step on the bed mat (so it gets dirty)
-  examples: []
+examples:
+- aceh: bak ka - tika êh
+  jawi: ''
+  id: Janganlah eng- kau menginjak-injak tikar tempat tidur. bek ka — leubob, Janganlah engkau menginjak-injak
+    lumpur. meu —, teu —, terinjak, diinjak
+  en: ''
+- aceh: rôh teu - êk leumo gaki lôn
+  jawi: ''
+  id: Kaki saya tak sengaja menginjak tahi sapi
+  en: ''
+- aceh: geu-michèk
+  jawi: ''
+  id: melakukan penginjakan
+  en: ''
+- aceh: bèk kageumi chèk sabé lam tika
+  jawi: ''
+  id: Jangan selalu eng- kau menginjak-injak tikar tempat tidur (sehingga kotor), gilho, licgèk
+  en: ''
 etymology: ''
 related_words:
 - gidong
 - gilho
 - licgèk
 dialect_notes: ''
-source: Kamus Aceh-Indonesia (Acehnese-Indonesian Dictionary), p. 239
+source: 'Kamus Aceh-Indonesia (extracted from pp.124-270 of the source edition, Acehnese section entries
+  cèm-unyèn through gutie/H). File: markdown.md supplied by the user. — p.239'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: 'Source lists variant spellings: giche, gichok. Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate reviewer.'
+extraction_notes: Indonesian example translations are taken verbatim from the source. English meanings
+  and Jawi transliterations are AI-flagged as unverified and need human review. Jawi transliteration is
+  AI-generated, not from source — needs verification by a Jawi-literate reviewer.

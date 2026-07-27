@@ -1,40 +1,35 @@
 headword: gleuen
-jawi: ڬلوين
+jawi: ''
 alt_spelling: []
 ipa: ''
 part_of_speech: a
 definitions:
 - meaning_id: keadaan hampir lemas krn tertawa atau menangis
-  meaning_en: 'in front: meu —, facing someone, being in front of someone, facing each other'
-  examples:
-  - aceh: ji-khèm 'ou
-    jawi: ''
-    id: Ia tertawa hampirhampir lemas
-    en: He laughed almost breathless
-  - aceh: aneuk nyan ka
-    jawi: ''
-    id: ''
-    en: ''
-  - aceh: bunoe jimoe
-    jawi: ''
-    id: Anak (kecil) itu tadi menangis hampir-hampir lemas
-    en: ''
-  - aceh: peu
-    jawi: ''
-    id: membiarkan hampir-hampir lemas krn tertawa atau menangis
-    en: ''
-  - aceh: bèk tapeu
-    jawi: ''
-    id: ''
-    en: ''
-  - aceh: aneuk, hai
-    jawi: ''
-    id: Hai, jangan Anda membiarkan anak menangis sampai hampir-hampir lemas
-    en: ''
+  meaning_en: ''
+examples:
+- aceh: ji-khèm 'ou -
+  jawi: ''
+  id: Ia tertawa hampir- hampir lemas
+  en: ''
+- aceh: aneuk nyan ka - bunoe jimoe
+  jawi: ''
+  id: Anak (kecil) itu tadi menangis hampir-hampir lemas
+  en: ''
+- aceh: peu -
+  jawi: ''
+  id: membiarkan hampir-hampir lemas krn tertawa atau menangis
+  en: ''
+- aceh: bèk tapeu - aneuk, hai
+  jawi: ''
+  id: Hai, jangan Anda membiarkan anak menangis sampai hampir-hampir lemas
+  en: ''
 etymology: ''
 related_words: []
 dialect_notes: ''
-source: Kamus Aceh-Indonesia (Acehnese-Indonesian Dictionary), p. 245
+source: 'Kamus Aceh-Indonesia (extracted from pp.124-270 of the source edition, Acehnese section entries
+  cèm-unyèn through gutie/H). File: markdown.md supplied by the user. — p.245'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate reviewer. Some fields (English translations, Jawi) may be incomplete due to API rate limits during processing. Re-run the translation script to fill in missing fields.
+extraction_notes: Indonesian example translations are taken verbatim from the source. English meanings
+  and Jawi transliterations are AI-flagged as unverified and need human review. Jawi transliteration is
+  AI-generated, not from source — needs verification by a Jawi-literate reviewer.

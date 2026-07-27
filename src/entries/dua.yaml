@@ -1,194 +1,133 @@
 headword: dua
-jawi: دوا
+jawi: ''
 alt_spelling: []
 ipa: ''
 part_of_speech: num
 definitions:
 - meaning_id: dua
   meaning_en: ''
-  examples:
-  - aceh: ban
-    jawi: ''
-    id: kedua-duanya, bersama-sama, berdua-duaan →
-    en: both, together, both together
-  - aceh: simadôn, sui, t-pak, cut
-    jawi: ''
-    id: pd
-    en: ''
-  - aceh: peu-cut, won-won, bè
-    jawi: ''
-    id: ''
-    en: ''
-  - aceh: meurungkhè
-    jawi: ''
-    id: ''
-    en: ''
-  - aceh: nanggroe
-    jawi: ''
-    id: (—
-    en: ''
-  - aceh: teumpat
-    jawi: ''
-    id: ), kedua-dua negeri atau tempat, yi dunia yg fana ini dan dunia yg baka, darat dan air
-    en: ), both countries or places, this transient world and the eternal world, land and water
-  - aceh: tapubuet amai keubajikan supaya seulamat ban
-    jawi: ''
-    id: ''
-    en: ''
-  - aceh: teumpat
-    jawi: ''
-    id: perbuatlah amal kebajikan spy Anda selamat di dunia dan di akhirat
-    en: do good deeds so that you will be safe in this world and in the hereafter
-  - aceh: binatang udèp
-    jawi: ''
-    id: ''
-    en: ''
-  - aceh: nanggroe
-    jawi: ''
-    id: binatang yg hidup pd dua tempat, amfibi
-    en: ''
-  - aceh: meu
-    jawi: ''
-    id: "melakukan sesuatu berdua-duaan,\n\n\n\n membagi dua, membagi dl dua bagian"
-    en: ''
-  - aceh: jipoh lôn jimeu
-    jawi: ''
-    id: mereka berdua memukul saya
-    en: ''
-  - aceh: meu
-    jawi: ''
-    id: ''
-    en: ''
-  - aceh: basi
-    jawi: ''
-    id: →
-    en: →
-  - aceh: basi
-    jawi: ''
-    id: ''
-    en: ''
-  - aceh: meu
-    jawi: ''
-    id: ''
-    en: ''
-  - aceh: laba
-    jawi: ''
-    id: membagi dua keuntungan →
-    en: ''
-  - aceh: maw'aih
-    jawi: ''
-    id: ''
-    en: ''
-  - aceh: udép bak saré maté bak sajan, sikrak kaphan tameu
-    jawi: ''
-    id: marilah kita hidup dan mati bersama-sama, (jika kita meninggal) sehelai kain kafan kita bagi berdua
-    en: Let us live and die together, (when we die) one shroud for both of us
-  - aceh: peu
-    jawi: ''
-    id: menudakan
-    en: to walk
-  - aceh: nyang sa bèk tapeu
-    jawi: ''
-    id: yg esa janganlah kita anggap spt dua
-    en: ''
-  - aceh: meungnyo neu-keumeung peu
-    jawi: ''
-    id: ''
-    en: ''
-  - aceh: leubèh gèt neutaleuek lon
-    jawi: ''
-    id: jika Anda ingin menambah seorang istri lagi
-    en: noisy, chaotic
-  - aceh: du'a
-    jawi: ''
-    id: ''
-    en: ''
-  - aceh: ''
-    jawi: ''
-    id: n
-    en: ''
-  - aceh: 'doa, mantra:'
-    jawi: ''
-    id: beuet* —, membaca doa
-    en: beuet* —, reading a prayer
-  - aceh: lakèe
-    jawi: ''
-    id: meminta doa kpd Tuhan
-    en: to ask for prayers from God
-  - aceh: neulakèe
-    jawi: ''
-    id: ''
-    en: ''
-  - aceh: keu lôn
-    jawi: ''
-    id: mintakan doa utk saya
-    en: ''
-  - aceh: lôn lakèe
-    jawi: ''
-    id: ''
-    en: ''
-  - aceh: bak seulamat droeneu
-    jawi: ''
-    id: saya berdoa semoga Anda memperoleh keselamatan
-    en: I pray that you find safety
-  - aceh: bèn khoiri
-    jawi: ''
-    id: (—
-    en: ''
-  - aceh: seulamat
-    jawi: ''
-    id: ) doa selamat
-    en: ''
-  - aceh: kubu
-    jawi: ''
-    id: doa yg dibacakan pd waktu menguburkan seseorang
-    en: prayer recited when burying someone
-  - aceh: seulusôh
-    jawi: ''
-    id: mantra seluruh yg dibacakan utk mempercepat kelahiran anak yg sedang dirpan oleh ibunya, mantra utk memudahkan kelahiran
-    en: ''
-  - aceh: keubai
-    jawi: ''
-    id: mantra kebal
-    en: ''
-  - aceh: meu
-    jawi: ''
-    id: berdoa, membacakan doa, ahli mantra
-    en: praying, reciting prayers, expert mantra
-  - aceh: neumeu
-    jawi: ''
-    id: ''
-    en: ''
-  - aceh: bacut keu ulôntuan
-    jawi: ''
-    id: bacakan doa selamat utk saya sedikit
-    en: ''
-  - aceh: ureueng
-    jawi: ''
-    id: ''
-    en: ''
-  - aceh: nyan meu
-    jawi: ''
-    id: orang itu ahli mantra
-    en: that person is an expert in spells/mantras
-  - aceh: peu
-    jawi: ''
-    id: membacakan doa utk seseorang, menjampi seseorang
-    en: ''
-  - aceh: ka jipeu
-    jawi: ''
-    id: ''
-    en: ''
-  - aceh: inong nyan mangat pungo keu jih
-    jawi: ''
-    id: ia sudah memantarkan perempuan itu spy jatuh cinta kepadanya
-    en: he made that woman fall in love with him
+- meaning_id: — —, dua-dua, kedua-duanya
+  meaning_en: ''
+examples:
+- aceh: ban -, kedua-duanya, bersama-sama, berdua-duaan, sui, t-pak, cut pd peu-cut
+  jawi: ''
+  id: won-won, bè*
+  en: ''
+- aceh: '- nanggroe (-teumpat)'
+  jawi: ''
+  id: kedua-dua negeri atau tempat, yi dunia yg fana ini dan dunia yg baka, darat dan air
+  en: ''
+- aceh: tapubuet amai keubajikan supaya seulamat ban - teumpat
+  jawi: ''
+  id: perbuatlah amal kebajikan spy Anda selamat di dunia dan di akhirat
+  en: ''
+- aceh: binatang udèp - nanggroe
+  jawi: ''
+  id: binatang yg hidup pd dua tempat, amfibi
+  en: ''
+- aceh: meu-
+  jawi: ''
+  id: melakukan sesuatu berdua-duaan, membagi dua, membagi dl dua bagian
+  en: ''
+- aceh: jipoh lôn jimeu -
+  jawi: ''
+  id: mereka berdua memukul saya
+  en: ''
+- aceh: meu - basi
+  jawi: ''
+  id: ''
+  en: ''
+- aceh: meu - laba
+  jawi: ''
+  id: membagi dua keuntungan
+  en: ''
+- aceh: udép bak saré maté bak sajan, sikrak kaphan tameu -
+  jawi: ''
+  id: marilah kita hidup dan mati bersama-sama, (jika kita meninggal) sehelai kain kafan kita bagi berdua
+  en: ''
+- aceh: peu -
+  jawi: ''
+  id: menudakan
+  en: ''
+- aceh: nyang sa bèk tapeu -
+  jawi: ''
+  id: yg esa janganlah kita anggap spt dua
+  en: ''
+- aceh: meungnyo neu-keumeung peu -, leubèh gèt neutaleuek lon
+  jawi: ''
+  id: jika Anda ingin menambah seorang istri lagi
+  en: ''
+- aceh: 'lebih baik Anda menceraikan saya *du''a n doa, mantra: beuet* -'
+  jawi: ''
+  id: membaca doa
+  en: ''
+- aceh: lakèe -
+  jawi: ''
+  id: meminta doa kpd Tuhan
+  en: ''
+- aceh: neulakèe - keu lôn
+  jawi: ''
+  id: mintakan doa utk saya
+  en: ''
+- aceh: lôn lakèe - bak seulamat droeneu
+  jawi: ''
+  id: saya berdoa semoga Anda memperoleh keselamatan
+  en: ''
+- aceh: '- bèn khoiri (- seulamat) doa selamat'
+  jawi: ''
+  id: ''
+  en: ''
+- aceh: '- kubu'
+  jawi: ''
+  id: doa yg dibacakan pd waktu menguburkan seseorang
+  en: ''
+- aceh: '- seulusôh'
+  jawi: ''
+  id: mantra seluruh yg dibacakan utk mempercepat kelahiran anak yg sedang dirpan oleh ibunya, mantra
+    utk memudahkan kelahiran
+  en: ''
+- aceh: '- keubai'
+  jawi: ''
+  id: mantra kebal
+  en: ''
+- aceh: meu -
+  jawi: ''
+  id: berdoa, membacakan doa, ahli mantra
+  en: ''
+- aceh: neumeu - bacut keu ulôntuan
+  jawi: ''
+  id: bacakan doa selamat utk saya sedikit
+  en: ''
+- aceh: ureueng nyan meu -
+  jawi: ''
+  id: orang itu ahli mantra
+  en: ''
+- aceh: peu -
+  jawi: ''
+  id: membacakan doa utk seseorang, menjampi seseorang
+  en: ''
+- aceh: ka jipeu - inong nyan mangat pungo keu jih
+  jawi: ''
+  id: ia sudah memantarkan perempuan itu spy jatuh cinta kepadanya
+  en: ''
 etymology: ''
 related_words:
+- '*simadôn'
+- sui
+- t-pak
+- cut* pd *peu-cut
+- won-won
+- bè*
+- '*meurungkhè*'
+- '*basi*'
+- '*maw''aih*'
 - rajah
 - tangkai
 dialect_notes: ''
-source: Kamus Aceh-Indonesia (Acehnese-Indonesian Dictionary), pp. 179, 180
+source: 'Kamus Aceh-Indonesia (extracted from pp.124-270 of the source edition, Acehnese section entries
+  cèm-unyèn through gutie/H). File: markdown.md supplied by the user. — pp.179-180'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate reviewer. Some fields (English translations, Jawi) may be incomplete due to API rate limits during processing. Re-run the translation script to fill in missing fields.
+extraction_notes: Indonesian example translations are taken verbatim from the source. English meanings
+  and Jawi transliterations are AI-flagged as unverified and need human review. Jawi transliteration is
+  AI-generated, not from source — needs verification by a Jawi-literate reviewer.

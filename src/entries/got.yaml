@@ -4,16 +4,60 @@ alt_spelling: []
 ipa: ''
 part_of_speech: ''
 definitions:
-- meaning_id: baik
-  meaning_en: good, beautiful
-examples: []
+- meaning_id: gêt gôt
+  meaning_en: ''
+examples:
+- aceh: 'v tarik, ambil (dl arti yg tidak baik): - keumudoe'
+  jawi: ''
+  id: menarik kemudi, mengendalikan kemudi
+  en: ''
+- aceh: '- gamêt -, - beudê'
+  jawi: ''
+  id: menarik pelatuk senapan, menembak
+  en: ''
+- aceh: atr-atra gob ji - keu jih bandum
+  jawi: ''
+  id: Semua harta orang lain pun dijadikan miliknya
+  en: ''
+- aceh: meu - (teu -)
+  jawi: ''
+  id: ditarik, diambil
+  en: ''
+- aceh: 'bêk meu - areuta gob, Janganlah mengambil harta orang lain 1 gôt-gôt n sj burung hutan yg kepala,
+    leher dan dadanya berwarna hitam, sedangkan bagian lain berwarna merah: - payang iku'
+  jawi: ''
+  id: burung gôt-gôt yg panjang ekornya
+  en: ''
+- aceh: minyeuk -
+  jawi: ''
+  id: minyak yg diperoleh dr anak burung gôt-gôt setelah dimasak., peue nyang jieu jilakêe*, Spt gôt-gôt
+    di atas batu, apa yg dilihat dimintanya grab-grub berkali-kali grub, bunyi derap (ump orang berbaris),
+    bunyi letusan senjata api, bunyi orang mematahkan tulang
+  en: ''
+- aceh: na taleungo su -? nyan su sidadu mubarêh
+  jawi: ''
+  id: Adakah Anda mendengar bunyi derap? itu adalah bunyi serdadu berbaris
+  en: ''
+- aceh: jiwiet tuleueng -
+  jawi: ''
+  id: Ia mematahkan tulang dng suara yg berderak-derak
+  en: ''
 etymology: ''
 related_words:
-- get
+- '*geuntôt* 2 gôt-gôt *n* (rumoh) sj labah-labah yg selalu bergerak-gerak: *lagêe* — *lam batêe'
+- peue nyang jieu jilakêe*
+- Spt gôt-gôt di atas batu
+- apa yg dilihat dimintanya grab-grub berkali-kali grub
+- bunyi derap (ump orang berbaris)
+- bunyi letusan senjata api
+- bunyi orang mematahkan tulang
+- '*grub* 2gr''am'
 dialect_notes: ''
-source: 'Daud, Bukhari & Mark Durie. Kamus Basa Acèh = Kamus Bahasa Aceh: Acehnese–Indonesian–English Thesaurus.
-  Pacific Linguistics C-151, 1999, p. 48.'
-date_added: '2026-07-20'
+source: 'Kamus Aceh-Indonesia (extracted from pp.124-270 of the source edition, Acehnese section entries
+  cèm-unyèn through gutie/H). File: markdown.md supplied by the user. — pp.252-253'
+date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: PDF text-layer mismatch in the Acehnese form; copied from the searchable PDF text layer and needs
-  visual verification against printed p. 48.
+extraction_notes: Part of speech not explicitly marked in source. Indonesian example translations are
+  taken verbatim from the source. English meanings and Jawi transliterations are AI-flagged as unverified
+  and need human review. Jawi transliteration is AI-generated, not from source — needs verification by
+  a Jawi-literate reviewer.

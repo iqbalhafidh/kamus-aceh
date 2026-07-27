@@ -1,14 +1,35 @@
 headword: rumput
-jawi: رمڤت
+jawi: ''
 alt_spelling: []
 ipa: ''
 part_of_speech: ''
-definitions: []
+definitions:
+- meaning_id: ureueh 2 eumpoe, umpu (dl hik), eumpoe (spy beranjak), mengempu, memukul kuat-kuat
+  meaning_en: ''
+examples:
+- aceh: ta - mantong bak ba- tee u nyoe ! Empukan saja ke ba- tu buah kelapa ini!
+  jawi: ''
+  id: ''
+  en: ''
+- aceh: ka- yèe nyan ta - ngon srom
+  jawi: ''
+  id: Empu- kanlah kayu itu dng kampak, reumok
+  en: ''
 etymology: ''
 related_words:
-- ureueh
+- eumpu eumpu
+- umpu (dl hik)
+- eumpoe (spy beranjak)
+- mengempu
+- 'memukul kuat-kuat: ta - mantong bak ba- tee u nyoe ! Empukan saja ke ba- tu buah kelapa ini! → proh'
+- hancò
+- reumok
 dialect_notes: ''
-source: Kamus Aceh-Indonesia (Acehnese-Indonesian Dictionary), p. 198
+source: 'Kamus Aceh-Indonesia (extracted from pp.124-270 of the source edition, Acehnese section entries
+  cèm-unyèn through gutie/H). File: markdown.md supplied by the user. — p.198'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: Cross-reference entry pointing to 'ureueh'. Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate reviewer.
+extraction_notes: Part of speech not explicitly marked in source. Indonesian example translations are
+  taken verbatim from the source. English meanings and Jawi transliterations are AI-flagged as unverified
+  and need human review. Jawi transliteration is AI-generated, not from source — needs verification by
+  a Jawi-literate reviewer.

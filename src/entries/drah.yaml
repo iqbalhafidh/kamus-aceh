@@ -1,48 +1,64 @@
 headword: drah
-jawi: دراه
+jawi: ''
 alt_spelling: []
 ipa: ''
 part_of_speech: n
 definitions:
-- meaning_id: 'sesuatu yg terkecil (dl hik): (hana) (b)ubé —, (tidak) sebesar bagian yg terkecil, (tidak) sedikit jua'
-  meaning_en: 'the smallest thing (in parables): (hana) (b)ubé —, not as big as the smallest part, not a little either'
-  examples:
-  - aceh: "hana raya, cut bubé —, tidak besar, hanya sekecil bagian yg terkecil → alah, dôseuta\n 1 draih a deras, cepat (utk gerakan), jelas"
-    jawi: ''
-    id: that jijak, Ia berjalan cepat sekali
-    en: that jijak, He walks very fast
-  - aceh: '''oh hana lé bibi, jima-ritpi hana'
-    jawi: ''
-    id: lé, sewaktu ia tidak berbibir lagi, berkata-kata pun ia tidak jelas lagi
-    en: lé, sewaktu ia tidak berbibir lagi, berkata-kata pun ia tidak jelas lagi
-  - aceh: su jih
-    jawi: ''
-    id: that, suara-suaranya melengking sekali
-    en: ''
-  - aceh: peu
-    jawi: ''
-    id: mempercepat
-    en: to accelerate
-  - aceh: "pakon ta-peu — that? mengapa Anda berjalan cepat sekali?\n 2 draih n deras, pelajaran: ji"
-    jawi: ''
-    id: Kuru-an bak juih Taba, ia mendaras, Alquran juz Tabarakalladzi
-    en: ''
-  - aceh: meu
-    jawi: ''
-    id: mendaras, bercerita, berbual-bual
-    en: ''
-  - aceh: '''oh saré trôih u meunasah, jimeu'
-    jawi: ''
-    id: "ngon Malém Diwa, sesampai di meunasah lalu berceritalah ia dng Malém Diwa\n dr'am-dr'am, dr'um-dr'um, bunyi gemuruh tembakan meriam, senapang, aum harimau, api yg sedang menyala besar: meu ~ bergemuruh, menyebar ke mana-mana"
-    en: on Malém Diwa, upon arriving at the meunasah, he then told Malém Diwa stories
-- meaning_id: su meureuyam meu ~ , suara meriam bergemuruh. bèe minyeuk ata that meu ~ , bau minyak athar menyebar ke mana-mana
+- meaning_id: sesuatu yg terkecil (dl hik)
   meaning_en: ''
-  examples: []
+examples:
+- aceh: (hana) (b)ubé -, (tidak) sebesar bagian yg terkecil, (tidak) sedikit jua
+  jawi: ''
+  id: ''
+  en: ''
+- aceh: hana raya
+  jawi: ''
+  id: 'cut bubé —, tidak besar, hanya sekecil bagian yg terkecil, dôseuta 1 draih a deras, cepat (utk
+    gerakan), jelas: — that jijak, Ia berjalan cepat sekali'
+  en: ''
+- aceh: '''oh hana lé bibi'
+  jawi: ''
+  id: jima-ritpi hana — lé, sewaktu ia tidak berbibir lagi, berkata-kata pun ia tidak jelas lagi
+  en: ''
+- aceh: su jih - that
+  jawi: ''
+  id: suara-suaranya melengking sekali
+  en: ''
+- aceh: peu -
+  jawi: ''
+  id: mempercepat
+  en: ''
+- aceh: pakon ta-peu - that? mengapa Anda berjalan cepat sekali? 2 draih n deras
+  jawi: ''
+  id: 'pelajaran: ji — Kuru-an bak juih Taba, ia mendaras, Alquran juz Tabarakalladzi'
+  en: ''
+- aceh: meu -
+  jawi: ''
+  id: mendaras, bercerita, berbual-bual
+  en: ''
+- aceh: '''oh saré trôih u meunasah'
+  jawi: ''
+  id: 'jimeu — ngon Malém Diwa, sesampai di meunasah lalu berceritalah ia dng Malém Diwa dr''am-dr''am,
+    dr''um-dr''um, bunyi gemuruh tembakan meriam, senapang, aum harimau, api yg sedang menyala besar:
+    meu ~ berge- muruh, menyebar ke mana-mana'
+  en: ''
+- aceh: su meureuyam meu ~
+  jawi: ''
+  id: suara meriam bergemuruh. bèe minyeuk ata that meu ~, bau minyak athar menyebar ke mana-mana
+  en: ''
 etymology: ''
 related_words:
+- alah
+- dôseuta 1 draih a deras
+- cepat (utk gerakan)
+- 'jelas: — that jijak'
+- Ia berjalan cepat sekali
 - beukam
 dialect_notes: ''
-source: Kamus Aceh-Indonesia (Acehnese-Indonesian Dictionary), pp. 176, 177
+source: 'Kamus Aceh-Indonesia (extracted from pp.124-270 of the source edition, Acehnese section entries
+  cèm-unyèn through gutie/H). File: markdown.md supplied by the user. — pp.176-177'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate reviewer.
+extraction_notes: Indonesian example translations are taken verbatim from the source. English meanings
+  and Jawi transliterations are AI-flagged as unverified and need human review. Jawi transliteration is
+  AI-generated, not from source — needs verification by a Jawi-literate reviewer.

@@ -1,44 +1,36 @@
 headword: gusa
-jawi: ݢوسا
+jawi: ''
 alt_spelling: []
 ipa: ''
 part_of_speech: n
 definitions:
 - meaning_id: tongkat besi berkait utk mengendalikan gajah
-  meaning_en: iron hook for controlling elephants
-  examples:
-  - aceh: gajah ka èk tapeuna
-    jawi: ''
-    id: —
-    en: ''
-  - aceh: h'an èk tapeuna
-    jawi: ''
-    id: '? Anda telah dapat memelihara gajah, adakah tongkatnya tidak dapat Anda sediakan? (pb) = Anda telah berhasil melakukan yg besar, adakah pekerjaan yg kecil tidak dapat Anda lakukan?'
-    en: You've already been able to keep an elephant, can't you provide a stick for it? (pb) = You've succeeded in doing something big, can't you do something small?
-  - aceh: ji
-    jawi: ''
-    id: ''
-    en: ''
-  - aceh: gajah
-    jawi: ''
-    id: Ia mengendalikan gajah
-    en: ''
-  - aceh: geumusa
-    jawi: ''
-    id: melakukan *
-    en: ''
-  - aceh: gusa
-    jawi: ''
-    id: '*'
-    en: '*'
-  - aceh: geunusa
-    jawi: ''
-    id: = —
-    en: ''
+  meaning_en: ''
+examples:
+- aceh: gajah ka èk tapeuna, - h'an èk tapeuna? Anda telah dapat memelihara gajah
+  jawi: ''
+  id: adakah tongkatnya tidak dapat Anda sediakan? (pb) = Anda telah berhasil melakukan yg besar, adakah
+    pekerjaan yg kecil tidak dapat Anda lakukan?
+  en: ''
+- aceh: ji - gajah
+  jawi: ''
+  id: Ia mengendalikan gajah
+  en: ''
+- aceh: geumusa, melakukan *gusa*
+  jawi: ''
+  id: ''
+  en: ''
+- aceh: geunusa = -
+  jawi: ''
+  id: ''
+  en: ''
 etymology: ''
 related_words: []
 dialect_notes: ''
-source: Kamus Aceh-Indonesia (Acehnese-Indonesian Dictionary), p. 267
+source: 'Kamus Aceh-Indonesia (extracted from pp.124-270 of the source edition, Acehnese section entries
+  cèm-unyèn through gutie/H). File: markdown.md supplied by the user. — p.267'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate reviewer.
+extraction_notes: Indonesian example translations are taken verbatim from the source. English meanings
+  and Jawi transliterations are AI-flagged as unverified and need human review. Jawi transliteration is
+  AI-generated, not from source — needs verification by a Jawi-literate reviewer.

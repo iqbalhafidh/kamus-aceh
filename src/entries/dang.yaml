@@ -1,23 +1,47 @@
----
-headword: "dang"
-jawi: ""
+headword: dang
+jawi: ''
 alt_spelling: []
-ipa: "/daŋ/"
-part_of_speech: "n"
-language_uncertain: false
+ipa: ''
+part_of_speech: adv
 definitions:
-  - meaning_id: "1 alat untuk memasak nasi dalam jumlah yg banyak; kukusan"
-    meaning_en: ""
-  - meaning_id: "2 peralatan dapur yg digunakan untuk memasak air, rebusan, dsb, berbentuk bulat seperti panci; dandang"
-    meaning_en: ""
-  - meaning_id: "dandang"
-    meaning_en: ""
+- meaning_id: sedang selagi
+  meaning_en: ''
+- meaning_id: alat utk memintal benang atau sutera
+  meaning_en: ''
 examples:
-  []
-etymology: ""
+- aceh: lòn piòh teukalé gobnyan
+  jawi: ''
+  id: selagi saya beristirahat datanglah dia
+  en: ''
+- aceh: 'dang-dang adv sedang, selagi, sementara: ~ taprèh teuku, tapeusapat lé rakyat, Selagi Anda menanti
+    kedatangan teuku, kumpulkanlah rakyat! ~ geucob'
+  jawi: ''
+  id: sedang dijahit
+  en: ''
+- aceh: ~ ulôn piké
+  jawi: ''
+  id: sedang saya pikirkan
+  en: ''
+- aceh: ~ lôn èh di sramoe, teuka lé jamèe, Selagi saya tertidur di serambi, tibalah tamu. ~ ka lôn kheun
+    bunoe bèk, pakon tapubuet? Bukankah tadi saya katakan jangan, mengapa Anda melakukannya juga? ~ na
+    ~ tan
+  jawi: ''
+  id: selagi masiu ada, sedang tidak = dangdang, dara
+  en: ''
+etymology: ''
 related_words: []
-dialect_notes: ""
-source: "Kamus Bahasa Aceh Daring (Balai Bahasa Provinsi Aceh), 'Entri huruf — dang', URL: https://kamusbbpa.kemendikdasmen.go.id/kamus/Aceh/D (diakses 20 Juli 2026)"
-date_added: "2026-07-20"
-contributor: "AI-extracted — needs human review"
-extraction_notes: "Diekstrak dari 1 halaman sumber (https://kamusbbpa.kemendikdasmen.go.id/kamus/Aceh/D). Tidak ada bentuk Jawi dalam sumber — dibiarkan kosong sesuai aturan."
+dialect_notes: ''
+source: 'Kamus Aceh-Indonesia (extracted from pp.124-270 of the source edition, Acehnese section entries
+  cèm-unyèn through gutie/H). File: markdown.md supplied by the user. — p.152 ; Kamus Aceh-Indonesia (extracted
+  from pp.124-270 of the source edition, Acehnese section entries cèm-unyèn through gutie/H). File: markdown.md
+  supplied by the user. — p.157 ; Kamus Aceh-Indonesia (extracted from pp.124-270 of the source edition,
+  Acehnese section entries cèm-unyèn through gutie/H). File: markdown.md supplied by the user. — pp.157-158'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+extraction_notes: Indonesian example translations are taken verbatim from the source. English meanings
+  and Jawi transliterations are AI-flagged as unverified and need human review. Jawi transliteration is
+  AI-generated, not from source — needs verification by a Jawi-literate reviewer. Part of speech not explicitly
+  marked in source. Definition may be embedded in examples or incomplete in source. Indonesian example
+  translations are taken verbatim from the source. English meanings and Jawi transliterations are AI-flagged
+  as unverified and need human review. Jawi transliteration is AI-generated, not from source — needs verification
+  by a Jawi-literate reviewer.

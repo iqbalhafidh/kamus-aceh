@@ -1,37 +1,37 @@
 headword: geutuet
-jawi: ݢوتوت
+jawi: ''
 alt_spelling: []
 ipa: ''
 part_of_speech: n
 definitions:
 - meaning_id: kutil di tangan atau kaki
-  meaning_en: warts on hands or feet
-  examples:
-  - aceh: meu
-    jawi: ''
-    id: berkutil
-    en: having warts
-  - aceh: gakiji le that meu
-    jawi: ''
-    id: Di kakinya terdapat banyak sekali kutil
-    en: There are many warts on his feet
-  - aceh: peu
-    jawi: ''
-    id: mengusahakan tumbuhnya kutil
-    en: ''
-  - aceh: bêk tapeu
-    jawi: ''
-    id: ''
-    en: ''
-  - aceh: lôn
-    jawi: ''
-    id: Janganlah Anda menumbuhkan kutil pd saya (dng memercikan darah ayam ke bagian tubuh saya)
-    en: Don't grow warts on me (by sprinkling chicken blood on my body)
+  meaning_en: ''
+examples:
+- aceh: meu -
+  jawi: ''
+  id: berkutil
+  en: ''
+- aceh: gakiji le that meu -
+  jawi: ''
+  id: Di kakinya terdapat banyak sekali kutil
+  en: ''
+- aceh: peu -
+  jawi: ''
+  id: mengusahakan tumbuhnya kutil
+  en: ''
+- aceh: bêk tapeu - lôn Janganlah Anda menumbuhkan kutil pd saya (dng memercikan darah ayam ke bagian
+    tubuh saya)
+  jawi: ''
+  id: ''
+  en: ''
 etymology: ''
 related_words:
 - risa
 dialect_notes: ''
-source: Kamus Aceh-Indonesia (Acehnese-Indonesian Dictionary), p. 238
+source: 'Kamus Aceh-Indonesia (extracted from pp.124-270 of the source edition, Acehnese section entries
+  cèm-unyèn through gutie/H). File: markdown.md supplied by the user. — p.238'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate reviewer. Some fields (English translations, Jawi) may be incomplete due to API rate limits during processing. Re-run the translation script to fill in missing fields.
+extraction_notes: Indonesian example translations are taken verbatim from the source. English meanings
+  and Jawi transliterations are AI-flagged as unverified and need human review. Jawi transliteration is
+  AI-generated, not from source — needs verification by a Jawi-literate reviewer.

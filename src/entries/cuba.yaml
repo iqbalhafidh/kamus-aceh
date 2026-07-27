@@ -1,36 +1,39 @@
 headword: cuba
-jawi: جوبا
+jawi: ''
 alt_spelling: []
 ipa: ''
 part_of_speech: v
 definitions:
 - meaning_id: mencoba, berusaha, menguji
-  meaning_en: After eating three pieces of betel lime, then he departed
-  examples:
-  - aceh: ci neukalon siat
-    jawi: ''
-    id: pergilah Anda melihat sebentar
-    en: Go and see for a moment
-  - aceh: bah lôn
-    jawi: ''
-    id: –, biar saya coba
-    en: ''
-  - aceh: peu
-    jawi: ''
-    id: –, mencobakan
-    en: –, trying
-  - aceh: ceunuba
-    jawi: ''
-    id: cobaan
-    en: ''
-  - aceh: le that ceunuba
-    jawi: ''
-    id: banyak sekali cobaan
-    en: ''
+  meaning_en: ''
+examples:
+- aceh: ci neukalon siat
+  jawi: ''
+  id: pergilah Anda melihat sebentar
+  en: ''
+- aceh: bah lôn –
+  jawi: ''
+  id: biar saya coba
+  en: ''
+- aceh: peu –
+  jawi: ''
+  id: mencobakan
+  en: ''
+- aceh: ceunuba
+  jawi: ''
+  id: cobaan
+  en: ''
+- aceh: le that ceunuba
+  jawi: ''
+  id: banyak sekali cobaan
+  en: ''
 etymology: ''
 related_words: []
 dialect_notes: ''
-source: Kamus Aceh-Indonesia (Acehnese-Indonesian Dictionary), p. 144
+source: 'Kamus Aceh-Indonesia (extracted from pp.124-270 of the source edition, Acehnese section entries
+  cèm-unyèn through gutie/H). File: markdown.md supplied by the user. — p.144'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate reviewer.
+extraction_notes: Indonesian example translations are taken verbatim from the source. English meanings
+  and Jawi transliterations are AI-flagged as unverified and need human review. Jawi transliteration is
+  AI-generated, not from source — needs verification by a Jawi-literate reviewer.

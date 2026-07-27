@@ -1,20 +1,27 @@
 headword: dien
-jawi: دين
+jawi: ''
 alt_spelling: []
 ipa: ''
 part_of_speech: n
 definitions:
-- meaning_id: 'dian yg terbuat dr dama, lilin: tapak —, tempat lilin'
-  meaning_en: 'made of wax: candle base, candle holder'
-  examples:
-  - aceh: Nyak
-    jawi: ''
-    id: nama orang perempuan yg kulitnya bersih menyerupai warna lilin
-    en: ''
+- meaning_id: dian yg terbuat dr dama, li- lin
+  meaning_en: ''
+examples:
+- aceh: tapak -
+  jawi: ''
+  id: tempat lilin
+  en: ''
+- aceh: Nyak -
+  jawi: ''
+  id: nama orang perempuan yg kulitnya bersih menyerupai war- na lilin
+  en: ''
 etymology: ''
 related_words: []
 dialect_notes: ''
-source: Kamus Aceh-Indonesia (Acehnese-Indonesian Dictionary), p. 170
+source: 'Kamus Aceh-Indonesia (extracted from pp.124-270 of the source edition, Acehnese section entries
+  cèm-unyèn through gutie/H). File: markdown.md supplied by the user. — p.170'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate reviewer.
+extraction_notes: Indonesian example translations are taken verbatim from the source. English meanings
+  and Jawi transliterations are AI-flagged as unverified and need human review. Jawi transliteration is
+  AI-generated, not from source — needs verification by a Jawi-literate reviewer.

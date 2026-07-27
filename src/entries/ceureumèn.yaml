@@ -1,36 +1,35 @@
 headword: ceureumèn
-jawi: جرومين
+jawi: ''
 alt_spelling: []
 ipa: ''
 part_of_speech: n
 definitions:
 - meaning_id: cermin, kaca
-  meaning_en: mirror, glass
-  examples:
-  - aceh: apui
-    jawi: ''
-    id: (hrf) kaca api, kaca pembesar
-    en: (lit) fire glass, magnifying glass
-  - aceh: mata
-    jawi: ''
-    id: kaca mata
-    en: glasses
-  - aceh: lhoh droe
-    jawi: ''
-    id: —
-    en: ''
-  - aceh: muka
-    jawi: ''
-    id: cermin atau kaca hias
-    en: 'jih ka teu - lam sagoe, Ia terduduk di sudut: terhenti'
-  - aceh: meu
-    jawi: ''
-    id: bercermin
-    en: ''
+  meaning_en: ''
+examples:
+- aceh: apui
+  jawi: ''
+  id: (hrf) kaca api, kaca pembesar
+  en: ''
+- aceh: '- mata'
+  jawi: ''
+  id: kaca mata
+  en: ''
+- aceh: '- lhoh droe, - muka'
+  jawi: ''
+  id: cermin atau kaca hias
+  en: ''
+- aceh: meu -
+  jawi: ''
+  id: bercermin
+  en: ''
 etymology: ''
 related_words: []
 dialect_notes: ''
-source: Kamus Aceh-Indonesia (Acehnese-Indonesian Dictionary), p. 130
+source: 'Kamus Aceh-Indonesia (extracted from pp.124-270 of the source edition, Acehnese section entries
+  cèm-unyèn through gutie/H). File: markdown.md supplied by the user. — p.130'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate reviewer.
+extraction_notes: Indonesian example translations are taken verbatim from the source. English meanings
+  and Jawi transliterations are AI-flagged as unverified and need human review. Jawi transliteration is
+  AI-generated, not from source — needs verification by a Jawi-literate reviewer.

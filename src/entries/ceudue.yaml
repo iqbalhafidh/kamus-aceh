@@ -1,20 +1,27 @@
 headword: ceudue
-jawi: چئودوئ
+jawi: ''
 alt_spelling: []
 ipa: ''
 part_of_speech: n
 definitions:
-- meaning_id: 'tunggul, bagian tanaman yg tersisa setelah dipotong: bêk tajak keu nan rét, le that — kayêe di sinan, jangan Anda pergi ke jalan itu, banyak tunggul kayu dc situ'
+- meaning_id: tunggul, bagian tanaman yg tersisa setelah dipotong
   meaning_en: ''
-  examples:
-  - aceh: meu
-    jawi: ''
-    id: bertunggul
-    en: having a tusk
+examples:
+- aceh: bêk tajak keu nan rét
+  jawi: ''
+  id: le that — kayêe di sinan, jangan Anda pergi ke jalan itu, banyak tunggul kayu dc situ
+  en: ''
+- aceh: meu -
+  jawi: ''
+  id: bertunggul
+  en: ''
 etymology: ''
 related_words: []
 dialect_notes: ''
-source: Kamus Aceh-Indonesia (Acehnese-Indonesian Dictionary), p. 124
+source: 'Kamus Aceh-Indonesia (extracted from pp.124-270 of the source edition, Acehnese section entries
+  cèm-unyèn through gutie/H). File: markdown.md supplied by the user. — p.124'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate reviewer. Some fields (English translations, Jawi) may be incomplete due to API rate limits during processing. Re-run the translation script to fill in missing fields.
+extraction_notes: Indonesian example translations are taken verbatim from the source. English meanings
+  and Jawi transliterations are AI-flagged as unverified and need human review. Jawi transliteration is
+  AI-generated, not from source — needs verification by a Jawi-literate reviewer.

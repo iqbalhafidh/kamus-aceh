@@ -2,19 +2,113 @@ headword: di
 jawi: ''
 alt_spelling: []
 ipa: ''
-part_of_speech: ''
+part_of_speech: p
 definitions:
-- meaning_id: di, dari
-  meaning_en: at, from
-- meaning_id: kata penyerta subyek
-  meaning_en: focus, subject marker
-examples: []
+- meaning_id: di
+  meaning_en: ''
+- meaning_id: sejak ... sampai, dr
+  meaning_en: ''
+- meaning_id: mengenai, tt, dr hal
+  meaning_en: ''
+- meaning_id: kata depan penunjuk tempat, di
+  meaning_en: ''
+- meaning_id: Teungku — Tiro, nama keturun- an seorang ulama yg berpengaruh, berasal dr kampung Tiro dl
+    daerah kebupaten Pidie sekarang
+  meaning_en: ''
+examples:
+- aceh: Acèh
+  jawi: ''
+  id: di Aceh
+  en: ''
+- aceh: '- Padang di Padang'
+  jawi: ''
+  id: ''
+  en: ''
+- aceh: '- gampông'
+  jawi: ''
+  id: di kampung
+  en: ''
+- aceh: '- laôt'
+  jawi: ''
+  id: di laut
+  en: ''
+- aceh: '- rumoh'
+  jawi: ''
+  id: di rumah
+  en: ''
+- aceh: '- sinoe'
+  jawi: ''
+  id: di sini
+  en: ''
+- aceh: gobnyan ka geuwoe - Pulo Pinang
+  jawi: ''
+  id: ia sudah kembali dr Pulau Pinang
+  en: ''
+- aceh: '- sinoe'
+  jawi: ''
+  id: dr sini
+  en: ''
+- aceh: '- Aceh kon troih u Pidie'
+  jawi: ''
+  id: sejak di Aceh sampai ke Pidie
+  en: ''
+- aceh: '- phôn kon'
+  jawi: ''
+  id: dr semula
+  en: ''
+- aceh: '- cut kon'
+  jawi: ''
+  id: sedari kecil
+  en: ''
+- aceh: srot - ateueh
+  jawi: ''
+  id: jatuh dr atas
+  en: ''
+- aceh: '- bak gata'
+  jawi: ''
+  id: berasal dr Anda
+  en: ''
+- aceh: teubiet - dalam rumoh
+  jawi: ''
+  id: keluar dr rumah
+  en: ''
+- aceh: gob geujak u blang, - gata taduek - rumoh siuroe suntôk
+  jawi: ''
+  id: orang-orang lain pergi ke sawa, Anda berada sehari-harian di rumah
+  en: ''
+- aceh: h'antom - gob na - geutanyoe, saboh neggroe dua raja
+  jawi: ''
+  id: yg tak pernah terjadi pd orang-orang lain terjadi pd kita, sebuah negeri (diperintah oleh) dua orang
+    raja
+  en: ''
+- aceh: ban - asai
+  jawi: ''
+  id: spt pd asalnya
+  en: ''
+- aceh: bah - baka
+  jawi: ''
+  id: spt pd asalnya
+  en: ''
+- aceh: ban - dô-nya
+  jawi: ''
+  id: di seluruh dunia
+  en: ''
+- aceh: tuan - bunot
+  jawi: ''
+  id: nama seorang keramat yg pusaranya berada de- kat pohon bunot di Ulèe Lheue
+  en: ''
 etymology: ''
 related_words: []
 dialect_notes: ''
-source: 'Daud, Bukhari & Mark Durie. Kamus Basa Acèh = Kamus Bahasa Aceh: Acehnese–Indonesian–English Thesaurus.
-  Pacific Linguistics C-151, 1999, p. 113; vii (PDF p. 5).'
-date_added: '2026-07-20'
+source: 'Kamus Aceh-Indonesia (extracted from pp.124-270 of the source edition, Acehnese section entries
+  cèm-unyèn through gutie/H). File: markdown.md supplied by the user. — p.169 ; Kamus Aceh-Indonesia (extracted
+  from pp.124-270 of the source edition, Acehnese section entries cèm-unyèn through gutie/H). File: markdown.md
+  supplied by the user. — pp.169-170'
+date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: Headword spelling was aligned to the supplied OCR by conservative fuzzy matching (fuzzy:0.91);
-  verify against printed p. 113.
+extraction_notes: Indonesian example translations are taken verbatim from the source. English meanings
+  and Jawi transliterations are AI-flagged as unverified and need human review. Jawi transliteration is
+  AI-generated, not from source — needs verification by a Jawi-literate reviewer. Part of speech not explicitly
+  marked in source. Indonesian example translations are taken verbatim from the source. English meanings
+  and Jawi transliterations are AI-flagged as unverified and need human review. Jawi transliteration is
+  AI-generated, not from source — needs verification by a Jawi-literate reviewer.

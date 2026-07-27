@@ -1,26 +1,36 @@
 headword: geutieb
-jawi: ڬتيب
+jawi: ''
 alt_spelling:
 - gitieb
 ipa: ''
 part_of_speech: v
 definitions:
-- meaning_id: 'mengapit (ump sebaris papan atau belahan bambu di antara belebas kayu atau bambu): bintéh nyan ta ~ bak gèt, Apitlah dinding itu dng baik'
+- meaning_id: mengapit (ump seba- ris papan atau belahan bambu di antara belebas kayu atau bambu)
   meaning_en: ''
-  examples: []
-- meaning_id: meu ~, teu ~, terapit
-  meaning_en: meu ~, teu ~, trapped
-  examples: []
-- meaning_id: geuneutieb, melakukan pengapitan, sedang melakukan pengapitan. geuneutieb, yg diapit, alat utk mengapit
-  meaning_en: ''
-  examples: []
-- meaning_id: geuneutieb bintéh, Belebas bambu utk mengapit dinding
-  meaning_en: geuneutieb bintéh, Belebas bambu utk mengapit dinding
-  examples: []
+examples:
+- aceh: bintéh nyan ta ~ bak gèt
+  jawi: ''
+  id: Apitlah dinding itu dng baik
+  en: ''
+- aceh: meu ~
+  jawi: ''
+  id: teu ~, terapit
+  en: ''
+- aceh: geuneutieb
+  jawi: ''
+  id: melaku- kan pengapitan, sedang melaku- kan pengapitan. geuneutieb, yg di- apit, alat utk mengapit
+  en: ''
+- aceh: geuneuti- eb bintéh
+  jawi: ''
+  id: Belebas bambu utk me- ngapit dinding
+  en: ''
 etymology: ''
 related_words: []
 dialect_notes: ''
-source: Kamus Aceh-Indonesia (Acehnese-Indonesian Dictionary), pp. 237, 238
+source: 'Kamus Aceh-Indonesia (extracted from pp.124-270 of the source edition, Acehnese section entries
+  cèm-unyèn through gutie/H). File: markdown.md supplied by the user. — pp.237-238'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: 'Source lists variant spellings: gitieb. Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate reviewer.'
+extraction_notes: Indonesian example translations are taken verbatim from the source. English meanings
+  and Jawi transliterations are AI-flagged as unverified and need human review. Jawi transliteration is
+  AI-generated, not from source — needs verification by a Jawi-literate reviewer.

@@ -1,40 +1,28 @@
 headword: geuet
-jawi: ڬيويت
+jawi: ''
 alt_spelling: []
 ipa: ''
 part_of_speech: ''
 definitions:
-- meaning_id: '*'
-  meaning_en: '*'
-  examples:
-  - aceh: gheuet
-    jawi: ''
-    id: ''
-    en: ''
-  - aceh: gheueb
-    jawi: ''
-    id: ''
-    en: ''
-  - aceh: ''
-    jawi: ''
-    id: n
-    en: ''
-  - aceh: 'simpai:'
-    jawi: ''
-    id: meu* –, bersimpai, menyerupai simpai
-    en: ''
-  - aceh: meu
-    jawi: ''
-    id: –
-    en: ), sj white lice that attach to cloth
-  - aceh: that tangkurak
-    jawi: ''
-    id: (ki) keras kepala
-    en: ''
+- meaning_id: ', *'
+  meaning_en: ''
+examples:
+- aceh: 'gheuet, gheueb n simpai: meu* –'
+  jawi: ''
+  id: bersimpai, menyerupai simpai
+  en: ''
+- aceh: meu – that tangkurak
+  jawi: ''
+  id: (ki) keras kepala
+  en: ''
 etymology: ''
 related_words: []
 dialect_notes: ''
-source: Kamus Aceh-Indonesia (Acehnese-Indonesian Dictionary), p. 225
+source: 'Kamus Aceh-Indonesia (extracted from pp.124-270 of the source edition, Acehnese section entries
+  cèm-unyèn through gutie/H). File: markdown.md supplied by the user. — p.225'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: Part of speech not specified in source. Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate reviewer. Some fields (English translations, Jawi) may be incomplete due to API rate limits during processing. Re-run the translation script to fill in missing fields.
+extraction_notes: Part of speech not explicitly marked in source. Indonesian example translations are
+  taken verbatim from the source. English meanings and Jawi transliterations are AI-flagged as unverified
+  and need human review. Jawi transliteration is AI-generated, not from source — needs verification by
+  a Jawi-literate reviewer.

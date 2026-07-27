@@ -1,21 +1,28 @@
 headword: doyah
-jawi: دوه
+jawi: ''
 alt_spelling: []
 ipa: ''
 part_of_speech: ''
 definitions:
-- meaning_id: 'dra. v mendera: si meuranté nyan geu — limong plôn go, Orang rantai itu didera lima puluh kali. peu —, menyuruh dera'
+- meaning_id: dêah dra. v mendera
   meaning_en: ''
-  examples:
-  - aceh: si Pulan ka geupeu
-    jawi: ''
-    id: lé Poteu, si Polan sudah disuruh dera oleh raja
-    en: lé Poteu, si Polan has been ordered to be whipped by the king
+examples:
+- aceh: si meuranté nyan geu - limong plôn go
+  jawi: ''
+  id: Orang rantai itu didera lima puluh kali. peu —, menyuruh dera
+  en: ''
+- aceh: si Pulan ka geupeu - lé Poteu
+  jawi: ''
+  id: si Polan sudah disuruh dera oleh raja
+  en: ''
 etymology: ''
-related_words:
-- dêah
+related_words: []
 dialect_notes: ''
-source: Kamus Aceh-Indonesia (Acehnese-Indonesian Dictionary), p. 176
+source: 'Kamus Aceh-Indonesia (extracted from pp.124-270 of the source edition, Acehnese section entries
+  cèm-unyèn through gutie/H). File: markdown.md supplied by the user. — p.176'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: Cross-reference entry pointing to 'dêah'. Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate reviewer.
+extraction_notes: Part of speech not explicitly marked in source. Indonesian example translations are
+  taken verbatim from the source. English meanings and Jawi transliterations are AI-flagged as unverified
+  and need human review. Jawi transliteration is AI-generated, not from source — needs verification by
+  a Jawi-literate reviewer.

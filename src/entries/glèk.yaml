@@ -1,37 +1,32 @@
 headword: glèk
-jawi: ݢلێک
+jawi: ''
 alt_spelling:
 - glik
 ipa: ''
 part_of_speech: v
 definitions:
 - meaning_id: mengelak, menggelitik
-  meaning_en: dodge, tickle
-  examples:
-  - aceh: bèk ta
-    jawi: ''
-    id: ''
-    en: ''
-  - aceh: lòn
-    jawi: ''
-    id: Janganlah Anda menggelitik saya
-    en: Don't tickle me
-  - aceh: meu
-    jawi: ''
-    id: saling menggelitik
-    en: tickling each other
-  - aceh: anuek miet nyan ji-meu
-    jawi: ''
-    id: —
-    en: ''
-  - aceh: sabè
-    jawi: ''
-    id: Anak-anak itu selalu saling menggelitik
-    en: to roar
+  meaning_en: ''
+examples:
+- aceh: bèk ta - lòn
+  jawi: ''
+  id: Janganlah Anda menggelitik saya
+  en: ''
+- aceh: meu -
+  jawi: ''
+  id: saling menggelitik
+  en: ''
+- aceh: anuek miet nyan ji-meu - - sabè
+  jawi: ''
+  id: Anak-anak itu selalu saling menggelitik
+  en: ''
 etymology: ''
 related_words: []
 dialect_notes: ''
-source: Kamus Aceh-Indonesia (Acehnese-Indonesian Dictionary), p. 245
+source: 'Kamus Aceh-Indonesia (extracted from pp.124-270 of the source edition, Acehnese section entries
+  cèm-unyèn through gutie/H). File: markdown.md supplied by the user. — p.245'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: 'Source lists variant spellings: glik. Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate reviewer.'
+extraction_notes: Indonesian example translations are taken verbatim from the source. English meanings
+  and Jawi transliterations are AI-flagged as unverified and need human review. Jawi transliteration is
+  AI-generated, not from source — needs verification by a Jawi-literate reviewer.

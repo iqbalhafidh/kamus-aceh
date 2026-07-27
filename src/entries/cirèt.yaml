@@ -1,36 +1,35 @@
 headword: cirèt
-jawi: جريت
+jawi: ''
 alt_spelling: []
 ipa: ''
 part_of_speech: a
 definitions:
 - meaning_id: mencret
-  meaning_en: diarrhea
-  examples:
-  - aceh: lōn
-    jawi: ''
-    id: ''
-    en: ''
-  - aceh: ka dua uroe
-    jawi: ''
-    id: sudah dua hari saya mencret
-    en: ''
-  - aceh: jimarit lagèe èk
-    jawi: ''
-    id: ia berkata-kata terus menerus tanpa berpikir
-    en: ''
-  - aceh: peu
-    jawi: ''
-    id: menyebabkan mencret
-    en: causing diarrhea
-  - aceh: teu
-    jawi: ''
-    id: tiba-tiba mencret
-    en: suddenly defecating
+  meaning_en: ''
+examples:
+- aceh: lōn - ka dua uroe
+  jawi: ''
+  id: sudah dua hari saya mencret
+  en: ''
+- aceh: jimarit lagèe èk -
+  jawi: ''
+  id: ia berkata-kata terus menerus tanpa berpikir
+  en: ''
+- aceh: peu -
+  jawi: ''
+  id: menyebabkan mencret
+  en: ''
+- aceh: teu -
+  jawi: ''
+  id: tiba-tiba mencret
+  en: ''
 etymology: ''
 related_words: []
 dialect_notes: ''
-source: Kamus Aceh-Indonesia (Acehnese-Indonesian Dictionary), p. 137
+source: 'Kamus Aceh-Indonesia (extracted from pp.124-270 of the source edition, Acehnese section entries
+  cèm-unyèn through gutie/H). File: markdown.md supplied by the user. — p.137'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate reviewer.
+extraction_notes: Indonesian example translations are taken verbatim from the source. English meanings
+  and Jawi transliterations are AI-flagged as unverified and need human review. Jawi transliteration is
+  AI-generated, not from source — needs verification by a Jawi-literate reviewer.

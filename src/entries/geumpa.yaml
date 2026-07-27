@@ -1,39 +1,50 @@
 headword: geumpa
-jawi: ݢومڤا
+jawi: ''
 alt_spelling: []
 ipa: ''
 part_of_speech: n
 definitions:
-- meaning_id: 'gempa, gempar, gaduh: beuklam kreueh that —, Tadi malam kuat sekali (terasa) gempa'
-  meaning_en: 'earthquake, to be shaken, commotion: beuklam kreueh that —, Last night it was very strong (I) felt an earthquake'
-  examples:
-  - aceh: rakyat ban saboh nanggroe — 'oh jideungo keumeung teuka bala nyan, Di seluruh negeri rakyat menjadi gempar ketika mendengar akan datang bencana. meu —, mengeu
-    jawi: ''
-    id: berderak-derak, menggeletar
-    en: ''
-  - aceh: '''oh jipeulheueh boh meu-reuyam, meu'
-    jawi: ''
-    id: rumoh-rumoh, Ketika peluru meriam ditembakkan, rumah berderak-derak
-    en: ''
-  - aceh: wak-têe geugrak gaki, meuhayak nang-groe, waktee geubeuet jaroe mau
-    jawi: ''
-    id: dônya, Jika ia menggerakkan kakinya, gemuruhlah negeri dan jika ia mengangkat tangannya, menggegarlah dunia
-    en: If he moves his feet, the country will rumble, and if he raises his hands, the world will shake
-  - aceh: peu
-    jawi: ''
-    id: membuat gempar
-    en: ''
-- meaning_id: ilmu utk membuat takut seseorang
-  meaning_en: knowledge to scare someone
-  examples:
-  - aceh: bandum awak-nyan teumakôt hana bagoe, sabab lhêe droe panglima jibeuet peu
-    jawi: ''
-    id: "Mereka semua sangat takut krn\n ketiga panglima membacakan mantra utk menakutkan orang. geumeupa (dl hik) menjadi gaduh"
-    en: ''
+- meaning_id: gempa, gempar, gaduh
+  meaning_en: ''
+examples:
+- aceh: beuklam kreueh that -
+  jawi: ''
+  id: Tadi malam kuat sekali (terasa) gempa
+  en: ''
+- aceh: rakyat ban saboh nanggroe - 'oh jideungo keumeung teuka bala nyan
+  jawi: ''
+  id: Di seluruh negeri rakyat menjadi gempar ketika mendengar akan datang bencana. meu —, mengeu —, berderak-derak,
+    menggeletar
+  en: ''
+- aceh: '''oh jipeulheueh boh meu-reuyam'
+  jawi: ''
+  id: meu — rumoh-rumoh, Ketika peluru meriam ditembakkan, rumah berderak-derak
+  en: ''
+- aceh: wak-têe geugrak gaki
+  jawi: ''
+  id: meuhayak nang-groe, waktee geubeuet jaroe mau — dônya, Jika ia menggerakkan kakinya, gemuruhlah
+    negeri dan jika ia mengangkat tangannya, menggegarlah dunia
+  en: ''
+- aceh: peu -
+  jawi: ''
+  id: membuat gempar
+  en: ''
+- aceh: ilmu utk membuat takut seseorang
+  jawi: ''
+  id: ''
+  en: ''
+- aceh: bandum awak-nyan teumakôt hana bagoe
+  jawi: ''
+  id: sabab lhêe droe panglima jibeuet peu —, Mereka semua sangat takut krn ketiga panglima membacakan
+    mantra utk menakutkan orang. geumeupa (dl hik) menjadi gaduh
+  en: ''
 etymology: ''
 related_words: []
 dialect_notes: ''
-source: Kamus Aceh-Indonesia (Acehnese-Indonesian Dictionary), p. 228
+source: 'Kamus Aceh-Indonesia (extracted from pp.124-270 of the source edition, Acehnese section entries
+  cèm-unyèn through gutie/H). File: markdown.md supplied by the user. — p.228'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate reviewer.
+extraction_notes: Indonesian example translations are taken verbatim from the source. English meanings
+  and Jawi transliterations are AI-flagged as unverified and need human review. Jawi transliteration is
+  AI-generated, not from source — needs verification by a Jawi-literate reviewer.

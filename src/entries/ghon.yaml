@@ -1,35 +1,52 @@
 headword: ghon
-jawi: ڬون
+jawi: ''
 alt_spelling:
 - geuhon
 - gon
 ipa: ''
 part_of_speech: n
 definitions:
-- meaning_id: 'berat: h''an êk lôn me padé nyoe, — that, Saya tidak dapat membawa (karung) padi ini krn berat sekali. sigo —, siseum —, seberat yg dapat dibawa oleh seorang laki-laki, beban utk sekali bawa'
-  meaning_en: 'weight: h''an êk lôn me padé nyoe, — that, I cannot carry this rice sack because it''s very heavy. sigo —, siseum —, as much as a man can carry, a load for one trip'
-  examples:
-  - aceh: breueh siseum
-    jawi: ''
-    id: beras yg dapat dibawa dng sekali bawa
-    en: rice that can be carried in one load
-  - aceh: ''
-    jawi: ''
-    id: tapak, berat langkah
-    en: footprint, heavy step
-  - aceh: 'ureueng nyan jijak h''an teujak sabab — that tapakji, Orang itu berjalan, tetapi tidak dapat berjalan krn terasa sangat berat langkahnya (krn ada sesuatu yg diingatnya) → hila: peu'
-    jawi: ''
-    id: memberatkan, menjadikan, beban
-    en: istinjak, to purify after defecation, urination, or before wudhu (in Islamic religious books)
-- meaning_id: geuneuhon, beban, keluarga yg menjadi tanggungan seseorang
+- meaning_id: berat
   meaning_en: ''
-  examples: []
+examples:
+- aceh: h'an êk lôn me padé nyoe, - that
+  jawi: ''
+  id: Saya ti- dak dapat membawa (karung) pa- di ini krn berat sekali. sigo —, siseum —, seberat yg dapat
+    dibawa oleh seorang laki-laki, beban utk sekali bawa
+  en: ''
+- aceh: breueh siseum -
+  jawi: ''
+  id: beras yg dapat dibawa dng sekali bawa
+  en: ''
+- aceh: '- tapak'
+  jawi: ''
+  id: berat langkah
+  en: ''
+- aceh: ureueng nyan jijak h'an teujak sabab - that tapakji
+  jawi: ''
+  id: Orang itu berjalan, tetapi tidak dapat ber- jalan krn terasa sangat berat lang- kahnya (krn ada
+    sesuatu yg di- ingatnya), mem- beratkan, menjadikan, beban
+  en: ''
+- aceh: geu- neuhon
+  jawi: ''
+  id: beban, keluarga yg men- jadi tanggungan seseorang
+  en: ''
+- aceh: bd teungon
+  jawi: ''
+  id: ''
+  en: ''
 etymology: ''
 related_words:
+- 'hila: peu —'
+- mem- beratkan
+- menjadikan
+- beban
 - brat
-- bd teungon
 dialect_notes: ''
-source: Kamus Aceh-Indonesia (Acehnese-Indonesian Dictionary), p. 239
+source: 'Kamus Aceh-Indonesia (extracted from pp.124-270 of the source edition, Acehnese section entries
+  cèm-unyèn through gutie/H). File: markdown.md supplied by the user. — p.239'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: 'Source lists variant spellings: geuhon, gon. Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate reviewer.'
+extraction_notes: Indonesian example translations are taken verbatim from the source. English meanings
+  and Jawi transliterations are AI-flagged as unverified and need human review. Jawi transliteration is
+  AI-generated, not from source — needs verification by a Jawi-literate reviewer.

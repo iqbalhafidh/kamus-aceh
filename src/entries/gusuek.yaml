@@ -1,52 +1,47 @@
 headword: gusuek
-jawi: گوسويك
+jawi: ''
 alt_spelling: []
 ipa: ''
 part_of_speech: v
 definitions:
 - meaning_id: menggosok lembut-lembut dng tangan, mengusap
   meaning_en: ''
-  examples:
-  - aceh: ta
-    jawi: ''
-    id: ''
-    en: ''
-  - aceh: bak rueng lòn sigo
-    jawi: ''
-    id: Usaplah punggung saya sebentar
-    en: Please pat my back for a moment
-  - aceh: cèetam ji
-    jawi: ''
-    id: ''
-    en: ''
-  - aceh: bak rueng, jis'aih bak glunyueng, teuma jatimong lam atè
-    jawi: ''
-    id: Setan mengusap belakang Anda, ia membisikan sesuatu ke telinga Anda lalu masuk ke dl hati Anda
-    en: ''
-  - aceh: meu
-    jawi: ''
-    id: digosok
-    en: ''
-  - aceh: meu
-    jawi: ''
-    id: (—), saling menggosok
-    en: (-), rubbing each other
-  - aceh: geumusuek
-    jawi: ''
-    id: melakukan pekerjaan mengusap
-    en: to perform a wiping job
-  - aceh: geunusuek
-    jawi: ''
-    id: gosokan
-    en: sharpening
+examples:
+- aceh: ta - bak rueng lòn sigo
+  jawi: ''
+  id: Usaplah punggung saya sebentar
+  en: ''
+- aceh: (pb) cèetam ji - bak rueng, jis'aih bak glunyueng, teuma jatimong lam atè
+  jawi: ''
+  id: Setan mengusap belakang Anda, ia membisikan sesuatu ke telinga Anda lalu masuk ke dl hati Anda
+  en: ''
+- aceh: meu -
+  jawi: ''
+  id: digosok
+  en: ''
+- aceh: meu - (-)
+  jawi: ''
+  id: saling menggosok
+  en: ''
+- aceh: geumusuek
+  jawi: ''
+  id: melakukan pekerjaan mengusap
+  en: ''
+- aceh: geunusuek, gosokan, *pleu, sampòh, uet*
+  jawi: ''
+  id: ''
+  en: ''
 etymology: ''
 related_words:
-- geusok
-- pleu
-- sampòh
-- uet
+- '**geusok**'
+- '**pleu**'
+- '**sampòh**'
+- '**uet**'
 dialect_notes: ''
-source: Kamus Aceh-Indonesia (Acehnese-Indonesian Dictionary), p. 267
+source: 'Kamus Aceh-Indonesia (extracted from pp.124-270 of the source edition, Acehnese section entries
+  cèm-unyèn through gutie/H). File: markdown.md supplied by the user. — p.267'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate reviewer. Some fields (English translations, Jawi) may be incomplete due to API rate limits during processing. Re-run the translation script to fill in missing fields.
+extraction_notes: Indonesian example translations are taken verbatim from the source. English meanings
+  and Jawi transliterations are AI-flagged as unverified and need human review. Jawi transliteration is
+  AI-generated, not from source — needs verification by a Jawi-literate reviewer.

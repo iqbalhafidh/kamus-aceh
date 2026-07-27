@@ -1,65 +1,35 @@
 headword: gasui
-jawi: ݢسوي
+jawi: ''
 alt_spelling: []
 ipa: ''
 part_of_speech: ''
 definitions:
-- meaning_id: '*'
-  meaning_en: '*'
-  examples:
-  - aceh: meugasui
-    jawi: ''
-    id: ''
-    en: ''
-  - aceh: (
-    jawi: ''
-    id: ''
-    en: ''
-  - aceh: -gasui
-    jawi: ''
-    id: ''
-    en: ''
-  - aceh: )
-    jawi: ''
-    id: ''
-    en: ''
-  - aceh: meugeugasui
-    jawi: ''
-    id: ''
-    en: ''
-  - aceh: (dl hik)
-    jawi: ''
-    id: a
-    en: ''
-  - aceh: hiruk-pikuk
-    jawi: ''
-    id: 'berdesing, bergelombang (tt rombongan orang yg sedang bergerak): ''oh jikalon rusa jitamong lam blang, jitiek le langai-langai, teuma jipeu-crok rusa nyan meu* —, Ketika ia melihat seekor rusa masuk ke sawah, serta-merta ia melepaskan lukunya lalu mengejar rusa itu dng hirup-pikuk'
-    en: peu -, to order
-  - aceh: jitrôn angên sapui-sapui meu
-    jawi: ''
-    id: ''
-    en: ''
-  - aceh: jiplueng
-    jawi: ''
-    id: ''
-    en: ''
-  - aceh: betra
-    jawi: ''
-    id: Angin berembus sepoi-sepoi dan dng berdesing meluncurlah bahtera
-    en: ''
-  - aceh: rupa raja nyan hibat ban gunong apui, meu
-    jawi: ''
-    id: ''
-    en: ''
-  - aceh: jiek caya
-    jawi: ''
-    id: Rupa raja itu hebat laksana api yg terang-benderang mengeluarkan cahanya
-    en: The king's appearance was great like a brilliant fire emitting its light
+- meaning_id: ', *'
+  meaning_en: ''
+examples:
+- aceh: 'meugasui (-gasui), meugeugasui (dl hik) a hiruk-pikuk, berdesing, bergelombang (tt rombongan
+    orang yg sedang bergerak): ''oh jikalon rusa jitamong lam blang'
+  jawi: ''
+  id: jitiek le langai-langai, teuma jipeu-crok rusa nyan meu* —, Ketika ia melihat seekor rusa masuk
+    ke sawah, serta-merta ia melepaskan lukunya lalu mengejar rusa itu dng hirup-pikuk
+  en: ''
+- aceh: jitrôn angên sapui-sapui meu - jiplueng betra
+  jawi: ''
+  id: Angin berembus sepoi-sepoi dan dng berdesing meluncurlah bahtera
+  en: ''
+- aceh: rupa raja nyan hibat ban gunong apui, meu - jiek caya
+  jawi: ''
+  id: Rupa raja itu hebat laksana api yg terang-benderang mengeluarkan cahanya
+  en: ''
 etymology: ''
 related_words:
 - sui
 dialect_notes: ''
-source: Kamus Aceh-Indonesia (Acehnese-Indonesian Dictionary), pp. 219, 220
+source: 'Kamus Aceh-Indonesia (extracted from pp.124-270 of the source edition, Acehnese section entries
+  cèm-unyèn through gutie/H). File: markdown.md supplied by the user. — pp.219-220'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: Part of speech not specified in source. Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate reviewer. Some fields (English translations, Jawi) may be incomplete due to API rate limits during processing. Re-run the translation script to fill in missing fields.
+extraction_notes: Part of speech not explicitly marked in source. Indonesian example translations are
+  taken verbatim from the source. English meanings and Jawi transliterations are AI-flagged as unverified
+  and need human review. Jawi transliteration is AI-generated, not from source — needs verification by
+  a Jawi-literate reviewer.

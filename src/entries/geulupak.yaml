@@ -1,42 +1,36 @@
 headword: geulupak
-jawi: غولڤق
+jawi: ''
 alt_spelling:
 - glupak
 ipa: ''
 part_of_speech: n
 definitions:
-- meaning_id: "buah kelapa yg\n telah dibelah, dibuang air serta\n dagingnya, kulit buah kelapa yg\n setelah kering dipergunakan sbg\n bahan bakar, hiasan emas atau\n suasa dl bentuk kelopak bunga\n pd hulu senjata tajam spt reuncong dan sikin"
-  meaning_en: a coconut that has been split, its water and meat removed, the dried coconut shell used as fuel, gold decoration, or a flower-shaped ornament on the sharp end of weapons like the reuncong and sikin
-  examples:
-  - aceh: ''
-    jawi: ''
-    id: "u, kulit buah\n kelapa"
-    en: ''
-  - aceh: ''
-    jawi: ''
-    id: Sikin, kelopak sikin
-    en: Sikin, sikin petals
-  - aceh: meu
-    jawi: ''
-    id: mempunyai glupak berhiaskan glupak
-    en: ''
-  - aceh: na tameu
-    jawi: ''
-    id: "di\n rumoh, tabri dua krak, Adakah\n\n\n\n Anda memiliki kulit-kulit buah kelapa kering (utk bahan bakar) di rumah? (jika ada) berikanlah beberapa buah"
-    en: di
-  - aceh: sikin meu
-    jawi: ''
-    id: ''
-    en: ''
-  - aceh: sikin
-    jawi: ''
-    id: yg berhiasan kelopak di hulunya
-    en: §2§
+- meaning_id: buah kelapa yg telah dibelah, dibuang air serta dagingnya, kulit buah kelapa yg setelah
+    kering dipergunakan sbg bahan bakar, hiasan emas atau suasa dl bentuk kelopak bunga pd hulu senjata
+    tajam spt reun- cong dan sikin
+  meaning_en: ''
+- meaning_id: — u, kulit buah kelapa
+  meaning_en: ''
+- meaning_id: — Sikin, kelopak sikin
+  meaning_en: ''
+- meaning_id: meu —, mempunyai glupak ber- hiaskan glupak
+  meaning_en: ''
+- meaning_id: na tameu — di rumoh, tabri dua krak, Adakah Anda memiliki kulit-kulit buah kelapa kering
+    (utk bahan bakar) di rumah? (jika ada) berikanlah beberapa buah
+  meaning_en: ''
+examples:
+- aceh: sikin meu -, sikin yg berhiasan kelopak di hulunya
+  jawi: ''
+  id: ''
+  en: ''
 etymology: ''
 related_words:
-- pacôk
+- '*pacôk*'
 dialect_notes: ''
-source: Kamus Aceh-Indonesia (Acehnese-Indonesian Dictionary), pp. 226, 227
+source: 'Kamus Aceh-Indonesia (extracted from pp.124-270 of the source edition, Acehnese section entries
+  cèm-unyèn through gutie/H). File: markdown.md supplied by the user. — pp.226-227'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: 'Source lists variant spellings: glupak. Some fields (English translations, Jawi) may be incomplete due to API rate limits during processing. Re-run the translation script to fill in missing fields. Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate reviewer.'
+extraction_notes: Indonesian example translations are taken verbatim from the source. English meanings
+  and Jawi transliterations are AI-flagged as unverified and need human review. Jawi transliteration is
+  AI-generated, not from source — needs verification by a Jawi-literate reviewer.

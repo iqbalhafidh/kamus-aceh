@@ -1,32 +1,29 @@
 headword: gadèh-gadoh
-jawi: ݢدھ-ڬدوه
+jawi: ''
 alt_spelling: []
 ipa: ''
 part_of_speech: a
 definitions:
 - meaning_id: sibuk, tergesa-gesa
-  meaning_en: busy, rushed
-  examples:
-  - aceh: ayah
-    jawi: ''
-    id: ''
-    en: ''
-  - aceh: geujak mita adèk; aleh ho jijak di adek!
-    jawi: ''
-    id: Ayah sibuk mencari adik
-    en: ''
-  - aceh: bek tapubuet
-    jawi: ''
-    id: ''
-    en: ''
-  - aceh: teulaihteu dudoe!
-    jawi: ''
-    id: Janganlah Anda berbuat tergesa-gesa, Anda akan menyesal kelak!
-    en: Don't be hasty, you'll regret it later!
+  meaning_en: ''
+- meaning_id: aleh ho jijak di adek!* Ayah sibuk mencari adik
+  meaning_en: ''
+examples:
+- aceh: ayah - *geujak mita adèk
+  jawi: ''
+  id: ''
+  en: ''
+- aceh: entah kemana adik itu pergi! bek tapubuet -, teulaihteu dudoe! Janganlah Anda berbuat tergesa-gesa
+  jawi: ''
+  id: Anda akan menyesal kelak!
+  en: ''
 etymology: ''
 related_words: []
 dialect_notes: ''
-source: Kamus Aceh-Indonesia (Acehnese-Indonesian Dictionary), p. 205
+source: 'Kamus Aceh-Indonesia (extracted from pp.124-270 of the source edition, Acehnese section entries
+  cèm-unyèn through gutie/H). File: markdown.md supplied by the user. — p.205'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate reviewer.
+extraction_notes: Indonesian example translations are taken verbatim from the source. English meanings
+  and Jawi transliterations are AI-flagged as unverified and need human review. Jawi transliteration is
+  AI-generated, not from source — needs verification by a Jawi-literate reviewer.

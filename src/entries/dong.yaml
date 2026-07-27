@@ -1,149 +1,115 @@
 headword: dong
-jawi: ڠ
+jawi: ''
 alt_spelling: []
 ipa: ''
 part_of_speech: v
 definitions:
 - meaning_id: berdiri, tegak
-  meaning_en: stand, upright
-  examples:
-  - aceh: ka thèe
-    jawi: ''
-    id: '(ia) sudah dpt berdiri (utk menyatakan umur seorang anak), hinggap (utk burung), melakukan: —'
-    en: ''
-  - aceh: bak cot!
-    jawi: ''
-    id: berdiri tegak!
-    en: ''
-  - aceh: kaji — seuma-yang
-    jawi: ''
-    id: ia sudah bersembahyang
-    en: ''
-  - aceh: droeneu neu — keuimeum
-    jawi: ''
-    id: berdirilah Anda sbg imam
-    en: ''
-  - aceh: gata ta — saksi keu lôn
-    jawi: ''
-    id: Anda menjadi saksi saya
-    en: ''
-  - aceh: na kapai prang ji — ateueh kuala
-    jawi: ''
-    id: ada kapal perang berlabuh di kuala
-    en: there is a warship anchored in the estuary
-  - aceh: watktèe musém le, ji — lapan sitali
-    jawi: ''
-    id: jika musim banyak, berharga delapan setali
-    en: if many seasons, worth eight strings
-  - aceh: habèh raya ji — ubé sapai
-    jawi: ''
-    id: paling besar sebesar lengan
-    en: ''
-  - aceh: bak duek bak —, meuduek
-    jawi: ''
-    id: → *
-    en: → *
-  - aceh: duek
-    jawi: ''
-    id: '*'
-    en: '*'
-  - aceh: peutoe
-    jawi: ''
-    id: → *
-    en: → *
-  - aceh: peutot
-    jawi: ''
-    id: '*'
-    en: '*'
-  - aceh: ranub
-    jawi: ''
-    id: → *
-    en: → *
-  - aceh: ranub
-    jawi: ''
-    id: '*'
-    en: '*'
-  - aceh: meu
-    jawi: ''
-    id: sama-sama berdiri
-    en: standing together
-  - aceh: pakon meu — gata bandum? Peue takalon?
-    jawi: ''
-    id: mengapa Anda semua berdiri? apakah yg Anda lihat?
-    en: ''
-  - aceh: peu
-    jawi: ''
-    id: "menyuruh tegakkan (utk\n benda-benda yg berkaki), menyuruh hentikan"
-    en: to order upright (for objects with legs), to order to stop
-  - aceh: peu — rumoh
-    jawi: ''
-    id: mendirikan atau membangun rumah
-    en: ''
-  - aceh: peu — kuta
-    jawi: ''
-    id: mendirikan kubu pertahanan
-    en: establishing a defense fortress
-  - aceh: peu — alam
-    jawi: ''
-    id: mengibarkan bendera
-    en: ''
-  - aceh: peu — d-kwa
-    jawi: ''
-    id: mengadakan perdebatan atau pendakwaan
-    en: ''
-  - aceh: peu — saksi
-    jawi: ''
-    id: mengadakan persaksian
-    en: to give testimony
-  - aceh: peu — darah
-    jawi: ''
-    id: menghentikan pendarahan → *
-    en: stop bleeding
-  - aceh: teutab
-    jawi: ''
-    id: '*'
-    en: '*'
-  - aceh: teu
-    jawi: ''
-    id: berdiri, berhenti
-    en: stand, stop
-  - aceh: teu — cot
-    jawi: ''
-    id: berdiri tegak
-    en: stand straight
-  - aceh: ho ka si Pulan jèh kon teu
-    jawi: ''
-    id: kemana si Polan? itu'kan dia sedang berdiri di sana!
-    en: ''
-  - aceh: teujak-teu
-    jawi: ''
-    id: → *
-    en: → *
-  - aceh: jak
-    jawi: ''
-    id: '*'
-    en: '*'
-  - aceh: neu
-    jawi: ''
-    id: sikap berdiri keadaan seseorang yg diukut dr kepala sampai kaki
-    en: ''
-  - aceh: panè 'oh na neu — si Pulan? na 'oh neu — lôn?
-    jawi: ''
-    id: Berapa tinggi si Polan? ada setinggi saya?
-    en: How tall is Polan? Is he as tall as me?
-  - aceh: umong sineu
-    jawi: ''
-    id: sepetak sawah yg luasanya satu *
-    en: ''
-  - aceh: yòk
-    jawi: ''
-    id: '*'
-    en: '*'
+  meaning_en: ''
+examples:
+- aceh: 'ka thèe -(ia) sudah dpt berdiri (utk menyatakan umur seorang anak), hinggap (utk burung), melakukan:
+    - bak cot! berdiri tegak! kaji - seuma-yang'
+  jawi: ''
+  id: ia sudah bersembahyang
+  en: ''
+- aceh: droeneu neu - keuimeum
+  jawi: ''
+  id: berdirilah Anda sbg imam
+  en: ''
+- aceh: gata ta - saksi keu lôn
+  jawi: ''
+  id: Anda menjadi saksi saya
+  en: ''
+- aceh: na kapai prang ji - ateueh kuala
+  jawi: ''
+  id: ada kapal perang berlabuh di kuala
+  en: ''
+- aceh: watktèe musém le, ji - lapan sitali
+  jawi: ''
+  id: jika musim banyak, berharga delapan setali
+  en: ''
+- aceh: habèh raya ji - ubé sapai
+  jawi: ''
+  id: paling besar sebesar lengan
+  en: ''
+- aceh: bak duek bak -, meuduek-
+  jawi: ''
+  id: ''
+  en: ''
+- aceh: peutoe-
+  jawi: ''
+  id: ''
+  en: ''
+- aceh: ranub -
+  jawi: ''
+  id: ''
+  en: ''
+- aceh: meu-
+  jawi: ''
+  id: sama-sama berdiri
+  en: ''
+- aceh: pakon meu - gata bandum? Peue takalon? mengapa Anda semua berdiri? apakah yg Anda lihat? peu-
+  jawi: ''
+  id: menyuruh tegakkan (utk benda-benda yg berkaki), menyuruh hentikan
+  en: ''
+- aceh: peu - rumoh
+  jawi: ''
+  id: mendirikan atau membangun rumah
+  en: ''
+- aceh: peu - kuta
+  jawi: ''
+  id: mendirikan kubu pertahanan
+  en: ''
+- aceh: peu - alam
+  jawi: ''
+  id: mengibarkan bendera
+  en: ''
+- aceh: peu - d-kwa
+  jawi: ''
+  id: mengadakan perdebatan atau pendakwaan
+  en: ''
+- aceh: peu - saksi
+  jawi: ''
+  id: mengadakan persaksian
+  en: ''
+- aceh: peu - darah
+  jawi: ''
+  id: menghentikan pendarahan
+  en: ''
+- aceh: teu-
+  jawi: ''
+  id: berdiri, berhenti
+  en: ''
+- aceh: teu - cot
+  jawi: ''
+  id: berdiri tegak
+  en: ''
+- aceh: ho ka si Pulan jèh kon teu -, kemana si Polan? itu'kan dia sedang berdiri di sana! teujak-teu-
+  jawi: ''
+  id: ''
+  en: ''
+- aceh: neu -
+  jawi: ''
+  id: sikap berdiri keadaan seseorang yg diukut dr kepala sampai kaki
+  en: ''
+- aceh: panè 'oh na neu - si Pulan? na 'oh neu - lôn? Berapa tinggi si Polan? ada setinggi saya? umong
+    sineu -, sepetak sawah yg luasanya satu *yòk*
+  jawi: ''
+  id: ''
+  en: ''
 etymology: ''
 related_words:
+- duek
+- peutot
+- ranub
+- teutab
+- jak
 - beudoih
 dialect_notes: ''
-source: Kamus Aceh-Indonesia (Acehnese-Indonesian Dictionary), p. 175
+source: 'Kamus Aceh-Indonesia (extracted from pp.124-270 of the source edition, Acehnese section entries
+  cèm-unyèn through gutie/H). File: markdown.md supplied by the user. — p.175'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate reviewer.
+extraction_notes: Indonesian example translations are taken verbatim from the source. English meanings
+  and Jawi transliterations are AI-flagged as unverified and need human review. Jawi transliteration is
+  AI-generated, not from source — needs verification by a Jawi-literate reviewer.

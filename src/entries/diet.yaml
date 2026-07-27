@@ -1,31 +1,38 @@
 headword: diet
-jawi: ديت
+jawi: ''
 alt_spelling: []
 ipa: ''
 part_of_speech: n
 definitions:
-- meaning_id: 'diat, denda krn membunuh atau melukai seseorang: — darah, diat darah, denda krn melukai seseorang'
+- meaning_id: diat, denda krn membunuh atau melukai seseorang
   meaning_en: ''
-  examples:
-  - aceh: ''
-    jawi: ''
-    id: nyaw'ong, diat nyawa krn membunuh seseorang
-    en: nyaw'ong, life taken for killing someone
-  - aceh: meu
-    jawi: ''
-    id: membayarkan diat
-    en: ''
-  - aceh: ka lheueh tameu — gata? sudahkah Anda membayarkan diatnya? peu
-    jawi: ''
-    id: menyuruh bayarkan diat
-    en: ''
+examples:
+- aceh: '- darah'
+  jawi: ''
+  id: diat darah, denda krn melukai seseorang
+  en: ''
+- aceh: '- nyaw''ong'
+  jawi: ''
+  id: diat nya- wa krn membunuh seseorang
+  en: ''
+- aceh: meu -
+  jawi: ''
+  id: membayarkan diat
+  en: ''
+- aceh: ka lheueh tameu - gata? sudahkah Anda membayarkan diatnya? peu -
+  jawi: ''
+  id: menyuruh bayarkan diat, darah, kiseueh
+  en: ''
 etymology: ''
 related_words:
-- bila
+- bi- la
 - darah
 - kiseueh
 dialect_notes: ''
-source: Kamus Aceh-Indonesia (Acehnese-Indonesian Dictionary), p. 170
+source: 'Kamus Aceh-Indonesia (extracted from pp.124-270 of the source edition, Acehnese section entries
+  cèm-unyèn through gutie/H). File: markdown.md supplied by the user. — p.170'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate reviewer. Some fields (English translations, Jawi) may be incomplete due to API rate limits during processing. Re-run the translation script to fill in missing fields.
+extraction_notes: Indonesian example translations are taken verbatim from the source. English meanings
+  and Jawi transliterations are AI-flagged as unverified and need human review. Jawi transliteration is
+  AI-generated, not from source — needs verification by a Jawi-literate reviewer.

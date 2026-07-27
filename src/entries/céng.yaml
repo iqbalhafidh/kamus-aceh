@@ -1,43 +1,32 @@
 headword: céng
-jawi: چيڠ
+jawi: ''
 alt_spelling: []
 ipa: ''
 part_of_speech: n
 definitions:
-- meaning_id: 'dacing, neraca yg berdaun dua: —'
-  meaning_en: 'scales, balance with two pans: —'
-  examples:
-  - aceh: ilat
-    jawi: ''
-    id: ''
-    en: ''
-  - aceh: karòt
-    jawi: ''
-    id: dacing pal-?su
-    en: ''
-  - aceh: timang ngon
-    jawi: ''
-    id: menimbang dng dacing
-    en: ''
-  - aceh: meu
-    jawi: ''
-    id: di timbang dng dacing
-    en: —, Do not use the word *
-  - aceh: ceumeucéng
-    jawi: ''
-    id: melakukan
-    en: ''
-  - aceh: céng
-    jawi: ''
-    id: ''
-    en: ''
-- meaning_id: Bd neuraca
-  meaning_en: Bd neuraca
-  examples: []
+- meaning_id: dacing, neraca yg berdaun dua
+  meaning_en: ''
+examples:
+- aceh: ilat - karòt
+  jawi: ''
+  id: dacing pal-?su
+  en: ''
+- aceh: timang ngon -, menimbang dng dacing, meu -
+  jawi: ''
+  id: di timbang dng dacing
+  en: ''
+- aceh: ceumeucéng, melakukan céng
+  jawi: ''
+  id: ''
+  en: ''
 etymology: ''
-related_words: []
+related_words:
+- neuraca
 dialect_notes: ''
-source: Kamus Aceh-Indonesia (Acehnese-Indonesian Dictionary), p. 123 (inferred — appears before first explicit page marker)
+source: 'Kamus Aceh-Indonesia (extracted from pp.124-270 of the source edition, Acehnese section entries
+  cèm-unyèn through gutie/H). File: markdown.md supplied by the user. — p.123'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate reviewer.
+extraction_notes: Indonesian example translations are taken verbatim from the source. English meanings
+  and Jawi transliterations are AI-flagged as unverified and need human review. Jawi transliteration is
+  AI-generated, not from source — needs verification by a Jawi-literate reviewer.

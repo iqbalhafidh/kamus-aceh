@@ -1,79 +1,32 @@
 headword: eumpeuen
-jawi: اومڤون
+jawi: ''
 alt_spelling: []
 ipa: ''
 part_of_speech: n
 definitions:
-- meaning_id: umpan utk memancing ikan, makanan binatang atau unggas
-  meaning_en: bait for fishing, animal or poultry food
-  examples:
-  - aceh: kawé gata hana tabòh
-    jawi: ''
-    id: ''
-    en: ''
-  - aceh: nyang gèt, H'an jikab
-    jawi: ''
-    id: Pancing Anda tidak dibubuhi umpan yang baik, ia tidak akan mengena. —
-    en: ''
-  - aceh: asèe
-    jawi: ''
-    id: 'makanan anjing: —'
-    en: 'dog food: —'
-  - aceh: manok
-    jawi: ''
-    id: makanan ayam
-    en: ''
-  - aceh: meu
-    jawi: ''
-    id: mempunyai umpan atau makanan
-    en: ''
-  - aceh: peu
-    jawi: ''
-    id: "memberi makanan atau membubuhi umpan (pd pancing)\n §1§  *"
-    en: ''
-  - aceh: eumpeuek
-    jawi: ''
-    id: ''
-    en: ''
-  - aceh: ''
-    jawi: ''
-    id: n
-    en: ''
-  - aceh: 'keladi:'
-    jawi: ''
-    id: lagèe ie taplè
-    en: ''
-  - aceh: ''
-    jawi: ''
-    id: ateueh òn
-    en: ''
-  - aceh: —
-    jawi: ''
-    id: hana ji-mumat me-
-    en: hana ji-mumat me-
-  - aceh: ''
-    jawi: ''
-    id: ung bacut*, spt menuang air di atas daun keladi tidak sedikit pun yg melekat (dikatakan thd seseorang yg tidak mau menerima pelajaran dr orang lain)
-    en: ''
-  - aceh: na tamsé ie ateueh
-    jawi: ''
-    id: ''
-    en: ''
-  - aceh: òn
-    jawi: ''
-    id: ''
-    en: ''
-  - aceh: bandum tapeuek basah hana
-    jawi: ''
-    id: "tamsil air di atas daun keladi, walaupun dituang semua ia tidak akan basah\n\n 2 eupeuek\n eunchok\n 2 eumpeuek a meu -, bertepuk-tepuk (air dl kendi yg berguncang ke sana kemari ketika dibawa)"
-    en: ''
+- meaning_id: umpan utk memancing ikan, makanan binatang atau ung- gas
+  meaning_en: ''
+examples:
+- aceh: 'kawé gata hana tabòh - nyang gèt, H''an jikab, Pancing An- da tidak dibubuhi umpan yang ba- ik,
+    ia tidak akan mengena. - asèe, makanan anjing: - manok'
+  jawi: ''
+  id: maka- nan ayam
+  en: ''
+- aceh: meu -
+  jawi: ''
+  id: mempunyai umpan atau makanan
+  en: ''
+- aceh: peu -
+  jawi: ''
+  id: memberi makanan atau membu- buhi umpan (pd pancing)
+  en: ''
 etymology: ''
-related_words:
-- klakkluk
-- klèk-klok
-- peuek
+related_words: []
 dialect_notes: ''
-source: Kamus Aceh-Indonesia (Acehnese-Indonesian Dictionary), pp. 197, 198
+source: 'Kamus Aceh-Indonesia (extracted from pp.124-270 of the source edition, Acehnese section entries
+  cèm-unyèn through gutie/H). File: markdown.md supplied by the user. — p.197'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate reviewer.
+extraction_notes: Indonesian example translations are taken verbatim from the source. English meanings
+  and Jawi transliterations are AI-flagged as unverified and need human review. Jawi transliteration is
+  AI-generated, not from source — needs verification by a Jawi-literate reviewer.

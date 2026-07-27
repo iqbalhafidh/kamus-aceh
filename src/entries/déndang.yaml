@@ -1,33 +1,32 @@
 headword: déndang
-jawi: دِندڠ
+jawi: ''
 alt_spelling:
 - dōndang
 ipa: ''
 part_of_speech: v
 definitions:
 - meaning_id: dendang, senandung, nyanyian dng atau tanpa iringan musik
-  meaning_en: meu* — —, making such a sound
-  examples:
-  - aceh: meu
-    jawi: ''
-    id: berdendang dsb
-    en: singing etc.
-  - aceh: inong nyan mangat that su bak jimeu
-    jawi: ''
-    id: wanita itu bernyanyi dng suara yg merdu sekali
-    en: the woman sang with a very melodious voice
-  - aceh: h'an jeuetmeu taèh, jimeu
-    jawi: ''
-    id: ''
-    en: ''
-  - aceh: simalam beungoh
-    jawi: ''
-    id: "kita tidak dpt\n\n\n\n tidur, mereka bernyanyi dng iringan biola"
-    en: we couldn't sleep, they were singing with violin accompaniment
+  meaning_en: ''
+examples:
+- aceh: meu -
+  jawi: ''
+  id: berdendang dsb
+  en: ''
+- aceh: inong nyan mangat that su bak jimeu -
+  jawi: ''
+  id: wanita itu bernyanyi dng suara yg merdu sekali
+  en: ''
+- aceh: h'an jeuetmeu taèh, jimeu - simalam beungoh
+  jawi: ''
+  id: kita tidak dpt tidur, mereka bernyanyi dng iring- an biola
+  en: ''
 etymology: ''
 related_words: []
 dialect_notes: ''
-source: Kamus Aceh-Indonesia (Acehnese-Indonesian Dictionary), pp. 163, 164
+source: 'Kamus Aceh-Indonesia (extracted from pp.124-270 of the source edition, Acehnese section entries
+  cèm-unyèn through gutie/H). File: markdown.md supplied by the user. — pp.163-164'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: 'Source lists variant spellings: dōndang. Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate reviewer.'
+extraction_notes: Indonesian example translations are taken verbatim from the source. English meanings
+  and Jawi transliterations are AI-flagged as unverified and need human review. Jawi transliteration is
+  AI-generated, not from source — needs verification by a Jawi-literate reviewer.

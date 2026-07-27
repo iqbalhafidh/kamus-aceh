@@ -1,40 +1,31 @@
 headword: darok
-jawi: درڬ
+jawi: ''
 alt_spelling: []
 ipa: ''
 part_of_speech: adv
 definitions:
-- meaning_id: 'arah, tepi, segi, daerah, kira-kira arahnya, di sana, di sebelah sana: —'
-  meaning_en: 'direction, edge, side, area, approximately in that direction, there, over there: —'
-  examples:
-  - aceh: toh taduek
-    jawi: ''
-    id: ''
-    en: ''
-  - aceh: droeneu h'an tom leupaih
-    jawi: ''
-    id: ''
-    en: ''
-  - aceh: gampông lôn
-    jawi: ''
-    id: Anda tidak pernah pergi (atau datang— ke daerah kampung saya
-    en: You never go (or come— to my village area
-  - aceh: peuneuget pat blangong nyoe
-    jawi: ''
-    id: '? —'
-    en: ''
-  - aceh: Ateuek
-    jawi: ''
-    id: "buatan manakah belanga-belanga ini? di\n daerah *"
-    en: ''
-  - aceh: Ateuek
-    jawi: ''
-    id: '*'
-    en: '*'
+- meaning_id: arah, tepi, segi, daerah, kira-kira arahnya, di sana, di sebelah sana
+  meaning_en: ''
+examples:
+- aceh: toh taduek
+  jawi: ''
+  id: ''
+  en: ''
+- aceh: di manakah Anda berdiam? droe- neu h'an tom leupaih - gam- pông lôn
+  jawi: ''
+  id: Anda tidak pernah pergi (atau datang— ke daerah kam- pung saya
+  en: ''
+- aceh: peuneuget pat bla- ngong nyoe? - Ateuek, buatan manakah belanga-belanga ini? di daerah *Ateuek*
+  jawi: ''
+  id: ''
+  en: ''
 etymology: ''
 related_words: []
 dialect_notes: ''
-source: Kamus Aceh-Indonesia (Acehnese-Indonesian Dictionary), p. 160
+source: 'Kamus Aceh-Indonesia (extracted from pp.124-270 of the source edition, Acehnese section entries
+  cèm-unyèn through gutie/H). File: markdown.md supplied by the user. — p.160'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: Some fields (English translations, Jawi) may be incomplete due to API rate limits during processing. Re-run the translation script to fill in missing fields. Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate reviewer.
+extraction_notes: Indonesian example translations are taken verbatim from the source. English meanings
+  and Jawi transliterations are AI-flagged as unverified and need human review. Jawi transliteration is
+  AI-generated, not from source — needs verification by a Jawi-literate reviewer.

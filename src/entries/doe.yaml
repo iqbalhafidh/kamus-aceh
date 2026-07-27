@@ -1,17 +1,82 @@
 headword: doe
 jawi: ''
-alt_spelling: []
+alt_spelling:
+- roe
 ipa: ''
-part_of_speech: ''
+part_of_speech: v
 definitions:
-- meaning_id: sumbat
-  meaning_en: block off, fill in
-examples: []
+- meaning_id: sumbat, tutup, timbun, pejal, banyak sekali
+  meaning_en: ''
+- meaning_id: kata tambahan spt nah, -kah, -lah, saja
+  meaning_en: ''
+examples:
+- aceh: ta – reuh- eng nyan ngon ruja
+  jawi: ''
+  id: sumbatlah lubang itu dng kain-kain buruk
+  en: ''
+- aceh: ta – mon, lueng
+  jawi: ''
+  id: timbunlah sumur, saluran air
+  en: ''
+- aceh: gleueng –
+  jawi: ''
+  id: gelang pejal
+  en: ''
+- aceh: padé –
+  jawi: ''
+  id: butir padi yg setengah berisi
+  en: ''
+- aceh: – lueng iek, – lueng kumbang
+  jawi: ''
+  id: tersumbat sa- luran kencing
+  en: ''
+- aceh: ret nyan ka ji – ngon duroe
+  jawi: ''
+  id: jalan itu sudah di- tutupnya dng duri
+  en: ''
+- aceh: rakyat 'oh – di mideuen prang
+  jawi: ''
+  id: rakyat sangat banyak di medan peperangan
+  en: ''
+- aceh: meu –, deumeu –
+  jawi: ''
+  id: sumbatan
+  en: ''
+- aceh: meu –, teu –
+  jawi: ''
+  id: bersumbat
+  en: ''
+- aceh: nyang ladōm kueh nyang ladōm meu –
+  jawi: ''
+  id: di antaranya ada yg sedang meng- gali dan ada pula yg sedang me- nimbun
+  en: ''
+- aceh: peu –
+  jawi: ''
+  id: menyuruh sum- bat
+  en: ''
+- aceh: bèk tapeu – lè gata nyang ka gob kueh
+  jawi: ''
+  id: Janganlah Anda menimbun yg telah digali orang
+  en: ''
+- aceh: peue – tapeugah? apa saja yg Anda ceritakan? pa- kon – meunan tapeulaku? nyang ka geutham bèk
+    tapeubuet! me- ngapa Anda berbuat begitu? yg sudah dilarang janganlah Anda kerjakan! bèk –, janganlah
+    (ber- buat) begitu! ka teukeudi – ta- paban, sesudah ditakdirkan be- gitu, apa yg dpt kita lakukan
+    lagi! adak baranggadum talakèe woe, h'an lōn bri – gata tagisa
+  jawi: ''
+  id: kendatipun telah beberapa kali Anda minta izin pulang, saya tidak akan mengizinkan Anda pergi
+  en: ''
 etymology: ''
 related_words: []
 dialect_notes: ''
-source: 'Daud, Bukhari & Mark Durie. Kamus Basa Acèh = Kamus Bahasa Aceh: Acehnese–Indonesian–English Thesaurus.
-  Pacific Linguistics C-151, 1999, p. 47.'
-date_added: '2026-07-20'
+source: 'Kamus Aceh-Indonesia (extracted from pp.124-270 of the source edition, Acehnese section entries
+  cèm-unyèn through gutie/H). File: markdown.md supplied by the user. — p.173 ; Kamus Aceh-Indonesia (extracted
+  from pp.124-270 of the source edition, Acehnese section entries cèm-unyèn through gutie/H). File: markdown.md
+  supplied by the user. — pp.173-174'
+date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: ''
+extraction_notes: Indonesian example translations are taken verbatim from the source. English meanings
+  and Jawi transliterations are AI-flagged as unverified and need human review. Jawi transliteration is
+  AI-generated, not from source — needs verification by a Jawi-literate reviewer. Part of speech not explicitly
+  marked in source. Indonesian example translations are taken verbatim from the source. English meanings
+  and Jawi transliterations are AI-flagged as unverified and need human review. Jawi transliteration is
+  AI-generated, not from source — needs verification by a Jawi-literate reviewer.

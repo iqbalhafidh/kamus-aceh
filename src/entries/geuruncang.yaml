@@ -1,65 +1,41 @@
 headword: geuruncang
-jawi: ݢورڠچڠ
+jawi: ''
 alt_spelling: []
 ipa: ''
 part_of_speech: v
 definitions:
 - meaning_id: menggongcang, menggoyang ke sana kemari
   meaning_en: ''
-  examples:
-  - aceh: boh kayèe nyan ta
-    jawi: ''
-    id: ''
-    en: ''
-  - aceh: bak habèh
-    jawi: ''
-    id: Goyanglah buah-buahan itu sampai habis semuanya
-    en: ''
-  - aceh: pakon ta
-    jawi: ''
-    id: ''
-    en: ''
-  - aceh: rumoh?
-    jawi: ''
-    id: mengapakah Anda menggoyang-goyangkan rumah?
-    en: ''
-  - aceh: meu
-    jawi: ''
-    id: digoncang-goncang, gempar, gemerincing
-    en: shaken, alarmed, jingling
-  - aceh: meu
-    jawi: ''
-    id: ''
-    en: ''
-  - aceh: that
-    jawi: ''
-    id: ''
-    en: ''
-  - aceh: rumoh nyoe
-    jawi: ''
-    id: Rumah ini bergerak-gerak sekali
-    en: ''
-  - aceh: tadeungon suara sinyata meuntroe ngon ulèebalang meu
-    jawi: ''
-    id: ''
-    en: ''
-  - aceh: leupaih na!
-    jawi: ''
-    id: Bunyi senjata para menteri dan
-    en: ''
-  - aceh: uleebalang
-    jawi: ''
-    id: terdengar gemerincing sekali
-    en: sounds very tinkling
-  - aceh: peu
-    jawi: ''
-    id: menyuruh goncang atau goyang keras-keras
-    en: to shake or rock hard
+examples:
+- aceh: boh kayèe nyan ta - bak habèh
+  jawi: ''
+  id: Goyanglah buah-buahan itu sampai habis semuanya
+  en: ''
+- aceh: pakon ta - rumoh? mengapakah Anda menggoyang-goyangkan rumah? meu -
+  jawi: ''
+  id: digoncang-goncang, gempar, gemerincing
+  en: ''
+- aceh: meu - that, rumoh nyoe
+  jawi: ''
+  id: Rumah ini bergerak-gerak sekali
+  en: ''
+- aceh: tadeungon suara sinyata meuntroe ngon ulèebalang meu - leupaih na! Bunyi senjata para menteri
+    dan uleebalang terdengar gemerincing sekali
+  jawi: ''
+  id: ''
+  en: ''
+- aceh: peu -
+  jawi: ''
+  id: menyuruh goncang atau goyang keras-keras
+  en: ''
 etymology: ''
 related_words:
 - guncang
 dialect_notes: ''
-source: Kamus Aceh-Indonesia (Acehnese-Indonesian Dictionary), p. 235
+source: 'Kamus Aceh-Indonesia (extracted from pp.124-270 of the source edition, Acehnese section entries
+  cèm-unyèn through gutie/H). File: markdown.md supplied by the user. — p.235'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate reviewer. Some fields (English translations, Jawi) may be incomplete due to API rate limits during processing. Re-run the translation script to fill in missing fields.
+extraction_notes: Indonesian example translations are taken verbatim from the source. English meanings
+  and Jawi transliterations are AI-flagged as unverified and need human review. Jawi transliteration is
+  AI-generated, not from source — needs verification by a Jawi-literate reviewer.

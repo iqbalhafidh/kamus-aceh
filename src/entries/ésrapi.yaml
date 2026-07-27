@@ -1,61 +1,83 @@
 headword: ésrapi
-jawi: اسرڤي
+jawi: ''
 alt_spelling:
 - éseurapi
 ipa: ''
 part_of_speech: n
 definitions:
-- meaning_id: "Israfil, nama salah seorang malaikat → Jébrai, Édrai, Mikai, seurapi\n 1 et a ukuran yg dianggap sedikit, hanya sampai dengan: gobnyan – that, – nibak lôn, Ia pendek sekali, le ih pendek dari saya"
+- meaning_id: Israfil, nama salah seorang malaikat, Édrai, Mikai, seurapi 1 et a ukuran yg dianggap sedikit,
+    hanya sampai dengan
   meaning_en: ''
-  examples: []
-- meaning_id: nyoe –, jéh –, – nyoe, – jan, – jéh, – noe, – nan, – déh, sejauh, sependek, atau sepanjang ini, itu, di sana
-  meaning_en: ''
-  examples:
-  - aceh: "na – noe – Ulèe Lheue? Jauhkanlah ini ke Ulèe?\n\n\n\n cit na — noe? Hanya sejauh, sependek, atau sepanjang ini? meu —, meuna —, meuneu"
-    jawi: ''
-    id: sejauh, sepanjang jarak tertentu
-    en: ''
-  - aceh: hana meuneu
-    jawi: ''
-    id: tidak diketahui sejauh, serendah, setinggi mana
-    en: unknown how far, how low, how high
-  - aceh: peu
-    jawi: ''
-    id: mengurangi ukuran
-    en: ''
-  - aceh: taloe nyan panyang that, tapeu — bacut! Tali itu panjang sekali, kurangilah ukurannya sedikit. bah lon peu — narit mantong, Biarlah saya memendekkan pembicaraan saya. pa —, pana —, panè
-    jawi: ''
-    id: berapa panjang, pendek, tinggi rendah, jauh
-    en: ), its size is known
-- meaning_id: sampai ke mana
-  meaning_en: ''
-  examples:
-  - aceh: panè — paneuk si Gam, sabe ngon soe? Berapa tinggi si Gam, serupa dia? di sinoe u gampông nyan pa — atau panè — na jarak? Berapa jauh dari sini ke kampung itu? sa
-    jawi: ''
-    id: serupa ukurannya
-    en: ''
-  - aceh: hana sa
-    jawi: ''
-    id: tidak serupa ukurannya
-    en: 'a term for a number considered taboo: — that gaji lôn, my salary is very little'
-  - aceh: pa —, panè — na takeumeung jak? hana sa
-    jawi: ''
-    id: Berapa jauh Anda hendak pergi? tidak jauh
-    en: ''
-  - aceh: tu — (tune
-    jawi: ''
-    id: ), diketahui ukurannya
-    en: a short, jerking sound of a balam bird —
-  - aceh: hana lôn tu — (tunè
-    jawi: ''
-    id: jarang), Saya tidak tahu sejauh mana
-    en: rarely), I don't know to what extent
+examples:
+- aceh: gobnyan – that, – nibak lôn
+  jawi: ''
+  id: Ia pendek sekali, le ih pendek dari saya
+  en: ''
+- aceh: nyoe –
+  jawi: ''
+  id: jéh –, – nyoe, – jan, – jéh, – noe, – nan, – déh, sejauh, sependek, atau sepanjang ini, itu, di
+    sana
+  en: ''
+- aceh: na – noe – Ulèe Lheue? Jauhkanlah ini ke Ulèe? 2et 'eu cit na - noe? Hanya sejauh
+  jawi: ''
+  id: sependek, atau sepanjang ini? meu —, meuna —, meuneu —, sejauh, sepanjang jarak tertentu
+  en: ''
+- aceh: hana meuneu -
+  jawi: ''
+  id: tidak diketahui sejauh, serendah, setinggi mana
+  en: ''
+- aceh: peu -
+  jawi: ''
+  id: mengurangi ukuran
+  en: ''
+- aceh: taloe nyan panyang that
+  jawi: ''
+  id: tapeu — bacut! Tali itu panjang sekali, kurangilah ukurannya sedikit. bah lon peu — narit mantong,
+    Biarlah saya memendekkan pembicaraan saya. pa —, pana —, panè —, berapa panjang, pendek, tinggi rendah,
+    jauh
+  en: ''
+- aceh: sampai ke mana
+  jawi: ''
+  id: ''
+  en: ''
+- aceh: panè - paneuk si Gam
+  jawi: ''
+  id: sabe ngon soe? Berapa tinggi si Gam, serupa dia? di sinoe u gampông nyan pa — atau panè — na jarak?
+    Berapa jauh dari sini ke kampung itu? sa —, serupa ukurannya
+  en: ''
+- aceh: hana sa -
+  jawi: ''
+  id: tidak serupa ukurannya
+  en: ''
+- aceh: pa -
+  jawi: ''
+  id: panè — na takeumeung jak? hana sa —, Berapa jauh Anda hendak pergi? tidak jauh
+  en: ''
+- aceh: tu - (tune -)
+  jawi: ''
+  id: diketahui ukurannya
+  en: ''
+- aceh: hana lôn tu - (tunè - jarang)
+  jawi: ''
+  id: Saya tidak tahu sejauh mana., peneuk
+  en: ''
 etymology: ''
 related_words:
+- Jébrai
+- Édrai
+- Mikai
+- seurapi 1 et a ukuran yg dianggap sedikit
+- 'hanya sampai dengan: gobnyan – that'
+- – nibak lôn
+- Ia pendek sekali
+- le ih pendek dari saya
 - '''oh'
 - peneuk
 dialect_notes: ''
-source: Kamus Aceh-Indonesia (Acehnese-Indonesian Dictionary), pp. 194, 195
+source: 'Kamus Aceh-Indonesia (extracted from pp.124-270 of the source edition, Acehnese section entries
+  cèm-unyèn through gutie/H). File: markdown.md supplied by the user. — pp.194-195'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: 'Source lists variant spellings: éseurapi. Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate reviewer. Some fields (English translations, Jawi) may be incomplete due to API rate limits during processing. Re-run the translation script to fill in missing fields.'
+extraction_notes: Indonesian example translations are taken verbatim from the source. English meanings
+  and Jawi transliterations are AI-flagged as unverified and need human review. Jawi transliteration is
+  AI-generated, not from source — needs verification by a Jawi-literate reviewer.

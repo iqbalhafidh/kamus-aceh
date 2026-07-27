@@ -1,33 +1,28 @@
 headword: ceubeueh
-jawi: چبوئه
+jawi: ''
 alt_spelling: []
 ipa: ''
 part_of_speech: a
 definitions:
 - meaning_id: berani
-  meaning_en: brave
-  examples:
-  - aceh: tuah leubèh pangkat manyang, lagi tungang
-    jawi: ''
-    id: ''
-    en: ''
-  - aceh: teuga
-    jawi: ''
-    id: tuan dan pangkatnya tinggi, lagi pula ia seorang yg berani
-    en: ''
-  - aceh: peu
-    jawi: ''
-    id: —
-    en: ''
-  - aceh: droe
-    jawi: ''
-    id: memberani-berani diri
-    en: brave and courageous
+  meaning_en: ''
+examples:
+- aceh: tuah leubèh pangkat manyang, lagi tungang - teuga
+  jawi: ''
+  id: tuan dan pangkatnya tinggi, lagi pula ia seorang yg berani
+  en: ''
+- aceh: peu - - droe
+  jawi: ''
+  id: memberani-berani diri
+  en: ''
 etymology: ''
 related_words:
 - seubeueh
 dialect_notes: ''
-source: Kamus Aceh-Indonesia (Acehnese-Indonesian Dictionary), p. 123 (inferred — appears before first explicit page marker)
+source: 'Kamus Aceh-Indonesia (extracted from pp.124-270 of the source edition, Acehnese section entries
+  cèm-unyèn through gutie/H). File: markdown.md supplied by the user. — p.123'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate reviewer.
+extraction_notes: Indonesian example translations are taken verbatim from the source. English meanings
+  and Jawi transliterations are AI-flagged as unverified and need human review. Jawi transliteration is
+  AI-generated, not from source — needs verification by a Jawi-literate reviewer.

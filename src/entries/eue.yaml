@@ -1,19 +1,52 @@
-headword: '''eue'
+headword: eue
 jawi: ''
 alt_spelling: []
 ipa: ''
-part_of_speech: ''
+part_of_speech: n
 definitions:
-- meaning_id: merangkak
-  meaning_en: crawl
-examples: []
+- meaning_id: garis, batas (dl permainan)
+  meaning_en: ''
+- meaning_id: mandul
+  meaning_en: ''
+examples:
+- aceh: galah
+  jawi: ''
+  id: garis dl permainan meuga-
+  en: ''
+- aceh: leumo lôn ka -
+  jawi: ''
+  id: Sapi saya sudah mandul. keubeue nyoe — niphôn cut kon, Sejak kecil ker- bau (betina) ini sudah mandul
+  en: ''
+- aceh: da- ra -
+  jawi: ''
+  id: dara tua yg tidak pernah ka- win, gadis tua
+  en: ''
+- aceh: bak - aneuk nyan
+  jawi: ''
+  id: Moga-moga dara itu akan mandul! (kutukan seorang pemuda jika pi- nangannya ditolak)
+  en: ''
+- aceh: peu -
+  jawi: ''
+  id: me- mandulkan, membiarkan seorang dara tidak kawin
+  en: ''
+- aceh: pakon tapeu - aneuk gob? Mengapa Anda mem- biarkan anak dara orang mandul? (dikatakan thd suami
+    yg tidak mau pulang lagi kpd istrinya)
+  jawi: ''
+  id: ong 'euh'euh suara anak kecil mengejan pd waktu buang air besar
+  en: ''
+- aceh: meu -
+  jawi: ''
+  id: mengeluarkan suara 'euh-'euh
+  en: ''
 etymology: ''
 related_words:
-- '''eui'
+- melé
+- ong 'euh'euh suara anak kecil mengejan pd waktu buang air besar
 dialect_notes: ''
-source: 'Daud, Bukhari & Mark Durie. Kamus Basa Acèh = Kamus Bahasa Aceh: Acehnese–Indonesian–English Thesaurus.
-  Pacific Linguistics C-151, 1999, p. 36; p. 104.'
-date_added: '2026-07-20'
+source: 'Kamus Aceh-Indonesia (extracted from pp.124-270 of the source edition, Acehnese section entries
+  cèm-unyèn through gutie/H). File: markdown.md supplied by the user. — p.196'
+date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: PDF text-layer mismatch in the Acehnese form; copied from the searchable PDF text layer and needs
-  visual verification against printed p. 104.
+extraction_notes: Indonesian example translations are taken verbatim from the source. English meanings
+  and Jawi transliterations are AI-flagged as unverified and need human review. Jawi transliteration is
+  AI-generated, not from source — needs verification by a Jawi-literate reviewer.

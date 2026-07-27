@@ -1,17 +1,26 @@
 headword: lah
 jawi: ''
-alt_spelling: []
+alt_spelling:
+- gajah
+- putih
 ipa: ''
 part_of_speech: ''
 definitions:
-- meaning_id: untunglah
-  meaning_en: fortunately
-examples: []
+- meaning_id: '*'
+  meaning_en: ''
+examples:
+- aceh: duek, pasang*
+  jawi: ''
+  id: ''
+  en: ''
 etymology: ''
 related_words: []
 dialect_notes: ''
-source: 'Daud, Bukhari & Mark Durie. Kamus Basa Acèh = Kamus Bahasa Aceh: Acehnese–Indonesian–English Thesaurus.
-  Pacific Linguistics C-151, 1999, p. 112.'
-date_added: '2026-07-20'
+source: 'Kamus Aceh-Indonesia (extracted from pp.124-270 of the source edition, Acehnese section entries
+  cèm-unyèn through gutie/H). File: markdown.md supplied by the user. — p.240'
+date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: ''
+extraction_notes: Part of speech not explicitly marked in source. Indonesian example translations are
+  taken verbatim from the source. English meanings and Jawi transliterations are AI-flagged as unverified
+  and need human review. Jawi transliteration is AI-generated, not from source — needs verification by
+  a Jawi-literate reviewer.

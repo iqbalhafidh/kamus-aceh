@@ -1,76 +1,78 @@
 headword: dilèe
-jawi: ديلاءي
+jawi: ''
 alt_spelling: []
 ipa: ''
 part_of_speech: p
 definitions:
-- meaning_id: 'dahulu, tadi, sebelumnya: bèk —, jangan dahulu'
-  meaning_en: 'before, previously: not yet —, not yet'
-  examples:
-  - aceh: tajak —, pergilah Anda terlebih dahulu. buet nyan
-    jawi: ''
-    id: kon meunan, pekerjaan atau hal itu sejak dahulu pun sudah begitu
-    en: as it is, that job or matter has been that way since long ago
-  - aceh: ''
-    jawi: ''
-    id: nyang ka, yg sudah lalu, yg sudah-sudah
-    en: ''
-  - aceh: bak jameun
-    jawi: ''
-    id: pd masa dahulu
-    en: in the past
-  - aceh: nyang
-    jawi: ''
-    id: yg dahulu
-    en: ''
-  - aceh: ''
-    jawi: ''
-    id: dudoe (dl hik) berturut-turut
-    en: dudoe (dl hik) in succession
-  - aceh: meu —, (
-    jawi: ''
-    id: ), dahulu mendahului
-    en: ''
-  - aceh: jak meu — —, berjalan dahulu mendahului
-    jawi: ''
-    id: → dalai
-    en: pants with goat's toenail decorative motifs
-  - aceh: peu
-    jawi: ''
-    id: menyuruh mendahului
-    en: to tell to go first
-  - aceh: bèk tapeu
-    jawi: ''
-    id: droeteu nibak ureueng tuha, Janganlah Anda mendahului orang tua
-    en: droeteu nibak ureueng tuha, Do not precede the elderly
-- meaning_id: tapeu gata u keue, berjalanlah Anda di depan dahulu
+- meaning_id: dahulu, tadi, sebelumnya
   meaning_en: ''
-  examples:
-  - aceh: tapeu
-    jawi: ''
-    id: teungku, Biarkanlah teungku berjalan terlebih dahulu di depan
-    en: teungku, Let teungku walk ahead first
-  - aceh: tapeu
-    jawi: ''
-    id: tapeuduek dua teuôt, lheueh ngan dua jaroe siteuntang deungon dua bahô, dahulukanlah meletakkan kedua lutut Anda (di tanah), setelah itu baru kedua tangan setentang dng dua bahu Anda
-    en: ''
-  - aceh: tapeu
-    jawi: ''
-    id: buet nyoe nibak buet nyan, dahulukanlah pekerjaan ini dp pekerjaan itu
-    en: this work rather than that one, prioritize this work over that one
-  - aceh: "dilén, awé dilén → awé\n  dian n dinar, mata uang emas\n  dian n zina, perzinaan: meu"
-    jawi: ''
-    id: berzina
-    en: ''
-  - aceh: "peu —, menyuruh lakukan perzinaan\n  dian a dina, miskin: hina"
-    jawi: ''
-    id: hina dina (dl hik)
-    en: ''
+examples:
+- aceh: bèk -
+  jawi: ''
+  id: jangan dahulu
+  en: ''
+- aceh: tajak -
+  jawi: ''
+  id: pergilah Anda terlebih dahulu. buet nyan — kon meunan, peker- jaan atau hal itu sejak dahulu pun
+    sudah begitu
+  en: ''
+- aceh: '- nyang ka'
+  jawi: ''
+  id: yg sudah lalu, yg sudah-sudah
+  en: ''
+- aceh: bak jameun -
+  jawi: ''
+  id: pd masa dahulu
+  en: ''
+- aceh: nyang -
+  jawi: ''
+  id: yg dahulu
+  en: ''
+- aceh: '- dudoe (dl hik) berturut-turut'
+  jawi: ''
+  id: ''
+  en: ''
+- aceh: meu -, (-)
+  jawi: ''
+  id: dahulu mendahului
+  en: ''
+- aceh: jak meu - -
+  jawi: ''
+  id: berjalan dahulu mendahului —
+  en: ''
+- aceh: peu -
+  jawi: ''
+  id: menyuruh men- dahului
+  en: ''
+- aceh: bèk tapeu - droeteu nibak ureueng tuha
+  jawi: ''
+  id: Janganlah Anda mendahului orang tua
+  en: ''
+- aceh: ta- peu gata u keue
+  jawi: ''
+  id: berjalanlah An- da di depan dahulu
+  en: ''
+- aceh: tapeu - teungku
+  jawi: ''
+  id: Biarkanlah teungku ber- jalan terlebih dahulu di depan
+  en: ''
+- aceh: tapeu - tapeuduek dua teuôt
+  jawi: ''
+  id: lheueh ngan dua jaroe siteuntang deungon dua bahô, dahulukanlah meletakkan kedua lutut Anda (di
+    tanah), setelah itu baru kedua ta- ngan setentang dng dua bahu Anda
+  en: ''
+- aceh: tapeu - buet nyoe nibak buet nyan
+  jawi: ''
+  id: dahulukanlah pekerja- an ini dp pekerjaan itu;
+  en: ''
 etymology: ''
 related_words:
-- hina
+- dalai
 dialect_notes: ''
-source: Kamus Aceh-Indonesia (Acehnese-Indonesian Dictionary), pp. 170, 171
+source: 'Kamus Aceh-Indonesia (extracted from pp.124-270 of the source edition, Acehnese section entries
+  cèm-unyèn through gutie/H). File: markdown.md supplied by the user. — pp.170-171'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate reviewer.
+extraction_notes: Indonesian example translations are taken verbatim from the source. English meanings
+  and Jawi transliterations are AI-flagged as unverified and need human review. Jawi transliteration is
+  AI-generated, not from source — needs verification by a Jawi-literate reviewer.

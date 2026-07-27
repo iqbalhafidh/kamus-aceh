@@ -2,21 +2,52 @@ headword: galak
 jawi: ''
 alt_spelling: []
 ipa: ''
-part_of_speech: ''
+part_of_speech: adv
 definitions:
-- meaning_id: suka
-  meaning_en: fond of
-- meaning_id: senang
-  meaning_en: happy
-- meaning_id: suka
-  meaning_en: like, love, happy with
-examples: []
+- meaning_id: suka, mau, cinta, gembira, sedang
+  meaning_en: ''
+examples:
+- aceh: lôn - that keu saka
+  jawi: ''
+  id: Saya suka sekali makan gula
+  en: ''
+- aceh: lôn hana - keu ureueng beuo
+  jawi: ''
+  id: Saya tidak menyukai orang malas. di lôn — lôn pajôh bu ngôn eungkôt laôt, Saya suka makan nasi dng
+    ikan laut
+  en: ''
+- aceh: cuba tapilêh toh nyang - até gata
+  jawi: ''
+  id: Coba Anda pilih, mana yg menyenangkan hati Anda! jih — that até 'oh jiteumêe meukawên ngon inong
+    nyan, Ia senang sekali setelah dapat mengawini itu
+  en: ''
+- aceh: h'an ta - keu nanggroe cilaka nyoe
+  jawi: ''
+  id: Kita tidak dapat mencintai negeri celaka ini! meu —, menyukai, menginginkan, mencintai, meu — —,
+    (meugeu —), bersukacukaan, bersenang-senang
+  en: ''
+- aceh: êk tameu - sabê
+  jawi: ''
+  id: h'an tatakôt sagai, Anda suka bersenang-senang selalu, tiakkah Anda merasa takut (akan hal-hal yg
+    akan terjadi)? bèk tameu — keu dônya nyoe, uroe dudoe gata geutimplak di padang maca, Janganlah Anda
+    mencintai dunia ini, di hari kemudian Anda akan ditempelak (oleh Tuhan) di padang mahsyar
+  en: ''
+- aceh: peu -
+  jawi: ''
+  id: membuat suka, menggalakkan
+  en: ''
+- aceh: ureueng mokmin neu-yue peu - bak buet kebajikan, (Tuhan) menyuruh menggalakkan orang-orang mukmin
+    berbuat kebajikan
+  jawi: ''
+  id: ''
+  en: ''
 etymology: ''
-related_words:
-- seunang
+related_words: []
 dialect_notes: ''
-source: 'Daud, Bukhari & Mark Durie. Kamus Basa Acèh = Kamus Bahasa Aceh: Acehnese–Indonesian–English Thesaurus.
-  Pacific Linguistics C-151, 1999, p. 49; p. 51.'
-date_added: '2026-07-20'
+source: 'Kamus Aceh-Indonesia (extracted from pp.124-270 of the source edition, Acehnese section entries
+  cèm-unyèn through gutie/H). File: markdown.md supplied by the user. — p.209'
+date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: ''
+extraction_notes: Indonesian example translations are taken verbatim from the source. English meanings
+  and Jawi transliterations are AI-flagged as unverified and need human review. Jawi transliteration is
+  AI-generated, not from source — needs verification by a Jawi-literate reviewer.

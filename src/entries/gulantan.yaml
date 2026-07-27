@@ -1,14 +1,103 @@
 headword: gulantan
-jawi: ݢولنتن
+jawi: ''
 alt_spelling: []
 ipa: ''
 part_of_speech: ''
-definitions: []
+definitions:
+- meaning_id: gunantan gule
+  meaning_en: ''
+examples:
+- aceh: 'v menggulingkan: - tòng'
+  jawi: ''
+  id: menggulingkan tong
+  en: ''
+- aceh: aneuk nyan ji - droeji bak abèe, Anak itu mengguling-gulingkan badannya dl debut, taloe -
+  jawi: ''
+  id: sj rantai tangan bulat dr emas yg dipakai oleh wanita
+  en: ''
+- aceh: meu - (teu -)
+  jawi: ''
+  id: terguling
+  en: ''
+- aceh: meu -, (dl hik) meugeu -
+  jawi: ''
+  id: berguling-guling
+  en: ''
+- aceh: ban dua awaknyan reubah meu -
+  jawi: ''
+  id: Kedua mereka itu jatuh berguling-guling
+  en: ''
+- aceh: bangkè ureueng meugeu -, darah ilé ban ie raya
+  jawi: ''
+  id: Mayat-mayat orang yg tewas bergelimpangan (di padang), darah mengalir laksana air bah
+  en: ''
+- aceh: 'geumulé, melakukan pekerjaan menggulingkan, sedang melakukan pekerjaan menggulingkan gulè n sj
+    gulai sayur utk kawan nasi: - leumak, gulai yg dimasak dng *santan* dan kadang-kadang juga dng ikan
+    asing'
+  jawi: ''
+  id: ''
+  en: ''
+- aceh: '- masam keueung (- masam peudaih)'
+  jawi: ''
+  id: gulai masam padas
+  en: ''
+- aceh: '- pi u'
+  jawi: ''
+  id: gulai yg dimasak dng ampas parutan kelapa yg telah diperam dan diambil minyaknya
+  en: ''
+- aceh: '- rampon (-rampoe)'
+  jawi: ''
+  id: campuran berbagai-bagai sayuran
+  en: ''
+- aceh: '- taguen Klèng, gulai dng daging kambing serta dibubuhi rempah-rempah, - meuaweueh, - kamèng'
+  jawi: ''
+  id: ''
+  en: ''
+- aceh: '- meuaweueh, buah nangka muda 1 guliga, geuliga v berusaha mencapai sesuatu: ta - jalan nyang
+    gèt'
+  jawi: ''
+  id: Usahakan menempuh jalan yg baik
+  en: ''
+- aceh: ta - pèng keu lòn
+  jawi: ''
+  id: Usahakanlah uang utk saya
+  en: ''
+- aceh: raya that - gob nyan
+  jawi: ''
+  id: Besar sekali perusahaan orang itu
+  en: ''
+- aceh: peukan nyoe - gobnyan
+  jawi: ''
+  id: Pasar ini adalah hasil pekerjaan orang itu
+  en: ''
+- aceh: meu -, melakukan guliga
+  jawi: ''
+  id: ''
+  en: ''
+- aceh: gobnyan sabé lam geumeu -
+  jawi: ''
+  id: Orang itu selalu berusaha
+  en: ''
+- aceh: peu - = -
+  jawi: ''
+  id: 'geuliga n mestika (dl hik): dalam peutoe na lhee boh —, sa- boh jeuet keu kuta, saboh jeuet keu
+    atana, Dl petinya terdapat ti- ga buah mestika, sebuah dapat menjadikan kubu pertahanan dan sebuah
+    lagi istana'
+  en: ''
 etymology: ''
 related_words:
-- gunantan
+- 2 guliga gumilang 2 ekuetieue. 2 guliga
+- 'geuliga n mestika (dl hik): dalam peutoe na lhee boh —'
+- sa- boh jeuet keu kuta
+- saboh jeuet keu atana
+- Dl petinya terdapat ti- ga buah mestika
+- sebuah dapat menjadikan kubu pertahanan dan sebuah lagi istana
 dialect_notes: ''
-source: Kamus Aceh-Indonesia (Acehnese-Indonesian Dictionary), p. 260
+source: 'Kamus Aceh-Indonesia (extracted from pp.124-270 of the source edition, Acehnese section entries
+  cèm-unyèn through gutie/H). File: markdown.md supplied by the user. — pp.260-261'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: Cross-reference entry pointing to 'gunantan'. Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate reviewer.
+extraction_notes: Part of speech not explicitly marked in source. Indonesian example translations are
+  taken verbatim from the source. English meanings and Jawi transliterations are AI-flagged as unverified
+  and need human review. Jawi transliteration is AI-generated, not from source — needs verification by
+  a Jawi-literate reviewer.

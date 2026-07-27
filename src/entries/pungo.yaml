@@ -1,26 +1,85 @@
----
-headword: "pungo"
-jawi: ""
+headword: pungo
+jawi: ''
 alt_spelling: []
-ipa: "/pu.ŋõ/"
-part_of_speech: "n"
-language_uncertain: false
+ipa: ''
+part_of_speech: ''
 definitions:
-  - meaning_id: "1 gangguan jiwa; sakit ingatan (kurang beres ingatannya),"
-    meaning_en: ""
-  - meaning_id: "2 tidak biasa; tidak sebagaimana mestinya; berbuat yg bukan-bukan (tidak masuk akal);"
-    meaning_en: ""
-  - meaning_id: "3 terlanda perasaan sangat suka (gemar, asyik, cinta, kasih sayang);"
-    meaning_en: ""
+- meaning_id: gilab, kilab
+  meaning_en: ''
 examples:
-  - aceh: "Adun lön that – bola"
-    jawi: ""
-    id: "‘abang saya sangat – bola’; gila"
-    en: ""
-etymology: ""
-related_words: []
-dialect_notes: ""
-source: "Kamus Bahasa Aceh Daring (Balai Bahasa Provinsi Aceh), 'Entri huruf — pungo', URL: https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/P?page=19 (diakses 20 Juli 2026); halaman tambahan: P?page=11, P?page=12, P?page=13, P?page=14, P?page=15, P?page=16, P?page=17, P?page=18, P?page=19, P?page=6, P?page=7, P?page=8, P?page=9"
-date_added: "2026-07-20"
-contributor: "AI-extracted — needs human review"
-extraction_notes: "Diekstrak dari 14 halaman sumber (https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/P?page=10, https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/P?page=11, https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/P?page=12, https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/P?page=13, https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/P?page=14, https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/P?page=15, https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/P?page=16, https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/P?page=17, https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/P?page=18, https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/P?page=19, https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/P?page=6, https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/P?page=7, https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/P?page=8, https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/P?page=9). Ditemukan pada beberapa halaman; definisi dan contoh digabungkan. Tidak ada bentuk Jawi dalam sumber — dibiarkan kosong sesuai aturan."
+- aceh: 'n kilat, cahaya: jibeudoih 1gisa -, menimbulkan kilat: ''oh ji - kilat, leumah pencuri'
+  jawi: ''
+  id: Sewaktu kilat bercahaya, tampaklah pencuri
+  en: ''
+- aceh: meu -
+  jawi: ''
+  id: berkilat
+  en: ''
+- aceh: '''oh jilangkah meu - subang, ''oh jilinggang meu-simpreue cahya'
+  jawi: ''
+  id: Ketika ia melangkah berkilatlah subangnya dan ketika melenggang bertaburanlah cahayanya
+  en: ''
+- aceh: peu -
+  jawi: ''
+  id: membuat bercahaya
+  en: ''
+- aceh: 'bèk tapeu - ceureumèn, Janganlah Anda membalik-balikkan cermin di sinar matahari*giléng v giling:
+    inong nyan teungoh ji - ubat*'
+  jawi: ''
+  id: Wanita itu sedang menggiling obat (dl lumpang)
+  en: ''
+- aceh: 'meu - (teu -), digiling: manok lôn ka meu - ngon moto'
+  jawi: ''
+  id: Ayam saya telah digiling auto
+  en: ''
+- aceh: 'peu -, menyuruh giling: geumiléng'
+  jawi: ''
+  id: melakukan pekerjaan menggiling —, sedang melakukan perbuatan menggiling
+  en: ''
+- aceh: alèe geumiléng, alu utk menggiling, tob*gilho, gilo n* injak
+  jawi: ''
+  id: ''
+  en: ''
+- aceh: bèk ta - ija gob
+  jawi: ''
+  id: Jangan Anda menginjak kain orang
+  en: ''
+- aceh: aneuk nyan dukhat that, ji - manok lôn bak takue! Anak itu nakal sekali
+  jawi: ''
+  id: ia menginjak ayam di lehernya (sehingga mati)
+  en: ''
+- aceh: meu - (teu -)
+  jawi: ''
+  id: diinjak, terinjak
+  en: ''
+- aceh: 'peu -, menyuruh injak, lho*gilo, wanita yg suka memperlihatkan dirinya di mana-mana, girang:
+    inong nyan - that'
+  jawi: ''
+  id: jijak baranggaho*, Wanita itu girang sekali, ia pergi ke mana-mana
+  en: ''
+- aceh: peu -
+  jawi: ''
+  id: membuat gila kpd laki-laki
+  en: ''
+etymology: ''
+related_words:
+- '**pèh'
+- tob**gilho
+- gilo *n* injak
+- '**gidong'
+- lho**gilo → **gilho**gim → **jim**gincét → **kincét**girang *a* gila kpd laki-laki (utk wanita) atau
+  kpd wanita (utk laki-laki)
+- wanita yg suka memperlihatkan dirinya di mana-mana
+- 'girang: *inong nyan* — *that'
+- jijak baranggaho*
+- Wanita itu girang sekali
+- ia pergi ke mana-mana
+dialect_notes: ''
+source: 'Kamus Aceh-Indonesia (extracted from pp.124-270 of the source edition, Acehnese section entries
+  cèm-unyèn through gutie/H). File: markdown.md supplied by the user. — pp.240-241'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+extraction_notes: Part of speech not explicitly marked in source. Indonesian example translations are
+  taken verbatim from the source. English meanings and Jawi transliterations are AI-flagged as unverified
+  and need human review. Jawi transliteration is AI-generated, not from source — needs verification by
+  a Jawi-literate reviewer.

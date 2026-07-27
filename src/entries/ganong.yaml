@@ -1,24 +1,35 @@
 headword: ganong
-jawi: ݢانوڠ
+jawi: ''
 alt_spelling: []
 ipa: ''
 part_of_speech: n
 definitions:
-- meaning_id: 'jin, roh jahat yg menghuni suatu tempat: meu —, berhantu'
-  meaning_en: –, making a geureubuk sound
-  examples:
-  - aceh: bak kayèe nyan meu
-    jawi: ''
-    id: Pohon kayu itu berhantu
-    en: ''
-  - aceh: "h'an tajéuet jak keunan, meu —! Tidak berani kita ke sana, ada hantunya! → beurala sanè\n 1 gantang n ukuran isi di daerah Aceh yg hanya dikenal namanya saja, di samakan dng 2 arè\n 2 gantang n buah kentang: boh"
-    jawi: ''
-    id: jeuet keu bu ureueng Ierupa, Kentang menjadi makanan bagi orangorang Eropah
-    en: ''
+- meaning_id: jin, roh jahat yg menghuni suatu tempat
+  meaning_en: ''
+examples:
+- aceh: meu -
+  jawi: ''
+  id: berhantu
+  en: ''
+- aceh: bak kayèe nyan meu -
+  jawi: ''
+  id: Pohon ka- yu itu berhantu
+  en: ''
+- aceh: h'an tajéuet jak keunan
+  jawi: ''
+  id: 'meu —! Tidak berani kita ke sana, ada hantunya!, di samakan dng 2 arè 2 gantang n buah kentang:
+    boh — je- uet keu bu ureueng Ierupa, Ken- tang menjadi makanan bagi orang- orang Eropah'
+  en: ''
 etymology: ''
-related_words: []
+related_words:
+- beurala sanè 1 gantang n ukuran isi di daerah Aceh yg hanya dikenal namanya saja
+- 'di samakan dng 2 arè 2 gantang n buah kentang: boh — je- uet keu bu ureueng Ierupa'
+- Ken- tang menjadi makanan bagi orang- orang Eropah
 dialect_notes: ''
-source: Kamus Aceh-Indonesia (Acehnese-Indonesian Dictionary), p. 215
+source: 'Kamus Aceh-Indonesia (extracted from pp.124-270 of the source edition, Acehnese section entries
+  cèm-unyèn through gutie/H). File: markdown.md supplied by the user. — p.215'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate reviewer.
+extraction_notes: Indonesian example translations are taken verbatim from the source. English meanings
+  and Jawi transliterations are AI-flagged as unverified and need human review. Jawi transliteration is
+  AI-generated, not from source — needs verification by a Jawi-literate reviewer.

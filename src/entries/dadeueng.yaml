@@ -1,36 +1,27 @@
 headword: dadeueng
-jawi: دادوڠ
+jawi: ''
 alt_spelling: []
 ipa: ''
 part_of_speech: v
 definitions:
 - meaning_id: menjemur, mengeringkan memanggang (dekat api)
   meaning_en: ''
-  examples:
-  - aceh: ta
-    jawi: ''
-    id: ''
-    en: ''
-  - aceh: ija
-    jawi: ''
-    id: ''
-    en: ''
-  - aceh: lòn bak apui
-    jawi: ''
-    id: keringkanlah kain saya di api
-    en: ''
-  - aceh: meu
-    jawi: ''
-    id: melakukan pekerjaan menjemur, berjemur (di api)
-    en: ''
-  - aceh: peu
-    jawi: ''
-    id: mengusahakan menje-
-    en: trying to-
+examples:
+- aceh: ta - ija lòn bak apui
+  jawi: ''
+  id: keringkanlah kain saya di api
+  en: ''
+- aceh: 'meu -, melakukan pekerjaan menjemur, berjemur (di api): peu -'
+  jawi: ''
+  id: mengusahakan menje-
+  en: ''
 etymology: ''
 related_words: []
 dialect_notes: ''
-source: Kamus Aceh-Indonesia (Acehnese-Indonesian Dictionary), p. 152
+source: 'Kamus Aceh-Indonesia (extracted from pp.124-270 of the source edition, Acehnese section entries
+  cèm-unyèn through gutie/H). File: markdown.md supplied by the user. — p.152'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate reviewer. Some fields (English translations, Jawi) may be incomplete due to API rate limits during processing. Re-run the translation script to fill in missing fields.
+extraction_notes: Indonesian example translations are taken verbatim from the source. English meanings
+  and Jawi transliterations are AI-flagged as unverified and need human review. Jawi transliteration is
+  AI-generated, not from source — needs verification by a Jawi-literate reviewer.

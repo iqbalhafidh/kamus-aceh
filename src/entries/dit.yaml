@@ -1,156 +1,99 @@
 headword: dit
-jawi: ديت
+jawi: ''
 alt_spelling: []
 ipa: ''
 part_of_speech: p
 definitions:
 - meaning_id: 'sebutan utk suatu jumlah yg dianggap pantang: — that gaji lôn, gaji saya sedikit sekali'
-  meaning_en: he jumped and jingled, making the bells sound
-  examples:
-  - aceh: — noe — nan — dèn, — lagèe, si
-    jawi: ''
-    id: noe, sebanyak ini, itu, sana
-    en: ''
-  - aceh: barangga
-    jawi: ''
-    id: betapapun sedikitnya
-    en: ''
-  - aceh: barangga
-    jawi: ''
-    id: jibri, tatueng cit, betapapun sedikit diberikannya, Anda terima juga
-    en: ''
-  - aceh: meu
-    jawi: ''
-    id: tertentu banyaknya
-    en: certain quantity
-  - aceh: meu
-    jawi: ''
-    id: —, berbuat sesuatu dl jumlah yg sedikit-diknya
-    en: 'pinching with thumb and forefinger, taking with thumb and forefinger: ji – eungkôt raya-raya that*, he took fish by pinching very big'
-  - aceh: jimè jimeu
-    jawi: ''
-    id: —, mereka berlomba-lomba membawanya dl jumlah yg sedikit-dikitnya
-    en: ''
-  - aceh: peu
-    jawi: ''
-    id: mempersedikit, memperkecil jumlah
-    en: ''
-  - aceh: tumpôk nyoe tapeu
-    jawi: ''
-    id: ''
-    en: ''
-  - aceh: bacut
-    jawi: ''
-    id: ''
-    en: ''
-  - aceh: sabab jih hana payah
-    jawi: ''
-    id: kecilkan sedikit tumpukan ini sebab ia tidak banyak melakukan pekerjaan
-    en: make this pile a bit smaller because he doesn't do much work
-  - aceh: meu
-    jawi: ''
-    id: jumlah yg sedikit-dikitnya
-    en: a small amount
-  - aceh: sineu
-    jawi: ''
-    id: yg sedikit-dikitnya
-    en: at least
-  - aceh: pa
-    jawi: ''
-    id: berapa banyak
-    en: 'dra. v to flog: si meuranté nyan geu — limong plôn go, The chained man was flogged fifty times. peu —, to order a flogging'
-  - aceh: pa
-    jawi: ''
-    id: ''
-    en: ''
-  - aceh: yum
-    jawi: ''
-    id: berapakah harganya itu
-    en: how much is that
-  - aceh: pa
-    jawi: ''
-    id: ''
-    en: ''
-  - aceh: pa
-    jawi: ''
-    id: ''
-    en: ''
-  - aceh: na
-    jawi: ''
-    id: betapapun sedikitnya
-    en: ''
-  - aceh: pa
-    jawi: ''
-    id: ''
-    en: ''
-  - aceh: pa
-    jawi: ''
-    id: ''
-    en: ''
-  - aceh: na
-    jawi: ''
-    id: ''
-    en: ''
-  - aceh: tatueng cit
-    jawi: ''
-    id: betapapun sedikit jumlahnya, Anda terima juga!
-    en: No matter how small the amount, you still accept it!
-  - aceh: sa
-    jawi: ''
-    id: sedikitnya serupa dng
-    en: at least similar to
-  - aceh: sa
-    jawi: ''
-    id: ''
-    en: ''
-  - aceh: ngon uroe jéh
-    jawi: ''
-    id: sedikitnya serupa dng hari itu
-    en: at least similar to that day
-  - aceh: hana sa
-    jawi: ''
-    id: tidak sama banyaknya, tidak ada sama sekali
-    en: ''
-  - aceh: pa
-    jawi: ''
-    id: ''
-    en: ''
-  - aceh: na meuteumeung padé lam thôn nyoe?
-    jawi: ''
-    id: ''
-    en: ''
-  - aceh: hana sa
-    jawi: ''
-    id: berapa banyak Anda memperoleh hasil padi tahun ini? tidak seberapa
-    en: ''
-  - aceh: tu
-    jawi: ''
-    id: mengetahui jumlahnya
-    en: ''
-  - aceh: ka lôn tu
-    jawi: ''
-    id: ''
-    en: ''
-  - aceh: jiteumeung
-    jawi: ''
-    id: saya telah mengetahui berapa banyak yg diperolehnya
-    en: I have learned how much he obtained
-  - aceh: hana tahu
-    jawi: ''
-    id: ''
-    en: ''
-  - aceh: peugah lé
-    jawi: ''
-    id: kita tidak dpt menceritakan berapa banyaknya, banyak sekali
-    en: we cannot tell how many, very many
+  meaning_en: ''
+- meaning_id: — noe — nan — dèn, — lagèe, si — noe, sebanyak ini, itu, sana
+  meaning_en: ''
+- meaning_id: barangga —, betapapun sedikitnya
+  meaning_en: ''
+- meaning_id: barangga —, jibri, tatueng cit, betapapun sedikit diberikannya, Anda terima juga
+  meaning_en: ''
+- meaning_id: meu —, tertentu banyaknya
+  meaning_en: ''
+- meaning_id: pa — na ureueng lam gampong gata? hana meu — lom, berapa diwana, jumlah penduduk kampung
+    Anda? belum lagi diketahui berapa banyaknya
+  meaning_en: ''
+examples:
+- aceh: meu - -
+  jawi: ''
+  id: berbuat sesuatu dl jumlah yg sedikit-diknya
+  en: ''
+- aceh: jimè jimeu - -
+  jawi: ''
+  id: mereka berlomba-lomba membawanya dl jumlah yg sedikit-dikitnya
+  en: ''
+- aceh: peu -
+  jawi: ''
+  id: mempersedikit, memperkecil jumlah
+  en: ''
+- aceh: tumpôk nyoe tapeu - bacut, sabab jih hana payah
+  jawi: ''
+  id: kecilkan sedikit tumpukan ini sebab ia tidak banyak melakukan pekerjaan
+  en: ''
+- aceh: meu -
+  jawi: ''
+  id: jumlah yg sedikit-dikitnya
+  en: ''
+- aceh: sineu -
+  jawi: ''
+  id: yg sedikit-dikitnya
+  en: ''
+- aceh: pa -
+  jawi: ''
+  id: berapa banyak
+  en: ''
+- aceh: pa - yum
+  jawi: ''
+  id: berapakah harganya itu
+  en: ''
+- aceh: pa - pa - na
+  jawi: ''
+  id: betapapun sedikitnya
+  en: ''
+- aceh: pa - pa - na, tatueng cit, betapapun sedikit jumlahnya, Anda terima juga! sa -
+  jawi: ''
+  id: sedikitnya serupa dng
+  en: ''
+- aceh: sa - ngon uroe jéh
+  jawi: ''
+  id: sedikitnya serupa dng hari itu
+  en: ''
+- aceh: hana sa -
+  jawi: ''
+  id: tidak sama banyaknya, tidak ada sama sekali
+  en: ''
+- aceh: pa - na meuteumeung padé lam thôn nyoe? hana sa -
+  jawi: ''
+  id: berapa banyak Anda memperoleh hasil padi tahun ini? tidak seberapa
+  en: ''
+- aceh: tu -
+  jawi: ''
+  id: mengetahui jumlahnya
+  en: ''
+- aceh: ka lôn tu - jiteumeung
+  jawi: ''
+  id: saya telah mengetahui berapa banyak yg diperolehnya
+  en: ''
+- aceh: hana tahu - peugah lé, kita tidak dpt menceritakan berapa banyaknya, banyak sekali, dum, mit,
+    nit
+  jawi: ''
+  id: ''
+  en: ''
 etymology: ''
 related_words:
-- bacut
-- dum
-- mit
-- nit
+- '*bacut*'
+- '*dum*'
+- '*mit*'
+- '*nit*'
 dialect_notes: ''
-source: Kamus Aceh-Indonesia (Acehnese-Indonesian Dictionary), pp. 171, 172
+source: 'Kamus Aceh-Indonesia (extracted from pp.124-270 of the source edition, Acehnese section entries
+  cèm-unyèn through gutie/H). File: markdown.md supplied by the user. — pp.171-172'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate reviewer.
+extraction_notes: Indonesian example translations are taken verbatim from the source. English meanings
+  and Jawi transliterations are AI-flagged as unverified and need human review. Jawi transliteration is
+  AI-generated, not from source — needs verification by a Jawi-literate reviewer.

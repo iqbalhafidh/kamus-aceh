@@ -1,52 +1,43 @@
 headword: gajah
-jawi: ڬاجه
+jawi: ''
 alt_spelling: []
 ipa: ''
 part_of_speech: n
 definitions:
-- meaning_id: 'gajah: —'
+- meaning_id: gajah
   meaning_en: ''
-  examples:
-  - aceh: tunggai
-    jawi: ''
-    id: gajah tunggal jantan
-    en: ''
-  - aceh: inong
-    jawi: ''
-    id: gajah betina
-    en: ''
-  - aceh: du'a
-    jawi: ''
-    id: doa utk menangkap gajah
-    en: prayer to catch an elephant
-  - aceh: meu
-    jawi: ''
-    id: mempunyai atau mengendarai gajah
-    en: ''
-  - aceh: meu
-    jawi: ''
-    id: —, bermain gajah-gajahan
-    en: ''
-  - aceh: peu
-    jawi: ''
-    id: melakukan sesuatu dng kekuatan
-    en: to do something with strength
-  - aceh: kuta
-    jawi: ''
-    id: ''
-    en: ''
-  - aceh: nyan ka jipeu
-    jawi: ''
-    id: ''
-    en: ''
-  - aceh: lê musôh
-    jawi: ''
-    id: Kubu pertahanan itu sudah diperangi oleh musuh dng sekuat-kuatnya
-    en: The defensive position was attacked by the enemy with all their might
+examples:
+- aceh: tunggai
+  jawi: ''
+  id: gajah tung- gal jantan
+  en: ''
+- aceh: '- inong'
+  jawi: ''
+  id: gajah betina
+  en: ''
+- aceh: du'a -
+  jawi: ''
+  id: doa utk menangkap ga- jah
+  en: ''
+- aceh: meu -
+  jawi: ''
+  id: mempunyai atau me- ngendarai gajah
+  en: ''
+- aceh: meu - -, ber- main gajah-gajahan, peu -
+  jawi: ''
+  id: mela- kukan sesuatu dng kekuatan
+  en: ''
+- aceh: kuta nyan ka jipeu - lê musôh
+  jawi: ''
+  id: Kubu pertahanan itu sudah diperangi oleh musuh dng sekuat-kuatnya
+  en: ''
 etymology: ''
 related_words: []
 dialect_notes: ''
-source: Kamus Aceh-Indonesia (Acehnese-Indonesian Dictionary), p. 207
+source: 'Kamus Aceh-Indonesia (extracted from pp.124-270 of the source edition, Acehnese section entries
+  cèm-unyèn through gutie/H). File: markdown.md supplied by the user. — p.207'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate reviewer. Some fields (English translations, Jawi) may be incomplete due to API rate limits during processing. Re-run the translation script to fill in missing fields.
+extraction_notes: Indonesian example translations are taken verbatim from the source. English meanings
+  and Jawi transliterations are AI-flagged as unverified and need human review. Jawi transliteration is
+  AI-generated, not from source — needs verification by a Jawi-literate reviewer.

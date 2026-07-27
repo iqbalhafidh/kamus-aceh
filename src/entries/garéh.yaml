@@ -1,65 +1,44 @@
 headword: garéh
-jawi: ݢريح
+jawi: ''
 alt_spelling: []
 ipa: ''
 part_of_speech: n
 definitions:
 - meaning_id: garis, gores, parut, baris
   meaning_en: ''
-  examples:
-  - aceh: peue ta
-    jawi: ''
-    id: ''
-    en: ''
-  - aceh: bak buku nyan?
-    jawi: ''
-    id: Apa yg Anda gariskan di buku itu?
-    en: ''
-  - aceh: meu
-    jawi: ''
-    id: bergaris
-    en: striped
-  - aceh: bèk an teupèh, meu
-    jawi: ''
-    id: ''
-    en: ''
-  - aceh: pi h'an
-    jawi: ''
-    id: Jangankan kena, tergores pun tidak
-    en: ''
-  - aceh: jaroe lôn ka meu
-    jawi: ''
-    id: ''
-    en: ''
-  - aceh: ngon duroe trieng
-    jawi: ''
-    id: Tangan saya sudah tergores oleh duri bambu
-    en: My hand has been scratched by bamboo thorns
-  - aceh: buku nyan meu
-    jawi: ''
-    id: ''
-    en: ''
-  - aceh: get that
-    jawi: ''
-    id: Buku itu bergaris bagus sekali
-    en: ''
-  - aceh: buku gamba hana meu
-    jawi: ''
-    id: buku gambar tidak bergaris
-    en: unlined drawing book
-  - aceh: bajèe jih meu
-    jawi: ''
-    id: ''
-    en: ''
-  - aceh: keunong kawat
-    jawi: ''
-    id: Bajunya bergores-gores kena kawat
-    en: ''
+examples:
+- aceh: peue ta - bak buku nyan? Apa yg Anda gariskan di buku itu? meu -
+  jawi: ''
+  id: bergaris
+  en: ''
+- aceh: bèk an teupèh, meu - pi h'an
+  jawi: ''
+  id: Jangankan kena, tergores pun tidak
+  en: ''
+- aceh: jaroe lôn ka meu - ngon duroe trieng
+  jawi: ''
+  id: Tangan saya sudah tergores oleh duri bambu
+  en: ''
+- aceh: buku nyan meu - get that
+  jawi: ''
+  id: Buku itu bergaris bagus sekali
+  en: ''
+- aceh: buku gamba hana meu -
+  jawi: ''
+  id: buku gambar tidak bergaris
+  en: ''
+- aceh: bajèe jih meu - keunong kawat
+  jawi: ''
+  id: Bajunya bergores-gores kena kawat
+  en: ''
 etymology: ''
 related_words:
 - guréh
 dialect_notes: ''
-source: Kamus Aceh-Indonesia (Acehnese-Indonesian Dictionary), p. 217
+source: 'Kamus Aceh-Indonesia (extracted from pp.124-270 of the source edition, Acehnese section entries
+  cèm-unyèn through gutie/H). File: markdown.md supplied by the user. — p.217'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: Some fields (English translations, Jawi) may be incomplete due to API rate limits during processing. Re-run the translation script to fill in missing fields. Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate reviewer.
+extraction_notes: Indonesian example translations are taken verbatim from the source. English meanings
+  and Jawi transliterations are AI-flagged as unverified and need human review. Jawi transliteration is
+  AI-generated, not from source — needs verification by a Jawi-literate reviewer.

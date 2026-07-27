@@ -1,107 +1,36 @@
 headword: ciriek
-jawi: چريك
+jawi: ''
 alt_spelling:
 - cirèk
 ipa: ''
 part_of_speech: n
 definitions:
-- meaning_id: 'cerek dng corotnya: —'
-  meaning_en: 'knock with its knuckle: —'
-  examples:
-  - aceh: kansō
-    jawi: ''
-    id: cerek belek
-    en: chit-chat
-  - aceh: tanoh
-    jawi: ''
-    id: cerek tanah
-    en: ''
-  - aceh: eungkōt
-    jawi: ''
-    id: ikan petek
-    en: ''
-  - aceh: meu
-    jawi: ''
-    id: "mempunyai cerek\n §1§ *"
-    en: has a teapot
-  - aceh: cit
-    jawi: ''
-    id: ''
-    en: ''
-  - aceh: ''
-    jawi: ''
-    id: "p* sit penunjuk tekanan, dng\n berbagai artinya tergantung dr penempatannya thd kata yg berhubungan dengannya"
-    en: ''
-  - aceh: saboh
-    jawi: ''
-    id: hanya satu
-    en: ''
-  - aceh: ban siat nyoe
-    jawi: ''
-    id: baru sebentar tadi, baru saja
-    en: just a moment ago, just now
-  - aceh: na
-    jawi: ''
-    id: memang ada
-    en: it really exists
-  - aceh: na bacut
-    jawi: ''
-    id: memang ada sedikit
-    en: ''
-  - aceh: saban
-    jawi: ''
-    id: ''
-    en: ''
-- meaning_id: sama juga
+- meaning_id: cerek dng corotnya
   meaning_en: ''
-  examples:
-  - aceh: pakri
-    jawi: ''
-    id: "bagaimana juga\n §2§ *"
-    en: anyway
-  - aceh: cit
-    jawi: ''
-    id: ''
-    en: ''
-  - aceh: ''
-    jawi: ''
-    id: n
-    en: ''
-  - aceh: keturunan tingkat keenam
-    jawi: ''
-    id: ''
-    en: ''
-  - aceh: cita
-    jawi: ''
-    id: ''
-    en: ''
-  - aceh: ''
-    jawi: ''
-    id: n
-    en: ''
-  - aceh: 'cita, pikiran, keinginan, maksud:'
-    jawi: ''
-    id: duka* —, duka-cita, sedih hati
-    en: grief, sorrow, sadness
-  - aceh: suka
-    jawi: ''
-    id: suka-cita, senang hati
-    en: ''
-  - aceh: dua
-    jawi: ''
-    id: duacita, tidak menaruh dua pikiran atau hati
-    en: duacita, without hesitation or second thoughts
-  - aceh: bak uroe nyoe kupoh maté, hana peue lé dua
-    jawi: ''
-    id: hari ini engkau akan kubunuh, aku sudah berketetapan hati
-    en: today I will kill you, I have made up my mind
-- meaning_id: Bd cinta
-  meaning_en: Bd cinta
-  examples: []
+examples:
+- aceh: kansō
+  jawi: ''
+  id: cerek belek
+  en: ''
+- aceh: '- tanoh'
+  jawi: ''
+  id: cerek tanah
+  en: ''
+- aceh: eungkōt -
+  jawi: ''
+  id: ikan petek
+  en: ''
+- aceh: meu -
+  jawi: ''
+  id: mempunyai cerek
+  en: ''
 etymology: ''
 related_words: []
 dialect_notes: ''
-source: Kamus Aceh-Indonesia (Acehnese-Indonesian Dictionary), p. 137
+source: 'Kamus Aceh-Indonesia (extracted from pp.124-270 of the source edition, Acehnese section entries
+  cèm-unyèn through gutie/H). File: markdown.md supplied by the user. — p.137'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: 'Source lists variant spellings: cirèk. Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate reviewer.'
+extraction_notes: Indonesian example translations are taken verbatim from the source. English meanings
+  and Jawi transliterations are AI-flagged as unverified and need human review. Jawi transliteration is
+  AI-generated, not from source — needs verification by a Jawi-literate reviewer.

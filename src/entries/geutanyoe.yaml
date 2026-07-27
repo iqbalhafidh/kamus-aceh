@@ -1,38 +1,36 @@
 headword: geutanyoe
-jawi: ݢوتانوي
+jawi: ''
 alt_spelling: []
 ipa: ''
 part_of_speech: ''
 definitions:
-- meaning_id: 'kata ganti orang pertama jamak (termasuk orang yg disapa), kita, kadang-kadang dipergunakan juga utk kata ganti orang kedua: –'
+- meaning_id: 'kata ganti orang pertama jamak (termasuk orang yg disapa), kita, kadang-kadang dipergunakan
+    juga utk kata ganti orang kedua: –'
   meaning_en: ''
-  examples:
-  - aceh: gēt tajak
-    jawi: ''
-    id: sebaiknya kita pergi, marilah kita pergi
-    en: we should go, let's go
-  - aceh: bak
-    jawi: ''
-    id: –, pd kita
-    en: -, for us
-  - aceh: jikeumeung poh
-    jawi: ''
-    id: –, Ia hendak membunuh kita
-    en: –, He wants to kill us
-- meaning_id: –
-  meaning_en: ), sj white lice that attach to cloth
-  examples:
-  - aceh: inong, pubuet bak teumpat agam!
-    jawi: ''
-    id: Kita, orang perempuan, apa perlunya berada di tempat orang laki-laki!
-    en: ''
+examples:
+- aceh: gēt tajak, sebaiknya kita pergi, marilah kita pergi, bak –
+  jawi: ''
+  id: pd kita
+  en: ''
+- aceh: jikeumeung poh –
+  jawi: ''
+  id: Ia hendak membunuh kita
+  en: ''
+- aceh: – inong, pubuet bak teumpat agam! Kita
+  jawi: ''
+  id: orang perempuan, apa perlunya berada di tempat orang laki-laki!, ta, teu
+  en: ''
 etymology: ''
 related_words:
-- "ka-**\n\n\n\n moe"
+- '**ka-** moe'
 - ta
 - teu
 dialect_notes: ''
-source: Kamus Aceh-Indonesia (Acehnese-Indonesian Dictionary), pp. 236, 237
+source: 'Kamus Aceh-Indonesia (extracted from pp.124-270 of the source edition, Acehnese section entries
+  cèm-unyèn through gutie/H). File: markdown.md supplied by the user. — pp.236-237'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: Part of speech not specified in source. Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate reviewer.
+extraction_notes: Part of speech not explicitly marked in source. Indonesian example translations are
+  taken verbatim from the source. English meanings and Jawi transliterations are AI-flagged as unverified
+  and need human review. Jawi transliteration is AI-generated, not from source — needs verification by
+  a Jawi-literate reviewer.

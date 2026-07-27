@@ -1,53 +1,61 @@
 headword: darat
-jawi: درت
+jawi: ''
 alt_spelling: []
 ipa: ''
 part_of_speech: n
 definitions:
-- meaning_id: 'darat: ék, teungoh, trōn u —, naik ke darat, mendarat'
+- meaning_id: darat
   meaning_en: ''
-  examples:
-  - aceh: eungkot
-    jawi: ''
-    id: → eungkōt
-    en: → eungkōt
-  - aceh: udeueng —
-    jawi: ''
-    id: dareuet, udeueng
-    en: ''
-  - aceh: rét
-    jawi: ''
-    id: jalan darat, jalan melalui darat
-    en: like a tray being pulled (to describe someone's beautiful body)
-  - aceh: meu
-    jawi: ''
-    id: bepergian melalui darat, mendarat
-    en: ''
-  - aceh: ureueng
-    jawi: ''
-    id: orang-orang di darat yg menunggu kedatangan pen-rik-penarik pukat utk memperoleh sekedar ikan dr pawang pukat
-    en: ''
-  - aceh: rét meu
-    jawi: ''
-    id: jalan darat
-    en: ''
-  - aceh: jak meu
-    jawi: ''
-    id: bepergian melalui jalan darat
-    en: travel by land
-  - aceh: peu
-    jawi: ''
-    id: menuju ke darat, mendaratkan
-    en: heading to shore, to land
-  - aceh: "tapeu — bacut tapeulayaeue, berlayarlah sedikit ke darat. daratan, daratan\n darè, a banci: peu —"
-    jawi: ''
-    id: droe, berlaku spt seorang banci
-    en: ''
+examples:
+- aceh: ék
+  jawi: ''
+  id: teungoh, trōn u —, naik ke darat, mendarat
+  en: ''
+- aceh: eungkot -,
+  jawi: ''
+  id: ''
+  en: ''
+- aceh: udeueng -, - dareuet
+  jawi: ''
+  id: udeueng
+  en: ''
+- aceh: rét -
+  jawi: ''
+  id: jalan darat, jalan melalui darat
+  en: ''
+- aceh: meu -
+  jawi: ''
+  id: bepergian melalui darat, mendarat
+  en: ''
+- aceh: ureueng -
+  jawi: ''
+  id: orang-orang di darat yg menunggu kedatangan pen-rik-penarik pukat utk memperoleh sekedar ikan dr
+    pawang pukat
+  en: ''
+- aceh: rét meu -
+  jawi: ''
+  id: jalan darat
+  en: ''
+- aceh: jak meu -
+  jawi: ''
+  id: bepergian melalui jalan darat
+  en: ''
+- aceh: peu -
+  jawi: ''
+  id: menuju ke darat, mendaratkan
+  en: ''
+- aceh: tapeu - bacut tapeulayaeue
+  jawi: ''
+  id: berlayarlah sedikit ke darat. daratan, daratan
+  en: ''
 etymology: ''
 related_words:
-- ulaya
+- eungkōt
 dialect_notes: ''
-source: Kamus Aceh-Indonesia (Acehnese-Indonesian Dictionary), p. 159
+source: 'Kamus Aceh-Indonesia (extracted from pp.124-270 of the source edition, Acehnese section entries
+  cèm-unyèn through gutie/H). File: markdown.md supplied by the user. — p.159'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate reviewer. Some fields (English translations, Jawi) may be incomplete due to API rate limits during processing. Re-run the translation script to fill in missing fields.
+extraction_notes: Indonesian example translations are taken verbatim from the source. English meanings
+  and Jawi transliterations are AI-flagged as unverified and need human review. Jawi transliteration is
+  AI-generated, not from source — needs verification by a Jawi-literate reviewer.

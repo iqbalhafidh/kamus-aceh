@@ -1,19 +1,65 @@
----
-headword: "gasai"
-jawi: ""
+headword: gasai
+jawi: ''
 alt_spelling: []
-ipa: "/ga.say/"
-part_of_speech: "num"
-language_uncertain: false
+ipa: ''
+part_of_speech: a
 definitions:
-  - meaning_id: "satu ikatan padi"
-    meaning_en: ""
+- meaning_id: ganjil, tidak genap
+  meaning_en: ''
+- meaning_id: gemal, berkas kecil (tt padi atau rumput), ikat kecil
+  meaning_en: ''
 examples:
-  []
-etymology: ""
-related_words: []
-dialect_notes: ""
-source: "Kamus Bahasa Aceh Daring (Balai Bahasa Provinsi Aceh), 'Entri huruf — gasai', URL: https://kamusbbpa.kemendikdasmen.go.id/kamus/Aceh/G (diakses 20 Juli 2026)"
-date_added: "2026-07-20"
-contributor: "AI-extracted — needs human review"
-extraction_notes: "Diekstrak dari 1 halaman sumber (https://kamusbbpa.kemendikdasmen.go.id/kamus/Aceh/G). Tidak ada bentuk Jawi dalam sumber — dibiarkan kosong sesuai aturan."
+- aceh: geunap ganjil atau genap
+  jawi: ''
+  id: sj permainan,
+  en: ''
+- aceh: peu -
+  jawi: ''
+  id: membuat ganjil
+  en: ''
+- aceh: ta - padé nyan
+  jawi: ''
+  id: Berkaskan padi itu dl berkas-berkas kecil
+  en: ''
+- aceh: si - padé
+  jawi: ''
+  id: seberkas kecil padi
+  en: ''
+- aceh: meu -
+  jawi: ''
+  id: mengikat atau memberkas kecil-kecil
+  en: ''
+- aceh: nyan ka meu - na dua reutôih -
+  jawi: ''
+  id: Yg sudah diberkas kecil-kecil sebanyak dua ratus gemal
+  en: ''
+- aceh: peu -
+  jawi: ''
+  id: menyuruh berkaskan
+  en: ''
+- aceh: geumasai
+  jawi: ''
+  id: sedang menggemal
+  en: ''
+- aceh: geunasai
+  jawi: ''
+  id: cara menggemal, hasil menggemal
+  en: ''
+- aceh: padé geunasai
+  jawi: ''
+  id: padi yg telah digemal gemal
+  en: ''
+etymology: ''
+related_words:
+- '*cék*'
+- '*gasai 2*'
+- '*gasai 1'
+- geucai*
+dialect_notes: ''
+source: 'Kamus Aceh-Indonesia (extracted from pp.124-270 of the source edition, Acehnese section entries
+  cèm-unyèn through gutie/H). File: markdown.md supplied by the user. — p.218'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+extraction_notes: Indonesian example translations are taken verbatim from the source. English meanings
+  and Jawi transliterations are AI-flagged as unverified and need human review. Jawi transliteration is
+  AI-generated, not from source — needs verification by a Jawi-literate reviewer.

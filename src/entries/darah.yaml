@@ -1,71 +1,86 @@
 headword: darah
-jawi: دره
+jawi: ''
 alt_spelling: []
 ipa: ''
 part_of_speech: n
 definitions:
-- meaning_id: 'darah: lōn (ka) teuke —, saya (telah) datang bulan → buleuen, hé, masa, seumayang'
+- meaning_id: darah
   meaning_en: ''
-  examples:
-  - aceh: ''
-    jawi: ''
-    id: itam, darah hitam, darah kotor
-    en: ''
-  - aceh: ''
-    jawi: ''
-    id: kucandén → kucandén
-    en: ''
-  - aceh: ''
-    jawi: ''
-    id: niph'aih, → niph'aih
-    en: niph'aih, → niph'aih
-  - aceh: ''
-    jawi: ''
-    id: sigumpai, darah segumpal dl tang-n seorang anak yg baru lahir
-    en: sigumpai, a clot of blood in a newborn's hand
-  - aceh: bicah
-    jawi: ''
-    id: → até, jantōng
-    en: → heart
-  - aceh: muntah
-    jawi: ''
-    id: mutadarah, memuntahkan darah
-    en: vomiting blood
-  - aceh: pajōh
-    jawi: ''
-    id: gob, memakan atau mengisap darah orang
-    en: ''
-  - aceh: peusijuek
-    jawi: ''
-    id: upacara perdamaian dl suatu sengketa berdarah
-    en: ceremony of peace in a bloody dispute
-  - aceh: ''
-    jawi: ''
-    id: geusukat, lueng geusipat, darah (yg keluar) disukat, lubang (yg dilukai) diukur dl menentukan uang diat
-    en: measured, the wound was measured, the blood (that came out) was measured, the hole (that was injured) was measured to determine the compensation money
-  - aceh: beuku
-    jawi: ''
-    id: darah yg membeku bekas penganiayaan
-    en: ''
-  - aceh: nyw'ong —
-    jawi: ''
-    id: gapah, (hrf) nyawa dan darah serta darah dan lemah = cara hidup seseorang
-    en: gapah, (lit) life and blood and blood and weakness = a person's way of life
-  - aceh: lōn peujok nyaw'ong — lōn keu droeneu, ban hukōm droeneu, saya serahkan kpd Anda nyawa dan darah saya spt yg Anda kehendaki. meu
-    jawi: ''
-    id: berdarah
-    en: ''
-  - aceh: maté meu
-    jawi: ''
-    id: mati berdarah, meninggal krn melahirkan
-    en: to bleed to death, to die from giving birth
+examples:
+- aceh: lōn (ka) teuke -
+  jawi: ''
+  id: saya (telah) datang bulan, hé, masa, seumayang
+  en: ''
+- aceh: '- itam'
+  jawi: ''
+  id: darah hitam, darah kotor
+  en: ''
+- aceh: '- kucandén'
+  jawi: ''
+  id: ''
+  en: ''
+- aceh: '- niph''aih,'
+  jawi: ''
+  id: ''
+  en: ''
+- aceh: '- sigumpai'
+  jawi: ''
+  id: darah segumpal dl tang-n seorang anak yg baru lahir
+  en: ''
+- aceh: bicah -
+  jawi: ''
+  id: jantōng
+  en: ''
+- aceh: muntah -
+  jawi: ''
+  id: mutadarah, memuntahkan darah
+  en: ''
+- aceh: pajōh - gob
+  jawi: ''
+  id: memakan atau mengisap darah orang
+  en: ''
+- aceh: peusijuek -
+  jawi: ''
+  id: upacara perdamaian dl suatu sengketa berdarah
+  en: ''
+- aceh: '- geusukat'
+  jawi: ''
+  id: lueng geusipat, darah (yg keluar) disukat, lubang (yg dilukai) diukur dl menentukan uang diat
+  en: ''
+- aceh: beuku -
+  jawi: ''
+  id: darah yg membeku bekas penganiayaan
+  en: ''
+- aceh: nyw'ong -, - gapah, (hrf) nyawa dan darah serta darah dan lemah = cara hidup seseorang
+  jawi: ''
+  id: ''
+  en: ''
+- aceh: lōn peujok nyaw'ong - lōn keu droeneu
+  jawi: ''
+  id: ban hukōm droeneu, saya serahkan kpd Anda nyawa dan darah saya spt yg Anda kehendaki. meu —, berdarah
+  en: ''
+- aceh: maté meu -
+  jawi: ''
+  id: 'mati berdarah, meninggal krn melahirkan, pintō pageue n pintu pagar: meu —, berpintu pagar'
+  en: ''
 etymology: ''
 related_words:
-- "dapu\n dar-ih cak pintō rét"
-- "pintō pageue\n n pintu pagar: meu —"
+- buleuen
+- hé
+- masa
+- seumayang
+- kucandén
+- niph'aih
+- até
+- jantōng
+- dapu dar-ih cak pintō rét
+- 'pintō pageue n pintu pagar: meu —'
 - berpintu pagar
 dialect_notes: ''
-source: Kamus Aceh-Indonesia (Acehnese-Indonesian Dictionary), p. 159
+source: 'Kamus Aceh-Indonesia (extracted from pp.124-270 of the source edition, Acehnese section entries
+  cèm-unyèn through gutie/H). File: markdown.md supplied by the user. — p.159'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate reviewer. Some fields (English translations, Jawi) may be incomplete due to API rate limits during processing. Re-run the translation script to fill in missing fields.
+extraction_notes: Indonesian example translations are taken verbatim from the source. English meanings
+  and Jawi transliterations are AI-flagged as unverified and need human review. Jawi transliteration is
+  AI-generated, not from source — needs verification by a Jawi-literate reviewer.

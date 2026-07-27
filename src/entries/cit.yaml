@@ -2,17 +2,66 @@ headword: cit
 jawi: ''
 alt_spelling: []
 ipa: ''
-part_of_speech: ''
+part_of_speech: p
 definitions:
-- meaning_id: juga, memang
-  meaning_en: also, indeed
-examples: []
+- meaning_id: sit penunjuk tekanan, dng berbagai artinya tergantung dr penempatannya thd kata yg berhubungan
+    dengannya
+  meaning_en: ''
+- meaning_id: hanya, cuma, baru saja, tepat, memang, juga, begitu, seluruhnya
+  meaning_en: ''
+- meaning_id: sama juga
+  meaning_en: ''
+- meaning_id: keturunan tingkat keenam *
+  meaning_en: ''
+examples:
+- aceh: saboh
+  jawi: ''
+  id: hanya satu
+  en: ''
+- aceh: '- ban siat nyoe'
+  jawi: ''
+  id: baru sebentar tadi, baru saja
+  en: ''
+- aceh: '- na'
+  jawi: ''
+  id: memang ada
+  en: ''
+- aceh: '- na bacut'
+  jawi: ''
+  id: memang ada sedikit
+  en: ''
+- aceh: saban
+  jawi: ''
+  id: ''
+  en: ''
+- aceh: pakri -
+  jawi: ''
+  id: bagaimana juga
+  en: ''
+- aceh: 'cita n cita, pikiran, keinginan, maksud: duka* -'
+  jawi: ''
+  id: duka-cita, sedih hati
+  en: ''
+- aceh: suka -
+  jawi: ''
+  id: suka-cita, senang hati
+  en: ''
+- aceh: dua -
+  jawi: ''
+  id: duacita, tidak menaruh dua pikiran atau hati
+  en: ''
+- aceh: bak uroe nyoe kupoh maté, hana peue lé dua -
+  jawi: ''
+  id: hari ini engkau akan kubunuh, aku sudah berketetapan hati
+  en: ''
 etymology: ''
 related_words:
-- sit
+- cinta
 dialect_notes: ''
-source: 'Daud, Bukhari & Mark Durie. Kamus Basa Acèh = Kamus Bahasa Aceh: Acehnese–Indonesian–English Thesaurus.
-  Pacific Linguistics C-151, 1999, p. 111; vii (PDF p. 5).'
-date_added: '2026-07-20'
+source: 'Kamus Aceh-Indonesia (extracted from pp.124-270 of the source edition, Acehnese section entries
+  cèm-unyèn through gutie/H). File: markdown.md supplied by the user. — p.137'
+date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: ''
+extraction_notes: Indonesian example translations are taken verbatim from the source. English meanings
+  and Jawi transliterations are AI-flagged as unverified and need human review. Jawi transliteration is
+  AI-generated, not from source — needs verification by a Jawi-literate reviewer.

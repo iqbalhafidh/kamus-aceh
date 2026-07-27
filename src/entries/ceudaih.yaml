@@ -1,23 +1,28 @@
 headword: ceudaih
-jawi: چوداء
+jawi: ''
 alt_spelling: []
 ipa: ''
 part_of_speech: a
 definitions:
-- meaning_id: 'ahli, berpengalaman, cakap (tt rupa dan budi), jelita, cantik, bagus (tt benda): inong —, wanita cantik'
+- meaning_id: ahli, berpengalaman, cakap (tt rupa dan budi), jelita, cantik, bagus (tt benda)
   meaning_en: ''
-  examples:
-  - aceh: peu —
-    jawi: ''
-    id: droe, berlaku demikian rupa sehingga tampak cantik
-    en: ''
-- meaning_id: Bd carong
-  meaning_en: Bd carong
-  examples: []
+examples:
+- aceh: inong -
+  jawi: ''
+  id: wanita cantik
+  en: ''
+- aceh: peu - - droe
+  jawi: ''
+  id: berlaku demikian rupa sehingga tampak cantik
+  en: ''
 etymology: ''
-related_words: []
+related_words:
+- carong
 dialect_notes: ''
-source: Kamus Aceh-Indonesia (Acehnese-Indonesian Dictionary), p. 124
+source: 'Kamus Aceh-Indonesia (extracted from pp.124-270 of the source edition, Acehnese section entries
+  cèm-unyèn through gutie/H). File: markdown.md supplied by the user. — p.124'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: Some fields (English translations, Jawi) may be incomplete due to API rate limits during processing. Re-run the translation script to fill in missing fields. Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate reviewer.
+extraction_notes: Indonesian example translations are taken verbatim from the source. English meanings
+  and Jawi transliterations are AI-flagged as unverified and need human review. Jawi transliteration is
+  AI-generated, not from source — needs verification by a Jawi-literate reviewer.

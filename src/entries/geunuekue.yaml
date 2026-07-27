@@ -1,23 +1,32 @@
 headword: geunuekue
-jawi: ڬونيوکوه
+jawi: ''
 alt_spelling:
 - gunukue
 ipa: ''
 part_of_speech: n
 definitions:
-- meaning_id: 'bingkah-bingkah tanah krn dibajak: meu ~ (~), berbingkah-bingkah'
+- meaning_id: bingkah-bingkah tanah krn dibajak
   meaning_en: ''
-  examples: []
-- meaning_id: meu ~ ~ saré tanoh, hana jiproh, Tanah berbingkah-bingkah, mereka tidak menghaluskannya
-  meaning_en: ''
-  examples: []
-- meaning_id: peu-, melempar dng bingkah-bingkah tanah
-  meaning_en: peu-, throwing with clumps of earth
-  examples: []
+examples:
+- aceh: meu ~ (~)
+  jawi: ''
+  id: berbingkah-bingkah
+  en: ''
+- aceh: meu ~ ~ saré tanoh
+  jawi: ''
+  id: hana jiproh, Tanah berbingkah-bingkah, mereka tidak menghaluskannya
+  en: ''
+- aceh: peu-
+  jawi: ''
+  id: melempar dng bingkah-bingkah tanah
+  en: ''
 etymology: ''
 related_words: []
 dialect_notes: ''
-source: Kamus Aceh-Indonesia (Acehnese-Indonesian Dictionary), p. 231
+source: 'Kamus Aceh-Indonesia (extracted from pp.124-270 of the source edition, Acehnese section entries
+  cèm-unyèn through gutie/H). File: markdown.md supplied by the user. — p.231'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: 'Source lists variant spellings: gunukue. Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate reviewer.'
+extraction_notes: Indonesian example translations are taken verbatim from the source. English meanings
+  and Jawi transliterations are AI-flagged as unverified and need human review. Jawi transliteration is
+  AI-generated, not from source — needs verification by a Jawi-literate reviewer.

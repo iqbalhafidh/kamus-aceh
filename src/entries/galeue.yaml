@@ -1,39 +1,48 @@
 headword: galeue
-jawi: ݢاليو
+jawi: ''
 alt_spelling: []
 ipa: ''
 part_of_speech: v
 definitions:
-- meaning_id: 'mengempaskan diri merebahkan diri: pakon ji — atau ji —? Mengapa (anak itu) mengempaskan dirinya di tanah? bèk ta — baranggapat, teuboih ija-ija, Janganlah Anda merebahkan diri di mana-mana, akan kotor Anda'
-  meaning_en: 'to throw oneself down, to prostrate oneself: pakon ji — atau ji —? Mengapa (anak itu) mengempaskan dirinya di tanah? bèk ta — baranggapat, teuboih ija-ija, Janganlah Anda merebahkan diri di mana-mana, akan kotor Anda'
-  examples:
-  - aceh: meu
-    jawi: ''
-    id: = geumeleue = teugaleue
-    en: = geumeleue = teugaleue
-  - aceh: peu
-    jawi: ''
-    id: mengempaskan, membaring kan, merebahkan diri
-    en: ''
-  - aceh: bèk tapeu — aneuk baranggapap! Janganlah Anda membaringkan anak dimana mana! teu
-    jawi: ''
-    id: terbaring
-    en: 'pilgrimage, visiting the grave of a holy person: jak — bak kubu Teungku di Anjông, visiting Teuku''s grave in Anjông'
-  - aceh: neungieng lé kuya plandók ka teu
-    jawi: ''
-    id: bak pageue, Orang tua itu melihat pelanduk telah berbaring di pagar
-    en: ''
-- meaning_id: geumaleue, membaringkan diri, sedang berbaring
-  meaning_en: geumaleue, to lie down, lying down
-  examples:
-  - aceh: èk ji
-    jawi: ''
-    id: sabé, h'an jipioh sagai, Anak itu selalu mengempas-empaskan dirinya (di tanah), ia tidak mau berhenti, geumaleue, pembaringan
-    en: sabé, h'an jipioh sagai, The child keeps rolling on the ground, he won't stop, geumaleue, lying down
+- meaning_id: mengempaskan diri merebahkan diri
+  meaning_en: ''
+examples:
+- aceh: pakon ji - atau ji -? Mengapa (anak itu) mengempaskan dirinya di tanah? bèk ta - baranggapat
+  jawi: ''
+  id: teuboih ija-ija, Janganlah Anda merebahkan diri di mana-mana, akan kotor Anda
+  en: ''
+- aceh: meu - = geumeleue = teugaleue
+  jawi: ''
+  id: ''
+  en: ''
+- aceh: peu-
+  jawi: ''
+  id: mengempaskan, membaring kan, merebahkan diri
+  en: ''
+- aceh: bèk tapeu - aneuk baranggapap! Janganlah Anda membaringkan anak dimana mana! teu-
+  jawi: ''
+  id: terbaring
+  en: ''
+- aceh: neungieng lé kuya plandók ka teu-bak pa- geue
+  jawi: ''
+  id: Orang tua itu melihat pelanduk telah berbaring di pagar
+  en: ''
+- aceh: geumaleue
+  jawi: ''
+  id: membaringkan diri, sedang berbaring
+  en: ''
+- aceh: èk ji - sabé
+  jawi: ''
+  id: h'an jipioh sagai, Anak itu selalu mengempas-empaskan dirinya (di tanah), ia tidak mau berhenti,
+    geumaleue, pembaringan
+  en: ''
 etymology: ''
 related_words: []
 dialect_notes: ''
-source: Kamus Aceh-Indonesia (Acehnese-Indonesian Dictionary), p. 210
+source: 'Kamus Aceh-Indonesia (extracted from pp.124-270 of the source edition, Acehnese section entries
+  cèm-unyèn through gutie/H). File: markdown.md supplied by the user. — p.210'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate reviewer.
+extraction_notes: Indonesian example translations are taken verbatim from the source. English meanings
+  and Jawi transliterations are AI-flagged as unverified and need human review. Jawi transliteration is
+  AI-generated, not from source — needs verification by a Jawi-literate reviewer.

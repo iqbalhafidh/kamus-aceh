@@ -1,42 +1,41 @@
 headword: grubak
-jawi: ڬربک
+jawi: ''
 alt_spelling: []
 ipa: ''
 part_of_speech: n
 definitions:
 - meaning_id: gerobak, kereta barang beroda dua tanpa pegas
-  meaning_en: cart, two-wheeled freight vehicle without springs
-  examples:
-  - aceh: meu
-    jawi: ''
-    id: memiliki gerobak, diangkut dng gerobak
-    en: to have a cart, to be transported by cart
-  - aceh: ureueng meu
-    jawi: ''
-    id: tukang gerobak, pengendara gerobak
-    en: cart vendor, cart rider
-  - aceh: meu
-    jawi: ''
-    id: mengangkut dng banyak gerobak
-    en: transporting with many carts
-  - aceh: jiba boh kayèe meu
-    jawi: ''
-    id: ''
-    en: ''
-  - aceh: u peukan
-    jawi: ''
-    id: Mereka mengangkut buah-buahan bergerobak-gerobak ke pasar
-    en: They transport fruits by cart to the market
-  - aceh: peu
-    jawi: ''
-    id: mengangkut dng gerobak
-    en: transporting with a cart
+  meaning_en: ''
+examples:
+- aceh: meu -
+  jawi: ''
+  id: memiliki gerobak, diangkut dng gerobak
+  en: ''
+- aceh: ureueng meu -
+  jawi: ''
+  id: tukang gerobak, pengendara gerobak
+  en: ''
+- aceh: meu -
+  jawi: ''
+  id: mengangkut dng banyak gerobak
+  en: ''
+- aceh: jiba boh kayèe meu - u peukan
+  jawi: ''
+  id: Mereka mengangkut buah-buahan bergerobak-gerobak ke pasar
+  en: ''
+- aceh: peu -, mengangkut dng gerobak, *peudati*
+  jawi: ''
+  id: ''
+  en: ''
 etymology: ''
 related_words:
-- gritan
-- peudati
+- '**gritan**'
+- '**peudati**'
 dialect_notes: ''
-source: Kamus Aceh-Indonesia (Acehnese-Indonesian Dictionary), p. 256
+source: 'Kamus Aceh-Indonesia (extracted from pp.124-270 of the source edition, Acehnese section entries
+  cèm-unyèn through gutie/H). File: markdown.md supplied by the user. — p.256'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate reviewer.
+extraction_notes: Indonesian example translations are taken verbatim from the source. English meanings
+  and Jawi transliterations are AI-flagged as unverified and need human review. Jawi transliteration is
+  AI-generated, not from source — needs verification by a Jawi-literate reviewer.

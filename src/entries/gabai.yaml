@@ -1,44 +1,39 @@
 headword: gabai
-jawi: ڬاباي
+jawi: ''
 alt_spelling: []
 ipa: ''
 part_of_speech: a
 definitions:
-- meaning_id: kasar, tebal jika diraba, tumtumpul
+- meaning_id: kasar, tebal jika diraba, tum- tumpul
   meaning_en: ''
-  examples:
-  - aceh: jeue
-    jawi: ''
-    id: jala kasar
-    en: ''
-  - aceh: taloe
-    jawi: ''
-    id: tali yg kasar krn tidak sempurna dipintal
-    en: ''
-  - aceh: gaki lôn
-    jawi: ''
-    id: ''
-    en: ''
-  - aceh: that
-    jawi: ''
-    id: ''
-    en: ''
-  - aceh: h'an jeuet meung lon jak
-    jawi: ''
-    id: Kaki saya terasa tebal (ump pd waktu bangun tidur), saya tidak dapat berjalan
-    en: ceumulèk, to perform scooping work
-  - aceh: peu
-    jawi: ''
-    id: membuat kasar
-    en: to be rude
-  - aceh: dumnan sikin tajam habéh jipeu
-    jawi: ''
-    id: '! Pisau yg begitu tajam matanya habis tumpul dibuatnya!'
-    en: '! A knife so sharp, its eyes became dull!'
+examples:
+- aceh: jeue -
+  jawi: ''
+  id: jala kasar
+  en: ''
+- aceh: taloe -
+  jawi: ''
+  id: tali yg kasar krn tidak sempurna dipintal
+  en: ''
+- aceh: gaki lôn -, that, h'an jeuet meung lon jak
+  jawi: ''
+  id: Kaki saya terasa tebal (ump pd waktu bangun tidur), saya tidak dapat berjalan
+  en: ''
+- aceh: peu -
+  jawi: ''
+  id: membuat kasar
+  en: ''
+- aceh: dumnan sikin tajam habéh jipeu -! Pisau yg begitu tajam matanya habis tumpul dibuatnya!
+  jawi: ''
+  id: ''
+  en: ''
 etymology: ''
 related_words: []
 dialect_notes: ''
-source: Kamus Aceh-Indonesia (Acehnese-Indonesian Dictionary), p. 203
+source: 'Kamus Aceh-Indonesia (extracted from pp.124-270 of the source edition, Acehnese section entries
+  cèm-unyèn through gutie/H). File: markdown.md supplied by the user. — p.203'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: Some fields (English translations, Jawi) may be incomplete due to API rate limits during processing. Re-run the translation script to fill in missing fields. Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate reviewer.
+extraction_notes: Indonesian example translations are taken verbatim from the source. English meanings
+  and Jawi transliterations are AI-flagged as unverified and need human review. Jawi transliteration is
+  AI-generated, not from source — needs verification by a Jawi-literate reviewer.

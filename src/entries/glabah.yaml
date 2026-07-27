@@ -1,42 +1,87 @@
 headword: glabah
-jawi: ݢلابح
+jawi: ''
 alt_spelling: []
 ipa: ''
 part_of_speech: ''
 definitions:
-- meaning_id: glabaih, geulabaih, g(eu)labaih
-  meaning_en: glabaih, geulabaih, g(eu)labaih
-  examples:
-  - aceh: meu
-    jawi: ''
-    id: bersarang labah-labah, kotor, lamur (utk mata)
-    en: ''
-  - aceh: mata lôn meu
-    jawi: ''
-    id: ''
-    en: ''
-  - aceh: that, ban lôn beudoih êh
-    jawi: ''
-    id: Mata saya lamur sekali, saya baru bangun tidur
-    en: My eyes are still blurry, I just woke up
-  - aceh: peu
-    jawi: ''
-    id: membuat atau membiarkan labah-labah bersarang
-    en: to allow spiders to build webs
-  - aceh: bêk tapeu
-    jawi: ''
-    id: ''
-    en: ''
-  - aceh: rumôh, tasampôh bak reujang
-    jawi: ''
-    id: Janganlah Anda membiarkan rumah penuh dng sarang labah-labah, sapulah cepat-cepat!
-    en: Don't let the house be full of spider webs, sweep quickly!
+- meaning_id: glabaih glabaih, geulabaih, g(eu)labaih
+  meaning_en: ''
+examples:
+- aceh: 'n sarang laba-laba: meu -'
+  jawi: ''
+  id: bersarang labah-labah, kotor, lamur (utk mata)
+  en: ''
+- aceh: mata lôn meu - that, ban lôn beudoih êh
+  jawi: ''
+  id: Mata saya lamur sekali, saya baru bangun tidur
+  en: ''
+- aceh: peu -
+  jawi: ''
+  id: membuat atau membiarkan labah-labah bersarang
+  en: ''
+- aceh: 'bêk tapeu - rumôh, tasampôh bak reujang, Janganlah Anda membiarkan rumah penuh dng sarang labah-labah,
+    sapulah cepat-cepat!, jlak a bosan, muak: lôn ka - keu inong nyan, h''an êk lôn meukawen lê'
+  jawi: ''
+  id: Saya sudah bosan dng wanita itu, saya tidak mau kawin lagi dengannya
+  en: ''
+- aceh: lôn ka - keu boh mamplam
+  jawi: ''
+  id: Saya sudah bosan makan mangga (krn sudah terlalu banyak saya makan)
+  en: ''
+- aceh: peu -
+  jawi: ''
+  id: membuat dan merasa bosan
+  en: ''
+- aceh: jinoe droeneu ka neupeue - droeneu, sabah ka na inong laên? Sekarang Anda telah membuat diri Anda
+    bosan
+  jawi: ''
+  id: ''
+  en: ''
+- aceh: '(kpd saya) krn sudah ada wanita lain (berkata seorang istri kpd suaminya yg telah kawin dng wanita
+    lain) glap a gelap, tidak terang, penjara: - that buleuen malam nyoe! Malam ini gelap sekali. - gulita,
+    geulumeut'
+  jawi: ''
+  id: gelap gulita
+  en: ''
+- aceh: beuthat beu - geulumeut jilôb cit! Walaupun (tempat itu) gelap gulita
+  jawi: ''
+  id: ia masuk juga ke dalamnya
+  en: ''
+- aceh: urpueng nyan ka jibôh lam -
+  jawi: ''
+  id: Orang itu sudah dipenjarakan
+  en: ''
+- aceh: 'peu -, membuat gelap, memenjarakan, jen, had 1glaga, geulaga, b(eu)laga n jelaga, bagian hitam
+    yg terbakar pd sumbu lampu: taboih - panyot! Buanglah jelaga lampu! meu -'
+  jawi: ''
+  id: berjelaga
+  en: ''
+- aceh: peu -, membiarkan berjelaga 2glaga, geulaga, b(eu)laga n gelagah
+  jawi: ''
+  id: sj tebu liar
+  en: ''
 etymology: ''
 related_words:
-- glabaih
-- ramideuen
+- ramideuen glak
+- jlak *a* bosan
+- 'muak: *lôn ka* — *keu inong nyan'
+- h'an êk lôn meukawen lê*
+- Saya sudah bosan dng wanita itu
+- saya tidak mau kawin lagi dengannya
+- bencana
+- jen
+- had 1glaga
+- geulaga
+- b(eu)laga *n* jelaga
+- 'bagian hitam yg terbakar pd sumbu lampu: *taboih* — *panyot!* Buanglah jelaga lampu! *meu* —'
+- berjelaga
+- rabo
 dialect_notes: ''
-source: Kamus Aceh-Indonesia (Acehnese-Indonesian Dictionary), p. 243
+source: 'Kamus Aceh-Indonesia (extracted from pp.124-270 of the source edition, Acehnese section entries
+  cèm-unyèn through gutie/H). File: markdown.md supplied by the user. — p.243'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: Cross-reference entry pointing to 'glabaih'. Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate reviewer.
+extraction_notes: Part of speech not explicitly marked in source. Indonesian example translations are
+  taken verbatim from the source. English meanings and Jawi transliterations are AI-flagged as unverified
+  and need human review. Jawi transliteration is AI-generated, not from source — needs verification by
+  a Jawi-literate reviewer.

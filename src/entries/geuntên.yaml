@@ -1,42 +1,59 @@
 headword: geuntên
-jawi: جونتن
+jawi: ''
 alt_spelling:
 - geunton
 ipa: ''
 part_of_speech: v
 definitions:
-- meaning_id: 'menekan: ta atra nyoe mangat bèk jipôt lê angên! Tekankan benda ini supaya tidak diembuskan angin. beunoe -, → beunoe'
-  meaning_en: 'press: ta atra nyoe mangat bèk jipôt lê angên! Press this object so that air is not blown into it. beunoe -, → beunoe'
-  examples: []
-- meaning_id: meu-, tertekan, ditimpa
+- meaning_id: menekan
   meaning_en: ''
-  examples: []
-- meaning_id: ureueng nyan matê meu - ngon bak u, Orang itu mati ditimpa batang kelapa
-  meaning_en: that person died hit by a coconut branch
-  examples: []
-- meaning_id: peu - = -
-  meaning_en: ''
-  examples: []
-- meaning_id: bèk tapeu - lôn! Janganlah Anda menindih saya
-  meaning_en: don't step on me!
-  examples: []
-- meaning_id: geumeuntên, melakukan tekanan-, sedang melakukan tekanan
-  meaning_en: pressuring, applying pressure
-  examples: []
-- meaning_id: bèk tageumeuntên sabê, Janganlah Anda selalu menindih! geuneuntên, penekan, alat utk memberatkan
-  meaning_en: Don't always press down! Presser, weight
-  examples: []
-- meaning_id: nyokeu geuneuntên mata panyot, Ini penekan sumbu lampu (aceh yg sejenisnya sudah kuno)
-  meaning_en: ''
-  examples: []
-- meaning_id: geuneuntên, geuneuntên gaseue, penekan kasau
-  meaning_en: ''
-  examples: []
+examples:
+- aceh: ta - atra nyoe mangat bèk jipôt lê angên! Tekankan benda ini supaya tidak diembuskan angin. beunoe
+    -,
+  jawi: ''
+  id: ''
+  en: ''
+- aceh: meu-
+  jawi: ''
+  id: tertekan, ditimpa
+  en: ''
+- aceh: ureueng nyan matê meu - ngon bak u
+  jawi: ''
+  id: Orang itu mati di- timpa batang kelapa
+  en: ''
+- aceh: peu - = -
+  jawi: ''
+  id: ''
+  en: ''
+- aceh: bèk tapeu - lôn! Janganlah Anda menindih saya
+  jawi: ''
+  id: ''
+  en: ''
+- aceh: geumeuntên
+  jawi: ''
+  id: me- lakukan tekanan-, sedang mela- kukan tekanan
+  en: ''
+- aceh: bèk tageumeuntên sabê
+  jawi: ''
+  id: Janganlah Anda selalu me- nindih! geuneuntên, penekan, alat utk memberatkan
+  en: ''
+- aceh: nyokeu geune- untên mata panyot
+  jawi: ''
+  id: Ini penekan sumbu lampu (aceh yg sejenisnya sudah kuno)
+  en: ''
+- aceh: geuneuntên
+  jawi: ''
+  id: geune- untên gaseue, penekan kasau
+  en: ''
 etymology: ''
 related_words:
+- beunoe
 - teugon
 dialect_notes: ''
-source: Kamus Aceh-Indonesia (Acehnese-Indonesian Dictionary), p. 230
+source: 'Kamus Aceh-Indonesia (extracted from pp.124-270 of the source edition, Acehnese section entries
+  cèm-unyèn through gutie/H). File: markdown.md supplied by the user. — p.230'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: 'Source lists variant spellings: geunton. Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate reviewer.'
+extraction_notes: Indonesian example translations are taken verbatim from the source. English meanings
+  and Jawi transliterations are AI-flagged as unverified and need human review. Jawi transliteration is
+  AI-generated, not from source — needs verification by a Jawi-literate reviewer.

@@ -1,56 +1,59 @@
 headword: eu
-jawi: ايو
+jawi: ''
 alt_spelling: []
 ipa: ''
 part_of_speech: v
 definitions:
-- meaning_id: 'lihat, memperlihatkan: peue ta — sabé di sinan? Apa yg selalu Anda lihat di situ? cuba tajak — soe di lua? Coba Anda lihat siapa di luar? meu —, memperhatikan, sedang melihat'
+- meaning_id: lihat, memperlihatkan
   meaning_en: ''
-  examples:
-  - aceh: meu
-    jawi: ''
-    id: melihat secara beramai-ramai
-    en: ''
-  - aceh: gata tameu — lagèe ureueng meulumpoe, Anda melihat seperti orang yg sedang bermimpi. peue meu — meu — keu noe? Apa yg sedang Anda perhatikan kemari? ka hana deuih lé lôn meu
-    jawi: ''
-    id: Saya tidak dapat melihat dng terang lagi
-    en: ''
-  - aceh: peue jimeu — ureueng dum nyan? Apa yg sedang dilihat oleh orang banyak itu? peu
-    jawi: ''
-    id: memperlihatkan
-    en: ''
-  - aceh: neu-peu — atra nyan bak lôn sikeujap, Perlihatkanlah benda itu sebentar kpd saya. teu
-    jawi: ''
-    id: terlihat
-    en: ''
-  - aceh: "bak lon jak-jak lam uteuen, teu — lé bak lôn sidroe putroe nyang jroh that rupa, Ketika saya berjalan-jalan di dalam hutan, terlihatlah oleh saya seorang putri yg cantik sekali rupanya. → glib, kalon, ngieng, pandang, tilék\n 'eu seruan utk mengiakan sesuatu yg didengar, menyatakan 'eu atas perkataan seseorang: tatém — mangat lôn peugah haba saboh, Maukah Anda menyebut 'eu spy saya menceritakan sebuah cerita. mangat jagông geuseu, mangat haba geu —, Enak jagung dikerumit,\n\n   eue\n eumbong\n   enak...[truncated]"
-    jawi: ''
-    id: niphôn cut kon, Sejak kecil kerbau (betina) ini sudah mandul
-    en: ''
-  - aceh: dara
-    jawi: ''
-    id: dara tua yg tidak pernah kawin, gadis tua
-    en: old maid
-  - aceh: bak
-    jawi: ''
-    id: aneuk nyan, Moga-moga dara itu akan mandul! (kutukan seorang pemuda jika pinangannya ditolak)
-    en: aneuk nyan, May that girl become barren! (a curse by a youth if his proposal is rejected)
-  - aceh: peu
-    jawi: ''
-    id: memandulkan, membiarkan seorang dara tidak kawin
-    en: ''
-  - aceh: pakon tapeu
-    jawi: ''
-    id: "aneuk gob? Mengapa Anda membiarkan anak dara orang mandul? (dikatakan thd suami yg tidak mau pulang lagi kpd istrinya) → melé, ong\n 'euh'euh suara anak kecil mengejan pd waktu buang air besar"
-    en: ''
-  - aceh: meu
-    jawi: ''
-    id: mengeluarkan suara 'euh-'euh
-    en: He left his country to seek knowledge
+examples:
+- aceh: peue ta - sabé di sinan? Apa yg selalu Anda lihat di situ? cuba tajak - soe di lua? Coba Anda
+    lihat siapa di luar? meu -
+  jawi: ''
+  id: memperhatikan, sedang melihat
+  en: ''
+- aceh: meu -
+  jawi: ''
+  id: melihat secara beramai-ramai
+  en: ''
+- aceh: gata tameu - lagèe ureueng meulumpoe
+  jawi: ''
+  id: Anda melihat seperti orang yg sedang bermimpi. peue meu — meu — keu noe? Apa yg sedang Anda perhatikan
+    kemari? ka hana deuih lé lôn meu —, Saya tidak dapat melihat dng terang lagi
+  en: ''
+- aceh: peue jimeu - ureueng dum nyan? Apa yg sedang dilihat oleh orang banyak itu? peu -
+  jawi: ''
+  id: memperlihatkan
+  en: ''
+- aceh: neu-peu - atra nyan bak lôn sikeujap
+  jawi: ''
+  id: Perlihatkanlah benda itu sebentar kpd saya. teu —, terlihat
+  en: ''
+- aceh: bak lon jak-jak lam uteuen
+  jawi: ''
+  id: 'teu — lé bak lôn sidroe putroe nyang jroh that rupa, Ketika saya berjalan-jalan di dalam hutan,
+    terlihatlah oleh saya seorang putri yg cantik sekali rupanya., kalon, ngieng, pandang, tilék ''eu
+    seruan utk mengiakan sesuatu yg didengar, menyatakan ''eu atas perkataan seseorang: tatém — mangat
+    lôn peugah haba saboh, Maukah Anda menyebut ''eu spy saya menceritakan sebuah cerita. mangat jagông
+    geuseu, mangat haba geu —, Enak jagung dikerumit, ¹ eue eumbong'
+  en: ''
 etymology: ''
-related_words: []
+related_words:
+- glib
+- kalon
+- ngieng
+- pandang
+- tilék 'eu seruan utk mengiakan sesuatu yg didengar
+- 'menyatakan ''eu atas perkataan seseorang: tatém — mangat lôn peugah haba saboh'
+- Maukah Anda menyebut 'eu spy saya menceritakan sebuah cerita. mangat jagông geuseu
+- mangat haba geu —
+- Enak jagung dikerumit
+- ¹ eue eumbong
 dialect_notes: ''
-source: Kamus Aceh-Indonesia (Acehnese-Indonesian Dictionary), pp. 195, 196
+source: 'Kamus Aceh-Indonesia (extracted from pp.124-270 of the source edition, Acehnese section entries
+  cèm-unyèn through gutie/H). File: markdown.md supplied by the user. — pp.195-196'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate reviewer. Some fields (English translations, Jawi) may be incomplete due to API rate limits during processing. Re-run the translation script to fill in missing fields.
+extraction_notes: Indonesian example translations are taken verbatim from the source. English meanings
+  and Jawi transliterations are AI-flagged as unverified and need human review. Jawi transliteration is
+  AI-generated, not from source — needs verification by a Jawi-literate reviewer.

@@ -1,45 +1,36 @@
 headword: cicab
-jawi: ججب
+jawi: ''
 alt_spelling: []
 ipa: ''
 part_of_speech: v
 definitions:
 - meaning_id: mencecah sesuatu dng ujung jari dan merasakannya, ramuan yg dipergunakan dl suatu upacara
   meaning_en: ''
-  examples:
-  - aceh: bèk ta
-    jawi: ''
-    id: ''
-    en: ''
-  - aceh: gulé nyan
-    jawi: ''
-    id: Jangan Anda merasakan gulai itu dng ujung jari
-    en: Don't taste that curry with your fingertip
-  - aceh: ho ka
-    jawi: ''
-    id: '?'
-    en: to sound like a bell
-  - aceh: tamè keu noe
-    jawi: ''
-    id: di mana ramuan utk mengadakan upacara? bawalah ke mari
-    en: where is the potion for holding the ceremony? bring it here
-  - aceh: peu
-    jawi: ''
-    id: upacara merasakan suatu makanan kpd anak yg baru lahir
-    en: ceremony of tasting food for a newborn baby
-  - aceh: alèh geupeu
-    jawi: ''
-    id: ''
-    en: ''
-  - aceh: ngon punggông manok
-    jawi: ''
-    id: barangkali ia disuruh rasakan lubang pelepas ayam
-    en: perhaps he is made to feel the chicken release hole
+examples:
+- aceh: bèk ta - gulé nyan
+  jawi: ''
+  id: Jangan Anda merasakan gulai itu dng ujung jari
+  en: ''
+- aceh: ho ka -? tamè keu noe
+  jawi: ''
+  id: di mana ramuan utk mengadakan upacara? bawalah ke mari
+  en: ''
+- aceh: peu -
+  jawi: ''
+  id: upacara merasakan suatu makanan kpd anak yg baru lahir
+  en: ''
+- aceh: alèh geupeu - ngon punggông manok
+  jawi: ''
+  id: barangkali ia disuruh rasakan lubang pelepas ayam
+  en: ''
 etymology: ''
 related_words:
 - lakab
 dialect_notes: ''
-source: Kamus Aceh-Indonesia (Acehnese-Indonesian Dictionary), p. 134
+source: 'Kamus Aceh-Indonesia (extracted from pp.124-270 of the source edition, Acehnese section entries
+  cèm-unyèn through gutie/H). File: markdown.md supplied by the user. — p.134'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate reviewer. Some fields (English translations, Jawi) may be incomplete due to API rate limits during processing. Re-run the translation script to fill in missing fields.
+extraction_notes: Indonesian example translations are taken verbatim from the source. English meanings
+  and Jawi transliterations are AI-flagged as unverified and need human review. Jawi transliteration is
+  AI-generated, not from source — needs verification by a Jawi-literate reviewer.

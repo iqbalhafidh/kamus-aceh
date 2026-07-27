@@ -1,34 +1,45 @@
 headword: gatok
-jawi: ݢatok
+jawi: ''
 alt_spelling:
 - katok
-- boh gatok boh panta
+- boh
+- gatok
+- boh
+- panta
 ipa: ''
 part_of_speech: ''
-definitions:
-- meaning_id: –
-  meaning_en: ), sj white lice that attach to cloth
-  examples:
-  - aceh: gaki
-    jawi: ''
-    id: mata kaki
-    en: ''
-  - aceh: raya
-    jawi: ''
-    id: –, (hrf) besar mata kaki = pemalas
-    en: ''
-  - aceh: jih raya
-    jawi: ''
-    id: –, Ia seorang pemalas
-    en: ''
+definitions: []
+examples:
+- aceh: n
+  jawi: ''
+  id: sj buah kelereng, terbuat dr tanduk kerbau, berbentuk sete- ngah bulat, gading atau buah pi- nang
+    yg telah diasah
+  en: ''
+- aceh: – gaki
+  jawi: ''
+  id: mata kaki
+  en: ''
+- aceh: raya –
+  jawi: ''
+  id: (hrf) besar ma- ta kaki = pemalas
+  en: ''
+- aceh: jih raya –
+  jawi: ''
+  id: Ia seorang pemalas
+  en: ''
+- aceh: meu –, mupantan
+  jawi: ''
+  id: bermain kele- reng
+  en: ''
 etymology: ''
 related_words:
 - gutok
-- meu* –
-- mupantan
-- bermain kelereng
 dialect_notes: ''
-source: Kamus Aceh-Indonesia (Acehnese-Indonesian Dictionary), p. 221
+source: 'Kamus Aceh-Indonesia (extracted from pp.124-270 of the source edition, Acehnese section entries
+  cèm-unyèn through gutie/H). File: markdown.md supplied by the user. — p.221'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: 'Source lists variant spellings: katok, boh gatok boh panta. Part of speech not specified in source. Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate reviewer.'
+extraction_notes: Part of speech not explicitly marked in source. Definition may be embedded in examples
+  or incomplete in source. Indonesian example translations are taken verbatim from the source. English
+  meanings and Jawi transliterations are AI-flagged as unverified and need human review. Jawi transliteration
+  is AI-generated, not from source — needs verification by a Jawi-literate reviewer.

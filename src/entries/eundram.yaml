@@ -1,14 +1,41 @@
 headword: eundram
-jawi: اوندرام
+jawi: ''
 alt_spelling: []
 ipa: ''
 part_of_speech: ''
-definitions: []
+definitions:
+- meaning_id: reundam eundru
+  meaning_en: ''
+examples:
+- aceh: 'v memukul kuat-kuat: pakon tajak - jih? Mengapa Anda memukulnya? meu -, melakukan pemukulan kuat-kuat
+    eunggang, ngang n burung enggang. eungak-eungak, ungak-ungak a (dl hik), nakal, bebal: hai pakong
+    gata - that, dawòk tapoh aneuk gob geunab uroe? Hai, mengapa Anda sangat nakal dan setiap hari hanya
+    memukul anak orang? meu - (peu - droe)'
+  jawi: ''
+  id: berlaku nakal
+  en: ''
+- aceh: teu -
+  jawi: ''
+  id: lebih nakal
+  en: ''
+- aceh: pakri h'an teu -, sabab lu that bak maji! Bagaimana ia tidak nakal sekali
+  jawi: ''
+  id: sebab sangat dimanjakan oleh ibunya eungkèk
+  en: ''
+- aceh: 'meu - (-) v menjangkang-jangkot, berjalan pincang: pakon tajak meu -? peu sakèt gaki? Me- ngapa
+    Anda sakit kaki? peu - droe'
+  jawi: ''
+  id: dng sengaja berjalan pincang, (ki) berlaku hina, miskin
+  en: ''
 etymology: ''
 related_words:
-- reundam
+- eungkhé
 dialect_notes: ''
-source: Kamus Aceh-Indonesia (Acehnese-Indonesian Dictionary), p. 199
+source: 'Kamus Aceh-Indonesia (extracted from pp.124-270 of the source edition, Acehnese section entries
+  cèm-unyèn through gutie/H). File: markdown.md supplied by the user. — pp.199-200'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: Cross-reference entry pointing to 'reundam'. Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate reviewer.
+extraction_notes: Part of speech not explicitly marked in source. Indonesian example translations are
+  taken verbatim from the source. English meanings and Jawi transliterations are AI-flagged as unverified
+  and need human review. Jawi transliteration is AI-generated, not from source — needs verification by
+  a Jawi-literate reviewer.

@@ -1,28 +1,31 @@
 headword: curu
-jawi: چرو
+jawi: ''
 alt_spelling: []
 ipa: ''
 part_of_speech: n
 definitions:
 - meaning_id: pembuat bambu yg terdiri dr kisi-kisi bambu yg disabung dng tali
   meaning_en: ''
-  examples:
-  - aceh: jiboh — bak sapai
-    jawi: ''
-    id: ia membubuhi pembebat bambu di lengan
-    en: ''
-  - aceh: meu
-    jawi: ''
-    id: berpembebat bambu
-    en: covered with bamboo
-  - aceh: peu
-    jawi: ''
-    id: memasang pembebat
-    en: ''
+examples:
+- aceh: jiboh - bak sapai
+  jawi: ''
+  id: ia membubuhi pembebat bambu di lengan
+  en: ''
+- aceh: meu -
+  jawi: ''
+  id: berpembebat bambu
+  en: ''
+- aceh: peu -
+  jawi: ''
+  id: memasang pembebat
+  en: ''
 etymology: ''
 related_words: []
 dialect_notes: ''
-source: Kamus Aceh-Indonesia (Acehnese-Indonesian Dictionary), p. 149
+source: 'Kamus Aceh-Indonesia (extracted from pp.124-270 of the source edition, Acehnese section entries
+  cèm-unyèn through gutie/H). File: markdown.md supplied by the user. — p.149'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate reviewer. Some fields (English translations, Jawi) may be incomplete due to API rate limits during processing. Re-run the translation script to fill in missing fields.
+extraction_notes: Indonesian example translations are taken verbatim from the source. English meanings
+  and Jawi transliterations are AI-flagged as unverified and need human review. Jawi transliteration is
+  AI-generated, not from source — needs verification by a Jawi-literate reviewer.

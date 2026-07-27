@@ -1,68 +1,33 @@
 headword: gurèh
-jawi: ڬريح
+jawi: ''
 alt_spelling: []
 ipa: ''
 part_of_speech: v
 definitions:
 - meaning_id: gores
   meaning_en: ''
-  examples:
-  - aceh: cuba ta
-    jawi: ''
-    id: ''
-    en: ''
-  - aceh: lè gata, pakri ban rupa
-    jawi: ''
-    id: Coba Anda goreskan, bagainkah rupanya?
-    en: to steer the rudder, to control the rudder
-  - aceh: meu
-    jawi: ''
-    id: ''
-    en: ''
-  - aceh: teu
-    jawi: ''
-    id: bergores, tergores, — (ki) keadaan langit yg cerah yg dihiasi awan
-    en: scratched, scratched, — (ki) clear sky adorned with clouds
-  - aceh: meu
-    jawi: ''
-    id: ''
-    en: ''
-  - aceh: bak (meu dalam atê)
-    jawi: ''
-    id: tergores di hati, terpikir
-    en: etched in my heart, thought of
-  - aceh: langèt bunoe ijô
-    jawi: ''
-    id: ''
-    en: ''
-  - aceh: nyoe ka meu
-    jawi: ''
-    id: ''
-    en: ''
-  - aceh: bacut
-    jawi: ''
-    id: tadi keadaan langit biru, sekarang sudah bergores-gores awan, sedikit
-    en: earlier the sky was blue, now it's a bit cloudy
-  - aceh: meu
-    jawi: ''
-    id: ''
-    en: ''
-  - aceh: bak atê lôn meunoe
-    jawi: ''
-    id: tergores di hati saya, begini
-    en: it hurt me, like this
-  - aceh: peu
-    jawi: ''
-    id: menggoreskan
-    en: to scratch
-  - aceh: bèk tapeu
-    jawi: ''
-    id: ''
-    en: ''
-  - aceh: tanoh
-    jawi: ''
-    id: Jangan Anda menggores-goreskan tanah
-    en: Don't scratch the ground
+examples:
+- aceh: cuba ta - lè gata, pakri ban rupa, Coba Anda goreskan, bagainkah rupanya? meu -, teu -, bergores,
+    tergores, - (ki) keadaan langit yg cerah yg dihiasi awan, meu - bak (meu dalam atê) tergores di hati
+  jawi: ''
+  id: terpikir
+  en: ''
+- aceh: langèt bunoe ijô, nyoe ka meu - bacut
+  jawi: ''
+  id: tadi keadaan langit biru, sekarang sudah bergores-gores awan, sedikit
+  en: ''
+- aceh: meu - bak atê lôn meunoe
+  jawi: ''
+  id: tergores di hati saya, begini
+  en: ''
+- aceh: peu -
+  jawi: ''
+  id: menggoreskan
+  en: ''
+- aceh: bèk tapeu - tanoh
+  jawi: ''
+  id: Jangan Anda menggores-goreskan tanah
+  en: ''
 etymology: ''
 related_words:
 - curèh
@@ -71,7 +36,10 @@ related_words:
 - srèh
 - urèh
 dialect_notes: ''
-source: Kamus Aceh-Indonesia (Acehnese-Indonesian Dictionary), p. 266
+source: 'Kamus Aceh-Indonesia (extracted from pp.124-270 of the source edition, Acehnese section entries
+  cèm-unyèn through gutie/H). File: markdown.md supplied by the user. — p.266'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate reviewer. Some fields (English translations, Jawi) may be incomplete due to API rate limits during processing. Re-run the translation script to fill in missing fields.
+extraction_notes: Indonesian example translations are taken verbatim from the source. English meanings
+  and Jawi transliterations are AI-flagged as unverified and need human review. Jawi transliteration is
+  AI-generated, not from source — needs verification by a Jawi-literate reviewer.

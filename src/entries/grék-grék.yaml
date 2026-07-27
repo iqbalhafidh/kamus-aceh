@@ -1,76 +1,60 @@
 headword: grék-grék
-jawi: ڬرك-ڬرك
+jawi: ''
 alt_spelling: []
 ipa: ''
 part_of_speech: ''
 definitions:
 - meaning_id: bunyi mencicit (ump gerobak yg ditarik di atas jalan yg berbatu-batu atau yg longgar rodanya)
-  meaning_en: creaking sound (of a cart being pulled over rocky or loose-wheeled roads)
-  examples:
-  - aceh: boh
-    jawi: ''
-    id: —, buah tanaman orok-orok yg berbunyi gemertak jika digoyang-goyangkan, — *
-    en: Turn that lamp
-  - aceh: gr'ing
-    jawi: ''
-    id: ''
-    en: ''
-  - aceh: ''
-    jawi: ''
-    id: bêk ka
-    en: bar
-  - aceh: — —
-    jawi: ''
-    id: glunyuengkeu sabê
-    en: glunyuengkeu sabê
-  - aceh: ''
-    jawi: ''
-    id: euntreuk tuloe!* Jangan engkau selalu mengorek-ngorek telinga, nanti menjadi tuli
-    en: Be quiet! Don't always pick your ears, or you'll go deaf
-  - aceh: meu
-    jawi: ''
-    id: "mengeluarkan\n\n\n 1 groh\n kan bunyi grèk-grèk"
-    en: to emit
-  - aceh: h'an lôn tu-peue meu —
-    jawi: ''
-    id: lam glunyueng, Saya tidak tahu bunyi yg gemertak di dl telinga saya
-    en: ''
-- meaning_id: → gè-gè, yg memaksa sekali
-  meaning_en: → gè-gè, very forceful
-  examples: []
-- meaning_id: "bob, sigo treuk, geuneuriet, Nah, kita coba sekali lagi!\n gr'ing, bunyi genta"
   meaning_en: ''
-  examples:
-  - aceh: 'lonceng, gelang-gelang tangan atau senjata yg beradu sesamanya, bunyi dering atau gemerencing: boh —'
-    jawi: ''
-    id: buah sebangsa orok-orok kecil
-    en: fruit resembling small caterpillars
-  - aceh: halua —
-    jawi: ''
-    id: → halua
-    en: ''
-  - aceh: meu —, (
-    jawi: ''
-    id: ), berdering-dering
-    en: ''
-  - aceh: '''oh jigrôb meu'
-    jawi: ''
-    id: geunta. Ketika ia melompat berderinglah gentanya
-    en: ''
-  - aceh: "jipôt angen meu — — ôn, bunyoe ureueng geusok biula. Angin bertiup gemersik daun spt bunyi orang menggesek biola → gr'ang, gr'ang-gr'ing\n gr'ing-gr'ak bunyi dering (ump jentera yg bergenta): angen jiteuka meugisa pucak, taleungokeu —"
-    jawi: ''
-    id: meusuara. Angin bertiup memutarakan puncak bangunan dan terdengarlah bunyi gr'ing-gr'ing
-    en: ''
-  - aceh: meu —
-    jawi: ''
-    id: memperdengarkan bunyi gr'ing-gr'ing
-    en: ''
+- meaning_id: benda logam utk mengorek telinga)
+  meaning_en: ''
+- meaning_id: h'an lôn tu-peue meu — — lam glunyueng, Saya tidak tahu bunyi yg gemertak di dl telinga
+    saya;, yg memaksa sekali
+  meaning_en: ''
+- meaning_id: bob, sigo treuk, geuneuriet, Nah, kita coba sekali lagi! gr'ing, bunyi genta
+  meaning_en: ''
+- meaning_id: 'lonceng, gelang-gelang tangan atau senjata yg beradu sesamanya, bunyi dering atau gemerencing:
+    boh — —, buah sebangsa orok-orok kecil'
+  meaning_en: ''
+- meaning_id: halua — —
+  meaning_en: ''
+- meaning_id: meu —, (—), berdering-dering
+  meaning_en: ''
+- meaning_id: '''oh jigrôb meu — geunta. Ketika ia melompat berderinglah gentanya'
+  meaning_en: ''
+- meaning_id: 'jipôt angen meu — — ôn, bunyoe ureueng geusok biula. Angin bertiup gemersik daun spt bunyi
+    orang menggesek biola, gr''ang-gr''ing gr''ing-gr''ak bunyi dering (ump jentera yg bergenta): angen
+    jiteuka meugisa pucak, taleungokeu — — meusuara. Angin bertiup memutarakan puncak bangunan dan terdengarlah
+    bunyi gr''ing-gr''ing'
+  meaning_en: ''
+- meaning_id: meu — —, memperdengarkan bunyi gr'ing-gr'ing, gr'ing
+  meaning_en: ''
+examples:
+- aceh: boh - -, buah tanaman orok-orok yg berbunyi gemertak jika digoyang-goyangkan, - *gr'ing bêk ka
+    - - glunyuengkeu sabê, euntreuk tuloe!* Jangan engkau selalu mengorek-ngorek telinga
+  jawi: ''
+  id: nanti menjadi tuli
+  en: ''
+- aceh: meu -
+  jawi: ''
+  id: mengeluarkan 1 groh kan bunyi grèk-grèk
+  en: ''
 etymology: ''
 related_words:
+- gè-gè
+- yg memaksa sekali
+- halua
+- gr'ang
+- 'gr''ang-gr''ing gr''ing-gr''ak bunyi dering (ump jentera yg bergenta): angen jiteuka meugisa pucak'
+- taleungokeu — — meusuara. Angin bertiup memutarakan puncak bangunan dan terdengarlah bunyi gr'ing-gr'ing
 - grak
 - gr'ing
 dialect_notes: ''
-source: Kamus Aceh-Indonesia (Acehnese-Indonesian Dictionary), pp. 254, 255
+source: 'Kamus Aceh-Indonesia (extracted from pp.124-270 of the source edition, Acehnese section entries
+  cèm-unyèn through gutie/H). File: markdown.md supplied by the user. — pp.254-255'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: Part of speech not specified in source. Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate reviewer.
+extraction_notes: Part of speech not explicitly marked in source. Indonesian example translations are
+  taken verbatim from the source. English meanings and Jawi transliterations are AI-flagged as unverified
+  and need human review. Jawi transliteration is AI-generated, not from source — needs verification by
+  a Jawi-literate reviewer.

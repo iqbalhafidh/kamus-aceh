@@ -4,15 +4,38 @@ alt_spelling: []
 ipa: ''
 part_of_speech: ''
 definitions:
-- meaning_id: menyelinap, masuk ke dalam lubang
-  meaning_en: go under or into through a hole
-examples: []
+- meaning_id: asap
+  meaning_en: ''
+- meaning_id: alam —, Tuhan meu- deului, dalil adanya alam me- nunjukkan adanya Tuhan, adanya alam adalah
+    tanda adanya Tu- han
+  meaning_en: ''
+- meaning_id: meu —, berdalil
+  meaning_en: ''
+- meaning_id: peneugah gata hana meu —, pembicaraan Anda tidak berdalil
+  meaning_en: ''
+- meaning_id: peu —, men- jadikan dalil
+  meaning_en: ''
+- meaning_id: nyan bandum Tuhan peu —, semua itu Tuhan perli- hatkan sbg dalilnya Bd meu- deului dalupa,
+    po —, si — n seseorang yg memakai samaran atau pakaian- pakaian aneh sehingga tidak dike- nal orang
+    lagi, istilah penghinaan = spt orang gila, badut, dungu dsb
+  meaning_en: ''
+examples:
+- aceh: meu'èn si -
+  jawi: ''
+  id: sj permainan menyamar
+  en: ''
+- aceh: peulôb droe lagèe si -
+  jawi: ''
+  id: menjadikan diri spt seorang badut
+  en: ''
 etymology: ''
-related_words:
-- luep
+related_words: []
 dialect_notes: ''
-source: 'Daud, Bukhari & Mark Durie. Kamus Basa Acèh = Kamus Bahasa Aceh: Acehnese–Indonesian–English Thesaurus.
-  Pacific Linguistics C-151, 1999, p. 36.'
-date_added: '2026-07-20'
+source: 'Kamus Aceh-Indonesia (extracted from pp.124-270 of the source edition, Acehnese section entries
+  cèm-unyèn through gutie/H). File: markdown.md supplied by the user. — pp.155-156'
+date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: ''
+extraction_notes: Part of speech not explicitly marked in source. Indonesian example translations are
+  taken verbatim from the source. English meanings and Jawi transliterations are AI-flagged as unverified
+  and need human review. Jawi transliteration is AI-generated, not from source — needs verification by
+  a Jawi-literate reviewer.

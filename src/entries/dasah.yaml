@@ -1,52 +1,31 @@
 headword: dasah
-jawi: داسح
+jawi: ''
 alt_spelling: []
 ipa: ''
 part_of_speech: ''
 definitions:
-- meaning_id: '*'
-  meaning_en: '*'
-  examples:
-  - aceh: dahcah
-    jawi: ''
-    id: ''
-    en: ''
-  - aceh: dasat
-    jawi: ''
-    id: ''
-    en: ''
-  - aceh: ''
-    jawi: ''
-    id: a
-    en: ''
-  - aceh: 'terpaut sekali dng sesuatu:'
-    jawi: ''
-    id: gata
-    en: ''
-  - aceh: —
-    jawi: ''
-    id: that atè
-    en: that atè
-  - aceh: ''
-    jawi: ''
-    id: hana teuingat sapeue*, Anda terpaut sekali dng hal itu sehingga tidak teringat apa-apa
-    en: ''
-- meaning_id: mengherenkan
-  meaning_en: amazing
-  examples:
-  - aceh: hireuen
-    jawi: ''
-    id: ''
-    en: ''
-  - aceh: soe nyang eu rupa
-    jawi: ''
-    id: siapa yg melihat rupanya menjadi terheran-heran
-    en: '- itam (- meuh''ong), a brackish fish that is black'
+- meaning_id: ', *'
+  meaning_en: ''
+- meaning_id: mengheren- kan
+  meaning_en: ''
+examples:
+- aceh: 'dahcah, dasat a terpaut se- kali dng sesuatu: gata - that atè, hana teuingat sapeue*'
+  jawi: ''
+  id: Anda terpaut sekali dng hal itu sehingga tidak teringat apa-apa
+  en: ''
+- aceh: hireuen - soe nyang eu rupa
+  jawi: ''
+  id: siapa yg melihat rupanya menjadi terheran-heran
+  en: ''
 etymology: ''
 related_words:
-- hireuen
+- hi- reuen
 dialect_notes: ''
-source: Kamus Aceh-Indonesia (Acehnese-Indonesian Dictionary), p. 160
+source: 'Kamus Aceh-Indonesia (extracted from pp.124-270 of the source edition, Acehnese section entries
+  cèm-unyèn through gutie/H). File: markdown.md supplied by the user. — p.160'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: Part of speech not specified in source. Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate reviewer.
+extraction_notes: Part of speech not explicitly marked in source. Indonesian example translations are
+  taken verbatim from the source. English meanings and Jawi transliterations are AI-flagged as unverified
+  and need human review. Jawi transliteration is AI-generated, not from source — needs verification by
+  a Jawi-literate reviewer.

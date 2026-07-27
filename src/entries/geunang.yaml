@@ -1,35 +1,40 @@
 headword: geunang
-jawi: ڬيونڬ
+jawi: ''
 alt_spelling: []
 ipa: ''
 part_of_speech: n
 definitions:
-- meaning_id: '(di pantai Barat Aceh) danau kecil merangkap tebat ikan: plah —, membuka geunang supaya kering airnya utk dapat menangkap ikan'
-  meaning_en: '(on West Aceh coast) small lake functioning as fish pond: plah —, opening sluice to drain water in order to catch fish'
-  examples:
-  - aceh: uroe nyoe uroe plah
-    jawi: ''
-    id: Hari ini adalah hari mengeringkan geunang
-    en: Today is the day for drying geunang
-  - aceh: ta — ie lam blang! Alirkan air ke dl sawah! meu — (teu
-    jawi: ''
-    id: ), menggenangkan air sehingga menjadi danau kecil
-    en: ), draining water to form a small lake
-  - aceh: ie teu
-    jawi: ''
-    id: air yg tergenang, genangan air
-    en: pooled water, standing water
-  - aceh: peu — =
-    jawi: ''
-    id: ''
-    en: ''
-- meaning_id: Bd suak
-  meaning_en: Bd suak
-  examples: []
+- meaning_id: (di pantai Barat Aceh) danau kecil merangkap tebat ikan
+  meaning_en: ''
+examples:
+- aceh: plah -
+  jawi: ''
+  id: membuka geunang supaya kering airnya utk dapat menangkap ikan
+  en: ''
+- aceh: uroe nyoe uroe plah -
+  jawi: ''
+  id: Hari ini adalah hari mengeringkan geunang
+  en: ''
+- aceh: ta - ie lam blang! Alirkan air ke dl sawah! meu - (teu -)
+  jawi: ''
+  id: menggenangkan air sehingga menjadi danau kecil
+  en: ''
+- aceh: ie teu -
+  jawi: ''
+  id: air yg tergenang, genangan air
+  en: ''
+- aceh: peu - = -
+  jawi: ''
+  id: ''
+  en: ''
 etymology: ''
-related_words: []
+related_words:
+- suak
 dialect_notes: ''
-source: Kamus Aceh-Indonesia (Acehnese-Indonesian Dictionary), p. 228
+source: 'Kamus Aceh-Indonesia (extracted from pp.124-270 of the source edition, Acehnese section entries
+  cèm-unyèn through gutie/H). File: markdown.md supplied by the user. — p.228'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate reviewer.
+extraction_notes: Indonesian example translations are taken verbatim from the source. English meanings
+  and Jawi transliterations are AI-flagged as unverified and need human review. Jawi transliteration is
+  AI-generated, not from source — needs verification by a Jawi-literate reviewer.

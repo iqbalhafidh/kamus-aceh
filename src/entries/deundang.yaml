@@ -1,24 +1,29 @@
 headword: deundang
-jawi: دِءُڠ
+jawi: ''
 alt_spelling: []
 ipa: ''
 part_of_speech: n
 definitions:
-- meaning_id: "burung dendang, sj itik liar pemakan ikan dan katak: bèe ija gata bèe — meuaneuk, bau kain Anda spt bau burung dendang beranak, tidak sedap, amis, basi\n deune, meu — a (dl hik), indah krn sebanding antara bentuk dan luasnya: balè nyan jroh that"
+- meaning_id: 'burung dendang, sj itik liar pemakan ikan dan katak: bèe ija gata bèe — meuaneuk, bau kain
+    Anda spt bau burung dendang beranak, tidak sedap, amis, basi deune, meu — a (dl hik), indah krn sebanding
+    antara bentuk dan luasnya: balè nyan jroh that'
   meaning_en: ''
-  examples:
-  - aceh: meu
-    jawi: ''
-    id: balai itu sangat indah bentuknya
-    en: ''
-  - aceh: cabeueng pi rampak jroh that meu
-    jawi: ''
-    id: cabang pohon itu rindang dan indah sekali bentuknya
-    en: that tree branch was lush and its shape was very beautiful
+examples:
+- aceh: meu -
+  jawi: ''
+  id: balai itu sangat indah bentuknya
+  en: ''
+- aceh: cabeueng pi rampak jroh that meu -
+  jawi: ''
+  id: cabang pohon itu rindang dan indah sekali bentuknya
+  en: ''
 etymology: ''
 related_words: []
 dialect_notes: ''
-source: Kamus Aceh-Indonesia (Acehnese-Indonesian Dictionary), pp. 166, 167
+source: 'Kamus Aceh-Indonesia (extracted from pp.124-270 of the source edition, Acehnese section entries
+  cèm-unyèn through gutie/H). File: markdown.md supplied by the user. — pp.166-167'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate reviewer. Some fields (English translations, Jawi) may be incomplete due to API rate limits during processing. Re-run the translation script to fill in missing fields.
+extraction_notes: Indonesian example translations are taken verbatim from the source. English meanings
+  and Jawi transliterations are AI-flagged as unverified and need human review. Jawi transliteration is
+  AI-generated, not from source — needs verification by a Jawi-literate reviewer.

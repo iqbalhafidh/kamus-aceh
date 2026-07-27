@@ -1,52 +1,35 @@
 headword: deungki
-jawi: دوڠكي
+jawi: ''
 alt_spelling: []
 ipa: ''
 part_of_speech: n
 definitions:
 - meaning_id: dengki
   meaning_en: ''
-  examples:
-  - aceh: pakon gata
-    jawi: ''
-    id: ''
-    en: ''
-  - aceh: that keu lôn?
-    jawi: ''
-    id: mengapa Anda sangat dengki kpd saya?
-    en: Why are you so jealous of me?
-  - aceh: meutulak
-    jawi: ''
-    id: berbantah-bantahan
-    en: arguing, quarreling
-  - aceh: bèk sagai tameutulak
-    jawi: ''
-    id: '! jangan sekali-kali Anda berbantah-bantahan!'
-    en: crying with a shrill voice
-  - aceh: meu
-    jawi: ''
-    id: ''
-    en: ''
-  - aceh: meu
-    jawi: ''
-    id: —, berdengk-dengkian
-    en: ''
-  - aceh: bèk tameu
-    jawi: ''
-    id: —
-    en: ''
-  - aceh: keu gob
-    jawi: ''
-    id: janganlah Anda berdengki-dengkian dng orang
-    en: ''
-  - aceh: peu
-    jawi: ''
-    id: menimbulkan dengki
-    en: you are like a one-eyed devil = your character is very evil
+examples:
+- aceh: pakon gata - that keu lôn? mengapa Anda sangat dengki kpd saya? meutulak -
+  jawi: ''
+  id: berbantah-bantahan
+  en: ''
+- aceh: bèk sagai tameutulak -! jangan sekali-kali Anda berbantah-bantahan! meu -, meu - -
+  jawi: ''
+  id: berdengk-dengkian
+  en: ''
+- aceh: bèk tameu - - keu gob
+  jawi: ''
+  id: janganlah Anda berdengki-dengkian dng orang
+  en: ''
+- aceh: peu - menimbulkan dengki
+  jawi: ''
+  id: ''
+  en: ''
 etymology: ''
 related_words: []
 dialect_notes: ''
-source: Kamus Aceh-Indonesia (Acehnese-Indonesian Dictionary), p. 167
+source: 'Kamus Aceh-Indonesia (extracted from pp.124-270 of the source edition, Acehnese section entries
+  cèm-unyèn through gutie/H). File: markdown.md supplied by the user. — p.167'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate reviewer. Some fields (English translations, Jawi) may be incomplete due to API rate limits during processing. Re-run the translation script to fill in missing fields.
+extraction_notes: Indonesian example translations are taken verbatim from the source. English meanings
+  and Jawi transliterations are AI-flagged as unverified and need human review. Jawi transliteration is
+  AI-generated, not from source — needs verification by a Jawi-literate reviewer.

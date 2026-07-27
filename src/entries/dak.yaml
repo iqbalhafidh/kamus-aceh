@@ -1,17 +1,62 @@
-headword: Dak
+headword: dak
 jawi: ''
 alt_spelling: []
 ipa: ''
-part_of_speech: ''
-definitions: []
-examples: []
+part_of_speech: p
+definitions:
+- meaning_id: da, dak an sampai
+  meaning_en: ''
+- meaning_id: bantat, mengeras, tidak baik pembakarannya (ump roti), padat
+  meaning_en: ''
+- meaning_id: dl keadaan melarat (krn ke- tiadaan makanan dan uang
+  meaning_en: ''
+examples:
+- aceh: muda kon - an tua
+  jawi: ''
+  id: dr muda sampai tua
+  en: ''
+- aceh: '-'
+  jawi: ''
+  id: ''
+  en: ''
+- aceh: roti -
+  jawi: ''
+  id: h'an jitém ék, roti itu bantat adonannya, tidak mau naik. anoe —, pasir yg padat keadaannya
+  en: ''
+- aceh: ie laôt - meusé apam
+  jawi: ''
+  id: air laut se- olah-olah padat laksana apam. peu —, memadatkan
+  en: ''
+- aceh: lòn - that uroe nyoe
+  jawi: ''
+  id: hana breueh di rumoh, neubri lòn ngui meung sia- rè, saya susah sekali hari ini, di rumah tidak
+    ada beras, pinjamkan saya barang se arè
+  en: ''
+- aceh: '- akai (ki) ke- hilangan akal'
+  jawi: ''
+  id: putus asa
+  en: ''
+- aceh: peu -
+  jawi: ''
+  id: membuat melarat
+  en: ''
+- aceh: peu - droe
+  jawi: ''
+  id: melaratkan diri, berlaku seolah- olah melarat
+  en: ''
+- aceh: bèk tapeu - droe
+  jawi: ''
+  id: lakoe gata ka jowoe ngon breueh, janganlah Anda berlaku spt orang melarat, suami Anda sudah pulang
+    membawa beras
+  en: ''
 etymology: ''
-related_words: []
+related_words:
+- dak-dak
 dialect_notes: ''
-source: 'Daud, Bukhari & Mark Durie. Kamus Basa Acèh = Kamus Bahasa Aceh: Acehnese–Indonesian–English Thesaurus.
-  Pacific Linguistics C-151, 1999, vii (PDF p. 5).'
-date_added: '2026-07-20'
+source: 'Kamus Aceh-Indonesia (extracted from pp.124-270 of the source edition, Acehnese section entries
+  cèm-unyèn through gutie/H). File: markdown.md supplied by the user. — p.153'
+date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: Occurs in the unglossed Acehnese poem “Ranup Sigapu”; no definition has been inferred. Loan/proper-name
-  status should be checked by a reviewer.
-language_uncertain: true
+extraction_notes: Indonesian example translations are taken verbatim from the source. English meanings
+  and Jawi transliterations are AI-flagged as unverified and need human review. Jawi transliteration is
+  AI-generated, not from source — needs verification by a Jawi-literate reviewer.

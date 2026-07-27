@@ -1,20 +1,60 @@
 headword: gue
-jawi: ݢوه
+jawi: ''
 alt_spelling: []
 ipa: ''
 part_of_speech: n
 definitions:
-- meaning_id: 'umbut tanaman palma seperti kelapa, aren, dsb: —'
+- meaning_id: umbut tanaman palma seperti kelapa, aren, dsb
   meaning_en: ''
-  examples:
-  - aceh: u ka habèh jipajôh le ujo
-    jawi: ''
-    id: Umbut-umbut kelapa sudah dimakan oleh kumbang
-    en: Coconut grubs have been eaten by beetles
+- meaning_id: sa- ya tak dapat makan apa-apa
+  meaning_en: ''
+- meaning_id: mengobrak-abrikkan
+  meaning_en: ''
+- meaning_id: ke- dua-duanya tidak tahu malu
+  meaning_en: ''
+examples:
+- aceh: 'u ka habèh ji- pajôh le ujo, Umbut-umbut kelapa sudah dimakan oleh kumbang. 1 *gueb n lembaga
+    buah kelapa yg be- lum tumbuh: meu* -'
+  jawi: ''
+  id: berlembaga
+  en: ''
+- aceh: peu -
+  jawi: ''
+  id: membentuk lembaga
+  en: ''
+- aceh: u nyoe ka jipeu -, jipeuduek -, Bu- ah kelapa ini sudah membentuk lembaganya 2 *gueb n* guam
+  jawi: ''
+  id: sj penyakit mulut
+  en: ''
+- aceh: meu -
+  jawi: ''
+  id: gerbuam
+  en: ''
+- aceh: babah lôn ka meu -, h'an jeuet lôn pajôh sape- ue
+  jawi: ''
+  id: Mulut saya sudah berguam
+  en: ''
+- aceh: padé ha- bèh ji - lê bui, Semua tanaman padi sudah diobrak-abrik babi, ji- tumbok dada jiplah
+    ngon bajèe, ji - ulee h'an ban publa
+  jawi: ''
+  id: Ia menum- buk dada dan menggoyangkan ba- junya serta mengobrak-abrik ram- butnya dan sukar utk dilerai
+  en: ''
+- aceh: meu -, melakukan *gui*
+  jawi: ''
+  id: berkelahi ber- tarik-tarikan rambut di jalan
+  en: ''
+- aceh: teu -
+  jawi: ''
+  id: diobrak-abrik
+  en: ''
 etymology: ''
-related_words: []
+related_words:
+- glinya
 dialect_notes: ''
-source: Kamus Aceh-Indonesia (Acehnese-Indonesian Dictionary), p. 259
+source: 'Kamus Aceh-Indonesia (extracted from pp.124-270 of the source edition, Acehnese section entries
+  cèm-unyèn through gutie/H). File: markdown.md supplied by the user. — p.259'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate reviewer. Some fields (English translations, Jawi) may be incomplete due to API rate limits during processing. Re-run the translation script to fill in missing fields.
+extraction_notes: Indonesian example translations are taken verbatim from the source. English meanings
+  and Jawi transliterations are AI-flagged as unverified and need human review. Jawi transliteration is
+  AI-generated, not from source — needs verification by a Jawi-literate reviewer.

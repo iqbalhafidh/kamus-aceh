@@ -1,38 +1,30 @@
 headword: geuseuen
-jawi: ݢوسين
+jawi: ''
 alt_spelling: []
 ipa: ''
 part_of_speech: a
 definitions:
 - meaning_id: penakut
-  meaning_en: coward
-  examples:
-  - aceh: lagèe bacè
-    jawi: ''
-    id: (—
-    en: ''
-  - aceh: pijèt
-    jawi: ''
-    id: ), penakut spt ikan gabus atau kepinding, pengecut sekali
-    en: ), cowardly like a snakehead or cockroach, very timid
-  - aceh: hana
-    jawi: ''
-    id: ''
-    en: ''
-  - aceh: keu peue tapeuudēp jih, jih – la-gēe pijēt
-    jawi: ''
-    id: Tidak ada gunanya membiarkan ia hidup, ia penakut sekali. → *
-    en: '*'
-  - aceh: geumeurēb; peu –
-    jawi: ''
-    id: '*, membuat takut'
-    en: ''
+  meaning_en: ''
+examples:
+- aceh: lagèe bacè (- pijèt)
+  jawi: ''
+  id: penakut spt ikan gabus atau kepinding, pengecut sekali
+  en: ''
+- aceh: hana keu peue tapeuudēp jih, jih – la-gēe pijēt
+  jawi: ''
+  id: Tidak ada gunanya membiarkan ia hidup, ia penakut sekali., membuat takut
+  en: ''
 etymology: ''
 related_words:
+- '**geumeurēb'
 - kuyu
 - takōt
 dialect_notes: ''
-source: Kamus Aceh-Indonesia (Acehnese-Indonesian Dictionary), pp. 235, 236
+source: 'Kamus Aceh-Indonesia (extracted from pp.124-270 of the source edition, Acehnese section entries
+  cèm-unyèn through gutie/H). File: markdown.md supplied by the user. — pp.235-236'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: Some fields (English translations, Jawi) may be incomplete due to API rate limits during processing. Re-run the translation script to fill in missing fields. Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate reviewer.
+extraction_notes: Indonesian example translations are taken verbatim from the source. English meanings
+  and Jawi transliterations are AI-flagged as unverified and need human review. Jawi transliteration is
+  AI-generated, not from source — needs verification by a Jawi-literate reviewer.

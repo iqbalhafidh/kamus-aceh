@@ -1,44 +1,36 @@
 headword: guha
-jawi: ݢوه
+jawi: ''
 alt_spelling: []
 ipa: ''
 part_of_speech: n
 definitions:
 - meaning_id: gua, lubang yg dibuat di lantai rumah Aceh tempat pembuangan kotoran
-  meaning_en: gua, hole made in the floor of an Aceh house, a place for disposing waste
-  examples:
-  - aceh: Teungku Lam
-    jawi: ''
-    id: nama seorang pertapa keramat yg pusaranya terdapat di belakang mesjid Ulee Leheue
-    en: ''
-  - aceh: jak tôh tek bak
-    jawi: ''
-    id: pergilah buang air kecil di
-    en: go urinate at
-  - aceh: guha
-    jawi: ''
-    id: ''
-    en: ''
-  - aceh: peuduek bak
-    jawi: ''
-    id: meletakkan sesuatu pd
-    en: ''
-  - aceh: guha
-    jawi: ''
-    id: ''
-    en: ''
-  - aceh: pumanoe
-    jawi: ''
-    id: lubang kecil memanjang di lantai serambi dl (*
-    en: ''
-  - aceh: jurèe
-    jawi: ''
-    id: '*) yg sengaja diadakan utk keperluan memandikan jenazah'
-    en: ''
+  meaning_en: ''
+examples:
+- aceh: Teungku Lam -
+  jawi: ''
+  id: nama seorang pertapa keramat yg pusa- ranya terdapat di belakang mesjid Ulee Leheue
+  en: ''
+- aceh: jak tôh tek bak -, pergilah buang air kecil di guha
+  jawi: ''
+  id: ''
+  en: ''
+- aceh: peuduek bak -, meletakkan sesu- atu pd guha
+  jawi: ''
+  id: ''
+  en: ''
+- aceh: '- pumanoe, lubang kecil memanjang di lantai seram- bi dl (*jurèe*) yg sengaja diadakan utk keperluan
+    memandikan jena- zah'
+  jawi: ''
+  id: ''
+  en: ''
 etymology: ''
 related_words: []
 dialect_notes: ''
-source: Kamus Aceh-Indonesia (Acehnese-Indonesian Dictionary), p. 259
+source: 'Kamus Aceh-Indonesia (extracted from pp.124-270 of the source edition, Acehnese section entries
+  cèm-unyèn through gutie/H). File: markdown.md supplied by the user. — p.259'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate reviewer.
+extraction_notes: Indonesian example translations are taken verbatim from the source. English meanings
+  and Jawi transliterations are AI-flagged as unverified and need human review. Jawi transliteration is
+  AI-generated, not from source — needs verification by a Jawi-literate reviewer.

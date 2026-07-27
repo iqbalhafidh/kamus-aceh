@@ -1,24 +1,27 @@
 headword: dhoe
-jawi: ذوي
+jawi: ''
 alt_spelling: []
 ipa: ''
 part_of_speech: n
 definitions:
 - meaning_id: 'dahi: - luaih, meutuah'
-  meaning_en: 'forehead: - luaih, meutuah'
-  examples:
-  - aceh: malém ngon kaya
-    jawi: ''
-    id: orang yg ber-dahi tinggi (dikatakan) bertuah, alim dan kaya
-    en: ''
-  - aceh: luaih raya nabsu
-    jawi: ''
-    id: yang berdahi tinggi (dikatakan) besar nafsunya
-    en: ''
+  meaning_en: ''
+examples:
+- aceh: malém ngon kaya
+  jawi: ''
+  id: orang yg ber-dahi tinggi (dikatakan) bertuah, alim dan kaya
+  en: ''
+- aceh: '- luaih raya nabsu'
+  jawi: ''
+  id: yang berdahi tinggi (dikatakan) besar nafsunya
+  en: ''
 etymology: ''
 related_words: []
 dialect_notes: ''
-source: Kamus Aceh-Indonesia (Acehnese-Indonesian Dictionary), pp. 168, 169
+source: 'Kamus Aceh-Indonesia (extracted from pp.124-270 of the source edition, Acehnese section entries
+  cèm-unyèn through gutie/H). File: markdown.md supplied by the user. — pp.168-169'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate reviewer.
+extraction_notes: Indonesian example translations are taken verbatim from the source. English meanings
+  and Jawi transliterations are AI-flagged as unverified and need human review. Jawi transliteration is
+  AI-generated, not from source — needs verification by a Jawi-literate reviewer.

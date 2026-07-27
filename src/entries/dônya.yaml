@@ -1,60 +1,44 @@
 headword: dônya
-jawi: دونيا
+jawi: ''
 alt_spelling: []
 ipa: ''
 part_of_speech: n
 definitions:
-- meaning_id: 'dunia: —'
-  meaning_en: 'world: —'
-  examples:
-  - aceh: ka akhé, anuek miet cut-cut ka jitupeue meusulèt
-    jawi: ''
-    id: '*'
-    en: '*'
-  - aceh: dônya
-    jawi: ''
-    id: ''
-    en: ''
-  - aceh: ''
-    jawi: ''
-    id: n
-    en: ''
-  - aceh: 'dunia: —'
-    jawi: ''
-    id: ka akhié, anuek miet cut-cut ka jitupeue meusulèt*, dunia sudah tua umurnya, anak-anak kecil pun sudah tahu berdusta
-    en: ''
-  - aceh: tinggai — (peulikôt —)
-    jawi: ''
-    id: meninggalkan dunia, membelakangkan dunia, sudah meninggal
-    en: ''
-  - aceh: te-
-    jawi: ''
-    id: ungku Pulan ka neutinggai, neu-peulikôt —, Teungku Pola telah meninggal. → akhirat
-    en: repeatedly, imitation of drum sounds etc.
-  - aceh: hawa keu
-    jawi: ''
-    id: kesukaan kpd harta dunia
-    en: ''
-  - aceh: ke-ureuna
-    jawi: ''
-    id: krn mementingkan dunia
-    en: ''
-  - aceh: riôh atau subra
-    jawi: ''
-    id: (dl hik), keributan yg memenuhi dunia, ribut sekali
-    en: (dl hik), a commotion that fills the world, very noisy
-  - aceh: meu
-    jawi: ''
-    id: menyukai hal-hal keduniaan
-    en: ''
-  - aceh: pakon meu
-    jawi: ''
-    id: that gata, hana taingat bacut keu akhirat, mengapa Anda sangat mementingkan urusan-urusan keduniaan? Anda tidak teringat sedikit pun kpd hari akhirat!
-    en: ''
+- meaning_id: dunia
+  meaning_en: ''
+- meaning_id: hawa keu —, kesukaan kpd harta dunia
+  meaning_en: ''
+- meaning_id: ke-ureuna —, krn mementingkan dunia
+  meaning_en: ''
+- meaning_id: riôh atau subra — (dl hik), keributan yg memenuhi dunia, ribut sekali
+  meaning_en: ''
+- meaning_id: meu —, menyukai hal-hal keduniaan
+  meaning_en: ''
+- meaning_id: pakon meu — that gata, hana taingat bacut keu akhirat, mengapa Anda sangat mementingkan
+    urusan-urusan keduniaan? Anda tidak teringat sedikit pun kpd hari akhirat!
+  meaning_en: ''
+examples:
+- aceh: 'ka akhé, anuek miet cut-cut ka jitupeue meusulèt, *dônya n dunia: - ka akhié'
+  jawi: ''
+  id: anuek miet cut-cut ka jitupeue meusulèt*, dunia sudah tua umurnya, anak-anak kecil pun sudah tahu
+    berdusta
+  en: ''
+- aceh: tinggai - (peulikôt -)
+  jawi: ''
+  id: meninggalkan dunia, membelakangkan dunia, sudah meninggal
+  en: ''
+- aceh: te- ungku Pulan ka neutinggai
+  jawi: ''
+  id: neu-peulikôt —, Teungku Pola telah meninggal
+  en: ''
 etymology: ''
-related_words: []
+related_words:
+- akhirat
 dialect_notes: ''
-source: Kamus Aceh-Indonesia (Acehnese-Indonesian Dictionary), pp. 175, 176
+source: 'Kamus Aceh-Indonesia (extracted from pp.124-270 of the source edition, Acehnese section entries
+  cèm-unyèn through gutie/H). File: markdown.md supplied by the user. — pp.175-176'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate reviewer.
+extraction_notes: Indonesian example translations are taken verbatim from the source. English meanings
+  and Jawi transliterations are AI-flagged as unverified and need human review. Jawi transliteration is
+  AI-generated, not from source — needs verification by a Jawi-literate reviewer.

@@ -1,83 +1,63 @@
 headword: gurée
-jawi: ڬوري
+jawi: ''
 alt_spelling: []
 ipa: ''
 part_of_speech: n
 definitions:
 - meaning_id: pengajar, pemimpin rohani, *
   meaning_en: ''
-  examples:
-  - aceh: guru
-    jawi: ''
-    id: ''
-    en: ''
-  - aceh: ': (pb)'
-    jawi: ''
-    id: gasêh ma'oh rambat, gasêh ku 'oh jeurat, gasêh
-    en: gasêh ma'oh rambat, gasêh ku 'oh jeurat, gasêh
-  - aceh: —
-    jawi: ''
-    id: tôk u akhirat*, kasih sayang seorang ibu samapi di serambi, kasih sayang seorang ayah sampai di kuburan, kasih sayang seorang pemimpin rohani berjalan terus sampai akhirat
-    en: love for the hereafter, a mother's love to the veranda, a father's love to the grave, a spiritual leader's love continues until the hereafter
-  - aceh: pumubeuet
-    jawi: ''
-    id: "guru mengaji\n\n\n\n Quran"
-    en: ''
-  - aceh: di balè
-    jawi: ''
-    id: guru agama yg mengajar di balè
-    en: ''
-  - aceh: Amin ka leupah bak sikula
-    jawi: ''
-    id: Guru Amin sudah pergi ke sekolah
-    en: ''
-  - aceh: lôn Teungku di Lam Birah
-    jawi: ''
-    id: Guru mengaji saya adalah Teungku di Lam Birah
-    en: ''
-  - aceh: jèh
-    jawi: ''
-    id: —
-    en: ''
-  - aceh: jeunjang
-    jawi: ''
-    id: ''
-    en: ''
-  - aceh: keubai
-    jawi: ''
-    id: guru yg mengajar ilmu kebal
-    en: ''
-  - aceh: meu
-    jawi: ''
-    id: berguru sedang mengajar pd (bak) seorang guru, diajar atau belajar ilmu kebal
-    en: teaching a (would-be) teacher, teaching or learning defensive arts
-  - aceh: aneuk gobnyan jimeu
-    jawi: ''
-    id: ''
-    en: ''
-  - aceh: bak ulama
-    jawi: ''
-    id: Anak orang itu belajar mengaji pd seorang ulama
-    en: That person's child studies with a religious scholar
-  - aceh: bèk tateumirèe
-    jawi: ''
-    id: ''
-    en: ''
-  - aceh: tameu
-    jawi: ''
-    id: '! Jangan Anda meniru, belajarlah!'
-    en: ''
-  - aceh: peu
-    jawi: ''
-    id: menyuruh berguru
-    en: ''
+examples:
+- aceh: 'guru: (pb) gasêh ma''oh rambat, gasêh ku ''oh jeurat, gasêh - tôk u akhirat*'
+  jawi: ''
+  id: kasih sayang seorang ibu samapi di serambi, kasih sayang seorang ayah sampai di kuburan, kasih sayang
+    seorang pemimpin rohani berjalan terus sampai akhirat
+  en: ''
+- aceh: '- pumubeuet'
+  jawi: ''
+  id: guru mengaji Quran
+  en: ''
+- aceh: '- di balè'
+  jawi: ''
+  id: guru agama yg mengajar di balè
+  en: ''
+- aceh: '- Amin ka leupah bak sikula'
+  jawi: ''
+  id: Guru Amin sudah pergi ke sekolah
+  en: ''
+- aceh: '- lôn Teungku di Lam Birah'
+  jawi: ''
+  id: Guru mengaji saya adalah Teungku di Lam Birah
+  en: ''
+- aceh: jèh, - jeunjang
+  jawi: ''
+  id: ''
+  en: ''
+- aceh: '- keubai'
+  jawi: ''
+  id: guru yg mengajar ilmu kebal
+  en: ''
+- aceh: meu -
+  jawi: ''
+  id: berguru sedang mengajar pd (bak) seorang guru, diajar atau belajar ilmu kebal
+  en: ''
+- aceh: aneuk gobnyan jimeu - bak ulama
+  jawi: ''
+  id: Anak orang itu belajar mengaji pd seorang ulama
+  en: ''
+- aceh: bèk tateumirèe, tameu -! Jangan Anda meniru, belajarlah! peu -
+  jawi: ''
+  id: menyuruh berguru
+  en: ''
 etymology: ''
 related_words:
 - dabôih
 - guru
 - teungku
 dialect_notes: ''
-source: Kamus Aceh-Indonesia (Acehnese-Indonesian Dictionary), pp. 265, 266
+source: 'Kamus Aceh-Indonesia (extracted from pp.124-270 of the source edition, Acehnese section entries
+  cèm-unyèn through gutie/H). File: markdown.md supplied by the user. — pp.265-266'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: Some fields (English translations, Jawi) may be incomplete due to API rate limits during processing. Re-run the translation script to fill in missing fields. Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate reviewer.
+extraction_notes: Indonesian example translations are taken verbatim from the source. English meanings
+  and Jawi transliterations are AI-flagged as unverified and need human review. Jawi transliteration is
+  AI-generated, not from source — needs verification by a Jawi-literate reviewer.

@@ -1,28 +1,31 @@
 headword: deungong
-jawi: دئوڠ
+jawi: ''
 alt_spelling: []
 ipa: ''
 part_of_speech: n
 definitions:
 - meaning_id: dengung, sesuatu yg berdengung
-  meaning_en: small and round
-  examples:
-  - aceh: meu
-    jawi: ''
-    id: berdengung
-    en: buzzing/ringing
-  - aceh: su kapsi teureubang meu
-    jawi: ''
-    id: bunyi kapal terbang berdengung
-    en: ''
+  meaning_en: ''
+- meaning_id: peu-, menimbulkan dengung
+  meaning_en: ''
+examples:
+- aceh: meu -
+  jawi: ''
+  id: berdengung
+  en: ''
+- aceh: su kapsi teureubang meu -
+  jawi: ''
+  id: bunyi kapal terbang berdengung, cako 1
+  en: ''
 etymology: ''
 related_words:
 - sr'ang
 - cako 1
-- peu-
-- menimbulkan dengung
 dialect_notes: ''
-source: Kamus Aceh-Indonesia (Acehnese-Indonesian Dictionary), pp. 167, 168
+source: 'Kamus Aceh-Indonesia (extracted from pp.124-270 of the source edition, Acehnese section entries
+  cèm-unyèn through gutie/H). File: markdown.md supplied by the user. — pp.167-168'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate reviewer.
+extraction_notes: Indonesian example translations are taken verbatim from the source. English meanings
+  and Jawi transliterations are AI-flagged as unverified and need human review. Jawi transliteration is
+  AI-generated, not from source — needs verification by a Jawi-literate reviewer.

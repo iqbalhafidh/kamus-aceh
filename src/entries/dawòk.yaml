@@ -1,26 +1,34 @@
 headword: dawòk
-jawi: داوک
+jawi: ''
 alt_spelling: []
 ipa: ''
 part_of_speech: a
 definitions:
-- meaning_id: 'selalu, tetap, sepenuhnya menumpahkan perhatian, asyik, merasa cemas: — jimoe, Ia selalu menangis. gata — that bak inong nyan, Anda asyik sekali dng wanita itu'
+- meaning_id: selalu, tetap, sepenuhnya menumpahkan perhatian, asyik, merasa cemas
   meaning_en: ''
-  examples:
-  - aceh: peue — kah, apa pedulimu! bèk ta
-    jawi: ''
-    id: janganlah Anda merasa cemas
-    en: ''
-  - aceh: ulòn teumanyong h'an jiseuòt, jih lam
-    jawi: ''
-    id: malam uroe, saya bertanya, tetapi tidak dijawabnya, siang dan malam ia asyik dng urusannya
-    en: night and day, I asked, but he didn't answer, day and night he was busy with his affairs
+examples:
+- aceh: '- jimoe'
+  jawi: ''
+  id: Ia selalu menangis. gata — that bak inong nyan, Anda asyik sekali dng wanita itu
+  en: ''
+- aceh: peue - kah
+  jawi: ''
+  id: apa pedulimu! bèk ta —, janganlah Anda merasa cemas
+  en: ''
+- aceh: ulòn teumanyong h'an jiseuòt
+  jawi: ''
+  id: jih lam — malam uroe, saya bertanya, tetapi tidak dijawabnya, siang dan malam ia asyik dng urusannya,
+    sibòk
+  en: ''
 etymology: ''
 related_words:
 - la-loe
 - sibòk
 dialect_notes: ''
-source: Kamus Aceh-Indonesia (Acehnese-Indonesian Dictionary), p. 161
+source: 'Kamus Aceh-Indonesia (extracted from pp.124-270 of the source edition, Acehnese section entries
+  cèm-unyèn through gutie/H). File: markdown.md supplied by the user. — p.161'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate reviewer. Some fields (English translations, Jawi) may be incomplete due to API rate limits during processing. Re-run the translation script to fill in missing fields.
+extraction_notes: Indonesian example translations are taken verbatim from the source. English meanings
+  and Jawi transliterations are AI-flagged as unverified and need human review. Jawi transliteration is
+  AI-generated, not from source — needs verification by a Jawi-literate reviewer.

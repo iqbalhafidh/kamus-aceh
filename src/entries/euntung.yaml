@@ -1,40 +1,34 @@
 headword: euntung
-jawi: اونتوڠ
+jawi: ''
 alt_spelling: []
 ipa: ''
 part_of_speech: n
 definitions:
-- meaning_id: kantong pukat ikan, → pukat
+- meaning_id: kantong pukat ikan,
   meaning_en: ''
-  examples:
-  - aceh: nyab
-    jawi: ''
-    id: kantong nyab
-    en: kantong nyab
-  - aceh: meu
-    jawi: ''
-    id: berbentuk kantong, menggelembung, tidak dapat direnggangkan
-    en: shaped like a bag, swollen, cannot be stretched
-  - aceh: keu-
-    jawi: ''
-    id: ''
-    en: ''
-  - aceh: leumbu nyoe keundô, meu
-    jawi: ''
-    id: ''
-    en: ''
-  - aceh: sa-
-    jawi: ''
-    id: ''
-    en: ''
-  - aceh: ma teungoh
-    jawi: ''
-    id: Kelambu ini kendor, di tengahnya (di antara tiang-tiang nya) menggelembung
-    en: ''
+- meaning_id: melentur, mengendor (tt benang layang-layang yang di- tiup angin kencang)
+  meaning_en: ''
+examples:
+- aceh: nyab
+  jawi: ''
+  id: kantong nyab
+  en: ''
+- aceh: meu -
+  jawi: ''
+  id: berben- tuk kantong, menggelembung, ti- dak dapat direnggangkan
+  en: ''
+- aceh: keu- leumbu nyoe keundô, meu - sa- ma teungoh
+  jawi: ''
+  id: Kelambu ini kendor, di tengahnya (di antara tiang-tiang nya) menggelembung
+  en: ''
 etymology: ''
-related_words: []
+related_words:
+- pukat
 dialect_notes: ''
-source: Kamus Aceh-Indonesia (Acehnese-Indonesian Dictionary), p. 202
+source: 'Kamus Aceh-Indonesia (extracted from pp.124-270 of the source edition, Acehnese section entries
+  cèm-unyèn through gutie/H). File: markdown.md supplied by the user. — p.202'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: Some fields (English translations, Jawi) may be incomplete due to API rate limits during processing. Re-run the translation script to fill in missing fields. Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate reviewer.
+extraction_notes: Indonesian example translations are taken verbatim from the source. English meanings
+  and Jawi transliterations are AI-flagged as unverified and need human review. Jawi transliteration is
+  AI-generated, not from source — needs verification by a Jawi-literate reviewer.

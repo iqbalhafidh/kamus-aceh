@@ -1,78 +1,42 @@
 headword: geue
-jawi: ڬوئ
+jawi: ''
 alt_spelling: []
 ipa: ''
 part_of_speech: ''
 definitions:
-- meaning_id: '*'
-  meaning_en: '*'
-  examples:
-  - aceh: gie
-    jawi: ''
-    id: ''
-    en: ''
-  - aceh: ''
-    jawi: ''
-    id: v
-    en: v
-  - aceh: 'raba:'
-    jawi: ''
-    id: ta
-    en: you
-  - aceh: –
-    jawi: ''
-    id: nyan*, Rabalah itu
-    en: nyan*, May that be cursed
-  - aceh: meu
-    jawi: ''
-    id: – (–)
-    en: – (–)
-  - aceh: meu
-    jawi: ''
-    id: – –
-    en: – –
-  - aceh: meu
-    jawi: ''
-    id: –, meraba-raba
-    en: –
-  - aceh: peue tameu
-    jawi: ''
-    id: –
-    en: ), sj white lice that attach to cloth
-  - aceh: sabé lam seupôt
-    jawi: ''
-    id: '? Apa yg Anda raba selalu dl gelap?'
-    en: What are you always touching in the dark?
-  - aceh: peu
-    jawi: ''
-    id: –, menyuruh raba
-    en: –, telling to touch
-  - aceh: peu
-    jawi: ''
-    id: –
-    en: ), sj white lice that attach to cloth
-  - aceh: ureueng buta
-    jawi: ''
-    id: menyuruh raba orang buta
-    en: ordering a blind person to touch
-  - aceh: tapeu
-    jawi: ''
-    id: –
-    en: ), sj white lice that attach to cloth
-  - aceh: nyan bak
-    jawi: ''
-    id: ''
-    en: ''
-  - aceh: keu ureueng buta
-    jawi: ''
-    id: Rabakanlah itu pd orang buta
-    en: That is for a blind person
+- meaning_id: ', *'
+  meaning_en: ''
+examples:
+- aceh: 'gie v raba: ta – nyan*'
+  jawi: ''
+  id: Rabalah itu
+  en: ''
+- aceh: meu – (–), meu – – meu –
+  jawi: ''
+  id: meraba-raba
+  en: ''
+- aceh: peue tameu – sabé lam seupôt? Apa yg Anda raba selalu dl gelap? peu –
+  jawi: ''
+  id: menyuruh raba
+  en: ''
+- aceh: peu – ureueng buta
+  jawi: ''
+  id: menyuruh raba orang buta
+  en: ''
+- aceh: tapeu – nyan bak, keu ureueng buta, Rabakanlah itu pd orang buta, *raba*
+  jawi: ''
+  id: ''
+  en: ''
 etymology: ''
 related_words:
-- kueb
-- raba
+- '**kueb**'
+- '**raba**'
 dialect_notes: ''
-source: Kamus Aceh-Indonesia (Acehnese-Indonesian Dictionary), p. 225
+source: 'Kamus Aceh-Indonesia (extracted from pp.124-270 of the source edition, Acehnese section entries
+  cèm-unyèn through gutie/H). File: markdown.md supplied by the user. — p.225'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: Part of speech not specified in source. Some fields (English translations, Jawi) may be incomplete due to API rate limits during processing. Re-run the translation script to fill in missing fields. Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate reviewer.
+extraction_notes: Part of speech not explicitly marked in source. Indonesian example translations are
+  taken verbatim from the source. English meanings and Jawi transliterations are AI-flagged as unverified
+  and need human review. Jawi transliteration is AI-generated, not from source — needs verification by
+  a Jawi-literate reviewer.

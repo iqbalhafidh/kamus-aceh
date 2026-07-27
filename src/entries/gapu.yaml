@@ -1,89 +1,73 @@
 headword: gapu
-jawi: ڬڤو
+jawi: ''
 alt_spelling: []
 ipa: ''
 part_of_speech: n
 definitions:
-- meaning_id: 'kapur: —'
-  meaning_en: 'lime: —'
-  examples:
-  - aceh: meu (n)tah
-    jawi: ''
-    id: kapur tohor
-    en: lime
-  - aceh: masak
-    jawi: ''
-    id: kapur mati
-    en: dead lime
-  - aceh: angèn
-    jawi: ''
-    id: kapur cat
-    en: paint chalk
-  - aceh: batèe
-    jawi: ''
-    id: kapur batu (yg dipergunakan utk kapur sirih)
-    en: ''
-  - aceh: Blanda
-    jawi: ''
-    id: —
-    en: ''
-  - aceh: tulèh
-    jawi: ''
-    id: kapur tulis
-    en: ''
-  - aceh: ranub
-    jawi: ''
-    id: ''
-    en: ''
-  - aceh: ranub geunapu
-    jawi: ''
-    id: sirih yg lengkap dng ramuannya
-    en: ''
-  - aceh: ranub si
-    jawi: ''
-    id: sekapur sirih
-    en: a betel nut presentation
-  - aceh: bicah ranub si
-    jawi: ''
-    id: waktu utk mengunyah kapur sirih, (kira-kira 5 menit)
-    en: ''
-  - aceh: '''oh lheueh neupajôh ranub lhee'
-    jawi: ''
-    id: ''
-    en: ''
-  - aceh: teuma neubungka lè
-    jawi: ''
-    id: Setelah makan tiga kapur sirih, maka berangkatlah ia
-    en: pubuet in sinoe, kajak
-  - aceh: tob
-    jawi: ''
-    id: (hrf) menumbuk kapur, sj permainan yg sangat disenangi oleh wanita di daerah Tunong → *
-    en: ''
-  - aceh: alee
-    jawi: ''
-    id: '*'
-    en: '*'
-  - aceh: tamsé
-    jawi: ''
-    id: ''
-    en: ''
-  - aceh: bak ujông jaroe
-    jawi: ''
-    id: laksana kapur di ujung telunjuk (yg mudah jatuh)
-    en: ''
-  - aceh: teu
-    jawi: ''
-    id: dilumuri kapur, dikapur
-    en: ''
-  - aceh: geunapu
-    jawi: ''
-    id: cara atau hasil pengapuran
-    en: method or result of whitewashing
+- meaning_id: kapur
+  meaning_en: ''
+examples:
+- aceh: meu (n)tah
+  jawi: ''
+  id: kapur tohor
+  en: ''
+- aceh: '- masak'
+  jawi: ''
+  id: kapur mati
+  en: ''
+- aceh: '- angèn'
+  jawi: ''
+  id: kapur cat
+  en: ''
+- aceh: '- batèe'
+  jawi: ''
+  id: kapur batu (yg dipergunakan utk kapur sirih)
+  en: ''
+- aceh: '- Blanda, - tulèh'
+  jawi: ''
+  id: kapur tulis
+  en: ''
+- aceh: ranub -, ranub geunapu
+  jawi: ''
+  id: sirih yg lengkap dng ramuannya
+  en: ''
+- aceh: ranub si -
+  jawi: ''
+  id: sekapur sirih
+  en: ''
+- aceh: bicah ranub si -
+  jawi: ''
+  id: waktu utk mengunyah kapur sirih, (kira-kira 5 menit)
+  en: ''
+- aceh: '''oh lheueh neupajôh ranub lhee -, teuma neubungka lè'
+  jawi: ''
+  id: Setelah makan tiga kapur sirih, maka berangkatlah ia
+  en: ''
+- aceh: tob -
+  jawi: ''
+  id: (hrf) menumbuk kapur, sj permainan yg sangat disenangi oleh wanita di daerah Tunong
+  en: ''
+- aceh: tamsé - bak ujông jaroe
+  jawi: ''
+  id: laksana kapur di ujung telunjuk (yg mudah jatuh)
+  en: ''
+- aceh: teu -
+  jawi: ''
+  id: dilumuri kapur, dikapur
+  en: ''
+- aceh: geunapu
+  jawi: ''
+  id: cara atau hasil pengapuran
+  en: ''
 etymology: ''
 related_words:
+- alee
 - ranub
 dialect_notes: ''
-source: Kamus Aceh-Indonesia (Acehnese-Indonesian Dictionary), p. 217
+source: 'Kamus Aceh-Indonesia (extracted from pp.124-270 of the source edition, Acehnese section entries
+  cèm-unyèn through gutie/H). File: markdown.md supplied by the user. — p.217'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate reviewer.
+extraction_notes: Indonesian example translations are taken verbatim from the source. English meanings
+  and Jawi transliterations are AI-flagged as unverified and need human review. Jawi transliteration is
+  AI-generated, not from source — needs verification by a Jawi-literate reviewer.

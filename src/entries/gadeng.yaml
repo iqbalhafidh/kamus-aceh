@@ -1,34 +1,47 @@
 headword: gadeng
-jawi: غادڠ
+jawi: ''
 alt_spelling: []
 ipa: ''
 part_of_speech: n
 definitions:
-- meaning_id: "gading (gajah), berasal dr\n\n\n\n gading, berwarna gading: u -, - u"
+- meaning_id: gading (gajah), berasal dr gading, berwarna gading
   meaning_en: ''
-  examples: []
-- meaning_id: meu -, bergading, spt gading, berwarna gading
-  meaning_en: ''
-  examples: []
-- meaning_id: gajah nyan hana meu - lom, Gajah itu belum lagi bergading
-  meaning_en: whatever the condition may be
-  examples: []
-- meaning_id: ka meu - parohji, Paruh (burung itu) sudah berwarna gading
-  meaning_en: ''
-  examples: []
-- meaning_id: geunadeng, geugadeng, rusuk parahu
-  meaning_en: geunadeng, geugadeng, boat ribs
-  examples: []
-- meaning_id: geunadeng ceureupu, rusuk tengah terbesar yg berlubang di tengah tempat bertumpu tiang
-  meaning_en: geunadeng ceureupu, largest middle rib that is hollow in the middle where the pillar support is placed
-  examples: []
-- meaning_id: meungeunadeng, berusuk, berbentuk rusuk perahu
-  meaning_en: meungeunadeng, having ribs, shaped like boat ribs
-  examples: []
+examples:
+- aceh: u -, - u
+  jawi: ''
+  id: ''
+  en: ''
+- aceh: meu -
+  jawi: ''
+  id: bergading, spt gading, berwarna gading
+  en: ''
+- aceh: gajah nyan hana meu - lom
+  jawi: ''
+  id: Gajah itu belum lagi bergading
+  en: ''
+- aceh: ka meu - parohji
+  jawi: ''
+  id: Paruh (burung itu) sudah berwarna gading
+  en: ''
+- aceh: geunadeng
+  jawi: ''
+  id: geugadeng, rusuk parahu
+  en: ''
+- aceh: geunadeng ceureupu
+  jawi: ''
+  id: rusuk tengah terbesar yg berlubang di tengah tempat bertumpu tiang
+  en: ''
+- aceh: meungeunadeng
+  jawi: ''
+  id: berusuk, berbentuk rusuk perahu
+  en: ''
 etymology: ''
 related_words: []
 dialect_notes: ''
-source: Kamus Aceh-Indonesia (Acehnese-Indonesian Dictionary), pp. 205, 206
+source: 'Kamus Aceh-Indonesia (extracted from pp.124-270 of the source edition, Acehnese section entries
+  cèm-unyèn through gutie/H). File: markdown.md supplied by the user. — pp.205-206'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate reviewer.
+extraction_notes: Indonesian example translations are taken verbatim from the source. English meanings
+  and Jawi transliterations are AI-flagged as unverified and need human review. Jawi transliteration is
+  AI-generated, not from source — needs verification by a Jawi-literate reviewer.

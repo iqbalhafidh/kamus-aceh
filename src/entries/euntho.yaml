@@ -1,21 +1,28 @@
 headword: euntho
-jawi: اونثو
+jawi: ''
 alt_spelling: []
 ipa: ''
 part_of_speech: v
 definitions:
-- meaning_id: 'menggosok, menyeka: ta — gakiteu bak gléh bak batée, Gosoklah kaki Anda pada batu sampai bersih'
-  meaning_en: 'to rub, to wipe: ta — gakiteu bak gléh bak batée, Rub your feet on the stone until clean'
-  examples:
-  - aceh: meu
-    jawi: ''
-    id: melakukan penggosokan
-    en: to rub
+- meaning_id: menggosok, menyeka
+  meaning_en: ''
+examples:
+- aceh: ta - gakiteu bak gléh bak batée
+  jawi: ''
+  id: Go- soklah kaki Anda pada batu sam- pai bersih
+  en: ''
+- aceh: meu -
+  jawi: ''
+  id: melakukan penggosokan
+  en: ''
 etymology: ''
 related_words:
 - euntreut
 dialect_notes: ''
-source: Kamus Aceh-Indonesia (Acehnese-Indonesian Dictionary), p. 201
+source: 'Kamus Aceh-Indonesia (extracted from pp.124-270 of the source edition, Acehnese section entries
+  cèm-unyèn through gutie/H). File: markdown.md supplied by the user. — p.201'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate reviewer.
+extraction_notes: Indonesian example translations are taken verbatim from the source. English meanings
+  and Jawi transliterations are AI-flagged as unverified and need human review. Jawi transliteration is
+  AI-generated, not from source — needs verification by a Jawi-literate reviewer.

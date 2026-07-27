@@ -1,88 +1,56 @@
 headword: duboe
-jawi: دوبوئ
+jawi: ''
 alt_spelling: []
 ipa: ''
 part_of_speech: adv
 definitions:
 - meaning_id: kemudian, nanti kelak, setelah itu (diikuti kata *
-  meaning_en: then, later, after that (followed by *)
-  examples:
-  - aceh: nibak
-    jawi: ''
-    id: ''
-    en: ''
-  - aceh: '):'
-    jawi: ''
-    id: nyan
-    en: that
-  - aceh: —
-    jawi: ''
-    id: tapubuet*, itu hendaklah Anda kerjakan kemudian
-    en: ''
-  - aceh: lôn dilèe
-    jawi: ''
-    id: —
-    en: ''
-  - aceh: gata
-    jawi: ''
-    id: saya dahulu, Anda kemudian
-    en: ''
-  - aceh: meung hana taingat jeunoe
-    jawi: ''
-    id: —
-    en: ''
-  - aceh: meuhat sôsa
-    jawi: ''
-    id: jika Anda tidak memperhatikan sekarang, kelak pasti Anda akan mengalami kesusahan
-    en: If you don't pay attention now, you will surely experience hardship later
-  - aceh: bèk meunan lê
-    jawi: ''
-    id: janganlah Anda berbuat begitu lagi pd masa-masa mendatang
-    en: Don't you do that again in the future
-  - aceh: nibak nyan
-    jawi: ''
-    id: setelah itu
-    en: after that
-  - aceh: uroe
-    jawi: ''
-    id: hari kemudian
-    en: ''
-  - aceh: meu
-    jawi: ''
-    id: membelakangkan
-    en: ''
-  - aceh: pakon tameu
-    jawi: ''
-    id: ''
-    en: ''
-  - aceh: nibak gob laen
-    jawi: ''
-    id: mengapa Anda tertinggal oleh orang-orang lain?
-    en: Try to scratch, what does it look like?
-  - aceh: peu
-    jawi: ''
-    id: membelakangkan, menggeserkan sesuatu
-    en: to turn one's back on, to shift something
-  - aceh: pakon tapeu
-    jawi: ''
-    id: ''
-    en: ''
-  - aceh: narit lê gata?
-    jawi: ''
-    id: mengapa Anda berkata kemudian (dr orang-orang lain)?
-    en: ''
-  - aceh: Tuhan h'an geupeudilèe atawa geupeu
-    jawi: ''
-    id: ''
-    en: ''
-  - aceh: '''oh geukeume-'
-    jawi: ''
-    id: ung tueng nyaw'ong geutanyoe, Tuhan tidak akan mendahulukan atau membelakangkan jika ia hendak mengambil nyawa kita
-    en: ''
+  meaning_en: ''
+examples:
+- aceh: 'nibak): nyan - tapubuet*'
+  jawi: ''
+  id: itu hendaklah Anda kerjakan kemudian
+  en: ''
+- aceh: lôn dilèe, - gata
+  jawi: ''
+  id: saya dahulu, Anda kemudian
+  en: ''
+- aceh: meung hana taingat jeunoe, - meuhat sôsa
+  jawi: ''
+  id: jika Anda tidak memperhatikan sekarang, kelak pasti Anda akan mengalami kesusahan
+  en: ''
+- aceh: '- (-) bèk meunan lê'
+  jawi: ''
+  id: janganlah Anda berbuat begitu lagi pd masa-masa mendatang
+  en: ''
+- aceh: '- nibak nyan'
+  jawi: ''
+  id: setelah itu
+  en: ''
+- aceh: uroe -
+  jawi: ''
+  id: hari kemudian
+  en: ''
+- aceh: meu -
+  jawi: ''
+  id: membelakangkan
+  en: ''
+- aceh: pakon tameu - nibak gob laen, mengapa Anda tertinggal oleh orang-orang lain? peu -
+  jawi: ''
+  id: membelakangkan, menggeserkan sesuatu
+  en: ''
+- aceh: pakon tapeu - narit lê gata? mengapa Anda berkata kemudian (dr orang-orang lain)? Tuhan h'an geupeudilèe
+    atawa geupeu - 'oh geukeume- ung tueng nyaw'ong geutanyoe
+  jawi: ''
+  id: Tuhan tidak akan mendahulukan atau membelakangkan jika ia hendak mengambil nyawa kita
+  en: ''
 etymology: ''
 related_words: []
 dialect_notes: ''
-source: Kamus Aceh-Indonesia (Acehnese-Indonesian Dictionary), pp. 180, 181
+source: 'Kamus Aceh-Indonesia (extracted from pp.124-270 of the source edition, Acehnese section entries
+  cèm-unyèn through gutie/H). File: markdown.md supplied by the user. — pp.180-181'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: Some fields (English translations, Jawi) may be incomplete due to API rate limits during processing. Re-run the translation script to fill in missing fields. Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate reviewer.
+extraction_notes: Indonesian example translations are taken verbatim from the source. English meanings
+  and Jawi transliterations are AI-flagged as unverified and need human review. Jawi transliteration is
+  AI-generated, not from source — needs verification by a Jawi-literate reviewer.

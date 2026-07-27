@@ -1,57 +1,45 @@
 headword: dom
-jawi: دوم
+jawi: ''
 alt_spelling: []
 ipa: ''
 part_of_speech: v
 definitions:
 - meaning_id: bermalam
   meaning_en: ''
-  examples:
-  - aceh: geutanyoe pat ta
-    jawi: ''
-    id: ''
-    en: ''
-  - aceh: malam nyoe?
-    jawi: ''
-    id: dimanakah kita bermalam malam ini?
-    en: ''
-  - aceh: bêk tawoe, malam nyoe tabak kampe!
-    jawi: ''
-    id: jangan lah Anda pulang, malam ini Anda bermalam pd kami!
-    en: don't go home, stay with us tonight!
-  - aceh: di sinan kapai ji
-    jawi: ''
-    id: ''
-    en: ''
-  - aceh: dua malam
-    jawi: ''
-    id: disitu kapal berlabuh dua malam
-    en: ''
-  - aceh: padé
-    jawi: ''
-    id: bermalam pd suatu tempat di sawah utk menjaga tanaman padi
-    en: ''
-  - aceh: meu
-    jawi: ''
-    id: "=\n\n\n\n —"
-    en: ''
-  - aceh: uroe geumeujak, malam geu-meu
-    jawi: ''
-    id: Siang mereka berjalan, malam mereka bermalam
-    en: ''
-  - aceh: peu
-    jawi: ''
-    id: menyuruh bermalam
-    en: ''
-  - aceh: bèk tapeu — aneuk lôn di rumoh gata
-    jawi: ''
-    id: Janganlah Anda membiarkan anak saya bermalam di rumah Anda
-    en: Do not let my child stay overnight at your house
+examples:
+- aceh: geutanyoe pat ta - malam nyoe? dimanakah kita bermalam malam ini? bêk tawoe, malam nyoe tabak
+    kampe! jangan lah Anda pulang, malam ini Anda bermalam pd kami! di sinan kapai ji - dua malam
+  jawi: ''
+  id: disitu kapal berlabuh dua malam
+  en: ''
+- aceh: '- padé'
+  jawi: ''
+  id: bermalam pd suatu tempat di sawah utk menjaga tanaman padi
+  en: ''
+- aceh: meu - = -
+  jawi: ''
+  id: ''
+  en: ''
+- aceh: uroe geumeujak, malam geu-meu-
+  jawi: ''
+  id: Siang mereka berjalan, malam mereka bermalam
+  en: ''
+- aceh: peu-
+  jawi: ''
+  id: menyuruh bermalam
+  en: ''
+- aceh: bèk tapeu - aneuk lôn di rumoh gata
+  jawi: ''
+  id: Janganlah Anda membiarkan anak saya bermalam di rumah Anda
+  en: ''
 etymology: ''
 related_words:
 - du-dom
 dialect_notes: ''
-source: Kamus Aceh-Indonesia (Acehnese-Indonesian Dictionary), pp. 174, 175
+source: 'Kamus Aceh-Indonesia (extracted from pp.124-270 of the source edition, Acehnese section entries
+  cèm-unyèn through gutie/H). File: markdown.md supplied by the user. — pp.174-175'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate reviewer. Some fields (English translations, Jawi) may be incomplete due to API rate limits during processing. Re-run the translation script to fill in missing fields.
+extraction_notes: Indonesian example translations are taken verbatim from the source. English meanings
+  and Jawi transliterations are AI-flagged as unverified and need human review. Jawi transliteration is
+  AI-generated, not from source — needs verification by a Jawi-literate reviewer.

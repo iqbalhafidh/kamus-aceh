@@ -1,38 +1,44 @@
 headword: deumpêk
-jawi: دومپيک
+jawi: ''
 alt_spelling: []
 ipa: ''
 part_of_speech: n
 definitions:
 - meaning_id: tempik, sorak
-  meaning_en: tempik, cheer
-  examples:
-  - aceh: 'bersorak keras-keras: jisurak ngon ji'
-    jawi: ''
-    id: '''oh meu''u-u, mereka bertempik sorak sehingga gemuruh kedengarannya'
-    en: oh meu'u-u, they shouted loudly so that it sounded like a roar
-  - aceh: pakon ta
-    jawi: ''
-    id: suteu meunan? Mengapa Anda bersorak dng suara yg demikian keras? deumeumpêk, sedang bersorak
-    en: ''
-  - aceh: soe — bunoe di blang? siapa yg berteriak keras-keras tadi di sawah? meu
-    jawi: ''
-    id: menempik, berteriak keras-keras
-    en: ''
-  - aceh: bèk tamarit meu —! janganlah Anda berkata-kata dng suara yg keras! pakon gata su meu —
-    jawi: ''
-    id: '? mengapa suara Anda spt orang yg berteriak-teriak'
-    en: '? why is your voice like someone who is shouting'
-  - aceh: peu
-    jawi: ''
-    id: droe, sengaja bersorak keras-keras
-    en: droe, deliberately shouting loudly
+  meaning_en: ''
+- meaning_id: bersorak keras-keras
+  meaning_en: ''
+examples:
+- aceh: jisurak ngon ji - 'oh meu'u-u
+  jawi: ''
+  id: mereka bertempik sorak sehingga gemuruh kedengarannya
+  en: ''
+- aceh: pakon ta - suteu meunan? Mengapa Anda bersorak dng suara yg demikian keras? deumeumpêk
+  jawi: ''
+  id: sedang bersorak
+  en: ''
+- aceh: soe - bunoe di blang? siapa yg berteriak keras-keras tadi di sawah? meu -
+  jawi: ''
+  id: menempik, berteriak keras-keras
+  en: ''
+- aceh: bèk tamarit meu -! janganlah Anda berkata-kata dng suara yg keras! pakon gata su meu - -? mengapa
+    suara Anda spt orang yg berteriak-teriak
+  jawi: ''
+  id: ''
+  en: ''
+- aceh: peu - droe
+  jawi: ''
+  id: sengaja bersorak keras-keras., surak
+  en: ''
 etymology: ''
 related_words:
 - klik
 - surak
 dialect_notes: ''
-source: Kamus Aceh-Indonesia (Acehnese-Indonesian Dictionary), p. 166
+source: 'Kamus Aceh-Indonesia (extracted from pp.124-270 of the source edition, Acehnese section entries
+  cèm-unyèn through gutie/H). File: markdown.md supplied by the user. — p.166'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate reviewer.
+extraction_notes: Indonesian example translations are taken verbatim from the source. English meanings
+  and Jawi transliterations are AI-flagged as unverified and need human review. Jawi transliteration is
+  AI-generated, not from source — needs verification by a Jawi-literate reviewer.

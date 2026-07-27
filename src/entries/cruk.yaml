@@ -1,21 +1,27 @@
 headword: cruk
-jawi: چروك
+jawi: ''
 alt_spelling: []
 ipa: ''
 part_of_speech: v
 definitions:
-- meaning_id: 'meluruk, menggugurkan: ta — ôn murông, lurutlah daun kelor. meu —, dilurut'
+- meaning_id: meluruk, menggugurkan
   meaning_en: ''
-  examples:
-  - aceh: "bek meunan meu —, habèh jipo siôn saho, Jangan dilurut begitu, habis beter-bangan ke mana-mana\n  cu v meruncingkan, membuat lebih tajam: ta"
-    jawi: ''
-    id: "kayèe nyan keu leum-bêng, runcingkan kayu itu utk tombak → cui\n  cu sj pohon kayunya digunakan utk sarung senjata tajam\n  cu"
-    en: that wood is for a spear → sharpen that wood for a spear
+examples:
+- aceh: ta - ôn murông
+  jawi: ''
+  id: lurutlah daun ke- lor. meu —, dilurut
+  en: ''
+- aceh: bek meunan meu -
+  jawi: ''
+  id: habèh jipo siôn saho, Jangan dilurut begitu, habis beter-bangan ke mana-mana
+  en: ''
 etymology: ''
-related_words:
-- cut
+related_words: []
 dialect_notes: ''
-source: Kamus Aceh-Indonesia (Acehnese-Indonesian Dictionary), p. 143
+source: 'Kamus Aceh-Indonesia (extracted from pp.124-270 of the source edition, Acehnese section entries
+  cèm-unyèn through gutie/H). File: markdown.md supplied by the user. — p.143'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate reviewer. Some fields (English translations, Jawi) may be incomplete due to API rate limits during processing. Re-run the translation script to fill in missing fields.
+extraction_notes: Indonesian example translations are taken verbatim from the source. English meanings
+  and Jawi transliterations are AI-flagged as unverified and need human review. Jawi transliteration is
+  AI-generated, not from source — needs verification by a Jawi-literate reviewer.

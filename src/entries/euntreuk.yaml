@@ -1,5 +1,5 @@
 headword: euntreuk
-jawi: اؤيتروق
+jawi: ''
 alt_spelling:
 - eunteuk
 - treuk
@@ -7,57 +7,51 @@ alt_spelling:
 ipa: ''
 part_of_speech: a
 definitions:
-- meaning_id: 'nanti, lagi: — lôn teuka, nanti saya datang'
-  meaning_en: 'later, again: — lôn teuka, later I''ll come'
-  examples:
-  - aceh: atra nyan bèk tapeujôk bak jih, — hana jipeut (r)ôk, Jangan Anda serahkan benda itu kepadanya, nanti ia tidak akan menyampaikannya (kpd yg berhak)
-    jawi: ''
-    id: malam, nanti malam, malam ini
-    en: ''
-  - aceh: siat
-    jawi: ''
-    id: sebentar lagi
-    en: ''
-  - aceh: bacut
-    jawi: ''
-    id: sedikit lagi
-    en: ''
-  - aceh: tinggai siplôh
-    jawi: ''
-    id: tinggal sepuluh lagi
-    en: only ten left
-  - aceh: sigo aleuhat
-    jawi: ''
-    id: seminggu lagi
-    en: In a week's time
-  - aceh: an ... treuk
-    jawi: ''
-    id: → an
-    en: → an
-  - aceh: seun t(r) euk
-    jawi: ''
-    id: → seum
-    en: ''
-  - aceh: meu
-    jawi: ''
-    id: —, selalu berkata nanti = selalu menundanunda atau minta ditunda
-    en: ''
-  - aceh: gata
-    jawi: ''
-    id: ''
-    en: ''
-  - aceh: sabé tameutanggôh meu
-    jawi: ''
-    id: —, Anda selalu minta ditunda-tunda
-    en: ''
-  - aceh: peu
-    jawi: ''
-    id: penangguhan
-    en: ''
+- meaning_id: 'nan- ti, lagi: — lôn teuka, nanti saya datang'
+  meaning_en: ''
+- meaning_id: atra nyan bèk tapeujôk bak jih, — hana jipeut (r)ôk, Ja- ngan Anda serahkan benda itu ke-
+    padanya, nanti ia tidak akan menyampaikannya (kpd yg ber- hak). — malam, nanti malam, malam ini
+  meaning_en: ''
+- meaning_id: siat —, sebentar lagi
+  meaning_en: ''
+- meaning_id: bacut —, sedikit lagi
+  meaning_en: ''
+- meaning_id: tinggai siplôh —, tinggal sepuluh lagi
+  meaning_en: ''
+examples:
+- aceh: sigo aleuhat -
+  jawi: ''
+  id: seminggu lagi
+  en: ''
+- aceh: an ... treuk
+  jawi: ''
+  id: ''
+  en: ''
+- aceh: seun t(r) euk
+  jawi: ''
+  id: ''
+  en: ''
+- aceh: meu - -
+  jawi: ''
+  id: selalu ber- kata nanti = selalu menunda- nunda atau minta ditunda
+  en: ''
+- aceh: gata sabé tameutanggôh meu - -
+  jawi: ''
+  id: Anda selalu minta ditunda-tunda
+  en: ''
+- aceh: peu -
+  jawi: ''
+  id: penangguhan
+  en: ''
 etymology: ''
-related_words: []
+related_words:
+- an
+- seum
 dialect_notes: ''
-source: Kamus Aceh-Indonesia (Acehnese-Indonesian Dictionary), pp. 201, 202
+source: 'Kamus Aceh-Indonesia (extracted from pp.124-270 of the source edition, Acehnese section entries
+  cèm-unyèn through gutie/H). File: markdown.md supplied by the user. — pp.201-202'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: 'Source lists variant spellings: eunteuk, treuk, teuk. Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate reviewer.'
+extraction_notes: Indonesian example translations are taken verbatim from the source. English meanings
+  and Jawi transliterations are AI-flagged as unverified and need human review. Jawi transliteration is
+  AI-generated, not from source — needs verification by a Jawi-literate reviewer.

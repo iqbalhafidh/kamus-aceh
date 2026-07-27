@@ -1,19 +1,72 @@
 headword: geutah
 jawi: ''
-alt_spelling: []
+alt_spelling:
+- n
+- 'getah:'
 ipa: ''
 part_of_speech: ''
 definitions:
-- meaning_id: karet
-  meaning_en: rubber
-- meaning_id: getah
-  meaning_en: sap
-examples: []
+- meaning_id: –
+  meaning_en: ''
+examples:
+- aceh: halam getah pohon *balam*
+  jawi: ''
+  id: ''
+  en: ''
+- aceh: – rambōng
+  jawi: ''
+  id: getah pohon rambung
+  en: ''
+- aceh: – manyam
+  jawi: ''
+  id: getah sj pohon karet
+  en: ''
+- aceh: – dadēh
+  jawi: ''
+  id: lem yg terbuat dr dadih kerbau
+  en: ''
+- aceh: – surat
+  jawi: ''
+  id: lem surat
+  en: ''
+- aceh: tak –
+  jawi: ''
+  id: menakik pohon karet utk memperoleh getahnya
+  en: ''
+- aceh: theun –
+  jawi: ''
+  id: menangkap burung dng getah
+  en: ''
+- aceh: bajēe –
+  jawi: ''
+  id: ''
+  en: ''
+- aceh: ka lheueh ta – surat nyan?* Sudahkah Anda mengelem surat itu? – mata*
+  jawi: ''
+  id: merekatkan mata, (ki) menutup mata rapat-rapat
+  en: ''
+- aceh: beungoh neu – seupōt neupuwoe, neujōk keu putroe Bunsumuda
+  jawi: ''
+  id: Pagi-pagi ia menangkap burung, petang hari ia membawanya pulang dng menyerahkan kpd putri Bunsumuda
+  en: ''
+- aceh: meu –
+  jawi: ''
+  id: bergetah, menangkap burung dng getah
+  en: ''
+- aceh: ka jijak meu –
+  jawi: ''
+  id: Mereka sudah menangkap burung dng getah
+  en: ''
 etymology: ''
-related_words: []
+related_words:
+- '**bajē'
+- lak
 dialect_notes: ''
-source: 'Daud, Bukhari & Mark Durie. Kamus Basa Acèh = Kamus Bahasa Aceh: Acehnese–Indonesian–English Thesaurus.
-  Pacific Linguistics C-151, 1999, p. 92; p. 99.'
-date_added: '2026-07-20'
+source: 'Kamus Aceh-Indonesia (extracted from pp.124-270 of the source edition, Acehnese section entries
+  cèm-unyèn through gutie/H). File: markdown.md supplied by the user. — p.236'
+date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: ''
+extraction_notes: Part of speech not explicitly marked in source. Indonesian example translations are
+  taken verbatim from the source. English meanings and Jawi transliterations are AI-flagged as unverified
+  and need human review. Jawi transliteration is AI-generated, not from source — needs verification by
+  a Jawi-literate reviewer.

@@ -1,40 +1,27 @@
 headword: damai
-jawi: دماي
+jawi: ''
 alt_spelling: []
 ipa: ''
 part_of_speech: a
 definitions:
 - meaning_id: melarat, papa, sangat miskin (thd orang-orang tunanetra)
   meaning_en: ''
-  examples:
-  - aceh: ureueng nyan
-    jawi: ''
-    id: ''
-    en: ''
-  - aceh: that
-    jawi: ''
-    id: orang itu sangat melarat
-    en: ''
-- meaning_id: Bd *
-  meaning_en: ''
-  examples:
-  - aceh: dana, la'êh
-    jawi: ''
-    id: ''
-    en: ''
-  - aceh: damak
-    jawi: ''
-    id: ''
-    en: ''
-  - aceh: ''
-    jawi: ''
-    id: n* damak, panah yg ditiup dng sumpitan utk menembak burung
-    en: ''
+examples:
+- aceh: ureueng nyan - that
+  jawi: ''
+  id: orang itu sangat melarat
+  en: ''
 etymology: ''
 related_words:
 - sumpit
+- '*dana'
+- la'êh damak n damak
+- panah yg ditiup dng sumpitan utk menembak burung → sumpit*
 dialect_notes: ''
-source: Kamus Aceh-Indonesia (Acehnese-Indonesian Dictionary), p. 156
+source: 'Kamus Aceh-Indonesia (extracted from pp.124-270 of the source edition, Acehnese section entries
+  cèm-unyèn through gutie/H). File: markdown.md supplied by the user. — p.156'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate reviewer. Some fields (English translations, Jawi) may be incomplete due to API rate limits during processing. Re-run the translation script to fill in missing fields.
+extraction_notes: Indonesian example translations are taken verbatim from the source. English meanings
+  and Jawi transliterations are AI-flagged as unverified and need human review. Jawi transliteration is
+  AI-generated, not from source — needs verification by a Jawi-literate reviewer.

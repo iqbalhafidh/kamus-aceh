@@ -1,33 +1,41 @@
 headword: grogajoe
-jawi: ݢروݢاجو
+jawi: ''
 alt_spelling: []
 ipa: ''
 part_of_speech: ''
 definitions:
-- meaning_id: '1 grôh, groih v menyetrika, menggosok pakaian dng setrika, menggosok licin-licin: ji — ija. Ia menyetrika kain'
+- meaning_id: 'gogajoe 1 grôh, groih v menyetrika, menggosok pakaian dng setrika, menggosok licin-licin:
+    ji — ija. Ia menyetrika kain'
   meaning_en: ''
-  examples:
-  - aceh: meu
-    jawi: ''
-    id: disetrika, digosok licin-licin
-    en: ironed, polished smooth
-- meaning_id: "geuneugrôh, melakukan pekerjaan menyetrika, sedang melakukan pekerjaan menye2 groh\n grue\n trika"
+- meaning_id: meu —, disetrika, digosok licin-licin
   meaning_en: ''
-  examples:
-  - aceh: geuneugrôh
-    jawi: ''
-    id: ''
-    en: ''
-  - aceh: neugrôh
-    jawi: ''
-    id: cara menyetrika, hasil menyetrika
-    en: how to iron, ironing results
+- meaning_id: geuneugrôh, melakukan pekerjaan menyetrika, sedang melakukan pekerjaan menye- 2 groh grue
+    trika
+  meaning_en: ''
+examples:
+- aceh: 'geuneugrôh, neugrôh, cara menyetrika, hasil menyetrika, *grôih a hebat, agung: - that, ''oh jingui
+    bajèe nyan*'
+  jawi: ''
+  id: Ia tampak hebat sekali jika mengenakan baju itu
+  en: ''
+- aceh: rumoh nyan - that
+  jawi: ''
+  id: Tumah itu hebat sekali buatannya
+  en: ''
 etymology: ''
 related_words:
-- gogajoe
-- pacih
+- pacih 2 **grôh**
+- '**grôih** *a* hebat'
+- 'agung: — *that*'
+- '*''oh jingui bajèe nyan*'
+- Ia tampak hebat sekali jika mengenakan baju itu. *rumoh nyan* — *that*
+- Tumah itu hebat sekali buatannya
 dialect_notes: ''
-source: Kamus Aceh-Indonesia (Acehnese-Indonesian Dictionary), pp. 255, 256
+source: 'Kamus Aceh-Indonesia (extracted from pp.124-270 of the source edition, Acehnese section entries
+  cèm-unyèn through gutie/H). File: markdown.md supplied by the user. — pp.255-256'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: Cross-reference entry pointing to 'gogajoe'. Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate reviewer.
+extraction_notes: Part of speech not explicitly marked in source. Indonesian example translations are
+  taken verbatim from the source. English meanings and Jawi transliterations are AI-flagged as unverified
+  and need human review. Jawi transliteration is AI-generated, not from source — needs verification by
+  a Jawi-literate reviewer.

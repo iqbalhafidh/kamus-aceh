@@ -1,5 +1,5 @@
-headword: ceue
-jawi: جويو
+headword: 2ceue
+jawi: ''
 alt_spelling:
 - cheue
 ipa: ''
@@ -7,31 +7,27 @@ part_of_speech: n
 definitions:
 - meaning_id: bayang-bayang, perlindungan
   meaning_en: ''
-  examples:
-  - aceh: bak nyoe rampak that, gêt that
-    jawi: ''
-    id: batang ini rindang sekali, sangat bagus tempat berlindung
-    en: way of making an arrest
-  - aceh: tapîôh lam
-    jawi: ''
-    id: berteduhlah di tempat terlindung
-    en: ''
-  - aceh: meu
-    jawi: ''
-    id: berteduh di tempat terlindung
-    en: ''
-  - aceh: tapeu
-    jawi: ''
-    id: droe yub bak kayêe nyan, mari kita berteduh di tempat yg terlindung
-    en: droe yub bak kayêe nyan, let's take shelter in a protected place
-  - aceh: peu
-    jawi: ''
-    id: melindungi
-    en: to protect
+- meaning_id: bak nyoe rampak that, gêt that —, batang ini rindang sekali, sangat bagus tempat berlindung
+  meaning_en: ''
+- meaning_id: tapîôh lam —, berteduhlah di tempat terlindung
+  meaning_en: ''
+- meaning_id: meu —, berteduh di tempat terlindung
+  meaning_en: ''
+- meaning_id: tapeu — droe yub bak kayêe nyan, mari kita berteduh di tem- pat yg terlindung
+  meaning_en: ''
+examples:
+- aceh: peu -
+  jawi: ''
+  id: melindungi
+  en: ''
 etymology: ''
 related_words: []
 dialect_notes: ''
-source: Kamus Aceh-Indonesia (Acehnese-Indonesian Dictionary), pp. 124, 125
+source: 'Kamus Aceh-Indonesia (extracted from pp.124-270 of the source edition, Acehnese section entries
+  cèm-unyèn through gutie/H). File: markdown.md supplied by the user. — pp.124-125'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: 'Entry numbered as ''2'' in source. Source lists variant spellings: cheue. Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate reviewer. Some fields (English translations, Jawi) may be incomplete due to API rate limits during processing. Re-run the translation script to fill in missing fields.'
+extraction_notes: Homonym 2 of the headword '2ceue'. Indonesian example translations are taken verbatim
+  from the source. English meanings and Jawi transliterations are AI-flagged as unverified and need human
+  review. Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate
+  reviewer.

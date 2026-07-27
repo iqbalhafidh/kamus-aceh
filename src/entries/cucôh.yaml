@@ -1,14 +1,36 @@
 headword: cucôh
-jawi: چوسوڠ
+jawi: ''
 alt_spelling: []
 ipa: ''
 part_of_speech: ''
-definitions: []
+definitions:
+- meaning_id: côh cucok
+  meaning_en: ''
+examples:
+- aceh: 'n benda runcing yg tajam utk menusuk, menyemat, menusuk, mencotok: - ôk'
+  jawi: ''
+  id: tusuk sanggul
+  en: ''
+- aceh: na tom jaroe - mata? Pernakah jari mencucuk mata sendiri? ji - mata lé' manok
+  jawi: ''
+  id: dicotok mata oleh ayam
+  en: ''
+- aceh: meu - (teu -)
+  jawi: ''
+  id: dico- tok
+  en: ''
+- aceh: ceunucok
+  jawi: ''
+  id: alat utk menusuk
+  en: ''
 etymology: ''
-related_words:
-- côh
+related_words: []
 dialect_notes: ''
-source: Kamus Aceh-Indonesia (Acehnese-Indonesian Dictionary), p. 145
+source: 'Kamus Aceh-Indonesia (extracted from pp.124-270 of the source edition, Acehnese section entries
+  cèm-unyèn through gutie/H). File: markdown.md supplied by the user. — p.145'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: Cross-reference entry pointing to 'côh'. Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate reviewer.
+extraction_notes: Part of speech not explicitly marked in source. Indonesian example translations are
+  taken verbatim from the source. English meanings and Jawi transliterations are AI-flagged as unverified
+  and need human review. Jawi transliteration is AI-generated, not from source — needs verification by
+  a Jawi-literate reviewer.

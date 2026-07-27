@@ -1,25 +1,28 @@
 headword: deuba
-jawi: دئوبا
+jawi: ''
 alt_spelling: []
 ipa: ''
 part_of_speech: n
 definitions:
-- meaning_id: 'debar: meu — —, berdebardebar'
-  meaning_en: great war
-  examples:
-  - aceh: "até lôn meu — — that, Hati saya berdebar-debar sekali → bhôk\n  deubu n debu (dl hik): meu"
-    jawi: ''
-    id: berdebu, (ki) memberi bantuan terutama dl mengadakan suatu keramaian
-    en: ''
-  - aceh: "uroe malam lôn meu — bak gòbnyan, siang malam saya membantunya → leubu 1 dan bd dabèe\n  deubu n bunyi terbang burung secara tiba-tiba: meu"
-    jawi: ''
-    id: memperdengarkan bunyi deubu
-    en: ''
+- meaning_id: debar
+  meaning_en: ''
+examples:
+- aceh: meu - -
+  jawi: ''
+  id: berdebar- debar
+  en: ''
+- aceh: até lôn meu - - that
+  jawi: ''
+  id: Hati saya berdebar-debar sekali
+  en: ''
 etymology: ''
 related_words:
-- bhu
+- bhôk
 dialect_notes: ''
-source: Kamus Aceh-Indonesia (Acehnese-Indonesian Dictionary), p. 164
+source: 'Kamus Aceh-Indonesia (extracted from pp.124-270 of the source edition, Acehnese section entries
+  cèm-unyèn through gutie/H). File: markdown.md supplied by the user. — p.164'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate reviewer. Some fields (English translations, Jawi) may be incomplete due to API rate limits during processing. Re-run the translation script to fill in missing fields.
+extraction_notes: Indonesian example translations are taken verbatim from the source. English meanings
+  and Jawi transliterations are AI-flagged as unverified and need human review. Jawi transliteration is
+  AI-generated, not from source — needs verification by a Jawi-literate reviewer.

@@ -1,24 +1,27 @@
 headword: guroe
-jawi: گورو
+jawi: ''
 alt_spelling: []
 ipa: ''
 part_of_speech: n
 definitions:
 - meaning_id: guci tanah
-  meaning_en: '* or something similar to that'
-  examples:
-  - aceh: '''oh jikueh tanoh, jiteumèe lè saboh-meuasoe dina'
-    jawi: ''
-    id: Ketika ia menggali tanah, ditemukannya sebuah guci tanah berisi di dinar
-    en: ''
-  - aceh: tikôih jiculok iku lam
-    jawi: ''
-    id: cuka, Tikus mencolok ekornya dl guci tanah yg berisi cuka
-    en: ''
+  meaning_en: ''
+examples:
+- aceh: '''oh jikueh tanoh, jiteumèe lè saboh-meuasoe dina'
+  jawi: ''
+  id: Ketika ia menggali tanah, ditemukannya sebuah guci tanah berisi di dinar
+  en: ''
+- aceh: tikôih jiculok iku lam - cuka
+  jawi: ''
+  id: Tikus mencolok ekornya dl guci tanah yg berisi cuka
+  en: ''
 etymology: ''
 related_words: []
 dialect_notes: ''
-source: Kamus Aceh-Indonesia (Acehnese-Indonesian Dictionary), p. 266
+source: 'Kamus Aceh-Indonesia (extracted from pp.124-270 of the source edition, Acehnese section entries
+  cèm-unyèn through gutie/H). File: markdown.md supplied by the user. — p.266'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate reviewer.
+extraction_notes: Indonesian example translations are taken verbatim from the source. English meanings
+  and Jawi transliterations are AI-flagged as unverified and need human review. Jawi transliteration is
+  AI-generated, not from source — needs verification by a Jawi-literate reviewer.

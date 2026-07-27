@@ -1,14 +1,38 @@
 headword: dèah
-jawi: ديه
+jawi: ''
 alt_spelling: []
 ipa: ''
 part_of_speech: ''
 definitions: []
+examples:
+- aceh: 'déah dèbdeb v menyembah (dikatakan kpd anak-anak kecil, dl hik): beuta - lê bak teuotji'
+  jawi: ''
+  id: cepat-cepatlah Anda menyembah lututnya
+  en: ''
+- aceh: 'meu -, melakukan perbuatan menyembah, meu - v berjalan perlahan-lahan, pergi ke mana-mana, berkelana:
+    siuroe suntôk hana teu-duek di rumoh, dawôk jimeu -'
+  jawi: ''
+  id: sehari-harian ia tidak berada di rumah, ia hanya berkelana saja
+  en: ''
+- aceh: untông cut ma peulara, rayek bacut leup-ih meu -
+  jawi: ''
+  id: selagi kecil ibu memeliharamu, setelah de- wasa sedikit engkau pergi ke mana-mana (sajak kidung)
+  en: ''
 etymology: ''
 related_words:
-- déah
+- '*seumah* dédé'
+- meu — *v* berjalan perlahan-lahan
+- pergi ke mana-mana
+- 'berkelana: *siuroe suntôk hana teu-duek di rumoh'
+- dawôk jimeu* —
+- sehari-harian ia tidak berada di rumah
+- ia hanya berkelana saja
 dialect_notes: ''
-source: Kamus Aceh-Indonesia (Acehnese-Indonesian Dictionary), p. 162
+source: 'Kamus Aceh-Indonesia (extracted from pp.124-270 of the source edition, Acehnese section entries
+  cèm-unyèn through gutie/H). File: markdown.md supplied by the user. — pp.162-163'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: Cross-reference entry pointing to 'déah'. Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate reviewer.
+extraction_notes: Part of speech not explicitly marked in source. Definition may be embedded in examples
+  or incomplete in source. Indonesian example translations are taken verbatim from the source. English
+  meanings and Jawi transliterations are AI-flagged as unverified and need human review. Jawi transliteration
+  is AI-generated, not from source — needs verification by a Jawi-literate reviewer.

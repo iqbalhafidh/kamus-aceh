@@ -1,33 +1,33 @@
 headword: gura
-jawi: ݢورا
+jawi: ''
 alt_spelling: []
 ipa: ''
 part_of_speech: a
 definitions:
-- meaning_id: 'riang, bersemangat, meriah, ri-uh: —'
-  meaning_en: 'cheerful, enthusiastic, lively, ri-uh: —'
-  examples:
-  - aceh: that
-    jawi: ''
-    id: meriah sekali (ump keramaian)
-    en: very lively (ump keramaian)
-  - aceh: bak
-    jawi: ''
-    id: '! Gembirakanlah!'
-    en: '! Rejoice!'
-  - aceh: meu
-    jawi: ''
-    id: bergembira
-    en: rejoice
-  - aceh: peu
-    jawi: ''
-    id: membiarkan
-    en: ''
+- meaning_id: riang, bersemangat, meriah, ri-uh
+  meaning_en: ''
+examples:
+- aceh: that
+  jawi: ''
+  id: meriah sekali (ump keramaian)
+  en: ''
+- aceh: bak -! Gembirakanlah! meu -
+  jawi: ''
+  id: bergembira
+  en: ''
+- aceh: peu -
+  jawi: ''
+  id: membiarkan
+  en: ''
 etymology: ''
 related_words:
-- gunjak*. Bd *gurak
+- '*gunjak*. Bd *gurak*'
+- gurak
 dialect_notes: ''
-source: Kamus Aceh-Indonesia (Acehnese-Indonesian Dictionary), p. 265
+source: 'Kamus Aceh-Indonesia (extracted from pp.124-270 of the source edition, Acehnese section entries
+  cèm-unyèn through gutie/H). File: markdown.md supplied by the user. — p.265'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate reviewer. Some fields (English translations, Jawi) may be incomplete due to API rate limits during processing. Re-run the translation script to fill in missing fields.
+extraction_notes: Indonesian example translations are taken verbatim from the source. English meanings
+  and Jawi transliterations are AI-flagged as unverified and need human review. Jawi transliteration is
+  AI-generated, not from source — needs verification by a Jawi-literate reviewer.

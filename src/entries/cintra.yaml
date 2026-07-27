@@ -1,28 +1,31 @@
 headword: cintra
-jawi: چينترا
+jawi: ''
 alt_spelling: []
 ipa: ''
-part_of_speech: n
+part_of_speech: Skr n
 definitions:
-- meaning_id: 'jentera, mesin, pesawat, sangkar burung: —'
-  meaning_en: machinery, machine, aircraft, birdcage
-  examples:
-  - aceh: muka
-    jawi: ''
-    id: sj sangkar tertutup utk menangkap burung
-    en: cage for catching birds
-  - aceh: pintō meu
-    jawi: ''
-    id: pintu berjentera
-    en: ''
-  - aceh: subang meu
-    jawi: ''
-    id: subang berjentera
-    en: mechanical earrings
-etymology: Sanskrit
+- meaning_id: jentera, mesin, pesawat, sangkar burung
+  meaning_en: ''
+examples:
+- aceh: muka
+  jawi: ''
+  id: sj sangkar tertutup utk menangkap burung
+  en: ''
+- aceh: pintō meu -
+  jawi: ''
+  id: pintu berjentera
+  en: ''
+- aceh: subang meu -
+  jawi: ''
+  id: subang berjentera
+  en: ''
+etymology: ''
 related_words: []
 dialect_notes: ''
-source: Kamus Aceh-Indonesia (Acehnese-Indonesian Dictionary), p. 137
+source: 'Kamus Aceh-Indonesia (extracted from pp.124-270 of the source edition, Acehnese section entries
+  cèm-unyèn through gutie/H). File: markdown.md supplied by the user. — p.137'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: 'Etymology: Sanskrit. Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate reviewer.'
+extraction_notes: Indonesian example translations are taken verbatim from the source. English meanings
+  and Jawi transliterations are AI-flagged as unverified and need human review. Jawi transliteration is
+  AI-generated, not from source — needs verification by a Jawi-literate reviewer.

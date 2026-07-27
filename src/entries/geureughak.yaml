@@ -1,188 +1,78 @@
 headword: geureughak
-jawi: ݢروحق
+jawi: ''
 alt_spelling: []
 ipa: ''
 part_of_speech: ''
 definitions:
-- meaning_id: geureuh'a mengeluarkan suara "h'a-h'a" krn keheranan, mengangankan mulut krn keheranan
-  meaning_en: geureuh'a making a "h'a-h'a" sound out of surprise, opening mouth out of surprise
-  examples:
-  - aceh: peu
-    jawi: ''
-    id: –
-    en: ), sj white lice that attach to cloth
-  - aceh: droe
-    jawi: ''
-    id: (
-    en: ''
-  - aceh: peu
-    jawi: ''
-    id: –
-    en: ), sj white lice that attach to cloth
-  - aceh: babah
-    jawi: ''
-    id: ), melakukan geureuh'a dng sengaja, membuat seolah-olah heran
-    en: ''
-  - aceh: teu
-    jawi: ''
-    id: –
-    en: ), sj white lice that attach to cloth
-  - aceh: babah
-    jawi: ''
-    id: (
-    en: ''
-  - aceh: teu
-    jawi: ''
-    id: –
-    en: ), sj white lice that attach to cloth
-  - aceh: gigoe
-    jawi: ''
-    id: ), berdiri atau duduk dng mulut ternganga krn keheranan
-    en: ''
-- meaning_id: "Bd geureuh'êm, geureuh'êng, geureuh'o\n geureuh'êm, greuh'êm mengeluarkan suara 'êh-h'êm, mendehem, membatuk kecil (al utk menyatakan kehadiran)"
+- meaning_id: papak geureuh'a mengeluarkan suara "h'a-h'a" krn keheranan, mengangankan mulut krn keheranan
   meaning_en: ''
-  examples:
-  - aceh: jêh lintô ka jiwoe, ka ji
-    jawi: ''
-    id: –
-    en: ), sj white lice that attach to cloth
-  - aceh: taplueng reujang!
-    jawi: ''
-    id: Lihat, pengantin laki-laki sudah pulang ke rumah, ia sudah mendehem, larilah segera!
-    en: ''
-  - aceh: meu
-    jawi: ''
-    id: –, mendehem
-    en: ''
-  - aceh: soe meu
-    jawi: ''
-    id: –
-    en: ), sj white lice that attach to cloth
-  - aceh: di yup?
-    jawi: ''
-    id: Siapa mendehem di bawah (rumah)?
-    en: ''
-  - aceh: peu
-    jawi: ''
-    id: –, menyuruh mendehem (upm seorang anak yg tersedak)
-    en: ''
-  - aceh: peu
-    jawi: ''
-    id: –
-    en: ), sj white lice that attach to cloth
-  - aceh: droe
-    jawi: ''
-    id: mendehem dng sengaja
-    en: ''
-- meaning_id: Bd geureuh'a, geureuhêng, geureuh'o geureuhêng, geuhêng v menyeringai
-  meaning_en: to smile
-  examples:
-  - aceh: ji
-    jawi: ''
-    id: –
-    en: ), sj white lice that attach to cloth
-  - aceh: lagêe ulêe kamêng teutôt
-    jawi: ''
-    id: Ia menyeringai spt kepala kambing terbakar (pb), tertawa menyeringai
-    en: arrow
-  - aceh: peu
-    jawi: ''
-    id: –
-    en: ), sj white lice that attach to cloth
-  - aceh: droe
-    jawi: ''
-    id: ''
-    en: ''
-  - aceh: peu
-    jawi: ''
-    id: –
-    en: ), sj white lice that attach to cloth
-  - aceh: babah
-    jawi: ''
-    id: dng sengaja tertawa menyeringai
-    en: ''
-  - aceh: teu
-    jawi: ''
-    id: –, (
-    en: ''
-  - aceh: babah, gigoe
-    jawi: ''
-    id: ), tertawa menyeringai → hêng
-    en: ''
-- meaning_id: "Bd geureuh'a, geureuh'êm, geureuh'o\n geureuu'o mengeluarkan suara \"h'o – h'o\" krn keheranan, mengangankan mulut krn keheranan"
-  meaning_en: ''
-  examples:
-  - aceh: peu
-    jawi: ''
-    id: –
-    en: ), sj white lice that attach to cloth
-  - aceh: droe
-    jawi: ''
-    id: (
-    en: ''
-  - aceh: peu
-    jawi: ''
-    id: –
-    en: ), sj white lice that attach to cloth
-  - aceh: babah
-    jawi: ''
-    id: ), dng sengaja melakukan geureuh'o
-    en: ''
-  - aceh: teu
-    jawi: ''
-    id: –
-    en: ), sj white lice that attach to cloth
-  - aceh: babah
-    jawi: ''
-    id: (
-    en: ''
-  - aceh: teu
-    jawi: ''
-    id: –
-    en: ), sj white lice that attach to cloth
-  - aceh: gigoe
-    jawi: ''
-    id: ), berdiri atau duduk dng mulut ternganga krn keheranan
-    en: ''
-- meaning_id: "Bd geureuh'a, geureuh'êm, geureuhêng\n geureulan (dl hik) v gerlap"
-  meaning_en: ''
-  examples:
-  - aceh: meu
-    jawi: ''
-    id: –, gemerlapan, bercahaya
-    en: ''
-  - aceh: gleueng meukeut'ing, subang meu
-    jawi: ''
-    id: –
-    en: ), sj white lice that attach to cloth
-  - aceh: lagêe bintang takalon cahya
-    jawi: ''
-    id: "Gelang berdenting dan subang gemerlapan laksana bintang terlihat cahayanya\n §1§ geureum'euih menggaruk, mencakar (ump kucing, ayam)"
-    en: Jangling bracelets and sparkling pendants like stars, their light is visible
-  - aceh: piu habêh ji
-    jawi: ''
-    id: –
-    en: ), sj white lice that attach to cloth
-  - aceh: lê manok
-    jawi: ''
-    id: parutan kelapa peram yg sedang dijemur habis dikais ayam
-    en: fermented coconut shavings that have been sun-dried and mixed with chicken
-  - aceh: ka ji
-    jawi: ''
-    id: –
-    en: ), sj white lice that attach to cloth
-  - aceh: lê mie
-    jawi: ''
-    id: "sudah dicakar kucing\n\n §2§ geureum'euih\n geuregoh\n §2§ geureum'euih n gerimis: meu -, bergerimis"
-    en: to act as if old
-- meaning_id: ujeueng meu -, hujan gerimis
-  meaning_en: ''
-  examples: []
+examples:
+- aceh: peu – droe (peu – babah)
+  jawi: ''
+  id: melakukan geureuh'a dng sengaja, membuat seolah-olah heran
+  en: ''
+- aceh: teu – babah (teu – gigoe)
+  jawi: ''
+  id: berdiri atau duduk dng mulut ternganga krn keheranan
+  en: ''
+- aceh: 'Bd geureuh''êm, geureuh''êng, geureuh''o geureuh''êm, greuh''êm mengeluarkan suara ''êh-h''êm,
+    mendehem, membatuk kecil (al utk menyatakan kehadiran): jêh lintô ka jiwoe, ka ji –, taplueng reujang!
+    Lihat, pengantin laki-laki sudah pulang ke rumah, ia sudah mendehem, larilah segera! meu –'
+  jawi: ''
+  id: mendehem
+  en: ''
+- aceh: soe meu – di yup? Siapa mende- hem di bawah (rumah)? peu –
+  jawi: ''
+  id: menyuruh mendehem (upm seorang anak yg tersedak)
+  en: ''
+- aceh: peu – droe
+  jawi: ''
+  id: mendehem dng sengaja
+  en: ''
+- aceh: 'Bd geureuh''a, geureuhêng, geureuh''o geureuhêng, geuhêng v menyeringai: ji – lagêe ulêe kamêng
+    teutôt'
+  jawi: ''
+  id: Ia menyeringai spt kepala kambing terbakar (pb), tertawa menyeringai
+  en: ''
+- aceh: peu – droe, peu – babah
+  jawi: ''
+  id: dng sengaja tertawa menyeringai
+  en: ''
+- aceh: teu –, (babah, gigoe)
+  jawi: ''
+  id: tertawa menyeringai
+  en: ''
+- aceh: peu – droe (peu – babah)
+  jawi: ''
+  id: dng sengaja melakukan geureuh'o
+  en: ''
+- aceh: teu – babah (teu – gigoe)
+  jawi: ''
+  id: berdiri atau duduk dng mulut ternganga krn keheranan
+  en: ''
 etymology: ''
 related_words:
-- papak
+- hêng
+- geureuh'a
+- geureuh'êm
+- 'geureuhêng geureulan (dl hik) v gerlap: meu –'
+- gemerlapan
+- 'bercahaya: gleueng meukeut''ing'
+- subang meu – lagêe bintang takalon cahya
+- Gelang berdenting dan subang gemerlapan laksana bintang terlihat cahayanya ¹geureum'euih menggaruk
+- mencakar (ump kucing
+- 'ayam): piu habêh ji – lê manok'
+- parutan kelapa peram yg sedang dijemur habis dikais ayam
+- ka ji – lê mie
+- sudah dicakar kucing ²geureum'euih geuregoh
+- geureuh'o geureuu'o mengeluarkan suara "h'o – h'o" krn keheranan
+- mengangankan mulut krn keheranan
 dialect_notes: ''
-source: Kamus Aceh-Indonesia (Acehnese-Indonesian Dictionary), pp. 233, 234
+source: 'Kamus Aceh-Indonesia (extracted from pp.124-270 of the source edition, Acehnese section entries
+  cèm-unyèn through gutie/H). File: markdown.md supplied by the user. — pp.233-234'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: Cross-reference entry pointing to 'papak'. Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate reviewer.
+extraction_notes: Part of speech not explicitly marked in source. Indonesian example translations are
+  taken verbatim from the source. English meanings and Jawi transliterations are AI-flagged as unverified
+  and need human review. Jawi transliteration is AI-generated, not from source — needs verification by
+  a Jawi-literate reviewer.

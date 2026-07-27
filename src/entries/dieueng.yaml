@@ -1,28 +1,37 @@
 headword: dieueng
-jawi: ديوڠ
+jawi: ''
 alt_spelling: []
 ipa: ''
 part_of_speech: v
 definitions:
-- meaning_id: 'memperlihatkan, memegang di muka atau di atas: ta — sigo atra nyan'' perlihatkan sebentar benda itu'' meu —, menampakkan diri Anda ke mari! peu — = —'
-  meaning_en: 'to show, to hold in front of or on top of: ta — sigo atra nyan'' perlihatkan sebentar benda itu'' meu —, show yourself here! peu — = —'
-  examples: []
-- meaning_id: gata ka lôn tham bèk tajak keu noe
-  meaning_en: gata ka lôn tham bèk tajak keu noe
-  examples:
-  - aceh: pakon tapeu
-    jawi: ''
-    id: droeteu cit keu noe? Anda telah saya larang datang kemari
-    en: ''
-- meaning_id: mengapa Anda memperlihatkan diri juga kemari?
-  meaning_en: why did you show up here too?
-  examples: []
+- meaning_id: memperlihatkan, meme- gang di muka atau di atas
+  meaning_en: ''
+examples:
+- aceh: ta - sigo atra nyan' perlihatkan se- bentar benda itu' meu -
+  jawi: ''
+  id: menam- pakkan diri Anda ke mari! peu — = —
+  en: ''
+- aceh: gata ka lôn tham bèk tajak keu noe
+  jawi: ''
+  id: ''
+  en: ''
+- aceh: pakon tapeu - droeteu cit keu noe? Anda telah saya la- rang datang kemari
+  jawi: ''
+  id: ''
+  en: ''
+- aceh: mengapa An- da memperlihatkan diri juga ke- mari?
+  jawi: ''
+  id: rimbaih 2
+  en: ''
 etymology: ''
 related_words:
 - déngdéng
 - rimbaih 2
 dialect_notes: ''
-source: Kamus Aceh-Indonesia (Acehnese-Indonesian Dictionary), p. 170
+source: 'Kamus Aceh-Indonesia (extracted from pp.124-270 of the source edition, Acehnese section entries
+  cèm-unyèn through gutie/H). File: markdown.md supplied by the user. — p.170'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate reviewer.
+extraction_notes: Indonesian example translations are taken verbatim from the source. English meanings
+  and Jawi transliterations are AI-flagged as unverified and need human review. Jawi transliteration is
+  AI-generated, not from source — needs verification by a Jawi-literate reviewer.

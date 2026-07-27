@@ -1,53 +1,42 @@
 headword: glah
-jawi: ڬله
+jawi: ''
 alt_spelling: []
 ipa: ''
 part_of_speech: ''
 definitions:
-- meaning_id: 1glaih, glah, bentuk tambahan dr jlaih (→ jeulaih)
-  meaning_en: Do not lift and shake the bucket so that the water becomes completely cloudy
-  examples:
-  - aceh: aneuk gata peue ka
-    jawi: ''
-    id: ''
-    en: ''
-  - aceh: bak têk
-    jawi: ''
-    id: Sudahkah anak Anda lepas dari susuannya?
-    en: Has your child weaned from their caregiver?
-  - aceh: aneuk lôn hana
-    jawi: ''
-    id: ''
-    en: ''
-  - aceh: lom
-    jawi: ''
-    id: Anak perempuan saya belum lagi dikawinkan
-    en: ''
-  - aceh: ka tameu
-    jawi: ''
-    id: (
-    en: ''
-  - aceh: utang
-    jawi: ''
-    id: )
-    en: )
-  - aceh: gata ngon si Pulan?
-    jawi: ''
-    id: Sudahkah Anda menyelesaikan utang dng si Polan?
-    en: ''
-  - aceh: teuma jipeu
-    jawi: ''
-    id: ''
-    en: ''
-  - aceh: droeji
-    jawi: ''
-    id: Lalu, ia melepaskan dirinya
-    en: Then, he freed himself
+- meaning_id: glaih 1glaih, glah, bentuk tambahan dr jlaih (, tidak disusui lagi, telah dikawinkan (utk
+    anak perempuan)
+  meaning_en: ''
+examples:
+- aceh: aneuk gata peue ka - bak têk, Sudahkah anak Anda lepas dari susuannya? aneuk lôn hana - lom
+  jawi: ''
+  id: Anak perempuan saya belum lagi dikawinkan
+  en: ''
+- aceh: 'ka tameu -, (utang) gata ngon si Pulan? Sudahkah Anda menyelesaikan utang dng si Polan? teuma
+    jipeu - droeji, Lalu, ia melepaskan dirinya 2glaih, glah n gelas, *glah n kelas: ~ lhèe*'
+  jawi: ''
+  id: kelas tiga
+  en: ''
+- aceh: meu ~ ~
+  jawi: ''
+  id: berkelas-kelas, terbagi dl kelas
+  en: ''
 etymology: ''
 related_words:
-- glaih
+- jeulaih) *adv* telah lepas dr susunan
+- tidak disusui lagi
+- 'telah dikawinkan (utk anak perempuan): *aneuk gata peue ka* — *bak têk*'
+- Sudahkah anak Anda lepas dari susuannya? *aneuk lôn hana* — *lom*
+- Anak perempuan saya belum lagi dikawinkan
+- kaca 3glaih gle 3glaih
+- '**glah** *n* kelas: ~ *lhèe*'
+- kelas tiga
 dialect_notes: ''
-source: Kamus Aceh-Indonesia (Acehnese-Indonesian Dictionary), p. 243
+source: 'Kamus Aceh-Indonesia (extracted from pp.124-270 of the source edition, Acehnese section entries
+  cèm-unyèn through gutie/H). File: markdown.md supplied by the user. — pp.243-244'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: Cross-reference entry pointing to 'glaih'. Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate reviewer.
+extraction_notes: Part of speech not explicitly marked in source. Indonesian example translations are
+  taken verbatim from the source. English meanings and Jawi transliterations are AI-flagged as unverified
+  and need human review. Jawi transliteration is AI-generated, not from source — needs verification by
+  a Jawi-literate reviewer.

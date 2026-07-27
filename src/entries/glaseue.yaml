@@ -1,32 +1,31 @@
 headword: glaseue
-jawi: ڬلهسه
+jawi: ''
 alt_spelling: []
 ipa: ''
 part_of_speech: n
 definitions:
 - meaning_id: galigato, sj bintik-bintik yg menimbulkan gatal-gatal di badan
-  meaning_en: galigato, sj small spots causing itchiness on the body
-  examples:
-  - aceh: ban saboh badan jitimoh
-    jawi: ''
-    id: –, Di seluruh badannya tumbuh galigato
-    en: –, Galigato growing all over his body
-  - aceh: meu
-    jawi: ''
-    id: –, ditumbuhi galigato
-    en: -, covered with galigato
-  - aceh: habeh meu
-    jawi: ''
-    id: –
-    en: ), sj white lice that attach to cloth
-  - aceh: ban saboh badan lòn
-    jawi: ''
-    id: Seluruh badan saya bergaligato
-    en: ''
+  meaning_en: ''
+examples:
+- aceh: ban saboh badan jitimoh –
+  jawi: ''
+  id: Di seluruh badannya tumbuh galigato
+  en: ''
+- aceh: meu –
+  jawi: ''
+  id: ditumbuhi galigato
+  en: ''
+- aceh: habeh meu – ban saboh badan lòn
+  jawi: ''
+  id: Seluruh badan saya bergaligato
+  en: ''
 etymology: ''
 related_words: []
 dialect_notes: ''
-source: Kamus Aceh-Indonesia (Acehnese-Indonesian Dictionary), p. 244
+source: 'Kamus Aceh-Indonesia (extracted from pp.124-270 of the source edition, Acehnese section entries
+  cèm-unyèn through gutie/H). File: markdown.md supplied by the user. — p.244'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate reviewer. Some fields (English translations, Jawi) may be incomplete due to API rate limits during processing. Re-run the translation script to fill in missing fields.
+extraction_notes: Indonesian example translations are taken verbatim from the source. English meanings
+  and Jawi transliterations are AI-flagged as unverified and need human review. Jawi transliteration is
+  AI-generated, not from source — needs verification by a Jawi-literate reviewer.

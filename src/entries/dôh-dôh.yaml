@@ -1,49 +1,32 @@
 headword: dôh-dôh
-jawi: دوه-دوه
+jawi: ''
 alt_spelling: []
 ipa: ''
 part_of_speech: v
 definitions:
 - meaning_id: berteriak kesakitan, mengerang, mengaduh
-  meaning_en: screaming in pain, groaning, moaning
-  examples:
-  - aceh: peue nyang ka
-    jawi: ''
-    id: ''
-    en: ''
-  - aceh: sabé?
-    jawi: ''
-    id: apa yg engkau erangkan selalu?
-    en: ''
-  - aceh: meu
-    jawi: ''
-    id: mengerang kesakitan
-    en: ''
-  - aceh: soe nyang sakét meu
-    jawi: ''
-    id: siapa yg mengaduh kesakitan?
-    en: who is groaning in pain?
-  - aceh: gaki lôn
-    jawi: ''
-    id: ''
-    en: ''
-  - aceh: keumong 'oh meu
-    jawi: ''
-    id: Kaki saya membengkak sehingga saya mengerang
-    en: My feet are swollen so I groan
-  - aceh: peu
-    jawi: ''
-    id: ''
-    en: ''
-  - aceh: droe
-    jawi: ''
-    id: dng sengaja mengerang seolah-olah menderita penyakit
-    en: deliberately groaning as if suffering from illness
+  meaning_en: ''
+examples:
+- aceh: peue nyang ka - sabé? apa yg engkau erangkan selalu? meu -
+  jawi: ''
+  id: mengerang kesakitan
+  en: ''
+- aceh: soe nyang sakét meu -, siapa yg mengaduh kesakitan? gaki lôn -, keumong 'oh meu -
+  jawi: ''
+  id: Kaki saya membengkak sehingga saya mengerang
+  en: ''
+- aceh: peu - droe
+  jawi: ''
+  id: dng sengaja mengerang seolah-olah menderita penyakit
+  en: ''
 etymology: ''
 related_words:
 - adôh
 dialect_notes: ''
-source: Kamus Aceh-Indonesia (Acehnese-Indonesian Dictionary), p. 174
+source: 'Kamus Aceh-Indonesia (extracted from pp.124-270 of the source edition, Acehnese section entries
+  cèm-unyèn through gutie/H). File: markdown.md supplied by the user. — p.174'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate reviewer.
+extraction_notes: Indonesian example translations are taken verbatim from the source. English meanings
+  and Jawi transliterations are AI-flagged as unverified and need human review. Jawi transliteration is
+  AI-generated, not from source — needs verification by a Jawi-literate reviewer.

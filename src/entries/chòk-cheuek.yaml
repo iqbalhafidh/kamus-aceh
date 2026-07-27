@@ -1,5 +1,5 @@
 headword: chòk-cheuek
-jawi: چوك-چويك
+jawi: ''
 alt_spelling:
 - còk-ceuek
 ipa: ''
@@ -7,33 +7,27 @@ part_of_speech: a
 definitions:
 - meaning_id: tidak keruan, tidak tersusun, tidak beraturan, cabul, bertentangan dng hukum dan adat, serangan
   meaning_en: ''
-  examples:
-  - aceh: di gampong nyan jinoe ~ that, jimeureubòt, jiceumeucue jimumukah
-    jawi: ''
-    id: di kampung itu sekarang orang-orang hidup bertentangan dng agama dan adat
-    en: ''
-- meaning_id: mereka merampok, mencuri, dan berzina. ~
-  meaning_en: ''
-  examples:
-  - aceh: that buet gata
-    jawi: ''
-    id: perbuatan Anda cabul sekali
-    en: Your actions are very obscene
-  - aceh: peu
-    jawi: ''
-    id: – –, melakukan chòk-cheuek
-    en: ''
-- meaning_id: Bd *
-  meaning_en: ''
-  examples:
-  - aceh: srak-sròk
-    jawi: ''
-    id: '*'
-    en: '*'
+examples:
+- aceh: di gampong nyan jinoe ~ that, jimeureubòt, jiceumeucue jimumukah
+  jawi: ''
+  id: di kampung itu sekarang orang-orang hidup bertentangan dng agama dan adat
+  en: ''
+- aceh: mereka merampok, mencuri, dan berzina. ~ that buet gata
+  jawi: ''
+  id: perbuatan Anda cabul sekali
+  en: ''
+- aceh: peu – –
+  jawi: ''
+  id: melakukan chòk-cheuek
+  en: ''
 etymology: ''
-related_words: []
+related_words:
+- '*srak-sròk*'
 dialect_notes: ''
-source: Kamus Aceh-Indonesia (Acehnese-Indonesian Dictionary), p. 133
+source: 'Kamus Aceh-Indonesia (extracted from pp.124-270 of the source edition, Acehnese section entries
+  cèm-unyèn through gutie/H). File: markdown.md supplied by the user. — p.133'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: 'Source lists variant spellings: còk-ceuek. Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate reviewer. Some fields (English translations, Jawi) may be incomplete due to API rate limits during processing. Re-run the translation script to fill in missing fields.'
+extraction_notes: Indonesian example translations are taken verbatim from the source. English meanings
+  and Jawi transliterations are AI-flagged as unverified and need human review. Jawi transliteration is
+  AI-generated, not from source — needs verification by a Jawi-literate reviewer.

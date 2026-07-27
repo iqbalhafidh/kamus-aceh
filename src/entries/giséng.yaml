@@ -1,29 +1,44 @@
 headword: giséng
-jawi: ݢيسيڠ
+jawi: ''
 alt_spelling: []
 ipa: ''
 part_of_speech: v
 definitions:
-- meaning_id: "menggesek: jéh keubeue ji - (bak) tamèh, Lihatlah, kerbau itu menggesekkan badannya pd tiang. - eungkôt, membersihkan sisik-sisik ikan dng jalan menggesek-gesek ikan ke sana kemari pd dinding belanga sebelah dl atau ke tanah sehingga tprlepas\n atau ke tanah sehingga tprlepas sisiknya"
-  meaning_en: ihram clothing worn by hajj pilgrims
-  examples: []
-- meaning_id: tambôk jipèh, suléng jiyôb, teuma ji - ngon biula, Mereka menabuh tambur dan meniup suling lalu menggesek biola
-  meaning_en: Polan has divorced his wife
-  examples: []
-- meaning_id: meu -, bergesek, saling bergesek
+- meaning_id: menggesek
   meaning_en: ''
-  examples: []
-- meaning_id: panè ureueng jéh jak 'oh meu - bahô ngon geutanyoe, h'an jisie, Orang mana itu! ia bpr-jalan sampai tersentuh bahunya dng kita, tetapi ia tidak mau menepi. peu -, menyuruh gesek, membiarkan bergesek
-  meaning_en: ''
-  examples: []
-- meaning_id: bèk tapeu - keubeue bak tamèh, Janganlah Anda membiarkan kerbau menggesekkan badannya pd tiang rumah. geumiséng, melakukan pekerjaan menggesek, sedang melakukan pekerjaan menggesek
-  meaning_en: ''
-  examples: []
+examples:
+- aceh: jéh keubeue ji - (bak) tamèh
+  jawi: ''
+  id: Lihatlah, kerbau itu menggesekkan badannya pd tiang. - eungkôt, membersihkan sisik-sisik ikan dng
+    jalan menggesek-gesek ikan ke sana kemari pd dinding belanga sebelah dl atau ke tanah sehingga tprlepas
+    atau ke tanah sehingga tprlepas sisiknya
+  en: ''
+- aceh: tambôk jipèh
+  jawi: ''
+  id: suléng jiyôb, teuma ji - ngon biula, Mereka menabuh tambur dan meniup suling lalu menggesek biola
+  en: ''
+- aceh: meu -
+  jawi: ''
+  id: bergesek, saling bergesek
+  en: ''
+- aceh: panè ureueng jéh jak 'oh meu - bahô ngon geutanyoe
+  jawi: ''
+  id: h'an jisie, Orang mana itu! ia bpr-jalan sampai tersentuh bahunya dng kita, tetapi ia tidak mau
+    menepi. peu -, menyuruh gesek, membiarkan bergesek
+  en: ''
+- aceh: bèk tapeu - keubeue bak tamèh
+  jawi: ''
+  id: Janganlah Anda membiarkan kerbau menggesekkan badannya pd tiang rumah. geumiséng, melakukan pekerjaan
+    menggesek, sedang melakukan pekerjaan menggesek
+  en: ''
 etymology: ''
 related_words:
 - kisèk
 dialect_notes: ''
-source: Kamus Aceh-Indonesia (Acehnese-Indonesian Dictionary), p. 242
+source: 'Kamus Aceh-Indonesia (extracted from pp.124-270 of the source edition, Acehnese section entries
+  cèm-unyèn through gutie/H). File: markdown.md supplied by the user. — p.242'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate reviewer.
+extraction_notes: Indonesian example translations are taken verbatim from the source. English meanings
+  and Jawi transliterations are AI-flagged as unverified and need human review. Jawi transliteration is
+  AI-generated, not from source — needs verification by a Jawi-literate reviewer.

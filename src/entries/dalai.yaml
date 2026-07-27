@@ -1,39 +1,46 @@
 headword: dalai
-jawi: دلاي
+jawi: ''
 alt_spelling: []
 ipa: ''
 part_of_speech: n
 definitions:
-- meaning_id: penghubung dl dunia perdagangan, dalal uang komisi yg dibayar oleh pedagang-pedagang kpd para *
+- meaning_id: penghubung dl dunia perdagangan, dalal uang komisi yg dibayar oleh pedagang-pedagang kpd
+    para *
   meaning_en: ''
-  examples:
-  - aceh: ulèebalang
-    jawi: ''
-    id: "* pd masa dahulu spy barang-barang dagangan\n\n\n\n mereka terjamin dr pencurian dsb, sj pajak pd masa dahulu: pajôh —, menerima komisi atau keuntungan di atas angin. → kamsên\n 1 dalam, lam p dalam, di dalam, ~ peutoe, dl peti"
-    en: '* in the past so that goods were guaranteed from theft etc., just tax in the past: pajôh —, to receive commission or profit on the side. → kamsên'
 - meaning_id: ~ nyan, dl pd itu
-  meaning_en: ~ nyan, dl pd itu
-  examples: []
-- meaning_id: beuka lheueh ~ lhee uroe nyoe, dl tiga hari ini hendaknya sudah siap' ~ lôn jak-jak nyan, selagi saya berjalan-jalan. di ~, di dl
   meaning_en: ''
-  examples: []
+- meaning_id: beuka lheueh ~ lhee uroe nyoe, dl tiga hari ini hendaknya sudah siap' ~ lôn jak-jak nyan,
+    selagi saya berjalan-jalan. di ~, di dl
+  meaning_en: ''
 - meaning_id: u ~, ke dl
-  meaning_en: –, catching birds with sap
-  examples: []
-- meaning_id: teubiet ~ eumpung, keluar dr sarangnya
-  meaning_en: teubiet ~ eumpung, coming out of its nest
-  examples:
-  - aceh: tamong
-    jawi: ''
-    id: eumpung, masuk ke dl sarangnya
-    en: ''
-- meaning_id: "bu meuaneuk ~, → aneuk\n 2 dalam n dl, istana raja: raja geuduek di ~, raja bersemayam dl istana"
   meaning_en: ''
-  examples: []
+- meaning_id: teubiet ~ eum- pung, keluar dr sarangnya
+  meaning_en: ''
+- meaning_id: tamong — eumpung, masuk ke dl sarang- nya
+  meaning_en: ''
+- meaning_id: 'bu meuaneuk ~,, istana raja: raja geudu- ek di ~, raja bersemayam dl istana'
+  meaning_en: ''
+examples:
+- aceh: ulèebalang* pd masa dahulu spy barang-barang dagangan mereka terjamin dr pencurian dsb
+  jawi: ''
+  id: 'sj pajak pd masa dahulu: pajôh —, menerima komisi atau keuntungan di atas angin., lam p dalam,
+    di dalam, ~ peutoe, dl peti'
+  en: ''
 etymology: ''
-related_words: []
+related_words:
+- kamsên 1 dalam
+- lam p dalam
+- di dalam
+- ~ peutoe
+- dl peti
+- aneuk 2 dalam n dl
+- 'istana raja: raja geudu- ek di ~'
+- raja bersemayam dl istana
 dialect_notes: ''
-source: Kamus Aceh-Indonesia (Acehnese-Indonesian Dictionary), pp. 154, 155
+source: 'Kamus Aceh-Indonesia (extracted from pp.124-270 of the source edition, Acehnese section entries
+  cèm-unyèn through gutie/H). File: markdown.md supplied by the user. — pp.154-155'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: Some fields (English translations, Jawi) may be incomplete due to API rate limits during processing. Re-run the translation script to fill in missing fields. Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate reviewer.
+extraction_notes: Indonesian example translations are taken verbatim from the source. English meanings
+  and Jawi transliterations are AI-flagged as unverified and need human review. Jawi transliteration is
+  AI-generated, not from source — needs verification by a Jawi-literate reviewer.

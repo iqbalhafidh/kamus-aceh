@@ -1,24 +1,42 @@
 headword: suhud
-jawi: سهود
+jawi: ''
 alt_spelling:
 - suhud
 - seuhud
 ipa: ''
 part_of_speech: n
 definitions:
-- meaning_id: "saksi, menyaksikan, menjadi saksi: ijék -, ia menyaksikan\n 1 suci v meruncingkan, membuat lebih tajam: → cu\n 2 suci v mengorek sesuatu dng benda tajam, mengeluarkan duri dr daging: ta - droe siat bak gaki lon, cungkillah duri di kaki saya sebentar\n 3 cui a mura, marah, tidak pemarah, murung: - muka-mukaji 'oh geutanyoe jak u rumohji, mukanya masam jika kita datang ke rumahnya → côn\n 4 cui, cui-cui n tiruan bunyi gerakan cepat: meu ~, memperdengarkan bunyi cui-cui"
-  meaning_en: 'witness, to witness, to be a witness: ijék -, he witnessed'
-  examples: []
-- meaning_id: jitak laju lé meu ~, jibrôg laku lambông singa, ia memerangi musuh dl desingan bunyi pedang dan melompat tinggi spt singa
+- meaning_id: saksi, menyaksikan, menjadi saksi
   meaning_en: ''
-  examples: []
-- meaning_id: Bd coih
-  meaning_en: ''
-  examples: []
+examples:
+- aceh: ijék -
+  jawi: ''
+  id: 'ia menyaksikan 1 suci v meruncingkan, membuat lebih tajam:, mengeluarkan duri dr daging: ta - droe
+    siat bak gaki lon, cungkillah duri di kaki saya sebentar 3 cui a mura, marah, tidak pemarah, murung:
+    - muka-mukaji ''oh geutanyoe jak u rumohji, mukanya masam jika kita datang ke rumahnya, cui-cui n
+    tiruan bunyi gerakan cepat: meu ~, memperdengarkan bunyi cui-cui'
+  en: ''
+- aceh: jitak laju lé meu ~
+  jawi: ''
+  id: jibrôg laku lambông singa, ia memerangi musuh dl desingan bunyi pedang dan melompat tinggi spt singa
+  en: ''
 etymology: ''
-related_words: []
+related_words:
+- cu 2 suci v mengorek sesuatu dng benda tajam
+- 'mengeluarkan duri dr daging: ta - droe siat bak gaki lon'
+- cungkillah duri di kaki saya sebentar 3 cui a mura
+- marah
+- tidak pemarah
+- 'murung: - muka-mukaji ''oh geutanyoe jak u rumohji'
+- mukanya masam jika kita datang ke rumahnya → côn 4 cui
+- 'cui-cui n tiruan bunyi gerakan cepat: meu ~'
+- memperdengarkan bunyi cui-cui
+- coih
 dialect_notes: ''
-source: Kamus Aceh-Indonesia (Acehnese-Indonesian Dictionary), p. 146
+source: 'Kamus Aceh-Indonesia (extracted from pp.124-270 of the source edition, Acehnese section entries
+  cèm-unyèn through gutie/H). File: markdown.md supplied by the user. — p.146'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: 'Source lists variant spellings: suhud, seuhud. Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate reviewer. Some fields (English translations, Jawi) may be incomplete due to API rate limits during processing. Re-run the translation script to fill in missing fields.'
+extraction_notes: Indonesian example translations are taken verbatim from the source. English meanings
+  and Jawi transliterations are AI-flagged as unverified and need human review. Jawi transliteration is
+  AI-generated, not from source — needs verification by a Jawi-literate reviewer.

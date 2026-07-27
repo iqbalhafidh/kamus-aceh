@@ -1,68 +1,51 @@
 headword: ditnoe
-jawi: ديتنو
+jawi: ''
 alt_spelling: []
 ipa: ''
 part_of_speech: ''
 definitions:
-- meaning_id: diwa
-  meaning_en: soul
-  examples:
-  - aceh: Ma-lém
-    jawi: ''
-    id: —
-    en: ''
-  - aceh: Sangsaréh
-    jawi: ''
-    id: "→ dinu, diwata\n §2§ diwa ukuran timbangan utk menimbang ikan kayu (keumamih), sama dng 150 katoe (kati)"
-    en: → dinu, diwata
-  - aceh: siteungoh
-    jawi: ''
-    id: setengah diwa
-    en: ''
-  - aceh: sisukèe
-    jawi: ''
-    id: seperempat diwa
-    en: a quarter diwa
-  - aceh: nanggroe
-    jawi: ''
-    id: negeri Diwa yg terletak di pantai Koromandel tempat menghasilkan ikan kayu dan
-    en: Diwa country located on the Coromandel coast, a place producing fish wood and
-  - aceh: peuda
-    jawi: ''
-    id: ''
-    en: ''
-  - aceh: pulo
-    jawi: ''
-    id: "pulau-pulau Maladiwa tempat menghasilkan ikan kayu\n §1§ diwai"
-    en: Maladiwa islands, the place that produces wood fish
-  - aceh: diwa geupeuduek ateuh
-    jawi: ''
-    id: ''
-    en: ''
-  - aceh: meuih
-    jawi: ''
-    id: "diwa ditempatkan di atas tempat duduk emas (ketika disandingkan)\n §2§ diwai"
-    en: placed on the golden seat (when paired) §2§ diwai
-  - aceh: '''oh saré trôk u'
-    jawi: ''
-    id: ''
-    en: ''
-  - aceh: teuma jitanyong lé ureueng keumawai
-    jawi: ''
-    id: ''
-    en: ''
-  - aceh: '"ho takeumeung jak?'
-    jawi: ''
-    id: sesampai dekat tembok kubu pertahanan lalu bertanyalah pengawalnya
-    en: ''
-- meaning_id: '"Anda hendak ke mana?"'
+- meaning_id: dit, noe ¹diwa
   meaning_en: ''
-  examples: []
+examples:
+- aceh: 'n (dl hik) dewa, makhluk angkasa, tokoh-tokoh dl hik: Ma-lém -, - Sangsaréh, diwata ²diwa ukuran
+    timbangan utk menimbang ikan kayu (keumamih), sama dng 150 katoe (kati): siteungoh -'
+  jawi: ''
+  id: setengah diwa
+  en: ''
+- aceh: sisukèe -
+  jawi: ''
+  id: seperempat diwa
+  en: ''
+- aceh: nanggroe -, negeri Diwa yg terletak di pantai Koromandel tempat menghasilkan ikan kayu dan peuda
+    -
+  jawi: ''
+  id: ''
+  en: ''
+- aceh: 'pulo -, pulau-pulau Maladiwa tempat menghasilkan ikan kayu ¹diwai n tempat mengadakan pertemuan
+    (dl mesjid, déah besar pekuburan), ruangan singgasana, tempat duduk raja, bangku berkasur, dipan:
+    diwa geupeuduek ateuh - meuih, diwa ditempatkan di atas tempat duduk emas (ketika disandingkan) ²diwai
+    n tembok kota, kubu pertahanan: ''oh saré trôk u -, teuma jitanyong lé ureueng keumawai: "ho takeumeung
+    jak? sesampai dekat tembok kubu pertahanan lalu bertanyalah pengawalnya'
+  jawi: ''
+  id: ''
+  en: ''
+- aceh: '"Anda hendak ke mana?" diwana, meudiwana v berkelana, ber- tualang: ureueng nyan ka jimeu – ban
+    saboh dōnya'
+  jawi: ''
+  id: orang itu sudah berkelana ke seluruh dunia
+  en: ''
 etymology: ''
 related_words:
-- dit, noe
+- dinu
+- diwata ²diwa ukuran timbangan utk menimbang ikan kayu (keumamih)
+- 'sama dng 150 katoe (kati): *siteungoh* —'
+- setengah diwa
 dialect_notes: ''
-source: Kamus Aceh-Indonesia (Acehnese-Indonesian Dictionary), p. 172
+source: 'Kamus Aceh-Indonesia (extracted from pp.124-270 of the source edition, Acehnese section entries
+  cèm-unyèn through gutie/H). File: markdown.md supplied by the user. — pp.172-173'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: Cross-reference entry pointing to 'dit, noe'. Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate reviewer.
+extraction_notes: Part of speech not explicitly marked in source. Indonesian example translations are
+  taken verbatim from the source. English meanings and Jawi transliterations are AI-flagged as unverified
+  and need human review. Jawi transliteration is AI-generated, not from source — needs verification by
+  a Jawi-literate reviewer.

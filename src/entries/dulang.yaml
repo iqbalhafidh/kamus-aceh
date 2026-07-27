@@ -1,42 +1,41 @@
 headword: dulang
-jawi: دولڠ
+jawi: ''
 alt_spelling: []
 ipa: ''
 part_of_speech: n
 definitions:
 - meaning_id: dulang
-  meaning_en: a title for a mouse deer
-  examples:
-  - aceh: ban — geularék
-    jawi: ''
-    id: spt dulang yg dilarik (utk menyatakan keindahan tubuh seseorang)
-    en: like the sound of a drum
-  - aceh: bak si
-    jawi: ''
-    id: sj rerumputan
-    en: grassy
-  - aceh: meu
-    jawi: ''
-    id: berdulang, menyerupai dulang, berkembang spt dulang
-    en: ''
-  - aceh: bukon sayang bungong mancang, teungoh meu
-    jawi: ''
-    id: ''
-    en: ''
-  - aceh: angèn raya ba
-    jawi: ''
-    id: Sungguh sayang bunga embacang, selagi berkembang telah ditiup topan
-    en: How sad for the embacang flower, just as it bloomed a typhoon blew it away
-  - aceh: kréh meu
-    jawi: ''
-    id: keris dng pelindung pd hulunya
-    en: dagger with a guard on its hilt
+  meaning_en: ''
+examples:
+- aceh: ban - geularék
+  jawi: ''
+  id: spt dulang yg dilarik (utk menyatakan keindahan tubuh seseorang)
+  en: ''
+- aceh: bak si -
+  jawi: ''
+  id: sj rerumputan
+  en: ''
+- aceh: meu -
+  jawi: ''
+  id: berdulang, menyerupai dulang, berkembang spt dulang
+  en: ''
+- aceh: bukon sayang bungong mancang, teungoh meu - angèn raya ba
+  jawi: ''
+  id: Sungguh sayang bunga embacang, selagi berkembang telah ditiup topan
+  en: ''
+- aceh: kréh meu -
+  jawi: ''
+  id: keris dng pelindung pd hulunya, krikai
+  en: ''
 etymology: ''
 related_words:
 - dalông
 - krikai
 dialect_notes: ''
-source: Kamus Aceh-Indonesia (Acehnese-Indonesian Dictionary), p. 183
+source: 'Kamus Aceh-Indonesia (extracted from pp.124-270 of the source edition, Acehnese section entries
+  cèm-unyèn through gutie/H). File: markdown.md supplied by the user. — p.183'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate reviewer.
+extraction_notes: Indonesian example translations are taken verbatim from the source. English meanings
+  and Jawi transliterations are AI-flagged as unverified and need human review. Jawi transliteration is
+  AI-generated, not from source — needs verification by a Jawi-literate reviewer.

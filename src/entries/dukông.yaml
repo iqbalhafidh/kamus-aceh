@@ -1,42 +1,42 @@
 headword: dukông
-jawi: دوكروڠ
+jawi: ''
 alt_spelling: []
 ipa: ''
 part_of_speech: v
 definitions:
 - meaning_id: dukung (dng atau tanpa kain), gendong (utk makhluk hidup), memikul sesuatu di punggung
   meaning_en: ''
-  examples:
-  - aceh: ji — aneukji keu dēh keu noe
-    jawi: ''
-    id: Ia mendukung anaknya ke sana kemari
-    en: ''
-  - aceh: bak — boh
-    jawi: ''
-    id: → tingtingkue
-    en: this branch is very lush, a very good hiding place
-  - aceh: meu
-    jawi: ''
-    id: mendukung
-    en: ''
-  - aceh: deumukông
-    jawi: ''
-    id: melakukan pekerjaan mendukung
-    en: ''
-  - aceh: soe nyang deumukông tapeugah bak kamoe
-    jawi: ''
-    id: Beritahukanlah kpd kami siapa pendukungnya!
-    en: Tell us who its supporter is!
-  - aceh: peu
-    jawi: ''
-    id: menyuruh dukung
-    en: to support
+examples:
+- aceh: ji - aneukji keu dēh keu noe
+  jawi: ''
+  id: Ia mendukung anaknya ke sana kemari
+  en: ''
+- aceh: bak - boh
+  jawi: ''
+  id: ''
+  en: ''
+- aceh: meu -
+  jawi: ''
+  id: mendukung
+  en: ''
+- aceh: deumukông
+  jawi: ''
+  id: melakukan pekerjaan mendukung
+  en: ''
+- aceh: soe nyang deumukông tapeugah bak kamoe, Beritahukanlah kpd kami siapa pendukungnya! peu -
+  jawi: ''
+  id: menyuruh dukung, tingkue
+  en: ''
 etymology: ''
 related_words:
+- ting- tingkue
 - kong
 - tingkue
 dialect_notes: ''
-source: Kamus Aceh-Indonesia (Acehnese-Indonesian Dictionary), p. 183
+source: 'Kamus Aceh-Indonesia (extracted from pp.124-270 of the source edition, Acehnese section entries
+  cèm-unyèn through gutie/H). File: markdown.md supplied by the user. — p.183'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate reviewer. Some fields (English translations, Jawi) may be incomplete due to API rate limits during processing. Re-run the translation script to fill in missing fields.
+extraction_notes: Indonesian example translations are taken verbatim from the source. English meanings
+  and Jawi transliterations are AI-flagged as unverified and need human review. Jawi transliteration is
+  AI-generated, not from source — needs verification by a Jawi-literate reviewer.

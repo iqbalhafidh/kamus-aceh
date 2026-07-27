@@ -1,14 +1,59 @@
 headword: craceuek
-jawi: چرچوق
+jawi: ''
 alt_spelling: []
 ipa: ''
 part_of_speech: ''
-definitions: []
+definitions:
+- meaning_id: ceuraceuek cre, che
+  meaning_en: ''
+examples:
+- aceh: 'n tiruan bunyi rentetan kata-kata dl ucapan yg lancar, berkata-kata dng berirama, meratap, menangis:
+    tadeungokeuh - suara maja'
+  jawi: ''
+  id: terdengarlah rentetan kata-kata wanita tua
+  en: ''
+- aceh: meu - (-)
+  jawi: ''
+  id: berbicara dng suara yg berirama
+  en: ''
+- aceh: 'jimeu-saé lagèe bae, meu - - peutoe meunyanyoe, ia bersyair spt orang meratap sedih laksana peti
+    nyanyi. Bd creuk cre v menceraikan, memisahkan, pergi, berpaling, meninggalkan, berangkat: kamoe hana
+    tom - ngon gobnyan'
+  jawi: ''
+  id: kami tidak pernah bercerai dengannya
+  en: ''
+- aceh: geu - nanggroe geujak tuntut èleumèe
+  jawi: ''
+  id: Ia meninggalkan negerinya utk menuntut ilmu
+  en: ''
+- aceh: si Pulan ka -
+  jawi: ''
+  id: ''
+  en: ''
+- aceh: jimeu - ngon inongjih
+  jawi: ''
+  id: si Polan telah bercerai dng istrinya
+  en: ''
+- aceh: '- bré'
+  jawi: ''
+  id: cerai-berai
+  en: ''
+- aceh: meu -
+  jawi: ''
+  id: bercerai
+  en: ''
+- aceh: peu -
+  jawi: ''
+  id: menceraikan
+  en: ''
 etymology: ''
-related_words:
-- ceuraceuek
+related_words: []
 dialect_notes: ''
-source: Kamus Aceh-Indonesia (Acehnese-Indonesian Dictionary), p. 140
+source: 'Kamus Aceh-Indonesia (extracted from pp.124-270 of the source edition, Acehnese section entries
+  cèm-unyèn through gutie/H). File: markdown.md supplied by the user. — p.140'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: Cross-reference entry pointing to 'ceuraceuek'. Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate reviewer.
+extraction_notes: Part of speech not explicitly marked in source. Indonesian example translations are
+  taken verbatim from the source. English meanings and Jawi transliterations are AI-flagged as unverified
+  and need human review. Jawi transliteration is AI-generated, not from source — needs verification by
+  a Jawi-literate reviewer.

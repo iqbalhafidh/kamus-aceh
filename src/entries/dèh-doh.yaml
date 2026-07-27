@@ -1,28 +1,20 @@
 headword: dèh-doh
-jawi: دھ-ده
+jawi: ''
 alt_spelling: []
 ipa: ''
 part_of_speech: n
 definitions:
 - meaning_id: dl keadaan sibuk sekali (bekerja, berjalan)
-  meaning_en: in a very busy state (working, walking)
-  examples:
-  - aceh: jijak
-    jawi: ''
-    id: ''
-    en: ''
-  - aceh: that
-    jawi: ''
-    id: Ia berjalan gopoh-gopoh
-    en: ''
-  - aceh: peu
-    jawi: ''
-    id: ''
-    en: ''
-  - aceh: droe
-    jawi: ''
-    id: bersikap sibuk, sengaja menyibukkan diri
-    en: ''
+  meaning_en: ''
+examples:
+- aceh: jijak - that
+  jawi: ''
+  id: Ia berjalan gopoh-gopoh
+  en: ''
+- aceh: peu - droe
+  jawi: ''
+  id: bersikap sibuk, sengaja menyibukkan diri
+  en: ''
 etymology: ''
 related_words:
 - dang-dhot
@@ -30,7 +22,10 @@ related_words:
 - mèh-moh
 - tèh-toh
 dialect_notes: ''
-source: Kamus Aceh-Indonesia (Acehnese-Indonesian Dictionary), p. 163
+source: 'Kamus Aceh-Indonesia (extracted from pp.124-270 of the source edition, Acehnese section entries
+  cèm-unyèn through gutie/H). File: markdown.md supplied by the user. — p.163'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: Some fields (English translations, Jawi) may be incomplete due to API rate limits during processing. Re-run the translation script to fill in missing fields. Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate reviewer.
+extraction_notes: Indonesian example translations are taken verbatim from the source. English meanings
+  and Jawi transliterations are AI-flagged as unverified and need human review. Jawi transliteration is
+  AI-generated, not from source — needs verification by a Jawi-literate reviewer.

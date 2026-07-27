@@ -1,14 +1,103 @@
 headword: ehram
-jawi: عهرم
+jawi: ''
 alt_spelling: []
 ipa: ''
 part_of_speech: ''
 definitions: []
+examples:
+- aceh: 'éheuram ehtilam n ihtilam, mimpi berahi. éhwai adv ihwal, hal ihwal (dl hik): bandum - gobnyan
+    geupeugah bak raja, Semua ihwalnya diceritak- kannya kepada raja., ketidaksenangan krn difitnah: Teuku
+    ka keunong - bak Poteu, Teuku tidak di- senangi lagi oleh baginda éjeumak n ijmak, persepakatan para
+    ulama, persetujuan, keputusan bersama: lam hadih, lam dali, lam kieh, lam - ngon hukôm carak hana
+    geupeugah meunan'
+  jawi: ''
+  id: Dl hadis, dalil, kias, ijmak dan hukum sya- rak tidak disebut hal yg demikian
+  en: ''
+- aceh: '- kamoe si Pulan nyan salah'
+  jawi: ''
+  id: Ke- putusan kami, si Polan itu bersa- lah
+  en: ''
+- aceh: meu -
+  jawi: ''
+  id: berijmak, mengambil keputusan bersama
+  en: ''
+- aceh: 'peu -, beru- saha memperoleh keputusan ber- sama, ban nyang ka geupeu - lê ulama, wajêb taseutêt,
+    Hal-hal yg telah diputuskan atau disepakati oleh ulama wajib diikuti éjeutihat n ijtihad, dng sungguh-sung-
+    guh: tapikê ngon - bak bit-bit'
+  jawi: ''
+  id: Pi- kirlah sesuatu dng sungguh-sung- guh dan mendalam sekali
+  en: ''
+- aceh: 'meu -, berijtihad, berusaha dng sungguh- sungguh 1ék v naik, panjat, menuju ke atas, mulai (dl
+    permainan), mara (dl pe- perangan): - u rumoh'
+  jawi: ''
+  id: naik atau masuk ke rumah
+  en: ''
+- aceh: '- u kapai'
+  jawi: ''
+  id: naik ke kapal
+  en: ''
+- aceh: '- haji'
+  jawi: ''
+  id: naik haji
+  en: ''
+- aceh: '- kô- teubah'
+  jawi: ''
+  id: membacakan khotbah
+  en: ''
+- aceh: '- saksi'
+  jawi: ''
+  id: menjadi saksi
+  en: ''
+- aceh: buleuen -
+  jawi: ''
+  id: bulan naik atau baru
+  en: ''
+- aceh: mata uroe -
+  jawi: ''
+  id: matahari yg sedang terbit
+  en: ''
+- aceh: blah mata uroe -
+  jawi: ''
+  id: dari arah matahari terbit, yi Timur
+  en: ''
+- aceh: pangkatji ka ji -, Pangkatnya sudah dinaikkan. (yum) breueh ka ji - lom
+  jawi: ''
+  id: (Harga) beras sudah naik lagi (dr harga bia- sa)
+  en: ''
+- aceh: peunyaket nyan ji - bak gob
+  jawi: ''
+  id: Penyakit itu menular pada orang lain
+  en: ''
+- aceh: ta - u siat, tapêt boh muda
+  jawi: ''
+  id: Panjatlah batang kela- pa sebentar dan petiklah buahnya yg muda-muda
+  en: ''
+- aceh: '- trôn, naik turun ba - (beu -)'
+  jawi: ''
+  id: membawa ke atas,
+  en: ''
 etymology: ''
 related_words:
-- éheuram
+- '*hai* éjeuba *n* hukuman'
+- 'ketidaksenangan krn difitnah: *Teuku ka keunong* — *bak Poteu*'
+- '*Teuku* tidak di- senangi lagi oleh baginda éjeumak *n* ijmak'
+- persepakatan para ulama
+- persetujuan
+- 'keputusan bersama: *lam hadih'
+- lam dali
+- lam* *kieh
+- lam* — *ngon hukôm carak* *hana geupeugah meunan*
+- Dl hadis
+- dalil
+- kias
+- ijmak dan hukum sya- rak tidak disebut hal yg demikian
+- '*jangkêt*'
 dialect_notes: ''
-source: Kamus Aceh-Indonesia (Acehnese-Indonesian Dictionary), p. 190
+source: 'Kamus Aceh-Indonesia (extracted from pp.124-270 of the source edition, Acehnese section entries
+  cèm-unyèn through gutie/H). File: markdown.md supplied by the user. — p.190'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: Cross-reference entry pointing to 'éheuram'. Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate reviewer.
+extraction_notes: Part of speech not explicitly marked in source. Definition may be embedded in examples
+  or incomplete in source. Indonesian example translations are taken verbatim from the source. English
+  meanings and Jawi transliterations are AI-flagged as unverified and need human review. Jawi transliteration
+  is AI-generated, not from source — needs verification by a Jawi-literate reviewer.

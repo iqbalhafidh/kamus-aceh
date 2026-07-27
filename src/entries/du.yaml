@@ -2,20 +2,58 @@ headword: du
 jawi: ''
 alt_spelling: []
 ipa: ''
-part_of_speech: ''
+part_of_speech: n
 definitions:
-- meaning_id: ayah,bapak
-  meaning_en: father
-examples: []
+- meaning_id: (di daerah Pidie) ayah
+  meaning_en: ''
+- meaning_id: tunduk (menyembunyikan diri), selam
+  meaning_en: ''
+examples:
+- aceh: ha
+  jawi: ''
+  id: kakek dr pihak ayah
+  en: ''
+- aceh: ta - bacut bèk leumah gob kalon
+  jawi: ''
+  id: tunduklah sedikit spy Anda tidak dilihat orang
+  en: ''
+- aceh: jak - gasêng gata
+  jawi: ''
+  id: tempatkan gasing Anda dl lingkaran
+  en: ''
+- aceh: peu-
+  jawi: ''
+  id: menyuruh tunduk, mem- beribingkan atau meletakkan secara memanjang (ump meriam, mayat)
+  en: ''
+- aceh: pakon tajak peu - aneuk gob likôt eumpung manok, kon teu-boih jih dum? mengapa Anda menyuruh anak-anak
+    orang bersembunyi di belakang kandang ayam, bukannya mereka akan kotor semua? neucok bak arôn nyang
+    sulu-sulu, teuma neupeu - keu beunteueng kuta
+  jawi: ''
+  id: ia mengambil batang-batang cemara yg lurus-lurus dan meletakkannya sbg balok-balok lintang di kubu
+    pertahanan
+  en: ''
+- aceh: teu-
+  jawi: ''
+  id: terbaring
+  en: ''
+- aceh: meu-reuyam raya ubè-bè bak u bandum teu - di ateueh kuta
+  jawi: ''
+  id: meriam-meriam sebesar batang kelapa terbaring di atas kubu pertahanan
+  en: ''
 etymology: ''
 related_words:
-- abi
-- abu
-- ayah
-- yah
+- '*ayah'
+- du-ya
+- ku*
+- '*tunu*'
 dialect_notes: ''
-source: 'Daud, Bukhari & Mark Durie. Kamus Basa Acèh = Kamus Bahasa Aceh: Acehnese–Indonesian–English Thesaurus.
-  Pacific Linguistics C-151, 1999, p. 12; vii (PDF p. 5).'
-date_added: '2026-07-20'
+source: 'Kamus Aceh-Indonesia (extracted from pp.124-270 of the source edition, Acehnese section entries
+  cèm-unyèn through gutie/H). File: markdown.md supplied by the user. — p.179'
+date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: ''
+extraction_notes: Indonesian example translations are taken verbatim from the source. English meanings
+  and Jawi transliterations are AI-flagged as unverified and need human review. Jawi transliteration is
+  AI-generated, not from source — needs verification by a Jawi-literate reviewer. Part of speech not explicitly
+  marked in source. Indonesian example translations are taken verbatim from the source. English meanings
+  and Jawi transliterations are AI-flagged as unverified and need human review. Jawi transliteration is
+  AI-generated, not from source — needs verification by a Jawi-literate reviewer.

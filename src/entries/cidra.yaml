@@ -1,40 +1,35 @@
 headword: cidra
-jawi: چيدرا
+jawi: ''
 alt_spelling: []
 ipa: ''
-part_of_speech: a
+part_of_speech: Skr a
 definitions:
 - meaning_id: cedera, cacat, salah, kerugian, malapetaka
   meaning_en: ''
-  examples:
-  - aceh: bèk meuluka asoe, bajèe pi h'an beukah, tulông Allah hana
-    jawi: ''
-    id: jangankan terluka daging, baju pun tidak koyak, ia tidak cedera berkat bantuan Allah
-    en: ''
-  - aceh: ureueng nyan
-    jawi: ''
-    id: ''
-    en: ''
-  - aceh: h'an jeuet tabôh keu peutua
-    jawi: ''
-    id: orang itu cedera (tubuhnya), ia tidak dapat dijadikan ketua
-    en: ''
-  - aceh: meu
-    jawi: ''
-    id: = *
-    en: peu ~ ~ droe, act like a maiden
-  - aceh: cidra
-    jawi: ''
-    id: '*'
-    en: '*'
-  - aceh: peu
-    jawi: ''
-    id: membuat cedera
-    en: to injure
-etymology: Sanskrit
+examples:
+- aceh: bèk meuluka asoe, bajèe pi h'an beukah, tulông Allah hana -
+  jawi: ''
+  id: jangankan terluka daging, baju pun tidak koyak, ia tidak cedera berkat bantuan Allah
+  en: ''
+- aceh: ureueng nyan -, h'an jeuet tabôh keu peutua
+  jawi: ''
+  id: orang itu cedera (tubuhnya), ia tidak dapat dijadikan ketua
+  en: ''
+- aceh: meu - = *cidra*
+  jawi: ''
+  id: ''
+  en: ''
+- aceh: peu -
+  jawi: ''
+  id: membuat cedera
+  en: ''
+etymology: ''
 related_words: []
 dialect_notes: ''
-source: Kamus Aceh-Indonesia (Acehnese-Indonesian Dictionary), p. 135
+source: 'Kamus Aceh-Indonesia (extracted from pp.124-270 of the source edition, Acehnese section entries
+  cèm-unyèn through gutie/H). File: markdown.md supplied by the user. — p.135'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: 'Etymology: Sanskrit. Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate reviewer. Some fields (English translations, Jawi) may be incomplete due to API rate limits during processing. Re-run the translation script to fill in missing fields.'
+extraction_notes: Indonesian example translations are taken verbatim from the source. English meanings
+  and Jawi transliterations are AI-flagged as unverified and need human review. Jawi transliteration is
+  AI-generated, not from source — needs verification by a Jawi-literate reviewer.

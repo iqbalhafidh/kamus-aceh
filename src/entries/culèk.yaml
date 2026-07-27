@@ -1,47 +1,65 @@
 headword: culèk
-jawi: جول٢ك
+jawi: ''
 alt_spelling: []
 ipa: ''
 part_of_speech: v
 definitions:
-- meaning_id: 'mencukil, mengorek, mengukir, menggoret, mengeluarkan: - gigoe, alat pengorek gigi'
+- meaning_id: mencukil, mengorek, mengukir, menggoret, mengeluarkan
   meaning_en: ''
-  examples: []
-- meaning_id: gobnyan teungoh geu - u, Ia sedang mencungkil kelapa (dr tempurungnya)
-  meaning_en: gobnyan teungoh geu - u, Ia sedang mencungkil kelapa (dr tempurungnya)
-  examples: []
-- meaning_id: meu -, dicungkil, melakukan pekerjaan mencungkil
-  meaning_en: ''
-  examples: []
-- meaning_id: peu -, menyuruh mencungkil
-  meaning_en: peu -, to urge to dig up
-  examples: []
-- meaning_id: teu -, dicungkil
-  meaning_en: teu -, picked
-  examples: []
-- meaning_id: ceumulèk, melakukan pekerjaan mencungkil
-  meaning_en: ''
-  examples: []
-- meaning_id: utòh ceumulèk, ahli mengukir
-  meaning_en: Utòh ceumulèk, master carver
-  examples: []
-- meaning_id: sikin ceumulèk, pisau mengukir
-  meaning_en: ''
-  examples: []
-- meaning_id: ceunulèk, melakukan pekerjaan mengukir
-  meaning_en: ceunulèk, to do carving work
-  examples: []
-- meaning_id: cara atau hasilnya
-  meaning_en: ''
-  examples: []
-- meaning_id: "u(meu) -, kelapa cungkil → peunyulèk, cungké\n  culèt → culot\n  culèt"
-  meaning_en: to accuse
-  examples: []
+examples:
+- aceh: '- gigoe'
+  jawi: ''
+  id: alat pengorek gigi
+  en: ''
+- aceh: gobnyan teungoh geu - u
+  jawi: ''
+  id: Ia sedang mencungkil kelapa (dr tempurungnya)
+  en: ''
+- aceh: meu -
+  jawi: ''
+  id: dicungkil, melakukan pekerjaan mencungkil
+  en: ''
+- aceh: peu -
+  jawi: ''
+  id: menyuruh mencungkil
+  en: ''
+- aceh: teu -
+  jawi: ''
+  id: dicungkil
+  en: ''
+- aceh: ceumulèk
+  jawi: ''
+  id: melakukan pekerjaan mencungkil
+  en: ''
+- aceh: utòh ceumulèk
+  jawi: ''
+  id: ahli mengukir
+  en: ''
+- aceh: sikin ceumulèk
+  jawi: ''
+  id: pisau mengukir
+  en: ''
+- aceh: ceunulèk
+  jawi: ''
+  id: melakukan pekerjaan mengukir
+  en: ''
+- aceh: cara atau hasilnya
+  jawi: ''
+  id: ''
+  en: ''
+- aceh: u(meu) -
+  jawi: ''
+  id: kelapa cungkil, cungké
+  en: ''
 etymology: ''
 related_words:
-- cilèt
+- peunyulèk
+- cungké
 dialect_notes: ''
-source: Kamus Aceh-Indonesia (Acehnese-Indonesian Dictionary), p. 147
+source: 'Kamus Aceh-Indonesia (extracted from pp.124-270 of the source edition, Acehnese section entries
+  cèm-unyèn through gutie/H). File: markdown.md supplied by the user. — p.147'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate reviewer.
+extraction_notes: Indonesian example translations are taken verbatim from the source. English meanings
+  and Jawi transliterations are AI-flagged as unverified and need human review. Jawi transliteration is
+  AI-generated, not from source — needs verification by a Jawi-literate reviewer.

@@ -1,48 +1,32 @@
 headword: gôi
-jawi: ݢوي
+jawi: ''
 alt_spelling: []
 ipa: ''
 part_of_speech: a
 definitions:
 - meaning_id: 'huru-hara, gaduh: — —, membuat huru-hara'
-  meaning_en: 'chaotic, noisy: — —, making chaos'
-  examples:
-  - aceh: bak piasan nyan inong agam meujampu bawô
-    jawi: ''
-    id: ''
-    en: ''
-  - aceh: '''oh'
-    jawi: ''
-    id: ''
-    en: ''
-  - aceh: taleungo su ureueng
-    jawi: ''
-    id: Pd keramaian itu laki-laki dan perempuan bercampur baur, suara mereka terdengar gaduh sekali
-    en: ''
-  - aceh: peu
-    jawi: ''
-    id: membuat kegaduhan
-    en: ''
-  - aceh: kon ka lôn peu-gah bèk tapeu
-    jawi: ''
-    id: ''
-    en: ''
-  - aceh: droe
-    jawi: ''
-    id: '! Bukankah sudah saya beritahukan supaya Anda jangan membuat kegaduhan'
-    en: reunggêt*)
-  - aceh: jiduek bak sagoe hana jipeu
-    jawi: ''
-    id: —
-    en: ''
-  - aceh: droe
-    jawi: ''
-    id: Ia duduk di sudut tanpa membuat kegaduhan
-    en: He sat in the corner without making a disturbance
+  meaning_en: ''
+examples:
+- aceh: bak piasan nyan inong agam meujampu bawô, 'oh - taleungo su ureueng
+  jawi: ''
+  id: Pd keramaian itu laki-laki dan perempuan bercampur baur, suara mereka terdengar gaduh sekali
+  en: ''
+- aceh: peu -
+  jawi: ''
+  id: membuat kegaduhan
+  en: ''
+- aceh: kon ka lôn peu-gah bèk tapeu - droe! Bukankah sudah saya beritahukan supaya Anda jangan membuat
+    kegaduhan jiduek bak sagoe hana jipeu - - droe
+  jawi: ''
+  id: Ia duduk di sudut tanpa membuat kegaduhan
+  en: ''
 etymology: ''
 related_words: []
 dialect_notes: ''
-source: Kamus Aceh-Indonesia (Acehnese-Indonesian Dictionary), p. 251
+source: 'Kamus Aceh-Indonesia (extracted from pp.124-270 of the source edition, Acehnese section entries
+  cèm-unyèn through gutie/H). File: markdown.md supplied by the user. — p.251'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate reviewer.
+extraction_notes: Indonesian example translations are taken verbatim from the source. English meanings
+  and Jawi transliterations are AI-flagged as unverified and need human review. Jawi transliteration is
+  AI-generated, not from source — needs verification by a Jawi-literate reviewer.

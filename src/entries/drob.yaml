@@ -1,55 +1,45 @@
 headword: drob
-jawi: درب
+jawi: ''
 alt_spelling: []
 ipa: ''
 part_of_speech: v
 definitions:
-- meaning_id: 'tangkap, pegang, dimasukkan ke dl penjara: – eungkôt, cicém dsb, menangkap ikan, burung dsb'
-  meaning_en: 'catch, hold, put into prison: fish, birds, etc., catching fish, birds, etc.'
-  examples:
-  - aceh: meu
-    jawi: ''
-    id: ditangkap, dipegang →
-    en: ''
-  - aceh: kanja
-    jawi: ''
-    id: ''
-    en: ''
-  - aceh: deumeurob
-    jawi: ''
-    id: ''
-    en: ''
-  - aceh: deumeudrob
-    jawi: ''
-    id: melakukan penangkapan
-    en: ''
-  - aceh: soe
-    jawi: ''
-    id: ''
-    en: ''
-  - aceh: bunoe di peukan?
-    jawi: ''
-    id: siapa yg melakukan tadi?
-    en: ''
-  - aceh: meusé rimueng keumeung
-    jawi: ''
-    id: spt harimau yg hendak menangkap (mangsanya)
-    en: like a tiger about to catch (its prey)
-  - aceh: peu
-    jawi: ''
-    id: menyuruh tangkap
-    en: ''
-  - aceh: deuneurob
-    jawi: ''
-    id: cara melakukan penangkapan
-    en: to cause envy
+- meaning_id: 'tangkap, pegang, dimasuk- kan ke dl penjara: – eungkôt, cicém dsb, menangkap ikan, bu-
+    rung dsb'
+  meaning_en: ''
+- meaning_id: si Pulan ji – lé plisi bunoe, si Pulan plisi – bunoe, si Polan ditangkap oleh Polisi tadi
+  meaning_en: ''
 - meaning_id: tangkapan, tahanan
   meaning_en: ''
-  examples: []
+examples:
+- aceh: meu -
+  jawi: ''
+  id: ditangkap, dipegang
+  en: ''
+- aceh: deumeurob, deumeudrob
+  jawi: ''
+  id: melakukan penangkapan
+  en: ''
+- aceh: soe - bunoe di peukan? siapa yg melakukan tadi? meusé rimueng keumeung -
+  jawi: ''
+  id: spt harimau yg hendak menangkap (mangsanya)
+  en: ''
+- aceh: peu -
+  jawi: ''
+  id: menyuruh tangkap
+  en: ''
+- aceh: deuneurob
+  jawi: ''
+  id: cara melakukan penangkapan
+  en: ''
 etymology: ''
-related_words: []
+related_words:
+- '*kanja*'
 dialect_notes: ''
-source: Kamus Aceh-Indonesia (Acehnese-Indonesian Dictionary), pp. 177, 178
+source: 'Kamus Aceh-Indonesia (extracted from pp.124-270 of the source edition, Acehnese section entries
+  cèm-unyèn through gutie/H). File: markdown.md supplied by the user. — pp.177-178'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate reviewer.
+extraction_notes: Indonesian example translations are taken verbatim from the source. English meanings
+  and Jawi transliterations are AI-flagged as unverified and need human review. Jawi transliteration is
+  AI-generated, not from source — needs verification by a Jawi-literate reviewer.

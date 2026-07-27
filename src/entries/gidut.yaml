@@ -1,38 +1,31 @@
 headword: gidut
-jawi: ڬيدوت
+jawi: ''
 alt_spelling: []
 ipa: ''
 part_of_speech: ''
 definitions:
-- meaning_id: gie
+- meaning_id: geutut ¹gie
   meaning_en: ''
-  examples:
-  - aceh: peu
-    jawi: ''
-    id: ''
-    en: ''
-  - aceh: droe
-    jawi: ''
-    id: berpakaian apaik
-    en: ''
-  - aceh: ureueng Pidie peu
-    jawi: ''
-    id: —
-    en: ''
-  - aceh: droe
-    jawi: ''
-    id: Orang Pidie suka berlagak. → *
-    en: People from Pidie like to show off. → *
-  - aceh: bahie, dhiet, tari
-    jawi: ''
-    id: "*\n §2§ gie"
-    en: '*'
+examples:
+- aceh: 'a rapi, apik (berpakaian atau berhias): peu - droe'
+  jawi: ''
+  id: berpakaian apaik
+  en: ''
+- aceh: ureueng Pidie peu - - droe
+  jawi: ''
+  id: Orang Pidie suka berlagak
+  en: ''
 etymology: ''
 related_words:
-- geutut
-- geue
+- bahie
+- dhiet
+- tari
 dialect_notes: ''
-source: Kamus Aceh-Indonesia (Acehnese-Indonesian Dictionary), p. 240
+source: 'Kamus Aceh-Indonesia (extracted from pp.124-270 of the source edition, Acehnese section entries
+  cèm-unyèn through gutie/H). File: markdown.md supplied by the user. — p.240'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: Cross-reference entry pointing to 'geutut'. Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate reviewer.
+extraction_notes: Part of speech not explicitly marked in source. Indonesian example translations are
+  taken verbatim from the source. English meanings and Jawi transliterations are AI-flagged as unverified
+  and need human review. Jawi transliteration is AI-generated, not from source — needs verification by
+  a Jawi-literate reviewer.

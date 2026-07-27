@@ -1,25 +1,35 @@
 headword: drèh
-jawi: دره
+jawi: ''
 alt_spelling:
 - drih
 ipa: ''
 part_of_speech: n
 definitions:
-- meaning_id: "kp dr Idris, nama lakilaki\n drèh-drèh, trèh-trèh, meudrèh-drèh a terserat (utk kain): bèk meu – – kangui ija, habèh teuboih bandum, Janganlah engkau mengenakan kain rendah sekali sehingga terseret di tanah dan akan kotor semua"
+- meaning_id: kp dr Idris, nama laki- laki drèh-drèh, trèh-trèh, meudrèh-drèh a terserat (utk kain)
   meaning_en: ''
-  examples: []
-- meaning_id: peu ~ , menyuruh seret
-  meaning_en: peu ~ , order to pull
-  examples: []
-- meaning_id: bèk kapeu ~ ija, janganlah engkau membiarkan kainmu terseret
-  meaning_en: ''
-  examples: []
+examples:
+- aceh: bèk meu – – kangui ija
+  jawi: ''
+  id: habèh teuboih bandum, Janganlah engkau me- ngenakan kain rendah sekali se- hingga terseret di tanah
+    dan akan kotor semua
+  en: ''
+- aceh: peu ~
+  jawi: ''
+  id: menyuruh seret
+  en: ''
+- aceh: bèk kapeu ~ ija
+  jawi: ''
+  id: jangan- lah engkau membiarkan kainmu terseret., sibat
+  en: ''
 etymology: ''
 related_words:
 - dreueb
 - sibat
 dialect_notes: ''
-source: Kamus Aceh-Indonesia (Acehnese-Indonesian Dictionary), p. 177
+source: 'Kamus Aceh-Indonesia (extracted from pp.124-270 of the source edition, Acehnese section entries
+  cèm-unyèn through gutie/H). File: markdown.md supplied by the user. — p.177'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: 'Source lists variant spellings: drih. Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate reviewer.'
+extraction_notes: Indonesian example translations are taken verbatim from the source. English meanings
+  and Jawi transliterations are AI-flagged as unverified and need human review. Jawi transliteration is
+  AI-generated, not from source — needs verification by a Jawi-literate reviewer.

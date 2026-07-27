@@ -1,67 +1,83 @@
 headword: geunap
-jawi: ڬونڤ
+jawi: ''
 alt_spelling: []
 ipa: ''
 part_of_speech: a
 definitions:
-- meaning_id: 'genap, pemuh, cukup, setiap: gasai —, permainan ganjil genap → gasai, cêk'
+- meaning_id: genap, pemuh, cukup, setiap
   meaning_en: ''
-  examples:
-  - aceh: ''
-    jawi: ''
-    id: peuet plôh thôn, genap empat puluh tahun
-    en: peuet plôh thôn, exactly forty years
-  - aceh: pruetji ka
-    jawi: ''
-    id: buleuen, Perutnya sudah cukup bulan
-    en: ''
-  - aceh: buleuen pi —, budak keulua, Bulan pun genap dan lahirlah putranya
-    jawi: ''
-    id: uroe, setiap hari
-    en: uroe, every day
-  - aceh: ''
-    jawi: ''
-    id: nap, masing-masing
-    en: ''
-- meaning_id: → jeumeu'at
-  meaning_en: → Friday
-  examples:
-  - aceh: si
-    jawi: ''
-    id: (dl hik), setiap, masing-masing, sepakat
-    en: (dl hik), every, each, agree
-  - aceh: si
-    jawi: ''
-    id: uroe hana meul-heueng, setiap hari tanpa berselang
-    en: ''
-- meaning_id: bêk sagai-sagai tatinggai pakat, bak si – bandumteu rata, Jangan sekali-kali Anda meninggalkan permupakatan dan bersepakatlah Anda semua
-  meaning_en: bêk sagai-sagai tatinggai pakat, bak si – bandumteu rata, Jangan sekali-kali Anda meninggalkan permupakatan dan bersepakatlah Anda semua
-  examples: []
-- meaning_id: meu –, berusaha melakukan permupakatan, bersepakat
-  meaning_en: meu -, to try to reconcile, to agree
-  examples: []
-- meaning_id: lôn meu – ngon si Pulan, Saya telah sepakat dng si Polan
-  meaning_en: ''
-  examples: []
-- meaning_id: peu –, menggenapkan, menyempurnakan, menyuruh sepakat
-  meaning_en: ''
-  examples: []
-- meaning_id: tapeu – bak uroe nyoe tatamong ceuruga, Lengkapilah amal-amal Anda hari ini supaya dapat masuk ke dl sorga
-  meaning_en: tapeu – like today you won't enter heaven, Complete your good deeds today so you can enter heaven
-  examples: []
-- meaning_id: tapeu – sigala rakyat, tapeurôk pakat jeuab peutua, Bersepakatlah dng semua rakyat dan sepakatlah dng setiap peutua
-  meaning_en: tapeu – sigala rakyat, tapeurôk pakat jeuab peutua, Bersepakatlah dng semua rakyat dan sepakatlah dng setiap peutua
-  examples: []
-- meaning_id: geupeunap, pelengkap
-  meaning_en: ''
-  examples: []
-- meaning_id: nyoekeu geuneunap reunggêt sireutôih, Inilah utk mencukupi seratus ringgit
-  meaning_en: ''
-  examples: []
+examples:
+- aceh: gasai -
+  jawi: ''
+  id: permainan ganjil genap, cêk
+  en: ''
+- aceh: '- peuet plôh thôn'
+  jawi: ''
+  id: genap empat puluh tahun
+  en: ''
+- aceh: pruetji ka - buleuen
+  jawi: ''
+  id: Perutnya sudah cukup bulan
+  en: ''
+- aceh: buleuen pi -
+  jawi: ''
+  id: budak keulua, Bulan pun genap dan lahirlah putranya. — uroe, setiap hari
+  en: ''
+- aceh: '- nap'
+  jawi: ''
+  id: masing-masing;
+  en: ''
+- aceh: si - (dl hik)
+  jawi: ''
+  id: setiap, masing-masing, sepakat
+  en: ''
+- aceh: si - uroe hana meul-heueng
+  jawi: ''
+  id: setiap hari tanpa berselang
+  en: ''
+- aceh: bêk sagai-sagai tatinggai pa- kat
+  jawi: ''
+  id: bak si – bandumteu rata, Jangan sekali-kali Anda meninggalkan permupakatan dan bersepakatlah Anda
+    semua
+  en: ''
+- aceh: meu –
+  jawi: ''
+  id: berusaha melakukan permupakatan, bersepakat
+  en: ''
+- aceh: lôn meu – ngon si Pulan
+  jawi: ''
+  id: Saya telah sepakat dng si Polan
+  en: ''
+- aceh: peu –
+  jawi: ''
+  id: menggenapkan, menyempurnakan, menyuruh sepakat
+  en: ''
+- aceh: tapeu – bak uroe nyoe tatamong ceuruga
+  jawi: ''
+  id: Lengkapilah amal-amal Anda hari ini supaya dapat masuk ke dl sorga
+  en: ''
+- aceh: tapeu – sigala rakyat
+  jawi: ''
+  id: tapeurôk pakat jeuab peutua, Bersepakatlah dng semua rakyat dan sepakatlah dng setiap peutua
+  en: ''
+- aceh: geupeunap
+  jawi: ''
+  id: pelengkap
+  en: ''
+- aceh: nyoekeu geuneunap reunggêt sireutôih
+  jawi: ''
+  id: Inilah utk mencukupi seratus ringgit
+  en: ''
 etymology: ''
-related_words: []
+related_words:
+- gasai
+- cêk
+- jeumeu'at
 dialect_notes: ''
-source: Kamus Aceh-Indonesia (Acehnese-Indonesian Dictionary), pp. 228, 229
+source: 'Kamus Aceh-Indonesia (extracted from pp.124-270 of the source edition, Acehnese section entries
+  cèm-unyèn through gutie/H). File: markdown.md supplied by the user. — pp.228-229'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: Some fields (English translations, Jawi) may be incomplete due to API rate limits during processing. Re-run the translation script to fill in missing fields. Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate reviewer.
+extraction_notes: Indonesian example translations are taken verbatim from the source. English meanings
+  and Jawi transliterations are AI-flagged as unverified and need human review. Jawi transliteration is
+  AI-generated, not from source — needs verification by a Jawi-literate reviewer.

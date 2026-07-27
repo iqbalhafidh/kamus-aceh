@@ -1,5 +1,5 @@
 headword: glumbang
-jawi: ڬلومباڠ
+jawi: ''
 alt_spelling:
 - geulumbang
 ipa: ''
@@ -7,44 +7,34 @@ part_of_speech: n
 definitions:
 - meaning_id: gelombang
   meaning_en: ''
-  examples:
-  - aceh: raya that
-    jawi: ''
-    id: '~'
-    en: '~'
-  - aceh: uroe nyoe
-    jawi: ''
-    id: Besar sekali hari ini
-    en: Very big today
-  - aceh: meu
-    jawi: ''
-    id: ~, bergelombang, menyerupai gelombang
-    en: ~, wavy, wave-like
-  - aceh: ie di laôt meu
-    jawi: ''
-    id: ~, Air di laut berbelombang
-    en: ''
-  - aceh: jikachōk ie meu
-    jawi: ''
-    id: Ia menggelebuk-gelubukkan air sehingga bergelombang
-    en: He splashed the water, creating waves
-  - aceh: peu
-    jawi: ''
-    id: "~,\n\n §1§ glumeut\n §1§ go\n membuat bergelombang → bakat, cracuek\n §1§ glumeut a gelumat, atap, geladak perahu: ulèe, gelumat muka"
-    en: ''
-  - aceh: ''
-    jawi: ''
-    id: "iku, gelumat belakang → branda, dét\n  glumeut, geulumeut a gelap (dl hik): malam nyoe ~ that, Malam ini gelap sekali"
-    en: iku, gelumat belakang → branda, dét
-  - aceh: glap
-    jawi: ''
-    id: gelap gulita
-    en: pitch black
+examples:
+- aceh: raya that ~ uroe nyoe
+  jawi: ''
+  id: Besar sekali hari ini
+  en: ''
+- aceh: meu ~
+  jawi: ''
+  id: bergelombang, menyerupai gelombang
+  en: ''
+- aceh: ie di laôt meu ~
+  jawi: ''
+  id: Air di laut berbelombang
+  en: ''
+- aceh: jikachōk ie meu -
+  jawi: ''
+  id: Ia menggelebuk-gelubukkan air sehingga bergelombang
+  en: ''
+- aceh: peu ~
+  jawi: ''
+  id: ¹glumeut ¹go
+  en: ''
 etymology: ''
-related_words:
-- glap
+related_words: []
 dialect_notes: ''
-source: Kamus Aceh-Indonesia (Acehnese-Indonesian Dictionary), pp. 247, 248
+source: 'Kamus Aceh-Indonesia (extracted from pp.124-270 of the source edition, Acehnese section entries
+  cèm-unyèn through gutie/H). File: markdown.md supplied by the user. — pp.247-248'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: 'Source lists variant spellings: geulumbang. Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate reviewer. Some fields (English translations, Jawi) may be incomplete due to API rate limits during processing. Re-run the translation script to fill in missing fields.'
+extraction_notes: Indonesian example translations are taken verbatim from the source. English meanings
+  and Jawi transliterations are AI-flagged as unverified and need human review. Jawi transliteration is
+  AI-generated, not from source — needs verification by a Jawi-literate reviewer.

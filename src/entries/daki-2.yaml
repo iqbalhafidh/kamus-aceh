@@ -4,105 +4,52 @@ alt_spelling: []
 ipa: ''
 part_of_speech: a
 definitions:
-- meaning_id: '*'
-  meaning_en: '*'
-  examples:
-  - aceh: daki
-    jawi: ''
-    id: ''
-    en: ''
-  - aceh: ''
-    jawi: ''
-    id: "a* cerdik, cendekia, bijaksana\n (dl hik)"
-    en: smart, intelligent, wise
-  - aceh: gobnyan sidroe ureueng nyang
-    jawi: ''
-    id: ia seorang yg cendekia *
-    en: ''
-  - aceh: dakwa
-    jawi: ''
-    id: ''
-    en: ''
-  - aceh: ''
-    jawi: ''
-    id: v
-    en: v
-  - aceh: 'mendakwa, menuduh, berdebat, bertengkar, pengaduan:'
-    jawi: ''
-    id: tôk an jinoe goh lom putuih
-    en: ''
-  - aceh: —
-    jawi: ''
-    id: kamoe ngon gobnyan
-    en: ''
-  - aceh: ''
-    jawi: ''
-    id: sampai sekarang belum putus perkara kami dng dia. bak si sulèt uteuen pi luaih (leumah)
-    en: ''
-  - aceh: ''
-    jawi: ''
-    id: bak si malaih
-    en: bak si malaih
-  - aceh: —
-    jawi: ''
-    id: pi raya (na)*, (pb) bagi seorang pembohong, hutan pun luas (=banyak alasannya), bagi seorang pemalas debat pun besar = pembohong dan pemalas banyak tipu-dayanya
-    en: ''
-  - aceh: ji
-    jawi: ''
-    id: ''
-    en: ''
-  - aceh: si pulan nyang ceu-meucue
-    jawi: ''
-    id: Ia menuduh si Polan yg mencuri *
-    en: ''
-  - aceh: dak-dakwi
-    jawi: ''
-    id: ''
-    en: ''
-  - aceh: dakwa-dakwi
-    jawi: ''
-    id: '*, berbagai-bagai dakwaan'
-    en: ''
-  - aceh: dua ureueng
-    jawi: ''
-    id: ''
-    en: ''
-  - aceh: budiadari tomong tuha
-    jawi: ''
-    id: dua orang sedang bertengkar, datanglah seorang bidadari menengahnya
-    en: magic
-  - aceh: meu
-    jawi: ''
-    id: berdebat, → pb pd *
-    en: ''
-  - aceh: talo
-    jawi: ''
-    id: '*'
-    en: '*'
-  - aceh: meu
-    jawi: ''
-    id: ''
-    en: ''
-  - aceh: yum
-    jawi: ''
-    id: bertengkar tt harga
-    en: ''
-  - aceh: bêk tameu
-    jawi: ''
-    id: ''
-    en: ''
-  - aceh: sabé
-    jawi: ''
-    id: janganlah Anda selalu bertengkar
-    en: ''
-  - aceh: peu
-    jawi: ''
-    id: menimbulkan perdebatan
-    en: ureueng nyan meu - - that jijak, cuba tatanyong peue haba! orang itu berjalan sangat tergesa-gesa, coba Anda tanyakan kepadanya khabar apa yg dibawanya
+- meaning_id: cerdik, cendekia, bijaksana (dl hik)
+  meaning_en: ''
+examples:
+- aceh: 'gobnyan sidroe ureueng nyang -, ia seorang yg cendekia *dakwa v mendakwa, menuduh, berdebat,
+    bertengkar, pengaduan: tôk an jinoe goh lom putuih - kamoe ngon gobnyan*'
+  jawi: ''
+  id: sampai sekarang belum putus perkara kami dng dia
+  en: ''
+- aceh: bak si sulèt uteuen pi luaih (leumah), bak si malaih - pi raya (na)
+  jawi: ''
+  id: (pb) bagi seorang pembohong, hutan pun luas (=banyak alasannya), bagi seorang pemalas debat pun
+    besar = pembohong dan pemalas banyak tipu-dayanya
+  en: ''
+- aceh: ji - si pulan nyang ceu-meucue, Ia menuduh si Polan yg mencuri *dak-dakwi, dakwa-dakwi*
+  jawi: ''
+  id: berbagai-bagai dakwaan
+  en: ''
+- aceh: dua ureueng -, budiadari tomong tuha
+  jawi: ''
+  id: dua orang sedang bertengkar, datanglah seorang bidadari menengahnya
+  en: ''
+- aceh: meu -
+  jawi: ''
+  id: berdebat,
+  en: ''
+- aceh: meu - yum
+  jawi: ''
+  id: bertengkar tt harga
+  en: ''
+- aceh: bêk tameu - sabé
+  jawi: ''
+  id: janganlah Anda selalu bertengkar
+  en: ''
+- aceh: peu -
+  jawi: ''
+  id: menimbulkan perdebatan
+  en: ''
 etymology: ''
-related_words: []
+related_words:
+- pb pd **talo**
 dialect_notes: ''
-source: Kamus Aceh-Indonesia (Acehnese-Indonesian Dictionary), p. 154
+source: 'Kamus Aceh-Indonesia (extracted from pp.124-270 of the source edition, Acehnese section entries
+  cèm-unyèn through gutie/H). File: markdown.md supplied by the user. — p.154'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: Part of speech not specified in source. Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate reviewer. Some fields (English translations, Jawi) may be incomplete due to API rate limits during processing. Re-run the translation script to fill in missing fields. Headword was originally parsed as '2' (entry number); corrected to 'daki' based on source analysis. Jawi field cleared — original AI-generated Jawi was for the numeric entry number, not the actual headword. Needs regeneration.
+extraction_notes: Homonym 2 of the headword 'daki'. Indonesian example translations are taken verbatim
+  from the source. English meanings and Jawi transliterations are AI-flagged as unverified and need human
+  review. Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate
+  reviewer.

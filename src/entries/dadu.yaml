@@ -1,42 +1,51 @@
 headword: dadu
-jawi: دادو
+jawi: ''
 alt_spelling:
-- boh dadu
+- boh
+- dadu
+- bertaruh
 ipa: ''
 part_of_speech: n
 definitions:
 - meaning_id: batu dadu
-  meaning_en: die
-  examples:
-  - aceh: bruek
-    jawi: ''
-    id: batok penutup dadu yg sedang diputar
-    en: ''
-  - aceh: tika
-    jawi: ''
-    id: lapak dadu
-    en: ''
-  - aceh: cipé
-    jawi: ''
-    id: piring tempat memutar dadu
-    en: dice-rolling tray
-  - aceh: tob
-    jawi: ''
-    id: bertaruh dadu
-    en: 'a small bundle (of rice or grass), a small bundle: ta'
-  - aceh: meu
-    jawi: ''
-    id: '='
-    en: ''
-  - aceh: meu èn
-    jawi: ''
-    id: bermain dadu, bertaruh dadu
-    en: play dice, bet on dice
+  meaning_en: ''
+- meaning_id: '*'
+  meaning_en: ''
+examples:
+- aceh: bruek -
+  jawi: ''
+  id: batok penutup dadu yg se- dang diputar
+  en: ''
+- aceh: tika -
+  jawi: ''
+  id: lapak dadu
+  en: ''
+- aceh: cipé -
+  jawi: ''
+  id: piring tempat memutar dadu
+  en: ''
+- aceh: tob -
+  jawi: ''
+  id: bertaruh dadu
+  en: ''
+- aceh: meu -, = meu èn -
+  jawi: ''
+  id: bermain
+  en: ''
+- aceh: judi*
+  jawi: ''
+  id: ''
+  en: ''
 etymology: ''
-related_words:
-- judi
+related_words: []
 dialect_notes: ''
-source: Kamus Aceh-Indonesia (Acehnese-Indonesian Dictionary), p. 152
+source: 'Kamus Aceh-Indonesia (extracted from pp.124-270 of the source edition, Acehnese section entries
+  cèm-unyèn through gutie/H). File: markdown.md supplied by the user. — p.152'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: 'Source lists variant spellings: boh dadu. Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate reviewer.'
+extraction_notes: Indonesian example translations are taken verbatim from the source. English meanings
+  and Jawi transliterations are AI-flagged as unverified and need human review. Jawi transliteration is
+  AI-generated, not from source — needs verification by a Jawi-literate reviewer. Part of speech not explicitly
+  marked in source. Indonesian example translations are taken verbatim from the source. English meanings
+  and Jawi transliterations are AI-flagged as unverified and need human review. Jawi transliteration is
+  AI-generated, not from source — needs verification by a Jawi-literate reviewer.

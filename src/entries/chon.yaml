@@ -1,5 +1,5 @@
 headword: chon
-jawi: چون
+jawi: ''
 alt_spelling:
 - eunchon
 - inchon
@@ -7,37 +7,33 @@ alt_spelling:
 ipa: ''
 part_of_speech: v
 definitions:
-- meaning_id: 'melompat: ~ , melompat ke atas dan ke bawah, melompat lompat, melonjak-lonjak, menjengek, menari-nari'
-  meaning_en: 'lenggundi, a shrub: – agam, male lenggundi'
-  examples:
-  - aceh: jigròb ji ~ meugring geunta
-    jawi: ''
-    id: ia melompat dan menjengek sehingga berbunyi gentanya
-    en: People say so, but who knows the truth
-  - aceh: meu
-    jawi: ''
-    id: ~ , melakukan
-    en: ~ , to do/perform
-  - aceh: chon, meusipak batee, meu ~ keureuna sakèt that
-    jawi: ''
-    id: kakinya tersandung batu sehingga ia melompat-lompat karenanya
-    en: stamping feet
-  - aceh: peu
-    jawi: ''
-    id: ~ , menyuruh lompat
-    en: ~ , telling to jump
-  - aceh: peu
-    jawi: ''
-    id: '~'
-    en: '~'
-  - aceh: droe
-    jawi: ''
-    id: sengaja melompat-lomat
-    en: ''
+- meaning_id: 'melompat: ~, melompat ke atas dan ke bawah, melompat lompat, melonjak-lonjak, menjengek,
+    menari-nari'
+  meaning_en: ''
+examples:
+- aceh: jigròb ji ~ meugring geunta
+  jawi: ''
+  id: ia melompat dan menjengek sehingga berbunyi gentanya
+  en: ''
+- aceh: meu ~, melakukan chon, meusipak batee, meu ~ keureuna sakèt that
+  jawi: ''
+  id: kakinya tersandung batu sehingga ia melompat-lompat karenanya
+  en: ''
+- aceh: peu ~
+  jawi: ''
+  id: menyuruh lompat
+  en: ''
+- aceh: peu ~ droe
+  jawi: ''
+  id: sengaja melompat-lomat
+  en: ''
 etymology: ''
 related_words: []
 dialect_notes: ''
-source: Kamus Aceh-Indonesia (Acehnese-Indonesian Dictionary), p. 133
+source: 'Kamus Aceh-Indonesia (extracted from pp.124-270 of the source edition, Acehnese section entries
+  cèm-unyèn through gutie/H). File: markdown.md supplied by the user. — p.133'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: 'Source lists variant spellings: eunchon, inchon, chèn. Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate reviewer.'
+extraction_notes: Indonesian example translations are taken verbatim from the source. English meanings
+  and Jawi transliterations are AI-flagged as unverified and need human review. Jawi transliteration is
+  AI-generated, not from source — needs verification by a Jawi-literate reviewer.

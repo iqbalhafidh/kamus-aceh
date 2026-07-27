@@ -1,212 +1,132 @@
 headword: droe
-jawi: دراء
+jawi: ''
 alt_spelling: []
 ipa: ''
 part_of_speech: n
 definitions:
-- meaning_id: 'diri, pribadi: —'
+- meaning_id: diri, pribadi
   meaning_en: ''
-  examples:
-  - aceh: ku
-    jawi: ''
-    id: —
-    en: ''
-  - aceh: lôn
-    jawi: ''
-    id: aku, saya sendiri
-    en: ''
-  - aceh: keu
-    jawi: ''
-    id: engkau sendiri
-    en: you yourself
-  - aceh: teu
-    jawi: ''
-    id: Anda sendiri
-    en: yourself
-  - aceh: ji
-    jawi: ''
-    id: dia sendiri
-    en: ''
-  - aceh: neu
-    jawi: ''
-    id: Anda sendiri
-    en: yourself
-  - aceh: bèk tapeuhina
-    jawi: ''
-    id: (
-    en: ''
-  - aceh: teu
-    jawi: ''
-    id: ), Janganlah Anda menghina diri sendiri
-    en: Do not insult yourself
-  - aceh: ji peuraya
-    jawi: ''
-    id: ''
-    en: ''
-  - aceh: ji
-    jawi: ''
-    id: ia membesar-besarkan diri sendiri
-    en: ''
-  - aceh: ayah
-    jawi: ''
-    id: ayah sendiri
-    en: ''
-  - aceh: areuta
-    jawi: ''
-    id: harta atau milik sendiri
-    en: wealth or personal property
-  - aceh: peunyakét
-    jawi: ''
-    id: →
-    en: →
-  - aceh: peunyakét
-    jawi: ''
-    id: ''
-    en: ''
-  - aceh: lakèe
-    jawi: ''
-    id: meminta diri
-    en: ''
-  - aceh: kheun
-    jawi: ''
-    id: ''
-    en: ''
-  - aceh: peugah
-    jawi: ''
-    id: bercerita tt diri sendiri, memperkenalkan diri kpd orang lain
-    en: telling about oneself, introducing oneself to others
-  - aceh: takheun
-    jawi: ''
-    id: ''
-    en: ''
-  - aceh: ubak Allah
-    jawi: ''
-    id: mintalah kpd Allah. →
-    en: ''
-  - aceh: d'ua
-    jawi: ''
-    id: ''
-    en: ''
-  - aceh: pakon h'an neupeugah
-    jawi: ''
-    id: ''
-    en: ''
-  - aceh: ubak kamoe mangat meutusoe
-    jawi: ''
-    id: mengapa Anda tidak memperkenalkan diri Anda spy kami mengetahuinya
-    en: ''
-  - aceh: padum
-    jawi: ''
-    id: ''
-    en: ''
-  - aceh: rakan
-    jawi: ''
-    id: ''
-    en: ''
-  - aceh: neul
-    jawi: ''
-    id: Berapa orang pengikut Anda?
-    en: ''
-  - aceh: si
-    jawi: ''
-    id: seorang (sbg bilangan utk orang), sendiri, seseorang
-    en: a person (as number for person), alone, someone
-  - aceh: na si
-    jawi: ''
-    id: ''
-    en: ''
-  - aceh: ureueng
-    jawi: ''
-    id: ''
-    en: ''
-  - aceh: nanji si Brahim
-    jawi: ''
-    id: ada seseorang bernama Irabhim
-    en: there is someone named Irabhim
-  - aceh: si
-    jawi: ''
-    id: ''
-    en: ''
-  - aceh: ji
-    jawi: ''
-    id: ia seorang diri, ia sendiri
-    en: he is alone, himself
-  - aceh: hana si
-    jawi: ''
-    id: tak ada seorang pun
-    en: ''
-  - aceh: hana si
-    jawi: ''
-    id: ''
-    en: ''
-  - aceh: di rumoh
-    jawi: ''
-    id: ''
-    en: ''
 - meaning_id: tak ada seorang pun di rumah
   meaning_en: ''
-  examples:
-  - aceh: sit (cit) ka neumakruhih
-    jawi: ''
-    id: sudah sama-sama kita maklumi
-    en: ''
-  - aceh: hana lôn turi nyang toh
-    jawi: ''
-    id: ''
-    en: ''
-  - aceh: nyang toh gob
-    jawi: ''
-    id: saya tidak mengenal mana orang lain mana keluarga sendiri
-    en: ''
-  - aceh: meu
-    jawi: ''
-    id: —, melakukan sesuatu menurut keinginan sendiri
-    en: ''
-  - aceh: lam buet pèng h'an jeuet tameu
-    jawi: ''
-    id: —, dl urusan keuangan, kita tak boleh menurut kehendak sendiri = kita harus sangat teliti
-    en: ''
-  - aceh: keu
-    jawi: ''
-    id: sendiri, utk diri sendiri, seorang diri
-    en: –, the child sits side by side
-  - aceh: lôn keumeung jak keu
-    jawi: ''
-    id: (
-    en: ''
-  - aceh: lôn
-    jawi: ''
-    id: ), Saya hendak pergi sendiri
-    en: ''
-  - aceh: teuhah keu
-    jawi: ''
-    id: terbuka sendiri
-    en: opens by itself
-  - aceh: di lôn, lôn duek
-    jawi: ''
-    id: ''
-    en: ''
-  - aceh: lôn keu
-    jawi: ''
-    id: ''
-    en: ''
-  - aceh: hana ngon
-    jawi: ''
-    id: Saya duduk sendiri tanpa teman
-    en: I sit alone without friends
-  - aceh: sabé keu
-    jawi: ''
-    id: ''
-    en: ''
-  - aceh: sabé keu
-    jawi: ''
-    id: —, bersama-sama
-    en: -, together
+examples:
+- aceh: ku, - lôn
+  jawi: ''
+  id: aku, saya sendiri
+  en: ''
+- aceh: '- keu'
+  jawi: ''
+  id: engkau sendiri
+  en: ''
+- aceh: '- teu'
+  jawi: ''
+  id: Anda sendiri
+  en: ''
+- aceh: '- ji'
+  jawi: ''
+  id: dia sendiri
+  en: ''
+- aceh: '- neu'
+  jawi: ''
+  id: Anda sendiri
+  en: ''
+- aceh: bèk tapeuhina - (teu)
+  jawi: ''
+  id: Janganlah Anda menghina diri sendiri
+  en: ''
+- aceh: ji peuraya - ji
+  jawi: ''
+  id: ia membesar-besarkan diri sendiri
+  en: ''
+- aceh: ayah -
+  jawi: ''
+  id: ayah sendiri
+  en: ''
+- aceh: areuta -
+  jawi: ''
+  id: harta atau milik sendiri
+  en: ''
+- aceh: peunyakét -
+  jawi: ''
+  id: ''
+  en: ''
+- aceh: lakèe -
+  jawi: ''
+  id: meminta diri
+  en: ''
+- aceh: kheun -, peugah -
+  jawi: ''
+  id: bercerita tt diri sendiri, memperkenalkan diri kpd orang lain
+  en: ''
+- aceh: takheun - ubak Allah
+  jawi: ''
+  id: mintalah kpd Allah
+  en: ''
+- aceh: pakon h'an neupeugah - ubak kamoe mangat meutusoe
+  jawi: ''
+  id: mengapa Anda tidak memperkenalkan diri Anda spy kami mengetahuinya
+  en: ''
+- aceh: padum - rakan - neul Berapa orang pengikut Anda? si -
+  jawi: ''
+  id: seorang (sbg bilangan utk orang), sendiri, seseorang
+  en: ''
+- aceh: na si - ureueng, nanji si Brahim
+  jawi: ''
+  id: ada seseorang ber- nama Irabhim
+  en: ''
+- aceh: si - ji
+  jawi: ''
+  id: ia seorang diri, ia sendiri
+  en: ''
+- aceh: hana si -
+  jawi: ''
+  id: tak ada seorang pun
+  en: ''
+- aceh: hana si - di rumoh
+  jawi: ''
+  id: ''
+  en: ''
+- aceh: '- sit (cit) ka neumakruhih'
+  jawi: ''
+  id: sudah sama-sama kita maklumi
+  en: ''
+- aceh: hana lôn turi nyang toh -, nyang toh gob
+  jawi: ''
+  id: saya tidak mengenal mana orang lain mana keluarga sendiri
+  en: ''
+- aceh: meu - -
+  jawi: ''
+  id: melakukan sesuatu menurut keinginan sendiri
+  en: ''
+- aceh: lam buet pèng h'an jeuet tameu - -
+  jawi: ''
+  id: dl urusan keuangan, kita tak boleh menurut kehendak sendiri = kita harus sangat teliti
+  en: ''
+- aceh: 'keu -, sendiri, utk diri sendiri, seorang diri: lôn keumeung jak keu - (lôn)'
+  jawi: ''
+  id: Saya hendak pergi sendiri
+  en: ''
+- aceh: teuhah keu -
+  jawi: ''
+  id: terbuka sendiri
+  en: ''
+- aceh: di lôn, lôn duek - lôn keu -, hana ngon
+  jawi: ''
+  id: Saya duduk sendiri tanpa teman
+  en: ''
+- aceh: sabé keu -, sabé keu - -
+  jawi: ''
+  id: bersama-sama
+  en: ''
 etymology: ''
 related_words:
-- bé
+- '*peunyakét*'
+- '*d''ua*'
+- '*bé*'
 dialect_notes: ''
-source: Kamus Aceh-Indonesia (Acehnese-Indonesian Dictionary), p. 178
+source: 'Kamus Aceh-Indonesia (extracted from pp.124-270 of the source edition, Acehnese section entries
+  cèm-unyèn through gutie/H). File: markdown.md supplied by the user. — p.178'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate reviewer. Some fields (English translations, Jawi) may be incomplete due to API rate limits during processing. Re-run the translation script to fill in missing fields.
+extraction_notes: Indonesian example translations are taken verbatim from the source. English meanings
+  and Jawi transliterations are AI-flagged as unverified and need human review. Jawi transliteration is
+  AI-generated, not from source — needs verification by a Jawi-literate reviewer.

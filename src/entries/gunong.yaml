@@ -1,28 +1,28 @@
 headword: gunong
-jawi: گونوڠ
+jawi: ''
 alt_spelling: []
 ipa: ''
 part_of_speech: n
 definitions:
-- meaning_id: 'gunung: —'
-  meaning_en: 'mountain: —'
-  examples:
-  - aceh: saulawah
-    jawi: ''
-    id: nama salah satu gunung di Aceh Besar
-    en: ''
-  - aceh: gunongan
-    jawi: ''
-    id: ''
-    en: ''
-  - aceh: gunong-gunongan
-    jawi: ''
-    id: bangunan dl bentuk gunung kecil di Banda Aceh peninggalan bangunan-bangunan yg didirikan atas perintah Sultan Iskandarmuda
-    en: building in the shape of a small hill in Banda Aceh, a remnant of buildings built on the orders of Sultan Iskandarmuda
+- meaning_id: gunung
+  meaning_en: ''
+examples:
+- aceh: saulawah
+  jawi: ''
+  id: nama salah satu gunung di Aceh Besar
+  en: ''
+- aceh: gunongan, gunong-gunongan
+  jawi: ''
+  id: bangunan dl bentuk gunung kecil di Banda Aceh peninggalan bangunan-bangunan yg didirikan atas perintah
+    Sultan Iskandarmuda →
+  en: ''
 etymology: ''
 related_words: []
 dialect_notes: ''
-source: Kamus Aceh-Indonesia (Acehnese-Indonesian Dictionary), p. 264
+source: 'Kamus Aceh-Indonesia (extracted from pp.124-270 of the source edition, Acehnese section entries
+  cèm-unyèn through gutie/H). File: markdown.md supplied by the user. — p.264'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate reviewer.
+extraction_notes: Indonesian example translations are taken verbatim from the source. English meanings
+  and Jawi transliterations are AI-flagged as unverified and need human review. Jawi transliteration is
+  AI-generated, not from source — needs verification by a Jawi-literate reviewer.

@@ -1,50 +1,41 @@
 headword: giduek
-jawi: گيدوک
+jawi: ''
 alt_spelling: []
 ipa: ''
 part_of_speech: v
 definitions:
-- meaning_id: 'mengendarai: ji — guda (ji — ateueh guda), Ia mengendarai kuda. meu — (teu —), berkendaraan'
+- meaning_id: 'mengendarai: ji — guda (ji — ateueh guda), Ia mengenda- rai kuda. meu — (teu —), berken-
+    daraan'
   meaning_en: ''
-  examples:
-  - aceh: peu
-    jawi: ''
-    id: menyuruh kendarai
-    en: ''
-  - aceh: peu
-    jawi: ''
-    id: "keubeue inong,\n\n\n\n menyuruh tunggangi kerbau betina (tindakan hukuman pd masa kerajaan Aceh thd laki-laki yg menganiaya istrinya), melakukan perzinahan atau pencurian"
-    en: ''
-  - aceh: geupeu
-    jawi: ''
-    id: ''
-    en: ''
-  - aceh: keubeue
-    jawi: ''
-    id: menyuruh tungzangi kerbau
-    en: ordering to buffalo
-  - aceh: geumiduek
-    jawi: ''
-    id: melakukan pekerjaan mengendarai, sedang melakukan pekerjaan mengendarai
-    en: kitchen, stove
-  - aceh: geunudiek
-    jawi: ''
-    id: yg dikendarai
-    en: which is driven/operated
-  - aceh: jameun dilée geuniduek
-    jawi: ''
-    id: ''
-    en: ''
-  - aceh: raja-raja Acèh, gajah puteh
-    jawi: ''
-    id: Kendaraan raja-raja Aceh dahulu adalah gajah putih
-    en: The vehicle of Aceh kings in the past was a white elephant
+- meaning_id: peu —, menyuruh ken- darai
+  meaning_en: ''
+- meaning_id: peu — keubeue inong, menyuruh tunggangi kerbau beti- na (tindakan hukuman pd masa kerajaan
+    Aceh thd laki-laki yg menganiaya istrinya), melakukan perzinahan atau pencurian
+  meaning_en: ''
+examples:
+- aceh: geu- peu - keubeue
+  jawi: ''
+  id: menyuruh tung- zangi kerbau
+  en: ''
+- aceh: geumiduek
+  jawi: ''
+  id: melaku- kan pekerjaan mengendarai, se- dang melakukan pekerjaan me- ngendarai
+  en: ''
+- aceh: geunudiek
+  jawi: ''
+  id: yg diken- darai
+  en: ''
+- aceh: jameun dilée geuniduek raja-raja Acèh, gajah puteh
+  jawi: ''
+  id: Ken- daraan raja-raja Aceh dahulu ada-
+  en: ''
 etymology: ''
-related_words:
-- duek
-- pasang
+related_words: []
 dialect_notes: ''
-source: Kamus Aceh-Indonesia (Acehnese-Indonesian Dictionary), pp. 239, 240
+source: 'Kamus Aceh-Indonesia (extracted from pp.124-270 of the source edition, Acehnese section entries
+  cèm-unyèn through gutie/H). File: markdown.md supplied by the user. — pp.239-240'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate reviewer. Some fields (English translations, Jawi) may be incomplete due to API rate limits during processing. Re-run the translation script to fill in missing fields.
+extraction_notes: Indonesian example translations are taken verbatim from the source. English meanings
+  and Jawi transliterations are AI-flagged as unverified and need human review. Jawi transliteration is
+  AI-generated, not from source — needs verification by a Jawi-literate reviewer.

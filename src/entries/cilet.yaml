@@ -1,40 +1,47 @@
 headword: cilet
-jawi: چيلت
+jawi: ''
 alt_spelling: []
 ipa: ''
 part_of_speech: v
 definitions:
 - meaning_id: mencolek, menyapu, menyeka, menggosok, atau melabur sesuatu dng ujung jari
   meaning_en: ''
-  examples:
-  - aceh: gapu si
-    jawi: ''
-    id: kapur secolet
-    en: chalk dust
-  - aceh: bèk ka
-    jawi: ''
-    id: ''
-    en: ''
-  - aceh: jaroekeu lam gulè
-    jawi: ''
-    id: jangan engkau memasukkan jarimu ke dl gulai
-    en: don't put your finger in the curry
-  - aceh: meu
-    jawi: ''
-    id: –, tercolek
-    en: –, poked
-  - aceh: peu
-    jawi: ''
-    id: –, sengaja dicolekkan
-    en: –, intentionally touched
-  - aceh: ceumilèt
-    jawi: ''
-    id: mencolek
-    en: ''
+examples:
+- aceh: gapu si -
+  jawi: ''
+  id: kapur secolet
+  en: ''
+- aceh: bèk ka - jaroekeu lam gulè, jangan engkau mema- sukkan jarimu ke dl gulai, meu –
+  jawi: ''
+  id: tercolek
+  en: ''
+- aceh: peu –
+  jawi: ''
+  id: sengaja dicolekkan
+  en: ''
+- aceh: 'ceumilèt, mencolek cina n Cina: nanggroe –'
+  jawi: ''
+  id: negeri Cina
+  en: ''
+- aceh: ureueng –
+  jawi: ''
+  id: orang Cina
+  en: ''
+- aceh: beudé –
+  jawi: ''
+  id: mercon dr ngeri Cina
+  en: ''
+- aceh: meu –
+  jawi: ''
+  id: menyerupai cina
+  en: ''
 etymology: ''
 related_words: []
 dialect_notes: ''
-source: Kamus Aceh-Indonesia (Acehnese-Indonesian Dictionary), pp. 135, 136
+source: 'Kamus Aceh-Indonesia (extracted from pp.124-270 of the source edition, Acehnese section entries
+  cèm-unyèn through gutie/H). File: markdown.md supplied by the user. — pp.135-136'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate reviewer. Some fields (English translations, Jawi) may be incomplete due to API rate limits during processing. Re-run the translation script to fill in missing fields.
+extraction_notes: Indonesian example translations are taken verbatim from the source. English meanings
+  and Jawi transliterations are AI-flagged as unverified and need human review. Jawi transliteration is
+  AI-generated, not from source — needs verification by a Jawi-literate reviewer.

@@ -1,21 +1,38 @@
 headword: guci
-jawi: جوچي
+jawi: ''
 alt_spelling:
 - berguci-guci
 ipa: ''
-part_of_speech: ''
+part_of_speech: n
 definitions:
-- meaning_id: "peudeuna, tayeuen\n  guci n jin, hantu: ka jipeuduek –, Ia sudah membentuk guci"
+- meaning_id: guci besar dr tanah dng atau tanpa perut
   meaning_en: ''
-  examples: []
-- meaning_id: lam parêk nyan na –, Dl parit itu ada
+- meaning_id: geutôm, peudeuna, tayeuen
   meaning_en: ''
-  examples: []
+- meaning_id: jin, hantu
+  meaning_en: ''
+examples:
+- aceh: meu –
+  jawi: ''
+  id: mempunyai
+  en: ''
+- aceh: ka jipeuduek –
+  jawi: ''
+  id: Ia sudah membentuk guci
+  en: ''
+- aceh: lam pa- rêk nyan na –
+  jawi: ''
+  id: Dl parit itu ada
+  en: ''
 etymology: ''
-related_words:
-- geutôm
+related_words: []
 dialect_notes: ''
-source: Kamus Aceh-Indonesia (Acehnese-Indonesian Dictionary), p. 258
+source: 'Kamus Aceh-Indonesia (extracted from pp.124-270 of the source edition, Acehnese section entries
+  cèm-unyèn through gutie/H). File: markdown.md supplied by the user. — p.258'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: 'Cross-reference entry pointing to ''geutôm''. Source lists variant spellings: berguci-guci. Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate reviewer.'
+extraction_notes: Indonesian example translations are taken verbatim from the source. English meanings
+  and Jawi transliterations are AI-flagged as unverified and need human review. Jawi transliteration is
+  AI-generated, not from source — needs verification by a Jawi-literate reviewer. Part of speech not explicitly
+  marked in source. Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate
+  reviewer.

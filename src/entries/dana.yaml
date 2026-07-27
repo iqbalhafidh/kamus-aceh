@@ -1,55 +1,41 @@
 headword: dana
-jawi: دانا
+jawi: ''
 alt_spelling: []
 ipa: ''
 part_of_speech: a
 definitions:
 - meaning_id: miskin, papa, melarat, hina-dina
   meaning_en: ''
-  examples:
-  - aceh: ulôntuan ureueng
-    jawi: ''
-    id: –, Saya seorang yg papa
-    en: I am a papa person
-  - aceh: maté
-    jawi: ''
-    id: –, tidak dpt terbakar krn lembab, tidak subur
-    en: ''
-  - aceh: kayèe maté
-    jawi: ''
-    id: –
-    en: ), sj white lice that attach to cloth
-  - aceh: hana jitém hu
-    jawi: ''
-    id: kayu basah yg tidak mau menyala apinya
-    en: ''
-  - aceh: tanoh maté
-    jawi: ''
-    id: –, tanah yg tidak subur utk ditanami
-    en: infertile land for planting
-  - aceh: peu
-    jawi: ''
-    id: –
-    en: ), sj white lice that attach to cloth
-  - aceh: droe
-    jawi: ''
-    id: berlaku spt orang papa
-    en: ''
-- meaning_id: Bd *
-  meaning_en: ''
-  examples:
-  - aceh: dama
-    jawi: ''
-    id: ''
-    en: ''
-  - aceh: ''
-    jawi: ''
-    id: la'èh*
-    en: ''
+examples:
+- aceh: ulôntuan ureueng –
+  jawi: ''
+  id: Saya seorang yg papa
+  en: ''
+- aceh: maté –
+  jawi: ''
+  id: tidak dpt terbakar krn lembab, tidak subur
+  en: ''
+- aceh: kayèe maté –, hana jitém hu
+  jawi: ''
+  id: kayu basah yg tidak mau menyala apinya
+  en: ''
+- aceh: tanoh maté –
+  jawi: ''
+  id: tanah yg tidak subur utk ditanami
+  en: ''
+- aceh: peu – droe
+  jawi: ''
+  id: berlaku spt orang papa
+  en: ''
 etymology: ''
-related_words: []
+related_words:
+- '*dama'
+- la'èh*
 dialect_notes: ''
-source: Kamus Aceh-Indonesia (Acehnese-Indonesian Dictionary), p. 157
+source: 'Kamus Aceh-Indonesia (extracted from pp.124-270 of the source edition, Acehnese section entries
+  cèm-unyèn through gutie/H). File: markdown.md supplied by the user. — p.157'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate reviewer. Some fields (English translations, Jawi) may be incomplete due to API rate limits during processing. Re-run the translation script to fill in missing fields.
+extraction_notes: Indonesian example translations are taken verbatim from the source. English meanings
+  and Jawi transliterations are AI-flagged as unverified and need human review. Jawi transliteration is
+  AI-generated, not from source — needs verification by a Jawi-literate reviewer.

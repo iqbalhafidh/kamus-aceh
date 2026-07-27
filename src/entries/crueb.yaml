@@ -1,47 +1,31 @@
 headword: crueb
-jawi: چيوڠ
+jawi: ''
 alt_spelling: []
 ipa: ''
 part_of_speech: v
 definitions:
-- meaning_id: 'terngkurap, telungkup, tidur di atas perut: bèk ka — bak teungoh leuen, jangan engkau melengkup di tengah halaman. meu — (teu), tertiarap'
+- meaning_id: terngkurap, telungkup, tidur di atas perut
   meaning_en: ''
-  examples:
-  - aceh: bèk meu
-    jawi: ''
-    id: kaéh, jangan engkau tidur telungkup
-    en: No, don't sleep on your stomach
-  - aceh: "peu —, menengkurapkan\n cr'ueh crôh v menggoreng: ta"
-    jawi: ''
-    id: eungkôt reujang, lôn keumeung pajôh bu, Gorenglah ikan cepat-cepat, saya hendak makan nasi
-    en: bringing rice with side dishes for a pregnant daughter-in-law
-  - aceh: meu — (teu
-    jawi: ''
-    id: ), digoreng
-    en: ''
-  - aceh: peu
-    jawi: ''
-    id: menyuruh goreng
-    en: ''
-  - aceh: "ceumucrueh, melakukan pekerjaan menggoreng\n  cruek n ceuneuruek tempat yg le-mah, tempat sambungan: tamèh rumoh ka patah lam"
-    jawi: ''
-    id: tiang rumah sudah patah pd tempat sambungannya
-    en: ''
-- meaning_id: ceuneuruek, longsor, patah, rusak
-  meaning_en: ''
-  examples:
-  - aceh: ateueng manyang ka habèh reuloih
-    jawi: ''
-    id: "tanoh seun sideupa, tanggul-tanggul tinggi sudah longsor berdepa-depa\n  cruek → chuek\n crueng"
-    en: ''
-- meaning_id: v peucrueng = peusi juek
-  meaning_en: ''
-  examples: []
+examples:
+- aceh: bèk ka - bak teungoh leuen
+  jawi: ''
+  id: jangan engkau melengkup di tengah halaman. meu — (teu), tertiarap
+  en: ''
+- aceh: bèk meu - kaéh
+  jawi: ''
+  id: jangan engkau tidur telungkup
+  en: ''
+- aceh: peu -
+  jawi: ''
+  id: menengkurapkan
+  en: ''
 etymology: ''
-related_words:
-- si juek
+related_words: []
 dialect_notes: ''
-source: Kamus Aceh-Indonesia (Acehnese-Indonesian Dictionary), p. 143
+source: 'Kamus Aceh-Indonesia (extracted from pp.124-270 of the source edition, Acehnese section entries
+  cèm-unyèn through gutie/H). File: markdown.md supplied by the user. — p.143'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate reviewer. Some fields (English translations, Jawi) may be incomplete due to API rate limits during processing. Re-run the translation script to fill in missing fields.
+extraction_notes: Indonesian example translations are taken verbatim from the source. English meanings
+  and Jawi transliterations are AI-flagged as unverified and need human review. Jawi transliteration is
+  AI-generated, not from source — needs verification by a Jawi-literate reviewer.

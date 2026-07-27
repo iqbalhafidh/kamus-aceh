@@ -1,21 +1,40 @@
 headword: cula-caloe
-jawi: چولا-چالو
+jawi: ''
 alt_spelling:
 - keucula-keuculoe
 - pula-puloe
 ipa: ''
 part_of_speech: a
 definitions:
-- meaning_id: "dng bersungguh-sungguh,\n\n\n\n sibuk: ~ jitob padé hana soe paròh manok, Ia sibuk menumbuk padi, tak seorang pun yg mengusir ayam"
-  meaning_en: 'dng bersungguh-sungguh, busy: ~ jitob padé hana soe paròh manok, He was busy pounding rice, no one chased away the chickens'
-  examples: []
-- meaning_id: "peu ~ droe, menyibukkan diri → haro, loe\n  culaih jarang sulaih\n  culaih culas, malas, lamban, tidak jujur: bri he Po buet bek -, beuròh ékeulaih dalam até, berikanlah, ya Tuhanku, supaya saya tidak berbuat culas dan mendapat keikhlasan di dl hati"
+- meaning_id: dng bersungguh-sungguh, sibuk
   meaning_en: ''
-  examples: []
+examples:
+- aceh: ~ jitob padé hana soe paròh manok
+  jawi: ''
+  id: Ia sibuk menumbuk padi, tak seorang pun yg mengusir ayam
+  en: ''
+- aceh: peu ~ droe
+  jawi: ''
+  id: 'menyibukkan diri, loe ¹culaih jarang sulaih ²culaih culas, malas, lamban, tidak jujur: bri he Po
+    buet bek -, beuròh ékeulaih dalam até, berikanlah, ya Tuhanku, supaya saya tidak berbuat culas dan
+    mendapat keikhlasan di dl hati'
+  en: ''
 etymology: ''
-related_words: []
+related_words:
+- haro
+- loe ¹culaih jarang sulaih ²culaih culas
+- malas
+- lamban
+- 'tidak jujur: bri he Po buet bek -'
+- beuròh ékeulaih dalam até
+- berikanlah
+- ya Tuhanku
+- supaya saya tidak berbuat culas dan mendapat keikhlasan di dl hati
 dialect_notes: ''
-source: Kamus Aceh-Indonesia (Acehnese-Indonesian Dictionary), pp. 146, 147
+source: 'Kamus Aceh-Indonesia (extracted from pp.124-270 of the source edition, Acehnese section entries
+  cèm-unyèn through gutie/H). File: markdown.md supplied by the user. — pp.146-147'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: 'Source lists variant spellings: keucula-keuculoe, pula-puloe. Some fields (English translations, Jawi) may be incomplete due to API rate limits during processing. Re-run the translation script to fill in missing fields. Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate reviewer.'
+extraction_notes: Indonesian example translations are taken verbatim from the source. English meanings
+  and Jawi transliterations are AI-flagged as unverified and need human review. Jawi transliteration is
+  AI-generated, not from source — needs verification by a Jawi-literate reviewer.

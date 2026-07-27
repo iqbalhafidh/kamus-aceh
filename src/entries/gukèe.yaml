@@ -1,55 +1,44 @@
 headword: gukèe
-jawi: ݢوكئي
+jawi: ''
 alt_spelling: []
 ipa: ''
 part_of_speech: n
 definitions:
-- meaning_id: '1 kuku: —'
-  meaning_en: 'frozen, thick, hard, solid: when the tin cools, it becomes —'
-  examples:
-  - aceh: suasa
-    jawi: ''
-    id: kuku buatan dr suasa
-    en: gold fingernails
-  - aceh: kamèng
-    jawi: ''
-    id: kuku kambing, tongkat penugal
-    en: ''
-- meaning_id: 2 nama salah satu motif hiasan *
+- meaning_id: 1 kuku
   meaning_en: ''
-  examples:
-  - aceh: kasab
-    jawi: ''
-    id: '* atau sutera'
-    en: '* or silk'
-  - aceh: lueue
-    jawi: ''
-    id: ''
-    en: ''
-  - aceh: kamèng
-    jawi: ''
-    id: celana dng motif hiasan kuku kambing
-    en: —, divided into several parts → cumèh
-  - aceh: kamèng bèt
-    jawi: ''
-    id: serupa, tetapi lebih besar bunga-bunganya dp
-    en: ''
-  - aceh: gukèe kamèng
-    jawi: ''
-    id: biasa
-    en: ''
-  - aceh: rimeung
-    jawi: ''
-    id: kuku harimau, kalung anak-anak yg ditatahkan satu atau dua buah kuku harimau buatan dr emas atau suasa
-    en: tiger claw, a children's necklace with one or two artificial tiger claws made of gold or silver
-  - aceh: meu
-    jawi: ''
-    id: berkuku
-    en: ''
+examples:
+- aceh: suasa
+  jawi: ''
+  id: kuku buatan dr suasa
+  en: ''
+- aceh: '- kamèng'
+  jawi: ''
+  id: kuku kam- bing, tongkat penugal
+  en: ''
+- aceh: 2 nama sa- lah satu motif hiasan *kasab* atau sutera
+  jawi: ''
+  id: ''
+  en: ''
+- aceh: lueue - kamèng
+  jawi: ''
+  id: celana dng motif hiasan kuku kambing
+  en: ''
+- aceh: 1 guliga - kamèng bèt, serupa, tetapi lebih besar bunga-bunganya dp gukèe kamèng biasa
+  jawi: ''
+  id: ''
+  en: ''
+- aceh: '- rimeung, kuku harimau, kalung anak-anak yg ditatahkan satu atau dua buah kuku harimau buatan
+    dr emas atau suasa meu -'
+  jawi: ''
+  id: berkuku
+  en: ''
 etymology: ''
 related_words: []
 dialect_notes: ''
-source: Kamus Aceh-Indonesia (Acehnese-Indonesian Dictionary), pp. 259, 260
+source: 'Kamus Aceh-Indonesia (extracted from pp.124-270 of the source edition, Acehnese section entries
+  cèm-unyèn through gutie/H). File: markdown.md supplied by the user. — pp.259-260'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate reviewer.
+extraction_notes: Indonesian example translations are taken verbatim from the source. English meanings
+  and Jawi transliterations are AI-flagged as unverified and need human review. Jawi transliteration is
+  AI-generated, not from source — needs verification by a Jawi-literate reviewer.

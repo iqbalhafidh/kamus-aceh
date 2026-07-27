@@ -1,57 +1,45 @@
 headword: guruek
-jawi: ݢوروئك
+jawi: ''
 alt_spelling: []
 ipa: ''
 part_of_speech: a
 definitions:
 - meaning_id: longgar
-  meaning_en: loose
-  examples:
-  - aceh: kupiah nyoe
-    jawi: ''
-    id: ''
-    en: ''
-  - aceh: bak ulèe lôn
-    jawi: ''
-    id: Kopiah ini longgar di kepala saya
-    en: ''
-  - aceh: eunciaen nyoe
-    jawi: ''
-    id: ''
-    en: ''
-  - aceh: bak jaroe lôn
-    jawi: ''
-    id: "Cincin ini longgar di jari\n\n\n\n saya"
-    en: This ring is loose on my finger
-  - aceh: bajèe nyoe
-    jawi: ''
-    id: Baju ini longgar
-    en: ''
-  - aceh: labang nyoe
-    jawi: ''
-    id: Paku ini longgar (=tidak kuat dipaku)
-    en: ''
-  - aceh: bèk
-    jawi: ''
-    id: ''
-    en: ''
-  - aceh: taruek ija
-    jawi: ''
-    id: Janganlah longgar Anda memakai kain, → *
-    en: Don't wear your clothes loosely, → *
-  - aceh: euntung
-    jawi: ''
-    id: '*'
-    en: '*'
-  - aceh: peu
-    jawi: ''
-    id: membuat longgar, melonggarkan
-    en: ''
+  meaning_en: ''
+examples:
+- aceh: kupiah nyoe - bak ulèe lôn
+  jawi: ''
+  id: Kopiah ini longgar di kepala saya
+  en: ''
+- aceh: eunciaen nyoe - bak jaroe lôn
+  jawi: ''
+  id: Cincin ini longgar di jari saya
+  en: ''
+- aceh: bajèe nyoe -
+  jawi: ''
+  id: Baju ini longgar
+  en: ''
+- aceh: labang nyoe -
+  jawi: ''
+  id: Paku ini longgar (=tidak kuat dipaku)
+  en: ''
+- aceh: bèk - taruek ija
+  jawi: ''
+  id: Janganlah longgar Anda memakai kain,
+  en: ''
+- aceh: peu - membuat longgar
+  jawi: ''
+  id: melonggarkan
+  en: ''
 etymology: ''
 related_words:
+- euntung
 - arat
 dialect_notes: ''
-source: Kamus Aceh-Indonesia (Acehnese-Indonesian Dictionary), pp. 266, 267
+source: 'Kamus Aceh-Indonesia (extracted from pp.124-270 of the source edition, Acehnese section entries
+  cèm-unyèn through gutie/H). File: markdown.md supplied by the user. — pp.266-267'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate reviewer.
+extraction_notes: Indonesian example translations are taken verbatim from the source. English meanings
+  and Jawi transliterations are AI-flagged as unverified and need human review. Jawi transliteration is
+  AI-generated, not from source — needs verification by a Jawi-literate reviewer.

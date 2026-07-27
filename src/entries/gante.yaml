@@ -1,32 +1,40 @@
 headword: gante
-jawi: ڬانت
+jawi: ''
 alt_spelling: []
 ipa: ''
 part_of_speech: a
 definitions:
-- meaning_id: 'termangu-mangu, bingung, keliru: tahe —, heran dan bingung'
+- meaning_id: termangu-mangu, bingung, keliru
   meaning_en: ''
-  examples:
-  - aceh: pakon gata tahe — uroe nyoe? Megapa Anda terheran-heran dan bigung hari ini? teungoh gèt-gèt ka
-    jawi: ''
-    id: litoh alèe eumieng, Selagi ia menumbuk alu emping baik-baik, tiba-tiba keliru ia menumbuknya
-    en: ~, wearing a sarong
-  - aceh: meu
-    jawi: ''
-    id: sasar, bingung
-    en: sasar, confused
-  - aceh: bèk kajak meu
-    jawi: ''
-    id: kajak laju, Janganlah engkau berjalan tidak beraturan, teruslah berjalan
-    en: quick walk, Don't walk irregularly, keep walking
-  - aceh: peu
-    jawi: ''
-    id: membuat
-    en: ''
+examples:
+- aceh: tahe -
+  jawi: ''
+  id: heran dan bingung
+  en: ''
+- aceh: pakon gata tahe - uroe nyoe? Me- gapa Anda terheran-heran dan bi- gung hari ini? teungoh gèt-gèt
+    ka - litoh alèe eumieng
+  jawi: ''
+  id: Selagi ia me- numbuk alu emping baik-baik, ti- ba-tiba keliru ia menumbuknya
+  en: ''
+- aceh: meu -
+  jawi: ''
+  id: sasar, bingung
+  en: ''
+- aceh: bèk kajak meu -
+  jawi: ''
+  id: kajak laju, Janganlah eng- kau berjalan tidak beraturan, te- ruslah berjalan
+  en: ''
+- aceh: peu -
+  jawi: ''
+  id: membuat
+  en: ''
 etymology: ''
 related_words: []
 dialect_notes: ''
-source: Kamus Aceh-Indonesia (Acehnese-Indonesian Dictionary), p. 215
+source: 'Kamus Aceh-Indonesia (extracted from pp.124-270 of the source edition, Acehnese section entries
+  cèm-unyèn through gutie/H). File: markdown.md supplied by the user. — p.215'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate reviewer. Some fields (English translations, Jawi) may be incomplete due to API rate limits during processing. Re-run the translation script to fill in missing fields.
+extraction_notes: Indonesian example translations are taken verbatim from the source. English meanings
+  and Jawi transliterations are AI-flagged as unverified and need human review. Jawi transliteration is
+  AI-generated, not from source — needs verification by a Jawi-literate reviewer.

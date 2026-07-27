@@ -1,40 +1,45 @@
 headword: cèt
-jawi: چت
+jawi: ''
 alt_spelling: []
 ipa: ''
 part_of_speech: n
 definitions:
 - meaning_id: kain berbunga, kain cit, kain cita
-  meaning_en: floral fabric, cit fabric, cita fabric
-  examples:
-  - aceh: ija
-    jawi: ''
-    id: kain cita
-    en: kain cita
-  - aceh: —
-    jawi: ''
-    id: berbintik-bintik, seluruhnya
-    en: ''
-  - aceh: peu
-    jawi: ''
-    id: melakukan
-    en: ''
-  - aceh: cèt-cèt
-    jawi: ''
-    id: ''
-    en: ''
-  - aceh: bèk kapeu
-    jawi: ''
-    id: —
-    en: ''
-  - aceh: papeuen
-    jawi: ''
-    id: jangan engkau membintik-bintikkan papan
-    en: don't you splatter the wood
+  meaning_en: ''
+- meaning_id: — —, ber- bintik-bintik, seluruhnya
+  meaning_en: ''
+examples:
+- aceh: ija -
+  jawi: ''
+  id: kain cita
+  en: ''
+- aceh: peu -, melakukan cèt-cèt
+  jawi: ''
+  id: ''
+  en: ''
+- aceh: 'bèk kapeu - - papeuen, jangan engkau membintik-bintikkan papan 1 *cèt, cècèt n cicit, cucu anak,
+    keturunan dl garis ketiga: cènda, cècènda, bentuk hormat utk cèt, cicit raja, cèt-cèt n tiruan bunyi
+    cecak: meu ~ berbunyi cèt-cèt*'
+  jawi: ''
+  id: ''
+  en: ''
+- aceh: meu ~ - lidah, memperdengarkan bunyi cèt dng lidah
+  jawi: ''
+  id: ''
+  en: ''
+- aceh: peu ~, memperdengarkan bunyi cèt dng lidah 3 *cèt - cot*
+  jawi: ''
+  id: ''
+  en: ''
 etymology: ''
-related_words: []
+related_words:
+- '**cuco** 2 **cèt'
+- 'cèt-cèt** *n* tiruan bunyi cecak: *meu* ~ berbunyi **cèt-cèt**'
 dialect_notes: ''
-source: Kamus Aceh-Indonesia (Acehnese-Indonesian Dictionary), p. 123 (inferred — appears before first explicit page marker)
+source: 'Kamus Aceh-Indonesia (extracted from pp.124-270 of the source edition, Acehnese section entries
+  cèm-unyèn through gutie/H). File: markdown.md supplied by the user. — p.123'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate reviewer. Some fields (English translations, Jawi) may be incomplete due to API rate limits during processing. Re-run the translation script to fill in missing fields.
+extraction_notes: Indonesian example translations are taken verbatim from the source. English meanings
+  and Jawi transliterations are AI-flagged as unverified and need human review. Jawi transliteration is
+  AI-generated, not from source — needs verification by a Jawi-literate reviewer.

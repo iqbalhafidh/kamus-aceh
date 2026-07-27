@@ -1,92 +1,48 @@
 headword: geutut
-jawi: ڬيوتوت
+jawi: ''
 alt_spelling: []
 ipa: ''
 part_of_speech: ''
 definitions:
-- meaning_id: '*'
-  meaning_en: '*'
-  examples:
-  - aceh: geutu
-    jawi: ''
-    id: ''
-    en: ''
-  - aceh: gidut
-    jawi: ''
-    id: ''
-    en: ''
-  - aceh: gitut
-    jawi: ''
-    id: ''
-    en: ''
-  - aceh: kidut
-    jawi: ''
-    id: ''
-    en: ''
-  - aceh: kitut
-    jawi: ''
-    id: ''
-    en: ''
-  - aceh: ''
-    jawi: ''
-    id: v
-    en: v
-  - aceh: menggetu
-    jawi: ''
-    id: 'mencubit, mengutip atau memetik dng kuku ibu jari dan kuku telunjuk atau antara telunjuk dng kuku ibu jari (ump daun sirih atau sekuntum bunga pd cabangnya, pd sepotong kecil daging): — ôn ranub*, mengutip daun sirih'
-    en: ''
-  - aceh: bâk pha
-    jawi: ''
-    id: mencubit paha
-    en: Pinching thigh
-  - aceh: jipajôhlê bacut-bacut
-    jawi: ''
-    id: ''
-    en: ''
-  - aceh: ji
-    jawi: ''
-    id: ''
-    en: ''
-  - aceh: bu-bê-bê padê
-    jawi: ''
-    id: Ia memakan sedikit-sedikit dan mencubitnya sebesar butir padi
-    en: He ate bit by bit and pinched it the size of a grain of rice
-  - aceh: si
-    jawi: ''
-    id: sedikit
-    en: land route, road through land
-  - aceh: ie sigeutu air
-    jawi: ''
-    id: sedikit, — *
-    en: ''
-  - aceh: bukon
-    jawi: ''
-    id: '*'
-    en: '*'
-  - aceh: tapeugah bandum
-    jawi: ''
-    id: ''
-    en: ''
-  - aceh: bek tasom meu si
-    jawi: ''
-    id: ''
-    en: ''
-  - aceh: bâk lon
-    jawi: ''
-    id: Ceritakanlah semuanya, jangan Anda menyembunyikan sedikit pun kpd saya
-    en: –, to cover someone's body with a cloth up to the chest
-  - aceh: meu
-    jawi: ''
-    id: dikutip
-    en: ''
-  - aceh: geumeutut
-    jawi: ''
-    id: melakukan cubitan, sedang melakukan pencubitan
-    en: ''
+- meaning_id: ', *'
+  meaning_en: ''
+examples:
+- aceh: 'geutu, gidut, gitut, kidut, kitut v menggetu, mencubit, mengutip atau memetik dng kuku ibu jari
+    dan kuku telunjuk atau antara telunjuk dng kuku ibu jari (ump daun sirih atau sekuntum bunga pd cabangnya,
+    pd sepotong kecil daging): - ôn ranub*'
+  jawi: ''
+  id: mengutip daun sirih
+  en: ''
+- aceh: '- bâk pha'
+  jawi: ''
+  id: mencubit paha
+  en: ''
+- aceh: jipajôhlê bacut-bacut, ji - bu-bê-bê padê, Ia memakan sedikit-sedikit dan mencubitnya sebesar
+    butir padi, si -
+  jawi: ''
+  id: sedikit
+  en: ''
+- aceh: ie sigeutu air sedikit, - *bukon*
+  jawi: ''
+  id: ''
+  en: ''
+- aceh: tapeugah bandum, bek tasom meu si - bâk lon, Ceritakanlah semuanya, jangan Anda menyembunyikan
+    sedikit pun kpd saya, meu -
+  jawi: ''
+  id: dikutip
+  en: ''
+- aceh: geumeutut
+  jawi: ''
+  id: melakukan cubitan, sedang melakukan pencubitan
+  en: ''
 etymology: ''
 related_words: []
 dialect_notes: ''
-source: Kamus Aceh-Indonesia (Acehnese-Indonesian Dictionary), p. 238
+source: 'Kamus Aceh-Indonesia (extracted from pp.124-270 of the source edition, Acehnese section entries
+  cèm-unyèn through gutie/H). File: markdown.md supplied by the user. — p.238'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: Part of speech not specified in source. Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate reviewer. Some fields (English translations, Jawi) may be incomplete due to API rate limits during processing. Re-run the translation script to fill in missing fields.
+extraction_notes: Part of speech not explicitly marked in source. Indonesian example translations are
+  taken verbatim from the source. English meanings and Jawi transliterations are AI-flagged as unverified
+  and need human review. Jawi transliteration is AI-generated, not from source — needs verification by
+  a Jawi-literate reviewer.

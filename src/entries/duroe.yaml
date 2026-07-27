@@ -1,72 +1,55 @@
 headword: duroe
-jawi: دروي
+jawi: ''
 alt_spelling: []
 ipa: ''
 part_of_speech: n
 definitions:
-- meaning_id: 'duri, sesuatu yg runcing bentuknya: —'
+- meaning_id: duri, sesuatu yg runcing bentuknya
   meaning_en: ''
-  examples:
-  - aceh: drien
-    jawi: ''
-    id: "duri kulit\n buah durian"
-    en: 'Islam: religion –, Islamic religion'
-  - aceh: panaih
-    jawi: ''
-    id: duri kulit buah nangka
-    en: jackfruit skin thorn
-  - aceh: peulawaji lagêe
-    jawi: ''
-    id: ''
-    en: ''
-  - aceh: panaih ban saboh badan
-    jawi: ''
-    id: Bekas penyakit cacarnya menyerupai duri buah nanzka di seluruh badannya
-    en: The scars from his smallpox resemble jackfruit thorns all over his body
-  - aceh: seukê
-    jawi: ''
-    id: duri daun pandan
-    en: pandan leaf thorn
-  - aceh: meu
-    jawi: ''
-    id: berduri
-    en: ''
-  - aceh: trieng meu
-    jawi: ''
-    id: sj bambu berduri
-    en: thorny bamboo
-  - aceh: têk dara nyan ka meu
-    jawi: ''
-    id: Buah dada dara itu sudah menyerupai duri batang kapuk
-    en: ''
-  - aceh: rêt meu
-    jawi: ''
-    id: ''
-    en: ''
-  - aceh: bêk tajak!
-    jawi: ''
-    id: Jalan berduri, janganlah Anda lalui!
-    en: ''
-  - aceh: peu
-    jawi: ''
-    id: meletakkan duri
-    en: Why do you always go there?
-  - aceh: bêk tapeu
-    jawi: ''
-    id: ''
-    en: ''
-  - aceh: rêt
-    jawi: ''
-    id: ''
-    en: ''
-  - aceh: teutob gob!
-    jawi: ''
-    id: Janganlah Anda meletakkan duri di jalan, akan tercucuk (kaki) orang
-    en: ''
+examples:
+- aceh: drien
+  jawi: ''
+  id: duri kulit buah durian
+  en: ''
+- aceh: '- panaih'
+  jawi: ''
+  id: duri kulit buah nangka
+  en: ''
+- aceh: peulawaji lagêe - panaih ban saboh badan
+  jawi: ''
+  id: Bekas penyakit cacarnya menyerupai duri buah nanzka di seluruh badannya
+  en: ''
+- aceh: '- seukê'
+  jawi: ''
+  id: duri daun pandan
+  en: ''
+- aceh: meu -
+  jawi: ''
+  id: berduri
+  en: ''
+- aceh: trieng meu -
+  jawi: ''
+  id: sj bambu berduri
+  en: ''
+- aceh: têk dara nyan ka meu -
+  jawi: ''
+  id: Buah dada dara itu sudah menyerupai duri batang kapuk
+  en: ''
+- aceh: rêt meu -, bêk tajak! Jalan berduri, janganlah Anda lalui! peu -
+  jawi: ''
+  id: meletakkan duri
+  en: ''
+- aceh: bêk tapeu - rêt, teutob gob! Janganlah Anda meletakkan duri di jalan
+  jawi: ''
+  id: akan tercucuk (kaki) orang
+  en: ''
 etymology: ''
 related_words: []
 dialect_notes: ''
-source: Kamus Aceh-Indonesia (Acehnese-Indonesian Dictionary), p. 185
+source: 'Kamus Aceh-Indonesia (extracted from pp.124-270 of the source edition, Acehnese section entries
+  cèm-unyèn through gutie/H). File: markdown.md supplied by the user. — p.185'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate reviewer. Some fields (English translations, Jawi) may be incomplete due to API rate limits during processing. Re-run the translation script to fill in missing fields.
+extraction_notes: Indonesian example translations are taken verbatim from the source. English meanings
+  and Jawi transliterations are AI-flagged as unverified and need human review. Jawi transliteration is
+  AI-generated, not from source — needs verification by a Jawi-literate reviewer.

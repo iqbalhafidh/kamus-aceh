@@ -2,27 +2,23 @@ headword: dam
 jawi: ''
 alt_spelling: []
 ipa: ''
-part_of_speech: n
+part_of_speech: ''
 definitions:
-- meaning_id: '*'
-  meaning_en: '*'
-  examples:
-  - aceh: dam
-    jawi: ''
-    id: ''
-    en: ''
-  - aceh: (dl hik)
-    jawi: ''
-    id: n
-    en: ''
-  - aceh: 'cerca, cela:'
-    jawi: ''
-    id: bak ureueng Êeulam bêk keuuh na sipheuet ujôb. seumeu'ah, teukabô ngon* —, pd orang Islam hendaknya jangan ada sifat ria, ingin dipuji, takabur, dan tercela
-    en: like a person who pretends to be pious but actually has bad intentions. indeed, it is obligatory for Muslims not to have traits of showing off, wanting praise, arrogance, and disgracefulness
+- meaning_id: (dl hik)
+  meaning_en: ''
+examples:
+- aceh: 'n cerca, cela: bak ureueng Êeulam bêk keuuh na sipheuet ujôb. seumeu''ah, teukabô ngon -'
+  jawi: ''
+  id: pd orang Islam hendaknya jangan ada sifat ria, ingin dipuji, takabur, dan tercela
+  en: ''
 etymology: ''
 related_words: []
 dialect_notes: ''
-source: Kamus Aceh-Indonesia (Acehnese-Indonesian Dictionary), p. 156
+source: 'Kamus Aceh-Indonesia (extracted from pp.124-270 of the source edition, Acehnese section entries
+  cèm-unyèn through gutie/H). File: markdown.md supplied by the user. — p.156'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: Part of speech not specified in source. Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate reviewer. Some fields (English translations, Jawi) may be incomplete due to API rate limits during processing. Re-run the translation script to fill in missing fields. Headword was originally parsed as '2' (entry number); corrected to 'dam' based on source analysis. Jawi field cleared — original AI-generated Jawi was for the numeric entry number, not the actual headword. Needs regeneration.
+extraction_notes: Homonym 2 of the headword 'dam'. Part of speech not explicitly marked in source. Indonesian
+  example translations are taken verbatim from the source. English meanings and Jawi transliterations
+  are AI-flagged as unverified and need human review. Jawi transliteration is AI-generated, not from source
+  — needs verification by a Jawi-literate reviewer.

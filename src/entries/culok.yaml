@@ -1,40 +1,52 @@
 headword: culok
-jawi: چولوک
+jawi: ''
 alt_spelling: []
 ipa: ''
 part_of_speech: v
 definitions:
-- meaning_id: 'mencolok, memfitnah: hana patòt aneuk jaroe - mata, (ki) tidak wajar jari-jari menusuk mata'
-  meaning_en: 'glaring, slandering: hana patòt aneuk jaroe - eyes, (it) is not proper to poke fingers into eyes'
-  examples: []
-- meaning_id: '- daweuet, memasukkan pena ke dl tempat tinta'
+- meaning_id: mencolok, memfitnah
   meaning_en: ''
-  examples: []
-- meaning_id: bèk sagai tapeu - gob, jangan sekali-kali Anda memfitnah orang
-  meaning_en: bèk sagai tapeu - gob, never slander anyone
-  examples: []
-- meaning_id: meu -, teu -, di atau tercolik
-  meaning_en: ''
-  examples: []
-- meaning_id: matajih ka meu - ngon kayèe, matanya tercolok kayu
-  meaning_en: ''
-  examples: []
-- meaning_id: peu -, menyuruh -
-  meaning_en: ordering
-  examples: []
-- meaning_id: ceumulok, melakukan perbuatan memfitnah
-  meaning_en: ka jimeu – –, They have allied (in a bad sense). peu –, to join in an alliance, to ally in a bad sense
-  examples: []
-- meaning_id: ceunulok, alat utk mencolok
-  meaning_en: ''
-  examples: []
-- meaning_id: Bd cucok
-  meaning_en: ''
-  examples: []
+examples:
+- aceh: hana patòt aneuk jaroe - mata, (ki) tidak wajar jari-jari menusuk mata
+  jawi: ''
+  id: ''
+  en: ''
+- aceh: '- daweuet'
+  jawi: ''
+  id: memasukkan pena ke dl tempat tinta
+  en: ''
+- aceh: bèk sagai tapeu - gob
+  jawi: ''
+  id: jangan sekali-kali Anda memfitnah orang
+  en: ''
+- aceh: meu -
+  jawi: ''
+  id: teu -, di atau tercolik
+  en: ''
+- aceh: matajih ka meu - ngon kayèe
+  jawi: ''
+  id: matanya tercolok kayu
+  en: ''
+- aceh: peu -
+  jawi: ''
+  id: menyuruh -
+  en: ''
+- aceh: ceumulok
+  jawi: ''
+  id: melakukan perbuatan memfitnah
+  en: ''
+- aceh: ceunulok
+  jawi: ''
+  id: alat utk mencolok
+  en: ''
 etymology: ''
-related_words: []
+related_words:
+- cucok
 dialect_notes: ''
-source: Kamus Aceh-Indonesia (Acehnese-Indonesian Dictionary), p. 147
+source: 'Kamus Aceh-Indonesia (extracted from pp.124-270 of the source edition, Acehnese section entries
+  cèm-unyèn through gutie/H). File: markdown.md supplied by the user. — p.147'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate reviewer.
+extraction_notes: Indonesian example translations are taken verbatim from the source. English meanings
+  and Jawi transliterations are AI-flagged as unverified and need human review. Jawi transliteration is
+  AI-generated, not from source — needs verification by a Jawi-literate reviewer.

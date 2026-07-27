@@ -1,54 +1,54 @@
 headword: dapu
-jawi: دڤو
+jawi: ''
 alt_spelling: []
 ipa: ''
 part_of_speech: n
 definitions:
 - meaning_id: dapur, tungku
-  meaning_en: eungkôt reujang, lôn keumeung pajôh bu, Fry the fish quickly, I want to eat rice
-  examples:
-  - aceh: rumoh
-    jawi: ''
-    id: –, ruang dapur di bagian belakang rumah Aceh
-    en: –, kitchen space at the back of an Acehnese house
-  - aceh: aneuk di
-    jawi: ''
-    id: –, pengikut
-    en: ''
-  - aceh: ureueng di
-    jawi: ''
-    id: –, wanita yg baru melahirkan → *
-    en: –, woman who has just given birth → *
-  - aceh: madeueng
-    jawi: ''
-    id: '*'
-    en: '*'
-  - aceh: maté di
-    jawi: ''
-    id: –, meninggal km melahirkan
-    en: ''
-  - aceh: boih
-    jawi: ''
-    id: –, mengakhiri masa berdiang setelah melahirkan
-    en: -, ending the period of staying awake after giving birth
-  - aceh: meu
-    jawi: ''
-    id: –, mengadakan atau mempunyai dapur
-    en: ''
-  - aceh: beudé meu
-    jawi: ''
-    id: –, bedil yg menggunakan batu api utk pelurunya
-    en: litoh alèe eumieng, While she was pounding the rice cakes properly, suddenly she made a mistake
-  - aceh: peu
-    jawi: ''
-    id: –, menempatkan sesuatu dekat tungku perundingan, meninggalkan tanah
-    en: ''
+  meaning_en: ''
+examples:
+- aceh: rumoh –
+  jawi: ''
+  id: ruang dapur di bagian belakang rumah Aceh
+  en: ''
+- aceh: aneuk di –
+  jawi: ''
+  id: pengikut
+  en: ''
+- aceh: ureueng di –
+  jawi: ''
+  id: wanita yg baru melahirkan
+  en: ''
+- aceh: maté di –
+  jawi: ''
+  id: meninggal km melahirkan
+  en: ''
+- aceh: boih –
+  jawi: ''
+  id: mengakhiri masa berdiang setelah melahirkan
+  en: ''
+- aceh: meu –
+  jawi: ''
+  id: mengadakan atau mempunyai dapur
+  en: ''
+- aceh: beudé meu –
+  jawi: ''
+  id: bedil yg menggunakan batu api utk pelurunya
+  en: ''
+- aceh: peu –
+  jawi: ''
+  id: menempatkan sesuatu dekat tungku perundingan, meninggalkan tanah
+  en: ''
 etymology: ''
 related_words:
+- madeueng
 - kran
 - teulungkèe
 dialect_notes: ''
-source: Kamus Aceh-Indonesia (Acehnese-Indonesian Dictionary), p. 158
+source: 'Kamus Aceh-Indonesia (extracted from pp.124-270 of the source edition, Acehnese section entries
+  cèm-unyèn through gutie/H). File: markdown.md supplied by the user. — p.158'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate reviewer.
+extraction_notes: Indonesian example translations are taken verbatim from the source. English meanings
+  and Jawi transliterations are AI-flagged as unverified and need human review. Jawi transliteration is
+  AI-generated, not from source — needs verification by a Jawi-literate reviewer.

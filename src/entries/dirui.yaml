@@ -1,32 +1,55 @@
 headword: dirui
-jawi: دروي
+jawi: ''
 alt_spelling: []
 ipa: ''
 part_of_speech: n
 definitions:
-- meaning_id: "lembut dan menyenangkan,\n menyejukkan, sepoi-sepoi: — that angèn nyoe, meus'ebas'eb jita-mong lam-lam bulèeteu, angin ini sangat sepoi, ia merasuk-rasuk sampai-sampai ke dl bulu roma kita"
-  meaning_en: 'soft and pleasant, cooling, gentle: — that angèn nyoe, meus''ebas''eb jita-mong lam-lam bulèeteu, this wind is very gentle, it seeps in through our skin hairs'
-  examples:
-  - aceh: jipôt angèn — — basa, angin berembus sangat menyejukkan, meu — (
-    jawi: ''
-    id: ), berangin-angin, membiarkan diembus angin, menghirup udara segar
-    en: ''
-  - aceh: tutông that, jak tajak meu
-    jawi: ''
-    id: keu deh u blang, udara panas sekali, mari kita menghirup udara segar di sawah
-    en: ''
-  - aceh: peu
-    jawi: ''
-    id: menginginkan, mendinginkan
-    en: ''
-  - aceh: "tapeu — lôn bacut, dinginkan badan saya sedikit. → angèn, sapui\n disa (dl hik) n desa, daerah: eu —, kalon —, tandang —, bertualang melihat daerah, bepergian (utk kesenangan sendiri), melihat sesuatu: sukèe indra jidong bak saboh sagrè, teudong keudroe jieu"
-    jawi: ''
-    id: kelompok indra berdiri pd sebuah sudut, masing-masing mereka melihat pertunjukan
-    en: ''
+- meaning_id: lembut dan menyenangkan, menyejukkan, sepoi-sepoi
+  meaning_en: ''
+examples:
+- aceh: '- that angèn nyoe'
+  jawi: ''
+  id: meus'ebas'eb jita-mong lam-lam bulèeteu, angin ini sangat sepoi, ia merasuk-rasuk sampai-sampai
+    ke dl bulu roma kita
+  en: ''
+- aceh: jipôt angèn - - basa
+  jawi: ''
+  id: angin berembus sangat menyejukkan, meu — (—), berangin-angin, membiarkan diembus angin, menghirup
+    udara segar
+  en: ''
+- aceh: tutông that
+  jawi: ''
+  id: jak tajak meu — keu deh u blang, udara panas sekali, mari kita menghirup udara segar di sawah
+  en: ''
+- aceh: peu -
+  jawi: ''
+  id: menginginkan, mendinginkan
+  en: ''
+- aceh: tapeu - lôn bacut
+  jawi: ''
+  id: 'dinginkan badan saya sedikit., sapui disa (dl hik) n desa, daerah: eu —, kalon —, tandang —, bertualang
+    melihat daerah, bepergian (utk kesenangan sendiri), melihat sesuatu: sukèe indra jidong bak saboh
+    sagrè, teudong keudroe jieu —, kelompok indra berdiri pd sebuah sudut, masing-masing mereka melihat
+    pertunjukan'
+  en: ''
 etymology: ''
-related_words: []
+related_words:
+- angèn
+- sapui disa (dl hik) n desa
+- 'daerah: eu —'
+- kalon —
+- tandang —
+- bertualang melihat daerah
+- bepergian (utk kesenangan sendiri)
+- 'melihat sesuatu: sukèe indra jidong bak saboh sagrè'
+- teudong keudroe jieu —
+- kelompok indra berdiri pd sebuah sudut
+- masing-masing mereka melihat pertunjukan
 dialect_notes: ''
-source: Kamus Aceh-Indonesia (Acehnese-Indonesian Dictionary), p. 171
+source: 'Kamus Aceh-Indonesia (extracted from pp.124-270 of the source edition, Acehnese section entries
+  cèm-unyèn through gutie/H). File: markdown.md supplied by the user. — p.171'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate reviewer.
+extraction_notes: Indonesian example translations are taken verbatim from the source. English meanings
+  and Jawi transliterations are AI-flagged as unverified and need human review. Jawi transliteration is
+  AI-generated, not from source — needs verification by a Jawi-literate reviewer.

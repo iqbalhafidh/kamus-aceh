@@ -1,5 +1,5 @@
 headword: dée
-jawi: دِي
+jawi: ''
 alt_spelling:
 - dée-dée
 ipa: ''
@@ -7,28 +7,23 @@ part_of_speech: a
 definitions:
 - meaning_id: setengah gila, kurang waras
   meaning_en: ''
-  examples:
-  - aceh: si Pulan
-    jawi: ''
-    id: ''
-    en: ''
-  - aceh: bacut
-    jawi: ''
-    id: si Polan kurang waras sedikit
-    en: ''
-  - aceh: peu
-    jawi: ''
-    id: ''
-    en: ''
-  - aceh: droe
-    jawi: ''
-    id: bersikap spt orang yg kurang waras
-    en: behave like someone who is insane
+examples:
+- aceh: si Pulan - bacut
+  jawi: ''
+  id: si Polan kurang waras sedikit
+  en: ''
+- aceh: peu - droe
+  jawi: ''
+  id: bersikap spt orang yg kurang waras
+  en: ''
 etymology: ''
 related_words:
 - seudée
 dialect_notes: ''
-source: Kamus Aceh-Indonesia (Acehnese-Indonesian Dictionary), p. 163
+source: 'Kamus Aceh-Indonesia (extracted from pp.124-270 of the source edition, Acehnese section entries
+  cèm-unyèn through gutie/H). File: markdown.md supplied by the user. — p.163'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: 'Source lists variant spellings: dée-dée. Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate reviewer. Some fields (English translations, Jawi) may be incomplete due to API rate limits during processing. Re-run the translation script to fill in missing fields.'
+extraction_notes: Indonesian example translations are taken verbatim from the source. English meanings
+  and Jawi transliterations are AI-flagged as unverified and need human review. Jawi transliteration is
+  AI-generated, not from source — needs verification by a Jawi-literate reviewer.

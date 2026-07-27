@@ -1,51 +1,43 @@
 headword: glayang
-jawi: ڬلايڠ
+jawi: ''
 alt_spelling: []
 ipa: ''
 part_of_speech: n
 definitions:
 - meaning_id: 'layang-layang: –'
-  meaning_en: 'kite: –'
-  examples:
-  - aceh: tukong
-    jawi: ''
-    id: layang-layang yg berbentuk bi-sa
-    en: kite shaped like bi-sa
-  - aceh: taloe
-    jawi: ''
-    id: –, benang layang-layang
-    en: kite string
-- meaning_id: –
-  meaning_en: ), sj white lice that attach to cloth
-  examples:
-  - aceh: kleueng
-    jawi: ''
-    id: (–
-    en: ''
-  - aceh: Acèh
-    jawi: ''
-    id: ), sj layang-layang besar yg berbentuk burung elang (kleueng)
-    en: ), a large kite shaped like an eagle (kleueng)
-  - aceh: pupo
-    jawi: ''
-    id: – (
-    en: – (
-  - aceh: peuèk
-    jawi: ''
-    id: –), menerbangkan atau menaikkan layang-layang
-    en: flying or raising a kite
-  - aceh: ikan
-    jawi: ''
-    id: –, sj ikan yg bersirip-sirip panjang
-    en: ''
-  - aceh: meu
-    jawi: ''
-    id: –, mempunyai atau menaikkan layang-layang
-    en: ''
+  meaning_en: ''
+examples:
+- aceh: tukong
+  jawi: ''
+  id: layang-layang yg berbentuk bi-sa
+  en: ''
+- aceh: taloe –
+  jawi: ''
+  id: benang layang-layang
+  en: ''
+- aceh: – kleueng (– Acèh)
+  jawi: ''
+  id: sj layang-layang besar yg berbentuk burung elang (kleueng)
+  en: ''
+- aceh: pupo – (peuèk –)
+  jawi: ''
+  id: menerbangkan atau menaikkan layang-layang
+  en: ''
+- aceh: ikan –
+  jawi: ''
+  id: sj ikan yg bersirip-sirip panjang
+  en: ''
+- aceh: meu –
+  jawi: ''
+  id: mempunyai atau menaikkan layang-layang
+  en: ''
 etymology: ''
 related_words: []
 dialect_notes: ''
-source: Kamus Aceh-Indonesia (Acehnese-Indonesian Dictionary), p. 244
+source: 'Kamus Aceh-Indonesia (extracted from pp.124-270 of the source edition, Acehnese section entries
+  cèm-unyèn through gutie/H). File: markdown.md supplied by the user. — p.244'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate reviewer.
+extraction_notes: Indonesian example translations are taken verbatim from the source. English meanings
+  and Jawi transliterations are AI-flagged as unverified and need human review. Jawi transliteration is
+  AI-generated, not from source — needs verification by a Jawi-literate reviewer.

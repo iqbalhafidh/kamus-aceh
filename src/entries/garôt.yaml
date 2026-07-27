@@ -1,31 +1,28 @@
 headword: garôt
-jawi: ݢاروٽ
+jawi: ''
 alt_spelling: []
 ipa: ''
 part_of_speech: n
 definitions:
 - meaning_id: hutan belukar yg ditumbuhi tanaman berduri
-  meaning_en: thicket forest overgrown with thorny plants
-  examples:
-  - aceh: teuma jiteubiet lé rimueng lam
-    jawi: ''
-    id: Lalu keluarlah dr hutan berduri seekor harimau
-    en: Then a tiger came out of the thorny forest
-  - aceh: bak jimeusurôt-surôt, rôh jitamong lam
-    jawi: ''
-    id: Ketika mereka mundur, termasuklah mereka dl hutan berduri
-    en: ''
-- meaning_id: Bd *
   meaning_en: ''
-  examples:
-  - aceh: karôt
-    jawi: ''
-    id: '*'
-    en: '*'
+examples:
+- aceh: teuma jiteubiet lé rimueng lam -
+  jawi: ''
+  id: Lalu keluarlah dr hutan berduri seekor harimau
+  en: ''
+- aceh: bak jimeusurôt-surôt, rôh jitamong lam -
+  jawi: ''
+  id: Ketika mereka mundur, termasuklah mereka dl hutan berduri
+  en: ''
 etymology: ''
-related_words: []
+related_words:
+- '*karôt*'
 dialect_notes: ''
-source: Kamus Aceh-Indonesia (Acehnese-Indonesian Dictionary), p. 218
+source: 'Kamus Aceh-Indonesia (extracted from pp.124-270 of the source edition, Acehnese section entries
+  cèm-unyèn through gutie/H). File: markdown.md supplied by the user. — p.218'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate reviewer. Some fields (English translations, Jawi) may be incomplete due to API rate limits during processing. Re-run the translation script to fill in missing fields.
+extraction_notes: Indonesian example translations are taken verbatim from the source. English meanings
+  and Jawi transliterations are AI-flagged as unverified and need human review. Jawi transliteration is
+  AI-generated, not from source — needs verification by a Jawi-literate reviewer.

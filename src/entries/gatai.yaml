@@ -1,80 +1,44 @@
 headword: gatai
-jawi: ݢاتاي
+jawi: ''
 alt_spelling: []
 ipa: ''
 part_of_speech: a
 definitions:
 - meaning_id: gatal
-  meaning_en: itchy
-  examples:
-  - aceh: ga(n)sang
-    jawi: ''
-    id: ''
-    en: ''
-  - aceh: lôn
-    jawi: ''
-    id: ''
-    en: ''
-  - aceh: that badan
-    jawi: ''
-    id: badan saya gatal sekali
-    en: my body is very itchy
-  - aceh: boh nyan
-    jawi: ''
-    id: ''
-    en: ''
-  - aceh: that, bek tamat!
-    jawi: ''
-    id: Buah itu gatal sekali, jangan Anda pegang!
-    en: ''
-  - aceh: agam
-    jawi: ''
-    id: ''
-    en: ''
-  - aceh: boh!
-    jawi: ''
-    id: laki-laki
-    en: man
-  - aceh: ga(n)sang!
-    jawi: ''
-    id: ''
-    en: ''
-  - aceh: asoe
-    jawi: ''
-    id: gatal badan = bersemangat
-    en: itchy body = enthusiastic/passionate
-  - aceh: aneuk miet muda
-    jawi: ''
-    id: ''
-    en: ''
-  - aceh: that asoe!
-    jawi: ''
-    id: Pemuda sangat bersemangat
-    en: ''
-  - aceh: meu
-    jawi: ''
-    id: menimbulkan rasa gatal, membuat gatal
-    en: causing an itchy feeling, making itchy
-  - aceh: bek kam-eu
-    jawi: ''
-    id: ''
-    en: ''
-  - aceh: ngon boh jok
-    jawi: ''
-    id: "Janganlah\n engkau membuat gatal badanmu dng memegang buah enau"
-    en: '?'
-  - aceh: peu
-    jawi: ''
-    id: menimbulkan gatal, terasa gatal, membuat
-    en: ''
-  - aceh: ga(n)sang
-    jawi: ''
-    id: ''
-    en: ''
+  meaning_en: ''
+examples:
+- aceh: 'ga(n)sang: lôn - that badan'
+  jawi: ''
+  id: badan saya gatal sekali
+  en: ''
+- aceh: boh nyan - that, bek tamat! Buah itu gatal sekali, jangan Anda pegang! agam - boh! laki-laki ga(n)sang!
+    - asoe
+  jawi: ''
+  id: gatal badan = bersemangat
+  en: ''
+- aceh: aneuk miet muda - that asoe! Pemuda sangat bersemangat
+  jawi: ''
+  id: ''
+  en: ''
+- aceh: meu -
+  jawi: ''
+  id: menimbulkan rasa gatal, membuat gatal
+  en: ''
+- aceh: bek kam-eu - ngon boh jok
+  jawi: ''
+  id: Janganlah engkau membuat gatal badanmu dng memegang buah enau
+  en: ''
+- aceh: peu -, menimbulkan gatal, terasa gatal, membuat ga(n)sang
+  jawi: ''
+  id: ''
+  en: ''
 etymology: ''
 related_words: []
 dialect_notes: ''
-source: Kamus Aceh-Indonesia (Acehnese-Indonesian Dictionary), p. 220
+source: 'Kamus Aceh-Indonesia (extracted from pp.124-270 of the source edition, Acehnese section entries
+  cèm-unyèn through gutie/H). File: markdown.md supplied by the user. — p.220'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate reviewer.
+extraction_notes: Indonesian example translations are taken verbatim from the source. English meanings
+  and Jawi transliterations are AI-flagged as unverified and need human review. Jawi transliteration is
+  AI-generated, not from source — needs verification by a Jawi-literate reviewer.

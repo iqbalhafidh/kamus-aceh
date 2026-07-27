@@ -1,22 +1,36 @@
----
-headword: "cicém"
-jawi: ""
+headword: cicém
+jawi: ''
 alt_spelling: []
-ipa: "/ci.cem/"
-part_of_speech: "n"
-language_uncertain: false
+ipa: ''
+part_of_speech: n
 definitions:
-  - meaning_id: "burung"
-    meaning_en: ""
+- meaning_id: burung
+  meaning_en: ''
 examples:
-  - aceh: "– ata lon plara ka iphoe"
-    jawi: ""
-    id: "‘burung peliharaanku sudah terbang’"
-    en: ""
-etymology: ""
-related_words: []
-dialect_notes: ""
-source: "Kamus Bahasa Aceh Daring (Balai Bahasa Provinsi Aceh), 'Entri huruf — cicém', URL: https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/C?page=3 (diakses 20 Juli 2026)"
-date_added: "2026-07-20"
-contributor: "AI-extracted — needs human review"
-extraction_notes: "Diekstrak dari 1 halaman sumber (https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/C?page=3). Tidak ada bentuk Jawi dalam sumber — dibiarkan kosong sesuai aturan."
+- aceh: rumoh
+  jawi: ''
+  id: sj burung yg membuat sarangnya di atap-atap rumah
+  en: ''
+- aceh: '- seumalu'
+  jawi: ''
+  id: sj burung yg lehernya berwarna merah
+  en: ''
+- aceh: cicém raya ulèe
+  jawi: ''
+  id: burung besar kepala, burung berkik
+  en: ''
+- aceh: meu -
+  jawi: ''
+  id: memelihara, menangkap, atau menyerupai burung
+  en: ''
+etymology: ''
+related_words:
+- breukiek
+dialect_notes: ''
+source: 'Kamus Aceh-Indonesia (extracted from pp.124-270 of the source edition, Acehnese section entries
+  cèm-unyèn through gutie/H). File: markdown.md supplied by the user. — pp.134-135'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+extraction_notes: Indonesian example translations are taken verbatim from the source. English meanings
+  and Jawi transliterations are AI-flagged as unverified and need human review. Jawi transliteration is
+  AI-generated, not from source — needs verification by a Jawi-literate reviewer.

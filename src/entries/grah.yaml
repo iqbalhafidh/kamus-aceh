@@ -1,60 +1,85 @@
 headword: grah
-jawi: ڬره
+jawi: ''
 alt_spelling: []
 ipa: ''
 part_of_speech: a
 definitions:
 - meaning_id: haus, merasa haus
   meaning_en: ''
-  examples:
-  - aceh: lôn
-    jawi: ''
-    id: ''
-    en: ''
-  - aceh: that
-    jawi: ''
-    id: ''
-    en: ''
-  - aceh: tabri ie bacut
-    jawi: ''
-    id: Saya haus sekali, berilah air sedikit
-    en: I'm very thirsty, give me a little water
-  - aceh: asèe
-    jawi: ''
-    id: ''
-    en: ''
-  - aceh: →
-    jawi: ''
-    id: '*'
-    en: '*'
-  - aceh: jlong
-    jawi: ''
-    id: '*'
-    en: '*'
-  - aceh: peu
-    jawi: ''
-    id: membuat
-    en: ''
 - meaning_id: haus, membiarkan haus
-  meaning_en: thirsty, to let thirst
-  examples:
-  - aceh: bèk tapeu
-    jawi: ''
-    id: ''
-    en: ''
-  - aceh: gob diblong
-    jawi: ''
-    id: ''
-    en: ''
-  - aceh: taentat ie bak reujang
-    jawi: ''
-    id: Janganlah Anda membiarkan orang haus di sawah, antarlah segera air ke sana *
-    en: ''
+  meaning_en: ''
+- meaning_id: menggerakkan, bergerak, takdir
+  meaning_en: ''
+examples:
+- aceh: lôn - that, tabri ie bacut
+  jawi: ''
+  id: Saya haus sekali, berilah air sedikit
+  en: ''
+- aceh: asèe -
+  jawi: ''
+  id: '*'
+  en: ''
+- aceh: peu -
+  jawi: ''
+  id: membuat
+  en: ''
+- aceh: bèk tapeu - gob diblong, taentat ie bak reujang
+  jawi: ''
+  id: Janganlah Anda membiarkan orang haus di sawah, antarlah segera air ke sana *
+  en: ''
+- aceh: èk ta - kayèe nyan? Dapatkah Anda menggerakkan atau mengangkat kayu itu? uroe ka poh lapan, ka
+    jeuet ta - droe u kuala
+  jawi: ''
+  id: Hari sudah pukul delapan, sudah dapat kita berangkat ke kuala
+  en: ''
+- aceh: meung na - bak Allah, lôn jak u Makah thôm nyoe
+  jawi: ''
+  id: Jika Allah mentakdirkannya, tahun ini saya akan berangkat ke Mekah (Menunaikan ibadah haji)
+  en: ''
+- aceh: ka - bak Allah
+  jawi: ''
+  id: sudah ditakdirkan Allah
+  en: ''
+- aceh: meu -, atau teu -
+  jawi: ''
+  id: bergerak tergerak
+  en: ''
+- aceh: meu -, ate, meu - rasa
+  jawi: ''
+  id: bergerak hati atau perasaan sehingga hilang akal
+  en: ''
+- aceh: meu - ubak ate
+  jawi: ''
+  id: tergerak di hati, terpikir, *
+  en: ''
+- aceh: bèk meu - taduek! Jangan bergerak jika Anda duduk! bèk meu - bak taduek! Janganlah beranjak dr
+    tempat duduk Anda! mpu - jaroe, meuek gigoe
+  jawi: ''
+  id: (pb) bergerak tangan, bertahi gigi = jika orang berusaha pasti akan memperoleh hasilnya
+  en: ''
+- aceh: peu -
+  jawi: ''
+  id: dng sengaja menggerak-gerakkan
+  en: ''
+- aceh: 'bèk tapeu - dore, Jangan Anda bergerak-gerak *gr''ak bunyi orang menggergaji kayu, orang batuk,
+    berteriak: meu -, mengeluarkan bunyi gr''ak*'
+  jawi: ''
+  id: ''
+  en: ''
+- aceh: jibatòk meu -, ia batuk dng suara *gr'ing-gr'ak, gr'um-gr'ak*
+  jawi: ''
+  id: ''
+  en: ''
 etymology: ''
 related_words:
-- dahga
+- '* **jlong**'
+- '* **dahga**'
+- '* **juru**'
 dialect_notes: ''
-source: Kamus Aceh-Indonesia (Acehnese-Indonesian Dictionary), p. 253
+source: 'Kamus Aceh-Indonesia (extracted from pp.124-270 of the source edition, Acehnese section entries
+  cèm-unyèn through gutie/H). File: markdown.md supplied by the user. — p.253'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate reviewer.
+extraction_notes: Indonesian example translations are taken verbatim from the source. English meanings
+  and Jawi transliterations are AI-flagged as unverified and need human review. Jawi transliteration is
+  AI-generated, not from source — needs verification by a Jawi-literate reviewer.

@@ -1,35 +1,43 @@
 headword: deue
-jawi: ديوە
-alt_spelling: []
+jawi: ''
+alt_spelling:
+- meu
 ipa: ''
 part_of_speech: a
 definitions:
 - meaning_id: dangkal, tidak dl
   meaning_en: ''
-  examples:
-  - aceh: kreueng nyoe
-    jawi: ''
-    id: ''
-    en: ''
-  - aceh: jeuet tablôh
-    jawi: ''
-    id: sungai ini dangkal, dpt dimasuki
-    en: This river is shallow, can be waded through
-  - aceh: mon
-    jawi: ''
-    id: sumur yg tidak dl
-    en: ''
-  - aceh: that ie lam krueng nyoe
-    jawi: ''
-    id: dangkal sekali air dl sungai ini
-    en: the water in this river is very shallow
+examples:
+- aceh: kreueng nyoe -, jeuet tablôh
+  jawi: ''
+  id: sungai ini dangkal, dpt dimasuki
+  en: ''
+- aceh: mon -
+  jawi: ''
+  id: sumur yg tidak dl
+  en: ''
+- aceh: '- that ie lam krueng nyoe'
+  jawi: ''
+  id: dangkal sekali air dl sungai ini
+  en: ''
+- aceh: 'adv turut-turutan: ''oh ka sidroe ngui sipatu, teuma nyang laén pi meu - -'
+  jawi: ''
+  id: jika seorang memakai sepatu, yg lain pun turut-turutan juga
+  en: ''
 etymology: ''
 related_words:
 - dè
 - lipè
 - peue
 dialect_notes: ''
-source: Kamus Aceh-Indonesia (Acehnese-Indonesian Dictionary), p. 165
+source: 'Kamus Aceh-Indonesia (extracted from pp.124-270 of the source edition, Acehnese section entries
+  cèm-unyèn through gutie/H). File: markdown.md supplied by the user. — p.165'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate reviewer. Some fields (English translations, Jawi) may be incomplete due to API rate limits during processing. Re-run the translation script to fill in missing fields.
+extraction_notes: Indonesian example translations are taken verbatim from the source. English meanings
+  and Jawi transliterations are AI-flagged as unverified and need human review. Jawi transliteration is
+  AI-generated, not from source — needs verification by a Jawi-literate reviewer. Part of speech not explicitly
+  marked in source. Definition may be embedded in examples or incomplete in source. Indonesian example
+  translations are taken verbatim from the source. English meanings and Jawi transliterations are AI-flagged
+  as unverified and need human review. Jawi transliteration is AI-generated, not from source — needs verification
+  by a Jawi-literate reviewer.

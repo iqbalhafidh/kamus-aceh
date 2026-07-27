@@ -1,54 +1,39 @@
 headword: dara
-jawi: دارا
+jawi: ''
 alt_spelling: []
 ipa: ''
 part_of_speech: n
 definitions:
 - meaning_id: dara, gadis, memasuki masa bunting
-  meaning_en: young woman, girl, entering pregnancy
-  examples:
-  - aceh: aneuk
-    jawi: ''
-    id: –
-    en: ), sj white lice that attach to cloth
-  - aceh: seupo nyan?
-    jawi: ''
-    id: gadis siapa itu? –
-    en: which girl is that? –
-  - aceh: palèh hana malèe
-    jawi: ''
-    id: dara celaka, tak tahu malu!
-    en: miserable virgin, shameless!
-  - aceh: ulèe
-    jawi: ''
-    id: –, masa seorang gadis dpt dikawinkan
-    en: –, when can a girl be married
-  - aceh: cok
-    jawi: ''
-    id: –, merenggut keperawanan seorang gadis
-    en: ''
-- meaning_id: – *
   meaning_en: ''
-  examples:
-  - aceh: ba-
-    jawi: ''
-    id: "*\n\n\n\n rō, pengantin wanita baik, yg kawin sbg gadis atau bukan"
-    en: ''
-  - aceh: tueng
-    jawi: ''
-    id: barō, → meunarō
-    en: ''
+- meaning_id: tueng — barō,
+  meaning_en: ''
 - meaning_id: padé lōn ka ~, padi saya sudah dara dan hampir membunting
-  meaning_en: padé lōn ka ~, my rice is barren and almost pregnant
-  examples: []
+  meaning_en: ''
 - meaning_id: peu ~ ~ droe, berlaku spt seorang dara
-  meaning_en: trying to achieve something
-  examples: []
+  meaning_en: ''
+examples:
+- aceh: aneuk – seupo nyan? gadis siapa itu? – palèh hana malèe, dara celaka, tak tahu malu! ulèe –
+  jawi: ''
+  id: masa seorang gadis dpt dikawinkan
+  en: ''
+- aceh: cok –
+  jawi: ''
+  id: merenggut keperawanan seorang gadis
+  en: ''
+- aceh: – *ba-* rō
+  jawi: ''
+  id: pengantin wanita baik, yg kawin sbg gadis atau bukan
+  en: ''
 etymology: ''
 related_words:
+- meunarō
 - biké
 dialect_notes: ''
-source: Kamus Aceh-Indonesia (Acehnese-Indonesian Dictionary), pp. 158, 159
+source: 'Kamus Aceh-Indonesia (extracted from pp.124-270 of the source edition, Acehnese section entries
+  cèm-unyèn through gutie/H). File: markdown.md supplied by the user. — pp.158-159'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: Some fields (English translations, Jawi) may be incomplete due to API rate limits during processing. Re-run the translation script to fill in missing fields. Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate reviewer.
+extraction_notes: Indonesian example translations are taken verbatim from the source. English meanings
+  and Jawi transliterations are AI-flagged as unverified and need human review. Jawi transliteration is
+  AI-generated, not from source — needs verification by a Jawi-literate reviewer.

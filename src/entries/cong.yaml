@@ -2,16 +2,56 @@ headword: cong
 jawi: ''
 alt_spelling: []
 ipa: ''
-part_of_speech: ''
+part_of_speech: n sj
 definitions:
-- meaning_id: cucu cicit
-  meaning_en: great, great, great grandchild
-examples: []
+- meaning_id: bisul jahat pd kaki yg menyakitkan
+  meaning_en: ''
+- meaning_id: com cōt v memetik atau menarik sesuatu dng menggunakan kaitan pd galah
+  meaning_en: ''
+examples:
+- aceh: ka timoh -
+  jawi: ''
+  id: sudah tumbuh sj bisul
+  en: ''
+- aceh: ceumecōt, ceumecōt, cumucōt, melakukan cōt
+  jawi: ''
+  id: cēt a lurus, lurus tegak, vertikal, curam sekali
+  en: ''
+- aceh: 'terletak tinggi, (tuk bulan), ketinggian (utk matahari), bukit: tadong bak -'
+  jawi: ''
+  id: berdirilah lurus
+  en: ''
+- aceh: '- uroe'
+  jawi: ''
+  id: tengah hari
+  en: ''
+- aceh: glé nyoe - that
+  jawi: ''
+  id: gunung ini curam sekali
+  en: ''
+- aceh: peu -
+  jawi: ''
+  id: membuat tegak lurus
+  en: ''
+- aceh: bumoe nyang lhōk dum jipue -
+  jawi: ''
+  id: semua bumi yg rendah ditinggikannya
+  en: ''
 etymology: ''
-related_words: []
+related_words:
+- kawet cot
+- cēt a lurus
+- lurus tegak
+- vertikal
+- curam sekali
 dialect_notes: ''
-source: 'Daud, Bukhari & Mark Durie. Kamus Basa Acèh = Kamus Bahasa Aceh: Acehnese–Indonesian–English Thesaurus.
-  Pacific Linguistics C-151, 1999, p. 13.'
-date_added: '2026-07-20'
+source: 'Kamus Aceh-Indonesia (extracted from pp.124-270 of the source edition, Acehnese section entries
+  cèm-unyèn through gutie/H). File: markdown.md supplied by the user. — p.139'
+date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: ''
+extraction_notes: Indonesian example translations are taken verbatim from the source. English meanings
+  and Jawi transliterations are AI-flagged as unverified and need human review. Jawi transliteration is
+  AI-generated, not from source — needs verification by a Jawi-literate reviewer. Part of speech not explicitly
+  marked in source. Indonesian example translations are taken verbatim from the source. English meanings
+  and Jawi transliterations are AI-flagged as unverified and need human review. Jawi transliteration is
+  AI-generated, not from source — needs verification by a Jawi-literate reviewer.

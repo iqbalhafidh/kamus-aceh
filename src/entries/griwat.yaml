@@ -1,32 +1,46 @@
 headword: griwat
-jawi: ݢريوات
+jawi: ''
 alt_spelling:
 - geuriwat
 - griwai
 ipa: ''
 part_of_speech: v
 definitions:
-- meaning_id: 'menggerakkan: — droe, menggerakkan diri'
+- meaning_id: menggerakkan
   meaning_en: ''
-  examples:
-  - aceh: hana ji — dore lê. Ia tidak menggerakkan dirinya lagi → bi-lêh, meu
-    jawi: ''
-    id: menggerakkan
-    en: to move
-  - aceh: peu —
-    jawi: ''
-    id: "=\n gro"
-    en: 'depa: tabri sihaih jimeucok si -, kita berikan sehasta dimintanya sedepa = diberikan sedikit dimintany- banyak → atôt'
-- meaning_id: n aneuk gro sj ikan air tawar yg sangat kecil
-  meaning_en: ''
-  examples: []
+examples:
+- aceh: '- droe'
+  jawi: ''
+  id: menggerakkan diri
+  en: ''
+- aceh: hana ji - dore lê. Ia tidak menggerakkan dirinya lagi
+  jawi: ''
+  id: meu —, menggerakkan
+  en: ''
+- aceh: peu - - = gro
+  jawi: ''
+  id: ''
+  en: ''
+- aceh: n aneuk gro sj ikan air tawar yg sangat kecil
+  jawi: ''
+  id: 'mendekur: meu — —, mengeluarkan bunyi mendekur, jiéh meu — — lagèe leumo geusie. Ia tidur mendekur
+    spt sapi yg disembelih'
+  en: ''
 etymology: ''
 related_words:
-- "iet\n gr'o-gr'o mengorok"
+- bi-lêh
+- meu —
+- menggerakkan
+- iet gr'o-gr'o mengorok
 - 'mendekur: meu — —'
 - mengeluarkan bunyi mendekur
+- jiéh meu — — lagèe leumo geusie. Ia tidur mendekur spt sapi yg disembelih. Bd gr'ok
+- gr'ok
 dialect_notes: ''
-source: Kamus Aceh-Indonesia (Acehnese-Indonesian Dictionary), p. 255
+source: 'Kamus Aceh-Indonesia (extracted from pp.124-270 of the source edition, Acehnese section entries
+  cèm-unyèn through gutie/H). File: markdown.md supplied by the user. — p.255'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: 'Source lists variant spellings: geuriwat, griwai. Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate reviewer. Some fields (English translations, Jawi) may be incomplete due to API rate limits during processing. Re-run the translation script to fill in missing fields.'
+extraction_notes: Indonesian example translations are taken verbatim from the source. English meanings
+  and Jawi transliterations are AI-flagged as unverified and need human review. Jawi transliteration is
+  AI-generated, not from source — needs verification by a Jawi-literate reviewer.

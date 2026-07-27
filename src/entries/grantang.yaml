@@ -1,55 +1,38 @@
 headword: grantang
-jawi: ڬنتڠ
+jawi: ''
 alt_spelling:
 - geurantang
 ipa: ''
 part_of_speech: v
 definitions:
 - meaning_id: menggerantang, memarahi, bengis
-  meaning_en: to scold, to berate, fierce
-  examples:
-  - aceh: bêk ta
-    jawi: ''
-    id: ''
-    en: ''
-  - aceh: lôn
-    jawi: ''
-    id: Jangan Anda memarahi saya
-    en: ''
-  - aceh: meu
-    jawi: ''
-    id: menggerang
-    en: ''
-  - aceh: jimarit
-    jawi: ''
-    id: ''
-    en: ''
-  - aceh: meu
-    jawi: ''
-    id: ''
-    en: ''
-  - aceh: that
-    jawi: ''
-    id: Ia berbicara dng marah
-    en: He speaks angrily
-  - aceh: peu
-    jawi: ''
-    id: = —
-    en: ''
-  - aceh: bêk sagai-sagai tapeu
-    jawi: ''
-    id: ''
-    en: ''
-  - aceh: ureueng chik!
-    jawi: ''
-    id: Jangan sekali kali Anda memarahi orang tua!
-    en: Never scold your parents!
+  meaning_en: ''
+examples:
+- aceh: bêk ta - lôn, Jangan Anda memarahi saya meu -
+  jawi: ''
+  id: menggerang
+  en: ''
+- aceh: jimarit meu - that
+  jawi: ''
+  id: Ia berbicara dng marah
+  en: ''
+- aceh: peu -
+  jawi: ''
+  id: = —
+  en: ''
+- aceh: bêk sagai-sagai tapeu - ureueng chik! Jangan sekali kali Anda memarahi orang tua!
+  jawi: ''
+  id: ''
+  en: ''
 etymology: ''
 related_words:
 - deungkêng
 - dhôt
 dialect_notes: ''
-source: Kamus Aceh-Indonesia (Acehnese-Indonesian Dictionary), p. 254
+source: 'Kamus Aceh-Indonesia (extracted from pp.124-270 of the source edition, Acehnese section entries
+  cèm-unyèn through gutie/H). File: markdown.md supplied by the user. — p.254'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: 'Source lists variant spellings: geurantang. Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate reviewer.'
+extraction_notes: Indonesian example translations are taken verbatim from the source. English meanings
+  and Jawi transliterations are AI-flagged as unverified and need human review. Jawi transliteration is
+  AI-generated, not from source — needs verification by a Jawi-literate reviewer.

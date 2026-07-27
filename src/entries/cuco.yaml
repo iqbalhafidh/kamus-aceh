@@ -1,43 +1,39 @@
 headword: cuco
-jawi: چوتسو
+jawi: ''
 alt_spelling: []
 ipa: ''
 part_of_speech: n
 definitions:
 - meaning_id: cucu, keturunan
-  meaning_en: grandchild, descendant
-  examples:
-  - aceh: na padum boh – droeneuh?
-    jawi: ''
-    id: berapa orang cucu yg Anda miliki?
-    en: cumuet lôn ka meu -, bisul saya sudah membengkak peu -, membejolkan Bd cinot
-  - aceh: aneuk
-    jawi: ''
-    id: –, anak cucu, keturunan
-    en: –, descendants, offspring
-  - aceh: geutanyoe bandum aneuk – Nabi Adam
-    jawi: ''
-    id: kita semua keturunan Nabi Adam as
-    en: ''
-  - aceh: bak trôk bak – cah com kah bèk seulamat!
-    jawi: ''
-    id: sampai kpd semua keturunan engkau jangan selamat! (kutukan)
-    en: ''
-- meaning_id: –
-  meaning_en: ), sj white lice that attach to cloth
-  examples:
-  - aceh: beuna, meulintèe bèk woe
-    jawi: ''
-    id: mengharapkan lahir cucu, tetapi jangan digauli menantu, (mengharapkan hasil tanpa upaya)
-    en: ''
-  - aceh: meu
-    jawi: ''
-    id: –, bercucu, berketurunan
-    en: having grandchildren, having descendants
+  meaning_en: ''
+examples:
+- aceh: na padum boh – droeneuh? berapa orang cucu yg Anda miliki? aneuk –
+  jawi: ''
+  id: anak cucu, keturunan
+  en: ''
+- aceh: geutanyoe bandum aneuk – Nabi Adam
+  jawi: ''
+  id: kita semua keturunan Nabi Adam as
+  en: ''
+- aceh: bak trôk bak – cah com kah bèk seulamat! sampai kpd semua keturunan engkau jangan selamat! (kutukan)
+  jawi: ''
+  id: ''
+  en: ''
+- aceh: – beuna, meulintèe bèk woe
+  jawi: ''
+  id: mengharapkan lahir cucu, tetapi jangan digauli menantu, (mengharapkan hasil tanpa upaya)
+  en: ''
+- aceh: meu –
+  jawi: ''
+  id: bercucu, berketurunan
+  en: ''
 etymology: ''
 related_words: []
 dialect_notes: ''
-source: Kamus Aceh-Indonesia (Acehnese-Indonesian Dictionary), p. 144
+source: 'Kamus Aceh-Indonesia (extracted from pp.124-270 of the source edition, Acehnese section entries
+  cèm-unyèn through gutie/H). File: markdown.md supplied by the user. — p.144'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate reviewer.
+extraction_notes: Indonesian example translations are taken verbatim from the source. English meanings
+  and Jawi transliterations are AI-flagged as unverified and need human review. Jawi transliteration is
+  AI-generated, not from source — needs verification by a Jawi-literate reviewer.

@@ -1,28 +1,31 @@
 headword: creue
-jawi: چروئ
+jawi: ''
 alt_spelling: []
 ipa: ''
 part_of_speech: v
 definitions:
-- meaning_id: 'memangkas, meranting (tt cabang-cabang pohon): —'
+- meaning_id: memangkas, meranting (tt cabang-cabang pohon)
   meaning_en: ''
-  examples:
-  - aceh: dheuen bak kayèe
-    jawi: ''
-    id: memangkas dahan pohon kayu
-    en: pruning tree branches
-  - aceh: meu
-    jawi: ''
-    id: dipangkas
-    en: trimmed
-  - aceh: peu
-    jawi: ''
-    id: menyuruh pangkas
-    en: order to trim
+examples:
+- aceh: dheuen bak kayèe
+  jawi: ''
+  id: memangkas dahan pohon kayu
+  en: ''
+- aceh: meu -
+  jawi: ''
+  id: dipangkas
+  en: ''
+- aceh: peu -
+  jawi: ''
+  id: menyuruh pangkas
+  en: ''
 etymology: ''
 related_words: []
 dialect_notes: ''
-source: Kamus Aceh-Indonesia (Acehnese-Indonesian Dictionary), p. 141
+source: 'Kamus Aceh-Indonesia (extracted from pp.124-270 of the source edition, Acehnese section entries
+  cèm-unyèn through gutie/H). File: markdown.md supplied by the user. — p.141'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: Some fields (English translations, Jawi) may be incomplete due to API rate limits during processing. Re-run the translation script to fill in missing fields. Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate reviewer.
+extraction_notes: Indonesian example translations are taken verbatim from the source. English meanings
+  and Jawi transliterations are AI-flagged as unverified and need human review. Jawi transliteration is
+  AI-generated, not from source — needs verification by a Jawi-literate reviewer.

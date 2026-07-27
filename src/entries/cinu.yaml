@@ -1,33 +1,29 @@
 headword: cinu
-jawi: چينو
+jawi: ''
 alt_spelling:
-- bruek cinu
+- bruek
+- cinu
 ipa: ''
 part_of_speech: n
 definitions:
 - meaning_id: alat utk mengambil air yg terbuat dr batok kelapa yg bergagang panjang
   meaning_en: ''
-  examples:
-  - aceh: meu
-    jawi: ''
-    id: mempunyai *
-    en: to have *
-  - aceh: cinu
-    jawi: ''
-    id: '*'
-    en: '*'
-  - aceh: ie meu
-    jawi: ''
-    id: air yg diambil dng *
-    en: ''
-  - aceh: cinu
-    jawi: ''
-    id: '*'
-    en: '*'
+examples:
+- aceh: meu -, mempunyai *cinu*
+  jawi: ''
+  id: ''
+  en: ''
+- aceh: ie meu -, air yg diambil dng *cinu*
+  jawi: ''
+  id: ''
+  en: ''
 etymology: ''
 related_words: []
 dialect_notes: ''
-source: Kamus Aceh-Indonesia (Acehnese-Indonesian Dictionary), p. 137
+source: 'Kamus Aceh-Indonesia (extracted from pp.124-270 of the source edition, Acehnese section entries
+  cèm-unyèn through gutie/H). File: markdown.md supplied by the user. — p.137'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: 'Source lists variant spellings: bruek cinu. Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate reviewer. Some fields (English translations, Jawi) may be incomplete due to API rate limits during processing. Re-run the translation script to fill in missing fields.'
+extraction_notes: Indonesian example translations are taken verbatim from the source. English meanings
+  and Jawi transliterations are AI-flagged as unverified and need human review. Jawi transliteration is
+  AI-generated, not from source — needs verification by a Jawi-literate reviewer.

@@ -1,81 +1,60 @@
 headword: glang
-jawi: ݢلاڠ
+jawi: ''
 alt_spelling: []
 ipa: ''
 part_of_speech: n
 definitions:
 - meaning_id: 'cacing tanah, cacing perut: –'
-  meaning_en: 'earthworm, stomach worm: -'
-  examples:
-  - aceh: tanoh
-    jawi: ''
-    id: cacing tanah
-    en: earthworm
-- meaning_id: –
-  meaning_en: ), sj white lice that attach to cloth
-  examples:
-  - aceh: apui
-    jawi: ''
-    id: cacing tanah yg berwarna merah
-    en: ''
-- meaning_id: –
-  meaning_en: ), sj white lice that attach to cloth
-  examples:
-  - aceh: arè
-    jawi: ''
-    id: (–
-    en: ''
-  - aceh: i
-    jawi: ''
-    id: ), cacing tanah berbentuk pendek dan gemuk yg pd waktu senja mengeluarkan bunyi 'i–'i
-    en: ''
-- meaning_id: –
-  meaning_en: ), sj white lice that attach to cloth
-  examples:
-  - aceh: halòih
-    jawi: ''
-    id: cacing dl perut yg kecil-kecil
-    en: small worms in the stomach
-- meaning_id: –
-  meaning_en: ), sj white lice that attach to cloth
-  examples:
-  - aceh: itam
-    jawi: ''
-    id: cacing tanah yg berwarna hitam
-    en: —, foreigner, Indian person
-  - aceh: meu
-    jawi: ''
-    id: –, bercacing dl perut
-    en: stomach worms
-  - aceh: preutji meu
-    jawi: ''
-    id: –, perutnya bercacing
-    en: ''
-  - aceh: mata meu
-    jawi: ''
-    id: –, sj penyakit mata
-    en: ''
-  - aceh: peu
-    jawi: ''
-    id: –, menimbulkan cacing, membiarkan bercacing
-    en: ''
-  - aceh: pakon tapeu
-    jawi: ''
-    id: –
-    en: ), sj white lice that attach to cloth
-  - aceh: pruet aneukteu
-    jawi: ''
-    id: ''
-    en: ''
-  - aceh: h'an tabri ubat
-    jawi: ''
-    id: Mengapa Anda membiarkan anak Anda bercacing perutnya dan tidak memberikan obat kepadanya!
-    en: Why do you let your child have worms in his stomach and not give him medicine!
+  meaning_en: ''
+examples:
+- aceh: tanoh
+  jawi: ''
+  id: cacing tanah
+  en: ''
+- aceh: – apui
+  jawi: ''
+  id: cacing tanah yg berwarna merah
+  en: ''
+- aceh: – arè (– i)
+  jawi: ''
+  id: cacing tanah berbentuk pendek dan gemuk yg pd waktu senja mengeluarkan bunyi 'i–'i
+  en: ''
+- aceh: – halòih
+  jawi: ''
+  id: cacing dl perut yg kecil-kecil
+  en: ''
+- aceh: – itam
+  jawi: ''
+  id: cacing tanah yg berwarna hitam
+  en: ''
+- aceh: meu –
+  jawi: ''
+  id: bercacing dl perut
+  en: ''
+- aceh: preutji meu –
+  jawi: ''
+  id: perutnya bercacing
+  en: ''
+- aceh: mata meu –
+  jawi: ''
+  id: sj penyakit mata
+  en: ''
+- aceh: peu –
+  jawi: ''
+  id: menimbulkan cacing, membiarkan bercacing
+  en: ''
+- aceh: pakon tapeu – pruet aneukteu, h'an tabri ubat
+  jawi: ''
+  id: Mengapa Anda membiarkan anak Anda bercacing perutnya dan tidak memberikan obat kepadanya!
+  en: ''
 etymology: ''
 related_words:
 - ulat
 dialect_notes: ''
-source: Kamus Aceh-Indonesia (Acehnese-Indonesian Dictionary), p. 244
+source: 'Kamus Aceh-Indonesia (extracted from pp.124-270 of the source edition, Acehnese section entries
+  cèm-unyèn through gutie/H). File: markdown.md supplied by the user. — p.244'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate reviewer.
+extraction_notes: Indonesian example translations are taken verbatim from the source. English meanings
+  and Jawi transliterations are AI-flagged as unverified and need human review. Jawi transliteration is
+  AI-generated, not from source — needs verification by a Jawi-literate reviewer.

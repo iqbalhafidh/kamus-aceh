@@ -1,26 +1,33 @@
 headword: dinab
-jawi: دينب
+jawi: ''
 alt_spelling: []
 ipa: ''
 part_of_speech: p
 definitions:
-- meaning_id: 'di depan: meu —, berhadapan dng seseorang, berada di depan seseorang, berhadap-hadapan'
-  meaning_en: 'in front: meu —, facing someone, being in front of someone, facing each other'
-  examples:
-  - aceh: '''oh meu'
-    jawi: ''
-    id: ngon gobnyan h'an jeuet geupeugah haba lé, ketika ia berhadapan dengannya, ia tidak dpt berkata-kata lagi
-    en: ngon gobnyan h'an jeuet geupeugah haba lé, when he faced him, he couldn't speak anymore
-  - aceh: peu
-    jawi: ''
-    id: menghadapkan kpd sesuatu
-    en: ''
+- meaning_id: di depan
+  meaning_en: ''
+examples:
+- aceh: meu -
+  jawi: ''
+  id: berhadapan dng seseorang, berada di depan seseorang, berhadap-hadapan
+  en: ''
+- aceh: '''oh meu - ngon gobnyan h''an jeuet geupeugah haba lé'
+  jawi: ''
+  id: ketika ia berhadapan dengannya, ia tidak dpt berkata-kata lagi
+  en: ''
+- aceh: peu -
+  jawi: ''
+  id: menghadapkan kpd sesuatu, teubong
+  en: ''
 etymology: ''
 related_words:
 - nab
 - teubong
 dialect_notes: ''
-source: Kamus Aceh-Indonesia (Acehnese-Indonesian Dictionary), p. 171
+source: 'Kamus Aceh-Indonesia (extracted from pp.124-270 of the source edition, Acehnese section entries
+  cèm-unyèn through gutie/H). File: markdown.md supplied by the user. — p.171'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate reviewer. Some fields (English translations, Jawi) may be incomplete due to API rate limits during processing. Re-run the translation script to fill in missing fields.
+extraction_notes: Indonesian example translations are taken verbatim from the source. English meanings
+  and Jawi transliterations are AI-flagged as unverified and need human review. Jawi transliteration is
+  AI-generated, not from source — needs verification by a Jawi-literate reviewer.

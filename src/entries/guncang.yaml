@@ -1,39 +1,32 @@
 headword: guncang
-jawi: ڬونچڬ
+jawi: ''
 alt_spelling: []
 ipa: ''
 part_of_speech: v
 definitions:
 - meaning_id: goncang, huru-hara
-  meaning_en: shake, turmoil
-  examples:
-  - aceh: ta
-    jawi: ''
-    id: dilêe, goncangkan dahulu
-    en: ''
-  - aceh: meu —, teu
-    jawi: ''
-    id: bergoncang, huru-hara, gempar
-    en: shaking, chaotic, alarmed
-  - aceh: meu
-    jawi: ''
-    id: (juga) gemuruh, → gr'ing
-    en: (also) rumble, → gr'ing
-  - aceh: peu — =
-    jawi: ''
-    id: ''
-    en: ''
+  meaning_en: ''
+- meaning_id: ta — dilêe, goncangkan dahulu
+  meaning_en: ''
+- meaning_id: meu —, teu—, bergoncang, huru-hara, gempar
+  meaning_en: ''
+- meaning_id: meu —, (juga) gemuruh,
+  meaning_en: ''
+- meaning_id: peu — = —
+  meaning_en: ''
 - meaning_id: geumuncang, melakukan goncangan
   meaning_en: ''
-  examples: []
 - meaning_id: geumuncang, goncangan
   meaning_en: ''
-  examples: []
+examples: []
 etymology: ''
 related_words:
+- gr'ing
 - geuruncang
 dialect_notes: ''
-source: Kamus Aceh-Indonesia (Acehnese-Indonesian Dictionary), p. 263
+source: 'Kamus Aceh-Indonesia (extracted from pp.124-270 of the source edition, Acehnese section entries
+  cèm-unyèn through gutie/H). File: markdown.md supplied by the user. — p.263'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate reviewer.
+extraction_notes: Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate
+  reviewer.

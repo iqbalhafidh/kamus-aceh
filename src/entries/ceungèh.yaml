@@ -1,19 +1,29 @@
 headword: ceungèh
-jawi: چوڠێ
+jawi: ''
 alt_spelling: []
 ipa: ''
 part_of_speech: a
 definitions:
-- meaning_id: 'cengis, berbau sangit, marah, masam: pat lungkè tu-hông? - that bee, di mana ada tanduk terbakar? baunya sangit sekali'
+- meaning_id: cengis, berbau sangit, marah, masam
   meaning_en: ''
-  examples: []
-- meaning_id: "peu -, menimbulkan bau cengis\n ceungeuk, cengeuk, cinguk, jeungeuk, menjenguk, melihat atau mengamati dng mengeluarkan kepala ke depan, ke luar atau ke bawah: bek ta - lam mon, euntreuk rhôtteuh! jangan Anda menjenguk ke dl sumur, nanti Anda Jatuh ke dalamnya!"
-  meaning_en: ''
-  examples: []
+examples:
+- aceh: pat lungkè tu-hông? - that bee
+  jawi: ''
+  id: di mana ada tanduk terbakar? baunya sangit sekali
+  en: ''
+- aceh: peu -
+  jawi: ''
+  id: 'menimbulkan bau cengis ceungeuk, cengeuk, cinguk, jeungeuk, menjenguk, melihat atau mengamati dng
+    mengeluarkan kepala ke depan, ke luar atau ke ba- wah: bek ta - lam mon, euntreuk rhôtteuh! jangan
+    Anda menjenguk ke dl sumur, nanti Anda Jatuh ke dalamnya!'
+  en: ''
 etymology: ''
 related_words: []
 dialect_notes: ''
-source: Kamus Aceh-Indonesia (Acehnese-Indonesian Dictionary), p. 128
+source: 'Kamus Aceh-Indonesia (extracted from pp.124-270 of the source edition, Acehnese section entries
+  cèm-unyèn through gutie/H). File: markdown.md supplied by the user. — p.128'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: Some fields (English translations, Jawi) may be incomplete due to API rate limits during processing. Re-run the translation script to fill in missing fields. Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate reviewer.
+extraction_notes: Indonesian example translations are taken verbatim from the source. English meanings
+  and Jawi transliterations are AI-flagged as unverified and need human review. Jawi transliteration is
+  AI-generated, not from source — needs verification by a Jawi-literate reviewer.

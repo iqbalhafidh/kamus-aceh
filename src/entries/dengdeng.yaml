@@ -1,36 +1,45 @@
 headword: dengdeng
-jawi: دڠدڠ
+jawi: ''
 alt_spelling: []
 ipa: ''
 part_of_speech: v
 definitions:
-- meaning_id: 'memamerkan, mempertunjukkan, mempertontonkan sesuatu yg tidak seharusnya diperlihatkan: bèk ta — — ija bak rèt, janganlah Anda memamerkan kain di jalan'
+- meaning_id: memamerkan, mempertunjukkan, mempertontonkan sesuatu yg tidak seharusnya diperlihatkan
   meaning_en: ''
-  examples:
-  - aceh: meu —
-    jawi: ''
-    id: dipamerkan
-    en: displayed
-  - aceh: bèk meu —
-    jawi: ''
-    id: u leuen, janganlah Anda memperlihatkan diri di pekarangan (dikatakan thd wanita)
-    en: u leuen, don't show yourself in the yard (said to a woman)
-  - aceh: peu — — = —
-    jawi: ''
-    id: ''
-    en: ''
-  - aceh: jipeu
-    jawi: ''
-    id: sie le jen, setan memperlihatkan daging kepadanya (dikatakan jika terdengar anjing menyalak pd malam hari sbg pertanda akan terjadi kematian)
-    en: sie le jen, a demon shows flesh to him (said when a dog is heard barking at night as a sign of impending death)
-  - aceh: asèe jicok euncien dalam adèn, teuma jipeu —
-    jawi: ''
-    id: bak pojih, anjing mengambil cincin dl bencah kotoran lalu memperlihatkannya kpd majikannya
-    en: bak pojih, a dog takes a ring from dirty water and shows it to its master
+examples:
+- aceh: bèk ta - - ija bak rèt
+  jawi: ''
+  id: janganlah Anda memamerkan kain di jalan
+  en: ''
+- aceh: meu - -
+  jawi: ''
+  id: dipamerkan
+  en: ''
+- aceh: bèk meu - - u leuen
+  jawi: ''
+  id: janganlah Anda memperlihatkan diri di pekarangan (dikatakan thd wanita)
+  en: ''
+- aceh: peu - - = - -
+  jawi: ''
+  id: ''
+  en: ''
+- aceh: jipeu - sie le jen
+  jawi: ''
+  id: setan memperlihatkan daging kepadanya (dikatakan jika terdengar anjing menyalak pd malam hari sbg
+    pertanda akan terjadi kematian)
+  en: ''
+- aceh: asèe jicok euncien dalam adèn
+  jawi: ''
+  id: teuma jipeu — — bak pojih, anjing mengambil cincin dl bencah kotoran lalu memperlihatkannya kpd
+    majikannya
+  en: ''
 etymology: ''
 related_words: []
 dialect_notes: ''
-source: Kamus Aceh-Indonesia (Acehnese-Indonesian Dictionary), p. 164
+source: 'Kamus Aceh-Indonesia (extracted from pp.124-270 of the source edition, Acehnese section entries
+  cèm-unyèn through gutie/H). File: markdown.md supplied by the user. — p.164'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate reviewer. Some fields (English translations, Jawi) may be incomplete due to API rate limits during processing. Re-run the translation script to fill in missing fields.
+extraction_notes: Indonesian example translations are taken verbatim from the source. English meanings
+  and Jawi transliterations are AI-flagged as unverified and need human review. Jawi transliteration is
+  AI-generated, not from source — needs verification by a Jawi-literate reviewer.

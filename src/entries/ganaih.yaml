@@ -1,61 +1,74 @@
 headword: ganaih
-jawi: ڬنايه
+jawi: ''
 alt_spelling: []
 ipa: ''
 part_of_speech: a
 definitions:
 - meaning_id: ga(ng)sang, gatal, jalang, bandel, nakal (utk anak-anak), boros
   meaning_en: ''
-  examples:
-  - aceh: inong nyan
-    jawi: ''
-    id: ''
-    en: ''
-  - aceh: that
-    jawi: ''
-    id: ''
-    en: ''
-  - aceh: hana jithee droeji inong
-    jawi: ''
-    id: Wanita itu gasang sekali, ia tidak mengenal dirinya seorang wanita!
-    en: ''
-  - aceh: ureueng nyang kriet jibri samaih
-    jawi: ''
-    id: ''
-    en: ''
-  - aceh: ureueng nyang
-    jawi: ''
-    id: ''
-    en: ''
-  - aceh: jibri sipeuha
-    jawi: ''
-    id: Orang yg kikir memberikan satu *
-    en: ''
-  - aceh: maih
-    jawi: ''
-    id: ''
-    en: ''
-  - aceh: Orang yg boros memberikan satu
-    jawi: ''
-    id: ''
-    en: ''
-  - aceh: peuba
-    jawi: ''
-    id: '*'
-    en: '*'
-  - aceh: peu
-    jawi: ''
-    id: ''
-    en: ''
-  - aceh: droe
-    jawi: ''
-    id: berlaku diri spt ga(ng)sang
-    en: ''
+examples:
+- aceh: inong nyan - that, hana jithee droeji inong, Wanita itu gasang sekali, ia tidak mengenal dirinya
+    seorang wanita! ureueng nyang kriet jibri samaih, ureueng nyang - jibri sipeuha, Orang yg kikir memberikan
+    satu *maih, Orang yg boros memberikan satu peuba*
+  jawi: ''
+  id: ''
+  en: ''
+- aceh: 'peu - droe, berlaku diri spt ga(ng)sang, terdiri dr tiga buah mainan emas berbentuk bulan sabit
+    bertatahkan permata yg dirangkai dng rantai secara horisontal: taloe -, rantai emas tempat menggantungkan
+    *gancéng di leher 2 ganceng n palang pintu kayu, memancing: aneuk* -'
+  jawi: ''
+  id: palang
+  en: ''
+- aceh: hak -
+  jawi: ''
+  id: semacam uang jaminan dl perkara sengketa
+  en: ''
+- aceh: bak - bajee
+  jawi: ''
+  id: sj tumbuh-tumbuhan di sawah yg buahnya menyerupai kancing baju
+  en: ''
+- aceh: geunancéng that singoh, h'an jeuet h'an lon jak u kanto
+  jawi: ''
+  id: Saya sangat berkewajiban besok, mau tidak mau saya harus datang ke kantor
+  en: ''
+- aceh: '''oh beungèhji jipét mata ji - gigoe'
+  jawi: ''
+  id: Jika ia marah, ia menutup mata dan mengancing giginya
+  en: ''
+- aceh: meu -, teu -
+  jawi: ''
+  id: terkanding
+  en: ''
+- aceh: ureueng sakét nyan meu - gigoe-gigoe
+  jawi: ''
+  id: Si sakit itu terkancing giginya
+  en: ''
+- aceh: peu - = -
+  jawi: ''
+  id: ''
+  en: ''
+- aceh: tapeu - pintô, hai, Hai, kancinglah pintu! geunancéng
+  jawi: ''
+  id: palang, yg dikancing, keharusan, keperluan yg harus terjadi
+  en: ''
+- aceh: uroe nyoe geunancéng that, ka meuteumeung, meuteumeung, ka hana, hana! Hari ini menentukan sekali,
+    jika dapat, ya dapat, jika tidak, ya tidak! rét geunancéng (meu -)
+  jawi: ''
+  id: jalan yg ditutup oleh penyamun, jalan yg sangat berbahaya
+  en: ''
 etymology: ''
 related_words:
-- gasang
+- '**gasang** 1 **gancéng** *n* sj perhiasan dada wanita'
+- 'terdiri dr tiga buah mainan emas berbentuk bulan sabit bertatahkan permata yg dirangkai dng rantai
+  secara horisontal: *taloe* —'
+- rantai emas tempat menggantungkan **gancéng** di leher 2 **ganceng** *n* palang pintu kayu
+- 'memancing: *aneuk* —'
+- palang
 dialect_notes: ''
-source: Kamus Aceh-Indonesia (Acehnese-Indonesian Dictionary), p. 213
+source: 'Kamus Aceh-Indonesia (extracted from pp.124-270 of the source edition, Acehnese section entries
+  cèm-unyèn through gutie/H). File: markdown.md supplied by the user. — p.213'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate reviewer. Some fields (English translations, Jawi) may be incomplete due to API rate limits during processing. Re-run the translation script to fill in missing fields.
+extraction_notes: Indonesian example translations are taken verbatim from the source. English meanings
+  and Jawi transliterations are AI-flagged as unverified and need human review. Jawi transliteration is
+  AI-generated, not from source — needs verification by a Jawi-literate reviewer.

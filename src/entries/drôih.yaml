@@ -1,57 +1,36 @@
 headword: drôih
-jawi: درؤيه
+jawi: ''
 alt_spelling: []
 ipa: ''
 part_of_speech: v
 definitions:
 - meaning_id: menggonggong, menyalak
   meaning_en: ''
-  examples:
-  - aceh: peue nyan ji
-    jawi: ''
-    id: ''
-    en: ''
-  - aceh: lê asèe?
-    jawi: ''
-    id: Apa yg digonggong anjing itu?
-    en: ''
-  - aceh: meu
-    jawi: ''
-    id: (
-    en: ''
-  - aceh: — deumeuroih
-    jawi: ''
-    id: ), (sedang) menggonggong
-    en: (currently) barking
-  - aceh: asèe meu
-    jawi: ''
-    id: —
-    en: ''
-  - aceh: deumeurôih jeh pat
-    jawi: ''
-    id: anjing (sedang) menggonggong di sana
-    en: a dog is barking over there
-  - aceh: peu
-    jawi: ''
-    id: menyuruh gonggong, membiarkan meng-gonggong
-    en: ''
-  - aceh: bèk tapeu
-    jawi: ''
-    id: ''
-    en: ''
-  - aceh: asèe
-    jawi: ''
-    id: janganlah Anda membiarkan anjing menggonggong
-    en: ''
-  - aceh: deuneurôih
-    jawi: ''
-    id: gonggong (anjing)
-    en: ''
+examples:
+- aceh: peue nyan ji - lê asèe? Apa yg digonggong anjing itu? meu - (- deumeuroih)
+  jawi: ''
+  id: (sedang) menggonggong
+  en: ''
+- aceh: asèe meu -, - deumeurôih jeh pat
+  jawi: ''
+  id: anjing (sedang) meng- gonggong di sana
+  en: ''
+- aceh: peu-
+  jawi: ''
+  id: menyuruh gonggong, membiarkan meng-gonggong
+  en: ''
+- aceh: bèk tapeu - asèe, janganlah Anda membiarkan anjing menggonggong, deuneurôih
+  jawi: ''
+  id: gonggong (anjing)
+  en: ''
 etymology: ''
 related_words:
-- rawông
+- '*rawông*'
 dialect_notes: ''
-source: Kamus Aceh-Indonesia (Acehnese-Indonesian Dictionary), pp. 178, 179
+source: 'Kamus Aceh-Indonesia (extracted from pp.124-270 of the source edition, Acehnese section entries
+  cèm-unyèn through gutie/H). File: markdown.md supplied by the user. — pp.178-179'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate reviewer. Some fields (English translations, Jawi) may be incomplete due to API rate limits during processing. Re-run the translation script to fill in missing fields.
+extraction_notes: Indonesian example translations are taken verbatim from the source. English meanings
+  and Jawi transliterations are AI-flagged as unverified and need human review. Jawi transliteration is
+  AI-generated, not from source — needs verification by a Jawi-literate reviewer.

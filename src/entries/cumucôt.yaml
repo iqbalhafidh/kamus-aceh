@@ -1,33 +1,28 @@
 headword: cumucôt
-jawi: چمڤوت
+jawi: ''
 alt_spelling: []
 ipa: ''
 part_of_speech: ''
 definitions:
-- meaning_id: cumpang-camping, tumpang-tampéng
+- meaning_id: ceumucôt
   meaning_en: ''
-  examples:
-  - aceh: alah
-    jawi: ''
-    id: ''
-    en: ''
-  - aceh: ija nyoe
-    jawi: ''
-    id: '~'
-    en: '~'
-  - aceh: hana ngon
-    jawi: ''
-    id: ''
-    en: ''
-  - aceh: peue lôn bloe
-    jawi: ''
-    id: aduhai, kain ini compang-camping, saya tak ada uang utk pembeli yg baru
-    en: ''
+examples:
+- aceh: pd côt cumpang-camping, tumpang-tampéng a compang-camping, koyak-koyak alah
+  jawi: ''
+  id: ''
+  en: ''
+- aceh: ija nyoe ~, hana ngon peue lôn bloe
+  jawi: ''
+  id: aduhai, kain ini compang-camping, saya tak ada uang utk pembeli yg baru
+  en: ''
 etymology: ''
-related_words:
-- ceumucôt *pd* côt
+related_words: []
 dialect_notes: ''
-source: Kamus Aceh-Indonesia (Acehnese-Indonesian Dictionary), p. 148
+source: 'Kamus Aceh-Indonesia (extracted from pp.124-270 of the source edition, Acehnese section entries
+  cèm-unyèn through gutie/H). File: markdown.md supplied by the user. — p.148'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: Cross-reference entry pointing to 'ceumucôt *pd* côt'. Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate reviewer.
+extraction_notes: Part of speech not explicitly marked in source. Indonesian example translations are
+  taken verbatim from the source. English meanings and Jawi transliterations are AI-flagged as unverified
+  and need human review. Jawi transliteration is AI-generated, not from source — needs verification by
+  a Jawi-literate reviewer.

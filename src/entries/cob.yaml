@@ -1,52 +1,39 @@
 headword: cob
-jawi: چوب
+jawi: ''
 alt_spelling: []
 ipa: ''
 part_of_speech: v
 definitions:
-- meaning_id: 'menjahit, menyulam: —'
-  meaning_en: 'sewing, embroidering: —'
-  examples:
-  - aceh: òn
-    jawi: ''
-    id: menjahit daun, membuat atap
-    en: ''
-  - aceh: meu
-    jawi: ''
-    id: dijahit, rapat, sejauh-jauhnya
-    en: ''
-  - aceh: meu
-    jawi: ''
-    id: ''
-    en: ''
-  - aceh: ngon bintèh
-    jawi: ''
-    id: rapat dng dinding
-    en: ''
-  - aceh: lòn jak keu dèh 'oh meu
-    jawi: ''
-    id: saya pergi ke sana sampai sejauh-jauhnya
-    en: ''
-  - aceh: peu
-    jawi: ''
-    id: menyuruh *
-    en: to order/ask someone to do something
-  - aceh: cob
-    jawi: ''
-    id: '*'
-    en: '*'
-  - aceh: ceumeucob
-    jawi: ''
-    id: melakukan *
-    en: ''
-  - aceh: cob
-    jawi: ''
-    id: '*'
-    en: '*'
+- meaning_id: menjahit, menyulam
+  meaning_en: ''
+examples:
+- aceh: 'òn, menjahit daun, membuat atap: meu -'
+  jawi: ''
+  id: dijahit, rapat, sejauh-jauhnya
+  en: ''
+- aceh: meu - ngon bintèh
+  jawi: ''
+  id: rapat dng dinding
+  en: ''
+- aceh: lòn jak keu dèh 'oh meu -
+  jawi: ''
+  id: saya pergi ke sana sampai sejauh-jauhnya
+  en: ''
+- aceh: peu -, menyuruh *cob*
+  jawi: ''
+  id: ''
+  en: ''
+- aceh: ceumeucob, melakukan *cob*
+  jawi: ''
+  id: ''
+  en: ''
 etymology: ''
 related_words: []
 dialect_notes: ''
-source: Kamus Aceh-Indonesia (Acehnese-Indonesian Dictionary), p. 138
+source: 'Kamus Aceh-Indonesia (extracted from pp.124-270 of the source edition, Acehnese section entries
+  cèm-unyèn through gutie/H). File: markdown.md supplied by the user. — p.138'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: Some fields (English translations, Jawi) may be incomplete due to API rate limits during processing. Re-run the translation script to fill in missing fields. Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate reviewer.
+extraction_notes: Indonesian example translations are taken verbatim from the source. English meanings
+  and Jawi transliterations are AI-flagged as unverified and need human review. Jawi transliteration is
+  AI-generated, not from source — needs verification by a Jawi-literate reviewer.

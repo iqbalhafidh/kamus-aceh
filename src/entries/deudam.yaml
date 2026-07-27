@@ -1,20 +1,27 @@
 headword: deudam
-jawi: دودم
+jawi: ''
 alt_spelling: []
 ipa: ''
 part_of_speech: n
 definitions:
-- meaning_id: 'dendam (dl hik): rindu —, rindu dendam'
-  meaning_en: 'grudge (in poetry): longing —, longing grudge'
-  examples:
-  - aceh: leumo agam nyoe neu
-    jawi: ''
-    id: lé tuanku, sapi jantan ini yg dirindukan tuanku
-    en: lé tuanku, this bull that you long for, tuanku
+- meaning_id: dendam (dl hik)
+  meaning_en: ''
+examples:
+- aceh: rindu -
+  jawi: ''
+  id: rindu dendam
+  en: ''
+- aceh: leumo agam nyoe neu - lé tuanku
+  jawi: ''
+  id: sapi jantan ini yg dirindukan tuanku
+  en: ''
 etymology: ''
 related_words: []
 dialect_notes: ''
-source: Kamus Aceh-Indonesia (Acehnese-Indonesian Dictionary), p. 166
+source: 'Kamus Aceh-Indonesia (extracted from pp.124-270 of the source edition, Acehnese section entries
+  cèm-unyèn through gutie/H). File: markdown.md supplied by the user. — p.166'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate reviewer.
+extraction_notes: Indonesian example translations are taken verbatim from the source. English meanings
+  and Jawi transliterations are AI-flagged as unverified and need human review. Jawi transliteration is
+  AI-generated, not from source — needs verification by a Jawi-literate reviewer.

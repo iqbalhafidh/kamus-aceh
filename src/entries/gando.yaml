@@ -1,14 +1,33 @@
 headword: gando
-jawi: ڬاندو
+jawi: ''
 alt_spelling: []
 ipa: ''
-part_of_speech: ''
-definitions: []
+part_of_speech: n
+definitions:
+- meaning_id: geumandô
+  meaning_en: ''
+- meaning_id: busur, pelenting
+  meaning_en: ''
+- meaning_id: boh —, peluru busur
+  meaning_en: ''
+- meaning_id: meu —, bersenjata- kan busur, mempunyai atau me- makai busur
+  meaning_en: ''
+- meaning_id: ureueng meu —, penembak busur
+  meaning_en: ''
+- meaning_id: peu —, menem- bak (dl hik), menembak dng bu- sur
+  meaning_en: ''
+- meaning_id: beuthat jiêk manyang u langêt lôn peu — cit. Walaupun ia naik ke langit, saya akan me- nembaknya
+    juga
+  meaning_en: ''
+- meaning_id: geumandoe, keu- mandoe, menembak dng busur, Bd. busu
+  meaning_en: ''
+examples: []
 etymology: ''
-related_words:
-- geumandô
+related_words: []
 dialect_notes: ''
-source: Kamus Aceh-Indonesia (Acehnese-Indonesian Dictionary), p. 214
+source: 'Kamus Aceh-Indonesia (extracted from pp.124-270 of the source edition, Acehnese section entries
+  cèm-unyèn through gutie/H). File: markdown.md supplied by the user. — p.214'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: Cross-reference entry pointing to 'geumandô'. Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate reviewer.
+extraction_notes: Part of speech not explicitly marked in source. Jawi transliteration is AI-generated,
+  not from source — needs verification by a Jawi-literate reviewer.

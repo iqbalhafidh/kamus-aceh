@@ -1,36 +1,29 @@
 headword: ceugot
-jawi: چئوقت
+jawi: ''
 alt_spelling: []
 ipa: ''
 part_of_speech: v
 definitions:
 - meaning_id: merenggut sesuatu dng merentangkan badan seraya mengulurkan tangan, menggapai
   meaning_en: ''
-  examples:
-  - aceh: ta
-    jawi: ''
-    id: ''
-    en: ''
-  - aceh: plôk daweuet
-    jawi: ''
-    id: gapaikan tempat tinta itu
-    en: ''
-  - aceh: meu
-    jawi: ''
-    id: digapai, tergapai
-    en: peu ~, to make a ceuph'um sound repeatedly
-  - aceh: peu
-    jawi: ''
-    id: menyuruh gapai
-    en: ''
-  - aceh: leugôt, reunggôt
-    jawi: ''
-    id: '*'
-    en: '*'
+examples:
+- aceh: ta - plôk daweuet
+  jawi: ''
+  id: gapaikan tempat tinta itu
+  en: ''
+- aceh: meu -, digapai, tergapai, peu -
+  jawi: ''
+  id: menyuruh gapai
+  en: ''
 etymology: ''
-related_words: []
+related_words:
+- '*leugôt'
+- reunggôt*
 dialect_notes: ''
-source: Kamus Aceh-Indonesia (Acehnese-Indonesian Dictionary), p. 125
+source: 'Kamus Aceh-Indonesia (extracted from pp.124-270 of the source edition, Acehnese section entries
+  cèm-unyèn through gutie/H). File: markdown.md supplied by the user. — p.125'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate reviewer. Some fields (English translations, Jawi) may be incomplete due to API rate limits during processing. Re-run the translation script to fill in missing fields.
+extraction_notes: Indonesian example translations are taken verbatim from the source. English meanings
+  and Jawi transliterations are AI-flagged as unverified and need human review. Jawi transliteration is
+  AI-generated, not from source — needs verification by a Jawi-literate reviewer.

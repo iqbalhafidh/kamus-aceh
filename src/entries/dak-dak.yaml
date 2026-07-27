@@ -1,40 +1,31 @@
 headword: dak-dak
-jawi: دك-دك
+jawi: ''
 alt_spelling: []
 ipa: ''
 part_of_speech: v
 definitions:
-- meaning_id: mendesak, memaksa, merengek-rengek
-  meaning_en: urgent, forcing, whining
-  examples:
-  - aceh: bêk ka
-    jawi: ''
-    id: —
-    en: ''
-  - aceh: kèe
-    jawi: ''
-    id: ''
-    en: ''
-  - aceh: hana pêng jeunoe
-    jawi: ''
-    id: Janganlah engkau mendesak-desak aku, aku tidak mempunyai uang sekarang
-    en: Don't rush me, I don't have any money right now
-  - aceh: meu
-    jawi: ''
-    id: mendesak-desak
-    en: ''
-  - aceh: bêk meu
-    jawi: ''
-    id: —
-    en: ''
-  - aceh: that kameulakèe
-    jawi: ''
-    id: janganlah engkau meminta dng mendesak-desak sekali
-    en: ''
+- meaning_id: mendesak, memaksa, me- rengek-rengek
+  meaning_en: ''
+examples:
+- aceh: bêk ka - - kèe, hana pêng jeunoe
+  jawi: ''
+  id: Janganlah engkau mendesak-desak aku, aku tidak mempunyai uang sekarang
+  en: ''
+- aceh: meu -
+  jawi: ''
+  id: mendesak-desak
+  en: ''
+- aceh: bêk meu - - that kameulakèe
+  jawi: ''
+  id: janganlah engkau meminta dng mendesak-desak sekali
+  en: ''
 etymology: ''
 related_words: []
 dialect_notes: ''
-source: Kamus Aceh-Indonesia (Acehnese-Indonesian Dictionary), pp. 153, 154
+source: 'Kamus Aceh-Indonesia (extracted from pp.124-270 of the source edition, Acehnese section entries
+  cèm-unyèn through gutie/H). File: markdown.md supplied by the user. — pp.153-154'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate reviewer. Some fields (English translations, Jawi) may be incomplete due to API rate limits during processing. Re-run the translation script to fill in missing fields.
+extraction_notes: Indonesian example translations are taken verbatim from the source. English meanings
+  and Jawi transliterations are AI-flagged as unverified and need human review. Jawi transliteration is
+  AI-generated, not from source — needs verification by a Jawi-literate reviewer.

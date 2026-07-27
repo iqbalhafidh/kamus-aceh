@@ -1,80 +1,52 @@
 headword: cudiet
-jawi: چوديٝت
+jawi: ''
 alt_spelling: []
 ipa: ''
 part_of_speech: ''
 definitions:
-- meaning_id: cue
-  meaning_en: cue
-  examples:
-  - aceh: manok lôn ka jih
-    jawi: ''
-    id: ''
-    en: ''
-  - aceh: beuklam
-    jawi: ''
-    id: "ayam saya sudah dicuri tadi malam\n §2§ cue"
-    en: ''
-  - aceh: n si
-    jawi: ''
-    id: bagian dr sesuatu yg biasanya dibagi empat bagian dan dipotong memanjang (ump buah nangka)
-    en: 'quarter of something that is usually divided into four parts and cut lengthwise (example: jackfruit)'
-  - aceh: sikhan
-    jawi: ''
-    id: sepotong
-    en: 'train: —, train'
-  - aceh: meu
-    jawi: ''
-    id: "—, terbagi dl beberapa bagian → cumèh\n §3§ cue"
-    en: iktikaf, secluding oneself
-  - aceh: ta
-    jawi: ''
-    id: ''
-    en: ''
-  - aceh: beuso lam ie mangat
-    jawi: ''
-    id: ''
-    en: ''
-  - aceh: sijuek
-    jawi: ''
-    id: Dinginkan besi ke dl air supaya dingin
-    en: ''
-  - aceh: ta
-    jawi: ''
-    id: ''
-    en: ''
-  - aceh: apui bak
-    jawi: ''
-    id: ''
-    en: ''
-  - aceh: dapu
-    jawi: ''
-    id: Padamkan api di dapur
-    en: ''
-  - aceh: meu
-    jawi: ''
-    id: ''
-    en: ''
-  - aceh: teu
-    jawi: ''
-    id: dinginkan
-    en: cool
-  - aceh: peu
-    jawi: ''
-    id: menyuruh mendinginkan
-    en: ''
-  - aceh: ceumeu
-    jawi: ''
-    id: melakukan pekerjaan mendinginkan
-    en: ''
-- meaning_id: "Bd cr'ueh\n  c'ueh sj pohon yg getah daunnya\n dijadikan obat demam"
+- meaning_id: cut'iet ¹cue
   meaning_en: ''
-  examples: []
+examples:
+- aceh: 'v mencuri: manok lôn ka jih - beuklam, ayam saya sudah dicuri tadi malam ²cue n si -, bagian
+    dr sesuatu yg biasanya dibagi empat bagian dan dipotong memanjang (ump buah nangka): sikhan -'
+  jawi: ''
+  id: sepotong
+  en: ''
+- aceh: 'meu - -, terbagi dl beberapa bagian, memadam- kan: ta - beuso lam ie mangat sijuek'
+  jawi: ''
+  id: Dinginkan besi ke dl air supaya dingin
+  en: ''
+- aceh: ta - apui bak dapu
+  jawi: ''
+  id: Padamkan api di dapur
+  en: ''
+- aceh: meu -, teu -
+  jawi: ''
+  id: dinginkan
+  en: ''
+- aceh: peu -
+  jawi: ''
+  id: menyuruh mendinginkan
+  en: ''
+- aceh: ceumeu -
+  jawi: ''
+  id: melakukan pekerjaan mendi- nginkan
+  en: ''
 etymology: ''
 related_words:
-- cut'iet
+- cumèh ³cue *n* sj siput yg hidup di air tawar dan payau serta dapat dimakan ¹c'ueh *v* mendinginkan
+- 'memadam- kan: *ta* — *beuso lam ie mangat* *sijuek*'
+- Dinginkan besi ke dl air supaya dingin. *ta* — *apui bak* *dapu*
+- Padamkan api di dapur. *meu* —
+- '*teu* —'
+- dinginkan
+- cr'ueh
 dialect_notes: ''
-source: Kamus Aceh-Indonesia (Acehnese-Indonesian Dictionary), p. 145
+source: 'Kamus Aceh-Indonesia (extracted from pp.124-270 of the source edition, Acehnese section entries
+  cèm-unyèn through gutie/H). File: markdown.md supplied by the user. — p.145'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: Cross-reference entry pointing to 'cut'iet'. Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate reviewer.
+extraction_notes: Part of speech not explicitly marked in source. Indonesian example translations are
+  taken verbatim from the source. English meanings and Jawi transliterations are AI-flagged as unverified
+  and need human review. Jawi transliteration is AI-generated, not from source — needs verification by
+  a Jawi-literate reviewer.
