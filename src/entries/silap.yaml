@@ -2,16 +2,40 @@ headword: silap
 jawi: ''
 alt_spelling: []
 ipa: ''
-part_of_speech: ''
+part_of_speech: v
 definitions:
-- meaning_id: silap, lupa
-  meaning_en: not concentrate, forget
-examples: []
+- meaning_id: silap
+  meaning_en: ''
+- meaning_id: keliru
+  meaning_en: mistaken
+- meaning_id: salah lupa
+  meaning_en: wrong forget
+- meaning_id: membubuhi, mengolah, mengukir, melapisi, menyepuh
+  meaning_en: to apply, manner, to carve, layer, to plate
+- meaning_id: get that teu - pucok reuncong nyoe
+  meaning_en: ''
+- meaning_id: rencong ini diukir bagus sekali
+  meaning_en: ''
+examples:
+- aceh: bèk tapeu silap gob seumayang
+  jawi: ''
+  id: Anda jangan membuat orang keliru melakukan sembahyang
+  en: ''
 etymology: ''
-related_words: []
+related_words:
+- karòt
+- lupòt
+- silat
 dialect_notes: ''
-source: 'Daud, Bukhari & Mark Durie. Kamus Basa Acèh = Kamus Bahasa Aceh: Acehnese–Indonesian–English Thesaurus.
-  Pacific Linguistics C-151, 1999, p. 54.'
-date_added: '2026-07-20'
+source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
+  Pendidikan dan Kebudayaan, 1985, hlm. 881'
+date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: ''
+extraction_notes: 'Homonym 1 in the source (printed as a superscript numeral before the headword). Jawi
+  left blank: the source is Latin-script only and no Jawi form is printed for this entry. | Homonym 2
+  in the source (printed as a superscript numeral before the headword). Jawi left blank: the source is
+  Latin-script only and no Jawi form is printed for this entry. | Source gives this only as a cross-reference
+  (→ silat); no independent definition is printed, so meaning fields are left blank rather than guessed.
+  Homonym 3 in the source (printed as a superscript numeral before the headword). Jawi left blank: the
+  source is Latin-script only and no Jawi form is printed for this entry. Part of speech not stated in
+  the source; left blank.'

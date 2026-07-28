@@ -2,18 +2,33 @@ headword: theun
 jawi: ''
 alt_spelling: []
 ipa: ''
-part_of_speech: ''
+part_of_speech: v
 definitions:
-- meaning_id: tahan, pasang
-  meaning_en: set a trap, net
-- meaning_id: pasang jeratan
-  meaning_en: set a trap
-examples: []
+- meaning_id: menahan, mencegah, menadah, mempersiapkan, menempatkan, memasang (umpamanya jerat)
+  meaning_en: to hold back, to prevent, to catch in the hand, ready, place, to set up (for example snare)
+examples:
+- aceh: jaroe
+  jawi: ''
+  id: menadah tangan (utk menerima sesuatu)
+  en: to catch in the hand hand (for to accept something)
+- aceh: até
+  jawi: ''
+  id: menahan hati, bersabar
+  en: to hold back heart, patient
+- aceh: napsu, menahan nafsu, meu theun, bertahan, tertahan, ditahan, melakukan theun
+  jawi: ''
+  id: sedang menahan
+  en: in the midst of to hold back
+- aceh: meu theun aneuk
+  jawi: ''
+  id: tertahan anak ketika melahirkan
+  en: held back child when born
 etymology: ''
 related_words: []
 dialect_notes: ''
-source: 'Daud, Bukhari & Mark Durie. Kamus Basa Acèh = Kamus Bahasa Aceh: Acehnese–Indonesian–English Thesaurus.
-  Pacific Linguistics C-151, 1999, p. 63.'
-date_added: '2026-07-20'
+source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
+  Pendidikan dan Kebudayaan, 1985, hlm. 976'
+date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: ''
+extraction_notes: 'Jawi left blank: the source is Latin-script only and no Jawi form is printed for this
+  entry.'

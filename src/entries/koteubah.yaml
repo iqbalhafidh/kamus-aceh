@@ -27,10 +27,8 @@ definitions:
   meaning_en: ''
 - meaning_id: khotbah sembahyang meminta turun hujan yang dilakukan sesudah sembahyang
   meaning_en: the rain-prayer sermon delivered after the prayer
-- meaning_id: – nikah
-  meaning_en: ''
-- meaning_id: khotbah nikah yang diucapkan sebelum dilakukan pernikahan
-  meaning_en: the marriage sermon delivered before the wedding
+- meaning_id: – nikah, khotbah nikah yang diucapkan sebelum dilakukan pernikahan
+  meaning_en: marriage, the marriage sermon delivered before the wedding
 - meaning_id: beuet –
   meaning_en: ''
 - meaning_id: membaca atau mengucapkan khotbah

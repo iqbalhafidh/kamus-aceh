@@ -2,25 +2,25 @@ headword: po
 jawi: ''
 alt_spelling: []
 ipa: ''
-part_of_speech: ''
+part_of_speech: v
 definitions:
-- meaning_id: kakak
-  meaning_en: elder sister, elder female relative of the same generation
-- meaning_id: Tuhan
-  meaning_en: God
-- meaning_id: pemilik
-  meaning_en: owner
-examples: []
+- meaning_id: terbang
+  meaning_en: to fly
+examples:
+- aceh: ba po, membawa terbang, menerbangkan, keureu-taih ka jiba po, ka jipupo lé jipupo lé angèn
+  jawi: ''
+  id: kertas sudah diterbangkan angin
+  en: ''
+- aceh: tajak u blang tpupo glayang
+  jawi: ''
+  id: pergi ke sawah menaikkan layang-layang
+  en: ''
 etymology: ''
-related_words:
-- da
-- fi
-- kak
-- Tuhan
+related_words: []
 dialect_notes: ''
-source: 'Daud, Bukhari & Mark Durie. Kamus Basa Acèh = Kamus Bahasa Aceh: Acehnese–Indonesian–English Thesaurus.
-  Pacific Linguistics C-151, 1999, p. 7; p. 13; p. 16; p. 75.'
-date_added: '2026-07-20'
+source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
+  Pendidikan dan Kebudayaan, 1985, hlm. 733'
+date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: Headword spelling was aligned to the supplied OCR by conservative fuzzy matching (fuzzy:0.93);
-  verify against printed p. 13.
+extraction_notes: 'Homonym 2 in the source (printed as a superscript numeral before the headword). Jawi
+  left blank: the source is Latin-script only and no Jawi form is printed for this entry.'

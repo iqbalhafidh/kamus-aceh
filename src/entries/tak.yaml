@@ -2,21 +2,80 @@ headword: tak
 jawi: ''
 alt_spelling: []
 ipa: ''
-part_of_speech: ''
+part_of_speech: v
 definitions:
-- meaning_id: bacok
-  meaning_en: slash, strike
-- meaning_id: bacok
-  meaning_en: slash, chop
-- meaning_id: bacok
-  meaning_en: slash
-examples: []
+- meaning_id: menetak atau memotong dengan benda tajam
+  meaning_en: ''
+- meaning_id: menentukan taruhan mata uang
+  meaning_en: to determine wager eye money
+examples:
+- aceh: teupeuen
+  jawi: ''
+  id: mengetuk atau menepuk pakan pd alat te-nun
+  en: ''
+- aceh: lagee unoe kleueng tak
+  jawi: ''
+  id: spt lebah yg diburu elang
+  en: ''
+- aceh: gula tak
+  jawi: ''
+  id: sj manisan yg keras bentuknya
+  en: ''
+- aceh: si tak
+  jawi: ''
+  id: sedikit, setitik, sedang, agak, serupa, sama, (hrf) sekali tetak
+  en: ''
+- aceh: muda si tak
+  jawi: ''
+  id: (yg) agak muda
+  en: young somewhat (which)
+- aceh: umurji muda si tak
+  jawi: ''
+  id: umurnya agak muda
+  en: age somewhat young
+- aceh: si tak
+  jawi: ''
+  id: sedikit-sedikit
+  en: fews
+- aceh: jinoe na si tak
+  jawi: ''
+  id: sekarang ada sedikit-sedikit, hampir menyamai
+  en: coral there is fews, almost same
+- aceh: carong gobnyan na si tak gobjeh
+  jawi: ''
+  id: kepandaiannya hampir menyamai orang itu
+  en: ''
+- aceh: meu tak, melakukan sitak
+  jawi: ''
+  id: menetak, saling memotong
+  en: ''
+- aceh: jimeu tak cang siuroe seupot
+  jawi: ''
+  id: mereka saling menetak dan mencencang sehari suntuk
+  en: ''
+- aceh: meu tak tham, (hrf) saling menetak dan menahan atau memarang dan menangkis, sj permainan yg dinamakan
+    juga mengalah-galah panyang
+  jawi: ''
+  id: (selanjutnya dan dl arti umum), mencoba menahan atau memotong jalan, mengejar, membuntuti
+  en: ''
+- aceh: peu tak, membiarkan tak, atau membiarkan meutak
+  jawi: ''
+  id: membiarkan saling berkelahi, (selanjutnya kasar utk) pergilah, nyahlah
+  en: ''
+- aceh: peu tak keu deh!
+  jawi: ''
+  id: nyahlah ke sana
+  en: ''
+- aceh: ho ka si Ham? tak rom, aleh ho ka ji-peu tak
+  jawi: ''
+  id: kemanakah si Gam? Entahlah, entah ke mana ia sudah
+  en: ''
 etymology: ''
-related_words:
-- cang
+related_words: []
 dialect_notes: ''
-source: 'Daud, Bukhari & Mark Durie. Kamus Basa Acèh = Kamus Bahasa Aceh: Acehnese–Indonesian–English Thesaurus.
-  Pacific Linguistics C-151, 1999, p. 20; p. 41; p. 63.'
-date_added: '2026-07-20'
+source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
+  Pendidikan dan Kebudayaan, 1985, hlm. 920'
+date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: ''
+extraction_notes: 'Jawi left blank: the source is Latin-script only and no Jawi form is printed for this
+  entry.'

@@ -2,16 +2,49 @@ headword: ubah
 jawi: ''
 alt_spelling: []
 ipa: ''
-part_of_speech: ''
+part_of_speech: v
 definitions:
-- meaning_id: mengubah
-  meaning_en: alter
-examples: []
+- meaning_id: mengubah, menukar
+  meaning_en: to alter, to exchange
+examples:
+- aceh: bèk ubah ban nyang takheun
+  jawi: ''
+  id: jangan Anda ubah yg telah Anda katakan itu
+  en: ''
+- aceh: tasalen kitab nyoe bèk ta ubah (atau bek na ubah) sapeue, ubè naseukah meunan tasurat
+  jawi: ''
+  id: Salinlah kitab ini dan jangan Anda mengubah apa-apa, sebagaimana naskahnya, begitulah Anda tulis
+  en: ''
+- aceh: ret u gampong nyan ka geu ubah
+  jawi: ''
+  id: Jalan ke kampung itu sudah diub ah atau dipindahkan
+  en: ''
+- aceh: ija nyan reujang that ubah
+  jawi: ''
+  id: Kain itu cepat sekali berubah (warnanya)
+  en: ''
+- aceh: Tuhan sidroe hana ubah
+  jawi: ''
+  id: Tuhan sendiri yg tidak berubah-ubah
+  en: ''
+- aceh: h'an ubah ban
+  jawi: ''
+  id: tidak berubah sedikit = sama benar keadaannya
+  en: ''
+- aceh: meu ubah
+  jawi: ''
+  id: berubah
+  en: to change
+- aceh: neu ubah, perubahan kitab nyan hana that lé neu ubah
+  jawi: ''
+  id: Kitab itu tidak banyak sekali perubahannya (ketika disalin)
+  en: ''
 etymology: ''
 related_words: []
 dialect_notes: ''
-source: 'Daud, Bukhari & Mark Durie. Kamus Basa Acèh = Kamus Bahasa Aceh: Acehnese–Indonesian–English Thesaurus.
-  Pacific Linguistics C-151, 1999, p. 47.'
-date_added: '2026-07-20'
+source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
+  Pendidikan dan Kebudayaan, 1985, hlm. 1024'
+date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: ''
+extraction_notes: 'Jawi left blank: the source is Latin-script only and no Jawi form is printed for this
+  entry.'

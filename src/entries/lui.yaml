@@ -2,40 +2,29 @@ headword: lui
 jawi: ''
 alt_spelling: []
 ipa: ''
-part_of_speech: ''
+part_of_speech: v
 definitions:
-- meaning_id: asap
-  meaning_en: ''
-- meaning_id: alam —, Tuhan meu- deului, dalil adanya alam me- nunjukkan adanya Tuhan, adanya alam adalah
-    tanda adanya Tu- han
-  meaning_en: ''
-- meaning_id: meu —, berdalil
-  meaning_en: ''
-- meaning_id: peneugah gata hana meu —, pembicaraan Anda tidak berdalil
-  meaning_en: ''
-- meaning_id: peu —, men- jadikan dalil
-  meaning_en: ''
-- meaning_id: nyan bandum Tuhan peu —, semua itu Tuhan perli- hatkan sbg dalilnya Bd meu- deului dalupa,
-    po —, si — n seseorang yg memakai samaran atau pakaian- pakaian aneh sehingga tidak dike- nal orang
-    lagi, istilah penghinaan = spt orang gila, badut, dungu dsb
-  meaning_en: ''
+- meaning_id: masuk ke dalam sesuatu dengan membungkuk, menyelinap, mendesak ke dalam walaupun ada penahan
+    atau bahayanya, (hikayat)
+  meaning_en: to enter something stooping, to slip in, to press inside despite an obstacle or danger,
+    (in hikayat)
 examples:
-- aceh: meu'èn si -
+- aceh: di peulandòk keun ji lui, bak pha keubeue ji-meusom le
   jawi: ''
-  id: sj permainan menyamar
-  en: ''
-- aceh: peulôb droe lagèe si -
+  id: Sang pelanduk menyelinap ke sana lalu bersembunyi di antara paha kerbau (yg sudah mati). jipot angen
+    sapui-sapui
+  en: The mousedeer slipped away and hid between the thighs of the dead buffalo
+- aceh: kapai ji lui le jiguda
   jawi: ''
-  id: menjadikan diri spt seorang badut
-  en: ''
+  id: Anda Angin bertiup sepoi-sepoi, kapal menembus (gelombang) laksana seekor kuda
+  en: A light breeze blows and the ship cuts through the waves like a horse
 etymology: ''
-related_words: []
+related_words:
+- lôb
 dialect_notes: ''
-source: 'Kamus Aceh-Indonesia (extracted from pp.124-270 of the source edition, Acehnese section entries
-  cèm-unyèn through gutie/H). File: markdown.md supplied by the user. — pp.155-156'
+source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
+  Pendidikan dan Kebudayaan, 1985, hlm. 557'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: Part of speech not explicitly marked in source. Indonesian example translations are
-  taken verbatim from the source. English meanings and Jawi transliterations are AI-flagged as unverified
-  and need human review. Jawi transliteration is AI-generated, not from source — needs verification by
-  a Jawi-literate reviewer.
+extraction_notes: 'Jawi left blank: the source is Latin-script only and no Jawi form is printed for this
+  entry.'

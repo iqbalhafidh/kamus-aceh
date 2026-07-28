@@ -2,16 +2,61 @@ headword: teutap
 jawi: ''
 alt_spelling: []
 ipa: ''
-part_of_speech: ''
+part_of_speech: a
 definitions:
 - meaning_id: tetap, tidak bergerak
-  meaning_en: rest, still
-examples: []
+  meaning_en: fixed, motionless
+- meaning_id: pasti
+  meaning_en: certain
+- meaning_id: untuk selama-lamanya
+  meaning_en: ''
+- meaning_id: tidak berberubah
+  meaning_en: ''
+- meaning_id: tenang
+  meaning_en: calm
+- meaning_id: bentuk tambahan keutab. teutapi
+  meaning_en: ''
+- meaning_id: tapi (dipendekkan) (Skrt
+  meaning_en: ''
+examples:
+- aceh: taduek bak teutap
+  jawi: ''
+  id: duduklah dan jangan bergerak-gerak
+  en: ''
+- aceh: gob nyan ka teutap geuduek lam nanggroe Aceh
+  jawi: ''
+  id: Ia telah menetap di negeri Aceh
+  en: ''
+- aceh: tabbat yada Abi Lahabin wa tabb, bak teutap
+  jawi: ''
+  id: '! Tangan tangan Abu Lahab akan binasa dan ia sendiri akan dibinasakan semoga akan tetap adanya'
+  en: ''
+- aceh: jinoe jih ka akai
+  jawi: ''
+  id: Sekarang ia sudah tetap pikirannya
+  en: ''
+- aceh: ate
+  jawi: ''
+  id: tetap hati, tenang
+  en: fixed heart, calm
+- aceh: peu teutap
+  jawi: ''
+  id: menetapkan
+  en: fixed
+- aceh: tathapi
+  jawi: ''
+  id: tetapi, namun, jikalau tiada, melainkan, sebaliknya, walakin
+  en: ''
 etymology: ''
-related_words: []
+related_words:
+- goga
 dialect_notes: ''
-source: 'Daud, Bukhari & Mark Durie. Kamus Basa Acèh = Kamus Bahasa Aceh: Acehnese–Indonesian–English Thesaurus.
-  Pacific Linguistics C-151, 1999, p. 38.'
-date_added: '2026-07-20'
+source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
+  Pendidikan dan Kebudayaan, 1985, hlm. 974'
+date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: ''
+extraction_notes: 'Homonym 1 in the source (printed as a superscript numeral before the headword). Jawi
+  left blank: the source is Latin-script only and no Jawi form is printed for this entry. | English gloss
+  left blank: no confident translation of the Indonesian definition was available. Homonym 2 in the source
+  (printed as a superscript numeral before the headword). Jawi left blank: the source is Latin-script
+  only and no Jawi form is printed for this entry. Part of speech not stated in the source; left blank.'

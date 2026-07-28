@@ -1,19 +1,114 @@
----
-headword: "taloe"
-jawi: ""
+headword: taloe
+jawi: ''
 alt_spelling: []
-ipa: "/ta.lɔw/"
-part_of_speech: "n"
-language_uncertain: false
+ipa: ''
+part_of_speech: n
 definitions:
-  - meaning_id: "barang yg berutas-utas panjang; tali"
-    meaning_en: ""
+- meaning_id: tali
+  meaning_en: rope
+- meaning_id: dawai
+  meaning_en: wire
+- meaning_id: rantai dan sebagainya
+  meaning_en: ''
+- meaning_id: sesuatu yang dirangkai (umpamanya. sisir-sisir pisang
+  meaning_en: ''
+- meaning_id: bunga-bungaan)
+  meaning_en: flower flower
+- meaning_id: karangan
+  meaning_en: coral
+- meaning_id: rangkaian
+  meaning_en: series
 examples:
-  []
-etymology: ""
+- aceh: 'ki hubungan sedarah atau keluarga, melalui: taloe jok, taloe mulieng, taloe siron, taloe tapeh'
+  jawi: ''
+  id: tali yg dibuat dr ijuk, kulit melinjo, kulit waru, sabut kelapa
+  en: ''
+- aceh: jaroe
+  jawi: ''
+  id: rantai lengan
+  en: chain arm
+- aceh: jeuem
+  jawi: ''
+  id: rantai jam
+  en: chain hour
+- aceh: linggang
+  jawi: ''
+  id: tali-temali yg tegak lurus yg menahan tiang perahu, tali yg dipasang pd luku
+  en: ''
+- aceh: nyang keukai baka
+  jawi: ''
+  id: tali yg kekal baka, yaitu pimpinan Allah
+  en: ''
+- aceh: nyang h'an putoih
+  jawi: ''
+  id: tali yg tidak akan putus utk selama-lamanya, yaitu pimpinan Allah
+  en: ''
+- aceh: tadong bak taloe nyang h'an putoih
+  jawi: ''
+  id: berdiri atau berpeganglah pd pimpi nan yg abadi, yaitu pimpinan Allah
+  en: ''
+- aceh: wali, atau saboh taloe
+  jawi: ''
+  id: hubungan kekeluargaan sebelah ayah
+  en: connection family side father
+- aceh: karong
+  jawi: ''
+  id: hubungan kekeluargaan sebelah ibu
+  en: connection family side mother
+- aceh: ie
+  jawi: ''
+  id: tali air, saluran air
+  en: water rope, water channel
+- aceh: krueng
+  jawi: ''
+  id: sepanjang sungai
+  en: long river
+- aceh: pasi
+  jawi: ''
+  id: sepanjang pantai
+  en: long beach
+- aceh: gle
+  jawi: ''
+  id: sepanjang pegunungan
+  en: long mountain
+- aceh: si taloe, sebaris, sederet, si taloe umong limong nam boh keubeueng
+  jawi: ''
+  id: Sederet sawah terdiri dr 5 dan 6 petak
+  en: ''
+- aceh: padum boh taloe umong gata?
+  jawi: ''
+  id: Berapa deretkah sawah Anda?
+  en: ''
+- aceh: padum boh taloe bungong nyan? Berapa karangankah bunga itu? (bungong) puta taloe
+  jawi: ''
+  id: sj tanaman jalar yg bunganya berputar pd ujungnya. perhiasan yg menyerupai putaran tali
+  en: ''
+- aceh: meu taloe
+  jawi: ''
+  id: bertali, dibubuhi tali, diikat, bertali-tali, berderet-deret
+  en: ''
+- aceh: meu taloe
+  jawi: ''
+  id: berbaris-baris, menyerupai tali
+  en: row row, to resemble rope
+- aceh: ji-toh ujeuen meu taloe
+  jawi: ''
+  id: hujan turun terus menerus
+  en: rain descend onward continuous
+- aceh: peu taloe
+  jawi: ''
+  id: membubuhi tali, mengikat
+  en: to apply rope, tie
+- aceh: kameng nyan ka jipeu taloe, h'an jeuet jijak saho le
+  jawi: ''
+  id: Kambing itu sudah diikat. ia tidak dpt pergi ke mana-mana lagi
+  en: ''
+etymology: ''
 related_words: []
-dialect_notes: ""
-source: "Kamus Bahasa Aceh Daring (Balai Bahasa Provinsi Aceh), 'Entri huruf — taloe', URL: https://kamusbbpa.kemendikdasmen.go.id/kamus/Aceh/T (diakses 20 Juli 2026)"
-date_added: "2026-07-20"
-contributor: "AI-extracted — needs human review"
-extraction_notes: "Diekstrak dari 1 halaman sumber (https://kamusbbpa.kemendikdasmen.go.id/kamus/Aceh/T). Tidak ada bentuk Jawi dalam sumber — dibiarkan kosong sesuai aturan."
+dialect_notes: ''
+source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
+  Pendidikan dan Kebudayaan, 1985, hlm. 925'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+extraction_notes: 'Jawi left blank: the source is Latin-script only and no Jawi form is printed for this
+  entry.'

@@ -2,16 +2,73 @@ headword: tunyok
 jawi: ''
 alt_spelling: []
 ipa: ''
-part_of_speech: ''
+part_of_speech: v
 definitions:
-- meaning_id: menunjuk
-  meaning_en: point
-examples: []
+- meaning_id: menunjuk (dengan jari)
+  meaning_en: ''
+- meaning_id: menerangkan
+  meaning_en: to explain
+- meaning_id: menyatakan
+  meaning_en: to state
+examples:
+- aceh: si tunyok
+  jawi: ''
+  id: jarak yg diukur dng telunjuk
+  en: ''
+- aceh: on tunyok langket
+  jawi: ''
+  id: sj tanaman sayur yg daunnya dpt dimakan
+  en: ''
+- aceh: 'kheun guru: "soe nyang tupeue, tunyok jaroe!" Berkata guru, "siapa yg tahu, tunjuk tangan!" tunyok
+    munyok, tunjuk-menunjuk meu tunyok'
+  jawi: ''
+  id: ditunjuk
+  en: ''
+- aceh: meutunyok
+  jawi: ''
+  id: tunyok, ditunjuk-tunjuk, saling menunjuk
+  en: ''
+- aceh: peutunyok = tunyok
+  jawi: ''
+  id: menunjuk, menyatakan, memperlihatkan, membuktikan
+  en: ''
+- aceh: peutunyok ret
+  jawi: ''
+  id: menunjukkan jalan
+  en: ''
+- aceh: ureueng peutunyok ret
+  jawi: ''
+  id: penunjuk jalan
+  en: ''
+- aceh: peutunyok muka
+  jawi: ''
+  id: memperlihatkan muka
+  en: see face
+- aceh: peutunyok atau peuleumah sakti
+  jawi: ''
+  id: memperlihatkan kesaktian
+  en: see supernatural power
+- aceh: teununyôk, melakukan tunyôk, teununyôk, teulunyôk seununyôk seulunyôk
+  jawi: ''
+  id: telunjuk, alat utk menunjuk
+  en: ''
+- aceh: eungkôt di laôt meung ta-leungo gah, seulunyok patah lam piala, atau cawan sira
+  jawi: ''
+  id: (hrf) Jika kita mendengar berita tt banyaknya ikan di laut seakan patahlah telunjuk dl piala, atau
+    mangkok garam (pernyataan kerendahan hati ketika menghidangkan makanan kpd tamu bahwa makanan yg dihidangkan
+    itu hanya terdiri dr nasi kering dan garam tanpa ikan
+  en: ''
+- aceh: peununyok
+  jawi: ''
+  id: penunjuk (dl hik)
+  en: ''
 etymology: ''
 related_words: []
-dialect_notes: ''
-source: 'Daud, Bukhari & Mark Durie. Kamus Basa Acèh = Kamus Bahasa Aceh: Acehnese–Indonesian–English Thesaurus.
-  Pacific Linguistics C-151, 1999, p. 55.'
-date_added: '2026-07-20'
+dialect_notes: 'Marked (dl hik) in the source: attested in hikayat, the classical Acehnese narrative verse
+  register.'
+source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
+  Pendidikan dan Kebudayaan, 1985, hlm. 1018'
+date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: ''
+extraction_notes: 'Jawi left blank: the source is Latin-script only and no Jawi form is printed for this
+  entry.'

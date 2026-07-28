@@ -1,0 +1,31 @@
+headword: umom
+jawi: ''
+alt_spelling:
+- umum
+ipa: ''
+part_of_speech: a
+definitions:
+- meaning_id: umum
+  meaning_en: general
+- meaning_id: tidak ditentukan kepada seseorang
+  meaning_en: ''
+- meaning_id: tidak jelas artinya (perkataan)
+  meaning_en: ''
+examples:
+- aceh: ta umom sigo bandum
+  jawi: ''
+  id: Umumkanlah semua itu
+  en: ''
+- aceh: meu umom
+  jawi: ''
+  id: = umom
+  en: ''
+etymology: ''
+related_words: []
+dialect_notes: ''
+source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
+  Pendidikan dan Kebudayaan, 1985, hlm. 1038'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+extraction_notes: 'Jawi left blank: the source is Latin-script only and no Jawi form is printed for this
+  entry.'

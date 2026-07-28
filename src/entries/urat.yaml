@@ -1,21 +1,100 @@
----
-headword: "urat"
-jawi: ""
+headword: urat
+jawi: ''
 alt_spelling: []
-ipa: "/u.rat/"
-part_of_speech: "n"
-language_uncertain: false
+ipa: ''
+part_of_speech: n
 definitions:
-  - meaning_id: "1 bagian dalam tubuh yg menyerupai benang atau tali; urat;"
-    meaning_en: ""
-  - meaning_id: "2 jalur atau garis yg tampak pd permukaan (kayu, daun, dsb);"
-    meaning_en: ""
+- meaning_id: urat
+  meaning_en: vein
+- meaning_id: otot
+  meaning_en: sinew
+- meaning_id: serat (daging atau kayu)
+  meaning_en: ''
+- meaning_id: tulang
+  meaning_en: bone
+- meaning_id: daun
+  meaning_en: leaf
+- meaning_id: gurat (di tangan)
+  meaning_en: the lines on the hand
+- meaning_id: sebagai kata bilangan bantu untuk benang
+  meaning_en: ''
+- meaning_id: utas
+  meaning_en: strand
 examples:
-  []
-etymology: ""
+- aceh: jaroe
+  jawi: ''
+  id: urat, otot atau gurat tangan
+  en: ''
+- aceh: kalon urat jaroe
+  jawi: ''
+  id: melihat gurat tangan, (penenung)
+  en: ''
+- aceh: gaki
+  jawi: ''
+  id: urat, otot kaki atau garis-garis pd telapak kaki
+  en: ''
+- aceh: lhee
+  jawi: ''
+  id: '''ketiga urat'' = urat nadi di le her'
+  en: ''
+- aceh: rueng
+  jawi: ''
+  id: otot belakang
+  en: sinew back
+- aceh: thu
+  jawi: ''
+  id: urat keting
+  en: ''
+- aceh: mumet-met
+  jawi: ''
+  id: urat yg bergerak-gerak, urat nadi
+  en: ''
+- aceh: saket (lam) urat
+  jawi: ''
+  id: sakit di otot-otot
+  en: sick at sinews
+- aceh: peukeu tot urat
+  jawi: ''
+  id: mengendorkan urat
+  en: ''
+- aceh: saket meukue urat
+  jawi: ''
+  id: sakit encok, rematik
+  en: ''
+- aceh: teuplôih urat
+  jawi: ''
+  id: (hrf) terbuka urat = perasaan yg menyenangkan akibat terbuka urat-urat
+  en: ''
+- aceh: sie nyoe urat dum
+  jawi: ''
+  id: Daging ini berurat semua
+  en: ''
+- aceh: kayèe
+  jawi: ''
+  id: serta kayu
+  en: together with wood
+- aceh: on kayèe
+  jawi: ''
+  id: tulang daun
+  en: bone leaf
+- aceh: bumoe atau urat donya, urat bumi (dl ilmu sihir dan istilah-istilah ki)
+  jawi: ''
+  id: urat
+  en: vein
+- aceh: ka keuot urat bumoe
+  jawi: ''
+  id: Urat bumi sudah kokot
+  en: ''
+- aceh: jih carong leu mpaih na, urat urat bumoe jitudum
+  jawi: ''
+  id: Ia amat pandai, urat-urat bumi
+  en: ''
+etymology: ''
 related_words: []
-dialect_notes: ""
-source: "Kamus Bahasa Aceh Daring (Balai Bahasa Provinsi Aceh), 'Entri huruf — urat', URL: https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/U?page=2 (diakses 20 Juli 2026)"
-date_added: "2026-07-20"
-contributor: "AI-extracted — needs human review"
-extraction_notes: "Diekstrak dari 1 halaman sumber (https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/U?page=2). Tidak ada bentuk Jawi dalam sumber — dibiarkan kosong sesuai aturan."
+dialect_notes: ''
+source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
+  Pendidikan dan Kebudayaan, 1985, hlm. 1048'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+extraction_notes: 'Jawi left blank: the source is Latin-script only and no Jawi form is printed for this
+  entry.'

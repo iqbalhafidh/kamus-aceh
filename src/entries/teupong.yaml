@@ -1,0 +1,77 @@
+headword: teupong
+jawi: ''
+alt_spelling: []
+ipa: ''
+part_of_speech: n
+definitions:
+- meaning_id: tepung
+  meaning_en: flour
+- meaning_id: serbuk
+  meaning_en: ''
+- meaning_id: bubuk
+  meaning_en: ''
+- meaning_id: adonan
+  meaning_en: dough
+examples:
+- aceh: breueh bit atau breueh jatoe
+  jawi: ''
+  id: tepung beras biasa
+  en: flour husked rice usual
+- aceh: leukat
+  jawi: ''
+  id: tepung beras ketan
+  en: flour husked rice glutinous rice
+- aceh: boh ubi
+  jawi: ''
+  id: tepung ubi
+  en: flour tuber
+- aceh: gandom
+  jawi: ''
+  id: tepung gandum atau roti
+  en: ''
+- aceh: 'bubok kupi, bubuk kopi: teupong taweue'
+  jawi: ''
+  id: air yg telah dicampur tepung sedikit utk keperluan mendinginkan sesuatu
+  en: ''
+- aceh: tob teupong
+  jawi: ''
+  id: menumbuk tepung
+  en: to pound flour
+- aceh: ie bu teupong
+  jawi: ''
+  id: sj bubur tepung beras biasa yg dimasak dng gula dan santan
+  en: ''
+- aceh: si) ten-teng teupong
+  jawi: ''
+  id: sebangsa labah-labah
+  en: ''
+- aceh: meu teupong
+  jawi: ''
+  id: bertepung, menyerupai tepung
+  en: flour, to resemble flour
+- aceh: meu teupong taweue
+  jawi: ''
+  id: diperciki tepung dng air, didinginkan
+  en: ''
+- aceh: ka lheueh tameu teupong atau tatob teupong
+  jawi: ''
+  id: '? Sudahkah Anda menumbuk tepung?'
+  en: ''
+- aceh: peu teupong
+  jawi: ''
+  id: menumbuk sehingga menjadi tepung
+  en: ''
+- aceh: peu teupong taweue
+  jawi: ''
+  id: memercikkan
+  en: splash
+etymology: ''
+related_words:
+- tawue
+dialect_notes: ''
+source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
+  Pendidikan dan Kebudayaan, 1985, hlm. 969'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+extraction_notes: 'Jawi left blank: the source is Latin-script only and no Jawi form is printed for this
+  entry.'

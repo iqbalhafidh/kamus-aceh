@@ -2,19 +2,68 @@ headword: tek
 jawi: ''
 alt_spelling: []
 ipa: ''
-part_of_speech: ''
+part_of_speech: n
 definitions:
-- meaning_id: tetek, buah dada, payudara
+- meaning_id: tetek
   meaning_en: breast
-examples: []
+- meaning_id: buah dada wanita atau laki-laki dan binatang
+  meaning_en: ''
+- meaning_id: tombol pada perisai
+  meaning_en: ''
+- meaning_id: tiruan bunyi berdetik
+  meaning_en: imitation sound second
+- meaning_id: sedikit
+  meaning_en: few
+- meaning_id: agak
+  meaning_en: somewhat
+- meaning_id: (sebagai memperkuat hal yang dianggap sedikit atau tidak berarti)
+  meaning_en: ''
+- meaning_id: berdetik-detik
+  meaning_en: second second
+- meaning_id: (dalam arti ini biasanya dipergunakan — —)
+  meaning_en: ''
+- meaning_id: (pada permainan
+  meaning_en: ''
+- meaning_id: apa — —, paman
+  meaning_en: what, uncle
+examples:
+- aceh: ie tek tek
+  jawi: ''
+  id: air susu
+  en: water breast
+- aceh: bri tek tek
+  jawi: ''
+  id: memberi susu, menyusun
+  en: to give breast, to arrange in order
+- aceh: meu tek tek
+  jawi: ''
+  id: bersusu, bertombol
+  en: ''
+- aceh: aneuk nyan goh lōm meu tek aneuk nyan goh lōm jipeuduek tek tek
+  jawi: ''
+  id: lebih lazim, gadis itu belum mengeluarkan buah dada
+  en: ''
+- aceh: cukak) meletakkan batu atau biji ke dl lobang kosong yg berikutnya, (pd permainan panta
+  jawi: ''
+  id: melemparkan boh panta dng lemparan yg lembut kpd seorang pemain
+  en: ''
+- aceh: ma tek tek
+  jawi: ''
+  id: makcik (adik perempuan ayah atau ibu)
+  en: ''
 etymology: ''
 related_words:
-- dek
+- abin
+- dèk mik
 - mom
 dialect_notes: ''
-source: 'Daud, Bukhari & Mark Durie. Kamus Basa Acèh = Kamus Bahasa Aceh: Acehnese–Indonesian–English Thesaurus.
-  Pacific Linguistics C-151, 1999, p. 29.'
-date_added: '2026-07-20'
+source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
+  Pendidikan dan Kebudayaan, 1985, hlm. 951'
+date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: PDF text-layer mismatch in the Acehnese form; copied from the searchable PDF text layer and needs
-  visual verification against printed p. 29.
+extraction_notes: 'Homonym 1 in the source (printed as a superscript numeral before the headword). Jawi
+  left blank: the source is Latin-script only and no Jawi form is printed for this entry. | Homonym 2
+  in the source (printed as a superscript numeral before the headword). Jawi left blank: the source is
+  Latin-script only and no Jawi form is printed for this entry. | Homonym 3 in the source (printed as
+  a superscript numeral before the headword). Jawi left blank: the source is Latin-script only and no
+  Jawi form is printed for this entry.'

@@ -1,0 +1,31 @@
+headword: wareuta
+jawi: ''
+alt_spelling:
+- warta
+ipa: ''
+part_of_speech: n
+definitions:
+- meaning_id: warta, berita, khabar, surat
+  meaning_en: news, letter
+examples:
+- aceh: bit h'an bit hana lontuan tu'oh
+  jawi: ''
+  id: Kata orang, begi[u], benar tidaknya saya tidak mengetahuinya
+  en: ''
+- aceh: pu wareuta
+  jawi: ''
+  id: mewartakan, menceritakan, memberitahukan
+  en: ''
+- aceh: nanggroe luaih lom ngon makmu, that meuceuho geupeu wareuta
+  jawi: ''
+  id: Negerinya luas lagi pula makmur, diceritakan orang masyhur sekali
+  en: ''
+etymology: ''
+related_words: []
+dialect_notes: ''
+source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
+  Pendidikan dan Kebudayaan, 1985, hlm. 1064'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+extraction_notes: 'Jawi left blank: the source is Latin-script only and no Jawi form is printed for this
+  entry.'

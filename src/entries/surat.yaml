@@ -2,19 +2,67 @@ headword: surat
 jawi: ''
 alt_spelling: []
 ipa: ''
-part_of_speech: ''
+part_of_speech: n
 definitions:
-- meaning_id: mundur
-  meaning_en: retreat, move backward
 - meaning_id: surat
   meaning_en: letter
+- meaning_id: bagian dari Quran
+  meaning_en: ''
+- meaning_id: yang bertulisan
+  meaning_en: ''
+- meaning_id: surat
+  meaning_en: letter
+- meaning_id: huruf yang bertulis pada mata uang
+  meaning_en: ''
+- meaning_id: menulis
+  meaning_en: write
+- meaning_id: membu kukan
+  meaning_en: ''
+- meaning_id: mencatat
+  meaning_en: to note down
+- meaning_id: menguraikan
+  meaning_en: to expound
+- meaning_id: meu -
+  meaning_en: ''
+- meaning_id: disurat
+  meaning_en: letter
+- meaning_id: ditulis
+  meaning_en: write
+- meaning_id: mengandung tulisan
+  meaning_en: to contain write
+- meaning_id: saling menyurat
+  meaning_en: ''
+- meaning_id: teu -
+  meaning_en: ''
+- meaning_id: ditulis
+  meaning_en: write
+- meaning_id: seumurat
+  meaning_en: ''
+- meaning_id: melakukan surat
+  meaning_en: to perform letter
+- meaning_id: seumurat
+  meaning_en: ''
+- meaning_id: tulisan
+  meaning_en: write
+- meaning_id: gêt that seumurat jih
+  meaning_en: ''
+- meaning_id: bagus sekali tulisannya
+  meaning_en: fine very write
+- meaning_id: meuseumurat
+  meaning_en: ''
+- meaning_id: bertulisan
+  meaning_en: write
+- meaning_id: batée meuseumurat
+  meaning_en: ''
+- meaning_id: batu bertulisan
+  meaning_en: stone write
 examples: []
 etymology: ''
 related_words: []
 dialect_notes: ''
-source: 'Daud, Bukhari & Mark Durie. Kamus Basa Acèh = Kamus Bahasa Aceh: Acehnese–Indonesian–English Thesaurus.
-  Pacific Linguistics C-151, 1999, p. 38; p. 59; vii (PDF p. 5).'
-date_added: '2026-07-20'
+source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
+  Pendidikan dan Kebudayaan, 1985, hlm. 910'
+date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: PDF text-layer mismatch in the Acehnese form; copied from the searchable PDF text layer and needs
-  visual verification against printed p. 38.
+extraction_notes: 'Jawi left blank: the source is Latin-script only and no Jawi form is printed for this
+  entry.'

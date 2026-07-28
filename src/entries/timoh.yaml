@@ -2,16 +2,34 @@ headword: timoh
 jawi: ''
 alt_spelling: []
 ipa: ''
-part_of_speech: ''
+part_of_speech: a
 definitions:
-- meaning_id: tumbuh
-  meaning_en: grow, sprout
-examples: []
+- meaning_id: tumbuh, keluar (umpamanya tanaman, bulu, rambut, penyakit), berkecambah, menjadi besar
+  meaning_en: grow, exit for example plant, hair body, hair, illness, to sprout, to become big
+examples:
+- aceh: ka ji timoh kude, purèe, sudah tumbuh kudis, puru, peu timoh
+  jawi: ''
+  id: menumbuhkan, menanam, membiarkan atau menyuruh tumbuh
+  en: ''
+- aceh: soe peu timoh kayèe di sinan?
+  jawi: ''
+  id: Siapakah yg menanam kayu di situ?
+  en: ''
+- aceh: teunimòh, sesuatu yg tumbuh, get that teunimòh padé nyan
+  jawi: ''
+  id: Padi itu bagus sekali tumbuhnya
+  en: ''
+- aceh: aneuk nyan ka patah teunimòh
+  jawi: ''
+  id: Pertumbuhan anak itu sudah terhalang, (dikatakan thd orang anak yg krn sesuatu hal lambat sekali
+    menjadi besar)
+  en: ''
 etymology: ''
 related_words: []
 dialect_notes: ''
-source: 'Daud, Bukhari & Mark Durie. Kamus Basa Acèh = Kamus Bahasa Aceh: Acehnese–Indonesian–English Thesaurus.
-  Pacific Linguistics C-151, 1999, p. 60.'
-date_added: '2026-07-20'
+source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
+  Pendidikan dan Kebudayaan, 1985, hlm. 984'
+date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: ''
+extraction_notes: 'Jawi left blank: the source is Latin-script only and no Jawi form is printed for this
+  entry.'

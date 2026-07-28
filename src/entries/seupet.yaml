@@ -1,21 +1,48 @@
----
-headword: "seupet"
-jawi: ""
+headword: seupét
+jawi: ''
 alt_spelling: []
-ipa: "/sɯ.pet/"
-part_of_speech: "n"
-language_uncertain: false
+ipa: ''
+part_of_speech: v
 definitions:
-  - meaning_id: "1 kue yg berbentuk spt kembang loyang, tetapi dapat digulung dan dibentuk seperti kipas;"
-    meaning_en: ""
-  - meaning_id: "2 menjepit, menekan"
-    meaning_en: ""
+- meaning_id: sepit, jepitan
+  meaning_en: tongs, clamp
 examples:
-  []
-etymology: ""
-related_words: []
-dialect_notes: ""
-source: "Kamus Bahasa Aceh Daring (Balai Bahasa Provinsi Aceh), 'Entri huruf — seupet', URL: https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/S?page=3 (diakses 20 Juli 2026)"
-date_added: "2026-07-20"
-contributor: "AI-extracted — needs human review"
-extraction_notes: "Diekstrak dari 1 halaman sumber (https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/S?page=3). Tidak ada bentuk Jawi dalam sumber — dibiarkan kosong sesuai aturan."
+- aceh: bieng
+  jawi: ''
+  id: sepit kepiting
+  en: tongs crab
+- aceh: kuét
+  jawi: ''
+  id: kue semprong
+  en: ''
+- aceh: ji seupét apui
+  jawi: ''
+  id: Ia menjepit api
+  en: ''
+- aceh: meu seupét, peu seupét
+  jawi: ''
+  id: disepit, dijepit
+  en: tongs, clip
+- aceh: meu seupét
+  jawi: ''
+  id: berkerumun-kerumun
+  en: ''
+- aceh: lôn meu seupét jaroe bak pintô
+  jawi: ''
+  id: Tangan saya terjepit di pintu
+  en: ''
+- aceh: peu seupét
+  jawi: ''
+  id: menjepitkan
+  en: ''
+etymology: ''
+related_words:
+- ceupét
+- jeupét
+dialect_notes: ''
+source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
+  Pendidikan dan Kebudayaan, 1985, hlm. 869'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+extraction_notes: 'Jawi left blank: the source is Latin-script only and no Jawi form is printed for this
+  entry.'

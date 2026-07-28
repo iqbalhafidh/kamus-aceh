@@ -1,24 +1,75 @@
----
-headword: "sie"
-jawi: ""
-alt_spelling: []
-ipa: "/siy/"
-part_of_speech: "n"
-language_uncertain: false
+headword: sie
+jawi: ''
+alt_spelling:
+- s'ie
+- sié
+- si'é
+ipa: ''
+part_of_speech: v
 definitions:
-  - meaning_id: "1 n daging sembelihan yg dijadikan makanan:"
-    meaning_en: ""
-  - meaning_id: "2 menyembelih atau memotong:"
-    meaning_en: ""
+- meaning_id: memotong
+  meaning_en: to cut up
+- meaning_id: menyingkir, menyimpang
+  meaning_en: to move aside, to deviate
+- meaning_id: tiruan bunyi yang mendesing atau berlesit (tentang bunyi anak panah atau peluru di udara)
+  meaning_en: ''
+- meaning_id: meu -
+  meaning_en: ''
+- meaning_id: (-)
+  meaning_en: ''
+- meaning_id: berdesing-desing
+  meaning_en: whizz whizz
+- meaning_id: berlesit-lesit memperdengarkan bunyi s'ie
+  meaning_en: ''
+- meaning_id: see
+  meaning_en: ''
+- meaning_id: se-so
+  meaning_en: ''
+- meaning_id: meus'ie-s'ie merangsang
+  meaning_en: ''
+- meaning_id: (di mulut umpama karena minum air kelapa
+  meaning_en: ''
+- meaning_id: air soda)
+  meaning_en: ''
 examples:
-  - aceh: "– rusa leubèh mangat nibak – keubeu"
-    jawi: ""
-    id: "‘– rusa lebih enak daripada – kerbau’;"
-    en: ""
-etymology: ""
-related_words: []
-dialect_notes: ""
-source: "Kamus Bahasa Aceh Daring (Balai Bahasa Provinsi Aceh), 'Entri huruf — sie', URL: https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/S?page=3 (diakses 20 Juli 2026)"
-date_added: "2026-07-20"
-contributor: "AI-extracted — needs human review"
-extraction_notes: "Diekstrak dari 1 halaman sumber (https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/S?page=3). Tidak ada bentuk Jawi dalam sumber — dibiarkan kosong sesuai aturan."
+- aceh: keubeue
+  jawi: ''
+  id: daging kerbau yang sudah disembelih, menyembelih kerbau
+  en: ''
+- aceh: teungoh lôn sie bajèe
+  jawi: ''
+  id: Saya sedang memotong kain untuk baju
+  en: ''
+- aceh: meu sie, teu sie
+  jawi: ''
+  id: di potong, terpotong
+  en: at cut, cut
+- aceh: peu sie
+  jawi: ''
+  id: menyembelih
+  en: to slaughter
+- aceh: uroe seumeusie
+  jawi: ''
+  id: hari penyembelihan hewan
+  en: ''
+etymology: ''
+related_words:
+- see'
+- sae'
+dialect_notes: ''
+source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
+  Pendidikan dan Kebudayaan, 1985, hlm. 877, 878'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+extraction_notes: 'Homonym 1 in the source (printed as a superscript numeral before the headword). Jawi
+  left blank: the source is Latin-script only and no Jawi form is printed for this entry. | Jawi left
+  blank: the source is Latin-script only and no Jawi form is printed for this entry. | Jawi left blank:
+  the source is Latin-script only and no Jawi form is printed for this entry. | English gloss left blank:
+  no confident translation of the Indonesian definition was available. Jawi left blank: the source is
+  Latin-script only and no Jawi form is printed for this entry. | Source gives this only as a cross-reference
+  (→ see''); no independent definition is printed, so meaning fields are left blank rather than guessed.
+  Jawi left blank: the source is Latin-script only and no Jawi form is printed for this entry. Part of
+  speech not stated in the source; left blank. | Source gives this only as a cross-reference (→ sae'');
+  no independent definition is printed, so meaning fields are left blank rather than guessed. Jawi left
+  blank: the source is Latin-script only and no Jawi form is printed for this entry. Part of speech not
+  stated in the source; left blank.'

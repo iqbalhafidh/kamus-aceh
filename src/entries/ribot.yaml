@@ -22,10 +22,12 @@ definitions:
   meaning_en: ''
 - meaning_id: angin ribut
   meaning_en: wind noisy
-- meaning_id: angin kencang
-  meaning_en: ''
 - meaning_id: peuethat di rumoh nyan? Siapa yang ribut di rumah itu?
   meaning_en: ''
+- meaning_id: topan, angin kencang, huruhara
+  meaning_en: storm, wind taut, riot
+- meaning_id: angin kencang
+  meaning_en: wind taut
 examples: []
 etymology: ''
 related_words:

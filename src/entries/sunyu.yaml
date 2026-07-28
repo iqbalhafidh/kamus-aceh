@@ -1,18 +1,35 @@
 headword: sunyu
 jawi: ''
-alt_spelling: []
+alt_spelling:
+- v
 ipa: ''
 part_of_speech: ''
 definitions:
-- meaning_id: memberikan
-  meaning_en: hand over, hand up to
-examples: []
+- meaning_id: sunyung mengeluarkan tangan untuk menerima sesuatu
+  meaning_en: ''
+- meaning_id: memanjangkan
+  meaning_en: long
+- meaning_id: (umpamanya leher)
+  meaning_en: ''
+- meaning_id: menyembulkan
+  meaning_en: to make protrude
+- meaning_id: mengujukkan
+  meaning_en: ''
+examples:
+- aceh: ta sunyu parang siat keu noe!
+  jawi: ''
+  id: unjukkan parang ke sini sebentar!
+  en: ''
+- aceh: ta sunyu sigo ek
+  jawi: ''
+  id: ulurkan (atap) sekali pasang
+  en: ''
 etymology: ''
-related_words:
-- sinyu
+related_words: []
 dialect_notes: ''
-source: 'Daud, Bukhari & Mark Durie. Kamus Basa Acèh = Kamus Bahasa Aceh: Acehnese–Indonesian–English Thesaurus.
-  Pacific Linguistics C-151, 1999, p. 42.'
-date_added: '2026-07-20'
+source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
+  Pendidikan dan Kebudayaan, 1985, hlm. 909'
+date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: ''
+extraction_notes: 'Jawi left blank: the source is Latin-script only and no Jawi form is printed for this
+  entry. Part of speech not stated in the source; left blank.'

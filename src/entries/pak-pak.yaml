@@ -1,19 +1,22 @@
----
-headword: "pak-pak"
-jawi: ""
-alt_spelling: []
-ipa: "/pa?.pa?/"
-part_of_speech: "n"
-language_uncertain: false
+headword: pak-pak
+jawi: ''
+alt_spelling:
+- papak
+ipa: ''
+part_of_speech: n
 definitions:
-  - meaning_id: "kue basah yg terbuat dr tepung beras dan pisang raja, dibungkus dng daun dan dikukus"
-    meaning_en: ""
-examples:
-  []
-etymology: ""
+- meaning_id: tiruan bunyi yang menggelear
+  meaning_en: ''
+- meaning_id: menggelear-gelepar
+  meaning_en: ''
+examples: []
+etymology: ''
 related_words: []
-dialect_notes: ""
-source: "Kamus Bahasa Aceh Daring (Balai Bahasa Provinsi Aceh), 'Entri huruf — pak-pak', URL: https://kamusbbpa.kemendikdasmen.go.id/kamus/Aceh/P (diakses 20 Juli 2026)"
-date_added: "2026-07-20"
-contributor: "AI-extracted — needs human review"
-extraction_notes: "Diekstrak dari 1 halaman sumber (https://kamusbbpa.kemendikdasmen.go.id/kamus/Aceh/P). Tidak ada bentuk Jawi dalam sumber — dibiarkan kosong sesuai aturan."
+dialect_notes: ''
+source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
+  Pendidikan dan Kebudayaan, 1985, hlm. 675'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+extraction_notes: 'English gloss left blank: no confident translation of the Indonesian definition was
+  available. Homonym 1 in the source (printed as a superscript numeral before the headword). Jawi left
+  blank: the source is Latin-script only and no Jawi form is printed for this entry.'

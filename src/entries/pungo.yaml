@@ -2,84 +2,67 @@ headword: pungo
 jawi: ''
 alt_spelling: []
 ipa: ''
-part_of_speech: ''
+part_of_speech: a
 definitions:
-- meaning_id: gilab, kilab
+- meaning_id: gila
+  meaning_en: mad
+- meaning_id: edan
+  meaning_en: mad
+- meaning_id: tergila-gila (juga karena cinta
+  meaning_en: ''
+- meaning_id: kesenangan
+  meaning_en: happy
+- meaning_id: kesedihan
+  meaning_en: sad
+- meaning_id: atau kemarahan)
   meaning_en: ''
 examples:
-- aceh: 'n kilat, cahaya: jibeudoih 1gisa -, menimbulkan kilat: ''oh ji - kilat, leumah pencuri'
+- aceh: aneuk buleuen
   jawi: ''
-  id: Sewaktu kilat bercahaya, tampaklah pencuri
+  id: menderita penyakit gila yg diserang pd permulaan bulan
   en: ''
-- aceh: meu -
+- aceh: bui
   jawi: ''
-  id: berkilat
+  id: menderita penyakit 'gila babi', yi sj penyakit sawan
   en: ''
-- aceh: '''oh jilangkah meu - subang, ''oh jilinggang meu-simpreue cahya'
+- aceh: poh gob
   jawi: ''
-  id: Ketika ia melangkah berkilatlah subangnya dan ketika melenggang bertaburanlah cahayanya
-  en: ''
-- aceh: peu -
+  id: penyakit gila membunuh orang
+  en: illness mad to kill person
+- aceh: ôn krusông
   jawi: ''
-  id: membuat bercahaya
+  id: penyakit gila keresek, (sj penyakit gila yg timbul ump hanya mendengar sesuatu bunyi)
   en: ''
-- aceh: 'bèk tapeu - ceureumèn, Janganlah Anda membalik-balikkan cermin di sinar matahari*giléng v giling:
-    inong nyan teungoh ji - ubat*'
+- aceh: kureueng sa sireutôih
   jawi: ''
-  id: Wanita itu sedang menggiling obat (dl lumpang)
-  en: ''
-- aceh: 'meu - (teu -), digiling: manok lôn ka meu - ngon moto'
+  id: 99 jenis penyakit gila
+  en: kind illness mad
+- aceh: keu
   jawi: ''
-  id: Ayam saya telah digiling auto
+  id: bak inong, tergila-gila kpd seseorang wanita
   en: ''
-- aceh: 'peu -, menyuruh giling: geumiléng'
+- aceh: mupungo
   jawi: ''
-  id: melakukan pekerjaan menggiling —, sedang melakukan perbuatan menggiling
-  en: ''
-- aceh: alèe geumiléng, alu utk menggiling, tob*gilho, gilo n* injak
+  id: menjadi gula
+  en: to become sugar
+- aceh: bêk tamupungo keu inong nyan
   jawi: ''
-  id: ''
+  id: Anda jangan tergila-gila kpd wanita itu!
   en: ''
-- aceh: bèk ta - ija gob
+- aceh: pupungo
   jawi: ''
-  id: Jangan Anda menginjak kain orang
-  en: ''
-- aceh: aneuk nyan dukhat that, ji - manok lôn bak takue! Anak itu nakal sekali
+  id: membuat seseorang gila
+  en: to make someone mad
+- aceh: du'a pupungo
   jawi: ''
-  id: ia menginjak ayam di lehernya (sehingga mati)
-  en: ''
-- aceh: meu - (teu -)
-  jawi: ''
-  id: diinjak, terinjak
-  en: ''
-- aceh: 'peu -, menyuruh injak, lho*gilo, wanita yg suka memperlihatkan dirinya di mana-mana, girang:
-    inong nyan - that'
-  jawi: ''
-  id: jijak baranggaho*, Wanita itu girang sekali, ia pergi ke mana-mana
-  en: ''
-- aceh: peu -
-  jawi: ''
-  id: membuat gila kpd laki-laki
-  en: ''
+  id: mantera
+  en: spell
 etymology: ''
-related_words:
-- '**pèh'
-- tob**gilho
-- gilo *n* injak
-- '**gidong'
-- lho**gilo → **gilho**gim → **jim**gincét → **kincét**girang *a* gila kpd laki-laki (utk wanita) atau
-  kpd wanita (utk laki-laki)
-- wanita yg suka memperlihatkan dirinya di mana-mana
-- 'girang: *inong nyan* — *that'
-- jijak baranggaho*
-- Wanita itu girang sekali
-- ia pergi ke mana-mana
+related_words: []
 dialect_notes: ''
-source: 'Kamus Aceh-Indonesia (extracted from pp.124-270 of the source edition, Acehnese section entries
-  cèm-unyèn through gutie/H). File: markdown.md supplied by the user. — pp.240-241'
+source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
+  Pendidikan dan Kebudayaan, 1985, hlm. 751'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: Part of speech not explicitly marked in source. Indonesian example translations are
-  taken verbatim from the source. English meanings and Jawi transliterations are AI-flagged as unverified
-  and need human review. Jawi transliteration is AI-generated, not from source — needs verification by
-  a Jawi-literate reviewer.
+extraction_notes: 'Jawi left blank: the source is Latin-script only and no Jawi form is printed for this
+  entry.'

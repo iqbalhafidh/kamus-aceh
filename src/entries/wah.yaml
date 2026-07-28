@@ -1,20 +1,32 @@
-headword: Wah
+headword: wah
 jawi: ''
 alt_spelling: []
 ipa: ''
-part_of_speech: ''
+part_of_speech: n
 definitions:
-- meaning_id: perintah
-  meaning_en: order
-- meaning_id: merekah, retak
-  meaning_en: crack apart
-examples: []
+- meaning_id: (teriakan karena keheranan, atau kasihan
+  meaning_en: a cry of astonishment, or pity
+- meaning_id: merekah, retak, terbuka
+  meaning_en: to split open, cracked, open
+examples:
+- aceh: wah peu tapu-buet Wah
+  jawi: ''
+  id: apakah yg Anda perbuat
+  en: ''
+- aceh: boh glima masak wah keudroe
+  jawi: ''
+  id: Buah delima masak telah retak sendiri. blangong kawah, belanga sudah retak
+  en: ''
 etymology: ''
-related_words: []
+related_words:
+- uli
 dialect_notes: ''
-source: 'Daud, Bukhari & Mark Durie. Kamus Basa Acèh = Kamus Bahasa Aceh: Acehnese–Indonesian–English Thesaurus.
-  Pacific Linguistics C-151, 1999, p. 56; p. 89.'
-date_added: '2026-07-20'
+source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
+  Pendidikan dan Kebudayaan, 1985, hlm. 1058'
+date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: PDF text-layer mismatch in the Acehnese form; copied from the searchable PDF text layer and needs
-  visual verification against printed p. 56.
+extraction_notes: 'Homonym 2 in the source (printed as a superscript numeral before the headword). Jawi
+  left blank: the source is Latin-script only and no Jawi form is printed for this entry. | Homonym 2
+  in the source (printed as a superscript numeral before the headword). Jawi left blank: the source is
+  Latin-script only and no Jawi form is printed for this entry. Part of speech not stated in the source;
+  left blank.'

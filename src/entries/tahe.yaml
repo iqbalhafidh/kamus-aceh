@@ -2,17 +2,47 @@ headword: tahe
 jawi: ''
 alt_spelling: []
 ipa: ''
-part_of_speech: ''
+part_of_speech: a
 definitions:
-- meaning_id: termenung
-  meaning_en: stare vacantly
-examples: []
+- meaning_id: heran
+  meaning_en: astonished
+- meaning_id: tercengang
+  meaning_en: astounded
+- meaning_id: termangumangu
+  meaning_en: ''
+- meaning_id: mamang
+  meaning_en: uncle
+- meaning_id: tahil
+  meaning_en: tael
+- meaning_id: ukuran berat (= 1/5 bungkai)
+  meaning_en: ''
+- meaning_id: sejenis kesatuan timbangan untuk menimbang candu (yang ditetap kan 1/16 kati)
+  meaning_en: ''
+- meaning_id: (selanjutnya dipergunakan untuk nilai uang)
+  meaning_en: ''
+- meaning_id: 1 - (sebagai mas kawin) = - jinamee
+  meaning_en: ''
+- meaning_id: '- hukom = 5 ringgit Aveh'
+  meaning_en: ''
+- meaning_id: 1 - (sebagai denda) = - adat
+  meaning_en: ''
+- meaning_id: '- salah = 4 ringgit Aceh'
+  meaning_en: ''
+- meaning_id: 1 - (sebagai taruh-
+  meaning_en: ''
+examples:
+- aceh: si nyan teu tahe
+  jawi: ''
+  id: meu tahe, lagee aneuk gadoh tuak, Orang itu termangumangu spt anak yg tidak waras
+  en: ''
 etymology: ''
 related_words: []
-dialect_notes: ''
-source: 'Daud, Bukhari & Mark Durie. Kamus Basa Acèh = Kamus Bahasa Aceh: Acehnese–Indonesian–English Thesaurus.
-  Pacific Linguistics C-151, 1999, p. 34.'
-date_added: '2026-07-20'
+dialect_notes: 'Marked (dl hik) in the source: attested in hikayat, the classical Acehnese narrative verse
+  register.'
+source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
+  Pendidikan dan Kebudayaan, 1985, hlm. 917'
+date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: PDF text-layer mismatch in the Acehnese form; copied from the searchable PDF text layer and needs
-  visual verification against printed p. 34.
+extraction_notes: 'Jawi left blank: the source is Latin-script only and no Jawi form is printed for this
+  entry. | Homonym 1 in the source (printed as a superscript numeral before the headword). Jawi left blank:
+  the source is Latin-script only and no Jawi form is printed for this entry.'

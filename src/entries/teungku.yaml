@@ -2,19 +2,28 @@ headword: teungku
 jawi: ''
 alt_spelling: []
 ipa: ''
-part_of_speech: ''
+part_of_speech: n
 definitions:
-- meaning_id: imam
-  meaning_en: village religious leader
-- meaning_id: panggilan untuk laki-laki dewasa
-  meaning_en: address term for adult male
+- meaning_id: gelar orang yang ahli atau berilmu di bidang agama Islam atau yang lebih taat dari kebanyakan
+    orang
+  meaning_en: ''
+- meaning_id: atau yang menjabat jabatan yang berhubungan dengan agama seperti orang-orang suci
+  meaning_en: ''
+- meaning_id: lebay-lebay
+  meaning_en: ''
+- meaning_id: orang orang yang telah naik haji
+  meaning_en: ''
+- meaning_id: guru-guru agama
+  meaning_en: teachers religion
+- meaning_id: terutama penguasa
+  meaning_en: chiefly ruler
 examples: []
 etymology: ''
-related_words:
-- imeum
+related_words: []
 dialect_notes: ''
-source: 'Daud, Bukhari & Mark Durie. Kamus Basa Acèh = Kamus Bahasa Aceh: Acehnese–Indonesian–English Thesaurus.
-  Pacific Linguistics C-151, 1999, p. 16; vii (PDF p. 5).'
-date_added: '2026-07-20'
+source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
+  Pendidikan dan Kebudayaan, 1985, hlm. 965'
+date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: ''
+extraction_notes: 'Jawi left blank: the source is Latin-script only and no Jawi form is printed for this
+  entry.'

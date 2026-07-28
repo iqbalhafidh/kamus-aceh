@@ -1,19 +1,38 @@
----
-headword: "tape"
-jawi: ""
+headword: tape
+jawi: ''
 alt_spelling: []
-ipa: "/ta.pɛ/"
-part_of_speech: "n"
-language_uncertain: false
+ipa: ''
+part_of_speech: n
 definitions:
-  - meaning_id: "penganan yg dibuat dr nasi atau ubi rebus yg diberi ragi, kemudian dibiarkan semalaman atau lebih; tapai"
-    meaning_en: ""
+- meaning_id: tapai
+  meaning_en: rice fermented
 examples:
-  []
-etymology: ""
+- aceh: breueh bit, tape leukat bit, tape leukat adang, tape ubi
+  jawi: ''
+  id: tapai yg terbuat dr beras biasa, beras ketan biasa, beras ketan hitam, ubi
+  en: ''
+- aceh: boh tape
+  jawi: ''
+  id: bulatan tapai
+  en: round fermented rice
+- aceh: ie tape
+  jawi: ''
+  id: air tapai
+  en: water fermented rice
+- aceh: beuneung boh tape
+  jawi: ''
+  id: benang yg gulungannya berbentuk bulatan tapai
+  en: ''
+- aceh: meu tape
+  jawi: ''
+  id: bertapai
+  en: to practise asceticism
+etymology: ''
 related_words: []
-dialect_notes: ""
-source: "Kamus Bahasa Aceh Daring (Balai Bahasa Provinsi Aceh), 'Entri huruf — tape', URL: https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/T?page=2 (diakses 20 Juli 2026)"
-date_added: "2026-07-20"
-contributor: "AI-extracted — needs human review"
-extraction_notes: "Diekstrak dari 1 halaman sumber (https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/T?page=2). Tidak ada bentuk Jawi dalam sumber — dibiarkan kosong sesuai aturan."
+dialect_notes: ''
+source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
+  Pendidikan dan Kebudayaan, 1985, hlm. 941'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+extraction_notes: 'Jawi left blank: the source is Latin-script only and no Jawi form is printed for this
+  entry.'

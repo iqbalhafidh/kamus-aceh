@@ -1,22 +1,24 @@
----
-headword: "sikin"
-jawi: ""
+headword: sikin
+jawi: ''
 alt_spelling: []
-ipa: "/si.kin/"
-part_of_speech: "n"
-language_uncertain: false
+ipa: ''
+part_of_speech: n
 definitions:
-  - meaning_id: "bilah besi tipis dan tajam yg bertangkai, sebagai alat pengiris, pemotong, dsb; pisau:"
-    meaning_en: ""
+- meaning_id: nama umum untuk pisau
+  meaning_en: ''
+- meaning_id: juga untuk sejenis pedang lurus dengan sebelah matanya
+  meaning_en: ''
 examples:
-  - aceh: "mak sinyak geumat—dapu"
-    jawi: ""
-    id: "‘ibu memegang pisau dapur’"
-    en: ""
-etymology: ""
+- aceh: lapan sagoe
+  jawi: ''
+  id: sj pedang pendek
+  en: a kind of short sword
+etymology: ''
 related_words: []
-dialect_notes: ""
-source: "Kamus Bahasa Aceh Daring (Balai Bahasa Provinsi Aceh), 'Entri huruf — sikin', URL: https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/S?page=4 (diakses 20 Juli 2026)"
-date_added: "2026-07-20"
-contributor: "AI-extracted — needs human review"
-extraction_notes: "Diekstrak dari 1 halaman sumber (https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/S?page=4). Tidak ada bentuk Jawi dalam sumber — dibiarkan kosong sesuai aturan."
+dialect_notes: ''
+source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
+  Pendidikan dan Kebudayaan, 1985, hlm. 880'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+extraction_notes: 'English gloss left blank: no confident translation of the Indonesian definition was
+  available. Jawi left blank: the source is Latin-script only and no Jawi form is printed for this entry.'

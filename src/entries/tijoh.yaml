@@ -2,16 +2,33 @@ headword: tijoh
 jawi: ''
 alt_spelling: []
 ipa: ''
-part_of_speech: ''
+part_of_speech: v
 definitions:
-- meaning_id: menetes
-  meaning_en: expel (liquid)
+- meaning_id: menetes atau menitik
+  meaning_en: ''
+- meaning_id: berjatuhan
+  meaning_en: to fall
+- meaning_id: (terutama sesuatu yang tanpa diketahui hilang di tengah jalan)
+  meaning_en: ''
+- meaning_id: hilang secara menitik
+  meaning_en: ''
+- meaning_id: bertitik
+  meaning_en: ''
+- meaning_id: menitik
+  meaning_en: to drip
+- meaning_id: tees
+  meaning_en: ''
+- meaning_id: si -
+  meaning_en: ''
+- meaning_id: setetes. peu
+  meaning_en: ''
 examples: []
 etymology: ''
 related_words: []
 dialect_notes: ''
-source: 'Daud, Bukhari & Mark Durie. Kamus Basa Acèh = Kamus Bahasa Aceh: Acehnese–Indonesian–English Thesaurus.
-  Pacific Linguistics C-151, 1999, p. 95.'
-date_added: '2026-07-20'
+source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
+  Pendidikan dan Kebudayaan, 1985, hlm. 981'
+date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: ''
+extraction_notes: 'Jawi left blank: the source is Latin-script only and no Jawi form is printed for this
+  entry.'

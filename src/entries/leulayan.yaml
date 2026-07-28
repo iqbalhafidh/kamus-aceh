@@ -1,19 +1,20 @@
----
-headword: "leulayan"
-jawi: ""
-alt_spelling: []
-ipa: "/lɯ.la.yan/"
-part_of_speech: "n"
-language_uncertain: false
+headword: leulayan
+jawi: ''
+alt_spelling:
+- neulayan
+ipa: ''
+part_of_speech: n
 definitions:
-  - meaning_id: "orang yg mata pencaharian utamanya adalah menangkap ikan (di laut)"
-    meaning_en: ""
-examples:
-  []
-etymology: ""
-related_words: []
-dialect_notes: ""
-source: "Kamus Bahasa Aceh Daring (Balai Bahasa Provinsi Aceh), 'Entri huruf — leulayan', URL: https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/L?page=2 (diakses 20 Juli 2026)"
-date_added: "2026-07-20"
-contributor: "AI-extracted — needs human review"
-extraction_notes: "Diekstrak dari 1 halaman sumber (https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/L?page=2). Tidak ada bentuk Jawi dalam sumber — dibiarkan kosong sesuai aturan."
+- meaning_id: sejenis cadik yang besar
+  meaning_en: ''
+examples: []
+etymology: ''
+related_words:
+- bidok
+dialect_notes: ''
+source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
+  Pendidikan dan Kebudayaan, 1985, hlm. 523'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+extraction_notes: 'English gloss left blank: no confident translation of the Indonesian definition was
+  available. Jawi left blank: the source is Latin-script only and no Jawi form is printed for this entry.'

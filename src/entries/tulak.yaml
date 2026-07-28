@@ -1,21 +1,74 @@
----
-headword: "tulak"
-jawi: ""
+headword: tulak
+jawi: ''
 alt_spelling: []
-ipa: "/tu.la?/"
-part_of_speech: "v"
-language_uncertain: false
+ipa: ''
+part_of_speech: v
 definitions:
-  - meaning_id: "menolak, mendorong, menyorong"
-    meaning_en: ""
-  - meaning_id: "tolak"
-    meaning_en: ""
-examples:
-  []
-etymology: ""
+- meaning_id: menolak
+  meaning_en: to refuse
+- meaning_id: menyorong
+  meaning_en: to push forward
+- meaning_id: mendorong
+  meaning_en: to push
+- meaning_id: menyanggah
+  meaning_en: to object
+- meaning_id: menjauhkan
+  meaning_en: to keep at a distance
+- meaning_id: menyuruh pergi
+  meaning_en: to order go
+- meaning_id: mengurangi (umpamanya perhitungan). — angen
+  meaning_en: ''
+- meaning_id: penahan angin rumah
+  meaning_en: ''
+- meaning_id: — apui
+  meaning_en: ''
+- meaning_id: menghidupkan menghidupkan atau memasang api
+  meaning_en: ''
+- meaning_id: — bala
+  meaning_en: ''
+- meaning_id: menolak bala
+  meaning_en: ''
+- meaning_id: — bara
+  meaning_en: ''
+- meaning_id: menolak ba(h)ra
+  meaning_en: ''
+- meaning_id: muatan (kapal)
+  meaning_en: to hold (ship)
+- meaning_id: — mara
+  meaning_en: danger
+- meaning_id: nama lonceng besar di kapal Malem Dagang
+  meaning_en: ''
+- meaning_id: — mulak
+  meaning_en: ''
+- meaning_id: tolak-menolak
+  meaning_en: to push to refuse
+- meaning_id: — tarek
+  meaning_en: ''
+- meaning_id: tolak tarik
+  meaning_en: to push pull
+- meaning_id: kiasan bimbang
+  meaning_en: figuratively hesitant
+- meaning_id: ragu-ragu
+  meaning_en: hesitant
+- meaning_id: neulakèe lòn ka geu —
+  meaning_en: ''
+- meaning_id: permintaan saya sudah ditolak. narit lagèe nyan jeuet ji — le gob
+  meaning_en: ''
+- meaning_id: Pembicaraan seperti itu dpt ditangkis orang. ta — limong ploh nibak sireutoih
+  meaning_en: ''
+- meaning_id: padum na tinggai? Kurangilah lima puluh dari seratus
+  meaning_en: ''
+- meaning_id: berapakah sisanya? atau seratus dikurangi lima puluh berapakah sisanya? meu —
+  meaning_en: ''
+- meaning_id: dito-
+  meaning_en: ''
+examples: []
+etymology: ''
 related_words: []
-dialect_notes: ""
-source: "Kamus Bahasa Aceh Daring (Balai Bahasa Provinsi Aceh), 'Entri huruf — tulak', URL: https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/T?page=5 (diakses 20 Juli 2026)"
-date_added: "2026-07-20"
-contributor: "AI-extracted — needs human review"
-extraction_notes: "Diekstrak dari 1 halaman sumber (https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/T?page=5). Tidak ada bentuk Jawi dalam sumber — dibiarkan kosong sesuai aturan."
+dialect_notes: ''
+source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
+  Pendidikan dan Kebudayaan, 1985, hlm. 1007'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+extraction_notes: 'Jawi left blank: the source is Latin-script only and no Jawi form is printed for this
+  entry.'

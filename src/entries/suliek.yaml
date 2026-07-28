@@ -1,18 +1,35 @@
 headword: suliek
 jawi: ''
-alt_spelling: []
+alt_spelling:
+- puliek
 ipa: ''
 part_of_speech: ''
 definitions:
-- meaning_id: kupas
-  meaning_en: peel
-examples: []
+- meaning_id: berbeda, berlainan, menyimpang
+  meaning_en: different, other, to deviate
+examples:
+- aceh: Si Pulan hana suliek lagèe ku jih
+  jawi: ''
+  id: Si Polan tidak berbeda dng ayahnya
+  en: ''
+- aceh: meu suliek, teu suliek
+  jawi: ''
+  id: di kuliti, terkelupas
+  en: skin at, peeled off
+- aceh: jaroe lôn ka meu suliek bacut
+  jawi: ''
+  id: tangan saya sudah terkelupas sedikit
+  en: ''
+- aceh: u seunuliek
+  jawi: ''
+  id: kelapa yg telah dikupas
+  en: ''
 etymology: ''
-related_words:
-- puliek
+related_words: []
 dialect_notes: ''
-source: 'Daud, Bukhari & Mark Durie. Kamus Basa Acèh = Kamus Bahasa Aceh: Acehnese–Indonesian–English Thesaurus.
-  Pacific Linguistics C-151, 1999, p. 61.'
-date_added: '2026-07-20'
+source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
+  Pendidikan dan Kebudayaan, 1985, hlm. 906'
+date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: ''
+extraction_notes: 'Jawi left blank: the source is Latin-script only and no Jawi form is printed for this
+  entry. Part of speech not stated in the source; left blank.'

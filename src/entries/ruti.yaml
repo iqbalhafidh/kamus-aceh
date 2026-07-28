@@ -2,16 +2,33 @@ headword: ruti
 jawi: ''
 alt_spelling: []
 ipa: ''
-part_of_speech: ''
+part_of_speech: n
 definitions:
-- meaning_id: roti
-  meaning_en: bread
-examples: []
+- meaning_id: roti, kue-kue, kue mari
+  meaning_en: bread, cakes, cake come
+examples:
+- aceh: leungong
+  jawi: ''
+  id: sj kue berisi wijen
+  en: a kind of cake fill sesame
+- aceh: meureutabak
+  jawi: ''
+  id: roti martabak
+  en: ''
+- aceh: aneuk) jaroe
+  jawi: ''
+  id: sj kue dl bentuk jari-jari
+  en: ''
+- aceh: meuruti
+  jawi: ''
+  id: mempunyai roti dsb
+  en: to have bread and so forth
 etymology: ''
 related_words: []
 dialect_notes: ''
-source: 'Daud, Bukhari & Mark Durie. Kamus Basa Acèh = Kamus Bahasa Aceh: Acehnese–Indonesian–English Thesaurus.
-  Pacific Linguistics C-151, 1999, p. 72.'
-date_added: '2026-07-20'
+source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
+  Pendidikan dan Kebudayaan, 1985, hlm. 828'
+date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: ''
+extraction_notes: 'Jawi left blank: the source is Latin-script only and no Jawi form is printed for this
+  entry.'

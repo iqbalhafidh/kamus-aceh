@@ -1,23 +1,138 @@
----
-headword: "tuha"
-jawi: ""
+headword: tuha
+jawi: ''
 alt_spelling: []
-ipa: "/tu.ha/"
-part_of_speech: "a"
-language_uncertain: false
+ipa: ''
+part_of_speech: a
 definitions:
-  - meaning_id: "1 sudah lama hidup; tua;"
-    meaning_en: ""
-  - meaning_id: "2 cerdik, pandai, atau tokoh masyarakat;"
-    meaning_en: ""
-  - meaning_id: "3 sudah masak atau sampai waktunya untuk dipetik"
-    meaning_en: ""
+- meaning_id: tua (untuk orang
+  meaning_en: ''
+- meaning_id: hewan dan benda)
+  meaning_en: ''
+- meaning_id: tua, hampir masak (untuk buah-buahan)
+  meaning_en: old, almost cook (for fruit fruit)
+- meaning_id: tua, gelap (untuk warna)
+  meaning_en: old, dark (for colour)
+- meaning_id: sangat
+  meaning_en: very
+- meaning_id: penengah
+  meaning_en: mediator
+- meaning_id: pengantara (untuk menyelesaikan sesuatu sengketa)
+  meaning_en: ''
+- meaning_id: ketua
+  meaning_en: old
+- meaning_id: kepala (dalam sesuatu gampông)
+  meaning_en: ''
+- meaning_id: kepala adat (di bawah seorang ulêbalang pada masa dahulu)
+  meaning_en: ''
+- meaning_id: — jih ngon lôn
+  meaning_en: ''
+- meaning_id: ia lebih tua drpd saya
+  meaning_en: ''
+- meaning_id: (hrf) tua dia dengan saya
+  meaning_en: ''
+- meaning_id: — muda
+  meaning_en: young
+- meaning_id: tua dan muda
+  meaning_en: ''
+- meaning_id: masak dan hampir masak
+  meaning_en: ''
+- meaning_id: orang tua dan anak-anak
+  meaning_en: ''
+- meaning_id: — bijeh
+  meaning_en: ''
+- meaning_id: (hrf) tua bibit
+  meaning_en: old seedling (literally)
+- meaning_id: keluarga tertua
+  meaning_en: old family
+- meaning_id: umu ka —
+  meaning_en: ''
+- meaning_id: umurnya sudah tua
+  meaning_en: ''
+- meaning_id: ureueng —
+  meaning_en: ''
+- meaning_id: orang tua
+  meaning_en: old person
+- meaning_id: (juga) ibu bapak
+  meaning_en: ''
+- meaning_id: (=ureueng chik)
+  meaning_en: ''
+- meaning_id: orang yang dituakan dalam gampong (keuchik dan teungku sebagai pelaksana pemerintahan di
+    kampung dan biasanya berjumlah lebih dari seorang)
+  meaning_en: ''
+- meaning_id: seseorang yang berpengalaman dan ahli di bidang adat yang dihubungi orang untuk memperoleh
+    nasihatnya atau perantaraannya dalam berbagai-bagai hal
+  meaning_en: ''
+- meaning_id: penghubung
+  meaning_en: liaison
+- meaning_id: perantara
+  meaning_en: between
+- meaning_id: penengah
+  meaning_en: mediator
+- meaning_id: tamong atau muek —
+  meaning_en: ''
+- meaning_id: (hrf) masuk menjadi orang tua
+  meaning_en: enter to become person old (literally)
+- meaning_id: menjadi penengah
+  meaning_en: to become mediator
+- meaning_id: adat —
+  meaning_en: custom
+- meaning_id: (hrf) pajak orang tua
+  meaning_en: tax person old (literally)
+- meaning_id: upah kepada kadi dan orangorang tua yang turut dalam persidangan perkara pada masa dahulu
+  meaning_en: ''
+- meaning_id: boh dri-en ka —
+  meaning_en: ''
+- meaning_id: rab rhot
+  meaning_en: ''
+- meaning_id: buah durian sudah tua
+  meaning_en: ''
+- meaning_id: hampir jatuh dari batangnya
+  meaning_en: ''
+- meaning_id: meuih —
+  meaning_en: ''
+- meaning_id: mas tua
+  meaning_en: ''
+- meaning_id: mas murni tanpa campuran dan berwarna kuning tua
+  meaning_en: ''
+- meaning_id: mirah —
+  meaning_en: ''
+- meaning_id: merau tua
+  meaning_en: ''
+- meaning_id: — bak nyang ka
+  meaning_en: ''
+- meaning_id: lebih parah dari yang sudah-sudah
+  meaning_en: ''
+- meaning_id: meu —
+  meaning_en: ''
+- meaning_id: tua rupanya
+  meaning_en: old appearance
+- meaning_id: ketua-tuan
+  meaning_en: old master
+- meaning_id: peu —
+  meaning_en: ''
+- meaning_id: membuat tuha
+  meaning_en: ''
+- meaning_id: menjadikan sebagai orang tua
+  meaning_en: to become as person old
+- meaning_id: (selanjutnya dan juga seringkali dalam bentuk peutua
+  meaning_en: ''
 examples:
-  []
-etymology: ""
+- aceh: ) yg tertua
+  jawi: ''
+  id: 'yg dituakan, kepala, ketua, pemimpin, gelar utk kancil dl cerita hewan: bêk meupet dilê boh mamplam
+    nyan, neupeu tuha, Jangan Anda memetik mangga itu dahulu, biarkan ia tua. peu tuha tuha droe, menganggap
+    diri sudah tua, berlaku seolah-olah sudah tua'
+  en: ''
+- aceh: meuteumuha
+  jawi: ''
+  id: spt sudah agak tua
+  en: ''
+etymology: ''
 related_words: []
-dialect_notes: ""
-source: "Kamus Bahasa Aceh Daring (Balai Bahasa Provinsi Aceh), 'Entri huruf — tuha', URL: https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/T?page=5 (diakses 20 Juli 2026)"
-date_added: "2026-07-20"
-contributor: "AI-extracted — needs human review"
-extraction_notes: "Diekstrak dari 1 halaman sumber (https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/T?page=5). Tidak ada bentuk Jawi dalam sumber — dibiarkan kosong sesuai aturan."
+dialect_notes: ''
+source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
+  Pendidikan dan Kebudayaan, 1985, hlm. 1005'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+extraction_notes: 'Jawi left blank: the source is Latin-script only and no Jawi form is printed for this
+  entry.'

@@ -1,0 +1,38 @@
+headword: suloh
+jawi: ''
+alt_spelling:
+- sulôh
+ipa: ''
+part_of_speech: n
+definitions:
+- meaning_id: perjanjian, perdamaian
+  meaning_en: promise, peace
+- meaning_id: menjajikan
+  meaning_en: ''
+- meaning_id: mendamaikan
+  meaning_en: to reconcile
+- meaning_id: suluh, obor
+  meaning_en: torch
+examples:
+- aceh: hukôm
+  jawi: ''
+  id: keputusan hukum
+  en: decision law
+- aceh: buet nyoe ka geu suloh
+  jawi: ''
+  id: perkara ini sudah didamaikan
+  en: ''
+- aceh: peu suloh
+  jawi: ''
+  id: mendamaikan
+  en: to reconcile
+etymology: ''
+related_words:
+- sua
+dialect_notes: ''
+source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
+  Pendidikan dan Kebudayaan, 1985, hlm. 906'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+extraction_notes: 'Jawi left blank: the source is Latin-script only and no Jawi form is printed for this
+  entry.'

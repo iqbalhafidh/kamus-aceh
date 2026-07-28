@@ -4,12 +4,8 @@ alt_spelling: []
 ipa: ''
 part_of_speech: a
 definitions:
-- meaning_id: sangat rindu
-  meaning_en: ''
-- meaning_id: kerinduan yang tidak terpenuhi
-  meaning_en: unfulfilled longing
-- meaning_id: kekecewaan
-  meaning_en: disappointment
+- meaning_id: sangat rindu, kerinduan yang tidak terpenuhi, kekecewaan
+  meaning_en: very longing, unfulfilled longing, disappointment
 examples:
 - aceh: meu lindan teu lindan, seu lindan
   jawi: ''

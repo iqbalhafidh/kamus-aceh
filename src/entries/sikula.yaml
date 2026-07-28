@@ -1,19 +1,34 @@
----
-headword: "sikula"
-jawi: ""
+headword: sikula
+jawi: ''
 alt_spelling: []
-ipa: "/si.ku.la/"
-part_of_speech: "n"
-language_uncertain: false
+ipa: ''
+part_of_speech: n
 definitions:
-  - meaning_id: "sekolah"
-    meaning_en: ""
+- meaning_id: sekolah
+  meaning_en: school
 examples:
-  []
-etymology: ""
+- aceh: jak sikula
+  jawi: ''
+  id: pergi (ke) sekolah
+  en: go school (to)
+- aceh: meu sikula
+  jawi: ''
+  id: bersekolah
+  en: school
+- aceh: peu sikula
+  jawi: ''
+  id: menyekolahkan
+  en: school
+- aceh: tapeu sikula aneukteu
+  jawi: ''
+  id: Sekolahkan anak Anda
+  en: school child you
+etymology: ''
 related_words: []
-dialect_notes: ""
-source: "Kamus Bahasa Aceh Daring (Balai Bahasa Provinsi Aceh), 'Entri huruf — sikula', URL: https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/S?page=4 (diakses 20 Juli 2026)"
-date_added: "2026-07-20"
-contributor: "AI-extracted — needs human review"
-extraction_notes: "Diekstrak dari 1 halaman sumber (https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/S?page=4). Tidak ada bentuk Jawi dalam sumber — dibiarkan kosong sesuai aturan."
+dialect_notes: ''
+source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
+  Pendidikan dan Kebudayaan, 1985, hlm. 880'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+extraction_notes: 'Jawi left blank: the source is Latin-script only and no Jawi form is printed for this
+  entry.'

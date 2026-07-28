@@ -1,19 +1,34 @@
----
-headword: "ta’eun"
-jawi: ""
+headword: ta'eun
+jawi: ''
 alt_spelling: []
-ipa: "/ta.ῶn/"
-part_of_speech: "n"
-language_uncertain: false
+ipa: ''
+part_of_speech: ''
 definitions:
-  - meaning_id: "penyakit menular yg berjangkit dng cepat, menyerang sejumlah besar orang di daerah yg luas (spt wabah cacar, disentri, kolera); wabah"
-    meaning_en: ""
-examples:
-  []
-etymology: ""
+- meaning_id: wabah
+  meaning_en: epidemic
+- meaning_id: (biasanya dimaksudkan kolera)
+  meaning_en: ''
+- meaning_id: '- muntah ciret'
+  meaning_en: ''
+- meaning_id: wabah kolera
+  meaning_en: ''
+- meaning_id: keunong - muntah ciret
+  meaning_en: ''
+- meaning_id: terkena penyaki t wabah
+  meaning_en: ''
+- meaning_id: aneuk si - bloh
+  meaning_en: ''
+- meaning_id: anak yang terkena penyakit wabah
+  meaning_en: ''
+- meaning_id: (sebenarnya moga-moga ia dihinggapi penyakit wabah) (kutukan)
+  meaning_en: ''
+examples: []
+etymology: ''
 related_words: []
-dialect_notes: ""
-source: "Kamus Bahasa Aceh Daring (Balai Bahasa Provinsi Aceh), 'Entri huruf — ta’eun', URL: https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/T?page=2 (diakses 20 Juli 2026)"
-date_added: "2026-07-20"
-contributor: "AI-extracted — needs human review"
-extraction_notes: "Diekstrak dari 1 halaman sumber (https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/T?page=2). Tidak ada bentuk Jawi dalam sumber — dibiarkan kosong sesuai aturan."
+dialect_notes: ''
+source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
+  Pendidikan dan Kebudayaan, 1985, hlm. 916'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+extraction_notes: 'Jawi left blank: the source is Latin-script only and no Jawi form is printed for this
+  entry. Part of speech not stated in the source; left blank.'

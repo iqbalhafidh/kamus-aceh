@@ -1,30 +1,82 @@
----
-headword: "tapak"
-jawi: ""
+headword: tapak
+jawi: ''
 alt_spelling: []
-ipa: "/ta.pa?/"
-part_of_speech: "n"
-language_uncertain: false
+ipa: ''
+part_of_speech: n
 definitions:
-  - meaning_id: "1 bidang kaki sebelah bawah, biasanya digunakan untuk menapak;"
-    meaning_en: ""
-  - meaning_id: "2 bekas jejak (bekas telapak) yg ditinggalkan; telapak kaki:"
-    meaning_en: ""
-  - meaning_id: "3 lapis(an) yg tebal pd sandal atau sepatu:"
-    meaning_en: ""
+- meaning_id: tapa atau telapak
+  meaning_en: ''
+- meaning_id: jejak
+  meaning_en: trace
+- meaning_id: jejak kaki
+  meaning_en: foot trace
+- meaning_id: langkah
+  meaning_en: step
 examples:
-  - aceh: "kamo meurumpök – gajah lam glé nyan"
-    jawi: ""
-    id: "‘kami menemukan sejumlah – gajah di perbukitan itu’;"
-    en: ""
-  - aceh: "sipatu nyo hana mangat lé tapakèk, ka lipéh –"
-    jawi: ""
-    id: "‘sepatu ini tidak nyaman lagi dipakai, sudah tipis --nya’;"
-    en: ""
-etymology: ""
+- aceh: bungong kadang keuleleunde
+  jawi: ''
+  id: daunnya dpt dimakan, ditanam sbg pagar
+  en: ''
+- aceh: beude
+  jawi: ''
+  id: kepingan besi di bawah popor senapang
+  en: ''
+- aceh: Suloiman
+  jawi: ''
+  id: tapak Sulaiman, segi lima, sj hiasan
+  en: ''
+- aceh: cato
+  jawi: ''
+  id: petak bermain catur, gambar segi empat atau berbentuk wajik pd kain dsb, dibubuhi gambar demikian,
+    bercorak catur
+  en: ''
+- aceh: on tapak
+  jawi: ''
+  id: nama umum utk permainan kartu Eropa di luar aci, raja, ratu dan petani
+  en: ''
+- aceh: jak ngon tapak
+  jawi: ''
+  id: berjalan kaki
+  en: to walk foot
+- aceh: puteh tapak
+  jawi: ''
+  id: (istilah utk) lari, melarikan diri, (sebenarnya sedemikian rupa sehingga tampak telapak kaki yg
+    putih)
+  en: ''
+- aceh: si tapak
+  jawi: ''
+  id: setapak
+  en: ''
+- aceh: meu tapak
+  jawi: ''
+  id: bertelapak, berjejak, berkaki, berjalan kaki
+  en: ''
+- aceh: peue nyoe meu tapak
+  jawi: ''
+  id: '? Apakah yg bertelapak ini?'
+  en: ''
+- aceh: bungkoih meu tapak cato
+  jawi: ''
+  id: bungkusan sirih yg bercorak catur
+  en: ''
+- aceh: hana nyang jak meu tapak, bandum jigiduek guda
+  jawi: ''
+  id: Tidak ada yg berjalan kaki, semuanya mengendarai kuda
+  en: ''
+- aceh: peu tapak
+  jawi: ''
+  id: meninggalkan jejak, menempuh dng berjalan kaki, menyuruh berjalan dng sesuatu, menyepak, menginjak
+  en: ''
+- aceh: jioh that teumpat nyan, h'an ek tapeu tapak
+  jawi: ''
+  id: tempat itu jauh sekali, kita tidak dpt berjalan kaki (ke sana)
+  en: ''
+etymology: ''
 related_words: []
-dialect_notes: ""
-source: "Kamus Bahasa Aceh Daring (Balai Bahasa Provinsi Aceh), 'Entri huruf — tapak', URL: https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/T?page=2 (diakses 20 Juli 2026)"
-date_added: "2026-07-20"
-contributor: "AI-extracted — needs human review"
-extraction_notes: "Diekstrak dari 1 halaman sumber (https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/T?page=2). Tidak ada bentuk Jawi dalam sumber — dibiarkan kosong sesuai aturan."
+dialect_notes: ''
+source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
+  Pendidikan dan Kebudayaan, 1985, hlm. 940'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+extraction_notes: 'Jawi left blank: the source is Latin-script only and no Jawi form is printed for this
+  entry.'

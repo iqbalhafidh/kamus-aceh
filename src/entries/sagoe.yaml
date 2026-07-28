@@ -2,16 +2,21 @@ headword: sagoe
 jawi: ''
 alt_spelling: []
 ipa: ''
-part_of_speech: ''
+part_of_speech: n
 definitions:
-- meaning_id: segi, pojok
-  meaning_en: comer
-examples: []
+- meaning_id: sagi, segi, ujung, bagian, kelompok, daerah, kampung
+  meaning_en: sector, facet, tip, part, group, region, district, village
+examples:
+- aceh: lhée sagoe Acèh?
+  jawi: ''
+  id: ketiga sagi daerah Aceh
+  en: three sector district Aceh
 etymology: ''
 related_words: []
 dialect_notes: ''
-source: 'Daud, Bukhari & Mark Durie. Kamus Basa Acèh = Kamus Bahasa Aceh: Acehnese–Indonesian–English Thesaurus.
-  Pacific Linguistics C-151, 1999, p. 88.'
-date_added: '2026-07-20'
+source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
+  Pendidikan dan Kebudayaan, 1985, hlm. 832'
+date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: ''
+extraction_notes: 'Jawi left blank: the source is Latin-script only and no Jawi form is printed for this
+  entry.'

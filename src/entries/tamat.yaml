@@ -2,16 +2,55 @@ headword: tamat
 jawi: ''
 alt_spelling: []
 ipa: ''
-part_of_speech: ''
+part_of_speech: a
 definitions:
-- meaning_id: selesai, tamat
-  meaning_en: complete, finish, graduate
-examples: []
+- meaning_id: tamat, selesai
+  meaning_en: finished
+- meaning_id: berakhir
+  meaning_en: end
+examples:
+- aceh: ka tamat jibeuet Kuruan
+  jawi: ''
+  id: Ia sudah tamat membaca Quran
+  en: ''
+- aceh: pumanoe tamat
+  jawi: ''
+  id: memandikan seseorang anak yg telah menamatkan Quran
+  en: ''
+- aceh: meu tamat
+  jawi: ''
+  id: menamatkan pengajian Quran. mengadakan upacara penamatan pembacaan Quran
+  en: ''
+- aceh: ka lheueh ji-meu tamat aneuk gata?
+  jawi: ''
+  id: Sudahkah anak Anda menamatkan pengajian Quran?
+  en: ''
+- aceh: peu tamat
+  jawi: ''
+  id: menamatkan, menyelesaikan, menyuruh tamatkan
+  en: finished, to order finished
+- aceh: peu tamat (beuet) aneuk
+  jawi: ''
+  id: mengadakan upacara menamatkan pengajian Quran anak
+  en: ''
+- aceh: peu tamat daroih
+  jawi: ''
+  id: upacara mengakhiri pembacaan Quran
+  en: ceremony to end read Qur'an
+- aceh: kanuri peu tamat kuruan, atau kanuri peu tamat daroih
+  jawi: ''
+  id: kenduri upacara menamatkan pembacaan Quran
+  en: ''
+- aceh: bak uroe hameh lon peu tamat
+  jawi: ''
+  id: pd hhari Kamis saya menamatkan penulisannya
+  en: ''
 etymology: ''
 related_words: []
 dialect_notes: ''
-source: 'Daud, Bukhari & Mark Durie. Kamus Basa Acèh = Kamus Bahasa Aceh: Acehnese–Indonesian–English Thesaurus.
-  Pacific Linguistics C-151, 1999, p. 58.'
-date_added: '2026-07-20'
+source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
+  Pendidikan dan Kebudayaan, 1985, hlm. 927'
+date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: ''
+extraction_notes: 'Jawi left blank: the source is Latin-script only and no Jawi form is printed for this
+  entry.'

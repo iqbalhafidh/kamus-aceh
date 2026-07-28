@@ -2,16 +2,62 @@ headword: tungkat
 jawi: ''
 alt_spelling: []
 ipa: ''
-part_of_speech: ''
+part_of_speech: n
 definitions:
 - meaning_id: tongkat
-  meaning_en: walking stick
+  meaning_en: staff
+- meaning_id: kadang-kadang dipergunakan sebagai kata bantu untuk tombak
+  meaning_en: ''
+- meaning_id: keris besar dan sebagainya
+  meaning_en: ''
+- meaning_id: — nèk ka patah Tongkat nenek sudah patah. nek ka geutob —
+  meaning_en: ''
+- meaning_id: Nenek sudah mempergunakan tongkat = nenek sudah tua. on — Ali
+  meaning_en: ''
+- meaning_id: (hrf) daun tongkat Ali
+  meaning_en: ''
+- meaning_id: sejenis tanaman jalar yang daunnya dibubuhi dalam bubur bulan puasa
+  meaning_en: ''
+- meaning_id: (juga) daun tanaman tersebut
+  meaning_en: leaf plant aforementioned (also)
+- meaning_id: meu —
+  meaning_en: ''
+- meaning_id: bertongkat
+  meaning_en: staff
+- meaning_id: menyerupai tongkat
+  meaning_en: to resemble staff
+- meaning_id: mengharapkan kepada
+  meaning_en: ''
+- meaning_id: mempercayai
+  meaning_en: to trust
+- meaning_id: pakon h'an tameubak Poteu Allah? Mengapa Anda tidak mengharapkan bantuan Allah? wajib geutanyoe
+    tamuebak Tuhan
+  meaning_en: ''
+- meaning_id: Kita wajib menaruh penghargaan kepada Tuhan. peu —
+  meaning_en: ''
+- meaning_id: bertongkat
+  meaning_en: staff
+- meaning_id: menopang
+  meaning_en: to prop up
+- meaning_id: tapeu — titi nyan mangat bèk patah
+  meaning_en: ''
+- meaning_id: Topanglah jembatan itu spy tidak patah
+  meaning_en: ''
+- meaning_id: teunungkat
+  meaning_en: ''
+- meaning_id: topang
+  meaning_en: to prop
+- meaning_id: sokongan
+  meaning_en: support
+- meaning_id: penyangga
+  meaning_en: support
 examples: []
 etymology: ''
 related_words: []
 dialect_notes: ''
-source: 'Daud, Bukhari & Mark Durie. Kamus Basa Acèh = Kamus Bahasa Aceh: Acehnese–Indonesian–English Thesaurus.
-  Pacific Linguistics C-151, 1999, p. 77.'
-date_added: '2026-07-20'
+source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
+  Pendidikan dan Kebudayaan, 1985, hlm. 1015'
+date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: ''
+extraction_notes: 'Jawi left blank: the source is Latin-script only and no Jawi form is printed for this
+  entry.'

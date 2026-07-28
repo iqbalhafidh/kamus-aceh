@@ -1,22 +1,32 @@
----
-headword: "teupin"
-jawi: ""
+headword: teupin
+jawi: ''
 alt_spelling: []
-ipa: "/tɯ.pin/"
-part_of_speech: "n"
-language_uncertain: false
+ipa: ''
+part_of_speech: n
 definitions:
-  - meaning_id: "perangkat terkecil dari struktur panglima laut yg wilayah kekuasaannya sebatas per kampung:"
-    meaning_en: ""
+- meaning_id: tepian sungai tempat orang mandi
+  meaning_en: ''
+- meaning_id: mencuci atau mengambil air
+  meaning_en: ''
 examples:
-  - aceh: "Pawang Rahman ka meuangkat keu – bak lhok Krung Raya"
-    jawi: ""
-    id: "‘Pawang Rahman sudah kami angkat sebagai teupin di teluk Krung Raya’"
-    en: ""
-etymology: ""
+- aceh: krueng nyan gêt that meu teupin
+  jawi: ''
+  id: Sungai itu bertepian bagus sekali
+  en: ''
+- aceh: meu teupin
+  jawi: ''
+  id: bertepian
+  en: edge
+- aceh: bak ka geujak seumeurah bak teupin
+  jawi: ''
+  id: Kakak sudah pergi mencuci ke tepian
+  en: ''
+etymology: ''
 related_words: []
-dialect_notes: ""
-source: "Kamus Bahasa Aceh Daring (Balai Bahasa Provinsi Aceh), 'Entri huruf — teupin', URL: https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/T?page=3 (diakses 20 Juli 2026)"
-date_added: "2026-07-20"
-contributor: "AI-extracted — needs human review"
-extraction_notes: "Diekstrak dari 1 halaman sumber (https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/T?page=3). Tidak ada bentuk Jawi dalam sumber — dibiarkan kosong sesuai aturan."
+dialect_notes: ''
+source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
+  Pendidikan dan Kebudayaan, 1985, hlm. 969'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+extraction_notes: 'English gloss left blank: no confident translation of the Indonesian definition was
+  available. Jawi left blank: the source is Latin-script only and no Jawi form is printed for this entry.'

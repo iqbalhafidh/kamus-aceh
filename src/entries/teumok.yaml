@@ -2,16 +2,37 @@ headword: teumok
 jawi: ''
 alt_spelling: []
 ipa: ''
-part_of_speech: ''
+part_of_speech: v
 definitions:
-- meaning_id: menyendok
-  meaning_en: scoop up
-examples: []
+- meaning_id: menyudu, menyendok, mencedok
+  meaning_en: to scoop, to spoon out, to ladle
+examples:
+- aceh: ta teumok gulê ngon camca
+  jawi: ''
+  id: sensoklah sayur dng sendok
+  en: ''
+- aceh: meu teumok
+  jawi: ''
+  id: disendok
+  en: spoon
+- aceh: meu teumok
+  jawi: ''
+  id: teumok, menyendok-nyendok
+  en: ''
+- aceh: peu teumok, menzurup teumok [ame keu noe, lôn peu teumok
+  jawi: ''
+  id: '! Bawalah ke mari, saya akan menyendoknya!'
+  en: ''
+- aceh: teuneumok, melakukan teumok
+  jawi: ''
+  id: cara atau hasilnya
+  en: ''
 etymology: ''
 related_words: []
 dialect_notes: ''
-source: 'Daud, Bukhari & Mark Durie. Kamus Basa Acèh = Kamus Bahasa Aceh: Acehnese–Indonesian–English Thesaurus.
-  Pacific Linguistics C-151, 1999, p. 42.'
-date_added: '2026-07-20'
+source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
+  Pendidikan dan Kebudayaan, 1985, hlm. 963'
+date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: ''
+extraction_notes: 'Jawi left blank: the source is Latin-script only and no Jawi form is printed for this
+  entry.'

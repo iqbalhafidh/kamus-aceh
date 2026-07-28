@@ -2,17 +2,46 @@ headword: toe
 jawi: ''
 alt_spelling: []
 ipa: ''
-part_of_speech: ''
+part_of_speech: a
 definitions:
-- meaning_id: dekat
-  meaning_en: near
-examples: []
+- meaning_id: dekat, hampir, rapat, sekeluarga, ahli waris, berdamai
+  meaning_en: near, almost, tight, family, heir, to make peace
+examples:
+- aceh: jih toe ngon lon
+  jawi: ''
+  id: ia dekat dng saya, atau ia lahir setelah atau sebelum saya
+  en: ''
+- aceh: wali toe
+  jawi: ''
+  id: wali dekat, (keluarga laki-laki sebelah ayah)
+  en: ''
+- aceh: meu toe
+  jawi: ''
+  id: berdekatan
+  en: near
+- aceh: get tameu toe ngon sèedara
+  jawi: ''
+  id: lebih baik kita bersengketa sesama saudara
+  en: ''
+- aceh: peu toe
+  jawi: ''
+  id: mendekatkan
+  en: to bring near
+- aceh: tapeu toe nyan bak lôn
+  jawi: ''
+  id: Dekatkan itu pd saya
+  en: ''
+- aceh: ka lôn peu toe bak jih, h'an cit jitem meu toe
+  jawi: ''
+  id: Saya sudah mendekatinya, tetapi ia tidak mau juga berdamai
+  en: ''
 etymology: ''
 related_words:
-- rap
+- rab
 dialect_notes: ''
-source: 'Daud, Bukhari & Mark Durie. Kamus Basa Acèh = Kamus Bahasa Aceh: Acehnese–Indonesian–English Thesaurus.
-  Pacific Linguistics C-151, 1999, p. 4; p. 87.'
-date_added: '2026-07-20'
+source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
+  Pendidikan dan Kebudayaan, 1985, hlm. 992'
+date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: ''
+extraction_notes: 'Jawi left blank: the source is Latin-script only and no Jawi form is printed for this
+  entry.'

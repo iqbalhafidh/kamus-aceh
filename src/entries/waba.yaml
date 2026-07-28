@@ -1,0 +1,51 @@
+headword: waba
+jawi: ''
+alt_spelling: []
+ipa: ''
+part_of_speech: n
+definitions:
+- meaning_id: wabah
+  meaning_en: epidemic
+- meaning_id: penyakit
+  meaning_en: illness
+- meaning_id: sampar
+  meaning_en: plague
+- meaning_id: menelan
+  meaning_en: to swallow
+- meaning_id: rakus sekali
+  meaning_en: greedy very
+- meaning_id: gelojoh
+  meaning_en: gluttonous
+- meaning_id: pajuh
+  meaning_en: ''
+- meaning_id: majuh
+  meaning_en: to devour
+- meaning_id: demap
+  meaning_en: gluttonous
+- meaning_id: lahap
+  meaning_en: voracious
+- meaning_id: belalah
+  meaning_en: gluttonous
+examples:
+- aceh: waba that aneuk nyan! Anak itu gelojoh sekali (kasar). muwaba
+  jawi: ''
+  id: 'berwabah, berjangkit wabah musem muwaba, musim berjangkit wabah: puwaba, berkata kpd seseorang
+    supaya diambil wabah, menyumpai seseorang'
+  en: ''
+- aceh: pakon tateunak gob tapu waba cok
+  jawi: ''
+  id: Mengapakah Anda menyumpah-nyumpah orang lain dng menyebut moga-moga ia diambil wabah
+  en: ''
+etymology: ''
+related_words:
+- geure-uda
+- grab-grub
+- kru
+- loe
+dialect_notes: ''
+source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
+  Pendidikan dan Kebudayaan, 1985, hlm. 1058'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+extraction_notes: 'Jawi left blank: the source is Latin-script only and no Jawi form is printed for this
+  entry.'

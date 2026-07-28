@@ -2,18 +2,86 @@ headword: tanoh
 jawi: ''
 alt_spelling: []
 ipa: ''
-part_of_speech: ''
+part_of_speech: n
 definitions:
-- meaning_id: tanah
-  meaning_en: land
-- meaning_id: tanah
-  meaning_en: earth
-examples: []
+- meaning_id: tanah, negeri, daerah
+  meaning_en: earth, country, region, district
+- meaning_id: berasal dari daerah sendiri
+  meaning_en: ''
+examples:
+- aceh: anoe
+  jawi: ''
+  id: tanah pasir, pasir
+  en: sand earth, sand
+- aceh: kliet
+  jawi: ''
+  id: tanah liat
+  en: earth tough
+- aceh: itam
+  jawi: ''
+  id: tanah hitam, humus, lapisan tanah tua yg hitam warnanya
+  en: ''
+- aceh: kuneng
+  jawi: ''
+  id: tanah kuning, tanah gunung yg kuning warnanya
+  en: ''
+- aceh: mirah
+  jawi: ''
+  id: tanah merah
+  en: earth red
+- aceh: on kayee
+  jawi: ''
+  id: tanah putih
+  en: earth white
+- aceh: udep
+  jawi: ''
+  id: tanah yg dpt menumbuhkan semua tanaman
+  en: ''
+- aceh: mate
+  jawi: ''
+  id: tanah mati, tanah yg tidak subur
+  en: ''
+- aceh: minyeuk tanoh
+  jawi: ''
+  id: minyak tanah
+  en: earth oil
+- aceh: manyang, tanah tinggi, (utk menyatakan gunung jika berada di laut km pantang orang menyebut gunong
+  jawi: ''
+  id: tanoh
+  en: ''
+- aceh: Poteu Allah
+  jawi: ''
+  id: tanah Tuhan, yaitu tanah yg tidak seorang pun mempunyai hak di atasnya
+  en: ''
+- aceh: raja, tanah raja, yaitu jalur tanah selebar tujuh deupa meunara
+  jawi: ''
+  id: yg terletak pd kedua tepi sungai Aceh yg pd masa-masa dahulu disediakan utk sultan Aceh
+  en: ''
+- aceh: rumoh
+  jawi: ''
+  id: tanah rumah, tanah tempat didirikannya rumah, tanah pekarangan
+  en: house earth, earth place self house, earth yard
+- aceh: Aceh
+  jawi: ''
+  id: negeri Aceh
+  en: country Aceh
+- aceh: meulia
+  jawi: ''
+  id: tanah suci, yaitu Mekah dan Medinah
+  en: ''
+- aceh: ubat beudé tanoh
+  jawi: ''
+  id: tanah utk
+  en: ''
 etymology: ''
-related_words: []
+related_words:
+- meui
+- gajah
+- gunong
 dialect_notes: ''
-source: 'Daud, Bukhari & Mark Durie. Kamus Basa Acèh = Kamus Bahasa Aceh: Acehnese–Indonesian–English Thesaurus.
-  Pacific Linguistics C-151, 1999, p. 76; p. 91.'
-date_added: '2026-07-20'
+source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
+  Pendidikan dan Kebudayaan, 1985, hlm. 939'
+date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: ''
+extraction_notes: 'Jawi left blank: the source is Latin-script only and no Jawi form is printed for this
+  entry.'

@@ -2,16 +2,35 @@ headword: tungkiek
 jawi: ''
 alt_spelling: []
 ipa: ''
-part_of_speech: ''
+part_of_speech: n
 definitions:
-- meaning_id: nanah telinga
-  meaning_en: pus in the ear
-examples: []
+- meaning_id: congak
+  meaning_en: ''
+- meaning_id: penyakit telinga yang mengeluarkan nanah
+  meaning_en: ''
+- meaning_id: sangat
+  meaning_en: very
+- meaning_id: luarbiasa
+  meaning_en: ''
+examples:
+- aceh: glunyueng tungkiek
+  jawi: ''
+  id: telinga yg mengeluarkan nanah
+  en: ''
+- aceh: masam tungkiek
+  jawi: ''
+  id: masam sekali
+  en: sour very
+- aceh: peudaih tungkiek
+  jawi: ''
+  id: sangat pedas
+  en: spicy very
 etymology: ''
 related_words: []
 dialect_notes: ''
-source: 'Daud, Bukhari & Mark Durie. Kamus Basa Acèh = Kamus Bahasa Aceh: Acehnese–Indonesian–English Thesaurus.
-  Pacific Linguistics C-151, 1999, p. 32.'
-date_added: '2026-07-20'
+source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
+  Pendidikan dan Kebudayaan, 1985, hlm. 1016'
+date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: ''
+extraction_notes: 'Jawi left blank: the source is Latin-script only and no Jawi form is printed for this
+  entry.'

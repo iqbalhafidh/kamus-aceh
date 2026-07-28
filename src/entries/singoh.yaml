@@ -2,16 +2,47 @@ headword: singoh
 jawi: ''
 alt_spelling: []
 ipa: ''
-part_of_speech: ''
+part_of_speech: a
 definitions:
 - meaning_id: besok
   meaning_en: tomorrow
-examples: []
+- meaning_id: hari sesudah hari ini
+  meaning_en: ''
+examples:
+- aceh: beungoh
+  jawi: ''
+  id: besok pagi
+  en: morning tomorrow
+- aceh: seupôt singoh
+  jawi: ''
+  id: besok petang
+  en: tomorrow afternoon
+- aceh: malam singoh
+  jawi: ''
+  id: besok malam
+  en: night tomorrow
+- aceh: meu singoh
+  jawi: ''
+  id: mengucapkan besok-besok, selalu menundanunda
+  en: ''
+- aceh: peu singoh
+  jawi: ''
+  id: menunda sampai besok
+  en: to postpone until tomorrow
+- aceh: seuningoh
+  jawi: ''
+  id: keesok harinya
+  en: ''
+- aceh: seuningoh (nibak) nyan
+  jawi: ''
+  id: sehari setelah itu
+  en: ''
 etymology: ''
 related_words: []
 dialect_notes: ''
-source: 'Daud, Bukhari & Mark Durie. Kamus Basa Acèh = Kamus Bahasa Aceh: Acehnese–Indonesian–English Thesaurus.
-  Pacific Linguistics C-151, 1999, p. 96.'
-date_added: '2026-07-20'
+source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
+  Pendidikan dan Kebudayaan, 1985, hlm. 886'
+date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: ''
+extraction_notes: 'Jawi left blank: the source is Latin-script only and no Jawi form is printed for this
+  entry.'

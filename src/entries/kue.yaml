@@ -5,12 +5,8 @@ alt_spelling:
 ipa: ''
 part_of_speech: v
 definitions:
-- meaning_id: menyimpulkan (tali
-  meaning_en: ''
-- meaning_id: kain)
-  meaning_en: cloth
-- meaning_id: mengikat
-  meaning_en: tie
+- meaning_id: menyimpulkan (tali, kain), mengikat
+  meaning_en: to knot rope, cloth, tie
 - meaning_id: ujong taloe nyoe tabak kong! Simpulkan ujung tali
   meaning_en: ''
 - meaning_id: menyumpul (umpamanya mulut seorang bayi)

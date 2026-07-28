@@ -1,0 +1,40 @@
+headword: takwi
+jawi: ''
+alt_spelling: []
+ipa: ''
+part_of_speech: n
+definitions:
+- meaning_id: takwil
+  meaning_en: interpretation
+- meaning_id: keterangan
+  meaning_en: explanation
+- meaning_id: penjelasan
+  meaning_en: explanation
+- meaning_id: interpretasi
+  meaning_en: interpretation
+- meaning_id: arti
+  meaning_en: meaning
+- meaning_id: kalimat yang memerlukan keterangan
+  meaning_en: ''
+- meaning_id: maksud yang tersembunyi
+  meaning_en: ''
+- meaning_id: sindiran
+  meaning_en: innuendo
+examples:
+- aceh: bahaji lhok that takwi
+  jawi: ''
+  id: Perkataannya dl sekali maknanya
+  en: ''
+- aceh: haba takwi that meuseuke bak tapupham
+  jawi: ''
+  id: Kata-kata sindiran
+  en: words innuendo
+etymology: ''
+related_words: []
+dialect_notes: ''
+source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
+  Pendidikan dan Kebudayaan, 1985, hlm. 923'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+extraction_notes: 'Jawi left blank: the source is Latin-script only and no Jawi form is printed for this
+  entry.'

@@ -4,20 +4,9 @@ alt_spelling: []
 ipa: ''
 part_of_speech: v
 definitions:
-- meaning_id: memukul
-  meaning_en: hit
-- meaning_id: menetak
-  meaning_en: to hack
-- meaning_id: melempar
-  meaning_en: throw
-- meaning_id: secara sangat tepat
-  meaning_en: ''
-- meaning_id: (terutama ke muka
-  meaning_en: chiefly to face
-- meaning_id: di
-  meaning_en: at
-- meaning_id: atau di atas hidung seseorang
-  meaning_en: or on someone's nose
+- meaning_id: memukul, menetak, melempar, secara sangat tepat, (terutama ke muka, di, atau di atas hidung
+    seseorang
+  meaning_en: hit, to hack, throw, in a manner very exact, chiefly to face, at, or on someone's nose
 examples:
 - aceh: soe kh'eh toi rumoh?
   jawi: ''

@@ -4,14 +4,10 @@ alt_spelling: []
 ipa: ''
 part_of_speech: ''
 definitions:
-- meaning_id: kata penunjuk untuk menyatakan orang atau benda yang berhubungan dengan orang ketiga
-  meaning_en: a demonstrative referring to a person or thing associated with the third person
-- meaning_id: itu
-  meaning_en: ''
-- meaning_id: sana
-  meaning_en: there
-- meaning_id: di sana
-  meaning_en: at there
+- meaning_id: kata penunjuk untuk menyatakan orang atau benda yang berhubungan dengan orang ketiga, itu,
+    sana, di sana
+  meaning_en: a demonstrative referring to a person or thing associated with the third person, that, there,
+    at there
 examples:
 - aceh: rumoh
   jawi: ''

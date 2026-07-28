@@ -4,28 +4,10 @@ alt_spelling: []
 ipa: ''
 part_of_speech: n
 definitions:
-- meaning_id: laku
-  meaning_en: conduct
-- meaning_id: kelakuan
-  meaning_en: behaviour
-- meaning_id: tingkah laku
-  meaning_en: behaviour
-- meaning_id: cara bertindak
-  meaning_en: way to act
-- meaning_id: rupa
-  meaning_en: appearance
-- meaning_id: wajar
-  meaning_en: natural
-- meaning_id: patut
-  meaning_en: proper
-- meaning_id: layak
-  meaning_en: fitting
-- meaning_id: menurut semestinya
-  meaning_en: ''
-- meaning_id: melaksanakan
-  meaning_en: like
-- meaning_id: melakukan
-  meaning_en: to perform
+- meaning_id: laku, kelakuan, tingkah laku, cara bertindak, rupa, wajar, patut, layak, menurut semestinya,
+    melaksanakan, melakukan
+  meaning_en: conduct, behaviour, way to act, appearance, natural, proper, fitting, according to must,
+    like, to perform
 examples:
 - aceh: bak ri laku
   jawi: ''

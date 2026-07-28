@@ -6,10 +6,8 @@ alt_spelling:
 ipa: ''
 part_of_speech: v
 definitions:
-- meaning_id: menyengkarutkan
-  meaning_en: ''
-- meaning_id: menaruh tangan ke leher atau tali ke leher hewan
-  meaning_en: to put a hand or a rope round an animal's neck
+- meaning_id: menyengkarutkan, menaruh tangan ke leher atau tali ke leher hewan
+  meaning_en: to tangle, to put a hand or a rope round an animal's neck
 - meaning_id: menganyam (umpamanya pembuatan keranjang), melipat (umpamanya tangan)
   meaning_en: to plait (for example make basket), to fold (for example hand)
 - meaning_id: dedak padi
@@ -26,7 +24,7 @@ examples:
 - aceh: lagée ija lhôk
   jawi: ''
   id: irama menyengkarutkan kain
-  en: ''
+  en: rhythm to tangle cloth
 - aceh: datok Bantan cit ka teuturi, mate bak jeungki bak jak mita lhok
   jawi: ''
   id: Datuk Bantan memang sudah terkenal. Ia mati pd jeungki krn mencari dedak padi

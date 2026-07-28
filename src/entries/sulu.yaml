@@ -1,19 +1,48 @@
----
-headword: "sulu"
-jawi: ""
+headword: sulu
+jawi: ''
 alt_spelling: []
-ipa: "/su.lu/"
-part_of_speech: "a"
-language_uncertain: false
+ipa: ''
+part_of_speech: a
 definitions:
-  - meaning_id: "benda yg lurus, tinggi, dan tidak bengkok, mis. batang pepohonan yg lurus"
-    meaning_en: ""
+- meaning_id: lurus, jujur
+  meaning_en: straight, honest
+- meaning_id: tulus ikhlas, sederhana, baik hati
+  meaning_en: sincere sincere, simple, good heart
 examples:
-  []
-etymology: ""
+- aceh: bak u nyoe sulu that
+  jawi: ''
+  id: Batang kelapa ini lurus sekali
+  en: ''
+- aceh: bak kayèe sulu suloh
+  jawi: ''
+  id: pohon kayu yg lurus
+  en: ''
+- aceh: bayông
+  jawi: ''
+  id: pohon bayung yg lurus batangnya
+  en: ''
+- aceh: ubé sulu
+  jawi: ''
+  id: sebagaimana adanya
+  en: how there is
+- aceh: lôn jak ubé sulu, narit pi ubé sulu
+  jawi: ''
+  id: Saya berjalan menurut jalan yg lurus dan berkata serta berbuat secara jujur
+  en: ''
+- aceh: 'peu sulu, berlaku lurus, jujur: meu sulu, bayông'
+  jawi: ''
+  id: menyerupai batang yg lurus
+  en: ''
+- aceh: peu sulu
+  jawi: ''
+  id: meluruskan
+  en: straight
+etymology: ''
 related_words: []
-dialect_notes: ""
-source: "Kamus Bahasa Aceh Daring (Balai Bahasa Provinsi Aceh), 'Entri huruf — sulu', URL: https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/S?page=5 (diakses 20 Juli 2026)"
-date_added: "2026-07-20"
-contributor: "AI-extracted — needs human review"
-extraction_notes: "Diekstrak dari 1 halaman sumber (https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/S?page=5). Tidak ada bentuk Jawi dalam sumber — dibiarkan kosong sesuai aturan."
+dialect_notes: ''
+source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
+  Pendidikan dan Kebudayaan, 1985, hlm. 906'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+extraction_notes: 'Jawi left blank: the source is Latin-script only and no Jawi form is printed for this
+  entry.'

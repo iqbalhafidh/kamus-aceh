@@ -10,6 +10,8 @@ definitions:
   meaning_en: ''
 - meaning_id: kiasan sedih
   meaning_en: figuratively sad
+- meaning_id: retak
+  meaning_en: cracked
 examples:
 - aceh: sikin, kanet nyan ka reungat
   jawi: ''
@@ -31,6 +33,10 @@ examples:
   jawi: ''
   id: menyakiti hati, membuat sedih
   en: sick heart, to make sad
+- aceh: meu reungat
+  jawi: ''
+  id: merasa sedih, bersedih hati, menjadi retak
+  en: feeling sad, sad heart, to become cracked
 etymology: ''
 related_words:
 - crah

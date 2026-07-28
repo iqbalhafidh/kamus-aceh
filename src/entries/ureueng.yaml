@@ -2,16 +2,118 @@ headword: ureueng
 jawi: ''
 alt_spelling: []
 ipa: ''
-part_of_speech: ''
+part_of_speech: n
 definitions:
-- meaning_id: orang
-  meaning_en: person
-examples: []
+- meaning_id: orang, perorangan, pengikut, seseorang
+  meaning_en: person, to follow, someone
+examples:
+- aceh: ulèe, ureueng peu-teungohan, ureueng iku (pengelompok an penduduk gampong menurut pangkat dan
+    martabatnya pd masa dahulu, ureueng rayek, orang besar orang ternama, ureueng rayek
+  jawi: ''
+  id: orang yg telah dewasa, orang besar
+  en: ''
+- aceh: meu asai
+  jawi: ''
+  id: orang bangsawan, berketurunan baik-baik
+  en: ''
+- aceh: gèt, ureueng jroh, atau ureueng patôt
+  jawi: ''
+  id: orang baik-baik, orang patut-patut, (berketurunan baik-baik, berpangkat, berkelakuan baik-baik)
+  en: ''
+- aceh: le, orang kebanyakan, masyarakat ramai, bintang-bintangan, (ureueng bintang)
+  jawi: ''
+  id: ureueng
+  en: ''
+- aceh: bale ureueng le
+  jawi: ''
+  id: langgar utk orang banyak, balai umum yg didirikan dng biaya orang banyak
+  en: ''
+- aceh: bala, rakyat biasa, rakyat seorang uleebalang
+  jawi: ''
+  id: ureueng
+  en: ''
+- aceh: ireng, ureueng sajan
+  jawi: ''
+  id: pengikut atau pengiring
+  en: ''
+- aceh: di) dapu, ureueng lam rumoh
+  jawi: ''
+  id: orang yg tinggal di rumah utk membantu pekerjaan rumah tangga seseorang, pembantu rumah tangga
+  en: ''
+- aceh: kureueng
+  jawi: ''
+  id: orang keturunan hamba sahaya
+  en: person descend servant slave
+- aceh: tuha, ureueng tuha, ureueng chik, ureueng chik
+  jawi: ''
+  id: ureueng
+  en: ''
+- aceh: aceh, orang atau bangsa Aceh, ureueng tunong orang yg tinggal di pesisir, ureueng alem
+  jawi: ''
+  id: orang alim, ahli ilmu agama
+  en: person learned in religion, expert knowledge religion
+- aceh: pemubeuet, seunubeuet
+  jawi: ''
+  id: orang yg memberi pelajaran membaca Qur'an
+  en: ''
+- aceh: meukat aweueh
+  jawi: ''
+  id: penjual rmpah-rempah
+  en: ''
+- aceh: ba ret
+  jawi: ''
+  id: penunju k jalan
+  en: ''
+- aceh: lakoe
+  jawi: ''
+  id: orang laki-laki suami
+  en: person mans husband
+- aceh: 'binoe, orang perempuan, wanita, isteri: ureueng teuku, pengikut teuku'
+  jawi: ''
+  id: ureueng
+  en: ''
+- aceh: kheun
+  jawi: ''
+  id: orang berkata
+  en: person word
+- aceh: kheun, gata ceudaih ta keumawe
+  jawi: ''
+  id: Orang berkata bahwa Anda hali memancing ikan
+  en: ''
+- aceh: soe ureueng nyan
+  jawi: ''
+  id: '? Siapakah orang itu?'
+  en: ''
+- aceh: peue ureueng nyan
+  jawi: ''
+  id: '? Orang apakah itu?'
+  en: ''
+- aceh: binatang ureueng kah
+  jawi: ''
+  id: Engkau benar-benar seorang binatang!
+  en: ''
+- aceh: mata
+  jawi: ''
+  id: orang-orangan mata, anak mata
+  en: person person eye, eye child
+- aceh: meu ureueng
+  jawi: ''
+  id: berorang, didiami orang, mempunyai pengikut
+  en: person, be silent person, to have to follow
+- aceh: peu ureueng ureueng droe
+  jawi: ''
+  id: bersikap spt orang yg tidak baik kelakuannya
+  en: ''
+- aceh: bèk tapeu ureueng ureueng droe teu bak lôn
+  jawi: ''
+  id: Jangan Anda bersikap tidak baik thd saya
+  en: ''
 etymology: ''
 related_words: []
 dialect_notes: ''
-source: 'Daud, Bukhari & Mark Durie. Kamus Basa Acèh = Kamus Bahasa Aceh: Acehnese–Indonesian–English Thesaurus.
-  Pacific Linguistics C-151, 1999, p. 14; vii (PDF p. 5).'
-date_added: '2026-07-20'
+source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
+  Pendidikan dan Kebudayaan, 1985, hlm. 1049'
+date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: ''
+extraction_notes: 'Jawi left blank: the source is Latin-script only and no Jawi form is printed for this
+  entry.'

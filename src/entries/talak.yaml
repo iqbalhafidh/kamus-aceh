@@ -1,19 +1,62 @@
----
-headword: "talak"
-jawi: ""
+headword: talak
+jawi: ''
 alt_spelling: []
-ipa: "/ta.la?/"
-part_of_speech: "n"
-language_uncertain: false
+ipa: ''
+part_of_speech: n
 definitions:
-  - meaning_id: "bagian wajah di kening sampai batas tumbuhnya rambut"
-    meaning_en: ""
+- meaning_id: dahi (
+  meaning_en: ''
+- meaning_id: lebih dari kenyang
+  meaning_en: ''
+- meaning_id: memberi secara berlebih-lebihan
+  meaning_en: to give in a manner more more
+- meaning_id: menjamu dengan sepuas-puasnya
+  meaning_en: ''
+- meaning_id: menyerah sepenuhnya
+  meaning_en: to surrender full
+- meaning_id: melampiaskan (tentang nafsu
+  meaning_en: ''
+- meaning_id: kemarahan)
+  meaning_en: angry
+- meaning_id: melakukan sesuatu secara sewenang-wenang
+  meaning_en: ''
 examples:
-  []
-etymology: ""
-related_words: []
-dialect_notes: ""
-source: "Kamus Bahasa Aceh Daring (Balai Bahasa Provinsi Aceh), 'Entri huruf — talak', URL: https://kamusbbpa.kemendikdasmen.go.id/kamus/Aceh/T (diakses 20 Juli 2026)"
-date_added: "2026-07-20"
-contributor: "AI-extracted — needs human review"
-extraction_notes: "Diekstrak dari 1 halaman sumber (https://kamusbbpa.kemendikdasmen.go.id/kamus/Aceh/T). Tidak ada bentuk Jawi dalam sumber — dibiarkan kosong sesuai aturan."
+- aceh: 'dhoe): bulee talak'
+  jawi: ''
+  id: bulu yg tumbuh di dahi
+  en: ''
+- aceh: puteh talak
+  jawi: ''
+  id: dahi yg putih
+  en: ''
+- aceh: lon talak gata ngon eungkot
+  jawi: ''
+  id: Saya akan membiarkan Anda makan ikan dng sepuas-puasnya
+  en: ''
+- aceh: mata
+  jawi: ''
+  id: membiarkan mata sepuas-puasnya melihat sesuatu
+  en: ''
+- aceh: hawa, nafsu
+  jawi: ''
+  id: melampiaskan keinginan, nafsu
+  en: ''
+- aceh: meu talak, teu talak
+  jawi: ''
+  id: diserahkan sepuas-puasnya
+  en: ''
+- aceh: ka teu talak droeteu ngon boh drien?
+  jawi: ''
+  id: Sudahkah Anda makan buah durian dng sepuas-puasnya?
+  en: ''
+etymology: ''
+related_words:
+- dhoe )
+dialect_notes: ''
+source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
+  Pendidikan dan Kebudayaan, 1985, hlm. 924'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+extraction_notes: 'English gloss left blank: no confident translation of the Indonesian definition was
+  available. Jawi left blank: the source is Latin-script only and no Jawi form is printed for this entry.
+  | Jawi left blank: the source is Latin-script only and no Jawi form is printed for this entry.'

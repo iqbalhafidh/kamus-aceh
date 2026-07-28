@@ -11,6 +11,8 @@ definitions:
   meaning_en: ''
 - meaning_id: menyembelih secara
   meaning_en: ''
+- meaning_id: menyembelih secara
+  meaning_en: to slaughter in a manner
 examples:
 - aceh: itek jirok-rok rok-rok jeua
   jawi: ''
@@ -24,6 +26,22 @@ examples:
   jawi: ''
   id: menyembelih kerrok-rok
   en: ''
+- aceh: keubeue
+  jawi: ''
+  id: menyembelih kerba u
+  en: ''
+- aceh: pakon talok-lok baranggaho, nyan pat gob?
+  jawi: ''
+  id: Mengapa Anda berjalan ke sana ke mari, bukanlah orang-orang duduk di situ?
+  en: ''
+- aceh: Meurok-rok, melakukan rok-rok
+  jawi: ''
+  id: memperdengarkan suara mencucup atau menghirup
+  en: ''
+- aceh: peue su meurok-rok rok-rok di likot rumoh
+  jawi: ''
+  id: Suara apakah yg terdengar mencucup di belakang rumah
+  en: ''
 etymology: ''
 related_words: []
 dialect_notes: ''
@@ -32,4 +50,5 @@ source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan P
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
 extraction_notes: 'English gloss left blank: no confident translation of the Indonesian definition was
-  available. Jawi left blank: the source is Latin-script only and no Jawi form is printed for this entry.'
+  available. Jawi left blank: the source is Latin-script only and no Jawi form is printed for this entry.
+  | Jawi left blank: the source is Latin-script only and no Jawi form is printed for this entry.'

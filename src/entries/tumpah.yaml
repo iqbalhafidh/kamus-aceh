@@ -1,20 +1,22 @@
 headword: tumpah
 jawi: ''
-alt_spelling:
-- di
-- lantai
+alt_spelling: []
 ipa: ''
-part_of_speech: ''
+part_of_speech: v
 definitions:
-- meaning_id: bumba, pumpa
-  meaning_en: ''
-examples: []
+- meaning_id: tumpah
+  meaning_en: to spill
+examples:
+- aceh: teumpat tumpah darah
+  jawi: ''
+  id: tempat tumpah darah, tanah air
+  en: place to spill blood, water earth
 etymology: ''
 related_words: []
 dialect_notes: ''
-source: 'Kamus Aceh-Indonesia (extracted from pp.124-270 of the source edition, Acehnese section entries
-  cèm-unyèn through gutie/H). File: markdown.md supplied by the user. — p.261'
+source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
+  Pendidikan dan Kebudayaan, 1985, hlm. 1011'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: Part of speech not explicitly marked in source. Jawi transliteration is AI-generated,
-  not from source — needs verification by a Jawi-literate reviewer.
+extraction_notes: 'Jawi left blank: the source is Latin-script only and no Jawi form is printed for this
+  entry.'

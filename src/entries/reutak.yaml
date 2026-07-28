@@ -10,6 +10,8 @@ definitions:
   meaning_en: ''
 - meaning_id: garis (tentang tangan)
   meaning_en: line (about hand)
+- meaning_id: retak (tentang pecah-belah)
+  meaning_en: cracked (about broken to split)
 examples:
 - aceh: 'ki sakit hati: reutak aleh'
   jawi: ''
@@ -55,6 +57,10 @@ examples:
   jawi: ''
   id: Jangan Anda retak dgn Saudara
   en: ''
+- aceh: sireutak, juga seureutak
+  jawi: ''
+  id: serentak
+  en: simultaneous
 etymology: ''
 related_words: []
 dialect_notes: ''

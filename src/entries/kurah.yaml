@@ -6,10 +6,8 @@ part_of_speech: n
 definitions:
 - meaning_id: bentuk tambahan dari keukurah
   meaning_en: an extended form of keukurah
-- meaning_id: daerah
-  meaning_en: region, district
-- meaning_id: wilayah (dalam hikayat)
-  meaning_en: ''
+- meaning_id: daerah, wilayah (dalam hikayat)
+  meaning_en: region, district, territory (in hikayat)
 examples: []
 etymology: ''
 related_words: []

@@ -4,14 +4,8 @@ alt_spelling: []
 ipa: ''
 part_of_speech: v
 definitions:
-- meaning_id: melingkarkan
-  meaning_en: circle
-- meaning_id: memilin
-  meaning_en: to twist
-- meaning_id: menggulung (tali)
-  meaning_en: to roll up (rope)
-- meaning_id: mengulung (umpamanya gelang tangan)
-  meaning_en: ''
+- meaning_id: melingkarkan, memilin,, menggulung (tali), mengulung (umpamanya gelang tangan)
+  meaning_en: circle, to twist, to roll up (rope), to roll up (for example bracelet hand)
 - meaning_id: bentuk yang melengkung (umpamanya tali
   meaning_en: a curved shape, as of a rope
 - meaning_id: ular yang menggulung)

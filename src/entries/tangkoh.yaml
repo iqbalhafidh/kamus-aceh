@@ -2,17 +2,58 @@ headword: tangkoh
 jawi: ''
 alt_spelling: []
 ipa: ''
-part_of_speech: ''
+part_of_speech: a
 definitions:
-- meaning_id: tangguh, kuat
-  meaning_en: strong
-examples: []
+- meaning_id: subur, makmur, banyak, kuat
+  meaning_en: fertile, prosperous, many, strong
+examples:
+- aceh: nanggroe teungoh tangkoh
+  jawi: ''
+  id: negeri yg makmur
+  en: ''
+- aceh: lada teungoh tangkoh
+  jawi: ''
+  id: (tanaman) lada yg subur
+  en: ''
+- aceh: u nyoe tangkoh, (that jimuboh)
+  jawi: ''
+  id: tanaman kelapa ini sangat banyak buahnya
+  en: ''
+- aceh: that badan leumo nyan
+  jawi: ''
+  id: sapi itu tampaknya kuat sekali
+  en: ''
+- aceh: nyan jimeunan Aceh lhe sagoe, geudubang di jaroe tangkoh rata
+  jawi: ''
+  id: (ketiga daerah itu) dinamakan daerah Aceh tiga segi karena penduduknya kuat memegang gedubang
+  en: ''
+- aceh: prang pi tangkoh nibak nyang ka
+  jawi: ''
+  id: maka berkecamuklah peperangan yg lebih hebat drpd sebelumnya
+  en: ''
+- aceh: rakanji tangkoh tangkoh that
+  jawi: ''
+  id: pengikut-pengikutnya kuat-kuat
+  en: to follow to follow strongs
+- aceh: that buetji, dum peue jiteumee pubuet
+  jawi: ''
+  id: Ia seorang yg bekerja kuat, ia berkesempatan mengerjakan semua pekerjaan
+  en: ''
+- aceh: peu tangkoh
+  jawi: ''
+  id: membuat sehingga menjadi tangkah
+  en: ''
+- aceh: peue nyang hana tangkoh tapeu tangkoh
+  jawi: ''
+  id: mana-mana yg tidak kuat hendaklah Anda perkuat
+  en: ''
 etymology: ''
-related_words: []
+related_words:
+- tangkeueh
 dialect_notes: ''
-source: 'Daud, Bukhari & Mark Durie. Kamus Basa Acèh = Kamus Bahasa Aceh: Acehnese–Indonesian–English Thesaurus.
-  Pacific Linguistics C-151, 1999, p. 82.'
-date_added: '2026-07-20'
+source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
+  Pendidikan dan Kebudayaan, 1985, hlm. 938'
+date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: PDF text-layer mismatch in the Acehnese form; copied from the searchable PDF text layer and needs
-  visual verification against printed p. 82.
+extraction_notes: 'Jawi left blank: the source is Latin-script only and no Jawi form is printed for this
+  entry.'

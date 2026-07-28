@@ -1,21 +1,33 @@
----
-headword: "unak"
-jawi: ""
-alt_spelling: []
-ipa: "/u.na?/"
-part_of_speech: "n"
-language_uncertain: false
+headword: unak
+jawi: ''
+alt_spelling:
+- hunak
+ipa: ''
+part_of_speech: n
 definitions:
-  - meaning_id: "1 cabang kayu berduri;"
-    meaning_en: ""
-  - meaning_id: "2 alat yg terbuat dr duri rotan deuku (manau), dijalin 4 dng rotan, pd bagian belakang diikat dng kayu dan batu, dipasang dalam sungai searah dng arus air serta diberi umpan pancing"
-    meaning_en: ""
+- meaning_id: onak
+  meaning_en: thorn
+- meaning_id: duri
+  meaning_en: thorn
+- meaning_id: cabang kayu berduri
+  meaning_en: branch wood thorn
+- meaning_id: sejenis buku kecil berduri yang ditenggelamkan dengan sebuah batu dan diikat dengan seutas
+    tali
+  meaning_en: ''
+- meaning_id: kiasan kesukaran
+  meaning_en: figuratively difficult
 examples:
-  []
-etymology: ""
+- aceh: lôn ka srot lam unak
+  jawi: ''
+  id: (hrf) Saya telah jatuh ke dl onak = saya mendapat kesukaran. 'oh lheueh tatulak gob-nyan lam unak,
+    tajak di gata, Setelah Anda menjerumuskannya dl kesukaran lalu Anda membiarkannya demikian
+  en: ''
+etymology: ''
 related_words: []
-dialect_notes: ""
-source: "Kamus Bahasa Aceh Daring (Balai Bahasa Provinsi Aceh), 'Entri huruf — unak', URL: https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/U?page=2 (diakses 20 Juli 2026)"
-date_added: "2026-07-20"
-contributor: "AI-extracted — needs human review"
-extraction_notes: "Diekstrak dari 1 halaman sumber (https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/U?page=2). Tidak ada bentuk Jawi dalam sumber — dibiarkan kosong sesuai aturan."
+dialect_notes: ''
+source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
+  Pendidikan dan Kebudayaan, 1985, hlm. 1040'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+extraction_notes: 'Jawi left blank: the source is Latin-script only and no Jawi form is printed for this
+  entry.'

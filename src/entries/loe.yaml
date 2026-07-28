@@ -4,10 +4,8 @@ alt_spelling: []
 ipa: ''
 part_of_speech: a
 definitions:
-- meaning_id: majal
-  meaning_en: blunt
-- meaning_id: sangat tumpul
-  meaning_en: ''
+- meaning_id: majal, sangat tumpul
+  meaning_en: blunt, very blunt
 - meaning_id: (biasanya digandakan)
   meaning_en: usually reduplicated
 examples:

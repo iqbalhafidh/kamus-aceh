@@ -4,18 +4,8 @@ alt_spelling: []
 ipa: ''
 part_of_speech: v
 definitions:
-- meaning_id: mengutip
-  meaning_en: to collect
-- meaning_id: mencubit
-  meaning_en: to pinch
-- meaning_id: memetik
-  meaning_en: to pick
-- meaning_id: menggerumit
-  meaning_en: ''
-- meaning_id: menyepit
-  meaning_en: ''
-- meaning_id: kiasan mengambil sesuatu secara diam-diam
-  meaning_en: figuratively, to take something quietly
+- meaning_id: mengutip, mencubit, memetik, menggerumit, menyepit, kiasan mengambil sesuatu secara diam-diam
+  meaning_en: to collect, to pinch, to pick, to nibble at, figuratively, to take something quietly
 examples:
 - aceh: bungong
   jawi: ''

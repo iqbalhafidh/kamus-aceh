@@ -1,19 +1,34 @@
----
-headword: "yuek"
-jawi: ""
+headword: yuek
+jawi: ''
 alt_spelling: []
-ipa: "/yuw?/"
-part_of_speech: "a"
-language_uncertain: false
+ipa: ''
+part_of_speech: a
 definitions:
-  - meaning_id: "menurun, menyusut, berkurang: ie lam glah ka – ‘air dalam gelas sudah --’"
-    meaning_en: ""
+- meaning_id: menurun, berkurang, menyusut (umpamanya persedia-n padi, berat badan dan sebagainya), dan
+    sebagainya), mengurus, surut (untuk air)
+  meaning_en: descend, less, to shrink for example ready rice plant, body weight and so forth, and so
+    forth, to manage, to ebb (for water)
 examples:
-  []
-etymology: ""
-related_words: []
-dialect_notes: ""
-source: "Kamus Bahasa Aceh Daring (Balai Bahasa Provinsi Aceh), 'Entri huruf — yuek', URL: https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/Y?page=8 (diakses 20 Juli 2026); halaman tambahan: Y?page=11, Y?page=12, Y?page=13, Y?page=14, Y?page=15, Y?page=16, Y?page=17, Y?page=18, Y?page=19, Y?page=2, Y?page=3, Y?page=4, Y?page=5, Y?page=6, Y?page=7, Y?page=8, Y?page=9, Y"
-date_added: "2026-07-20"
-contributor: "AI-extracted — needs human review"
-extraction_notes: "Diekstrak dari 19 halaman sumber (https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/Y?page=10, https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/Y?page=11, https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/Y?page=12, https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/Y?page=13, https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/Y?page=14, https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/Y?page=15, https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/Y?page=16, https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/Y?page=17, https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/Y?page=18, https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/Y?page=19, https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/Y?page=2, https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/Y?page=3, https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/Y?page=4, https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/Y?page=5, https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/Y?page=6, https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/Y?page=7, https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/Y?page=8, https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/Y?page=9, https://kamusbbpa.kemendikdasmen.go.id/kamus/Aceh/Y). Ditemukan pada beberapa halaman; definisi dan contoh digabungkan. Tidak ada bentuk Jawi dalam sumber — dibiarkan kosong sesuai aturan."
+- aceh: pakon reujang that yuek pade lam brandang?
+  jawi: ''
+  id: Mengapakah lekas sekali berkurang padi dl tempat penyimpanannya?
+  en: ''
+- aceh: that asoe keubeue lon lawet nyoe!
+  jawi: ''
+  id: Selama ini menyusut sekali badan kerbau saya
+  en: ''
+- aceh: ie ka yuek
+  jawi: ''
+  id: Air sudah surut
+  en: The tide has gone out
+etymology: ''
+related_words:
+- surot
+- sriet
+dialect_notes: ''
+source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
+  Pendidikan dan Kebudayaan, 1985, hlm. 1073'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+extraction_notes: 'Jawi left blank: the source is Latin-script only and no Jawi form is printed for this
+  entry.'

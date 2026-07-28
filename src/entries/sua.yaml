@@ -1,18 +1,39 @@
-headword: sUa
+headword: sua
 jawi: ''
 alt_spelling: []
 ipa: ''
-part_of_speech: ''
+part_of_speech: n
 definitions:
-- meaning_id: sadel
-  meaning_en: saddle (bike)
-examples: []
+- meaning_id: suar, obor, suluh
+  meaning_en: beacon, torch
+- meaning_id: sua-sua mempertemukan
+  meaning_en: ''
+- meaning_id: mendekatkan
+  meaning_en: to bring near
+- meaning_id: mempersuakan
+  meaning_en: inlet
+- meaning_id: (tentang ayam aduan untuk mengasutnya supaya berlaga)
+  meaning_en: ''
+- meaning_id: bulèe sua bulu halus yang tumbuh di leher
+  meaning_en: ''
+- meaning_id: (tentang ayam atau burung)
+  meaning_en: ''
+examples:
+- aceh: 'meu sua, bersua: soe nyang meu sua laju jipong lé ureueng pungo nyan'
+  jawi: ''
+  id: Barang siapa yg bersua akan dipukul oleh orang gila itu
+  en: ''
+- aceh: aneuk geureuda na dua boh, teungoh timoh bulèe sua
+  jawi: ''
+  id: Ada dua ekor anak garuda yg sedang tumbuh bulu-bulu halus di lehernya sua grue
+  en: ''
 etymology: ''
 related_words: []
 dialect_notes: ''
-source: 'Daud, Bukhari & Mark Durie. Kamus Basa Acèh = Kamus Bahasa Aceh: Acehnese–Indonesian–English Thesaurus.
-  Pacific Linguistics C-151, 1999, p. 60.'
-date_added: '2026-07-20'
+source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
+  Pendidikan dan Kebudayaan, 1985, hlm. 899, 900'
+date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: PDF text-layer mismatch in the Acehnese form; copied from the searchable PDF text layer and needs
-  visual verification against printed p. 60.
+extraction_notes: 'Jawi left blank: the source is Latin-script only and no Jawi form is printed for this
+  entry. | English gloss left blank: no confident translation of the Indonesian definition was available.
+  Jawi left blank: the source is Latin-script only and no Jawi form is printed for this entry.'

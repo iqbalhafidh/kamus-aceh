@@ -1,24 +1,24 @@
 headword: nyanyi
 jawi: ''
-alt_spelling: []
+alt_spelling:
+- nyai
 ipa: ''
-part_of_speech: ''
+part_of_speech: n
 definitions:
-- meaning_id: '*'
-  meaning_en: ''
-examples:
-- aceh: lalè*
-  jawi: ''
-  id: ''
-  en: ''
+- meaning_id: nyai, perempuan piaraan yang tidak dikawini oleh orang Eropah pada masa dahulu
+  meaning_en: lady, a kept woman not married by a European in former times
+examples: []
 etymology: ''
-related_words: []
+related_words:
+- nyanyoe
 dialect_notes: ''
-source: 'Kamus Aceh-Indonesia (extracted from pp.124-270 of the source edition, Acehnese section entries
-  cèm-unyèn through gutie/H). File: markdown.md supplied by the user. — p.173'
+source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
+  Pendidikan dan Kebudayaan, 1985, hlm. 644'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: Part of speech not explicitly marked in source. Indonesian example translations are
-  taken verbatim from the source. English meanings and Jawi transliterations are AI-flagged as unverified
-  and need human review. Jawi transliteration is AI-generated, not from source — needs verification by
-  a Jawi-literate reviewer.
+extraction_notes: 'Homonym 1 in the source (printed as a superscript numeral before the headword). Jawi
+  left blank: the source is Latin-script only and no Jawi form is printed for this entry. | Source gives
+  this only as a cross-reference (→ nyanyoe); no independent definition is printed, so meaning fields
+  are left blank rather than guessed. Homonym 2 in the source (printed as a superscript numeral before
+  the headword). Jawi left blank: the source is Latin-script only and no Jawi form is printed for this
+  entry. Part of speech not stated in the source; left blank.'

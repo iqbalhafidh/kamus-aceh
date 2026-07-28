@@ -1,17 +1,24 @@
 headword: tham
 jawi: ''
-alt_spelling: []
+alt_spelling:
+- th'am
 ipa: ''
-part_of_speech: ''
+part_of_speech: v
 definitions:
-- meaning_id: mencegah, melarang
-  meaning_en: forbid, prevent
+- meaning_id: menahan, mencegah, melarang, berusaha menangkap, berburu (dengan menggunakan jaring), menghalangi,
+    membendung, menutupi jalan
+  meaning_en: to hold back, to prevent, to forbid, enterprise catch, to hunt (with to use net), to obstruct,
+    to dam, close walk
 examples: []
 etymology: ''
-related_words: []
+related_words:
+- t'am
 dialect_notes: ''
-source: 'Daud, Bukhari & Mark Durie. Kamus Basa Acèh = Kamus Bahasa Aceh: Acehnese–Indonesian–English Thesaurus.
-  Pacific Linguistics C-151, 1999, p. 56.'
-date_added: '2026-07-20'
+source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
+  Pendidikan dan Kebudayaan, 1985, hlm. 975'
+date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: ''
+extraction_notes: 'Jawi left blank: the source is Latin-script only and no Jawi form is printed for this
+  entry. | Source gives this only as a cross-reference (→ t''am); no independent definition is printed,
+  so meaning fields are left blank rather than guessed. Jawi left blank: the source is Latin-script only
+  and no Jawi form is printed for this entry. Part of speech not stated in the source; left blank.'

@@ -4,15 +4,13 @@ alt_spelling: []
 ipa: ''
 part_of_speech: adv
 definitions:
-- meaning_id: selalu
-  meaning_en: always
-- meaning_id: seringkali
-  meaning_en: ''
+- meaning_id: selalu, seringkali
+  meaning_en: always, often
 examples:
 - aceh: bèk tapeukayém droetcu keu nan bak rumoh inong gob
   jawi: ''
   id: Anda jangan membiasakan diri datang ke rumah istri orang
-  en: ''
+  en: Do not make a habit of visiting another man's wife
 etymology: ''
 related_words:
 - kaém

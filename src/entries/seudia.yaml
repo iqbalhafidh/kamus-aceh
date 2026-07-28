@@ -1,0 +1,41 @@
+headword: seudia
+jawi: ''
+alt_spelling: []
+ipa: ''
+part_of_speech: v
+definitions:
+- meaning_id: sedia
+  meaning_en: ready
+- meaning_id: sedia
+  meaning_en: ready
+- meaning_id: siap
+  meaning_en: ready
+- meaning_id: selalu
+  meaning_en: always
+- meaning_id: dari semula
+  meaning_en: ''
+- meaning_id: sediakala
+  meaning_en: old of
+examples:
+- aceh: jak seudia bu
+  jawi: ''
+  id: pergilah menyediakan nasi
+  en: go ready cooked rice
+- aceh: kamoe bandum ka seudia
+  jawi: ''
+  id: Kami semua sudah siap sedia
+  en: ''
+- aceh: peu seudia
+  jawi: ''
+  id: menyediakan
+  en: ready
+etymology: ''
+related_words:
+- saja
+dialect_notes: ''
+source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
+  Pendidikan dan Kebudayaan, 1985, hlm. 854'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+extraction_notes: 'Jawi left blank: the source is Latin-script only and no Jawi form is printed for this
+  entry.'

@@ -1,0 +1,32 @@
+headword: thee
+jawi: ''
+alt_spelling: []
+ipa: ''
+part_of_speech: v
+definitions:
+- meaning_id: tahu, kenal
+  meaning_en: know
+- meaning_id: pengetahuan
+  meaning_en: knowledge
+- meaning_id: akal pengalaman
+  meaning_en: ''
+examples:
+- aceh: bri thee
+  jawi: ''
+  id: memberitahukan
+  en: ''
+- aceh: peue thee aneuk droeneu? thee ka thee atau ka jeuet duek, meu'eui, Sudah dpt (= pandai) apakah
+    anak Anda? Ia sudah pandai duduk, merangkak, hana ji thee na goh
+  jawi: ''
+  id: Ia tidak tahu ada orang laon. Ia tidak menganggap ada orang lain yg lebih pandai dr dia. Ia memandang
+    enteng kpd orang lain
+  en: ''
+etymology: ''
+related_words: []
+dialect_notes: ''
+source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
+  Pendidikan dan Kebudayaan, 1985, hlm. 976'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+extraction_notes: 'Jawi left blank: the source is Latin-script only and no Jawi form is printed for this
+  entry.'

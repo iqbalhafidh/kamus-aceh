@@ -2,16 +2,59 @@ headword: surak
 jawi: ''
 alt_spelling: []
 ipa: ''
-part_of_speech: ''
+part_of_speech: v
 definitions:
-- meaning_id: sorak
-  meaning_en: applause
-examples: []
+- meaning_id: bersorak, berteriak, bertempik-sorak
+  meaning_en: to cheer, shout, to shout
+- meaning_id: bertentangan
+  meaning_en: about
+- meaning_id: terbaik arahnya
+  meaning_en: good direction
+- meaning_id: berlawanan dari kebiasaannya
+  meaning_en: ''
+- meaning_id: melakukan sesuatu yang bertentangan dengan adat istiadat
+  meaning_en: ''
+examples:
+- aceh: meu surak
+  jawi: ''
+  id: bersorak
+  en: to cheer
+- aceh: peu surak
+  jawi: ''
+  id: menyuruh bersorak
+  en: to order to cheer
+- aceh: seumurak
+  jawi: ''
+  id: ramai-ramai bersorak
+  en: crowdeds to cheer
+- aceh: manok surak bulêe
+  jawi: ''
+  id: ayam yg keriting bulunya
+  en: ''
+- aceh: ureueng surak bulêe
+  jawi: ''
+  id: orang sial
+  en: person unlucky
+- aceh: bêk surak tasêk boh mamplam
+  jawi: ''
+  id: Jangan Anda menguliti buah mangga secara terbalik
+  en: ''
+- aceh: that gobnyan meukawên
+  jawi: ''
+  id: orang itu kawin terbalik, (dikatakan kpd laki-laki biasa yg kawin dng wanita ternama dan kaya)
+  en: ''
+- aceh: peu surak
+  jawi: ''
+  id: membuat terbalik dr biasa
+  en: ''
 etymology: ''
 related_words: []
 dialect_notes: ''
-source: 'Daud, Bukhari & Mark Durie. Kamus Basa Acèh = Kamus Bahasa Aceh: Acehnese–Indonesian–English Thesaurus.
-  Pacific Linguistics C-151, 1999, p. 18.'
-date_added: '2026-07-20'
+source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
+  Pendidikan dan Kebudayaan, 1985, hlm. 910'
+date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: ''
+extraction_notes: 'Homonym 1 in the source (printed as a superscript numeral before the headword). Jawi
+  left blank: the source is Latin-script only and no Jawi form is printed for this entry. | Homonym 2
+  in the source (printed as a superscript numeral before the headword). Jawi left blank: the source is
+  Latin-script only and no Jawi form is printed for this entry.'

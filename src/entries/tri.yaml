@@ -1,19 +1,35 @@
----
-headword: "tri"
-jawi: ""
+headword: tri
+jawi: ''
 alt_spelling: []
-ipa: "/tri/"
-part_of_speech: "n"
-language_uncertain: false
+ipa: ''
+part_of_speech: n
 definitions:
-  - meaning_id: "ikan kerisi atau teri"
-    meaning_en: ""
-examples:
-  []
-etymology: ""
-related_words: []
-dialect_notes: ""
-source: "Kamus Bahasa Aceh Daring (Balai Bahasa Provinsi Aceh), 'Entri huruf — tri', URL: https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/T?page=4 (diakses 20 Juli 2026)"
-date_added: "2026-07-20"
-contributor: "AI-extracted — needs human review"
-extraction_notes: "Diekstrak dari 1 halaman sumber (https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/T?page=4). Tidak ada bentuk Jawi dalam sumber — dibiarkan kosong sesuai aturan."
+- meaning_id: ikan kerisi atau teri
+  meaning_en: ''
+- meaning_id: (Lt sejenis Syna-gria)
+  meaning_en: ''
+- meaning_id: kecil
+  meaning_en: small
+- meaning_id: kerdil
+  meaning_en: stunted
+- meaning_id: tetap mengecil (umpamanya anak atau hewan)
+  meaning_en: ''
+- meaning_id: eungkot -
+  meaning_en: ''
+- meaning_id: ikan teri
+  meaning_en: fish anchovy
+- meaning_id: '- that aneuk nyoe'
+  meaning_en: ''
+- meaning_id: Kerdil sekali anak ini. kameng -
+  meaning_en: ''
+examples: []
+etymology: ''
+related_words:
+- kameng
+dialect_notes: ''
+source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
+  Pendidikan dan Kebudayaan, 1985, hlm. 997'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+extraction_notes: 'Jawi left blank: the source is Latin-script only and no Jawi form is printed for this
+  entry.'

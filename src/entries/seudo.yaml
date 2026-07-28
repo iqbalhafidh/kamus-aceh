@@ -1,0 +1,30 @@
+headword: seudo
+jawi: ''
+alt_spelling: []
+ipa: ''
+part_of_speech: v
+definitions:
+- meaning_id: mengingat akan
+  meaning_en: remember will
+- meaning_id: terkenang akan
+  meaning_en: ''
+- meaning_id: kembali lagi
+  meaning_en: again again
+- meaning_id: kumat lagi
+  meaning_en: ''
+examples:
+- aceh: nyampang-nyampang geutém seudo
+  jawi: ''
+  id: meung bèk tuwo akan hamba, Sekali-sekali orang mau mengenangkan (hikayat ini) dan tidak akan melupakan
+    saya. ka ji seudo lom peunyakét uroe jéh, Penyakit yg dahulu sudah kumat lagi. meu seudo, melakukan
+    seudo
+  en: ''
+etymology: ''
+related_words: []
+dialect_notes: ''
+source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
+  Pendidikan dan Kebudayaan, 1985, hlm. 855'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+extraction_notes: 'Jawi left blank: the source is Latin-script only and no Jawi form is printed for this
+  entry.'

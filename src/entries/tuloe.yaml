@@ -2,16 +2,58 @@ headword: tuloe
 jawi: ''
 alt_spelling: []
 ipa: ''
-part_of_speech: ''
+part_of_speech: a
 definitions:
-- meaning_id: tuli
-  meaning_en: deaf
+- meaning_id: tuli, pekak, sangat, luar biasa
+  meaning_en: deaf, very, outside usual
+- meaning_id: bak ureueng buta tayue atau tajok surat
+  meaning_en: ''
+- meaning_id: tayue ba hikayat bak ureueng -
+  meaning_en: ''
+- meaning_id: menzuruh berikan surat kepada orang buta (untuk diedarkan) dan menyerahkan hikayat kepada
+    orang tuli (untuk dibaca)
+  meaning_en: ''
+- meaning_id: (pb dipergunakan untuk suatu hal yang tidak bermanfaat)
+  meaning_en: ''
+- meaning_id: buta -
+  meaning_en: ''
+- meaning_id: buta dan tuli
+  meaning_en: ''
+- meaning_id: klo -
+  meaning_en: ''
+- meaning_id: tuli dan bisu
+  meaning_en: ''
+- meaning_id: seupot -
+  meaning_en: ''
+- meaning_id: sangat gelap
+  meaning_en: very dark
+- meaning_id: kala nyan bisa -
+  meaning_en: ''
+- meaning_id: kala itu sangat bisa
+  meaning_en: ''
+- meaning_id: si -
+  meaning_en: ''
+- meaning_id: (hrf) si tuli karena tidak peka terhadap pukulan-pukulan ombak
+  meaning_en: ''
+- meaning_id: yaitu pasak-pasak kayu untuk menyambung kedua bahagian pada buritan dan haluan kapal
+  meaning_en: ''
+- meaning_id: peu -
+  meaning_en: ''
+- meaning_id: membuat tuloe
+  meaning_en: ''
+- meaning_id: peu - (-) droe
+  meaning_en: ''
+- meaning_id: berlaku tuli
+  meaning_en: to apply deaf
+- meaning_id: bersikap seolah-olah tuli
+  meaning_en: to behave as if deaf
 examples: []
 etymology: ''
 related_words: []
 dialect_notes: ''
-source: 'Daud, Bukhari & Mark Durie. Kamus Basa Acèh = Kamus Bahasa Aceh: Acehnese–Indonesian–English Thesaurus.
-  Pacific Linguistics C-151, 1999, p. 32; p. 33.'
-date_added: '2026-07-20'
+source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
+  Pendidikan dan Kebudayaan, 1985, hlm. 1009'
+date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: ''
+extraction_notes: 'Jawi left blank: the source is Latin-script only and no Jawi form is printed for this
+  entry.'

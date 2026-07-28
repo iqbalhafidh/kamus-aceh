@@ -1,21 +1,30 @@
----
-headword: "simplah"
-jawi: ""
-alt_spelling: []
-ipa: "/sim.plah/"
-part_of_speech: "n"
-language_uncertain: false
+headword: simplah
+jawi: ''
+alt_spelling:
+- v
+ipa: ''
+part_of_speech: ''
 definitions:
-  - meaning_id: "1 minyak kelapa (virgin coconut oil);"
-    meaning_en: ""
-  - meaning_id: "2 perhiasan yg terdiri atas lempengan persegi enam sebanyak 24 lempengan, dihubungkan oleh rantai, digantungkan di pundak, dan di bagian depan untaiannya disilangkan"
-    meaning_en: ""
+- meaning_id: simplaih menyilang
+  meaning_en: ''
+- meaning_id: memakai atau meletakkan secara bersilang
+  meaning_en: ''
 examples:
-  []
-etymology: ""
+- aceh: ija simplah
+  jawi: ''
+  id: kain panjang yang dipakai bersilang di batu
+  en: ''
+- aceh: meu simplah
+  jawi: ''
+  id: bersilang
+  en: ''
+etymology: ''
 related_words: []
-dialect_notes: ""
-source: "Kamus Bahasa Aceh Daring (Balai Bahasa Provinsi Aceh), 'Entri huruf — simplah', URL: https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/S?page=4 (diakses 20 Juli 2026)"
-date_added: "2026-07-20"
-contributor: "AI-extracted — needs human review"
-extraction_notes: "Diekstrak dari 1 halaman sumber (https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/S?page=4). Tidak ada bentuk Jawi dalam sumber — dibiarkan kosong sesuai aturan."
+dialect_notes: ''
+source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
+  Pendidikan dan Kebudayaan, 1985, hlm. 884'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+extraction_notes: 'English gloss left blank: no confident translation of the Indonesian definition was
+  available. Jawi left blank: the source is Latin-script only and no Jawi form is printed for this entry.
+  Part of speech not stated in the source; left blank.'

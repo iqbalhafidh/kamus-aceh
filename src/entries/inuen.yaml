@@ -1,19 +1,20 @@
----
-headword: "inuen"
-jawi: ""
+headword: inuen
+jawi: ''
 alt_spelling: []
-ipa: "/i.nun/"
-part_of_speech: "n"
-language_uncertain: false
+ipa: ''
+part_of_speech: n
 definitions:
-  - meaning_id: "lintah gunung dng ekornya yg agak mengeras spt batu dan jika melekat pd orang atau binatang hanya dapat dilepaskan dng mengolesi bawang putih"
-    meaning_en: ""
-examples:
-  []
-etymology: ""
+- meaning_id: sejenis lintah gunung dengan ekornya yang agak mengeras seperti batu dan jika melekat pada
+    orang atau binata ng hanya dapat dilepaskan dengan mengolesi bawang putéh
+  meaning_en: a kind of mountain leech whose tail hardens somewhat like stone, and which once attached
+    to a person or animal can only be removed by smearing it with garlic
+examples: []
+etymology: ''
 related_words: []
-dialect_notes: ""
-source: "Kamus Bahasa Aceh Daring (Balai Bahasa Provinsi Aceh), 'Entri huruf — inuen', URL: https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/I?page=8 (diakses 20 Juli 2026); halaman tambahan: I?page=11, I?page=12, I?page=13, I?page=14, I?page=15, I?page=16, I?page=17, I?page=18, I?page=19, I?page=2, I?page=3, I?page=4, I?page=5, I?page=6, I?page=7, I?page=8, I?page=9"
-date_added: "2026-07-20"
-contributor: "AI-extracted — needs human review"
-extraction_notes: "Diekstrak dari 18 halaman sumber (https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/I?page=10, https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/I?page=11, https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/I?page=12, https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/I?page=13, https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/I?page=14, https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/I?page=15, https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/I?page=16, https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/I?page=17, https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/I?page=18, https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/I?page=19, https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/I?page=2, https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/I?page=3, https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/I?page=4, https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/I?page=5, https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/I?page=6, https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/I?page=7, https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/I?page=8, https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/I?page=9). Ditemukan pada beberapa halaman; definisi dan contoh digabungkan. Tidak ada bentuk Jawi dalam sumber — dibiarkan kosong sesuai aturan."
+dialect_notes: ''
+source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
+  Pendidikan dan Kebudayaan, 1985, hlm. 313'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+extraction_notes: 'Jawi left blank: the source is Latin-script only and no Jawi form is printed for this
+  entry.'

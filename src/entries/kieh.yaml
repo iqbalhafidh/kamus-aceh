@@ -4,20 +4,8 @@ alt_spelling: []
 ipa: ''
 part_of_speech: n
 definitions:
-- meaning_id: kias
-  meaning_en: analogy
-- meaning_id: persamaan
-  meaning_en: same
-- meaning_id: analogi
-  meaning_en: analogy
-- meaning_id: kesimpulan
-  meaning_en: conclusion
-- meaning_id: sindiran
-  meaning_en: innuendo
-- meaning_id: menyimpulkan
-  meaning_en: ''
-- meaning_id: menyindir
-  meaning_en: to allude mockingly
+- meaning_id: kias, persamaan, analogi, kesimpulan, sindiran, menyimpulkan, menyindir
+  meaning_en: analogy, same, conclusion, innuendo, to knot, to allude mockingly
 examples:
 - aceh: 'bak ureueng malém le ho kieh, Orang yg berilmu mempunyai banyak jalan utk mengkiaskan sesuatu,
     yi selalu mempunyai dasar berfikir pd salah satu kitab, kendati pun pikiran pikiran itu keliru: teung

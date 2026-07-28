@@ -4,15 +4,31 @@ alt_spelling: []
 ipa: ''
 part_of_speech: ''
 definitions:
-- meaning_id: selalu
-  meaning_en: always
+- meaning_id: sabila 1 n jalan
+  meaning_en: ''
+- meaning_id: jalan Tuhan
+  meaning_en: walk God
+- meaning_id: perang suci
+  meaning_en: pure war
+- meaning_id: prang —
+  meaning_en: ''
+- meaning_id: perang suci
+  meaning_en: pure war
+- meaning_id: peperangan di jalan Allah
+  meaning_en: war at walk God
+- meaning_id: ebeunu —
+  meaning_en: ''
+- meaning_id: musafir yang berhak memperoleh bagian zakat jika ia sedang menuntut ilmu 2 (Ar cabi) n anak
+  meaning_en: ''
+- meaning_id: seseorang yang belum dewasa
+  meaning_en: ''
 examples: []
 etymology: ''
 related_words: []
 dialect_notes: ''
-source: 'Daud, Bukhari & Mark Durie. Kamus Basa Acèh = Kamus Bahasa Aceh: Acehnese–Indonesian–English Thesaurus.
-  Pacific Linguistics C-151, 1999, p. 111.'
-date_added: '2026-07-20'
+source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
+  Pendidikan dan Kebudayaan, 1985, hlm. 830'
+date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: PDF text-layer mismatch in the Acehnese form; copied from the searchable PDF text layer and needs
-  visual verification against printed p. 111.
+extraction_notes: 'Jawi left blank: the source is Latin-script only and no Jawi form is printed for this
+  entry. Part of speech not stated in the source; left blank.'

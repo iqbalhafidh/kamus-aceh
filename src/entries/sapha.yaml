@@ -1,19 +1,35 @@
----
-headword: "sapha"
-jawi: ""
+headword: sapha
+jawi: ''
 alt_spelling: []
-ipa: "/sa.pha/"
-part_of_speech: "n"
-language_uncertain: false
+ipa: ''
+part_of_speech: a
 definitions:
-  - meaning_id: "februari"
-    meaning_en: ""
-examples:
-  []
-etymology: ""
+- meaning_id: n Safar
+  meaning_en: ''
+- meaning_id: bulan kedua tahun Arab
+  meaning_en: month two year Arab
+- meaning_id: nama wanita
+  meaning_en: name women
+- meaning_id: sapa murni
+  meaning_en: ''
+- meaning_id: bersih
+  meaning_en: clean
+- meaning_id: jernih
+  meaning_en: clear
+- meaning_id: terang
+  meaning_en: bright
+- meaning_id: berkilat
+  meaning_en: gleaming
+examples: []
+etymology: ''
 related_words: []
-dialect_notes: ""
-source: "Kamus Bahasa Aceh Daring (Balai Bahasa Provinsi Aceh), 'Entri huruf — sapha', URL: https://kamusbbpa.kemendikdasmen.go.id/kamus/Aceh/S (diakses 20 Juli 2026)"
-date_added: "2026-07-20"
-contributor: "AI-extracted — needs human review"
-extraction_notes: "Diekstrak dari 1 halaman sumber (https://kamusbbpa.kemendikdasmen.go.id/kamus/Aceh/S). Tidak ada bentuk Jawi dalam sumber — dibiarkan kosong sesuai aturan."
+dialect_notes: ''
+source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
+  Pendidikan dan Kebudayaan, 1985, hlm. 846'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+extraction_notes: 'Homonym 1 in the source (printed as a superscript numeral before the headword). Jawi
+  left blank: the source is Latin-script only and no Jawi form is printed for this entry. Part of speech
+  not stated in the source; left blank. | Homonym 2 in the source (printed as a superscript numeral before
+  the headword). Jawi left blank: the source is Latin-script only and no Jawi form is printed for this
+  entry.'

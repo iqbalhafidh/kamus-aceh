@@ -5,26 +5,20 @@ alt_spelling:
 ipa: ''
 part_of_speech: a
 definitions:
-- meaning_id: berkait
-  meaning_en: hooked
-- meaning_id: (hanya dalam arti kata kiasan) dikaitkan
-  meaning_en: ''
-- meaning_id: dilibatkan
-  meaning_en: ''
-- meaning_id: dihubungkan
-  meaning_en: ''
+- meaning_id: berkait, (hanya dalam arti kata kiasan) dikaitkan, dilibatkan, dihubungkan
+  meaning_en: hooked, only figuratively, hooked, involved, connected
 - meaning_id: mengandung sindiran
-  meaning_en: ''
+  meaning_en: to contain innuendo
 examples:
 - aceh: narit gata meukayét ujòng
   jawi: ''
   id: hrf perkataan Anda berkait ujungnya. Perkataan Anda mengandung sindiran. Peukayét, mengaitkan, menghubungkan
-  en: ''
+  en: '(literally) your words are hooked at the end: your words carry an insinuation'
 - aceh: lam buet nyoe bèk tapeukayét lòn
   jawi: ''
   id: h'an èk lòn jak u kantò, Anda jangan melibatkan saya dl perkara ini (ump sbg saksi). Saya tidak
     suka pergi ke kantor atau berurusan dng kantor
-  en: ''
+  en: Do not involve me in this case as a witness; I do not care to go to the office
 etymology: ''
 related_words:
 - kawét

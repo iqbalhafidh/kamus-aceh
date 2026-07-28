@@ -2,16 +2,88 @@ headword: tunong
 jawi: ''
 alt_spelling: []
 ipa: ''
-part_of_speech: ''
+part_of_speech: v
 definitions:
-- meaning_id: sebelah gunung
-  meaning_en: toward the hills, south
-examples: []
+- meaning_id: bertunang
+  meaning_en: to be betrothed
+- meaning_id: perjanjian untuk mengadu hewan setelah berlalu suatu jangka waktu dan taruhan tertentu
+  meaning_en: ''
+- meaning_id: udik
+  meaning_en: upriver
+- meaning_id: daerah pedalaman
+  meaning_en: district in
+- meaning_id: pedalaman
+  meaning_en: in
+- meaning_id: di hulu (sungai)
+  meaning_en: at upper reaches (river)
+- meaning_id: selatan
+  meaning_en: south
+- meaning_id: —
+  meaning_en: ''
+examples:
+- aceh: aneuk dara nyan ka lam tunong
+  jawi: ''
+  id: 'Dara itu sudah bertunang, sudah disepakati oleh orang tua kedua belah pihak utk dikawinkan kelak.
+    (jika utk hewan): sudah disepakati utk diadu kelak'
+  en: ''
+- aceh: nikah tunong
+  jawi: ''
+  id: perjanjian utk dikawinkan
+  en: ''
+- aceh: meu tunong
+  jawi: ''
+  id: bertunang (utk dara), bertanding, (utk hewan)
+  en: ''
+- aceh: meu tunong
+  jawi: ''
+  id: bertanding tandingan
+  en: ''
+- aceh: jak tajak kalon bubiri meu tunong
+  jawi: ''
+  id: Mari kita pergi melihat pertandingan biri-biri
+  en: ''
+- aceh: meu glya-yang
+  jawi: ''
+  id: bertanding menaikkan layangan, mengadu layangan (yg paling tinggi naiknya)
+  en: ''
+- aceh: peu tunong, menyuruh meu tunong
+  jawi: ''
+  id: mempertunangkan, menentukan utk diadu
+  en: ''
+- aceh: ka jipeu-bubiri nyoe ngon bubiri jeh
+  jawi: ''
+  id: Biri-biri ini sudah ditentukan akan diadu dng biri-biri itu
+  en: ''
+- aceh: tunangan, te-unangan, seunangan
+  jawi: ''
+  id: tunangan, seseorang yg sudah dipertunangkan
+  en: ''
+- aceh: meutunangan
+  jawi: ''
+  id: bertunangan, mempunyai tunangan
+  en: ''
+- aceh: putroe nyan ka na tunangan atau ka meutunangan
+  jawi: ''
+  id: Puteri itu sudah ada tunangannya, atau sudah bertunangan
+  en: ''
+- aceh: peu-tunangan
+  jawi: ''
+  id: mempunyai pertunangan
+  en: ''
+- aceh: Aceh, Pidie, Meulabôh
+  jawi: ''
+  id: sebelah selatan Aceh Besar, Pidie, Meulaboh
+  en: ''
+- aceh: ureueng tunong
+  jawi: ''
+  id: orang udik
+  en: person upriver
 etymology: ''
 related_words: []
-dialect_notes: ''
-source: 'Daud, Bukhari & Mark Durie. Kamus Basa Acèh = Kamus Bahasa Aceh: Acehnese–Indonesian–English Thesaurus.
-  Pacific Linguistics C-151, 1999, p. 87.'
-date_added: '2026-07-20'
+dialect_notes: Source mentions Pidie. Source mentions Aceh Besar.
+source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
+  Pendidikan dan Kebudayaan, 1985, hlm. 1013, 1017'
+date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: ''
+extraction_notes: 'Jawi left blank: the source is Latin-script only and no Jawi form is printed for this
+  entry.'

@@ -2,16 +2,34 @@ headword: ujoe
 jawi: ''
 alt_spelling: []
 ipa: ''
-part_of_speech: ''
+part_of_speech: v
 definitions:
-- meaning_id: menguji, mencoba
-  meaning_en: test, try
-examples: []
+- meaning_id: menguji keb3narannya, men-coba
+  meaning_en: to test its truth, to try
+examples:
+- aceh: meuih
+  jawi: ''
+  id: menguji emas
+  en: ''
+- aceh: ba-tee ujoe, batèe meu ujoe, batèe neu ujoe
+  jawi: ''
+  id: batu ujian
+  en: ''
+- aceh: bèk tapujoe, ta ujoe di-lèe!
+  jawi: ''
+  id: jangan Anda memuji, ujilah dahulu (pb)
+  en: ''
+- aceh: badan inong nyan ban geu ujoe
+  jawi: ''
+  id: Badan wanita itu canti k sekali seolah-olah telah diuji dng batu tujuan (spt orang menguji emas
+    utk mengetahui keaslianya). meu ujoe, melakukan ujoe, diuji, dicoba
+  en: ''
 etymology: ''
 related_words: []
 dialect_notes: ''
-source: 'Daud, Bukhari & Mark Durie. Kamus Basa Acèh = Kamus Bahasa Aceh: Acehnese–Indonesian–English Thesaurus.
-  Pacific Linguistics C-151, 1999, p. 47.'
-date_added: '2026-07-20'
+source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
+  Pendidikan dan Kebudayaan, 1985, hlm. 1030'
+date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: ''
+extraction_notes: 'Jawi left blank: the source is Latin-script only and no Jawi form is printed for this
+  entry.'

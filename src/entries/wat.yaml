@@ -2,16 +2,23 @@ headword: wat
 jawi: ''
 alt_spelling: []
 ipa: ''
-part_of_speech: ''
+part_of_speech: n
 definitions:
-- meaning_id: tenaga, kekuatan
-  meaning_en: power, strength
-examples: []
+- meaning_id: kekuatan, daya, tenaga, kuat
+  meaning_en: strong, southwest, strength
+examples:
+- aceh: 'ureueng ta tuha hana wat bak jak, Orang yg sudah tua tidak kuat lagi berjalan: inong nyan ka
+    habeh wat, mum ho jitupat ret'
+  jawi: ''
+  id: Perempuan itu sudah berpengalaman dan mengenal semua liku-liku jalan. (dikatakan thd seorang perempuan
+    yg tidak baik kelakuannya)
+  en: ''
 etymology: ''
 related_words: []
 dialect_notes: ''
-source: 'Daud, Bukhari & Mark Durie. Kamus Basa Acèh = Kamus Bahasa Aceh: Acehnese–Indonesian–English Thesaurus.
-  Pacific Linguistics C-151, 1999, p. 30.'
-date_added: '2026-07-20'
+source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
+  Pendidikan dan Kebudayaan, 1985, hlm. 1064'
+date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: ''
+extraction_notes: 'Jawi left blank: the source is Latin-script only and no Jawi form is printed for this
+  entry.'

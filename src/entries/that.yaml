@@ -1,19 +1,85 @@
 headword: that
 jawi: ''
-alt_spelling: []
+alt_spelling:
+- bunyi
 ipa: ''
-part_of_speech: ''
+part_of_speech: a
 definitions:
 - meaning_id: sangat
   meaning_en: very
-examples: []
+- meaning_id: amat
+  meaning_en: very
+- meaning_id: keras sekali (umpamanya pukulan
+  meaning_en: hard very for example blow
+- meaning_id: bunyi)
+  meaning_en: sound
+- meaning_id: luar biasa (kata tambahan untuk tingkatan)
+  meaning_en: outside usual (word addition for level)
+- meaning_id: selanjutnya dipergunakan untuk memberi tekanannya dalam kalimat memanggil
+  meaning_en: ''
+- meaning_id: lebih kurang seperti
+  meaning_en: more less like
+- meaning_id: senapan keras sekali
+  meaning_en: rifle hard very
+examples:
+- aceh: sungguh! le that
+  jawi: ''
+  id: banyak sekali
+  en: many very
+- aceh: jroh that
+  jawi: ''
+  id: bagus sekali, sungguh, bagus, sekali
+  en: fine very, truly, fine, very
+- aceh: tamarit malam bek that that, jileungo le gob
+  jawi: ''
+  id: malam hari jangan keras-keras-keras jika Anda berkata-kata, (pembicaraan kita) akan didengar orang
+  en: ''
+- aceh: bak that, beu that
+  jawi: ''
+  id: (jika diberi tekanan pd that berarti perintah atau permintaan yg harus dilakukan dng sungguh-sungguh)
+    lakukan dng sungguh-sungguh, agar ..., (atau, jika tidak diberi tekanan pd that berarti) kendatipun,
+    meskipun, sungguhpun (dl arti memperkenankan), marilah, biarlah
+  en: ''
+- aceh: tajak bak that
+  jawi: ''
+  id: berjalanlah cepat-cepat
+  en: ''
+- aceh: bak that tajak!
+  jawi: ''
+  id: kendatipun Anda berjalan atau pergi
+  en: ''
+- aceh: kameng teungoh jirot naleueng, bak that ji le
+  jawi: ''
+  id: Kambing sedang makan rumput, biarla h dia (merumput)
+  en: ''
+- aceh: peu that
+  jawi: ''
+  id: membuat keras sesuatu
+  en: to make hard something
+- aceh: tapeu that tamarit ngon lôn, meung h'an, hana lôn leungo
+  jawi: ''
+  id: Keraslah berkata-kata dng saya jika tidak saya tidak (dapat) mendengarnya
+  en: ''
+- aceh: tapeu that bacut tatarek taloe
+  jawi: ''
+  id: Tariklah tali lebih keras sedikit
+  en: ''
+- aceh: ujeuen jupeuthat laju, ka padum uroe that sabe
+  jawi: ''
+  id: Hujan lebat turun terus-menerus, sudah beberapa hari terus-menerus amat lebat
+  en: ''
+- aceh: teununjai
+  jawi: ''
+  id: kelebatan, alat utk memukul yg lebih kuat, ump sepotong besi
+  en: ''
 etymology: ''
 related_words:
-- lagoina
-- leupah
+- jai
 dialect_notes: ''
-source: 'Daud, Bukhari & Mark Durie. Kamus Basa Acèh = Kamus Bahasa Aceh: Acehnese–Indonesian–English Thesaurus.
-  Pacific Linguistics C-151, 1999, p. 6; p. 111.'
-date_added: '2026-07-20'
+source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
+  Pendidikan dan Kebudayaan, 1985, hlm. 975, 1016'
+date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: ''
+extraction_notes: 'Jawi left blank: the source is Latin-script only and no Jawi form is printed for this
+  entry. | Jawi left blank: the source is Latin-script only and no Jawi form is printed for this entry.
+  Part of speech not stated in the source; left blank.'

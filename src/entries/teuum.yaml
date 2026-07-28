@@ -2,16 +2,29 @@ headword: teuum
 jawi: ''
 alt_spelling: []
 ipa: ''
-part_of_speech: ''
+part_of_speech: v
 definitions:
 - meaning_id: menuam
-  meaning_en: treat with a hot compress
-examples: []
+  meaning_en: to foment
+- meaning_id: menghangatkan bagian tubuh yang nyeri akibat kejatuhan sehingga membengkak dan sebagainya
+    dengan mempergunakan sesuatu (umpamanya abu dapur yang dibalut ke dalam kain dan sebagainya atau hanya
+    dengan tangan yang digosok-gosokkan)
+  meaning_en: ''
+examples:
+- aceh: pat nyang keumong ka geu teuum
+  jawi: ''
+  id: pd tempat-tempat yg membengkak sudah di tuam
+  en: ''
+- aceh: meu teuum
+  jawi: ''
+  id: bertuam, menekankan sesuatu yg panas pd bahagian tubuh yg sakit
+  en: ''
 etymology: ''
 related_words: []
 dialect_notes: ''
-source: 'Daud, Bukhari & Mark Durie. Kamus Basa Acèh = Kamus Bahasa Aceh: Acehnese–Indonesian–English Thesaurus.
-  Pacific Linguistics C-151, 1999, p. 33.'
-date_added: '2026-07-20'
+source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
+  Pendidikan dan Kebudayaan, 1985, hlm. 974'
+date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: ''
+extraction_notes: 'Jawi left blank: the source is Latin-script only and no Jawi form is printed for this
+  entry.'

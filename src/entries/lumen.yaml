@@ -5,12 +5,10 @@ alt_spelling:
 ipa: ''
 part_of_speech: v
 definitions:
-- meaning_id: memegang-megang
-  meaning_en: to keep touching
-- meaning_id: mempermain-mainkan sesuatu dengan jari-jari seraya mengotorinya
-  meaning_en: to fiddle with something with the fingers and soil it
-- meaning_id: mengumalkannya (umpamanya oleh anak-anak)
-  meaning_en: ''
+- meaning_id: memegang-megang, mempermain-mainkan sesuatu dengan jari-jari seraya mengotorinya, mengumalkannya
+    (umpamanya oleh anak-anak)
+  meaning_en: to keep touching, to fiddle with something with the fingers and soil it, to crumple (for
+    example by childs)
 examples:
 - aceh: ka ji lumèn lumèn lé aneuk miet
   jawi: ''

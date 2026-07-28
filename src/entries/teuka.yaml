@@ -2,19 +2,47 @@ headword: teuka
 jawi: ''
 alt_spelling: []
 ipa: ''
-part_of_speech: ''
+part_of_speech: v
 definitions:
-- meaning_id: datang
-  meaning_en: arrive
-examples: []
+- meaning_id: datang, tiba, muncul, timbul
+  meaning_en: come, arrive, to appear, to arise
+- meaning_id: selanjutnya untuk menyatakan keheranan
+  meaning_en: ''
+examples:
+- aceh: kheun droeneu bunoe h'an jeuet neujak, teuma neujak cit!
+  jawi: ''
+  id: Nah, Anda katakan tadi tidak dapat datang, tetapi Anda datang juta
+  en: ''
+- aceh: pajan ta teuka
+  jawi: ''
+  id: '? Kapan Anda tiba?'
+  en: ''
+- aceh: peu teuka
+  jawi: ''
+  id: menyuruh datang, mendatangkan
+  en: ''
+- aceh: teuneuka, seuneuka
+  jawi: ''
+  id: kedatangan
+  en: come
+- aceh: pane teuneuka gata?
+  jawi: ''
+  id: Dr mana Anda datang?
+  en: ''
+- aceh: ulee teuneuka
+  jawi: ''
+  id: orang yg mula-mula datang, kepala rombong an
+  en: ''
+- aceh: hana lôn thêe meunoe teu-neuka
+  jawi: ''
+  id: Saya tidan menduga akan terjadi begini
+  en: ''
 etymology: ''
-related_words:
-- trôh
-- tåk
+related_words: []
 dialect_notes: ''
-source: 'Daud, Bukhari & Mark Durie. Kamus Basa Acèh = Kamus Bahasa Aceh: Acehnese–Indonesian–English Thesaurus.
-  Pacific Linguistics C-151, 1999, p. 35.'
-date_added: '2026-07-20'
+source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
+  Pendidikan dan Kebudayaan, 1985, hlm. 958'
+date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: Headword spelling was aligned to the supplied OCR by conservative fuzzy matching (fuzzy:0.94);
-  verify against printed p. 35.
+extraction_notes: 'Jawi left blank: the source is Latin-script only and no Jawi form is printed for this
+  entry.'

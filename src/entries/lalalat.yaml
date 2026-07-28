@@ -4,15 +4,13 @@ alt_spelling: []
 ipa: ''
 part_of_speech: a
 definitions:
-- meaning_id: dalalat
-  meaning_en: signification
-- meaning_id: sesat (hikayat)
-  meaning_en: ''
+- meaning_id: dalalat, sesat (hikayat)
+  meaning_en: signification, astray (hikayat)
 examples:
 - aceh: kaphé lalalat
   jawi: ''
   id: kafir sesat
-  en: ''
+  en: infidel astray
 etymology: ''
 related_words: []
 dialect_notes: ''

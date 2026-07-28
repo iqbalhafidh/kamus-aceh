@@ -1,22 +1,32 @@
----
-headword: "sukat"
-jawi: ""
+headword: sukat
+jawi: ''
 alt_spelling: []
-ipa: "/su.kat/"
-part_of_speech: "v"
-language_uncertain: false
+ipa: ''
+part_of_speech: v
 definitions:
-  - meaning_id: "melakukan sukat; mengukur; menimbang; menyukat, menakar (dng ukuran isi):"
-    meaning_en: ""
+- meaning_id: menyukat
+  meaning_en: to measure out
+- meaning_id: menakar (dengan ukuran isi)
+  meaning_en: ''
 examples:
-  - aceh: "ta– breuh keu gopnyan limöng arè"
-    jawi: ""
-    id: "‘takarlah beras untuknya lima bambu beras’"
-    en: ""
-etymology: ""
+- aceh: ta sukat breueh keu gobnyan limong arè
+  jawi: ''
+  id: takarlah lima bambu beras untuknya
+  en: ''
+- aceh: meu sukat, teu sukat
+  jawi: ''
+  id: ditakar
+  en: ''
+- aceh: lada nyan ka meu sukat
+  jawi: ''
+  id: Lada itu sudah ditakari
+  en: ''
+etymology: ''
 related_words: []
-dialect_notes: ""
-source: "Kamus Bahasa Aceh Daring (Balai Bahasa Provinsi Aceh), 'Entri huruf — sukat', URL: https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/S?page=5 (diakses 20 Juli 2026)"
-date_added: "2026-07-20"
-contributor: "AI-extracted — needs human review"
-extraction_notes: "Diekstrak dari 1 halaman sumber (https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/S?page=5). Tidak ada bentuk Jawi dalam sumber — dibiarkan kosong sesuai aturan."
+dialect_notes: ''
+source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
+  Pendidikan dan Kebudayaan, 1985, hlm. 904'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+extraction_notes: 'Jawi left blank: the source is Latin-script only and no Jawi form is printed for this
+  entry.'

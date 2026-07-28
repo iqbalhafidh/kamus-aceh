@@ -1,19 +1,39 @@
----
-headword: "wasiet"
-jawi: ""
-alt_spelling: []
-ipa: "/wa.si.әt/"
-part_of_speech: "n"
-language_uncertain: false
+headword: wasiet
+jawi: ''
+alt_spelling:
+- waksiet
+ipa: ''
+part_of_speech: n
 definitions:
-  - meaning_id: "pesan terakhir yg disampaikan oleh orang yg akan meninggal (biasanya berkenaan dng harta kekayaan, dsb); wasiat"
-    meaning_en: ""
+- meaning_id: wasiat
+  meaning_en: bequest
+- meaning_id: testamen
+  meaning_en: ''
+- meaning_id: permohonan yang sungguh-sungguh kepada seseorang
+  meaning_en: ''
+- meaning_id: nasihat
+  meaning_en: advice
 examples:
-  []
-etymology: ""
-related_words: []
-dialect_notes: ""
-source: "Kamus Bahasa Aceh Daring (Balai Bahasa Provinsi Aceh), 'Entri huruf — wasiet', URL: https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/W?page=3 (diakses 20 Juli 2026); halaman tambahan: W?page=11, W?page=12, W?page=13, W?page=14, W?page=15, W?page=16, W?page=17, W?page=18, W?page=19, W?page=2, W?page=3, W?page=4, W?page=5, W?page=6, W?page=7, W?page=8, W?page=9, W"
-date_added: "2026-07-20"
-contributor: "AI-extracted — needs human review"
-extraction_notes: "Diekstrak dari 19 halaman sumber (https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/W?page=10, https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/W?page=11, https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/W?page=12, https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/W?page=13, https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/W?page=14, https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/W?page=15, https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/W?page=16, https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/W?page=17, https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/W?page=18, https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/W?page=19, https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/W?page=2, https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/W?page=3, https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/W?page=4, https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/W?page=5, https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/W?page=6, https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/W?page=7, https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/W?page=8, https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/W?page=9, https://kamusbbpa.kemendikdasmen.go.id/kamus/Aceh/W). Ditemukan pada beberapa halaman; definisi dan contoh digabungkan. Tidak ada bentuk Jawi dalam sumber — dibiarkan kosong sesuai aturan."
+- aceh: teungku ka geu wasiet bak kamoe bandum geuyue meurunoe bak sunggoh-sungguh, teungku
+  jawi: ''
+  id: sudah mewasiatkan kpd kami semua supaya sungguh-sungguh belajar
+  en: ''
+- aceh: nabi
+  jawi: ''
+  id: wasiat nabi
+  en: bequest prophet
+- aceh: guree
+  jawi: ''
+  id: nasihat atau pelajaran guru
+  en: ''
+etymology: ''
+related_words:
+- amanat
+- peusan
+dialect_notes: ''
+source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
+  Pendidikan dan Kebudayaan, 1985, hlm. 1064'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+extraction_notes: 'Jawi left blank: the source is Latin-script only and no Jawi form is printed for this
+  entry.'

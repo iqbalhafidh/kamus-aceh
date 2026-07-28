@@ -2,16 +2,29 @@ headword: seudeukah
 jawi: ''
 alt_spelling: []
 ipa: ''
-part_of_speech: ''
+part_of_speech: n
 definitions:
-- meaning_id: sedekah, derma
-  meaning_en: charity
-examples: []
+- meaning_id: sideukah
+  meaning_en: alms
+- meaning_id: pemberian yang didasarkan pada agama
+  meaning_en: ''
+- meaning_id: pemberian sukarela
+  meaning_en: gift voluntary
+examples:
+- aceh: geubri seudeukah keu ureueng gasien meuseukin
+  jawi: ''
+  id: Ia memberi sedekah kpd fakir miskin
+  en: ''
+- aceh: meu seudeukah
+  jawi: ''
+  id: bersedekah
+  en: alms
 etymology: ''
 related_words: []
 dialect_notes: ''
-source: 'Daud, Bukhari & Mark Durie. Kamus Basa Acèh = Kamus Bahasa Aceh: Acehnese–Indonesian–English Thesaurus.
-  Pacific Linguistics C-151, 1999, p. 24.'
-date_added: '2026-07-20'
+source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
+  Pendidikan dan Kebudayaan, 1985, hlm. 854'
+date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: ''
+extraction_notes: 'Jawi left blank: the source is Latin-script only and no Jawi form is printed for this
+  entry.'

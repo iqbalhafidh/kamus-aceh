@@ -1,0 +1,35 @@
+headword: t'ieng
+jawi: ''
+alt_spelling: []
+ipa: ''
+part_of_speech: a
+definitions:
+- meaning_id: sedikit sekali
+  meaning_en: few very
+- meaning_id: agak
+  meaning_en: somewhat
+- meaning_id: sangat
+  meaning_en: very
+- meaning_id: (sebagai penguat untuk sesuatu yang dianggap kecil
+  meaning_en: ''
+- meaning_id: sedikit atau tidak berarti)
+  meaning_en: ''
+examples:
+- aceh: tajok keu lôn ube t'ieng
+  jawi: ''
+  id: berikanlah kpd saya barang sedikit
+  en: ''
+- aceh: bacut t'ieng
+  jawi: ''
+  id: sedikit sekali
+  en: few very
+etymology: ''
+related_words:
+- tek
+dialect_notes: ''
+source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
+  Pendidikan dan Kebudayaan, 1985, hlm. 980'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+extraction_notes: 'Jawi left blank: the source is Latin-script only and no Jawi form is printed for this
+  entry.'

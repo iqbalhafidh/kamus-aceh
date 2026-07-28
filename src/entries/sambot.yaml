@@ -1,0 +1,56 @@
+headword: sambot
+jawi: ''
+alt_spelling: []
+ipa: ''
+part_of_speech: v
+definitions:
+- meaning_id: menyambut
+  meaning_en: to welcome
+- meaning_id: mengadakan penerimaan
+  meaning_en: ''
+- meaning_id: (tentang tamu)
+  meaning_en: ''
+- meaning_id: menyongso ng seseorang secara hormat
+  meaning_en: ''
+- meaning_id: menjawab
+  meaning_en: to answer
+- meaning_id: membalas
+  meaning_en: to requite
+examples:
+- aceh: seumah
+  jawi: ''
+  id: menyambut sembah
+  en: to welcome homage
+- aceh: jamée
+  jawi: ''
+  id: menyambut tamu
+  en: to welcome guest
+- aceh: tiek, lôn sambot
+  jawi: ''
+  id: lemparlah, saya menyambutnya
+  en: ''
+- aceh: keubeue nyan goh lom geu sambot
+  jawi: ''
+  id: Kerbau itu belum diserahkan secara resmi
+  en: ''
+- aceh: meu sambot
+  jawi: ''
+  id: bersambut
+  en: ''
+- aceh: peu sambot
+  jawi: ''
+  id: bersambut
+  en: ''
+- aceh: seunambot
+  jawi: ''
+  id: yg disambut
+  en: ''
+etymology: ''
+related_words: []
+dialect_notes: ''
+source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
+  Pendidikan dan Kebudayaan, 1985, hlm. 839'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+extraction_notes: 'Jawi left blank: the source is Latin-script only and no Jawi form is printed for this
+  entry.'

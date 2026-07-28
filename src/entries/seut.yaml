@@ -1,26 +1,25 @@
----
-headword: "seut"
-jawi: ""
-alt_spelling: []
-ipa: "/sɯt/"
-part_of_speech: "v"
-language_uncertain: false
+headword: seut
+jawi: ''
+alt_spelling:
+- v
+- s'eut
+ipa: ''
+part_of_speech: ''
 definitions:
-  - meaning_id: "membuang air dari tambak untuk mengambil ikan saat panen atau membuang air dari perahu:"
-    meaning_en: ""
-  - meaning_id: "1 menyipratkan air"
-    meaning_en: ""
-  - meaning_id: "2 menguras kubangan untuk menangkap ikan air tawar"
-    meaning_en: ""
-examples:
-  - aceh: "Apa Leman geu—i neuheun seugolom geucok eungkôt ‘"
-    jawi: ""
-    id: "Paman Leman membuang air tambak sebelum mengambil ikan’"
-    en: ""
-etymology: ""
-related_words: []
-dialect_notes: ""
-source: "Kamus Bahasa Aceh Daring (Balai Bahasa Provinsi Aceh), 'Entri huruf — seut', URL: https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/S?page=3 (diakses 20 Juli 2026)"
-date_added: "2026-07-20"
-contributor: "AI-extracted — needs human review"
-extraction_notes: "Diekstrak dari 1 halaman sumber (https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/S?page=3). Tidak ada bentuk Jawi dalam sumber — dibiarkan kosong sesuai aturan."
+- meaning_id: s'eut (lebih lazim) menampi
+  meaning_en: ''
+examples: []
+etymology: ''
+related_words:
+- seut
+dialect_notes: ''
+source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
+  Pendidikan dan Kebudayaan, 1985, hlm. 873, 874'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+extraction_notes: 'English gloss left blank: no confident translation of the Indonesian definition was
+  available. Jawi left blank: the source is Latin-script only and no Jawi form is printed for this entry.
+  Part of speech not stated in the source; left blank. | Source gives this only as a cross-reference (→
+  seut); no independent definition is printed, so meaning fields are left blank rather than guessed. Jawi
+  left blank: the source is Latin-script only and no Jawi form is printed for this entry. Part of speech
+  not stated in the source; left blank.'

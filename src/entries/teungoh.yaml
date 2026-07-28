@@ -1,19 +1,99 @@
----
-headword: "teungoh"
-jawi: ""
-alt_spelling: []
-ipa: "/tɯ.ŋõh/"
-part_of_speech: "n"
-language_uncertain: false
+headword: teungoh
+jawi: ''
+alt_spelling:
+- teungôh
+ipa: ''
+part_of_speech: v
 definitions:
-  - meaning_id: "keluar dari air atau berlabuh"
-    meaning_en: ""
+- meaning_id: naik ke tempat yang lebih tinggi
+  meaning_en: ''
+- meaning_id: mendarat
+  meaning_en: to land
+- meaning_id: mendaki
+  meaning_en: to climb
+- meaning_id: memasuki
+  meaning_en: enter
+- meaning_id: glayang nyan get that ji -
+  meaning_en: ''
+- meaning_id: layangan itu bagus sekali naiknya
+  meaning_en: ''
+- meaning_id: '- udarat'
+  meaning_en: ''
+- meaning_id: naik kedarat
+  meaning_en: ''
+- meaning_id: '- glé'
+  meaning_en: ''
+- meaning_id: mendaki gunung
+  meaning_en: ''
+- meaning_id: '- rimba, memasuki rimba'
+  meaning_en: jungle, enter jungle
+- meaning_id: peu -
+  meaning_en: ''
+- meaning_id: menyuruh teungoh
+  meaning_en: ''
+- meaning_id: membawa ke atas
+  meaning_en: to bring to upon
+- meaning_id: menaikkan ke darat
+  meaning_en: ''
+- meaning_id: memunggah
+  meaning_en: to unload
+- meaning_id: du'a peu - buya
+  meaning_en: ''
+- meaning_id: mantera untuk mendaratkan buaya
+  meaning_en: ''
+- meaning_id: teuneungôh
+  meaning_en: ''
+- meaning_id: melakukan teungôh
+  meaning_en: ''
+- meaning_id: seuneungôh
+  meaning_en: ''
+- meaning_id: melakukan teungoh
+  meaning_en: ''
+- meaning_id: penaikan
+  meaning_en: ascend
+- meaning_id: pendaratan
+  meaning_en: landing
+- meaning_id: daerah yang menuju keatas
+  meaning_en: ''
+- meaning_id: pertengahan, ditengah, setengah, bahagian, sebahagian, di dalam, ke
+  meaning_en: midst, half, portion, inside, to
+- meaning_id: sedang melakukan sesuatu, dalam keadaan, sementara
+  meaning_en: in the midst of to perform something, in the state of, meanwhile
 examples:
-  []
-etymology: ""
+- aceh: malam
+  jawi: ''
+  id: tengah malam
+  en: night midst
+- aceh: lhèe plôh
+  jawi: ''
+  id: (hrf) tengah tiga puluh = dua puluh lima
+  en: ''
+- aceh: dua reutoih
+  jawi: ''
+  id: (hrf) tengah dua ratus = seratus lima puluh
+  en: ''
+- aceh: si teungôh ureueng galak geupajôh peunajôh beungoh beungoh, si teungôh treuk geupajôh bu
+  jawi: ''
+  id: Sebagian orang ada yg suka sarapan pd pagi hari, yg lainnya lagi suka makan nasi
+  en: ''
+- aceh: umu
+  jawi: ''
+  id: setengah umur, tidak muda lagi, (juga dipergunakan dl hal) tidak baru lagi
+  en: ''
+- aceh: lagoe si teungôh umum ija nyoe
+  jawi: ''
+  id: Kain ini baru setengah umur atau belum tua sekali
+  en: ''
+- aceh: di teungôh
+  jawi: ''
+  id: di tengahteungôh(tengah), di atas, di dl (sesuatu ruang yg tertutup, ump pd sebuah
+  en: ''
+etymology: ''
 related_words: []
-dialect_notes: ""
-source: "Kamus Bahasa Aceh Daring (Balai Bahasa Provinsi Aceh), 'Entri huruf — teungoh', URL: https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/T?page=3 (diakses 20 Juli 2026)"
-date_added: "2026-07-20"
-contributor: "AI-extracted — needs human review"
-extraction_notes: "Diekstrak dari 1 halaman sumber (https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/T?page=3). Tidak ada bentuk Jawi dalam sumber — dibiarkan kosong sesuai aturan."
+dialect_notes: ''
+source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
+  Pendidikan dan Kebudayaan, 1985, hlm. 965, 966'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+extraction_notes: 'Jawi left blank: the source is Latin-script only and no Jawi form is printed for this
+  entry.'

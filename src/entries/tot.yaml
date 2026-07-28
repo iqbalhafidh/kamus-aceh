@@ -1,0 +1,63 @@
+headword: tot
+jawi: ''
+alt_spelling:
+- tet
+- teut
+- tut
+ipa: ''
+part_of_speech: v
+definitions:
+- meaning_id: membakar
+  meaning_en: to burn
+- meaning_id: memasukkan ke dalam api
+  meaning_en: ''
+- meaning_id: menyalakan (umpamanya lampu)
+  meaning_en: flame (for example lamp)
+- meaning_id: memasang atau menembakkan (umpamanya meriam)
+  meaning_en: ''
+- meaning_id: meletakkan di atas api
+  meaning_en: put at upon fire
+- meaning_id: memanggang (umpamanya barang-barang pecah belah)
+  meaning_en: to roast (for example goods broken to split)
+examples:
+- aceh: apui
+  jawi: ''
+  id: menyalakan api
+  en: fire flame
+- aceh: gapu
+  jawi: ''
+  id: membakar kapur
+  en: to burn lime
+- aceh: keumeunyan
+  jawi: ''
+  id: bakar kemenyan
+  en: ''
+- aceh: rumòh, gampong, membakar rumah, tot panyòt
+  jawi: ''
+  id: memasang lampu
+  en: to set up lamp
+- aceh: beudé, meureuyam
+  jawi: ''
+  id: menambakkan senapang, meriam
+  en: ''
+- aceh: bpude cina
+  jawi: ''
+  id: memasang atau membakar mercon
+  en: ''
+- aceh: sawak ranté
+  jawi: ''
+  id: membakar rantai utk keperluan permainan dabus
+  en: ''
+- aceh: teu tot
+  jawi: ''
+  id: terbakar
+  en: ''
+etymology: ''
+related_words: []
+dialect_notes: ''
+source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
+  Pendidikan dan Kebudayaan, 1985, hlm. 995'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+extraction_notes: 'Jawi left blank: the source is Latin-script only and no Jawi form is printed for this
+  entry.'

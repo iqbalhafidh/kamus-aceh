@@ -1,19 +1,18 @@
----
-headword: "lipah"
-jawi: ""
+headword: lipah
+jawi: ''
 alt_spelling: []
-ipa: "/li.pah/"
-part_of_speech: "n"
-language_uncertain: false
-definitions:
-  - meaning_id: "palem yg tumbuh merumpun di rawa-rawa daerah tropis, tinggi mencapai 8 m, daunnya digunakan untuk bahan atap, tikar, keranjang, topi, dan payung, nira dari sadapan perbungaannya digunakan untuk pembuatan gula dan alkohol (Nipa fruticans)"
-    meaning_en: ""
-examples:
-  []
-etymology: ""
-related_words: []
-dialect_notes: ""
-source: "Kamus Bahasa Aceh Daring (Balai Bahasa Provinsi Aceh), 'Entri huruf — lipah', URL: https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/L?page=4 (diakses 20 Juli 2026)"
-date_added: "2026-07-20"
-contributor: "AI-extracted — needs human review"
-extraction_notes: "Diekstrak dari 1 halaman sumber (https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/L?page=4). Tidak ada bentuk Jawi dalam sumber — dibiarkan kosong sesuai aturan."
+ipa: ''
+part_of_speech: ''
+definitions: []
+examples: []
+etymology: ''
+related_words:
+- nipah
+dialect_notes: ''
+source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
+  Pendidikan dan Kebudayaan, 1985, hlm. 549'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+extraction_notes: 'Source gives this only as a cross-reference (→ nipah); no independent definition is
+  printed, so meaning fields are left blank rather than guessed. Jawi left blank: the source is Latin-script
+  only and no Jawi form is printed for this entry. Part of speech not stated in the source; left blank.'

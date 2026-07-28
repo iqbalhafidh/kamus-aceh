@@ -1,19 +1,18 @@
----
-headword: "sipring"
-jawi: ""
+headword: sipring
+jawi: ''
 alt_spelling: []
-ipa: "/sip.riŋ/"
-part_of_speech: "n"
-language_uncertain: false
-definitions:
-  - meaning_id: "gergaji berukuran besar yg dipegang oleh dua orang di kedua belah sisinya, biasanya untuk memotong kayu besar; gergaji balik"
-    meaning_en: ""
-examples:
-  []
-etymology: ""
-related_words: []
-dialect_notes: ""
-source: "Kamus Bahasa Aceh Daring (Balai Bahasa Provinsi Aceh), 'Entri huruf — sipring', URL: https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/S?page=4 (diakses 20 Juli 2026)"
-date_added: "2026-07-20"
-contributor: "AI-extracted — needs human review"
-extraction_notes: "Diekstrak dari 1 halaman sumber (https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/S?page=4). Tidak ada bentuk Jawi dalam sumber — dibiarkan kosong sesuai aturan."
+ipa: ''
+part_of_speech: ''
+definitions: []
+examples: []
+etymology: ''
+related_words:
+- sipréng
+dialect_notes: ''
+source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
+  Pendidikan dan Kebudayaan, 1985, hlm. 888'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+extraction_notes: 'Source gives this only as a cross-reference (→ sipréng); no independent definition
+  is printed, so meaning fields are left blank rather than guessed. Jawi left blank: the source is Latin-script
+  only and no Jawi form is printed for this entry. Part of speech not stated in the source; left blank.'

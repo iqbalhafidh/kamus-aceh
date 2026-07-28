@@ -1,19 +1,49 @@
----
-headword: "uri"
-jawi: ""
+headword: uri
+jawi: ''
 alt_spelling: []
-ipa: "/u.ri/"
-part_of_speech: "n"
-language_uncertain: false
+ipa: ''
+part_of_speech: n
 definitions:
-  - meaning_id: "penyakit kulit menyerupai cacar;"
-    meaning_en: ""
+- meaning_id: sejenis ruam yang berwarna merah
+  meaning_en: ''
+- meaning_id: menyerupai gigitan nyamuk dan tumbuh di pipi
+  meaning_en: ''
+- meaning_id: punggung dan pa ha
+  meaning_en: ''
+- meaning_id: uri, tembuni
+  meaning_en: placenta
+- meaning_id: kadang-kadang dipergunakan
+  meaning_en: sometimes used
 examples:
-  []
-etymology: ""
+- aceh: si Pulan timoh uri, Si Polan tumbuh uri
+  jawi: ''
+  id: di tubuhnya, (menurut ke percayaan, ia akan gemuk)
+  en: at body, according to to believe, he will fat
+- aceh: meu uri, beruam, jih dawok meu uri sabe
+  jawi: ''
+  id: Badannya selalu di tumbuh beruam
+  en: ''
+- aceh: bari, keutuhan, darah
+  jawi: ''
+  id: empat hal yg timbul sesusendah seorang anak lahir
+  en: ''
+- aceh: uroe
+  jawi: ''
+  id: supaya bersajak
+  en: so as to rhyme
+etymology: ''
 related_words: []
-dialect_notes: ""
-source: "Kamus Bahasa Aceh Daring (Balai Bahasa Provinsi Aceh), 'Entri huruf — uri', URL: https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/U?page=10 (diakses 20 Juli 2026); halaman tambahan: U?page=11, U?page=12, U?page=13, U?page=14, U?page=15, U?page=16, U?page=17, U?page=18, U?page=19, U?page=3, U?page=4, U?page=5, U?page=6, U?page=7, U?page=8, U?page=9"
-date_added: "2026-07-20"
-contributor: "AI-extracted — needs human review"
-extraction_notes: "Diekstrak dari 17 halaman sumber (https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/U?page=10, https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/U?page=11, https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/U?page=12, https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/U?page=13, https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/U?page=14, https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/U?page=15, https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/U?page=16, https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/U?page=17, https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/U?page=18, https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/U?page=19, https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/U?page=3, https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/U?page=4, https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/U?page=5, https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/U?page=6, https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/U?page=7, https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/U?page=8, https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/U?page=9). Ditemukan pada beberapa halaman; definisi dan contoh digabungkan. Tidak ada bentuk Jawi dalam sumber — dibiarkan kosong sesuai aturan."
+dialect_notes: 'Marked (dl hik) in the source: attested in hikayat, the classical Acehnese narrative verse
+  register.'
+source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
+  Pendidikan dan Kebudayaan, 1985, hlm. 1050'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+extraction_notes: 'English gloss left blank: no confident translation of the Indonesian definition was
+  available. Homonym 1 in the source (printed as a superscript numeral before the headword). Jawi left
+  blank: the source is Latin-script only and no Jawi form is printed for this entry. | Homonym 2 in the
+  source (printed as a superscript numeral before the headword). Jawi left blank: the source is Latin-script
+  only and no Jawi form is printed for this entry. Part of speech not stated in the source; left blank.
+  | Homonym 3 in the source (printed as a superscript numeral before the headword). Jawi left blank: the
+  source is Latin-script only and no Jawi form is printed for this entry. Part of speech not stated in
+  the source; left blank.'

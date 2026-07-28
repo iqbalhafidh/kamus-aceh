@@ -4,18 +4,8 @@ alt_spelling: []
 ipa: ''
 part_of_speech: n
 definitions:
-- meaning_id: lapis
-  meaning_en: layer
-- meaning_id: salut
-  meaning_en: coating
-- meaning_id: lapisan
-  meaning_en: layer
-- meaning_id: lapik (untuk kain)
-  meaning_en: mat (for cloth)
-- meaning_id: tingkat (untuk kain)
-  meaning_en: ''
-- meaning_id: tingkat (untuk rumah)
-  meaning_en: ''
+- meaning_id: lapis, salut, lapisan, lapik (untuk kain), tingkat (untuk kain), tingkat (untuk rumah)
+  meaning_en: layer, coating, mat (for cloth), level (for cloth), level (for house)
 examples:
 - aceh: jingui bajèe dua lhee lapèh
   jawi: ''
@@ -28,7 +18,7 @@ examples:
 - aceh: rumoh lhèe
   jawi: ''
   id: rumah tingkat tiga
-  en: ''
+  en: house level three
 - aceh: meu lapèh, (dl hik meuleu lapèh)
   jawi: ''
   id: berlapislapèh(lapis)

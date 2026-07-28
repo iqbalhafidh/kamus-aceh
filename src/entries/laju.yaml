@@ -2,21 +2,22 @@ headword: laju
 jawi: ''
 alt_spelling: []
 ipa: ''
-part_of_speech: ''
+part_of_speech: a
 definitions:
-- meaning_id: segera
-  meaning_en: immediately
-- meaning_id: terns
-  meaning_en: continuing on
-examples: []
+- meaning_id: laju, terus, cepat, tangkas
+  meaning_en: swift, onward, fast, agile
+examples:
+- aceh: padum na neu laju jalò nyan
+  jawi: ''
+  id: èk tròih dua jeuem u Pulo Breueh? Berapa lajukah perahu itu? Sampaikah dua jam ke PB?
+  en: ''
 etymology: ''
 related_words:
 - lanja
-- lé
 dialect_notes: ''
-source: 'Daud, Bukhari & Mark Durie. Kamus Basa Acèh = Kamus Bahasa Aceh: Acehnese–Indonesian–English Thesaurus.
-  Pacific Linguistics C-151, 1999, p. 111; vii (PDF p. 5).'
-date_added: '2026-07-20'
+source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
+  Pendidikan dan Kebudayaan, 1985, hlm. 487'
+date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: Headword spelling was aligned to the supplied OCR by conservative fuzzy matching (fuzzy:0.93);
-  verify against printed p. 111.
+extraction_notes: 'Jawi left blank: the source is Latin-script only and no Jawi form is printed for this
+  entry.'

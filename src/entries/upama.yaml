@@ -1,0 +1,31 @@
+headword: upama
+jawi: ''
+alt_spelling:
+- umpama
+ipa: ''
+part_of_speech: n
+definitions:
+- meaning_id: umpama, perumpamaan
+  meaning_en: like, parable
+- meaning_id: seperti
+  meaning_en: like
+examples:
+- aceh: lôn nyoe jeuet ta upama glang lam uroe tarek
+  jawi: ''
+  id: Saya ini dapat diumpamakan sbg cacing di hari panas
+  en: ''
+- aceh: peu upama, = upama
+  jawi: ''
+  id: umong
+  en: ''
+etymology: ''
+related_words:
+- meukat
+- umong
+dialect_notes: ''
+source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
+  Pendidikan dan Kebudayaan, 1985, hlm. 1046'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+extraction_notes: 'Jawi left blank: the source is Latin-script only and no Jawi form is printed for this
+  entry.'

@@ -2,24 +2,19 @@ headword: pukoe
 jawi: ''
 alt_spelling: []
 ipa: ''
-part_of_speech: ''
+part_of_speech: n
 definitions:
-- meaning_id: faraj, puki, kemaluan wanita
-  meaning_en: vagina, vulva
-- meaning_id: peduli
-  meaning_en: pay attention
+- meaning_id: puki
+  meaning_en: ''
+- meaning_id: kemaluan wanita
+  meaning_en: ashamed women
 examples: []
 etymology: ''
-related_words:
-- brët
-- paröt
-- peuduli
-- pèk
+related_words: []
 dialect_notes: ''
-source: 'Daud, Bukhari & Mark Durie. Kamus Basa Acèh = Kamus Bahasa Aceh: Acehnese–Indonesian–English Thesaurus.
-  Pacific Linguistics C-151, 1999, p. 29; p. 53.'
-date_added: '2026-07-20'
+source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
+  Pendidikan dan Kebudayaan, 1985, hlm. 747'
+date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: Headword spelling was aligned to the supplied OCR by conservative fuzzy matching (fuzzy:0.96);
-  verify against printed p. 29. Headword spelling was aligned to the supplied OCR by conservative fuzzy matching
-  (fuzzy:0.93); verify against printed p. 53.
+extraction_notes: 'Jawi left blank: the source is Latin-script only and no Jawi form is printed for this
+  entry.'

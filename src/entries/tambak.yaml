@@ -1,19 +1,34 @@
----
-headword: "tambak"
-jawi: ""
+headword: tambak
+jawi: ''
 alt_spelling: []
-ipa: "/tam.ba?/"
-part_of_speech: "n"
-language_uncertain: false
+ipa: ''
+part_of_speech: v
 definitions:
-  - meaning_id: "menimbun-nimbun tanah supaya tinggi, membumbun tanah (pada tanaman dan sebagainya), menampali pematang atau tambak dng tanah (untuk memperbaiki pematang itu), dan membuat tambak, disebut juga teumambak; menambak"
-    meaning_en: ""
+- meaning_id: menambak
+  meaning_en: to bank up
+- meaning_id: meninggikan (umpamanya. tanah)
+  meaning_en: high (for example earth)
+- meaning_id: membuat tanggul atau bendungan
+  meaning_en: ''
 examples:
-  []
-etymology: ""
+- aceh: yub moh, ret, kuta
+  jawi: ''
+  id: meninggikan tanah di bawah rumah, meninggikan jalan, menambak kubu pertahanan
+  en: ''
+- aceh: 'meu tambak, ditambak: ret nyan hana meu tambak'
+  jawi: ''
+  id: Jalan itu tidak ditinggikan
+  en: ''
+- aceh: uroe nyoe hana teunambak
+  jawi: ''
+  id: Hari ini tidak ada giliran menambak (ump
+  en: ''
+etymology: ''
 related_words: []
-dialect_notes: ""
-source: "Kamus Bahasa Aceh Daring (Balai Bahasa Provinsi Aceh), 'Entri huruf — tambak', URL: https://kamusbbpa.kemendikdasmen.go.id/kamus/Aceh/T (diakses 20 Juli 2026)"
-date_added: "2026-07-20"
-contributor: "AI-extracted — needs human review"
-extraction_notes: "Diekstrak dari 1 halaman sumber (https://kamusbbpa.kemendikdasmen.go.id/kamus/Aceh/T). Tidak ada bentuk Jawi dalam sumber — dibiarkan kosong sesuai aturan."
+dialect_notes: ''
+source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
+  Pendidikan dan Kebudayaan, 1985, hlm. 927'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+extraction_notes: 'Jawi left blank: the source is Latin-script only and no Jawi form is printed for this
+  entry.'

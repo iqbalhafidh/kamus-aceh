@@ -1,17 +1,61 @@
 headword: uteuen
 jawi: ''
-alt_spelling: []
+alt_spelling:
+- huteuen
 ipa: ''
-part_of_speech: ''
+part_of_speech: n
 definitions:
-- meaning_id: hutan
-  meaning_en: forest, overgrown land
-examples: []
+- meaning_id: hutan, semak, rimba
+  meaning_en: forest, thicket, jungle
+- meaning_id: liar
+  meaning_en: wild
+- meaning_id: tidak beradab
+  meaning_en: ''
+examples:
+- aceh: sigeuduek, hutang yg didiami sigeuduek
+  jawi: ''
+  id: hutan belantara
+  en: ''
+- aceh: asée, bui, manok uteuen
+  jawi: ''
+  id: anjing, babi, ayam hutan
+  en: dog, chapter, forest fowl
+- aceh: ranub uteuen
+  jawi: ''
+  id: sirih hutan, sirih liar yg tumbuh dl hutan
+  en: ''
+- aceh: ureueng uteuen h'an jitupeue adat
+  jawi: ''
+  id: orang hutan tidak tahu adat
+  en: ''
+- aceh: tabeue masen bek peue neukheun, kamoe uteuen adat hana
+  jawi: ''
+  id: Jika terasa tawar dan asin, janganlah Anda mengatakan sesuatu, (maklumlah) kami orang di hutan yg
+    tidak mempunyai adat istiadat
+  en: ''
+- aceh: meu uteuen
+  jawi: ''
+  id: menjadi hutan
+  en: to become forest
+- aceh: lampoihji ka meu uteuen
+  jawi: ''
+  id: Kebunnya sudah menjadi hutan
+  en: ''
+- aceh: peu uteuen
+  jawi: ''
+  id: menghutankan, membiarkan menjadi hutan
+  en: forest, to allow to become forest
+- aceh: bandum lampôih habeh tapeu uteuen le' gata
+  jawi: ''
+  id: Semua kebin sudah Anda biarkan menjadi hutan
+  en: ''
 etymology: ''
-related_words: []
+related_words:
+- rimba
 dialect_notes: ''
-source: 'Daud, Bukhari & Mark Durie. Kamus Basa Acèh = Kamus Bahasa Aceh: Acehnese–Indonesian–English Thesaurus.
-  Pacific Linguistics C-151, 1999, p. 90.'
-date_added: '2026-07-20'
+source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
+  Pendidikan dan Kebudayaan, 1985, hlm. 1055'
+date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: ''
+extraction_notes: 'Jawi left blank: the source is Latin-script only and no Jawi form is printed for this
+  entry.'
