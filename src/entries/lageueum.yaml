@@ -1,0 +1,40 @@
+headword: lageueum
+jawi: ''
+alt_spelling: []
+ipa: ''
+part_of_speech: n
+definitions:
+- meaning_id: isyarat, tanda, (hikayat) irama lagu atau pembacaan
+  meaning_en: signal, sign, (in hikayat) the melody of a chant or recitation
+examples:
+- aceh: euntreuk lôn bri lageueum
+  jawi: ''
+  id: Nanti akan saya berikan isyarat
+  en: I will give the signal later
+- aceh: meu lageueum
+  jawi: ''
+  id: memberikan isyarat
+  en: to give signal
+- aceh: soe meu lageueum di blang?
+  jawi: ''
+  id: Siapakah yg memberikan isyarat di sawah
+  en: Who is signalling out in the field?
+- aceh: peu lageueum
+  jawi: ''
+  id: memberikan isyarat kpd
+  en: ''
+- aceh: teu lageueum
+  jawi: ''
+  id: diberikan isyarat
+  en: give signal
+etymology: ''
+related_words:
+- laram
+- ragam
+dialect_notes: ''
+source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
+  Pendidikan dan Kebudayaan, 1985, hlm. 484'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+extraction_notes: 'Jawi left blank: the source is Latin-script only and no Jawi form is printed for this
+  entry.'

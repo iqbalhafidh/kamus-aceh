@@ -2,17 +2,32 @@ headword: kuto
 jawi: ''
 alt_spelling: []
 ipa: ''
-part_of_speech: ''
+part_of_speech: a
 definitions:
-- meaning_id: kotor
-  meaning_en: dirty
-examples: []
+- meaning_id: kotor (lawannya
+  meaning_en: dirty his opponent
+examples:
+- aceh: qaroe gata kuto that, bèk tamat ija lôn!
+  jawi: ''
+  id: Tangan Anda kotor sekali. Anda jangan memegang kain saya!
+  en: Your hands are filthy. Do not touch my cloth!
+- aceh: meu kuto
+  jawi: ''
+  id: mengotorkan diri
+  en: ''
+- aceh: peu kuto
+  jawi: ''
+  id: membuat kotor
+  en: to make dirty
 etymology: ''
 related_words:
-- teuböh
+- kuto
 dialect_notes: ''
-source: 'Daud, Bukhari & Mark Durie. Kamus Basa Acèh = Kamus Bahasa Aceh: Acehnese–Indonesian–English Thesaurus.
-  Pacific Linguistics C-151, 1999, p. 90.'
-date_added: '2026-07-20'
+source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
+  Pendidikan dan Kebudayaan, 1985, hlm. 477'
+date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: ''
+extraction_notes: 'Jawi left blank: the source is Latin-script only and no Jawi form is printed for this
+  entry. | Source gives this only as a cross-reference (→ kuto); no independent definition is printed,
+  so meaning fields are left blank rather than guessed. Jawi left blank: the source is Latin-script only
+  and no Jawi form is printed for this entry. Part of speech not stated in the source; left blank.'

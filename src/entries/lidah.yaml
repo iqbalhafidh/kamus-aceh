@@ -2,17 +2,57 @@ headword: lidah
 jawi: ''
 alt_spelling: []
 ipa: ''
-part_of_speech: ''
+part_of_speech: n
 definitions:
 - meaning_id: lidah
   meaning_en: tongue
-examples: []
+examples:
+- aceh: neuraca, cêng
+  jawi: ''
+  id: lidah neraca, dacing
+  en: ''
+- aceh: bangsi
+  jawi: ''
+  id: lidah sj suling bambu
+  en: ''
+- aceh: srunè
+  jawi: ''
+  id: lidah serunai
+  en: ''
+- aceh: tiông
+  jawi: ''
+  id: lidah burung tiung, pelatuk senapan
+  en: ''
+- aceh: apui
+  jawi: ''
+  id: lidah, jilatan api
+  en: tongue, to lick fire
+- aceh: aneuk lidah
+  jawi: ''
+  id: dl hik dan lagu-lagu kidung dipergunakan sbg kata-kata kesayangan
+  en: ''
+- aceh: jak kutimang putik nipah, aneuk lidah saboh saja
+  jawi: ''
+  id: Mari kuapun engkau, wahai putik nipah. Engkau adalah kekasihku seorang
+  en: Let me embrace you, O nipa bud; you are my only love
+- aceh: keunaleueng lidah
+  jawi: ''
+  id: hrf penopang lidah, yi sesuatu yg ditulis, surat
+  en: ''
+- aceh: keunaleueng lidah trôih bak gata
+  jawi: ''
+  id: Surat ini datang menjumpai Anda
+  en: This letter comes to you
+- aceh: panyang lidah
+  jawi: ''
+  id: panjang lidah, suka mengoceh, suka marah
+  en: ''
 etymology: ''
-related_words:
-- dilah
+related_words: []
 dialect_notes: ''
-source: 'Daud, Bukhari & Mark Durie. Kamus Basa Acèh = Kamus Bahasa Aceh: Acehnese–Indonesian–English Thesaurus.
-  Pacific Linguistics C-151, 1999, p. 28.'
-date_added: '2026-07-20'
+source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
+  Pendidikan dan Kebudayaan, 1985, hlm. 541'
+date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: ''
+extraction_notes: 'Jawi left blank: the source is Latin-script only and no Jawi form is printed for this
+  entry.'

@@ -1,0 +1,35 @@
+headword: lukat
+jawi: ''
+alt_spelling: []
+ipa: ''
+part_of_speech: v
+definitions:
+- meaning_id: terlepas
+  meaning_en: come loose
+- meaning_id: melepaskan
+  meaning_en: to release
+- meaning_id: meninggalkan (umpamanya kubu pertahanan yang telah direbut)
+  meaning_en: ''
+- meaning_id: dihancurkan
+  meaning_en: shattered
+- meaning_id: dimusnahkan
+  meaning_en: destroyed
+examples:
+- aceh: saòh-saòh ka lukat
+  jawi: ''
+  id: sauhnya pun sudah terlepas (diakibatkan oleh topan)
+  en: ''
+- aceh: kuta nyoe goh lom lukat, ka jikarat nyang laèn lom
+  jawi: ''
+  id: Kubu pertahanan ini belum dapat mereka musnahkan. Mereka berusaha dng sekuat tenaga menundukkan
+    yg lain lagi
+  en: They have not yet destroyed this stockade; they strive with all their might to subdue the rest
+etymology: ''
+related_words: []
+dialect_notes: ''
+source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
+  Pendidikan dan Kebudayaan, 1985, hlm. 557'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+extraction_notes: 'Jawi left blank: the source is Latin-script only and no Jawi form is printed for this
+  entry.'

@@ -1,0 +1,42 @@
+headword: kianat
+jawi: ''
+alt_spelling:
+- khianat
+ipa: ''
+part_of_speech: a
+definitions:
+- meaning_id: khianat
+  meaning_en: treachery
+- meaning_id: kianat
+  meaning_en: treachery
+- meaning_id: tidak setia
+  meaning_en: ''
+- meaning_id: culas
+  meaning_en: sluggish
+- meaning_id: curang
+  meaning_en: deceitful
+- meaning_id: berbuat khianat
+  meaning_en: to act treacherously
+- meaning_id: tipu daya
+  meaning_en: ''
+- meaning_id: melakukan tipu daya
+  meaning_en: ''
+examples:
+- aceh: that gobnyan
+  jawi: ''
+  id: Orang itu sangat kianat
+  en: That man is very treacherous
+- aceh: soe nyang kianat, muwoe laknat u ateueh droe
+  jawi: ''
+  id: 'Barang siapa berkhianat (thd seseorang) akan mendapat kutukan (pb), maksudnya: barang siapa menggali
+    lubang utk orang lain, ia sendiri akan jatuh ke dalamnya'
+  en: '(proverb) Whoever betrays another will be cursed: he who digs a pit for another falls into it himself'
+etymology: ''
+related_words: []
+dialect_notes: ''
+source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
+  Pendidikan dan Kebudayaan, 1985, hlm. 428'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+extraction_notes: 'Jawi left blank: the source is Latin-script only and no Jawi form is printed for this
+  entry.'

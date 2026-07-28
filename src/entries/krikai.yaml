@@ -1,19 +1,22 @@
----
-headword: "krikai"
-jawi: ""
+headword: krikai
+jawi: ''
 alt_spelling: []
-ipa: "/kri.kay/"
-part_of_speech: "n"
-language_uncertain: false
+ipa: ''
+part_of_speech: n
 definitions:
-  - meaning_id: "wadah berbentuk dulang berukuran kecil yg bagian atasnya ditutup dng sange berfungsi sbg tempat meletakkan lauk-pauk, sayuran, serta nasi untuk para tamu agung, spt pembesarpembesar negeri, orang kaya, dan pengantin baru"
-    meaning_en: ""
-examples:
-  []
-etymology: ""
+- meaning_id: kerikal
+  meaning_en: ''
+- meaning_id: dulang kecil tempat menyajikan sesuatu
+  meaning_en: a small tray for serving something
+- meaning_id: terutama kepada pengantin laki-laki atau tamu-tamu khusus
+  meaning_en: ''
+examples: []
+etymology: ''
 related_words: []
-dialect_notes: ""
-source: "Kamus Bahasa Aceh Daring (Balai Bahasa Provinsi Aceh), 'Entri huruf — krikai', URL: https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/K?page=5 (diakses 20 Juli 2026)"
-date_added: "2026-07-20"
-contributor: "AI-extracted — needs human review"
-extraction_notes: "Diekstrak dari 1 halaman sumber (https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/K?page=5). Tidak ada bentuk Jawi dalam sumber — dibiarkan kosong sesuai aturan."
+dialect_notes: ''
+source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
+  Pendidikan dan Kebudayaan, 1985, hlm. 455'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+extraction_notes: 'Jawi left blank: the source is Latin-script only and no Jawi form is printed for this
+  entry.'

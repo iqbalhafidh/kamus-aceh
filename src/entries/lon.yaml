@@ -1,18 +1,97 @@
-headword: "lon"
-jawi: "لون"
-ipa: "/lon/"
-part_of_speech: "kata ganti"
+headword: lōn
+jawi: ''
+alt_spelling:
+- len
+- lén
+- lon
+ipa: ''
+part_of_speech: n
 definitions:
-  - meaning_id: "saya; aku (kata ganti orang pertama tunggal)"
-    meaning_en: "I; me (first-person singular pronoun)"
+- meaning_id: kadang-kadang diucapkan lōng kataganti orang pertama tunggal dan jamak (dalam hal terakhir
+    dijelaskan dengan tambahan dum atau bandum), saya, (lebih sopan dari kèe, aku)
+  meaning_en: sometimes pronounced lōng; the first person pronoun, singular and plural, the latter made
+    clear by adding dum or bandum, I, more polite than kèe
+- meaning_id: lin
+  meaning_en: ''
+- meaning_id: lumpur, lanau, kotoran yang dibawa ketika air pasang dan tertinggal jika air surut, endapan
+    air
+  meaning_en: mud, silt, the refuse brought in by the tide and left when it ebbs, water sediment
 examples:
-  - aceh: "Lon kheun nyan bak droeneuh."
-    id: "Saya katakan itu kepada Anda."
-    en: "I said that to you."
-  - aceh: "Lon hana teuingat."
-    id: "Saya tidak ingat."
-    en: "I don't remember."
-dialect_notes: "Dalam dialek pesisir utara juga dikenal bentuk 'lôn'. Digunakan dalam konteks formal maupun informal."
-source: "Kamus Aceh–Indonesia, Pusat Bahasa 2001"
-date_added: "2025-01-01"
-contributor: "Tim Kamus Aceh (contoh)"
+- aceh: ulōn lōn jak
+  jawi: ''
+  id: Saya pergi
+  en: I go
+- aceh: bèk tapoh lōn
+  jawi: ''
+  id: Anda jangan memukul saya
+  en: you do not hit I
+- aceh: aneuk lōn
+  jawi: ''
+  id: Anak saya
+  en: child I
+- aceh: meu lōn lōn
+  jawi: ''
+  id: berkata-kata dng menggunakan lōn
+  en: ''
+- aceh: bèk tamarit meu lōn lōn, timoh iku jeuet keu lulōn
+  jawi: ''
+  id: Anda jangan berkata-kata dng menggunakan kata saya, nanti keluar ekor menjadi kepompong (sajak ejekan)
+  en: Do not speak using that word, or a tail will sprout and you will become a cocoon
+- aceh: 'a padam (utk cahaya), tertutup (utk mata): panyot ka lōn, tatōt lom'
+  jawi: ''
+  id: lampu sudah padam, pasanglah kembali
+  en: ''
+- aceh: ka lōn apui atawa goh?
+  jawi: ''
+  id: Sudah padamkah api, atau belum?
+  en: Is the fire out yet, or not?
+- aceh: teubleut-bleut lōn
+  jawi: ''
+  id: terbuka dan tertutup
+  en: ''
+- aceh: peu lōn
+  jawi: ''
+  id: digabungkan menjadi plōn, menyuruh padamkan, memadamkan, memati kan, menutup (utk mata)
+  en: ''
+- aceh: meu-teup (eu)lōn
+  jawi: ''
+  id: dipadamkan
+  en: extinguished
+- aceh: bungong apui ka mulōn
+  jawi: ''
+  id: Kembang api sudah (di) padam (kan)
+  en: The firework has gone out
+- aceh: lampôih nyan biek tanohlon
+  jawi: ''
+  id: Kebun itu terdiri dr endapan tanah
+  en: That garden is made of alluvial soil
+- aceh: meulon
+  jawi: ''
+  id: berlanau, penuh kotoran
+  en: silt, full dirty
+- aceh: tajak srah nyan, ka meulon
+  jawi: ''
+  id: Pergilah Anda mencucinya, sudah berlumpur
+  en: Go and wash it, it is muddy
+- aceh: peulon
+  jawi: ''
+  id: membiarkan berlumpur, mengotori
+  en: to allow muddy, to soil
+- aceh: pakon tapeulon papeu-en dum teureundam
+  jawi: ''
+  id: Mengapa Anda membiarkan papan-papan berlumpur dng merendamnya di dl air
+  en: Why do you let the planks get muddy by soaking them in water?
+etymology: ''
+related_words: []
+dialect_notes: ''
+source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
+  Pendidikan dan Kebudayaan, 1985, hlm. 553, 554'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+extraction_notes: 'Homonym 1 in the source (printed as a superscript numeral before the headword). Jawi
+  left blank: the source is Latin-script only and no Jawi form is printed for this entry. Part of speech
+  not stated in the source; left blank. | English gloss left blank: no confident translation of the Indonesian
+  definition was available. Homonym 2 in the source (printed as a superscript numeral before the headword).
+  Jawi left blank: the source is Latin-script only and no Jawi form is printed for this entry. Part of
+  speech not stated in the source; left blank. | Jawi left blank: the source is Latin-script only and
+  no Jawi form is printed for this entry.'

@@ -2,19 +2,64 @@ headword: lakoe
 jawi: ''
 alt_spelling: []
 ipa: ''
-part_of_speech: ''
+part_of_speech: n
 definitions:
-- meaning_id: laki-Iaki
-  meaning_en: male
-- meaning_id: suami
-  meaning_en: husband
-examples: []
+- meaning_id: laki, suami, laki-laki
+  meaning_en: man, husband, mans
+examples:
+- aceh: inong nyan ka na lakoe
+  jawi: ''
+  id: Wanita itu sudah bersuami, (juga) sudah bertunangan
+  en: ''
+- aceh: palèh inong hana lakoe, palèh nanggroe laklèm raja
+  jawi: ''
+  id: (pb) Celakalah wanita yang bersuami. Celakalah negeri yg rajanya lalim
+  en: (proverb) Woe to the woman with such a husband; woe to the land whose king is a tyrant
+- aceh: binoe
+  jawi: ''
+  id: laki bini, suami isteri
+  en: ''
+- aceh: ureueng lakoe
+  jawi: ''
+  id: orang laki, laki-laki (lebih halus dr agam
+  en: ''
+- aceh: meungnyoe gata ureueng lakoe, takheun jinoe sibeuna
+  jawi: ''
+  id: Sekiranya Anda seorang laki-laki, katakanlah sekarang hal yg sesungguhnya
+  en: If you are a man, say now what is true
+- aceh: aleue
+  jawi: ''
+  id: kisi-kisi, bambu untuk mengepit lantai rumah
+  en: ''
+- aceh: ie
+  jawi: ''
+  id: sj labah-labah air yg bergera k cepat-cepat di atas permukaan air
+  en: ''
+- aceh: meu lakoe
+  jawi: ''
+  id: berlaku, mempunyai laki atau suami, kawin dng bersetubuh atau kawin (utk binatang, spt kupu-kupu
+    ulat sutera
+  en: ''
+- aceh: inong nyan ka dua go jimeu lakoe, hana nyang keukai
+  jawi: ''
+  id: Wanita itu sudah kawin dua kali, tak ada yg tetap
+  en: ''
+- aceh: peu lakoe
+  jawi: ''
+  id: (jarang dipergunakan), mengawinkan seseorang
+  en: 'rarely used: to marry someone off'
+- aceh: ka neupeu lakoe aneuk droeneu
+  jawi: ''
+  id: '? Sudahkah Anda mengawinkan anak perempuan Anda mengawinkan anak perempuan Anda itu? lakoe samlakoe'
+  en: Have you married off your daughter?
 etymology: ''
 related_words:
-- agam
+- pd pd binoe)
+- agam )
 dialect_notes: ''
-source: 'Daud, Bukhari & Mark Durie. Kamus Basa Acèh = Kamus Bahasa Aceh: Acehnese–Indonesian–English Thesaurus.
-  Pacific Linguistics C-151, 1999, p. 12.'
-date_added: '2026-07-20'
+source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
+  Pendidikan dan Kebudayaan, 1985, hlm. 488'
+date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: ''
+extraction_notes: 'Jawi left blank: the source is Latin-script only and no Jawi form is printed for this
+  entry.'

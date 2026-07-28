@@ -1,19 +1,41 @@
----
-headword: "lancang"
-jawi: ""
+headword: lancang
+jawi: ''
 alt_spelling: []
-ipa: "/lan.caŋ/"
-part_of_speech: "n"
-language_uncertain: false
+ipa: ''
+part_of_speech: n
 definitions:
-  - meaning_id: "tempat pengolahan garam, ladang garam tradisional"
-    meaning_en: ""
-examples:
-  []
-etymology: ""
-related_words: []
-dialect_notes: ""
-source: "Kamus Bahasa Aceh Daring (Balai Bahasa Provinsi Aceh), 'Entri huruf — lancang', URL: https://kamusbbpa.kemendikdasmen.go.id/kamus/Aceh/L (diakses 20 Juli 2026)"
-date_added: "2026-07-20"
-contributor: "AI-extracted — needs human review"
-extraction_notes: "Diekstrak dari 1 halaman sumber (https://kamusbbpa.kemendikdasmen.go.id/kamus/Aceh/L). Tidak ada bentuk Jawi dalam sumber — dibiarkan kosong sesuai aturan."
+- meaning_id: kapal-kapal kecil
+  meaning_en: small ships
+- meaning_id: terbuat dari upih pinang untuk mengisi juadah
+  meaning_en: ''
+- meaning_id: sirih
+  meaning_en: betel
+- meaning_id: dua butir telur mentah. nasi ketan
+  meaning_en: two raw eggs; glutinous rice
+- meaning_id: bunga sepotong
+  meaning_en: flower cut
+- meaning_id: kain putih
+  meaning_en: cloth white
+- meaning_id: dan seekor ayam jantan hidup untuk dilepaskan dalam sungai atau ke laut untuk menolak wabah
+    penyakit yang dihinggapi seseorang
+  meaning_en: and a live cock to be released into the river or sea to avert an illness afflicting someone
+- meaning_id: – pukat
+  meaning_en: seine net
+- meaning_id: sejenis perahu untuk menangkap untuk menangkap ikan dengan pukat
+  meaning_en: ''
+- meaning_id: – sira
+  meaning_en: ''
+- meaning_id: lapangan tempat membuat garam
+  meaning_en: spacious place to make salt
+examples: []
+etymology: ''
+related_words:
+- lancuen
+- teumpeuen
+dialect_notes: ''
+source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
+  Pendidikan dan Kebudayaan, 1985, hlm. 496'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+extraction_notes: 'Jawi left blank: the source is Latin-script only and no Jawi form is printed for this
+  entry.'

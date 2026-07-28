@@ -2,20 +2,45 @@ headword: ladang
 jawi: ''
 alt_spelling: []
 ipa: ''
-part_of_speech: ''
+part_of_speech: n
 definitions:
 - meaning_id: ladang
-  meaning_en: uncleared
-- meaning_id: ladang
-  meaning_en: cleared forest
+  meaning_en: field dry
 - meaning_id: liar
-  meaning_en: wild, untamed
-examples: []
+  meaning_en: wild
+examples:
+- aceh: lampôih ladang
+  jawi: ''
+  id: kebun ladang
+  en: garden dry field
+- aceh: meu ladang
+  jawi: ''
+  id: berladang
+  en: field dry
+- aceh: na tameu ladang bak bukét nyan?
+  jawi: ''
+  id: Adakah Anda berladang di bukit itu?
+  en: Do you farm on that hill?
+- aceh: guda ladang
+  jawi: ''
+  id: kuda liar
+  en: wild horse
+- aceh: peu ladang
+  jawi: ''
+  id: membuat shg liar
+  en: to make so that wild
+- aceh: bèk tapeu ladang keubeue, treuk jipok gob!
+  jawi: ''
+  id: Anda jangan membuat kerbau itu liar, nanti ia menanduk orang
+  en: Do not make that buffalo wild, it will gore someone
 etymology: ''
 related_words: []
 dialect_notes: ''
-source: 'Daud, Bukhari & Mark Durie. Kamus Basa Acèh = Kamus Bahasa Aceh: Acehnese–Indonesian–English Thesaurus.
-  Pacific Linguistics C-151, 1999, p. 61; p. 104.'
-date_added: '2026-07-20'
+source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
+  Pendidikan dan Kebudayaan, 1985, hlm. 482'
+date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: ''
+extraction_notes: 'Homonym 1 in the source (printed as a superscript numeral before the headword). Jawi
+  left blank: the source is Latin-script only and no Jawi form is printed for this entry. | Homonym 2
+  in the source (printed as a superscript numeral before the headword). Jawi left blank: the source is
+  Latin-script only and no Jawi form is printed for this entry.'

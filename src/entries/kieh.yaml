@@ -2,16 +2,47 @@ headword: kieh
 jawi: ''
 alt_spelling: []
 ipa: ''
-part_of_speech: ''
+part_of_speech: n
 definitions:
-- meaning_id: kias, persamaan
-  meaning_en: analogical reasoning
-examples: []
+- meaning_id: kias
+  meaning_en: analogy
+- meaning_id: persamaan
+  meaning_en: same
+- meaning_id: analogi
+  meaning_en: analogy
+- meaning_id: kesimpulan
+  meaning_en: conclusion
+- meaning_id: sindiran
+  meaning_en: innuendo
+- meaning_id: menyimpulkan
+  meaning_en: ''
+- meaning_id: menyindir
+  meaning_en: to allude mockingly
+examples:
+- aceh: 'bak ureueng malém le ho kieh, Orang yg berilmu mempunyai banyak jalan utk mengkiaskan sesuatu,
+    yi selalu mempunyai dasar berfikir pd salah satu kitab, kendati pun pikiran pikiran itu keliru: teung
+    kieh'
+  jawi: ''
+  id: membuat kesimpulan atau perumpamaan, mengambil suatu ibarat
+  en: ''
+- aceh: ji kieh ubak lôn
+  jawi: ''
+  id: Ia mengambil kiasan kpd saya. Ia menyindir saya
+  en: He spoke in allusions at me; he was getting at me
+- aceh: meu kieh
+  jawi: ''
+  id: berkias-kiasan, membuat berbagai-bagai kiasan, sindir menyindir
+  en: to speak in allusions, to trade veiled digs
+- aceh: bèk tameu kieh kieh ngon sèedara
+  jawi: ''
+  id: Anda jangan menyindir sesama saudara
+  en: Do not make sly digs at your own kin
 etymology: ''
 related_words: []
 dialect_notes: ''
-source: 'Daud, Bukhari & Mark Durie. Kamus Basa Acèh = Kamus Bahasa Aceh: Acehnese–Indonesian–English Thesaurus.
-  Pacific Linguistics C-151, 1999, p. 21.'
-date_added: '2026-07-20'
+source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
+  Pendidikan dan Kebudayaan, 1985, hlm. 429'
+date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: ''
+extraction_notes: 'Jawi left blank: the source is Latin-script only and no Jawi form is printed for this
+  entry.'

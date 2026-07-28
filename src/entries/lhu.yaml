@@ -2,16 +2,36 @@ headword: lhu
 jawi: ''
 alt_spelling: []
 ipa: ''
-part_of_speech: ''
+part_of_speech: a
 definitions:
-- meaning_id: kelu lidah (karena makan sirih)
-  meaning_en: numb (of tongue) from eating betel
-examples: []
+- meaning_id: terkelupas
+  meaning_en: peeled off
+- meaning_id: lecet
+  meaning_en: chafed
+- meaning_id: mengersik
+  meaning_en: ''
+- meaning_id: kasar
+  meaning_en: coarse
+- meaning_id: kesat
+  meaning_en: rough
+- meaning_id: tidak licin
+  meaning_en: ''
+- meaning_id: sejenis penyakit cendawan di kulit
+  meaning_en: a kind of illness fungus at skin
+- meaning_id: berpenyakit lhu
+  meaning_en: suffering from the lhu disease
+examples:
+- aceh: ija nyoe ka lhu kasap
+  jawi: ''
+  id: Kain ini telah terkelupas kasapnya (shg tidak rata lagi tampaknya). peu lhu, membuat shg terkelupas
+  en: The nap of this cloth has come away so that it looks uneven
 etymology: ''
-related_words: []
+related_words:
+- licôb
 dialect_notes: ''
-source: 'Daud, Bukhari & Mark Durie. Kamus Basa Acèh = Kamus Bahasa Aceh: Acehnese–Indonesian–English Thesaurus.
-  Pacific Linguistics C-151, 1999, p. 33.'
-date_added: '2026-07-20'
+source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
+  Pendidikan dan Kebudayaan, 1985, hlm. 539'
+date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: ''
+extraction_notes: 'Jawi left blank: the source is Latin-script only and no Jawi form is printed for this
+  entry.'

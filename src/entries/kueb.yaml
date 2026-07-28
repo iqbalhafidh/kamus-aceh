@@ -1,0 +1,42 @@
+headword: kueb
+jawi: ''
+alt_spelling: []
+ipa: ''
+part_of_speech: v
+definitions:
+- meaning_id: meraba
+  meaning_en: to grope
+- meaning_id: menggerapai
+  meaning_en: ''
+- meaning_id: menangkap sesuatu dengan tangan dalam air
+  meaning_en: ''
+- meaning_id: meraba sesuatu benda yang berada di dalam atau tersembunyi di bawah sesuatu benda lain
+  meaning_en: ''
+- meaning_id: mencari
+  meaning_en: to seek
+examples:
+- aceh: taseunom
+  jawi: ''
+  id: takueb, Selam dan carilah! peue ta–lam leuhob? Apakah yg Anda raba dl lumpur? h'an lôn tuho jak
+    kueb ureueng, ka abéh u pasi, Saya tidak tahu kemana mencari orang utk tenaga tenaga kerja. Mereka
+    telah pergi ke pantai
+  en: ''
+- aceh: abéh lôn kueb ban saboh gampong
+  jawi: ''
+  id: telah saya cari ke seluruh kampung
+  en: ''
+- aceh: bèk keu noe tapeu kueb ureueng buu nyan
+  jawi: ''
+  id: keu nan taba, Anda jangan membiarkan orang buta itu menggerapa i ke mari, bawalah ke sana!
+  en: ''
+etymology: ''
+related_words:
+- geue
+- raba
+dialect_notes: ''
+source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
+  Pendidikan dan Kebudayaan, 1985, hlm. 461'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+extraction_notes: 'Jawi left blank: the source is Latin-script only and no Jawi form is printed for this
+  entry.'

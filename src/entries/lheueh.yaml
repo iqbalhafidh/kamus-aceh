@@ -2,22 +2,65 @@ headword: lheueh
 jawi: ''
 alt_spelling: []
 ipa: ''
-part_of_speech: ''
+part_of_speech: a
 definitions:
-- meaning_id: lepas
-  meaning_en: free, miss
 - meaning_id: siap
-  meaning_en: finished
+  meaning_en: ready
 - meaning_id: lepas
-  meaning_en: free, released
-examples: []
+  meaning_en: loose
+- meaning_id: bebas
+  meaning_en: free
+- meaning_id: ditembakkan (umpamanya senapan
+  meaning_en: fired, as a gun
+- meaning_id: panah)
+  meaning_en: ''
+- meaning_id: menyampaikan sesuatu hajat
+  meaning_en: until something need
+- meaning_id: dimenangkan (perkara
+  meaning_en: won, of a case
+- meaning_id: tarungan) sudah
+  meaning_en: ''
+- meaning_id: setelah
+  meaning_en: have
+examples:
+- aceh: jih ka lheueh lam glap
+  jawi: ''
+  id: Ia sudah lepas, dilepaskan dr penjara. 'ok lheueh duek, lôn jak, Setelah duduk saya pergi. ('oh)
+    lheueh nyan, setelah, sesudah itu
+  en: He has been released from prison. After sitting down I left. After that
+- aceh: silawét lheueh lôn lam kaluet
+  jawi: ''
+  id: selama saya kembali dr berkhalwat
+  en: ''
+- aceh: jimeulho jimeu lheueh
+  jawi: ''
+  id: Mereka berkelahi utk mengetahui siapa yg lebih kuat dr mereka. peu lheueh, melepaskan, menembakkan
+    (ump senapan), menyeberangi (sungai), membawa ke seberang sungai, menyampaikan sesuatu hajat
+  en: They fight to see which of them is the stronger
+- aceh: jalô pumeu lheueh
+  jawi: ''
+  id: perahu utk menyeberangkan orang
+  en: ''
+- aceh: lawan baka meusé ka tan 'oh teu lheueh na
+  jawi: ''
+  id: lawan atau kebalikan baqa adalah laksana sudah tak ada sesudah ada
+  en: ''
+- aceh: soe nyang dilée
+  jawi: ''
+  id: soe nyang keuneu lheueh, siapa yg lebih dahulu dan siapa yg kemudian
+  en: ''
+- aceh: lheueh nyan gobnyan
+  jawi: ''
+  id: keuneu lheueh lôn, setelah itu dia, belakangan saya
+  en: ''
 etymology: ''
-related_words: []
+related_words:
+- leukang
+- leungka
 dialect_notes: ''
-source: 'Daud, Bukhari & Mark Durie. Kamus Basa Acèh = Kamus Bahasa Aceh: Acehnese–Indonesian–English Thesaurus.
-  Pacific Linguistics C-151, 1999, p. 64; p. 81; vii (PDF p. 5).'
-date_added: '2026-07-20'
+source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
+  Pendidikan dan Kebudayaan, 1985, hlm. 535'
+date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: PDF text-layer mismatch in the Acehnese form; copied from the searchable PDF text layer and needs
-  visual verification against printed p. 64. PDF text-layer mismatch in the Acehnese form; copied from the searchable
-  PDF text layer and needs visual verification against printed p. 81.
+extraction_notes: 'Jawi left blank: the source is Latin-script only and no Jawi form is printed for this
+  entry.'

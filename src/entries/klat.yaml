@@ -1,17 +1,54 @@
 headword: klat
 jawi: ''
-alt_spelling: []
+alt_spelling:
+- keulat
+- taloe
+- bak
 ipa: ''
-part_of_speech: ''
+part_of_speech: a
 definitions:
 - meaning_id: kelat
-  meaning_en: unpleasant unripe mouth-drying taste
-examples: []
+  meaning_en: astringent
+- meaning_id: sepat rasanya
+  meaning_en: ''
+- meaning_id: lat
+  meaning_en: ''
+- meaning_id: klat
+  meaning_en: ''
+- meaning_id: bak siklat
+  meaning_en: ''
+examples:
+- aceh: '''uet ie klat'
+  jawi: ''
+  id: menelan air yg kelat (ump air sirih yg mula-mula dikunyah sebelum ditelan, terasa sangat kelat,
+    utk memberanikan)
+  en: ''
+- aceh: ji'uet ie klat mangat ceubeueh
+  jawi: ''
+  id: Ia menelan air sirih yg kelat supaya menjadi berani
+  en: He swallows the astringent betel juice to make himself bold
+- aceh: pisang klat
+  jawi: ''
+  id: sj pisang
+  en: a kind of banana
+- aceh: 'n tali kelat, tali pemutar andang-andang kapal: ka jitarèk ngon taloe klat, Mereka sudah menarik:
+    angen tarèk klat'
+  jawi: ''
+  id: Angin tegang kekelat. Angin yg agak kencang
+  en: A taut wind, a fairly strong wind
 etymology: ''
 related_words: []
 dialect_notes: ''
-source: 'Daud, Bukhari & Mark Durie. Kamus Basa Acèh = Kamus Bahasa Aceh: Acehnese–Indonesian–English Thesaurus.
-  Pacific Linguistics C-151, 1999, p. 73.'
-date_added: '2026-07-20'
+source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
+  Pendidikan dan Kebudayaan, 1985, hlm. 438'
+date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: ''
+extraction_notes: 'Homonym 1 in the source (printed as a superscript numeral before the headword). Jawi
+  left blank: the source is Latin-script only and no Jawi form is printed for this entry. | English gloss
+  left blank: no confident translation of the Indonesian definition was available. Homonym 2 in the source
+  (printed as a superscript numeral before the headword). Jawi left blank: the source is Latin-script
+  only and no Jawi form is printed for this entry. Part of speech not stated in the source; left blank.
+  | English gloss left blank: no confident translation of the Indonesian definition was available. Homonym
+  3 in the source (printed as a superscript numeral before the headword). Jawi left blank: the source
+  is Latin-script only and no Jawi form is printed for this entry. Part of speech not stated in the source;
+  left blank.'

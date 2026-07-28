@@ -1,17 +1,34 @@
 headword: luhok
 jawi: ''
-alt_spelling: []
+alt_spelling:
+- ruhok
 ipa: ''
-part_of_speech: ''
+part_of_speech: n
 definitions:
-- meaning_id: luka yang dalam
-  meaning_en: deep wound
-examples: []
+- meaning_id: luka yang dalam, dalam bocor
+  meaning_en: a deep wound, leaking
+examples:
+- aceh: lôn ka luhok pha-pha
+  jawi: ''
+  id: Saya mendapat luka yg dl di paha
+  en: I have a deep wound in my thigh
+- aceh: lukaji ka luhok
+  jawi: ''
+  id: Lukanya sudah dl
+  en: His wound is deep
+- aceh: rumoh abèh luhok
+  jawi: ''
+  id: rumah sudah bocor semua
+  en: ''
 etymology: ''
-related_words: []
+related_words:
+- buhok
+- ruh' ong
+- siluhok
 dialect_notes: ''
-source: 'Daud, Bukhari & Mark Durie. Kamus Basa Acèh = Kamus Bahasa Aceh: Acehnese–Indonesian–English Thesaurus.
-  Pacific Linguistics C-151, 1999, p. 32.'
-date_added: '2026-07-20'
+source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
+  Pendidikan dan Kebudayaan, 1985, hlm. 557'
+date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: ''
+extraction_notes: 'Jawi left blank: the source is Latin-script only and no Jawi form is printed for this
+  entry.'

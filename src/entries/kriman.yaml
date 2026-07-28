@@ -1,0 +1,28 @@
+headword: kriman
+jawi: ''
+alt_spelling:
+- keuriman
+ipa: ''
+part_of_speech: n
+definitions:
+- meaning_id: kiriman, surat
+  meaning_en: consignment, letter
+examples:
+- aceh: surat kriman
+  jawi: ''
+  id: surat kiriman
+  en: letter consignment
+- aceh: surat kriman (nibak) Sèh Salèh
+  jawi: ''
+  id: surat kiriman SS (judul kitab yg membuat nasihat-nasihat nabi Muhammad SAW yg diterima SS dl mimpinya
+    sbg seorang penjaga mesjid di Madinah), juga dinamakan Wasiet nabi, wasiat nabi
+  en: ''
+etymology: ''
+related_words: []
+dialect_notes: ''
+source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
+  Pendidikan dan Kebudayaan, 1985, hlm. 455'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+extraction_notes: 'Jawi left blank: the source is Latin-script only and no Jawi form is printed for this
+  entry.'

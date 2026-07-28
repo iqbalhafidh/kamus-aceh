@@ -2,17 +2,28 @@ headword: leumbam
 jawi: ''
 alt_spelling: []
 ipa: ''
-part_of_speech: ''
+part_of_speech: a
 definitions:
-- meaning_id: lembam, memar
-  meaning_en: bruised
-examples: []
+- meaning_id: gemuk, besar (untuk badan) lembam atau lebam, biru hitam (umpamanya bengkak pada tubuh disebabkan
+    kena pukul)
+  meaning_en: fat, large of body; bruised, blue black (for example swollen on body caused by struck hit)
+examples:
+- aceh: muka ureueng nyan leumbam keunong bak u reubah
+  jawi: ''
+  id: Muka orang itu lembam terkena batang kelapa yg jatuh. peuleumbam, melembamkan, menggemukkan
+  en: That man's face is bruised, struck by a falling coconut trunk
+- aceh: kah hana buet sagai
+  jawi: ''
+  id: kapeuleumbam leumbam droekeu mantong kaduek di rumoh, Engkau tidak bekerja sama sekali. Engkau hanya
+    menggemukgemukkan badan di rumah. pakon tapeuleumbam aneuk gob? Anda memukul anak orang shg badannya
+    lembam?
+  en: ''
 etymology: ''
-related_words:
-- leupeuet
+related_words: []
 dialect_notes: ''
-source: 'Daud, Bukhari & Mark Durie. Kamus Basa Acèh = Kamus Bahasa Aceh: Acehnese–Indonesian–English Thesaurus.
-  Pacific Linguistics C-151, 1999, p. 32.'
-date_added: '2026-07-20'
+source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
+  Pendidikan dan Kebudayaan, 1985, hlm. 524'
+date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: ''
+extraction_notes: 'Jawi left blank: the source is Latin-script only and no Jawi form is printed for this
+  entry.'

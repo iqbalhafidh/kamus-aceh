@@ -1,17 +1,63 @@
 headword: lham
 jawi: ''
-alt_spelling: []
+alt_spelling:
+- ikan
 ipa: ''
-part_of_speech: ''
+part_of_speech: n
 definitions:
-- meaning_id: pacul
-  meaning_en: hole digger
-examples: []
+- meaning_id: tembilang
+  meaning_en: ''
+- meaning_id: bergagang kecil dan agak melengkung matanya
+  meaning_en: with a small handle and a slightly curved blade
+- meaning_id: tenggelam, berada di dalam air, karam, terbalik
+  meaning_en: to sink, to be in the water, shipwrecked, overturned
+- meaning_id: lham
+  meaning_en: ''
+- meaning_id: eungkôt
+  meaning_en: ''
+examples:
+- aceh: mata lham
+  jawi: ''
+  id: mata tembilang, sj kerang yg dapat dimakan, hidup di alur-alur berair asin, berkuliat rata dan berwarna
+    coklat, berdiri tegak lurus dl air dan dapat melukai kaki seseorang
+  en: ''
+- aceh: tapéh u riek tati-ek lam kulam, lham timue!
+  jawi: ''
+  id: Sabut kelapa tua yg dilemparkan ke dl kolam, tenggelam atau timbul
+  en: Old coconut husk thrown into the pond, sinking or floating
+- aceh: lam-pôih habéh lham ngon ie
+  jawi: ''
+  id: raya, Semua kebun tergenang air banjir
+  en: ''
+- aceh: kapai ka lham
+  jawi: ''
+  id: kapal telah tenggelam
+  en: ship have to sink
+- aceh: kapai lham bak bineh kuala raya that
+  jawi: ''
+  id: kapal yg tenggelam di pinggir kuala besar sekali
+  en: ''
+- aceh: peu lham
+  jawi: ''
+  id: menenggelamkan
+  en: to sink
+- aceh: lham, n
+  jawi: ''
+  id: sj ikan laut, berbentuk kecil, bergaris-garis spt ikan pisang tetapi lebih kecil lagi
+  en: ''
 etymology: ''
-related_words: []
+related_words:
+- karam
+- teunggeulam
 dialect_notes: ''
-source: 'Daud, Bukhari & Mark Durie. Kamus Basa Acèh = Kamus Bahasa Aceh: Acehnese–Indonesian–English Thesaurus.
-  Pacific Linguistics C-151, 1999, p. 65.'
-date_added: '2026-07-20'
+source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
+  Pendidikan dan Kebudayaan, 1985, hlm. 534'
+date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: ''
+extraction_notes: 'Homonym 1 in the source (printed as a superscript numeral before the headword). Jawi
+  left blank: the source is Latin-script only and no Jawi form is printed for this entry. | Homonym 2
+  in the source (printed as a superscript numeral before the headword). Jawi left blank: the source is
+  Latin-script only and no Jawi form is printed for this entry. | English gloss left blank: no confident
+  translation of the Indonesian definition was available. Homonym 3 in the source (printed as a superscript
+  numeral before the headword). Jawi left blank: the source is Latin-script only and no Jawi form is printed
+  for this entry. Part of speech not stated in the source; left blank.'

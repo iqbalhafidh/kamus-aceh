@@ -3,7 +3,7 @@ jawi: ''
 alt_spelling:
 - keuh
 ipa: ''
-part_of_speech: ''
+part_of_speech: n
 definitions:
 - meaning_id: tekanan pada suatu kata tertentu yang terletak di belakangnya, lebih kurang seperti -lah
   meaning_en: stress on the particular word that follows it, roughly equivalent to -lah
@@ -24,6 +24,8 @@ definitions:
   meaning_en: will
 - meaning_id: kata depan untuk membentuk kata bilangan tingkatan
   meaning_en: a preposition forming ordinal numbers
+- meaning_id: kui, tempat melebur logam mulia
+  meaning_en: to bow, place melted metal exalted
 examples:
 - aceh: kakeu
   jawi: ''
@@ -57,7 +59,7 @@ etymology: ''
 related_words: []
 dialect_notes: ''
 source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
-  Pendidikan dan Kebudayaan, 1985, hlm. 391'
+  Pendidikan dan Kebudayaan, 1985, hlm. 391, 461'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
 extraction_notes: 'Homonym 1 in the source (printed as a superscript numeral before the headword). Jawi
@@ -68,4 +70,6 @@ extraction_notes: 'Homonym 1 in the source (printed as a superscript numeral bef
   superscript numeral before the headword). Jawi left blank: the source is Latin-script only and no Jawi
   form is printed for this entry. Part of speech not stated in the source; left blank. | Homonym 4 in
   the source (printed as a superscript numeral before the headword). Jawi left blank: the source is Latin-script
-  only and no Jawi form is printed for this entry. Part of speech not stated in the source; left blank.'
+  only and no Jawi form is printed for this entry. Part of speech not stated in the source; left blank.
+  | Homonym 2 in the source (printed as a superscript numeral before the headword). Jawi left blank: the
+  source is Latin-script only and no Jawi form is printed for this entry.'

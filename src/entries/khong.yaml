@@ -1,0 +1,40 @@
+headword: khong
+jawi: ''
+alt_spelling: []
+ipa: ''
+part_of_speech: adv
+definitions:
+- meaning_id: itu saja
+  meaning_en: that is all
+- meaning_id: tidak lain dari pada
+  meaning_en: ''
+- meaning_id: semata-mata hanya itu
+  meaning_en: ''
+- meaning_id: murni
+  meaning_en: pure
+- meaning_id: tidak bercampur
+  meaning_en: ''
+- meaning_id: (biasanya untuk benda dan lebih lazim dalam bahasa anak-anak)
+  meaning_en: usually of objects, and commoner in children's speech
+examples:
+- aceh: cit saboh khong
+  jawi: ''
+  id: hanya satu saja
+  en: only one only
+- aceh: bu khong
+  jawi: ''
+  id: hanya nasi, nasi kering tanpa lauk-pauk
+  en: rice alone, dry rice with no dishes
+- aceh: ie khong
+  jawi: ''
+  id: hanya air tanpa campuran apa-apa, semata mata air putih
+  en: water with nothing mixed in, plain water only
+etymology: ''
+related_words: []
+dialect_notes: ''
+source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
+  Pendidikan dan Kebudayaan, 1985, hlm. 427'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+extraction_notes: 'Jawi left blank: the source is Latin-script only and no Jawi form is printed for this
+  entry.'

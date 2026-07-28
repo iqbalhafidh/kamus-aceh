@@ -1,18 +1,48 @@
-headword: kutak
+headword: Kutak
 jawi: ''
 alt_spelling: []
 ipa: ''
-part_of_speech: ''
+part_of_speech: n
 definitions:
-- meaning_id: kutuk
-  meaning_en: curse
-examples: []
+- meaning_id: kotak
+  meaning_en: box
+- meaning_id: petak
+  meaning_en: plot
+- meaning_id: laci (umpamanya dalam lemari
+  meaning_en: ''
+- meaning_id: peti
+  meaning_en: chest
+- meaning_id: kotak
+  meaning_en: box
+- meaning_id: bilik)
+  meaning_en: room
+examples:
+- aceh: meu Kutak
+  jawi: ''
+  id: berkotak, terbagi dl kotak-kotak
+  en: divided into compartments
+- aceh: peutoe meu Kutak
+  jawi: ''
+  id: peti yg berkotak-kotak
+  en: ''
+- aceh: peu Kutak
+  jawi: ''
+  id: mengotak-ngotakkan
+  en: ''
+- aceh: peutoe nyoe tapeu Kutak
+  jawi: ''
+  id: '! perbuatlah peti ini berkotak-kotak'
+  en: Make this chest with compartments
+- aceh: kutakkan
+  jawi: ''
+  id: sj kue
+  en: a kind of cake
 etymology: ''
 related_words: []
 dialect_notes: ''
-source: 'Daud, Bukhari & Mark Durie. Kamus Basa Acèh = Kamus Bahasa Aceh: Acehnese–Indonesian–English Thesaurus.
-  Pacific Linguistics C-151, 1999, p. 56.'
-date_added: '2026-07-20'
+source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
+  Pendidikan dan Kebudayaan, 1985, hlm. 476'
+date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: PDF text-layer mismatch in the Acehnese form; copied from the searchable PDF text layer and needs
-  visual verification against printed p. 56.
+extraction_notes: 'Jawi left blank: the source is Latin-script only and no Jawi form is printed for this
+  entry.'

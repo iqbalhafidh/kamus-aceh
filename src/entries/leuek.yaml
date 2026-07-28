@@ -4,14 +4,54 @@ alt_spelling: []
 ipa: ''
 part_of_speech: ''
 definitions:
-- meaning_id: balam, perkutut
-  meaning_en: dove
-examples: []
+- meaning_id: balam
+  meaning_en: turtledove
+examples:
+- aceh: 'bangguna, sj balam yg menurut anggapan orang membawa rezeki kpd pemiliknya: sigo guk, balam yg
+    berkukur sekali, leuek putéh'
+  jawi: ''
+  id: balam yg berwarna putih
+  en: ''
+- aceh: peulôt leuek
+  jawi: ''
+  id: mengadu, menyabung balam
+  en: ''
+- aceh: boh leuek
+  jawi: ''
+  id: telur balam, tanda putih yg tumbuh pd hitam mata dan dapat menimbulkan kebutaan
+  en: ''
+- aceh: iku leuek
+  jawi: ''
+  id: ekor balam, bagian paling ujung pd penarah bajak (éh langai) yg menembusi batang bajak (boh langai)
+    tempat memasukkan ekor atau gagang bajak (go langai)
+  en: ''
+- aceh: reukeung atau reunèk leuek
+  jawi: ''
+  id: kerongkongan atau leher balam yg berwarna kurik, nama hiasan yg menyerupainya
+  en: ''
+- aceh: reuteuek leuek
+  jawi: ''
+  id: sj kacang yg sangat disukai balam
+  en: ''
+- aceh: meu leuek
+  jawi: ''
+  id: memelihara atau menangkap balam
+  en: ''
+- aceh: ureueng meu leuek
+  jawi: ''
+  id: menangkap balam
+  en: catch turtledove
 etymology: ''
-related_words: []
+related_words:
+- pileuek
 dialect_notes: ''
-source: 'Daud, Bukhari & Mark Durie. Kamus Basa Acèh = Kamus Bahasa Aceh: Acehnese–Indonesian–English Thesaurus.
-  Pacific Linguistics C-151, 1999, p. 106.'
-date_added: '2026-07-20'
+source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
+  Pendidikan dan Kebudayaan, 1985, hlm. 518'
+date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: ''
+extraction_notes: 'Homonym 1 in the source (printed as a superscript numeral before the headword). Jawi
+  left blank: the source is Latin-script only and no Jawi form is printed for this entry. Part of speech
+  not stated in the source; left blank. | Source gives this only as a cross-reference (→ pileuek); no
+  independent definition is printed, so meaning fields are left blank rather than guessed. Homonym 2 in
+  the source (printed as a superscript numeral before the headword). Jawi left blank: the source is Latin-script
+  only and no Jawi form is printed for this entry. Part of speech not stated in the source; left blank.'

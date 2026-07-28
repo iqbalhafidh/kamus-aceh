@@ -2,16 +2,39 @@ headword: kuboh
 jawi: ''
 alt_spelling: []
 ipa: ''
-part_of_speech: ''
+part_of_speech: n
 definitions:
-- meaning_id: buih, busa
-  meaning_en: foam
-examples: []
+- meaning_id: buih (dipermukaan cairan
+  meaning_en: ''
+- meaning_id: ludah)
+  meaning_en: spittle
+- meaning_id: gelembung-gelembung air atau cairan
+  meaning_en: bubbles in water or liquid
+examples:
+- aceh: gata ban kuboh 'iek gob, bèk lé narit!
+  jawi: ''
+  id: Anda baru menjadi buih kencing orang, jangan banyak cakap! (istilahlah melecehkan seseorang). Anda
+    masih muda sekali dan belum berpengalaman. Anda masih beringus atau hijau
+  en: 'You are still froth on another''s water, do not talk so much: you are young and green'
+- aceh: meu kuboh
+  jawi: ''
+  id: berbuih, bergelembung
+  en: foam, to blister
+- aceh: ie ka ju, meu kuboh kuboh
+  jawi: ''
+  id: Air sudah mendidih, sudah berbuih-buih
+  en: The water is boiling and frothing
+- aceh: peu kuboh
+  jawi: ''
+  id: membiarkan berbuih-buih
+  en: to allow foam foam
 etymology: ''
 related_words: []
-dialect_notes: ''
-source: 'Daud, Bukhari & Mark Durie. Kamus Basa Acèh = Kamus Bahasa Aceh: Acehnese–Indonesian–English Thesaurus.
-  Pacific Linguistics C-151, 1999, p. 94.'
-date_added: '2026-07-20'
+dialect_notes: 'Marked (dl hik) in the source: attested in hikayat, the classical Acehnese narrative verse
+  register.'
+source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
+  Pendidikan dan Kebudayaan, 1985, hlm. 459'
+date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: ''
+extraction_notes: 'Jawi left blank: the source is Latin-script only and no Jawi form is printed for this
+  entry.'

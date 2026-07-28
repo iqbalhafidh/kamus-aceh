@@ -1,17 +1,38 @@
 headword: lheue
 jawi: ''
-alt_spelling: []
+alt_spelling:
+- aneuk
 ipa: ''
-part_of_speech: ''
+part_of_speech: n
 definitions:
+- meaning_id: pesemaian
+  meaning_en: ''
+- meaning_id: tempat menyemai bibit
+  meaning_en: ''
 - meaning_id: gongseng
-  meaning_en: roast in pan
-examples: []
+  meaning_en: to roast
+- meaning_id: menggoreng sesuatu tanpa minyak
+  meaning_en: ''
+- meaning_id: lheue n sejenis ikan laut yang kecil-kecil
+  meaning_en: a kind of very small sea fish
+examples:
+- aceh: lheue seuneulông
+  jawi: ''
+  id: tempat pesemaian padi (kering atau basah) yg dicabut setelah berumur beberapa hari utk ditanam di
+    sawah, neuduek
+  en: ''
 etymology: ''
-related_words: []
+related_words:
+- lhông
 dialect_notes: ''
-source: 'Daud, Bukhari & Mark Durie. Kamus Basa Acèh = Kamus Bahasa Aceh: Acehnese–Indonesian–English Thesaurus.
-  Pacific Linguistics C-151, 1999, p. 70.'
-date_added: '2026-07-20'
+source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
+  Pendidikan dan Kebudayaan, 1985, hlm. 535'
+date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: ''
+extraction_notes: 'English gloss left blank: no confident translation of the Indonesian definition was
+  available. Homonym 1 in the source (printed as a superscript numeral before the headword). Jawi left
+  blank: the source is Latin-script only and no Jawi form is printed for this entry. | Homonym 2 in the
+  source (printed as a superscript numeral before the headword). Jawi left blank: the source is Latin-script
+  only and no Jawi form is printed for this entry. | Homonym 3 in the source (printed as a superscript
+  numeral before the headword). Jawi left blank: the source is Latin-script only and no Jawi form is printed
+  for this entry. Part of speech not stated in the source; left blank.'

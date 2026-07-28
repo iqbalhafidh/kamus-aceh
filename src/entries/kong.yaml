@@ -1,19 +1,92 @@
----
-headword: "kong"
-jawi: ""
-alt_spelling: []
-ipa: "/kɔŋ/"
-part_of_speech: "n"
-language_uncertain: false
+headword: kông
+jawi: ''
+alt_spelling:
+- bieng
+- kong
+ipa: ''
+part_of_speech: a
 definitions:
-  - meaning_id: "ruangan di bagian depan kapal, difungsikan sebagai tempat istirahat pelaut"
-    meaning_en: ""
+- meaning_id: menubruk
+  meaning_en: to collide with
+- meaning_id: menumbuk
+  meaning_en: to pound
+- meaning_id: mendorong (terutama dengan kepala
+  meaning_en: ''
+- meaning_id: kông sejenis kepiting darat yang tidak dapat dimakan
+  meaning_en: ''
+- meaning_id: kuat, kokoh
+  meaning_en: strong, sturdy
+- meaning_id: mendukung
+  meaning_en: to carry
+- meaning_id: memikul di punggung
+  meaning_en: ''
+- meaning_id: (umpamanya anak kecil atau orang yang sakit)
+  meaning_en: for instance a small child or a sick person
+- meaning_id: menyuruh dukung bergantung pada punggung orang lain
+  meaning_en: ''
 examples:
-  []
-etymology: ""
-related_words: []
-dialect_notes: ""
-source: "Kamus Bahasa Aceh Daring (Balai Bahasa Provinsi Aceh), 'Entri huruf — kong', URL: https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/K?page=5 (diakses 20 Juli 2026)"
-date_added: "2026-07-20"
-contributor: "AI-extracted — needs human review"
-extraction_notes: "Diekstrak dari 1 halaman sumber (https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/K?page=5). Tidak ada bentuk Jawi dalam sumber — dibiarkan kosong sesuai aturan."
+- aceh: taikat bak kong
+  jawi: ''
+  id: Ikatlah kuat-kuat
+  en: Tie it firmly
+- aceh: ka kong silueue
+  jawi: ''
+  id: hfr sudah kuat mengikat celanannya, Ia sudah pandai bercelana. (untuk menyatakan usia seorang gadis,
+    kira-kira 8 tahun)
+  en: '(literally) she can tie her trousers firmly: said of a girl of about eight'
+- aceh: ka kong ija pinggang
+  jawi: ''
+  id: hrf sudah kuat mengikat kain sarungnya, (untuk menyatakan usia seorang anak laki-laki, kiki-ra-kira
+    10 tahun)
+  en: '(literally) he can tie his sarong firmly: said of a boy of about ten'
+- aceh: ka kong narit
+  jawi: ''
+  id: hrf sudah diperkuat pembicaraan, Pinangannya sudah disetujui sehingga perkawinan dapat dilangsungkan
+  en: '(literally) the talk has been made firm: the proposal is accepted and the marriage may go ahead'
+- aceh: tanda kong narit
+  jawi: ''
+  id: tanda sudah dicapainya kata sepakat utk melangsungkan perkawinan, yi hadiah pengantin laki-laki
+    kpd calon pengantin wanita
+  en: ''
+- aceh: peu kong
+  jawi: ''
+  id: memperkuat dsb
+  en: strong and so forth
+- aceh: peu kong narit
+  jawi: ''
+  id: memperkuat atau mempertegas persetujuan tt akan dilangsungkannya perkawinan
+  en: ''
+- aceh: lôn kong ureueng sakét
+  jawi: ''
+  id: Saya mendukung orang sakit
+  en: I to carry person sick
+- aceh: meu kong, teu kong
+  jawi: ''
+  id: didukung
+  en: carried
+- aceh: peu kong
+  jawi: ''
+  id: menyuruh dukung, bergantung di punggung seseorang
+  en: ''
+etymology: ''
+related_words:
+- kông
+- dukong
+dialect_notes: ''
+source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
+  Pendidikan dan Kebudayaan, 1985, hlm. 445, 446'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+extraction_notes: 'Homonym 1 in the source (printed as a superscript numeral before the headword). Jawi
+  left blank: the source is Latin-script only and no Jawi form is printed for this entry. Part of speech
+  not stated in the source; left blank. | English gloss left blank: no confident translation of the Indonesian
+  definition was available. Homonym 2 in the source (printed as a superscript numeral before the headword).
+  Jawi left blank: the source is Latin-script only and no Jawi form is printed for this entry. Part of
+  speech not stated in the source; left blank. | Source gives this only as a cross-reference (→ kông);
+  no independent definition is printed, so meaning fields are left blank rather than guessed. Homonym
+  3 in the source (printed as a superscript numeral before the headword). Jawi left blank: the source
+  is Latin-script only and no Jawi form is printed for this entry. Part of speech not stated in the source;
+  left blank. | Homonym 1 in the source (printed as a superscript numeral before the headword). Jawi left
+  blank: the source is Latin-script only and no Jawi form is printed for this entry. | Homonym 2 in the
+  source (printed as a superscript numeral before the headword). Jawi left blank: the source is Latin-script
+  only and no Jawi form is printed for this entry.'

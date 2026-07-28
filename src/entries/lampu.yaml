@@ -2,18 +2,45 @@ headword: lampu
 jawi: ''
 alt_spelling: []
 ipa: ''
-part_of_speech: ''
+part_of_speech: n
 definitions:
-- meaning_id: lampu
-  meaning_en: lamp
-examples: []
+- meaning_id: v
+  meaning_en: ''
+- meaning_id: lampu, lampu minyak tanah
+  meaning_en: lamp, lamp oil earth
+examples:
+- aceh: 'peu lampu, mengepung (terutama ikan-ikan yg keluar dr pukat yg telah penuh dan belum lagi ditarik
+    ke darat (ki) melindungi: bah lôn lampu gata lam atana'
+  jawi: ''
+  id: Biarlah saya melindungi Anda di istana
+  en: Let me shelter you in the palace
+- aceh: tapeu lampu pukat raya nyan!
+  jawi: ''
+  id: Kepunlah pukat besar itu
+  en: Draw in that great net
+- aceh: neupeu lampu lôn ya Tuhanku nibak baya nyoe
+  jawi: ''
+  id: Lindungilah saya, ya Tuhanku, dr bahaya ini
+  en: Shelter me, O my Lord, from this danger
+- aceh: meu lampu
+  jawi: ''
+  id: dikepung, dikelilingi, melakukan lampu
+  en: to besiege, around, to perform lamp
+- aceh: meu lampu
+  jawi: ''
+  id: berlampu, memiliki lampu, dng lampu
+  en: ''
 etymology: ''
 related_words:
-- panyat
+- panyot
 dialect_notes: ''
-source: 'Daud, Bukhari & Mark Durie. Kamus Basa Acèh = Kamus Bahasa Aceh: Acehnese–Indonesian–English Thesaurus.
-  Pacific Linguistics C-151, 1999, p. 79.'
-date_added: '2026-07-20'
+source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
+  Pendidikan dan Kebudayaan, 1985, hlm. 495'
+date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: PDF text-layer mismatch in the Acehnese form; copied from the searchable PDF text layer and needs
-  visual verification against printed p. 79.
+extraction_notes: 'English gloss left blank: no confident translation of the Indonesian definition was
+  available. Homonym 1 in the source (printed as a superscript numeral before the headword). Jawi left
+  blank: the source is Latin-script only and no Jawi form is printed for this entry. Part of speech not
+  stated in the source; left blank. | Homonym 2 in the source (printed as a superscript numeral before
+  the headword). Jawi left blank: the source is Latin-script only and no Jawi form is printed for this
+  entry.'

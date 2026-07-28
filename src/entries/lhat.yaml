@@ -4,14 +4,67 @@ alt_spelling: []
 ipa: ''
 part_of_speech: ''
 definitions:
-- meaning_id: sangkut
-  meaning_en: hang on something
-examples: []
+- meaning_id: menggantungkan sesuatu pada mengait (umpamanya pakaian)
+  meaning_en: ''
+- meaning_id: mencucukkan
+  meaning_en: to prick
+- meaning_id: menyelipkan sesuatu pada atau di antara sesuatu (umpamanya pisau)
+  meaning_en: ''
+- meaning_id: ureueng lhat
+  meaning_en: ''
+examples:
+- aceh: sikin
+  jawi: ''
+  id: menyelipkan pisau di pinggang
+  en: ''
+- aceh: bungong bak ôk
+  jawi: ''
+  id: menyematkan bunga di rambut
+  en: ''
+- aceh: bak geunantung
+  jawi: ''
+  id: menggantungkan sesuatu pd pengaitnya
+  en: ''
+- aceh: bak bintéh
+  jawi: ''
+  id: menggantungkan sesuatu pd dinding
+  en: ''
+- aceh: panyot lhat
+  jawi: ''
+  id: lampu tempel
+  en: ''
+- aceh: meu lhat, teu lhat
+  jawi: ''
+  id: bergantung, digantung
+  en: ''
+- aceh: peu lhat
+  jawi: ''
+  id: = lhat, menyuruh lhat
+  en: to have something lhat
+- aceh: neu lhat, seuneulat
+  jawi: ''
+  id: pengait, tempat mengait, menggantungkan sesuatu
+  en: ''
+- aceh: seuneulat tima
+  jawi: ''
+  id: tiang yg dipancangkan di tanah, tempat menggantungkan timba air
+  en: ''
+- aceh: 'n perompak, dianggap berasal dr sebuah tempat atau negeri di seberang lautan yg tidak dikenal,
+    bernama Lhat: biek bangsa lhat ureueng Lanun, peue jiteumeung jicang lanja, Mereka itu spt perompak-perompak
+    Lhat dan Lanup'
+  jawi: ''
+  id: yg mencengceng-ceng apa yg mereka temukan
+  en: ''
 etymology: ''
 related_words: []
 dialect_notes: ''
-source: 'Daud, Bukhari & Mark Durie. Kamus Basa Acèh = Kamus Bahasa Aceh: Acehnese–Indonesian–English Thesaurus.
-  Pacific Linguistics C-151, 1999, p. 44.'
-date_added: '2026-07-20'
+source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
+  Pendidikan dan Kebudayaan, 1985, hlm. 534'
+date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: ''
+extraction_notes: 'Homonym 1 in the source (printed as a superscript numeral before the headword). Jawi
+  left blank: the source is Latin-script only and no Jawi form is printed for this entry. Part of speech
+  not stated in the source; left blank. | English gloss left blank: no confident translation of the Indonesian
+  definition was available. Homonym 2 in the source (printed as a superscript numeral before the headword).
+  Jawi left blank: the source is Latin-script only and no Jawi form is printed for this entry. Part of
+  speech not stated in the source; left blank.'

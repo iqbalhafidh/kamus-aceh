@@ -2,18 +2,38 @@ headword: leumak
 jawi: ''
 alt_spelling: []
 ipa: ''
-part_of_speech: ''
+part_of_speech: a
 definitions:
-- meaning_id: kue
-  meaning_en: k.o. cake
-- meaning_id: lemak
-  meaning_en: rich, greasy (of food)
-examples: []
+- meaning_id: lemak, berlemak (rasanya seperti santan)
+  meaning_en: fat, fat (its taste like coconut milk)
+examples:
+- aceh: buleumak
+  jawi: ''
+  id: nasi lemak (beras yg dimasak dng santan)
+  en: cooked rice fat (husked rice which cook with coconut milk)
+- aceh: gulêleumak
+  jawi: ''
+  id: sayur lemak
+  en: vegetable fat
+- aceh: manêh
+  jawi: ''
+  id: lemah manis, (ki) ramah-tamah, (ki) enak, sedap
+  en: ''
+- aceh: u bêk beukah, kuah beuleumak
+  jawi: ''
+  id: Kelapa jangan dibelah (utk mengambil santannya), tetapi kuahnya harus lemak, (ki) tanpa usaha tetapi
+    memperoleh keuntungan yg sebanyak-banyaknya
+  en: 'The coconut is not to be split, yet the broth must be rich: to want the greatest gain without effort'
+- aceh: peuleumak
+  jawi: ''
+  id: membuat sehinggaleumak, memasak lemak, (ki) membuat ot orang lain enak
+  en: ''
 etymology: ''
 related_words: []
 dialect_notes: ''
-source: 'Daud, Bukhari & Mark Durie. Kamus Basa Acèh = Kamus Bahasa Aceh: Acehnese–Indonesian–English Thesaurus.
-  Pacific Linguistics C-151, 1999, p. 72; p. 73.'
-date_added: '2026-07-20'
+source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
+  Pendidikan dan Kebudayaan, 1985, hlm. 523'
+date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: ''
+extraction_notes: 'Jawi left blank: the source is Latin-script only and no Jawi form is printed for this
+  entry.'

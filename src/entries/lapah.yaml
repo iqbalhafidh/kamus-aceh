@@ -2,17 +2,39 @@ headword: lapah
 jawi: ''
 alt_spelling: []
 ipa: ''
-part_of_speech: ''
+part_of_speech: v
 definitions:
-- meaning_id: memotong (daging) besar-besar
-  meaning_en: butcher (livestock)
-examples: []
+- meaning_id: lapah, memotong daging hewan yang telah disembelih menjadi potongan-potongan besar, menguliti
+  meaning_en: to flay, to cut the meat of a slaughtered animal into large pieces, skin to
+examples:
+- aceh: sie si lapah, selapah daging, lapah sie
+  jawi: ''
+  id: lapahkan daging!
+  en: ''
+- aceh: ka lheueh geu lapah keubeue geusie bunoe?
+  jawi: ''
+  id: Sudahkah kerbau yg disembelih tadi dikuliti dan dipotong-potong?
+  en: Has the slaughtered buffalo been skinned and cut up?
+- aceh: meu lapah, teu lapah
+  jawi: ''
+  id: dilapah, dipotong-potong dng sayatan besar
+  en: ''
+- aceh: meu lapah
+  jawi: ''
+  id: melakukan lapah
+  en: to perform to flay
+- aceh: peu lapah
+  jawi: ''
+  id: menyuruh lapah
+  en: to order to flay
 etymology: ''
-related_words: []
+related_words:
+- ireh
+- layang
 dialect_notes: ''
-source: 'Daud, Bukhari & Mark Durie. Kamus Basa Acèh = Kamus Bahasa Aceh: Acehnese–Indonesian–English Thesaurus.
-  Pacific Linguistics C-151, 1999, p. 41.'
-date_added: '2026-07-20'
+source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
+  Pendidikan dan Kebudayaan, 1985, hlm. 503'
+date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: PDF text-layer mismatch in the Acehnese form; copied from the searchable PDF text layer and needs
-  visual verification against printed p. 41.
+extraction_notes: 'Jawi left blank: the source is Latin-script only and no Jawi form is printed for this
+  entry.'

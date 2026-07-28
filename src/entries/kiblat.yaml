@@ -2,16 +2,38 @@ headword: kiblat
 jawi: ''
 alt_spelling: []
 ipa: ''
-part_of_speech: ''
+part_of_speech: n
 definitions:
 - meaning_id: kiblat
-  meaning_en: direction of Mecca
-examples: []
+  meaning_en: qibla
+- meaning_id: arah ke Ka'bah
+  meaning_en: direction to Kaaba
+- meaning_id: mata angin
+  meaning_en: wind eye
+- meaning_id: sebagai kiasan arah untuk menetapkan pikiran atau sesuatu yang harus dipatuhi
+  meaning_en: ''
+examples:
+- aceh: nyang narit droeneu ateu-eh buet nyan, hana maklum ulôn-tuan, malingkan keu déh kiblat droeneu
+    bak si Pulan
+  jawi: ''
+  id: Saya tidak maklum mengenai hal yg telah Anda katakan itu, tetapi tunjukkanlah hal itu kepada si
+    Polan
+  en: I know nothing of what you have said; put it to so-and-so
+- aceh: lon bak droeneu
+  jawi: ''
+  id: Anda adalah pelindung saya
+  en: You are my protector
+- aceh: naga di bumoe sithôn peuet kiblat
+  jawi: ''
+  id: (menurut ilmu kutika) setahun naga berada di bumi pd empat mata angin
+  en: (by the science of auspicious times) for a year the dragon lies on the earth at the four cardinal
+    points
 etymology: ''
 related_words: []
 dialect_notes: ''
-source: 'Daud, Bukhari & Mark Durie. Kamus Basa Acèh = Kamus Bahasa Aceh: Acehnese–Indonesian–English Thesaurus.
-  Pacific Linguistics C-151, 1999, p. 87.'
-date_added: '2026-07-20'
+source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
+  Pendidikan dan Kebudayaan, 1985, hlm. 429'
+date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: ''
+extraction_notes: 'Jawi left blank: the source is Latin-script only and no Jawi form is printed for this
+  entry.'

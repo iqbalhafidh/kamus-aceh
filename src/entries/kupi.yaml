@@ -11,7 +11,11 @@ definitions:
 - meaning_id: teupông
   meaning_en: ''
 - meaning_id: atau
-  meaning_en: ''
+  meaning_en: or
+- meaning_id: kahwa
+  meaning_en: coffee
+- meaning_id: biasanya dikatakan untuk biji kopi yang telah digiling atau ditumbuk, juga minuman kopi
+  meaning_en: usually said of coffee beans that have been ground or pounded, also drink coffee
 examples:
 - aceh: bubôk kupi
   jawi: ''
@@ -29,8 +33,9 @@ etymology: ''
 related_words: []
 dialect_notes: ''
 source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
-  Pendidikan dan Kebudayaan, 1985, hlm. 365'
+  Pendidikan dan Kebudayaan, 1985, hlm. 365, 472'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
 extraction_notes: 'Jawi left blank: the source is Latin-script only and no Jawi form is printed for this
-  entry.'
+  entry. | Jawi left blank: the source is Latin-script only and no Jawi form is printed for this entry.
+  Part of speech not stated in the source; left blank.'

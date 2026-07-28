@@ -2,16 +2,61 @@ headword: kuta
 jawi: ''
 alt_spelling: []
 ipa: ''
-part_of_speech: ''
+part_of_speech: n
 definitions:
-- meaning_id: kota
-  meaning_en: town, city
-examples: []
+- meaning_id: kubu, pertahanan
+  meaning_en: stockade, defence
+examples:
+- aceh: raja
+  jawi: ''
+  id: pertahanan raja, tempat kediaman raja yg dipertahankan, nama ibu kota daerah Aceh sejak akhir bulan
+    Januari 1984 sampai akhir tahun 1962
+  en: ''
+- aceh: peuet sagoe
+  jawi: ''
+  id: pertahanan empat segi
+  en: defence four facet
+- aceh: reuntang
+  jawi: ''
+  id: pertahanan, terdiri hanya sebuah dinding yg lurus, kubu yg terbentang panjang
+  en: ''
+- aceh: jak
+  jawi: ''
+  id: '''kubu berjalan'', kulit kerbau kering yg dipergunakan utk melindungi diri oleh beberapa orang
+    jika menyerbu musuh, sj atap perisai atau atap penyerbu'
+  en: 'a walking stockade: dried buffalo hide used as cover by several men attacking an enemy, a kind
+    of shield roof'
+- aceh: mara
+  jawi: ''
+  id: '''perlindungan thd marabahaya., kubu pertahanan dl arti kata umum'
+  en: protection against danger; a defensive stockade in the general sense
+- aceh: bungong apui
+  jawi: ''
+  id: hrf kubu kembang api, yi api unggun yg dibakar pd malam-malam keramaian
+  en: '(literally) a firework stockade: the bonfire lit on festival nights'
+- aceh: meu kuta
+  jawi: ''
+  id: memperbuat pertahanan, memperkuat diri, (ki) mencari perlindungan
+  en: ''
+- aceh: lôn meu kuta bak droeneu
+  jawi: ''
+  id: Saya mencari perlindungan pd Anda
+  en: I seek shelter with you
+- aceh: tatanyong sigo, pat jimeu kuta
+  jawi: ''
+  id: '? Tanyakan sebentar, di manakah ia membuat pertahanannya?'
+  en: 'Ask a moment: where has he built his stockade?'
+- aceh: peu kuta
+  jawi: ''
+  id: memperkuat, ki menganggap sbg perlindungan
+  en: ''
 etymology: ''
-related_words: []
+related_words:
+- banda
 dialect_notes: ''
-source: 'Daud, Bukhari & Mark Durie. Kamus Basa Acèh = Kamus Bahasa Aceh: Acehnese–Indonesian–English Thesaurus.
-  Pacific Linguistics C-151, 1999, p. 91.'
-date_added: '2026-07-20'
+source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
+  Pendidikan dan Kebudayaan, 1985, hlm. 476'
+date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: ''
+extraction_notes: 'Jawi left blank: the source is Latin-script only and no Jawi form is printed for this
+  entry.'

@@ -1,17 +1,31 @@
-headword: larang
+headword: Larang
 jawi: ''
 alt_spelling: []
 ipa: ''
-part_of_speech: ''
+part_of_speech: n
 definitions:
-- meaning_id: melarang, larangan
-  meaning_en: forbid, prohibit
-examples: []
+- meaning_id: larangan, melarang
+  meaning_en: forbid, to forbid
+examples:
+- aceh: tōb Larang
+  jawi: ''
+  id: mengeluarkan peratur-n larangan, membenarkan orang melakukan sesuatu
+  en: ''
+- aceh: buta Larangan
+  jawi: ''
+  id: tidak dapat melihat pd waktu malam, buta malam, buta cemek, yi dng biji mata tidak cedera
+  en: ''
+- aceh: lam uteuen Larangan ureueng h'an jeuet koh kayèe
+  jawi: ''
+  id: larangan di hutan tidak dibenarkan orang memotong kayu
+  en: ''
 etymology: ''
 related_words: []
-dialect_notes: ''
-source: 'Daud, Bukhari & Mark Durie. Kamus Basa Acèh = Kamus Bahasa Aceh: Acehnese–Indonesian–English Thesaurus.
-  Pacific Linguistics C-151, 1999, p. 21.'
-date_added: '2026-07-20'
+dialect_notes: 'Marked (dl hik) in the source: attested in hikayat, the classical Acehnese narrative verse
+  register.'
+source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
+  Pendidikan dan Kebudayaan, 1985, hlm. 505'
+date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: ''
+extraction_notes: 'Jawi left blank: the source is Latin-script only and no Jawi form is printed for this
+  entry.'

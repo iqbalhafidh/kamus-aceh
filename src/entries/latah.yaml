@@ -2,16 +2,24 @@ headword: latah
 jawi: ''
 alt_spelling: []
 ipa: ''
-part_of_speech: ''
+part_of_speech: a
 definitions:
 - meaning_id: latah
-  meaning_en: sensitive, touchy
+  meaning_en: startle-mimicry
+- meaning_id: sejenis penyakit saraf yang menyebabkan seseorang terkejut
+  meaning_en: ''
+- meaning_id: dikejutkan
+  meaning_en: startled
+- meaning_id: melakukan atau meniru tindakan atau perkataan seseorang dg cara tidak disengaja shg menderita
+    penyakit latah
+  meaning_en: to imitate another's acts or words involuntarily, as in the latah affliction
 examples: []
 etymology: ''
 related_words: []
 dialect_notes: ''
-source: 'Daud, Bukhari & Mark Durie. Kamus Basa Acèh = Kamus Bahasa Aceh: Acehnese–Indonesian–English Thesaurus.
-  Pacific Linguistics C-151, 1999, p. 32.'
-date_added: '2026-07-20'
+source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
+  Pendidikan dan Kebudayaan, 1985, hlm. 507'
+date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: ''
+extraction_notes: 'Jawi left blank: the source is Latin-script only and no Jawi form is printed for this
+  entry.'

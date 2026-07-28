@@ -1,26 +1,35 @@
 headword: lah
 jawi: ''
-alt_spelling:
-- gajah
-- putih
+alt_spelling: []
 ipa: ''
-part_of_speech: ''
+part_of_speech: a
 definitions:
-- meaning_id: '*'
+- meaning_id: laih menyesali diri
   meaning_en: ''
+- meaning_id: km, utunglah
+  meaning_en: because, fortunately
 examples:
-- aceh: duek, pasang*
+- aceh: droe
   jawi: ''
-  id: ''
+  id: menyesali diri
   en: ''
+- aceh: hana guna ta lah droe jinoe!
+  jawi: ''
+  id: Tak ada gunanya Anda
+  en: It is no use for you
+- aceh: droeneu h' an lôn poh, Km Andalah saya tidak memukul, lah na nyoe, adat h' an, ka maté lôn
+  jawi: ''
+  id: Untunglah ada (pedang) ini, jika tidak saya sudah mati (sekarang)
+  en: Luckily I had this sword, or I would be dead by now
 etymology: ''
 related_words: []
 dialect_notes: ''
-source: 'Kamus Aceh-Indonesia (extracted from pp.124-270 of the source edition, Acehnese section entries
-  cèm-unyèn through gutie/H). File: markdown.md supplied by the user. — p.240'
+source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
+  Pendidikan dan Kebudayaan, 1985, hlm. 485, 486'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: Part of speech not explicitly marked in source. Indonesian example translations are
-  taken verbatim from the source. English meanings and Jawi transliterations are AI-flagged as unverified
-  and need human review. Jawi transliteration is AI-generated, not from source — needs verification by
-  a Jawi-literate reviewer.
+extraction_notes: 'English gloss left blank: no confident translation of the Indonesian definition was
+  available. Homonym 1 in the source (printed as a superscript numeral before the headword). Jawi left
+  blank: the source is Latin-script only and no Jawi form is printed for this entry. | Homonym 2 in the
+  source (printed as a superscript numeral before the headword). Jawi left blank: the source is Latin-script
+  only and no Jawi form is printed for this entry.'

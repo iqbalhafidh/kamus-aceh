@@ -1,0 +1,46 @@
+headword: kiet
+jawi: ''
+alt_spelling: []
+ipa: ''
+part_of_speech: n
+definitions:
+- meaning_id: kiat
+  meaning_en: knack
+- meaning_id: cara
+  meaning_en: way
+- meaning_id: sesuatu yang tersembunyi
+  meaning_en: ''
+- meaning_id: rahasia
+  meaning_en: secret
+- meaning_id: menyatakan sesuatu secara sembunyi-sembunyi
+  meaning_en: ''
+examples:
+- aceh: ka lôn tapeue kiet
+  jawi: ''
+  id: Saya sudah tahu kiatnya
+  en: I know the knack of it
+- aceh: peue kiet narit nyan?
+  jawi: ''
+  id: Apakah maksud yang tersembunyi dalam perkataannya itu?
+  en: What is the hidden meaning in his words?
+- aceh: peue kiet jijak kalon kalon rumoh geutanyoe?
+  jawi: ''
+  id: Maksud tersembunyi apakah ia datang melihat-lihat rumah kita?
+  en: With what hidden purpose does he come looking at our house?
+- aceh: jijak luem kiet
+  jawi: ''
+  id: Ia pergi mengintip sesuatu
+  en: he go to peep something
+- aceh: ta kiet mantong
+  jawi: ''
+  id: Beritahukanlah secara tersembunyi
+  en: Tell it privately
+etymology: ''
+related_words: []
+dialect_notes: ''
+source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
+  Pendidikan dan Kebudayaan, 1985, hlm. 429'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+extraction_notes: 'Jawi left blank: the source is Latin-script only and no Jawi form is printed for this
+  entry.'

@@ -1,17 +1,33 @@
 headword: landah
 jawi: ''
-alt_spelling: []
+alt_spelling:
+- landaih
 ipa: ''
-part_of_speech: ''
+part_of_speech: n
 definitions:
-- meaning_id: paron
+- meaning_id: landasan, paron
   meaning_en: anvil
-examples: []
+examples:
+- aceh: geutangi
+  jawi: ''
+  id: landasan yg terdiri dr sebatang besi, berbentuk miring dng penompong di tengah tempat menempa cincin
+  en: ''
+- aceh: meulungkè
+  jawi: ''
+  id: landasan bertajuk besi dua yg menyerupai tanduk
+  en: ''
+- aceh: palèe, lhèe ngon seupet
+  jawi: ''
+  id: landasan, palu, yg ketiga penyepit (merupakan alatalat perlengkapan seorang tukang)
+  en: ''
 etymology: ''
-related_words: []
+related_words:
+- amak
+- arèng
 dialect_notes: ''
-source: 'Daud, Bukhari & Mark Durie. Kamus Basa Acèh = Kamus Bahasa Aceh: Acehnese–Indonesian–English Thesaurus.
-  Pacific Linguistics C-151, 1999, p. 66.'
-date_added: '2026-07-20'
+source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
+  Pendidikan dan Kebudayaan, 1985, hlm. 497'
+date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: ''
+extraction_notes: 'Jawi left blank: the source is Latin-script only and no Jawi form is printed for this
+  entry.'

@@ -1,0 +1,53 @@
+headword: ladém
+jawi: ''
+alt_spelling:
+- lazém
+ipa: ''
+part_of_speech: a
+definitions:
+- meaning_id: harus
+  meaning_en: must
+- meaning_id: perlu
+  meaning_en: necessary
+- meaning_id: lazim
+  meaning_en: customary
+- meaning_id: biasa
+  meaning_en: usual
+- meaning_id: selalu
+  meaning_en: always
+- meaning_id: sudah menjadi adat kebiasaan
+  meaning_en: ''
+examples:
+- aceh: jonoe ladém tajak lom, h'an jeuet h'an
+  jawi: ''
+  id: Sekarang kita berwajibkan pergi lagi, tak boleh tidak
+  en: Now we are obliged to go again, there is no help for it
+- aceh: meungnyo puleh aneuk lôn nibak sakét nyoe, ladém ateueh lôn lôn sie kamèng bak kubu Teungku Siah
+    Kuala
+  jawi: ''
+  id: Jika anak saya sembuh dr penyakit ini, saya wajib menyembelih kambing pd pusara TSK
+  en: If my child recovers from this illness I must slaughter a goat at the tomb of TSK
+- aceh: pubuet ladém that tajak keu nan?
+  jawi: ''
+  id: Utk apakah Anda selalu pergi ke situ?
+  en: Why do you keep going there?
+- aceh: keureuna buet hana ladém, na tom geukhêm teungoh geu-moe?
+  jawi: ''
+  id: Perbuatan Anda itu tidak biasa, adakah orang tertawa seraya menangis?
+  en: What you do is not usual; does anyone laugh and weep at once?
+- aceh: awalu kutubi'at, peu nyang ladém, nyan nyang mangat
+  jawi: ''
+  id: (pb) ... (bhg pertama dimaksudkan supaya beranjak saja), sesuatu yg sudah menjadi kebiasaan itulah
+    yg menyenangkan, atau kebiasaan menjadikan tabiat seseorang, apa yg telah menjadi kebiasaan itulah
+    yg baik, lebih baik mengikuti adat
+  en: (proverb) what has become habit is what pleases; habit makes a person's character, and it is better
+    to follow custom
+etymology: ''
+related_words: []
+dialect_notes: ''
+source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
+  Pendidikan dan Kebudayaan, 1985, hlm. 482'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+extraction_notes: 'Jawi left blank: the source is Latin-script only and no Jawi form is printed for this
+  entry.'

@@ -1,0 +1,51 @@
+headword: kusuih
+jawi: ''
+alt_spelling:
+- khusuih
+ipa: ''
+part_of_speech: a
+definitions:
+- meaning_id: khusus
+  meaning_en: special
+- meaning_id: semata-mata
+  meaning_en: eye eye
+- meaning_id: tidak pasti
+  meaning_en: ''
+- meaning_id: benar sekali
+  meaning_en: right very
+- meaning_id: terutama
+  meaning_en: chiefly
+- meaning_id: menjelaskan
+  meaning_en: to explain
+- meaning_id: menceritakan hingga kepada yang sekecil-kecilnya
+  meaning_en: ''
+- meaning_id: memeriksa
+  meaning_en: to examine
+examples:
+- aceh: haba nyoe hana kusuih
+  jawi: ''
+  id: Khabar ini tidak pasti, tidak khusus, atau disangsikan kebenaran-nya
+  en: This report is uncertain, unspecific, its truth in doubt
+- aceh: cuba tak kusuih bak abêh
+  jawi: ''
+  id: Coba, Anda jelaskan semua sampai kpd yg sekecil-kecilnya
+  en: Explain it all down to the smallest detail
+- aceh: meu kusuih, dijela skan ka lheueh meu kusuih
+  jawi: ''
+  id: sudah dijelaskan atau dipastikan
+  en: ''
+- aceh: peu kusuih
+  jawi: ''
+  id: = kusuih, menyuruh kusuih
+  en: to have something rubbed
+etymology: ''
+related_words:
+- kheueh
+- kiseueh
+dialect_notes: ''
+source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
+  Pendidikan dan Kebudayaan, 1985, hlm. 475'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+extraction_notes: 'Jawi left blank: the source is Latin-script only and no Jawi form is printed for this
+  entry.'

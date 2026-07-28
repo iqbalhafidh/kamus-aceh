@@ -1,0 +1,33 @@
+headword: kôngsi
+jawi: ''
+alt_spelling:
+- kônsi
+ipa: ''
+part_of_speech: n
+definitions:
+- meaning_id: kongsi
+  meaning_en: partnership
+- meaning_id: perkongsian
+  meaning_en: partnership
+- meaning_id: perkumpulan dagang
+  meaning_en: ''
+examples:
+- aceh: gobnyan kôngsi lôn
+  jawi: ''
+  id: Ia kongsi saya. Ia berkongsi dng saya
+  en: He is my partner
+- aceh: meu kôngsi
+  jawi: ''
+  id: berkongsi, berdagang bersama-sama membentuk perkongsian
+  en: to be in partnership, to trade together
+etymology: ''
+related_words:
+- carikat
+- engko
+dialect_notes: ''
+source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
+  Pendidikan dan Kebudayaan, 1985, hlm. 446'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+extraction_notes: 'Jawi left blank: the source is Latin-script only and no Jawi form is printed for this
+  entry.'

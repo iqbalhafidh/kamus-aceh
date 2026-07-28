@@ -1,0 +1,46 @@
+headword: lèh
+jawi: ''
+alt_spelling: []
+ipa: ''
+part_of_speech: ''
+definitions:
+- meaning_id: tekanan yang menyerupai -lah
+  meaning_en: ''
+- meaning_id: dipergunakan hanya sesudah jak
+  meaning_en: used only after jak
+- meaning_id: jika dihilangkan jak sebelum kata kerja lain berarti
+  meaning_en: if jak is dropped before another verb it means
+examples:
+- aceh: jak lèh
+  jawi: ''
+  id: pergilah
+  en: go
+- aceh: 'tajak lèh gata, pergilah Anda: jak-la ju'
+  jawi: ''
+  id: pergilah segera
+  en: go at once
+- aceh: jak lèh jak!
+  jawi: ''
+  id: pergilah, pergi!
+  en: ''
+- aceh: jak
+  jawi: ''
+  id: mari, pergilah
+  en: come, go
+- aceh: pubuet
+  jawi: ''
+  id: mari, berbuatlah, buatlah
+  en: ''
+- aceh: malam ka jula
+  jawi: ''
+  id: Mari, tidurlah, malam sudah larut
+  en: Come, sleep, the night is far gone
+etymology: ''
+related_words: []
+dialect_notes: ''
+source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
+  Pendidikan dan Kebudayaan, 1985, hlm. 513'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+extraction_notes: 'Jawi left blank: the source is Latin-script only and no Jawi form is printed for this
+  entry. Part of speech not stated in the source; left blank.'

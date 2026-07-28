@@ -1,0 +1,31 @@
+headword: ladôm
+jawi: ''
+alt_spelling:
+- ladum
+- ladôb
+- ladub
+ipa: ''
+part_of_speech: adv
+definitions:
+- meaning_id: sebagian, di antaranya, beberapa
+  meaning_en: for, at between, several
+examples:
+- aceh: ureueng hana lêt geupa joh eungkot nyan
+  jawi: ''
+  id: Di antara orang-orang, ada yg tidak suka makan ikan itu
+  en: Among people there are some who do not like to eat that fish
+- aceh: rumoh mupalang, ladôm hana, Di antara rumah-rumah, ada zg sumurnya berdinding, yg lainnya tidak,
+    pakon tabagi ladôm na ladôm tan
+  jawi: ''
+  id: '? Mengapa Anda membagi kpd orang, yg lainnya tidak'
+  en: Why do you give to one and not to the others?
+etymology: ''
+related_words:
+- dum
+dialect_notes: ''
+source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
+  Pendidikan dan Kebudayaan, 1985, hlm. 483'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+extraction_notes: 'Jawi left blank: the source is Latin-script only and no Jawi form is printed for this
+  entry.'

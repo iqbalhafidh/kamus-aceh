@@ -1,19 +1,33 @@
----
-headword: "lamat"
-jawi: ""
+headword: lamat
+jawi: ''
 alt_spelling: []
-ipa: "/la.mat/"
-part_of_speech: "n"
-language_uncertain: false
+ipa: ''
+part_of_speech: n
 definitions:
-  - meaning_id: "tali penarik yg berfungsi menarik pukat ke pantai, terletak di sayap kiri perahu"
-    meaning_en: ""
-examples:
-  []
-etymology: ""
-related_words: []
-dialect_notes: ""
-source: "Kamus Bahasa Aceh Daring (Balai Bahasa Provinsi Aceh), 'Entri huruf — lamat', URL: https://kamusbbpa.kemendikdasmen.go.id/kamus/Aceh/L (diakses 20 Juli 2026)"
-date_added: "2026-07-20"
-contributor: "AI-extracted — needs human review"
-extraction_notes: "Diekstrak dari 1 halaman sumber (https://kamusbbpa.kemendikdasmen.go.id/kamus/Aceh/L). Tidak ada bentuk Jawi dalam sumber — dibiarkan kosong sesuai aturan."
+- meaning_id: gagang bajak tempat mengendalikan bajak (juga dinamakan gamat
+  meaning_en: the plough handle by which it is guided
+- meaning_id: neumat
+  meaning_en: ''
+- meaning_id: neugon dan go)
+  meaning_en: ''
+- meaning_id: tali pada salah satu sayap pukat yang dipegang secara beramai-ramai jika pukat mendekati
+    pantai
+  meaning_en: ''
+examples: []
+etymology: ''
+related_words:
+- langai
+- pukat
+- mat
+- lambat
+dialect_notes: ''
+source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
+  Pendidikan dan Kebudayaan, 1985, hlm. 493'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+extraction_notes: 'Homonym 1 in the source (printed as a superscript numeral before the headword). Jawi
+  left blank: the source is Latin-script only and no Jawi form is printed for this entry. | Source gives
+  this only as a cross-reference (→ lambat); no independent definition is printed, so meaning fields are
+  left blank rather than guessed. Homonym 2 in the source (printed as a superscript numeral before the
+  headword). Jawi left blank: the source is Latin-script only and no Jawi form is printed for this entry.
+  Part of speech not stated in the source; left blank.'

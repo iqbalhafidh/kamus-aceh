@@ -1,22 +1,32 @@
----
-headword: "lang"
-jawi: ""
-alt_spelling: []
-ipa: "/laŋ/"
-part_of_speech: "n"
-language_uncertain: false
+headword: lang
+jawi: ''
+alt_spelling:
+- meulang-lang
+- meulalang
+ipa: ''
+part_of_speech: a
 definitions:
-  - meaning_id: "ikan laut yg hidup bergerombol dng panjang mencapai 30 cm dan berwarna keperakan; selar bentong (Caranx crumenophthalmus):"
-    meaning_en: ""
+- meaning_id: melayang-layang, bertulang kemana-mana, (kiasan) terkatung-katung, terapung-apung
+  meaning_en: floating, bone which which, (figuratively) left in suspense, adrift
 examples:
-  - aceh: "eungkôt – hana mangat"
-    jawi: ""
-    id: "‘ikan selar rasanya tidak enak’"
-    en: ""
-etymology: ""
+- aceh: jipo geureuda meu lang lang ateueh atana
+  jawi: ''
+  id: Garuda terbang melayang-layang di atas istana
+  en: The garuda hovers above the palace
+- aceh: kamoe ka meu lang lang hana tròih saho
+  jawi: ''
+  id: Kami terkatung-katung tak sampai ke mana-mana
+  en: We drifted about and got nowhere
+- aceh: peulang
+  jawi: ''
+  id: membiarkan terkatung-katung
+  en: ''
+etymology: ''
 related_words: []
-dialect_notes: ""
-source: "Kamus Bahasa Aceh Daring (Balai Bahasa Provinsi Aceh), 'Entri huruf — lang', URL: https://kamusbbpa.kemendikdasmen.go.id/kamus/Aceh/L (diakses 20 Juli 2026)"
-date_added: "2026-07-20"
-contributor: "AI-extracted — needs human review"
-extraction_notes: "Diekstrak dari 1 halaman sumber (https://kamusbbpa.kemendikdasmen.go.id/kamus/Aceh/L). Tidak ada bentuk Jawi dalam sumber — dibiarkan kosong sesuai aturan."
+dialect_notes: ''
+source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
+  Pendidikan dan Kebudayaan, 1985, hlm. 498'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+extraction_notes: 'Jawi left blank: the source is Latin-script only and no Jawi form is printed for this
+  entry.'

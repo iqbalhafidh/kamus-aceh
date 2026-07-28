@@ -1,21 +1,53 @@
----
-headword: "kindang"
-jawi: ""
-alt_spelling: []
-ipa: "/kin.daŋ/"
-part_of_speech: "num"
-language_uncertain: false
+headword: kindang
+jawi: ''
+alt_spelling:
+- meukindang
+ipa: ''
+part_of_speech: n
 definitions:
-  - meaning_id: "1 satuan ukuran jumlah kertas sebanyak 500 lembar; rim"
-    meaning_en: ""
-  - meaning_id: "2 pinggang pd rumah Aceh yg dibuat dr papan pd lingkaran dinding rumah"
-    meaning_en: ""
+- meaning_id: ber keukindang yi sebuah torak yang berlubang supaya piring-piring makaman tidak berserakan
+  meaning_en: fitted with a perforated cylinder to keep the food dishes from scattering
+- meaning_id: (Bld
+  meaning_en: Dutch
 examples:
-  []
-etymology: ""
-related_words: []
-dialect_notes: ""
-source: "Kamus Bahasa Aceh Daring (Balai Bahasa Provinsi Aceh), 'Entri huruf — kindang', URL: https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/K?page=4 (diakses 20 Juli 2026)"
-date_added: "2026-07-20"
-contributor: "AI-extracted — needs human review"
-extraction_notes: "Diekstrak dari 1 halaman sumber (https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/K?page=4). Tidak ada bentuk Jawi dalam sumber — dibiarkan kosong sesuai aturan."
+- aceh: peu kindang
+  jawi: ''
+  id: menempatkan atau mengadakan keukindang di atas sesuatu
+  en: ''
+- aceh: teu kindang kindang
+  jawi: ''
+  id: bertumpuk tumpuk (dl hik)
+  en: in heaps (in hikayat)
+- aceh: ngon ie mata teu kindang kindang, sebab teu-keunang dilèe masa
+  jawi: ''
+  id: Air matanya bertumpuk-tumpuk di mata sebab terkenang pd masa-masa dahulu
+  en: Tears welled in her eyes at the memory of former days
+- aceh: 'riem) satu rim = 500 helai atau 2 pak kertas: keureutaih si kindang'
+  jawi: ''
+  id: serim kertas
+  en: ''
+- aceh: meu kindang kindang
+  jawi: ''
+  id: berim-rim atau berpak-pak (ump kertas)
+  en: in reams or packets, as of paper
+- aceh: habéh keureutaih meu kindang kindang
+  jawi: ''
+  id: berkincang-kindang habis kertas
+  en: the paper is all used up
+etymology: ''
+related_words:
+- keukindang
+dialect_notes: 'Marked (dl hik) in the source: attested in hikayat, the classical Acehnese narrative verse
+  register.'
+source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
+  Pendidikan dan Kebudayaan, 1985, hlm. 432'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+extraction_notes: 'Source gives this only as a cross-reference (→ keukindang); no independent definition
+  is printed, so meaning fields are left blank rather than guessed. Homonym 1 in the source (printed as
+  a superscript numeral before the headword). Jawi left blank: the source is Latin-script only and no
+  Jawi form is printed for this entry. Part of speech not stated in the source; left blank. | Homonym
+  2 in the source (printed as a superscript numeral before the headword). Jawi left blank: the source
+  is Latin-script only and no Jawi form is printed for this entry. | Homonym 3 in the source (printed
+  as a superscript numeral before the headword). Jawi left blank: the source is Latin-script only and
+  no Jawi form is printed for this entry. Part of speech not stated in the source; left blank.'

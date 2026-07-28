@@ -1,0 +1,32 @@
+headword: lambat
+jawi: ''
+alt_spelling:
+- lamat
+ipa: ''
+part_of_speech: a
+definitions:
+- meaning_id: lambat, lamban, (hikayat)
+  meaning_en: slow, (in hikayat)
+examples:
+- aceh: peu lambat
+  jawi: ''
+  id: memperlambat
+  en: slow
+- aceh: pakon tapeu lambat areuta gob, h'an tapulang bak reujang!
+  jawi: ''
+  id: Mengapa Anda memperlambat milik orang lain (yg Anda pinjam). Mengapakah tidak segera Anda kembalikan?
+  en: Why do you keep what you borrowed so long? Why not return it at once?
+- aceh: tapeu lambat tabayeue utang 'oh lheueh geulakée
+  jawi: ''
+  id: memperlambat-lambat pembayaran hutang setelah ditagih
+  en: ''
+etymology: ''
+related_words:
+- ambat
+dialect_notes: ''
+source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
+  Pendidikan dan Kebudayaan, 1985, hlm. 493'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+extraction_notes: 'Jawi left blank: the source is Latin-script only and no Jawi form is printed for this
+  entry.'

@@ -1,0 +1,37 @@
+headword: lumbeh
+jawi: ''
+alt_spelling: []
+ipa: ''
+part_of_speech: a
+definitions:
+- meaning_id: loba
+  meaning_en: avaricious
+- meaning_id: tamak
+  meaning_en: covetous
+- meaning_id: selalu menginginkan yang banyak
+  meaning_en: ''
+- meaning_id: ingin segera dikabulkan
+  meaning_en: want at once to grant
+- meaning_id: meminta bertubi-tubi ketika membeli sesuatu
+  meaning_en: to keep haggling when buying something
+- meaning_id: mendesak
+  meaning_en: to press
+examples:
+- aceh: sikriet ngon si lumbeh teuntée lheueh keu si lumbeh
+  jawi: ''
+  id: Si kikir dan si jujur tentu menang si jujuh
+  en: Between the miser and the honest man, the honest man surely wins
+- aceh: peue nyang jieu atra gob, ji lumbeh
+  jawi: ''
+  id: Apa yg dilihatnya (kepunyaan orang lain), ia segera menginginkannya
+  en: Whatever he sees belonging to others he immediately wants
+etymology: ''
+related_words:
+- ingien
+dialect_notes: ''
+source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
+  Pendidikan dan Kebudayaan, 1985, hlm. 559'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+extraction_notes: 'Jawi left blank: the source is Latin-script only and no Jawi form is printed for this
+  entry.'

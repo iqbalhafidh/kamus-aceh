@@ -2,18 +2,49 @@ headword: layeue
 jawi: ''
 alt_spelling: []
 ipa: ''
-part_of_speech: ''
+part_of_speech: n
 definitions:
 - meaning_id: layar
   meaning_en: sail
-- meaning_id: tatkala, ketika
-  meaning_en: at the time, when
-examples: []
+- meaning_id: adv
+  meaning_en: ''
+- meaning_id: yôh layeue semasa
+  meaning_en: ''
+- meaning_id: tatkala
+  meaning_en: when
+- meaning_id: sewaktu
+  meaning_en: time
+- meaning_id: pengacara
+  meaning_en: ''
+- meaning_id: adpokat. layi
+  meaning_en: advocate
+- meaning_id: sama layi
+  meaning_en: ''
+examples:
+- aceh: layeue parang
+  jawi: ''
+  id: pinggang pari, layar yg dapat dipindah-pindahkan ke kanan dan ke kiri
+  en: ''
+- aceh: si layeue boh manok
+  jawi: ''
+  id: hrf seumur telur ayam yg sama-sama menetes = kira-kira seumur atau selisih beberapa hari
+  en: ''
+- aceh: lôn si layeue ngon si Polan Saya sebaya dgn si Polan. nyang teuka keu noe
+  jawi: ''
+  id: layeue droeneu, Yg datang ke mari adalah sebaya Anda. neu layeue, yoh neu layeue, semasa, pd waktu,
+    (kurang lazim dipergunakan dr layeue)
+  en: ''
 etymology: ''
-related_words: []
+related_words:
+- klayi
 dialect_notes: ''
-source: 'Daud, Bukhari & Mark Durie. Kamus Basa Acèh = Kamus Bahasa Aceh: Acehnese–Indonesian–English Thesaurus.
-  Pacific Linguistics C-151, 1999, p. 60; p. 111.'
-date_added: '2026-07-20'
+source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
+  Pendidikan dan Kebudayaan, 1985, hlm. 511'
+date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: ''
+extraction_notes: 'Homonym 1 in the source (printed as a superscript numeral before the headword). Jawi
+  left blank: the source is Latin-script only and no Jawi form is printed for this entry. | Homonym 2
+  in the source (printed as a superscript numeral before the headword). Jawi left blank: the source is
+  Latin-script only and no Jawi form is printed for this entry. Part of speech not stated in the source;
+  left blank. | Homonym 3 in the source (printed as a superscript numeral before the headword). Jawi left
+  blank: the source is Latin-script only and no Jawi form is printed for this entry.'

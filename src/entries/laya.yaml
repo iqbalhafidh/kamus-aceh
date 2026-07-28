@@ -1,19 +1,41 @@
----
-headword: "laya"
-jawi: ""
+headword: laya
+jawi: ''
 alt_spelling: []
-ipa: "/la.ja/"
-part_of_speech: "n"
-language_uncertain: false
+ipa: ''
+part_of_speech: v
 definitions:
-  - meaning_id: "pekerjaan pertama ketika menganyam sesuatu"
-    meaning_en: ""
+- meaning_id: mulai menganyam
+  meaning_en: beginning to plait
+- meaning_id: pekerjaan pertama ketika menganyam sesuatu
+  meaning_en: ''
 examples:
-  []
-etymology: ""
-related_words: []
-dialect_notes: ""
-source: "Kamus Bahasa Aceh Daring (Balai Bahasa Provinsi Aceh), 'Entri huruf — laya', URL: https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/L?page=2 (diakses 20 Juli 2026)"
-date_added: "2026-07-20"
-contributor: "AI-extracted — needs human review"
-extraction_notes: "Diekstrak dari 1 halaman sumber (https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/L?page=2). Tidak ada bentuk Jawi dalam sumber — dibiarkan kosong sesuai aturan."
+- aceh: pajan talaya tika nyoe? ka rab lheueh lôn kalon
+  jawi: ''
+  id: Bilakah Anda mulai menganyam tikar ini? Saya lihat hampir selesai
+  en: When did you begin plaiting this mat? I see it is nearly finished
+- aceh: meulaya
+  jawi: ''
+  id: melakukan laya
+  en: ''
+- aceh: peulaya
+  jawi: ''
+  id: = laya atau menyuruh laya
+  en: to have something laya
+- aceh: neu laya
+  jawi: ''
+  id: kerangka anyaman, sesuatu yg mula-mula dianyam
+  en: ''
+- aceh: hana gêt neu laya tika nyan
+  jawi: ''
+  id: Tikar itu kerangka anyamannya tidak baik
+  en: The frame of that mat's plaiting is not good
+etymology: ''
+related_words:
+- manyeum
+dialect_notes: ''
+source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
+  Pendidikan dan Kebudayaan, 1985, hlm. 510'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+extraction_notes: 'Jawi left blank: the source is Latin-script only and no Jawi form is printed for this
+  entry.'

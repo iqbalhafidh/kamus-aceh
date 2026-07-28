@@ -2,17 +2,41 @@ headword: leumah
 jawi: ''
 alt_spelling: []
 ipa: ''
-part_of_speech: ''
+part_of_speech: v
 definitions:
 - meaning_id: tampak, dapat dilihat
-  meaning_en: visible, appear
-examples: []
+  meaning_en: visible, can see
+examples:
+- aceh: deu-ih thatleumah
+  jawi: ''
+  id: jelas sekali tampaknya
+  en: clear very visible
+- aceh: hana leumah jih
+  jawi: ''
+  id: Ia tidak tampak
+  en: He is not to be seen
+- aceh: hana leumah jikeumalon
+  jawi: ''
+  id: Ia tidak dapat melihat
+  en: He cannot see
+- aceh: bak piké lôn meunoe jalan nyang leubêh gêt
+  jawi: ''
+  id: Menurut pikiran saya, jalan inilah yg lebih baik (utk ditempuh)
+  en: To my mind this is the better road to take
+- aceh: buleuenleumah
+  jawi: ''
+  id: bulan depan
+  en: month front
+- aceh: buleuen
+  jawi: ''
+  id: bulan sudah
+  en: ''
 etymology: ''
-related_words:
-- deuh
+related_words: []
 dialect_notes: ''
-source: 'Daud, Bukhari & Mark Durie. Kamus Basa Acèh = Kamus Bahasa Aceh: Acehnese–Indonesian–English Thesaurus.
-  Pacific Linguistics C-151, 1999, p. 33.'
-date_added: '2026-07-20'
+source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
+  Pendidikan dan Kebudayaan, 1985, hlm. 523'
+date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: ''
+extraction_notes: 'Jawi left blank: the source is Latin-script only and no Jawi form is printed for this
+  entry.'

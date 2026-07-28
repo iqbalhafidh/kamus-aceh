@@ -1,19 +1,48 @@
----
-headword: "leula"
-jawi: ""
+headword: leula
+jawi: ''
 alt_spelling: []
-ipa: "/lɯ.la/"
-part_of_speech: "n"
-language_uncertain: false
+ipa: ''
+part_of_speech: n
 definitions:
-  - meaning_id: "alas yg diletakkan di bawah kapal untuk memudahkan pemindahan atau melarungkan kapal ke air (laut atau sungai)"
-    meaning_en: ""
+- meaning_id: pengalas, penopang, (umpamanya sebuah balok yang diletakkan di bawah sesuatu untuk memudahkan
+    pemindahan atau untuk melepaskan dari tempat seperti di bawah perahu)
+  meaning_en: an underlay, prop, as a beam placed under something to ease moving it or to free it, as
+    under a boat
 examples:
-  []
-etymology: ""
-related_words: []
-dialect_notes: ""
-source: "Kamus Bahasa Aceh Daring (Balai Bahasa Provinsi Aceh), 'Entri huruf — leula', URL: https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/L?page=2 (diakses 20 Juli 2026)"
-date_added: "2026-07-20"
-contributor: "AI-extracted — needs human review"
-extraction_notes: "Diekstrak dari 1 halaman sumber (https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/L?page=2). Tidak ada bentuk Jawi dalam sumber — dibiarkan kosong sesuai aturan."
+- aceh: 'lòn tiek keuleula, Saya meletakkannya sbg pengalas di jalan berlumpur sbg leula, rèt: naleueng
+    di blang habèh ranab, bak ngom pi jab jeuet keuleula'
+  jawi: ''
+  id: Rumput rumput yg tinggi di sawah tertidur rapat ke tanah (krn di injak oleh rakyat yg berjalan di
+    atasnya) dan tanaman kumpai pun tevinjak injak menjadi pengalasnya
+  en: The tall grass in the field lies flat, trodden by those walking over it, and the kumpai is trampled
+    into a mat
+- aceh: meuleula
+  jawi: ''
+  id: dng pengalas
+  en: ''
+- aceh: praho nyang meung nyoe hana meuleula, h'an èk tapeutròn
+  jawi: ''
+  id: Perahu itu tidak dapat diturunkan (ke air) jika tidak memakai pengalasnya
+  en: That boat cannot be launched without rollers
+- aceh: peuleula
+  jawi: ''
+  id: meletakkan pengalas di bawah sesuatu, mengadakan pengalas, mempergunakan pengalas, (hik) menghancur-luluhkan,
+    merusakkan (
+  en: ''
+- aceh: tapeuleula jalò nyoe, h'an ek ta-tulak
+  jawi: ''
+  id: Pergunakanlah pengalas di bawah perahu imi, (jika tidak) Anda tidak dapat mendorongnya
+  en: Use rollers under this boat, or you will not be able to push it
+etymology: ''
+related_words:
+- rèt
+- bambu
+- leulak)
+- kaleueng
+dialect_notes: ''
+source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
+  Pendidikan dan Kebudayaan, 1985, hlm. 522'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+extraction_notes: 'Jawi left blank: the source is Latin-script only and no Jawi form is printed for this
+  entry.'

@@ -1,0 +1,38 @@
+headword: lô
+jawi: ''
+alt_spelling:
+- lo
+ipa: ''
+part_of_speech: a
+definitions:
+- meaning_id: tidak mau tumbuh
+  meaning_en: ''
+- meaning_id: layu (untuk tanam-tanaman
+  meaning_en: withered, of plants
+- meaning_id: baik karena tanahnya tidak subur maupun sebab-sebab lain)
+  meaning_en: whether because the soil is poor or for other reasons
+- meaning_id: tidak subur (untuk keadaan tanah)
+  meaning_en: ''
+examples:
+- aceh: pisang ka lô, hana jitém rayek lé
+  jawi: ''
+  id: Pohon pisang tidak mau tumbuh. Ia tidak mau besar lagi
+  en: The banana plant will not grow; it gets no bigger
+- aceh: hana gêt tanoh nyoe, lô meungnyoe tapumula
+  jawi: ''
+  id: Tanah ini tidak subur. Ia tidak baik ditanami
+  en: This soil is not fertile; it is not good for planting
+etymology: ''
+related_words:
+- lho
+dialect_notes: ''
+source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
+  Pendidikan dan Kebudayaan, 1985, hlm. 551'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+extraction_notes: 'Homonym 1 in the source (printed as a superscript numeral before the headword). Jawi
+  left blank: the source is Latin-script only and no Jawi form is printed for this entry. | Source gives
+  this only as a cross-reference (→ lho); no independent definition is printed, so meaning fields are
+  left blank rather than guessed. Homonym 2 in the source (printed as a superscript numeral before the
+  headword). Jawi left blank: the source is Latin-script only and no Jawi form is printed for this entry.
+  Part of speech not stated in the source; left blank.'

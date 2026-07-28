@@ -2,16 +2,46 @@ headword: limpah
 jawi: ''
 alt_spelling: []
 ipa: ''
-part_of_speech: ''
+part_of_speech: v
 definitions:
-- meaning_id: limpah, meluap
-  meaning_en: overflow
-examples: []
+- meaning_id: melimpah, meluap, kermahtamahan, bercahaya-cahaya
+  meaning_en: to overflow, to boil over, hospitality, gleaming
+examples:
+- aceh: peu limpah
+  jawi: ''
+  id: membiarkan melimpah
+  en: to allow to overflow
+- aceh: ie ka limpah u lua
+  jawi: ''
+  id: Air sudah melimpah ke luar
+  en: The water has overflowed
+- aceh: ureueng nyan jikalon lôn teusinyom limpah
+  jawi: ''
+  id: Orang itu melihat saya lalu tersenyum ramah
+  en: He saw me and smiled pleasantly
+- aceh: rupaji limpah hana tara
+  jawi: ''
+  id: Rupanya sangat bercahaya-cahaya
+  en: appearance very gleaming
+- aceh: reubah limpah
+  jawi: ''
+  id: jatuh bangun
+  en: to fall wake
+- aceh: ya Allah, Neu-keu rahmat lam alam
+  jawi: ''
+  id: Ya Allah, limpahkanlah ramat-Mu dl alam
+  en: ''
+- aceh: peu limpah
+  jawi: ''
+  id: menyuruh limpahkan
+  en: ''
 etymology: ''
-related_words: []
+related_words:
+- limbak
 dialect_notes: ''
-source: 'Daud, Bukhari & Mark Durie. Kamus Basa Acèh = Kamus Bahasa Aceh: Acehnese–Indonesian–English Thesaurus.
-  Pacific Linguistics C-151, 1999, p. 95.'
-date_added: '2026-07-20'
+source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
+  Pendidikan dan Kebudayaan, 1985, hlm. 545'
+date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: ''
+extraction_notes: 'Jawi left blank: the source is Latin-script only and no Jawi form is printed for this
+  entry.'

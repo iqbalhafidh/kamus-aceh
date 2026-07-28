@@ -1,21 +1,111 @@
 headword: lawan
 jawi: ''
-alt_spelling: []
+alt_spelling:
+- Anda
 ipa: ''
-part_of_speech: ''
+part_of_speech: n
 definitions:
 - meaning_id: lawan
   meaning_en: opponent
-- meaning_id: lawan, musuh
-  meaning_en: opponent
+- meaning_id: pihak yang bertentangan
+  meaning_en: ''
+- meaning_id: kebalikannya
+  meaning_en: its opposite
+- meaning_id: taranya
+  meaning_en: its equal
+- meaning_id: sesuatu yang harus disertakan sebagai bahan pelengkap (umpamanya lauk-pauk
+  meaning_en: ''
+- meaning_id: — teumon)
+  meaning_en: ''
+- meaning_id: bertindak sebagai pihak lain
+  meaning_en: to act on behalf of another
 - meaning_id: melawan
-  meaning_en: oppose
-examples: []
+  meaning_en: to oppose
+- meaning_id: menyerang
+  meaning_en: to attack
+- meaning_id: (juga di sesuatu urusan) beteh
+  meaning_en: also in some matter
+- meaning_id: tahan
+  meaning_en: to endure
+- meaning_id: meminta ampun
+  meaning_en: to beg forgiveness
+examples:
+- aceh: hana lawan tamita lawan, 'oh na lawan talakèe ampôn
+  jawi: ''
+  id: Anda mencari lawan kalau tidak ada lawan. Jika ada
+  en: You look for a quarrel where there is none
+- aceh: jroh hanalawan
+  jawi: ''
+  id: indah tak ada taranya
+  en: ''
+- aceh: jroh that, hana lawan
+  jawi: ''
+  id: indah sekali, tak ada taranya
+  en: ''
+- aceh: bu
+  jawi: ''
+  id: lauk pauk nasi
+  en: ''
+- aceh: eungkôt
+  jawi: ''
+  id: bahan-bahan utk memasak ikan (ump rempah-rempah)
+  en: ''
+- aceh: ranub
+  jawi: ''
+  id: bahan-bahan utk makan sirih (ump kapur, pinang)
+  en: ''
+- aceh: ji lawan ma,jilawan kuji, peue aneuk meunan!
+  jawi: ''
+  id: Ia melawan ibunya dan ayahya. Anak apa itu!
+  en: He defies his mother and father. What sort of child is that!
+- aceh: dum peue narit geutanyoe jilawan
+  jawi: ''
+  id: Ia membantah semua perkataan kita
+  en: He contradicts everything we say
+- aceh: bek tatak trieng ngon parang nyan, h'an jilawan
+  jawi: ''
+  id: Anda jangan memotong bambu dng parang itu. Ia tidak tahan
+  en: Do not cut bamboo with that machete, it will not stand it
+- aceh: praho nyoe hana jilawan tameulayeue u Meulaboh
+  jawi: ''
+  id: Perahu ini tidak tahan utk belajar ke Meulaboh
+  en: This boat will not stand a voyage to Meulaboh
+- aceh: angèn lawan
+  jawi: ''
+  id: angin yg bertentangan
+  en: ''
+- aceh: meulawan
+  jawi: ''
+  id: melakukan lawan
+  en: to perform opponent
+- aceh: bèk tameulawan lè!
+  jawi: ''
+  id: Anda jangan melawan lagi!
+  en: Do not resist any more!
+- aceh: peulawan
+  jawi: ''
+  id: menjadikan lawan, berbuat sbg lawan, menyuruh lawan
+  en: to become opponent, make as opponent, to order opponent
+- aceh: tapeulawan manok gata ngon manok lôn
+  jawi: ''
+  id: Adulah ayam Anda dng ayam saya
+  en: Set your cock against mine
+- aceh: jipeu ruti ngon sie kameng
+  jawi: ''
+  id: Ia makan roti dng lauk-pauk daging kambing
+  en: He eats bread with goat meat
+- aceh: meuseuki tapèh tabôh keu nan, jan tamakan mangat h'an soe
+  jawi: ''
+  id: Manisan yg manis dan santan yg lemak dapat dimakan dng apa saja sebagai lawannya, kendatipun sabut
+    dibubuhi ke dlnya akan
+  en: Sweet syrup and rich coconut milk go with anything, even with husk put into them
 etymology: ''
 related_words: []
 dialect_notes: ''
-source: 'Daud, Bukhari & Mark Durie. Kamus Basa Acèh = Kamus Bahasa Aceh: Acehnese–Indonesian–English Thesaurus.
-  Pacific Linguistics C-151, 1999, p. 18; p. 21.'
-date_added: '2026-07-20'
+source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
+  Pendidikan dan Kebudayaan, 1985, hlm. 508'
+date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: ''
+extraction_notes: 'Jawi left blank: the source is Latin-script only and no Jawi form is printed for this
+  entry. | Jawi left blank: the source is Latin-script only and no Jawi form is printed for this entry.
+  Part of speech not stated in the source; left blank.'

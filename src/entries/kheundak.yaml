@@ -2,18 +2,30 @@ headword: kheundak
 jawi: ''
 alt_spelling: []
 ipa: ''
-part_of_speech: ''
+part_of_speech: n
 definitions:
-- meaning_id: harapan
-  meaning_en: hope, expectation
-examples: []
+- meaning_id: kehendak, kemauan, pengharapan, keinginan, hajat, mau, harap, ingin, suka, perlu, hendak,
+    kekasih
+  meaning_en: intend to, want, hope, desire, need, like, necessary, affection
+examples:
+- aceh: lontuan kheundak marit ngon droeneu sipatah
+  jawi: ''
+  id: Saya hendak berkata sepatah dua patah dng Anda
+  en: I want a word or two with you
+- aceh: Allah hana Neu kheundak lagee geutanyoe
+  jawi: ''
+  id: Allah tidak berkehendak spt kita
+  en: God does not will as we do
+- aceh: meu kheundak
+  jawi: ''
+  id: berkehendak, berkehendak, mempunyai kekasih, melakukan perzinaan
+  en: to desire, to have a lover, to commit adultery
 etymology: ''
-related_words:
-- harapan
+related_words: []
 dialect_notes: ''
-source: 'Daud, Bukhari & Mark Durie. Kamus Basa Acèh = Kamus Bahasa Aceh: Acehnese–Indonesian–English Thesaurus.
-  Pacific Linguistics C-151, 1999, p. 50.'
-date_added: '2026-07-20'
+source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
+  Pendidikan dan Kebudayaan, 1985, hlm. 425'
+date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: Headword spelling was aligned to the supplied OCR by conservative fuzzy matching (fuzzy:0.91);
-  verify against printed p. 50.
+extraction_notes: 'Jawi left blank: the source is Latin-script only and no Jawi form is printed for this
+  entry.'

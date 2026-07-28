@@ -2,17 +2,42 @@ headword: la'eh
 jawi: ''
 alt_spelling: []
 ipa: ''
-part_of_speech: ''
+part_of_speech: a
 definitions:
-- meaning_id: lemah
+- meaning_id: latif
+  meaning_en: ''
+- meaning_id: daif
   meaning_en: weak
-examples: []
+- meaning_id: lemah (karena usia atau penyakit)
+  meaning_en: weak (because age or illness)
+- meaning_id: tidak dapat dipercaya
+  meaning_en: ''
+examples:
+- aceh: gobnyan h'an êk geujak lê, ka la'eh
+  jawi: ''
+  id: Ia tidak dapat berjalan lagi. Ia sudah lemah (krn usia yg telah lanjut)
+  en: He can no longer walk; he has grown weak with age
+- aceh: ureueng la'eh iman
+  jawi: ''
+  id: orang yg lemah imannya
+  en: ''
+- aceh: kawôi la'eh
+  jawi: ''
+  id: kaul yg lemah
+  en: ''
+- aceh: peu la'eh
+  jawi: ''
+  id: melemahkan
+  en: weak
 etymology: ''
-related_words: []
+related_words:
+- damai
+- dana
+- lasa
 dialect_notes: ''
-source: 'Daud, Bukhari & Mark Durie. Kamus Basa Acèh = Kamus Bahasa Aceh: Acehnese–Indonesian–English Thesaurus.
-  Pacific Linguistics C-151, 1999, p. 82.'
-date_added: '2026-07-20'
+source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
+  Pendidikan dan Kebudayaan, 1985, hlm. 483'
+date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: PDF text-layer mismatch in the Acehnese form; copied from the searchable PDF text layer and needs
-  visual verification against printed p. 82.
+extraction_notes: 'Jawi left blank: the source is Latin-script only and no Jawi form is printed for this
+  entry.'

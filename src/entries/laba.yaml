@@ -1,17 +1,44 @@
-headword: laba
+headword: Laba
 jawi: ''
 alt_spelling: []
 ipa: ''
-part_of_speech: ''
+part_of_speech: n
 definitions:
-- meaning_id: laba, untung
+- meaning_id: laba, keuntungan
   meaning_en: profit
-examples: []
+examples:
+- aceh: sihareukat, Laba meucarikat Laba hareukat, meudua Laba, Laba dua, maw'aih
+  jawi: ''
+  id: Laba
+  en: profit
+- aceh: libe
+  jawi: ''
+  id: keuntungan yg diperoleh dr riba
+  en: ''
+- aceh: Si Laba
+  jawi: ''
+  id: nama budak laki-laki
+  en: name slave mans
+- aceh: '''oh ka hana meuih di dalam jaroe, raja nanggroe pi geukheun Si Laba, Jika tiada emas di dl tangan
+    (= jika sudah jatuh miskin), raja dl negeripun disebut Si Laba, Meu Laba'
+  jawi: ''
+  id: berlaba memperoleh keuntungan, menguntungkan
+  en: ''
+- aceh: meu Laba, (dl hik) meuleu Laba
+  jawi: ''
+  id: keuntungan di atas keuntungan, riba di atas riba, berlebihan di menceritakan sesuatu hal
+  en: ''
+- aceh: lon publoe nyoe hana lon meu Laba, hana lon tueng Laba
+  jawi: ''
+  id: Saya
+  en: I
 etymology: ''
 related_words: []
-dialect_notes: ''
-source: 'Daud, Bukhari & Mark Durie. Kamus Basa Acèh = Kamus Bahasa Aceh: Acehnese–Indonesian–English Thesaurus.
-  Pacific Linguistics C-151, 1999, p. 69.'
-date_added: '2026-07-20'
+dialect_notes: 'Marked (dl hik) in the source: attested in hikayat, the classical Acehnese narrative verse
+  register.'
+source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
+  Pendidikan dan Kebudayaan, 1985, hlm. 479'
+date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: ''
+extraction_notes: 'Jawi left blank: the source is Latin-script only and no Jawi form is printed for this
+  entry.'

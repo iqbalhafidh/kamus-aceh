@@ -4,15 +4,49 @@ alt_spelling: []
 ipa: ''
 part_of_speech: ''
 definitions:
-- meaning_id: dalam
-  meaning_en: in, inside
-examples: []
+- meaning_id: dalam, di dalam, dari sesuatu ruang tertentu, dalam keadaan, (berada) dalam hal, selama
+    waktu, bahwa
+  meaning_en: deep, inside, of a certain space, in the state of, in the matter of, during time, that
+examples:
+- aceh: rumoh
+  jawi: ''
+  id: di atau dl rumah
+  en: ''
+- aceh: lhèe uroe
+  jawi: ''
+  id: selama tiga hari
+  en: during three day
+- aceh: tamong lam eumpang
+  jawi: ''
+  id: masuk ke dl sarang
+  en: ''
+- aceh: teubiet lam eumpung
+  jawi: ''
+  id: keluar dr sarang
+  en: ''
+- aceh: nyoe rayek lam dum
+  jawi: ''
+  id: ini adalah yg terbesar di antara semuanya
+  en: ''
+- aceh: sabé lam lôn jak bak gobnyan
+  jawi: ''
+  id: Saya selalu pergi kpdnya
+  en: I always go to
+- aceh: jih sabé lam angèn timpa
+  jawi: ''
+  id: Ia selalu dl keadaan ditimpa angin
+  en: He is always exposed to the wind
+- aceh: Barô, lam Drien, lam Pisang
+  jawi: ''
+  id: kampung Baru, kampung Durian, kampung Pisang
+  en: new village, village thorn, banana village
 etymology: ''
 related_words:
 - dalam
 dialect_notes: ''
-source: 'Daud, Bukhari & Mark Durie. Kamus Basa Acèh = Kamus Bahasa Aceh: Acehnese–Indonesian–English Thesaurus.
-  Pacific Linguistics C-151, 1999, p. 113; vii (PDF p. 5).'
-date_added: '2026-07-20'
+source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
+  Pendidikan dan Kebudayaan, 1985, hlm. 492'
+date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: ''
+extraction_notes: 'Jawi left blank: the source is Latin-script only and no Jawi form is printed for this
+  entry. Part of speech not stated in the source; left blank.'
