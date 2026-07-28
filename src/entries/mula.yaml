@@ -2,17 +2,36 @@ headword: mula
 jawi: ''
 alt_spelling: []
 ipa: ''
-part_of_speech: ''
+part_of_speech: n
 definitions:
-- meaning_id: mulai
-  meaning_en: begin
-examples: []
+- meaning_id: permulaan, awal, dasar, asal, memulai, mengawali (dalam hikayat)
+  meaning_en: beginning, base, origin, again, beginning (in hikayat)
+- meaning_id: lobak
+  meaning_en: radish
+examples:
+- aceh: phôn-phôn
+  jawi: ''
+  id: pd mulanya, mula-mula
+  en: ''
+- aceh: bohmula
+  jawi: ''
+  id: buah lobak
+  en: fruit radish
+- aceh: gadêng gajah lam tanoh peue, Gading gajah dl tanah, apakah itu? (jawabnya) bohmula
+  jawi: ''
+  id: (buah) lobak
+  en: radish (fruit)
 etymology: ''
 related_words:
-- puphôn
-dialect_notes: ''
-source: 'Daud, Bukhari & Mark Durie. Kamus Basa Acèh = Kamus Bahasa Aceh: Acehnese–Indonesian–English Thesaurus.
-  Pacific Linguistics C-151, 1999, p. 47.'
-date_added: '2026-07-20'
+- jadi
+- phôn
+dialect_notes: 'Marked (dl hik) in the source: attested in hikayat, the classical Acehnese narrative verse
+  register.'
+source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
+  Pendidikan dan Kebudayaan, 1985, hlm. 617'
+date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: ''
+extraction_notes: 'Homonym 1 in the source (printed as a superscript numeral before the headword). Jawi
+  left blank: the source is Latin-script only and no Jawi form is printed for this entry. | Homonym 2
+  in the source (printed as a superscript numeral before the headword). Jawi left blank: the source is
+  Latin-script only and no Jawi form is printed for this entry.'

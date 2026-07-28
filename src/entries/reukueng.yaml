@@ -2,16 +2,37 @@ headword: reukueng
 jawi: ''
 alt_spelling: []
 ipa: ''
-part_of_speech: ''
+part_of_speech: n
 definitions:
-- meaning_id: kerongkongan
-  meaning_en: throat, larynx
-examples: []
+- meaning_id: kerongkongan, leher
+  meaning_en: gullet, neck
+examples:
+- aceh: lôn saket
+  jawi: ''
+  id: kerongkongan saya sakit
+  en: gullet I sick
+- aceh: reunek leuek
+  jawi: ''
+  id: leher balam yg berwarna bintik-bintik atau sj contoh hiasan
+  en: ''
+- aceh: rung iet
+  jawi: ''
+  id: leher sj kumbang atau sj contoh hiasan
+  en: ''
+- aceh: saket (lam) reukueng
+  jawi: ''
+  id: sakit kerongkongan
+  en: sick gullet
+- aceh: raya reukueng
+  jawi: ''
+  id: besar kerongkongan (dikatakan kpd seseorang yg tak henti-hentinya me-maki-maki atau berteriak-teriak)
+  en: ''
 etymology: ''
 related_words: []
 dialect_notes: ''
-source: 'Daud, Bukhari & Mark Durie. Kamus Basa Acèh = Kamus Bahasa Aceh: Acehnese–Indonesian–English Thesaurus.
-  Pacific Linguistics C-151, 1999, p. 29.'
-date_added: '2026-07-20'
+source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
+  Pendidikan dan Kebudayaan, 1985, hlm. 793'
+date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: ''
+extraction_notes: 'Jawi left blank: the source is Latin-script only and no Jawi form is printed for this
+  entry.'

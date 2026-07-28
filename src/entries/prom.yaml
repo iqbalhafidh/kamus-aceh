@@ -2,16 +2,38 @@ headword: prom
 jawi: ''
 alt_spelling: []
 ipa: ''
-part_of_speech: ''
+part_of_speech: v
 definitions:
 - meaning_id: peram
-  meaning_en: keep (fruit) to ripen
+  meaning_en: ''
+- meaning_id: memasakkan secara buatan
+  meaning_en: peg in a manner make
+- meaning_id: menangas (umpamanya tembakau dibungkus dengan daun pisang
+  meaning_en: ''
+- meaning_id: bibit yang hendak disemai dibungkus dengan daun pisang). (kiasan) memendam
+  meaning_en: ''
+- meaning_id: membiarkan
+  meaning_en: to allow
+- meaning_id: menyimpan sesuatu yang sebenarnya harus dipergunakan atau dikembalikan kepada pemiliknya.
+    - boh mamplam
+  meaning_en: ''
+- meaning_id: memeram buah mangga
+  meaning_en: ''
+- meaning_id: '''oh ka lheueh geu- dua lhee uroe teuma geuadêe'
+  meaning_en: ''
+- meaning_id: Setelah (umpamanya gading asin) diperam dua tiga hari
+  meaning_en: ''
+- meaning_id: lalu dijemur. mu-
+  meaning_en: ''
+- meaning_id: teu-
+  meaning_en: ''
 examples: []
 etymology: ''
 related_words: []
 dialect_notes: ''
-source: 'Daud, Bukhari & Mark Durie. Kamus Basa Acèh = Kamus Bahasa Aceh: Acehnese–Indonesian–English Thesaurus.
-  Pacific Linguistics C-151, 1999, p. 102.'
-date_added: '2026-07-20'
+source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
+  Pendidikan dan Kebudayaan, 1985, hlm. 742'
+date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: ''
+extraction_notes: 'Jawi left blank: the source is Latin-script only and no Jawi form is printed for this
+  entry.'

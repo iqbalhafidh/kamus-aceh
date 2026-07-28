@@ -1,0 +1,31 @@
+headword: randok
+jawi: ''
+alt_spelling:
+- ranok
+- landok
+- kameng
+ipa: ''
+part_of_speech: ''
+definitions:
+- meaning_id: randok $n$ kambing jantan yang tidak dikebiri
+  meaning_en: ''
+- meaning_id: bandot
+  meaning_en: goat billy
+examples:
+- aceh: nyan raya that
+  jawi: ''
+  id: Bandot itu besar sekali
+  en: ''
+- aceh: gata bèk lagèe randok!
+  jawi: ''
+  id: Anda jangan bertingkah seperti bandot
+  en: ''
+etymology: ''
+related_words: []
+dialect_notes: ''
+source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
+  Pendidikan dan Kebudayaan, 1985, hlm. 775'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+extraction_notes: 'Jawi left blank: the source is Latin-script only and no Jawi form is printed for this
+  entry. Part of speech not stated in the source; left blank.'

@@ -1,19 +1,23 @@
----
-headword: "mangohta"
-jawi: ""
-alt_spelling: []
-ipa: "/ma.ŋɔh.ta/"
-part_of_speech: "n"
-language_uncertain: false
+headword: mangohta
+jawi: ''
+alt_spelling:
+- mangoihta
+- mangoti
+ipa: ''
+part_of_speech: n
 definitions:
-  - meaning_id: "manggis (Garcinia mangostana)"
-    meaning_en: ""
-examples:
-  []
-etymology: ""
-related_words: []
-dialect_notes: ""
-source: "Kamus Bahasa Aceh Daring (Balai Bahasa Provinsi Aceh), 'Entri huruf — mangohta', URL: https://kamusbbpa.kemendikdasmen.go.id/kamus/Aceh/M (diakses 20 Juli 2026)"
-date_added: "2026-07-20"
-contributor: "AI-extracted — needs human review"
-extraction_notes: "Diekstrak dari 1 halaman sumber (https://kamusbbpa.kemendikdasmen.go.id/kamus/Aceh/M). Tidak ada bentuk Jawi dalam sumber — dibiarkan kosong sesuai aturan."
+- meaning_id: manggis mangoih, mangoeh = musang mangoih
+  meaning_en: mangosteen, the mangoih civet
+examples: []
+etymology: ''
+related_words:
+- musang
+- peuneung
+- seuke mangoihta → mangohta
+dialect_notes: ''
+source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
+  Pendidikan dan Kebudayaan, 1985, hlm. 574'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+extraction_notes: 'Jawi left blank: the source is Latin-script only and no Jawi form is printed for this
+  entry.'

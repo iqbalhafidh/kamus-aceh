@@ -2,19 +2,45 @@ headword: moe
 jawi: ''
 alt_spelling: []
 ipa: ''
-part_of_speech: ''
+part_of_speech: v
 definitions:
 - meaning_id: menangis
   meaning_en: cry
-- meaning_id: tangis
-  meaning_en: cry
-examples: []
+examples:
+- aceh: pakon ji moe aneuk nyan sabé?
+  jawi: ''
+  id: Mengapa anak itu selalu menangis?
+  en: Why does that child cry constantly?
+- aceh: si meukawén, khém-khém si, ureueng geupoh
+  jawi: ''
+  id: tangis pura-pura orang yg hendak dikawinkan dan tertawa pura-pura orang yg hendak dibunuh (pg)
+  en: ''
+- aceh: mumoe
+  jawi: ''
+  id: moe, sedang menangis, saling menangis
+  en: ''
+- aceh: teungoh putroe neumu moe moe, trihlé sidroe raja keu nan
+  jawi: ''
+  id: Selagi putri menangis, datanglah seorang raja ke situ
+  en: ''
+- aceh: pumoe
+  jawi: ''
+  id: membuat shg menangis
+  en: to make so that cry
+- aceh: teumoe
+  jawi: ''
+  id: menangis tanpa disengaja
+  en: cry without deliberate
+- aceh: soe nyang kalon aneuk cut nyan, cit teu—lé rô ie mata
+  jawi: ''
+  id: Barang siapa melihat anak kecil itu, tanpa disengaja bercucuranlah air matanya
+  en: Whoever sees that little child finds his tears flowing unbidden
 etymology: ''
-related_words:
-- klik
+related_words: []
 dialect_notes: ''
-source: 'Daud, Bukhari & Mark Durie. Kamus Basa Acèh = Kamus Bahasa Aceh: Acehnese–Indonesian–English Thesaurus.
-  Pacific Linguistics C-151, 1999, p. 8; p. 51; p. 56.'
-date_added: '2026-07-20'
+source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
+  Pendidikan dan Kebudayaan, 1985, hlm. 608'
+date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: ''
+extraction_notes: 'Jawi left blank: the source is Latin-script only and no Jawi form is printed for this
+  entry.'

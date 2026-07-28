@@ -2,16 +2,41 @@ headword: ngeu
 jawi: ''
 alt_spelling: []
 ipa: ''
-part_of_speech: ''
+part_of_speech: n
 definitions:
-- meaning_id: arang
-  meaning_en: charcoal
-examples: []
+- meaning_id: arang (kayu, batok) yang seluruhnya belum menjadi acu
+  meaning_en: wood charcoal, a shell not yet fully shaped into a mould
+examples:
+- aceh: kayèe
+  jawi: ''
+  id: arang kayu
+  en: wood charcoal
+- aceh: batèe
+  jawi: ''
+  id: batu yg telah menjadi arang, batu arang, terak, bara api
+  en: ''
+- aceh: aròn
+  jawi: ''
+  id: arang batang cemara
+  en: ''
+- aceh: bruek
+  jawi: ''
+  id: arang batok kelapa
+  en: ''
+- aceh: bangka
+  jawi: ''
+  id: arang batang bakau-bakau
+  en: ''
+- aceh: rukok
+  jawi: ''
+  id: api puntung rokok yg sedang menyala
+  en: ''
 etymology: ''
 related_words: []
 dialect_notes: ''
-source: 'Daud, Bukhari & Mark Durie. Kamus Basa Acèh = Kamus Bahasa Aceh: Acehnese–Indonesian–English Thesaurus.
-  Pacific Linguistics C-151, 1999, p. 70.'
-date_added: '2026-07-20'
+source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
+  Pendidikan dan Kebudayaan, 1985, hlm. 635'
+date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: ''
+extraction_notes: 'Jawi left blank: the source is Latin-script only and no Jawi form is printed for this
+  entry.'

@@ -1,19 +1,31 @@
-headword: rai
+headword: ra'i
 jawi: ''
 alt_spelling: []
 ipa: ''
-part_of_speech: ''
+part_of_speech: v
 definitions:
-- meaning_id: roI, penggaris
-  meaning_en: ruler
-examples: []
+- meaning_id: memerintah
+  meaning_en: to rule
+- meaning_id: dalam arti ini jarang dipergunakan
+  meaning_en: ''
+- meaning_id: biasanya memanggil atau mengerahkan untuk melaksanakan sesuatu
+  meaning_en: ''
+examples:
+- aceh: h'an jeuet taduek lam gampong nyoe, geunab uroe geura'i geutanyoe, geuyue buet, geulakee blanja
+  jawi: ''
+  id: Kita tidak dapat tinggal di kampung ini, setiap hari kita dikerahkan utk melakukan pekerjaan dan
+    dimintai sumbangan
+  en: ''
+- aceh: ka geura'i ureueng jak seumayang jeumeu'at
+  jawi: ''
+  id: Orang-orang sudah dikerahkan utk bersembahyang Jumat
+  en: ''
 etymology: ''
-related_words:
-- rhai
+related_words: []
 dialect_notes: ''
-source: 'Daud, Bukhari & Mark Durie. Kamus Basa Acèh = Kamus Bahasa Aceh: Acehnese–Indonesian–English Thesaurus.
-  Pacific Linguistics C-151, 1999, p. 58.'
-date_added: '2026-07-20'
+source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
+  Pendidikan dan Kebudayaan, 1985, hlm. 765'
+date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: PDF text-layer mismatch in the Acehnese form; copied from the searchable PDF text layer and needs
-  visual verification against printed p. 58.
+extraction_notes: 'Jawi left blank: the source is Latin-script only and no Jawi form is printed for this
+  entry.'

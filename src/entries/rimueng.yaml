@@ -2,16 +2,57 @@ headword: rimueng
 jawi: ''
 alt_spelling: []
 ipa: ''
-part_of_speech: ''
+part_of_speech: n
 definitions:
-- meaning_id: harimau
+- meaning_id: harimau, macan
   meaning_en: tiger
-examples: []
+examples:
+- aceh: bangka
+  jawi: ''
+  id: (berwarna kemerah-merahan)
+  en: ''
+- aceh: buloh
+  jawi: ''
+  id: (macan tutul, jenis kecil)
+  en: ''
+- aceh: Daya
+  jawi: ''
+  id: (harimau Daya di pantai Aceh Besar yg terkenal sangat buas
+  en: ''
+- aceh: kuen, (jenis kecil spt rimueng buloh)
+  jawi: ''
+  id: rimueng
+  en: ''
+- aceh: kureng batée
+  jawi: ''
+  id: (macan loreng, berwarna hitam-hitam merah)
+  en: ''
+- aceh: kureng jeumpa
+  jawi: ''
+  id: (berwarna kuning bergaris-garis, raja harimau)
+  en: coloured yellow striped, tiger king
+- aceh: kureng panée
+  jawi: ''
+  id: (berwarna belang-belang)
+  en: ''
+- aceh: muka-muka lagée rimueng kuen
+  jawi: ''
+  id: mukanya menyerupai macan tutul (dikatakan kpd seorang anak yg mukanya kotor krn makan sesuatu)
+  en: ''
+- aceh: aneuk rimueng
+  jawi: ''
+  id: anak harimau
+  en: tiger child
+- aceh: abin rimueng
+  jawi: ''
+  id: susu harimau
+  en: ''
 etymology: ''
 related_words: []
-dialect_notes: ''
-source: 'Daud, Bukhari & Mark Durie. Kamus Basa Acèh = Kamus Bahasa Aceh: Acehnese–Indonesian–English Thesaurus.
-  Pacific Linguistics C-151, 1999, p. 108.'
-date_added: '2026-07-20'
+dialect_notes: Source mentions Aceh Besar.
+source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
+  Pendidikan dan Kebudayaan, 1985, hlm. 807'
+date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: ''
+extraction_notes: 'Jawi left blank: the source is Latin-script only and no Jawi form is printed for this
+  entry.'

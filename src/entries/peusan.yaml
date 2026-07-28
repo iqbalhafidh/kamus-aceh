@@ -2,16 +2,36 @@ headword: peusan
 jawi: ''
 alt_spelling: []
 ipa: ''
-part_of_speech: ''
+part_of_speech: v
 definitions:
-- meaning_id: pesan
-  meaning_en: send message, order
-examples: []
+- meaning_id: memesan
+  meaning_en: to order
+- meaning_id: menyampaikan
+  meaning_en: until
+- meaning_id: mewasiatkan sesuatu (pada waktu akan meninggal sebagai wasiat)
+  meaning_en: ''
+- meaning_id: memesan sesuatu (umpamanya barang dan lain-lain)
+  meaning_en: to order something (for example goods and others)
+- meaning_id: menyuruh datang
+  meaning_en: to order come
+- meaning_id: memanggil
+  meaning_en: call
+examples:
+- aceh: ta peusan si Pulan keu noe sikeujap
+  jawi: ''
+  id: Harap Anda kabarkan kpd si Polan
+  en: ''
 etymology: ''
-related_words: []
+related_words:
+- pupeusan
 dialect_notes: ''
-source: 'Daud, Bukhari & Mark Durie. Kamus Basa Acèh = Kamus Bahasa Aceh: Acehnese–Indonesian–English Thesaurus.
-  Pacific Linguistics C-151, 1999, p. 56.'
-date_added: '2026-07-20'
+source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
+  Pendidikan dan Kebudayaan, 1985, hlm. 711'
+date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: ''
+extraction_notes: 'Homonym 1 in the source (printed as a superscript numeral before the headword). Jawi
+  left blank: the source is Latin-script only and no Jawi form is printed for this entry. | Source gives
+  this only as a cross-reference (→ pupeusan); no independent definition is printed, so meaning fields
+  are left blank rather than guessed. Homonym 2 in the source (printed as a superscript numeral before
+  the headword). Jawi left blank: the source is Latin-script only and no Jawi form is printed for this
+  entry. Part of speech not stated in the source; left blank.'

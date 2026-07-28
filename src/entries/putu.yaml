@@ -1,21 +1,30 @@
----
-headword: "putu"
-jawi: ""
+headword: putu
+jawi: ''
 alt_spelling: []
-ipa: "/pu.tu/"
-part_of_speech: "n"
-language_uncertain: false
+ipa: ''
+part_of_speech: n
 definitions:
-  - meaning_id: "1 kue yg terbuat dr tepung beras, bentuknya spt mi atau jala, dimakan dng kuah santan; putu mayang;"
-    meaning_en: ""
-  - meaning_id: "2 penganan dibuat dr tepung beras ketan, di tengahnya diberi gula merah, dibalur dng kelapa parut; putu bambu"
-    meaning_en: ""
+- meaning_id: putu
+  meaning_en: rice cake
+- meaning_id: sejenis penganan berbentuk laksa
+  meaning_en: ''
+- meaning_id: jari manis
+  meaning_en: sweet finger
+- meaning_id: ejekan kepada sesuatu yang tidak berarti
+  meaning_en: ''
 examples:
-  []
-etymology: ""
+- aceh: gata lagêe putu! Anda spt putu
+  jawi: ''
+  id: sesuatu yg tidak berarti!
+  en: ''
+etymology: ''
 related_words: []
-dialect_notes: ""
-source: "Kamus Bahasa Aceh Daring (Balai Bahasa Provinsi Aceh), 'Entri huruf — putu', URL: https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/P?page=19 (diakses 20 Juli 2026); halaman tambahan: P?page=11, P?page=12, P?page=13, P?page=14, P?page=15, P?page=16, P?page=17, P?page=18, P?page=19, P?page=6, P?page=7, P?page=8, P?page=9"
-date_added: "2026-07-20"
-contributor: "AI-extracted — needs human review"
-extraction_notes: "Diekstrak dari 14 halaman sumber (https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/P?page=10, https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/P?page=11, https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/P?page=12, https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/P?page=13, https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/P?page=14, https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/P?page=15, https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/P?page=16, https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/P?page=17, https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/P?page=18, https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/P?page=19, https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/P?page=6, https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/P?page=7, https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/P?page=8, https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/P?page=9). Ditemukan pada beberapa halaman; definisi dan contoh digabungkan. Tidak ada bentuk Jawi dalam sumber — dibiarkan kosong sesuai aturan."
+dialect_notes: ''
+source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
+  Pendidikan dan Kebudayaan, 1985, hlm. 759'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+extraction_notes: 'Homonym 1 in the source (printed as a superscript numeral before the headword). Jawi
+  left blank: the source is Latin-script only and no Jawi form is printed for this entry. | Homonym 2
+  in the source (printed as a superscript numeral before the headword). Jawi left blank: the source is
+  Latin-script only and no Jawi form is printed for this entry.'

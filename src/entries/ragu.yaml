@@ -1,0 +1,51 @@
+headword: ragu
+jawi: ''
+alt_spelling:
+- rigu
+ipa: ''
+part_of_speech: a
+definitions:
+- meaning_id: ragu
+  meaning_en: doubtful
+- meaning_id: kacau
+  meaning_en: confused
+- meaning_id: kusut
+  meaning_en: tangled
+- meaning_id: bingung
+  meaning_en: confused
+- meaning_id: sedih
+  meaning_en: sad
+- meaning_id: jatuh cinta
+  meaning_en: ''
+- meaning_id: gemar
+  meaning_en: fond
+examples:
+- aceh: si Pulan ragu that ate keu inong nyan, keu judi
+  jawi: ''
+  id: Si Polan sangat cinta kpd wanita itu, gemar sekali bermain judi
+  en: ''
+- aceh: meu ragu
+  jawi: ''
+  id: menjadi ragu
+  en: to become doubtful
+- aceh: uroe nyoe roh meu ragu that ate lôn, alen peue sabab
+  jawi: ''
+  id: Hari ini pikiran saya kacau sekali, entah apa sebabnya
+  en: ''
+- aceh: peu ragu
+  jawi: ''
+  id: membuat ragu, mengacaukan
+  en: to make doubtful, to disturb
+- aceh: bek tapeu ragu, teungoh lôn pumubuet
+  jawi: ''
+  id: Anda jangan mengganggu saya, saya sedang mengerjakan sesuatu
+  en: ''
+etymology: ''
+related_words: []
+dialect_notes: ''
+source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
+  Pendidikan dan Kebudayaan, 1985, hlm. 764'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+extraction_notes: 'Jawi left blank: the source is Latin-script only and no Jawi form is printed for this
+  entry.'

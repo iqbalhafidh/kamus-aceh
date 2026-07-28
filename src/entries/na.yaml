@@ -2,22 +2,69 @@ headword: na
 jawi: ''
 alt_spelling: []
 ipa: ''
-part_of_speech: ''
+part_of_speech: adv
 definitions:
-- meaning_id: lahir, kelahiran
-  meaning_en: born, birth
-- meaning_id: ada
-  meaning_en: exist, be, be born
-- meaning_id: ada
-  meaning_en: actually, did, indeed
-examples: []
+- meaning_id: ada, lahir, hadir, ya
+  meaning_en: there is, born, present, yes
+examples:
+- aceh: sidroe aneuk miet
+  jawi: ''
+  id: Ada seorang anak
+  en: there is person child
+- aceh: di rumoh
+  jawi: ''
+  id: Ada di rumah
+  en: there is at house
+- aceh: ureueng di rumoh? na na kamoe!
+  jawi: ''
+  id: Adakah orang di rumah? ya atau ada kami
+  en: ''
+- aceh: tan na na na na, nibak tan balékeu na
+  jawi: ''
+  id: (pb) Dr pd tidak ada baiklah ada
+  en: ''
+- aceh: bak gata sireungét?
+  jawi: ''
+  id: Adakah Anda memiliki seringgit?
+  en: ''
+- aceh: ka na lakoe
+  jawi: ''
+  id: sudah ada suami atau sudah bersuami/tunangan
+  en: ''
+- aceh: nyang ... na nyang
+  jawi: ''
+  id: ada yg
+  en: ''
+- aceh: gata nyang na, Anda semua yang hadir, dum na
+  jawi: ''
+  id: semuanya
+  en: all
+- aceh: ha na (dr h'am dan na)
+  jawi: ''
+  id: tidak ada
+  en: there is none
+- aceh: ka na aneuk
+  jawi: ''
+  id: sudah melahirkan anak (untuk wanita hamil), sudah mempunyai anak (utk wanita yg sudah kawin)
+  en: ''
+- aceh: aneuk ban atatau barô na
+  jawi: ''
+  id: anak yg baru lahir
+  en: ''
+- aceh: peue thôn na droeneu?
+  jawi: ''
+  id: Tahun berapakah Anda lahir? Bilakah Anda lahir?
+  en: ''
+- aceh: lôn masa balék Teuku Uma Meulabôh
+  jawi: ''
+  id: Saya lahir pd
+  en: ''
 etymology: ''
-related_words:
-- lake
+related_words: []
 dialect_notes: ''
-source: 'Daud, Bukhari & Mark Durie. Kamus Basa Acèh = Kamus Bahasa Aceh: Acehnese–Indonesian–English Thesaurus.
-  Pacific Linguistics C-151, 1999, p. 25; p. 80; p. 112; vii (PDF p. 5).'
-date_added: '2026-07-20'
+source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
+  Pendidikan dan Kebudayaan, 1985, hlm. 623'
+date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: PDF text-layer mismatch in the Acehnese form; copied from the searchable PDF text layer and needs
-  visual verification against printed p. 25.
+extraction_notes: 'Jawi left blank: the source is Latin-script only and no Jawi form is printed for this
+  entry.'

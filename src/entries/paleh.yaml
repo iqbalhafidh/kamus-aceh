@@ -1,0 +1,42 @@
+headword: paleh
+jawi: ''
+alt_spelling: []
+ipa: ''
+part_of_speech: a
+definitions:
+- meaning_id: sial
+  meaning_en: unlucky
+- meaning_id: celaka
+  meaning_en: accursed
+- meaning_id: bernasib sial
+  meaning_en: fate unlucky
+- meaning_id: (biasanya dipergunakan sebagai sumpah
+  meaning_en: ''
+- meaning_id: walaupun tanpa maksud jahat)
+  meaning_en: although without intention evil
+examples:
+- aceh: ureueng mupusa uleue
+  jawi: ''
+  id: paleh sakeue tok an tuha, Orang yg pusarnya seperti mular akan bernasib celaka sampai ia tua
+  en: ''
+- aceh: (pb) paleh blang h'an jeuet pade
+  jawi: ''
+  id: paleh gle h'an jeuet nala, Sawah yg celaka tidak dapat ditumbuhi padi
+  en: ''
+- aceh: pupaleh
+  jawi: ''
+  id: membuat celaka, mencelakakan, menyebut paleh, kpd seseorang, menyumpah seseorang dng menggunakan
+    kata paleh
+  en: ''
+etymology: ''
+related_words:
+- cencala
+- palieng
+- pangeh
+dialect_notes: ''
+source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
+  Pendidikan dan Kebudayaan, 1985, hlm. 663'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+extraction_notes: 'Jawi left blank: the source is Latin-script only and no Jawi form is printed for this
+  entry.'

@@ -2,16 +2,33 @@ headword: nyo
 jawi: ''
 alt_spelling: []
 ipa: ''
-part_of_speech: ''
+part_of_speech: adv
 definitions:
-- meaning_id: ya
-  meaning_en: yes, right
-examples: []
+- meaning_id: ya, benar, sesungguhnya, memang
+  meaning_en: yes, right, truly, indeed
+examples:
+- aceh: meung atau meu)
+  jawi: ''
+  id: jika, sekiranya
+  en: if
+- aceh: meu nyo tapeuek haba, lôn jak prèh gata bak lapangan teureubang
+  jawi: ''
+  id: Jika Anda menyampaikan beritanya, saya akan menunggu Anda di lapangan terbang
+  en: ''
+- aceh: keu meunan lagèe droeneu kheun
+  jawi: ''
+  id: Benarlah spt yg Anda katakan itu
+  en: ''
+- aceh: peu nyo
+  jawi: ''
+  id: membenarkan, mengiakan
+  en: ''
 etymology: ''
 related_words: []
 dialect_notes: ''
-source: 'Daud, Bukhari & Mark Durie. Kamus Basa Acèh = Kamus Bahasa Aceh: Acehnese–Indonesian–English Thesaurus.
-  Pacific Linguistics C-151, 1999, p. 114.'
-date_added: '2026-07-20'
+source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
+  Pendidikan dan Kebudayaan, 1985, hlm. 646'
+date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: ''
+extraction_notes: 'Jawi left blank: the source is Latin-script only and no Jawi form is printed for this
+  entry.'

@@ -1,20 +1,39 @@
 headword: pura
-jawi: ڤورا
+jawi: ''
 alt_spelling: []
 ipa: ''
-part_of_speech: ''
+part_of_speech: n
 definitions:
-- meaning_id: '''eun, meu''eun, tidak suka, jengkel: peu -, membuat seseorang jengkel'
-  meaning_en: '''eun, meu''eun, dislike, annoyed: peu -, to annoy someone'
-  examples: []
-- meaning_id: bèk tapeu - atè gob, Janganlah Anda menjengkelkan orang. peu - droe, membuat diri sendiri
-  meaning_en: bèk tapeu - atè gob, Don't annoy people. peu - droe, to make oneself
-  examples: []
+- meaning_id: pura-pura
+  meaning_en: pretending
+- meaning_id: berbuat seolah-olah
+  meaning_en: make as if
+- meaning_id: misalkan
+  meaning_en: example
+- meaning_id: umpamakan
+  meaning_en: ''
+- meaning_id: kep dari Singapura dalam papeuen pura
+  meaning_en: ''
+- meaning_id: papan Singapura pada masa dahulu
+  meaning_en: ''
+examples:
+- aceh: tapeugah keu bit-bit
+  jawi: ''
+  id: bêk pura pura! Katakanlah yg sesungguhnya, Anda jangan berpura-pura! buet nyan pura pura mantông,
+    Perbuatan itu hanya pura-pura saja, tidak sungguh-sungguh. pura lôn raja, gata meuntroe, misalkan,
+    Marilah kita berbuat seolah-olah saya seorang raja dan Anda seorang menteri
+  en: ''
 etymology: ''
 related_words:
-- kebòn, ladang, lampòih
+- pôr
+- pôt
 dialect_notes: ''
-source: Kamus Aceh-Indonesia (Acehnese-Indonesian Dictionary), p. 198
+source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
+  Pendidikan dan Kebudayaan, 1985, hlm. 754'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: Cross-reference entry pointing to 'kebòn, ladang, lampòih'. Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate reviewer.
+extraction_notes: 'Homonym 1 in the source (printed as a superscript numeral before the headword). Jawi
+  left blank: the source is Latin-script only and no Jawi form is printed for this entry. | English gloss
+  left blank: no confident translation of the Indonesian definition was available. Homonym 2 in the source
+  (printed as a superscript numeral before the headword). Jawi left blank: the source is Latin-script
+  only and no Jawi form is printed for this entry. Part of speech not stated in the source; left blank.'

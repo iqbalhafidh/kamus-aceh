@@ -1,0 +1,32 @@
+headword: rimbat
+jawi: ''
+alt_spelling: []
+ipa: ''
+part_of_speech: n
+definitions:
+- meaning_id: papan-papan yang ditempatkan pada haluan perahu di atas balok-balok pendek yang menjorok
+    di atas bingkai perahu tempat mengikat dayung pada jerat rotan
+  meaning_en: ''
+- meaning_id: tepi
+  meaning_en: edge
+- meaning_id: bingkai
+  meaning_en: frame
+- meaning_id: sisi
+  meaning_en: side
+- meaning_id: bahagian (tentang cerita)
+  meaning_en: portion (about story)
+examples:
+- aceh: teuduekkeu haba siblah rimbat, lôn hikayat nyang keudua
+  jawi: ''
+  id: Mari kita hentikan bahagian hikayat ini, saya akan menceritakan bahagian keduanya
+  en: ''
+etymology: ''
+related_words:
+- rambat
+dialect_notes: ''
+source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
+  Pendidikan dan Kebudayaan, 1985, hlm. 807'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+extraction_notes: 'Jawi left blank: the source is Latin-script only and no Jawi form is printed for this
+  entry.'

@@ -2,16 +2,45 @@ headword: ranto
 jawi: ''
 alt_spelling: []
 ipa: ''
-part_of_speech: ''
+part_of_speech: n
 definitions:
 - meaning_id: rantau
-  meaning_en: a living place away from one's home
-examples: []
+  meaning_en: coastal region
+- meaning_id: pandai
+  meaning_en: skilled
+- meaning_id: pesisir
+  meaning_en: coast
+- meaning_id: daerah pantai dari satu kuala ke kuala yang lain
+  meaning_en: ''
+- meaning_id: daerah asing
+  meaning_en: district foreign
+examples:
+- aceh: barat, ranto timu
+  jawi: ''
+  id: pesisir barat, timur daerah Aceh
+  en: coast west, east district Aceh
+- aceh: panyang
+  jawi: ''
+  id: nama sebuah tempat di daerah Aceh Timur dl kenegerian Peureulak
+  en: ''
+- aceh: dua blaih
+  jawi: ''
+  id: kedua belas ranto, daerah-daerah pantai di Aceh Barat yg pd masa dahulu belum dihuni orang
+  en: ''
+- aceh: hika-yat ranto
+  jawi: ''
+  id: judul hikayat yg mengisahkan nasib para penanam lada di daerah Aceh Barat
+  en: ''
+- aceh: meuranto
+  jawi: ''
+  id: merantau dr satu daerah ke daerah lain, berdiam atau merantau ke sana, merantau, bertualang ke
+  en: ''
 etymology: ''
 related_words: []
-dialect_notes: ''
-source: 'Daud, Bukhari & Mark Durie. Kamus Basa Acèh = Kamus Bahasa Aceh: Acehnese–Indonesian–English Thesaurus.
-  Pacific Linguistics C-151, 1999, p. 67.'
-date_added: '2026-07-20'
+dialect_notes: Source mentions Aceh Barat.
+source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
+  Pendidikan dan Kebudayaan, 1985, hlm. 779'
+date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: ''
+extraction_notes: 'Jawi left blank: the source is Latin-script only and no Jawi form is printed for this
+  entry.'

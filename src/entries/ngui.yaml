@@ -2,20 +2,74 @@ headword: ngui
 jawi: ''
 alt_spelling: []
 ipa: ''
-part_of_speech: ''
+part_of_speech: v
 definitions:
-- meaning_id: pakai
-  meaning_en: wear, put on
-- meaning_id: pakai
-  meaning_en: use
-- meaning_id: memakai
-  meaning_en: use
-examples: []
+- meaning_id: memakai, mengenakan, mempergunakan, meminjam dari atau pada (bak)
+  meaning_en: to wear, pleasant, to make use of, to borrow from
+examples:
+- aceh: na lôn ngui reunggét bak si Pulan
+  jawi: ''
+  id: Saya meminjam uang pd si Polan
+  en: ''
+- aceh: neubri lôn ngui atra nyan
+  jawi: ''
+  id: Pinjamlah benda itu kpd saya. Izinkanlah saya mempergunakan benda itu
+  en: ''
+- aceh: jih h'an jeuet ta ngui lé sabab na tom jimeudong si kaphé
+  jawi: ''
+  id: Ia tidak dapat dipergunakan lagi (utk sesuatu tugas) sebab pernah bekerja sama dng kafir (dl hal
+    ini pihak penjajah)
+  en: ''
+- aceh: meu ngui
+  jawi: ''
+  id: berpakaian
+  en: clothed
+- aceh: ka lheueh jimeu ngui
+  jawi: ''
+  id: Ia sudah berpakaian
+  en: ''
+- aceh: meu ngui
+  jawi: ''
+  id: pakai-memakai
+  en: to wear to wear
+- aceh: peu ngui
+  jawi: ''
+  id: memakaikan, meminjamkan
+  en: ''
+- aceh: ka geupeu ngui lintô barô
+  jawi: ''
+  id: pengantin baru sudah mengenakan pakaian
+  en: ''
+- aceh: ka lôn peu ngui gocnyan sireuôih rupia
+  jawi: ''
+  id: Telah saya pinjamkan kepadanya seratus rupiah
+  en: ''
+- aceh: bêk tapumeu ngui keu dêh keu noe
+  jawi: ''
+  id: Jangan Anda meminjamkan kesana ke mari
+  en: ''
+- aceh: teu ngui
+  jawi: ''
+  id: dipergunakan, dipakai, dipinjamkan
+  en: ''
+- aceh: ka lheueh teu ngui
+  jawi: ''
+  id: sudah dipergunakan
+  en: ''
+- aceh: neu ngui
+  jawi: ''
+  id: pemakaian, cara berpakaian, pinjaman
+  en: ''
+- aceh: si Pulan gêt that neu ngui geunab uroe
+  jawi: ''
+  id: Si Polan sangat apik berpakaian setiap hari
+  en: ''
 etymology: ''
 related_words: []
 dialect_notes: ''
-source: 'Daud, Bukhari & Mark Durie. Kamus Basa Acèh = Kamus Bahasa Aceh: Acehnese–Indonesian–English Thesaurus.
-  Pacific Linguistics C-151, 1999, p. 8; p. 46; p. 47.'
-date_added: '2026-07-20'
+source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
+  Pendidikan dan Kebudayaan, 1985, hlm. 638'
+date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: ''
+extraction_notes: 'Jawi left blank: the source is Latin-script only and no Jawi form is printed for this
+  entry.'

@@ -2,16 +2,42 @@ headword: pandang
 jawi: ''
 alt_spelling: []
 ipa: ''
-part_of_speech: ''
+part_of_speech: v
 definitions:
-- meaning_id: pandang
-  meaning_en: look
-examples: []
+- meaning_id: memandang, melihat, menengok, memperhatikan, kiasan mengharap, menantikan
+  meaning_en: to look at, to see, to pay attention to, figuratively hope, later
+examples:
+- aceh: donya, memandang atau melihat dunia (lahir), menunjukan pandangan kpd dunia, memperhatikan dunia,
+    peue ta pandang bak kamoe
+  jawi: ''
+  id: '? Apa yg Anda harapkan dari kami?'
+  en: ''
+- aceh: mu pandang
+  jawi: ''
+  id: dipandang
+  en: ''
+- aceh: bèk mu pandang ateueh lôn sabè
+  jawi: ''
+  id: Anda jangan selalu melihat kpd saya
+  en: ''
+- aceh: pakon tamu pandang pandang
+  jawi: ''
+  id: '? Mengapa Anda berpandang-pandangan?'
+  en: ''
+- aceh: teu pandang
+  jawi: ''
+  id: terpandang, terlihat secara tidak sengaja
+  en: ''
+- aceh: lôn jak u peukan bunoe, teu pandang sidroe inong nyang ceudaih that rupa
+  jawi: ''
+  id: Tadi saya pergi ke pasar dan terpandanglah seorang wanita yg cantik rupanya
+  en: ''
 etymology: ''
 related_words: []
 dialect_notes: ''
-source: 'Daud, Bukhari & Mark Durie. Kamus Basa Acèh = Kamus Bahasa Aceh: Acehnese–Indonesian–English Thesaurus.
-  Pacific Linguistics C-151, 1999, p. 33.'
-date_added: '2026-07-20'
+source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
+  Pendidikan dan Kebudayaan, 1985, hlm. 667'
+date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: ''
+extraction_notes: 'Jawi left blank: the source is Latin-script only and no Jawi form is printed for this
+  entry.'

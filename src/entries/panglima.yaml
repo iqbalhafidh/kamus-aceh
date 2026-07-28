@@ -2,18 +2,59 @@ headword: panglima
 jawi: ''
 alt_spelling: []
 ipa: ''
-part_of_speech: ''
+part_of_speech: n
 definitions:
 - meaning_id: panglima
-  meaning_en: military commander
-- meaning_id: panglima
   meaning_en: commander
-examples: []
+- meaning_id: pemimpin tertinggi
+  meaning_en: ''
+- meaning_id: kepala
+  meaning_en: head
+- meaning_id: gelar salah seorang kepala dalam tiga segi (sagoe) dalam daerah kabupaten Aceh Besar pada
+    masa dahulu
+  meaning_en: ''
+examples:
+- aceh: 'Meuseugit raya, pd masa dahulu: panglima Pidie, menjadi atau bertindak sbg panglima'
+  jawi: ''
+  id: panglima
+  en: commander
+- aceh: sagoe
+  jawi: ''
+  id: panglima sagi, uleebalang terkemuka dl suatu segi
+  en: ''
+- aceh: Dua ploh dua, panglima Dua ploh nam, panglima Teungoh lhee ploh
+  jawi: ''
+  id: kepala segi XXII, XXVI, dan XXV mukim pd masa dahulu
+  en: ''
+- aceh: polem
+  jawi: ''
+  id: panglima abang mertua
+  en: ''
+- aceh: prang
+  jawi: ''
+  id: panglima perang
+  en: commander war
+- aceh: kawom
+  jawi: ''
+  id: panglima kaum, penggelaran utk harimau
+  en: ''
+- aceh: inong
+  jawi: ''
+  id: panglima yg mengurus wanita-wanita yg suaminya pergi berperang
+  en: ''
+- aceh: lhok, panglima laot
+  jawi: ''
+  id: panglima yg mengatur kapal-kapal yg memasuki teluk (pd masa dahulu)
+  en: ''
 etymology: ''
-related_words: []
-dialect_notes: ''
-source: 'Daud, Bukhari & Mark Durie. Kamus Basa Acèh = Kamus Bahasa Aceh: Acehnese–Indonesian–English Thesaurus.
-  Pacific Linguistics C-151, 1999, p. 17; p. 21.'
-date_added: '2026-07-20'
+related_words:
+- mahraja
+- Teuku Nek pd nek
+- pang
+dialect_notes: Source mentions Pidie. Source mentions Aceh Besar.
+source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
+  Pendidikan dan Kebudayaan, 1985, hlm. 671'
+date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: ''
+extraction_notes: 'Jawi left blank: the source is Latin-script only and no Jawi form is printed for this
+  entry.'

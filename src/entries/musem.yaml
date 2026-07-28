@@ -1,0 +1,36 @@
+headword: musém
+jawi: ''
+alt_spelling: []
+ipa: ''
+part_of_speech: n
+definitions:
+- meaning_id: musim
+  meaning_en: season
+- meaning_id: waktu yang berhubungan dengan iklim
+  meaning_en: ''
+examples:
+- aceh: timu
+  jawi: ''
+  id: musim timur
+  en: season east
+- aceh: barat
+  jawi: ''
+  id: musim barat
+  en: season west
+- aceh: timu tapèt kulat, musém barat takueh reubông
+  jawi: ''
+  id: musém
+  en: ''
+- aceh: timu tahareukat, musém barat woe u gampông
+  jawi: ''
+  id: Pd musim timur orang mengutip cendawan. Pd musim barat orang menggali rebung bambu
+  en: ''
+etymology: ''
+related_words: []
+dialect_notes: ''
+source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
+  Pendidikan dan Kebudayaan, 1985, hlm. 621'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+extraction_notes: 'Jawi left blank: the source is Latin-script only and no Jawi form is printed for this
+  entry.'

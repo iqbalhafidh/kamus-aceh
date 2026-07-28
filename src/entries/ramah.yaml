@@ -1,17 +1,35 @@
 headword: ramah
 jawi: ''
-alt_spelling: []
+alt_spelling:
+- ramaih
 ipa: ''
-part_of_speech: ''
+part_of_speech: a
 definitions:
-- meaning_id: remas
-  meaning_en: squeeze gently
-examples: []
+- meaning_id: ramah
+  meaning_en: cordial
+- meaning_id: ramah-tamah
+  meaning_en: cordial
+- meaning_id: bergaul secara persaudaraan dgn (
+  meaning_en: ''
+examples:
+- aceh: 'ngon) seseorang, berjinak-jinakan: jih ramah ngon baranggasoe'
+  jawi: ''
+  id: Dgn siapa saja ia bersikap ramah
+  en: ''
+- aceh: peuramah
+  jawi: ''
+  id: meramahkan, membiasakan, menjinakkan
+  en: ''
+- aceh: tapeuramah droe ngon ureueng nyan!
+  jawi: ''
+  id: Bersikap ramahlah dgn orang itu
+  en: ''
 etymology: ''
 related_words: []
 dialect_notes: ''
-source: 'Daud, Bukhari & Mark Durie. Kamus Basa Acèh = Kamus Bahasa Aceh: Acehnese–Indonesian–English Thesaurus.
-  Pacific Linguistics C-151, 1999, p. 40.'
-date_added: '2026-07-20'
+source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
+  Pendidikan dan Kebudayaan, 1985, hlm. 769'
+date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: ''
+extraction_notes: 'Homonym 1 in the source (printed as a superscript numeral before the headword). Jawi
+  left blank: the source is Latin-script only and no Jawi form is printed for this entry.'

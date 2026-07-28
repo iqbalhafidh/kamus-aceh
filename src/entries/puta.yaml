@@ -2,16 +2,46 @@ headword: puta
 jawi: ''
 alt_spelling: []
 ipa: ''
-part_of_speech: ''
+part_of_speech: v
 definitions:
 - meaning_id: putar
-  meaning_en: rotate, tum
-examples: []
+  meaning_en: to turn
+- meaning_id: memutar
+  meaning_en: to turn
+- meaning_id: menggulunz
+  meaning_en: to roll up
+- meaning_id: mengunci (umpamanya jam)
+  meaning_en: ''
+- meaning_id: memutarbalikkan (umpamanya perkataan)
+  meaning_en: to distort (for example speech)
+examples:
+- aceh: pruet lôn jiputa puta
+  jawi: ''
+  id: Perut saya terasa spt diputarputar. bakông puta, tembakau putar
+  en: ''
+- aceh: pakon gata taduek muputa puta? Mengapa Anda duduk berputar-putar (=tidak tetap)? narit gata muputa
+    puta
+  jawi: ''
+  id: '''oh lheueh meudêh meunoe, ''oh lheueh meunoe meudéh, Perkataan Anda berputar-putar, sesudah (Anda
+    berkata) begitu, (Anda berkata) begini dan setelah (Anda berkata) begini (Anda berkata) begitu. jak
+    muputa puta, pergc atau melancong ke mana-mana: puputa, memutar, berkeliling'
+  en: ''
+- aceh: pakon tapuputa puta lôn ban saboh gampong
+  jawi: ''
+  id: Mengapa Anda membiarkan saya berputarputar di seluruh kampung. teuputa, terputar
+  en: ''
+- aceh: taloe ngoe gêt that peunutaji
+  jawi: ''
+  id: Tali ini sangat bagus putarannya atau pintalannya
+  en: ''
 etymology: ''
-related_words: []
+related_words:
+- halua
+- putie
 dialect_notes: ''
-source: 'Daud, Bukhari & Mark Durie. Kamus Basa Acèh = Kamus Bahasa Aceh: Acehnese–Indonesian–English Thesaurus.
-  Pacific Linguistics C-151, 1999, p. 43.'
-date_added: '2026-07-20'
+source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
+  Pendidikan dan Kebudayaan, 1985, hlm. 757'
+date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: ''
+extraction_notes: 'Jawi left blank: the source is Latin-script only and no Jawi form is printed for this
+  entry.'

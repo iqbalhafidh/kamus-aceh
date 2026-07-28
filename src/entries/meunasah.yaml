@@ -1,17 +1,36 @@
 headword: meunasah
 jawi: ''
-alt_spelling: []
+alt_spelling:
+- meulasah
+- beunasah
+- beulasah
 ipa: ''
-part_of_speech: ''
+part_of_speech: n
 definitions:
-- meaning_id: menasah
-  meaning_en: village meeting house
+- meaning_id: rumah ibadat kampung
+  meaning_en: ''
+- meaning_id: didirikan di atas tiang-tiang seperti rumah tinggal
+  meaning_en: built on posts like a dwelling house
+- meaning_id: tentang tanpa pembagian ruang-ruangnya
+  meaning_en: about without for space space
+- meaning_id: dipergunakan bukan saja sebagai tempat untuk keperluan keperluan agama seperti bersalah
+  meaning_en: used not only for religious purposes such as prayer
+- meaning_id: melakukan pernikahan
+  meaning_en: to perform marriage
+- meaning_id: dan lain-lain
+  meaning_en: and so forth
+- meaning_id: tentang juga sebagai tempat bermalam pemuda-pemuda dan laki-laki yang belum berkeluarga
+    di dalam kampung
+  meaning_en: ''
+- meaning_id: baik penduduk kampung maupun bukan
+  meaning_en: whether villagers or not
 examples: []
 etymology: ''
 related_words: []
 dialect_notes: ''
-source: 'Daud, Bukhari & Mark Durie. Kamus Basa Acèh = Kamus Bahasa Aceh: Acehnese–Indonesian–English Thesaurus.
-  Pacific Linguistics C-151, 1999, p. 16.'
-date_added: '2026-07-20'
+source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
+  Pendidikan dan Kebudayaan, 1985, hlm. 595'
+date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: ''
+extraction_notes: 'Jawi left blank: the source is Latin-script only and no Jawi form is printed for this
+  entry.'

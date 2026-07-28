@@ -2,16 +2,73 @@ headword: pangkai
 jawi: ''
 alt_spelling: []
 ipa: ''
-part_of_speech: ''
+part_of_speech: n
 definitions:
-- meaning_id: modal
-  meaning_en: capital
-examples: []
+- meaning_id: modal untuk sesuatu usaha
+  meaning_en: ''
+- meaning_id: pokok
+  meaning_en: principal
+- meaning_id: panjar
+  meaning_en: advance payment
+- meaning_id: bekal
+  meaning_en: provisions
+- meaning_id: kepala
+  meaning_en: head
+- meaning_id: pemimpin
+  meaning_en: leader
+- meaning_id: panglima
+  meaning_en: commander
+- meaning_id: pengatur (umpamanya dalam peperangan
+  meaning_en: ''
+- meaning_id: perkumpulan sadati)
+  meaning_en: collection sadati
+examples:
+- aceh: ngon laba, poko k dan laba, peutua pangkai
+  jawi: ''
+  id: pemberi panjar kpd penanam lada
+  en: ''
+- aceh: teupat keu pangkai, akai keu laba, jujur merupakan modal, akal atau kepandaian merupakan keuntungan
+    (pb) kejujuran sbg modal, kepandaian sbg laba, nyoe keu pangkai uroe dudoe
+  jawi: ''
+  id: Ini adalah modal utk hari kemudian (dikatakan utk amal-amal kebajikan di dunia)
+  en: ''
+- aceh: sadati, pemimpin perkumpulan sadati
+  jawi: ''
+  id: pangkai
+  en: ''
+- aceh: mu pangkai
+  jawi: ''
+  id: bermodal, (dl suatu istilah berarti juga) dimulai
+  en: capital, beginning (in a certain term meaning also)
+- aceh: gata na tamu pangkai, tameung meukonsi ngon lon?
+  jawi: ''
+  id: Apakah Anda mempunyai modal dan ingin berkongsi dng saya?
+  en: ''
+- aceh: narit mu pangkai
+  jawi: ''
+  id: ungkapan bahasa yg baru dipelajari, bahasa yg didengar dr seseorang asing yg baru belajar
+  en: ''
+- aceh: pu pangkai
+  jawi: ''
+  id: memodali
+  en: capital
+- aceh: si Pulan ka lon pu pangkai limong ploh reungget
+  jawi: ''
+  id: Si Polan sudah saya modali sebanyak lima puluh ringgit
+  en: ''
+- aceh: pangkalan
+  jawi: ''
+  id: pangkalan, tempat berlabuh kapal, pelabuhan
+  en: ''
 etymology: ''
-related_words: []
+related_words:
+- mudai
+- pukok
+- bd uram
 dialect_notes: ''
-source: 'Daud, Bukhari & Mark Durie. Kamus Basa Acèh = Kamus Bahasa Aceh: Acehnese–Indonesian–English Thesaurus.
-  Pacific Linguistics C-151, 1999, p. 68.'
-date_added: '2026-07-20'
+source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
+  Pendidikan dan Kebudayaan, 1985, hlm. 669'
+date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: ''
+extraction_notes: 'Jawi left blank: the source is Latin-script only and no Jawi form is printed for this
+  entry.'

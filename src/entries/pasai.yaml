@@ -1,23 +1,37 @@
----
-headword: "pasai"
-jawi: ""
+headword: pasai
+jawi: ''
 alt_spelling: []
-ipa: "/pa.say/"
-part_of_speech: "n"
-language_uncertain: false
+ipa: ''
+part_of_speech: n
 definitions:
-  - meaning_id: "1 tempat orang berjual beli; pasar; pekan; los"
-    meaning_en: ""
-  - meaning_id: "2 hal; perkara; pokok pembicaraan"
-    meaning_en: ""
-  - meaning_id: "3 bagian dr bab, artikel; pasal"
-    meaning_en: ""
+- meaning_id: pasal
+  meaning_en: article
+- meaning_id: bahagian
+  meaning_en: portion
+- meaning_id: bab
+  meaning_en: chapter
+- meaning_id: hal
+  meaning_en: matter
+- meaning_id: masalah
+  meaning_en: problem
+- meaning_id: perkara
+  meaning_en: affair
+- meaning_id: tentang atau mengenai hal itu
+  meaning_en: ''
 examples:
-  []
-etymology: ""
+- aceh: ka keumaih pasainyan
+  jawi: ''
+  id: teuma pasai jéh pakri? Pasal apakah? Hal apakah yg sedang Anda hadapi? peue pasai geupoh si Pulan?
+    Apakah pasalnya shg si Polan itu dipukul? saboh pasai geujak ngon moto, saboh pasai teuk ngon kapai,
+    Satu bagian berangkat dng auto. Satu bagian lagi dng kapal. mupasai, berpasal, terbagi dl beberapa
+    pasal, (ki) terbagi-bagi, tidak seja sekata
+  en: ''
+etymology: ''
 related_words: []
-dialect_notes: ""
-source: "Kamus Bahasa Aceh Daring (Balai Bahasa Provinsi Aceh), 'Entri huruf — pasai', URL: https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/P?page=2 (diakses 20 Juli 2026)"
-date_added: "2026-07-20"
-contributor: "AI-extracted — needs human review"
-extraction_notes: "Diekstrak dari 1 halaman sumber (https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/P?page=2). Tidak ada bentuk Jawi dalam sumber — dibiarkan kosong sesuai aturan."
+dialect_notes: ''
+source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
+  Pendidikan dan Kebudayaan, 1985, hlm. 679'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+extraction_notes: 'Jawi left blank: the source is Latin-script only and no Jawi form is printed for this
+  entry.'

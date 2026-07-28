@@ -1,19 +1,53 @@
----
-headword: "pupo"
-jawi: ""
-alt_spelling: []
-ipa: "/pu.pɔ/"
-part_of_speech: "n"
-language_uncertain: false
+headword: pupo
+jawi: ''
+alt_spelling:
+- pupu
+- pupô
+ipa: ''
+part_of_speech: n
 definitions:
-  - meaning_id: "sepupu"
-    meaning_en: ""
+- meaning_id: pupu
+  meaning_en: ''
+- meaning_id: hubungan kekeluargaan dalam garis samping
+  meaning_en: ''
+- meaning_id: pupur
+  meaning_en: face powder
+- meaning_id: param
+  meaning_en: poultice
+- meaning_id: urap wangi-wangian untuk kulit. mu-
+  meaning_en: ''
+- meaning_id: ber-pupur
+  meaning_en: ''
+- meaning_id: berbedak
+  meaning_en: powdered
+- meaning_id: pu-
+  meaning_en: ''
+- meaning_id: membedaki
+  meaning_en: to powder
+- meaning_id: memupur
+  meaning_en: to powder the face
+- meaning_id: penuh, sangat penuh, berlimpah-limpah, berlimpah-ruah
+  meaning_en: full, full very, abundant, overflowing
 examples:
-  []
-etymology: ""
-related_words: []
-dialect_notes: ""
-source: "Kamus Bahasa Aceh Daring (Balai Bahasa Provinsi Aceh), 'Entri huruf — pupo', URL: https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/P?page=19 (diakses 20 Juli 2026); halaman tambahan: P?page=11, P?page=12, P?page=13, P?page=14, P?page=15, P?page=16, P?page=17, P?page=18, P?page=19, P?page=6, P?page=7, P?page=8, P?page=9"
-date_added: "2026-07-20"
-contributor: "AI-extracted — needs human review"
-extraction_notes: "Diekstrak dari 14 halaman sumber (https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/P?page=10, https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/P?page=11, https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/P?page=12, https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/P?page=13, https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/P?page=14, https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/P?page=15, https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/P?page=16, https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/P?page=17, https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/P?page=18, https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/P?page=19, https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/P?page=6, https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/P?page=7, https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/P?page=8, https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/P?page=9). Ditemukan pada beberapa halaman; definisi dan contoh digabungkan. Tidak ada bentuk Jawi dalam sumber — dibiarkan kosong sesuai aturan."
+- aceh: cèedara sampèe sipupo
+  jawi: ''
+  id: saudara sepupu, kemenakan laki-laki atau perempuan
+  en: ''
+- aceh: aneuk sipupo
+  jawi: ''
+  id: anak sepupu, anak abang, kakak
+  en: ''
+etymology: ''
+related_words:
+- pipê
+dialect_notes: ''
+source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
+  Pendidikan dan Kebudayaan, 1985, hlm. 753, 754'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+extraction_notes: 'English gloss left blank: no confident translation of the Indonesian definition was
+  available. Jawi left blank: the source is Latin-script only and no Jawi form is printed for this entry.
+  | Homonym 1 in the source (printed as a superscript numeral before the headword). Jawi left blank: the
+  source is Latin-script only and no Jawi form is printed for this entry. | Homonym 2 in the source (printed
+  as a superscript numeral before the headword). Jawi left blank: the source is Latin-script only and
+  no Jawi form is printed for this entry.'

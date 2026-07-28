@@ -1,0 +1,30 @@
+headword: ph'at
+jawi: ''
+alt_spelling:
+- ph'ot
+- ph'et
+ipa: ''
+part_of_speech: a
+definitions:
+- meaning_id: segera
+  meaning_en: at once
+- meaning_id: serta merta
+  meaning_en: ''
+examples:
+- aceh: maté sigo ph'at
+  jawi: ''
+  id: mati segera, mati sekali pukul
+  en: die at once, die very hit
+- aceh: mu ph'at
+  jawi: ''
+  id: sekali atau segera menjadi mati
+  en: ''
+etymology: ''
+related_words: []
+dialect_notes: ''
+source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
+  Pendidikan dan Kebudayaan, 1985, hlm. 715'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+extraction_notes: 'Jawi left blank: the source is Latin-script only and no Jawi form is printed for this
+  entry.'

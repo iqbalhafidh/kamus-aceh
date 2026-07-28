@@ -5,7 +5,7 @@ ipa: ''
 part_of_speech: n
 definitions:
 - meaning_id: pemantik api
-  meaning_en: ''
+  meaning_en: fire logic
 - meaning_id: korek api besi
   meaning_en: ''
 examples:
@@ -28,5 +28,5 @@ source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan P
   Pendidikan dan Kebudayaan, 1985, hlm. 425'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: 'English gloss left blank: no confident translation of the Indonesian definition was
-  available. Jawi left blank: the source is Latin-script only and no Jawi form is printed for this entry.'
+extraction_notes: 'Jawi left blank: the source is Latin-script only and no Jawi form is printed for this
+  entry.'

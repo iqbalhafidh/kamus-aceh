@@ -2,17 +2,77 @@ headword: pangkee
 jawi: ''
 alt_spelling: []
 ipa: ''
-part_of_speech: ''
+part_of_speech: v
 definitions:
-- meaning_id: pangku
-  meaning_en: armful
-examples: []
+- meaning_id: menggendong atau membawa dengan tangan yang dibengkokkan shg bebannya dipegang di antara
+    lengan hasta dan pangkal lengan (cara membawa kayu api oleh wanita-wanita
+  meaning_en: ''
+- meaning_id: bahagian perut sebelah bawah)
+  meaning_en: portion belly side under
+- meaning_id: sepangku
+  meaning_en: ''
+- meaning_id: tumpukan
+  meaning_en: heap
+- meaning_id: longgok
+  meaning_en: heap
+- meaning_id: timbunan
+  meaning_en: ''
+- meaning_id: susunan
+  meaning_en: arrangement
+examples:
+- aceh: keumudoe
+  jawi: ''
+  id: penopang kemudi, canggah kemudi
+  en: ''
+- aceh: cok kayee saboh pangkee
+  jawi: ''
+  id: mengambil kayu api sepangku
+  en: ''
+- aceh: mu pangkee
+  jawi: ''
+  id: berpangku, dipangku, menyerupai pangkee
+  en: ''
+- aceh: peue tame nyan mu pangkee pangkee
+  jawi: ''
+  id: '? Apakah yg Anda bawa banyak-banyak di pangkuan?'
+  en: ''
+- aceh: srot lon cong u, adak kon mu pangkee ateueh bak mamplam, ka mate lon
+  jawi: ''
+  id: Saya terjatuh dr pohon kelapa
+  en: ''
+- aceh: mu pangkee maloe
+  jawi: ''
+  id: serangkai bunga
+  en: ''
+- aceh: gluneung mu pangkee maloe
+  jawi: ''
+  id: telinga yg menyerupai rangkaian bunga
+  en: ''
+- aceh: pu pangkee
+  jawi: ''
+  id: menyuruh pangku
+  en: ''
+- aceh: peunangkee, peulangkee
+  jawi: ''
+  id: pangkuan, tangan sbg tempat memangku sesuatu
+  en: ''
+- aceh: yoh masa ubit-ubit lon geume-me lam peunangkee le nek
+  jawi: ''
+  id: Ketika saya masih kecil, saya dibawa-bawa oleh nenek dl pangkuannya
+  en: ''
+- aceh: peunangkee, leumueng
+  jawi: ''
+  id: pangkuan, pangkuan (dl hik) =
+  en: lap, lap (in hikayat)
 etymology: ''
-related_words: []
-dialect_notes: ''
-source: 'Daud, Bukhari & Mark Durie. Kamus Basa Acèh = Kamus Bahasa Aceh: Acehnese–Indonesian–English Thesaurus.
-  Pacific Linguistics C-151, 1999, p. 85.'
-date_added: '2026-07-20'
+related_words:
+- gapiet
+- leumueng
+dialect_notes: 'Marked (dl hik) in the source: attested in hikayat, the classical Acehnese narrative verse
+  register.'
+source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
+  Pendidikan dan Kebudayaan, 1985, hlm. 670'
+date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: PDF text-layer mismatch in the Acehnese form; copied from the searchable PDF text layer and needs
-  visual verification against printed p. 85.
+extraction_notes: 'Jawi left blank: the source is Latin-script only and no Jawi form is printed for this
+  entry.'

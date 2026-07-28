@@ -2,18 +2,21 @@ headword: pie
 jawi: ''
 alt_spelling: []
 ipa: ''
-part_of_speech: ''
+part_of_speech: n
 definitions:
-- meaning_id: tuang
-  meaning_en: pour
-examples: []
+- meaning_id: fiil, pekerjaan, perbuatan, tindakan, kelakuan, watak, kata kerja
+  meaning_en: deed, work, act, action, behaviour, character, word work
+examples:
+- aceh: meungnyo meu-nan tamupie, gata h'an jipeucaya lé gob
+  jawi: ''
+  id: Jika Anda berfiil begitu, Anda tidak akan dipercayai orang
+  en: ''
 etymology: ''
 related_words: []
 dialect_notes: ''
-source: 'Daud, Bukhari & Mark Durie. Kamus Basa Acèh = Kamus Bahasa Aceh: Acehnese–Indonesian–English Thesaurus.
-  Pacific Linguistics C-151, 1999, p. 45; p. 95.'
-date_added: '2026-07-20'
+source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
+  Pendidikan dan Kebudayaan, 1985, hlm. 717'
+date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: PDF text-layer mismatch in the Acehnese form; copied from the searchable PDF text layer and needs
-  visual verification against printed p. 45. PDF text-layer mismatch in the Acehnese form; copied from the searchable
-  PDF text layer and needs visual verification against printed p. 95.
+extraction_notes: 'Jawi left blank: the source is Latin-script only and no Jawi form is printed for this
+  entry.'

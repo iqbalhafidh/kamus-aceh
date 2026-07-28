@@ -5,7 +5,7 @@ ipa: ''
 part_of_speech: a
 definitions:
 - meaning_id: sangat ranum
-  meaning_en: ''
+  meaning_en: very overripe
 - meaning_id: lodoh
   meaning_en: ''
 - meaning_id: terlalu masak (untuk buah-buahan)
@@ -24,7 +24,7 @@ examples:
 - aceh: peu leubaih
   jawi: ''
   id: membiarkan ranum
-  en: ''
+  en: to allow overripe
 etymology: ''
 related_words:
 - tuha

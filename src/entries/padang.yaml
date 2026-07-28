@@ -2,17 +2,48 @@ headword: padang
 jawi: ''
 alt_spelling: []
 ipa: ''
-part_of_speech: ''
+part_of_speech: n
 definitions:
-- meaning_id: padang
-  meaning_en: plains, field
-examples: []
+- meaning_id: padang (tanah lapang yang tidak ditumbuhi pohon-pohonan) Padang
+  meaning_en: plain plain (earth spacious which not grow tree tree)
+- meaning_id: ibu kota propinsi Sumatera Barat (nama tempat)
+  meaning_en: ''
+examples:
+- aceh: ureueng padang, orang yg berasal dari kota Padang, orang Minangkabau, timu padang
+  jawi: ''
+  id: tenggara
+  en: ''
+- aceh: angen timu padang
+  jawi: ''
+  id: angin yg berhembus dari arah tenggara
+  en: ''
+- aceh: maca
+  jawi: ''
+  id: padang mahsyar, hari kemudian
+  en: ''
+- aceh: raya, medan peperangan, (bd mideuen)
+  jawi: ''
+  id: padang
+  en: plain
+- aceh: bramoe padang
+  jawi: ''
+  id: sj rerumputan, berdaun panjang dan kecil-kecil yg tumbuh di padang, dapat dijadikan obat mencret
+  en: ''
+- aceh: kulat raja padang, sj cendawan yg sangat beracun, on raja padang, sj tanaman semak (bak raja padang)
+  jawi: ''
+  id: berdaun merah dan berkumai, (utk obat luka)
+  en: ''
+- aceh: mupadang
+  jawi: ''
+  id: menuju atau menyerbu ke medan
+  en: ''
 etymology: ''
 related_words:
-- blang
+- mideuen )
 dialect_notes: ''
-source: 'Daud, Bukhari & Mark Durie. Kamus Basa Acèh = Kamus Bahasa Aceh: Acehnese–Indonesian–English Thesaurus.
-  Pacific Linguistics C-151, 1999, p. 90.'
-date_added: '2026-07-20'
+source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
+  Pendidikan dan Kebudayaan, 1985, hlm. 654'
+date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: ''
+extraction_notes: 'Jawi left blank: the source is Latin-script only and no Jawi form is printed for this
+  entry.'

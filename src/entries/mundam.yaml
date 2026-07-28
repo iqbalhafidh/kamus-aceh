@@ -1,19 +1,35 @@
----
-headword: "mundam"
-jawi: ""
+headword: mundam
+jawi: ''
 alt_spelling: []
-ipa: "/mun.dam/"
-part_of_speech: "n"
-language_uncertain: false
+ipa: ''
+part_of_speech: n
 definitions:
-  - meaning_id: "alat untuk mengisi air minum pd upacara kenduri, di dalamnya disediakan semacam kobokan dr perak sbg alat menangguk air yg akan diminum, terbuat dr tembaga atau kuningan berbentuk labu dng penutup yg runcing ke atas sbg pegangan"
-    meaning_en: ""
+- meaning_id: mundam
+  meaning_en: basin
+- meaning_id: sebangsa bokor besar tempat iar minum terbuat dari tembaga atau perak dan berbentuk buah
+    semangka
+  meaning_en: ''
+- meaning_id: panjang dan lehernya lebar (kadah—)
+  meaning_en: long with a broad neck
+- meaning_id: (kiasan) besar
+  meaning_en: big (figuratively)
+- meaning_id: gemuk (untuk binatang)
+  meaning_en: fat (for animal)
 examples:
-  []
-etymology: ""
+- aceh: bawang siulah, mundam meurusôk
+  jawi: ''
+  id: mundam berusuk
+  en: ''
+- aceh: ueh
+  jawi: ''
+  id: mundam licin, tidak berusuk
+  en: ''
+etymology: ''
 related_words: []
-dialect_notes: ""
-source: "Kamus Bahasa Aceh Daring (Balai Bahasa Provinsi Aceh), 'Entri huruf — mundam', URL: https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/M?page=13 (diakses 20 Juli 2026); halaman tambahan: M?page=11, M?page=12, M?page=13, M?page=14, M?page=15, M?page=16, M?page=17, M?page=18, M?page=19, M?page=6, M?page=7, M?page=8, M?page=9"
-date_added: "2026-07-20"
-contributor: "AI-extracted — needs human review"
-extraction_notes: "Diekstrak dari 14 halaman sumber (https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/M?page=10, https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/M?page=11, https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/M?page=12, https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/M?page=13, https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/M?page=14, https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/M?page=15, https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/M?page=16, https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/M?page=17, https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/M?page=18, https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/M?page=19, https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/M?page=6, https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/M?page=7, https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/M?page=8, https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/M?page=9). Ditemukan pada beberapa halaman; definisi dan contoh digabungkan. Tidak ada bentuk Jawi dalam sumber — dibiarkan kosong sesuai aturan."
+dialect_notes: ''
+source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
+  Pendidikan dan Kebudayaan, 1985, hlm. 618'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+extraction_notes: 'Jawi left blank: the source is Latin-script only and no Jawi form is printed for this
+  entry.'

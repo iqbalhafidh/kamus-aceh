@@ -1,0 +1,43 @@
+headword: mutabat
+jawi: ''
+alt_spelling:
+- meureutad
+- meutabat
+- meureutabat
+ipa: ''
+part_of_speech: a
+definitions:
+- meaning_id: murtad
+  meaning_en: apostate
+- meaning_id: tidak setia
+  meaning_en: ''
+- meaning_id: belot
+  meaning_en: to defect
+- meaning_id: terkutuk
+  meaning_en: accursed
+- meaning_id: celaka
+  meaning_en: accursed
+- meaning_id: sejenis ikan laut, serupa tentang lebih kecil
+  meaning_en: a kind of sea fish, resembling about more small
+examples:
+- aceh: ureueng mutabat è'tikeudji salah
+  jawi: ''
+  id: Orang yg murtad itikadnya salah
+  en: The apostate's belief is wrong
+- aceh: si mutabat
+  jawi: ''
+  id: si celaka, si terkutuk
+  en: accursed
+- aceh: 'ureueng nyang kheun: ''èh, cilaka ujeuen nyoe'', ureueng nyan ka mutabat'
+  jawi: ''
+  id: Orang yg berkata, 'aduhai, celaka hujan ini', sudah tergolong murtad
+  en: One who says 'curse this rain' is counted an apostate
+etymology: ''
+related_words: []
+dialect_notes: ''
+source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
+  Pendidikan dan Kebudayaan, 1985, hlm. 600, 621'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+extraction_notes: 'Jawi left blank: the source is Latin-script only and no Jawi form is printed for this
+  entry.'

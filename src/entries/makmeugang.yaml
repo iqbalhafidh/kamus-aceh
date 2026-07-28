@@ -1,17 +1,24 @@
 headword: makmeugang
 jawi: ''
-alt_spelling: []
+alt_spelling:
+- uroe
 ipa: ''
 part_of_speech: ''
 definitions:
-- meaning_id: hari penyembelihan hewan menjelang puasa Ramadhan dan hari raya
-  meaning_en: feast days before the fasting month
-examples: []
+- meaning_id: makmeugang n tiga hari sebelum bulan puasa yang menyibukkan orang-orang berhubungan dengan
+    banyaknya kegiatam penyembelihan hewan
+  meaning_en: the three days before Ramadan, busy with the slaughtering of animals
+examples:
+- aceh: uroe pupok
+  jawi: ''
+  id: hari mengadu, hari pemeriksaan dan memperdagangkan hewan-hewan yg akan disembelih
+  en: ''
 etymology: ''
 related_words: []
 dialect_notes: ''
-source: 'Daud, Bukhari & Mark Durie. Kamus Basa Acèh = Kamus Bahasa Aceh: Acehnese–Indonesian–English Thesaurus.
-  Pacific Linguistics C-151, 1999, p. 24.'
-date_added: '2026-07-20'
+source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
+  Pendidikan dan Kebudayaan, 1985, hlm. 567'
+date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: ''
+extraction_notes: 'Jawi left blank: the source is Latin-script only and no Jawi form is printed for this
+  entry. Part of speech not stated in the source; left blank.'

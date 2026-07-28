@@ -1,17 +1,75 @@
-headword: peuet
+headword: peuét
 jawi: ''
-alt_spelling: []
+alt_spelling:
+- peuék
 ipa: ''
-part_of_speech: ''
+part_of_speech: v
 definitions:
 - meaning_id: empat
   meaning_en: four
+- meaning_id: mengirimkan
+  meaning_en: to send
+- meaning_id: menyampaikan
+  meaning_en: until
+- meaning_id: (umpamanya surat
+  meaning_en: for example letter
+- meaning_id: salam
+  meaning_en: greeting of peace
+- meaning_id: uang untuk pembeli sesuatu)
+  meaning_en: ''
+- meaning_id: '- surat'
+  meaning_en: letter
+- meaning_id: mengirim surat
+  meaning_en: ''
+- meaning_id: geu - saleuem keu droeneu
+  meaning_en: ''
+- meaning_id: Ia mengirim salam kepada Anda
+  meaning_en: ''
+- meaning_id: na neujak u peukan singoh? lon keumeung - sira ngon ranub
+  meaning_en: ''
+- meaning_id: hana sira sagai di rumoh
+  meaning_en: ''
+- meaning_id: Apakah Anda besok pergi ke pasar? Saya hendak meng irim (= menitip) uang untuk pembeli garam
+    dan sirih karena di rumah tidak ada garam sama sekali. baroe lon - peng keu ureueng chik lon di gampong
+  meaning_en: ''
+- meaning_id: Kemarin saya mengirim uang kepada orang tua saya di kampung
+  meaning_en: ''
+- meaning_id: mu-
+  meaning_en: ''
+- meaning_id: berkirim
+  meaning_en: to send
+- meaning_id: mu-(-)
+  meaning_en: ''
+- meaning_id: berkirim-kiriman
+  meaning_en: to send consignment
+- meaning_id: teu-
+  meaning_en: ''
+- meaning_id: dikirim
+  meaning_en: sent
+- meaning_id: pu-meuêt
+  meaning_en: ''
+- meaning_id: melakukan peuêt
+  meaning_en: ''
+- meaning_id: menitipkan sesuatu (pesan)
+  meaning_en: ''
+- meaning_id: peuneuêt
+  meaning_en: ''
+- meaning_id: sesuatu yang dikirim atau dititipkan
+  meaning_en: ''
+- meaning_id: kiriman
+  meaning_en: consignment
+- meaning_id: pesanan
+  meaning_en: order
+- meaning_id: titipan
+  meaning_en: deposit
 examples: []
 etymology: ''
 related_words: []
 dialect_notes: ''
-source: 'Daud, Bukhari & Mark Durie. Kamus Basa Acèh = Kamus Bahasa Aceh: Acehnese–Indonesian–English Thesaurus.
-  Pacific Linguistics C-151, 1999, p. 84.'
-date_added: '2026-07-20'
+source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
+  Pendidikan dan Kebudayaan, 1985, hlm. 696'
+date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: ''
+extraction_notes: 'Jawi left blank: the source is Latin-script only and no Jawi form is printed for this
+  entry. Part of speech not stated in the source; left blank. | Jawi left blank: the source is Latin-script
+  only and no Jawi form is printed for this entry.'

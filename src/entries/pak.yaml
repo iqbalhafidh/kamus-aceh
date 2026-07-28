@@ -1,19 +1,36 @@
----
-headword: "pak"
-jawi: ""
+headword: pak
+jawi: ''
 alt_spelling: []
-ipa: "/pa?/"
-part_of_speech: "n"
-language_uncertain: false
+ipa: ''
+part_of_speech: n
 definitions:
-  - meaning_id: "simpul yg bisa digeser pd tali laso"
-    meaning_en: ""
+- meaning_id: jerat (untuk menangkap burung dan binatang-binatang lain
+  meaning_en: ''
+- meaning_id: alat peperangan)
+  meaning_en: implement war
+- meaning_id: pak, pajak, sewa, cukai
+  meaning_en: packet, tax, rent, excise
 examples:
-  []
-etymology: ""
-related_words: []
-dialect_notes: ""
-source: "Kamus Bahasa Aceh Daring (Balai Bahasa Provinsi Aceh), 'Entri huruf — pak', URL: https://kamusbbpa.kemendikdasmen.go.id/kamus/Aceh/P (diakses 20 Juli 2026)"
-date_added: "2026-07-20"
-contributor: "AI-extracted — needs human review"
-extraction_notes: "Diekstrak dari 1 halaman sumber (https://kamusbbpa.kemendikdasmen.go.id/kamus/Aceh/P). Tidak ada bentuk Jawi dalam sumber — dibiarkan kosong sesuai aturan."
+- aceh: gade
+  jawi: ''
+  id: pajak gadai
+  en: tax mace
+- aceh: candu
+  jawi: ''
+  id: pajak candu, tempat penuaan candu pemerintah (pd masa dahulu)
+  en: ''
+etymology: ''
+related_words:
+- pak-pak
+dialect_notes: ''
+source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
+  Pendidikan dan Kebudayaan, 1985, hlm. 660, 676'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+extraction_notes: 'Homonym 1 in the source (printed as a superscript numeral before the headword). Jawi
+  left blank: the source is Latin-script only and no Jawi form is printed for this entry. | Homonym 2
+  in the source (printed as a superscript numeral before the headword). Jawi left blank: the source is
+  Latin-script only and no Jawi form is printed for this entry. | Source gives this only as a cross-reference
+  (→ pak-pak); no independent definition is printed, so meaning fields are left blank rather than guessed.
+  Jawi left blank: the source is Latin-script only and no Jawi form is printed for this entry. Part of
+  speech not stated in the source; left blank.'

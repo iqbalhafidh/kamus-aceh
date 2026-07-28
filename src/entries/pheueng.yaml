@@ -2,17 +2,45 @@ headword: pheueng
 jawi: ''
 alt_spelling: []
 ipa: ''
-part_of_speech: ''
+part_of_speech: v
 definitions:
 - meaning_id: mengangkang
-  meaning_en: sit with legs apart
-examples: []
+  meaning_en: to straddle
+- meaning_id: membuka kaki seluas-luasnya atau membiarkan kaki terbuka seluas-luasnya (ketika berdiri
+  meaning_en: ''
+- meaning_id: berjalan
+  meaning_en: to walk
+- meaning_id: duduk
+  meaning_en: sit
+- meaning_id: atau tidur)
+  meaning_en: ''
+examples:
+- aceh: hana malèe, jidong ji—di keue gob!
+  jawi: ''
+  id: Ia tidak malu berdiri mengangkang di depan orang!
+  en: ''
+- aceh: mu pheueng, teu pheueng
+  jawi: ''
+  id: kangkang, engkang, jangkang
+  en: ''
+- aceh: dong teu pheueng gaki
+  jawi: ''
+  id: berdiri mengangkang
+  en: ''
+- aceh: pu pheueng
+  jawi: ''
+  id: membiarkan terkangkang (ump kaki)
+  en: ''
+- aceh: bèk tapu pheueng gaki!
+  jawi: ''
+  id: Anda jangan mengangkang!
+  en: ''
 etymology: ''
-related_words:
-- phang
+related_words: []
 dialect_notes: ''
-source: 'Daud, Bukhari & Mark Durie. Kamus Basa Acèh = Kamus Bahasa Aceh: Acehnese–Indonesian–English Thesaurus.
-  Pacific Linguistics C-151, 1999, p. 37.'
-date_added: '2026-07-20'
+source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
+  Pendidikan dan Kebudayaan, 1985, hlm. 715'
+date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: ''
+extraction_notes: 'Jawi left blank: the source is Latin-script only and no Jawi form is printed for this
+  entry.'

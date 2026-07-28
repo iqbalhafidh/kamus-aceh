@@ -2,16 +2,39 @@ headword: reumok
 jawi: ''
 alt_spelling: []
 ipa: ''
-part_of_speech: ''
+part_of_speech: a
 definitions:
 - meaning_id: remuk
-  meaning_en: crushed
-examples: []
+  meaning_en: ''
+- meaning_id: hancur
+  meaning_en: shattered
+- meaning_id: rusak pada bahagian dalam
+  meaning_en: ''
+- meaning_id: berbagai-bagai penganan
+  meaning_en: ''
+examples:
+- aceh: si Pulan jipoh le si Pulen 'oh reumok ulee
+  jawi: ''
+  id: Si Polan dipukul oleh si Polin sampai remuk atau hancur kepalanya
+  en: ''
+- aceh: gata tapajoh reumok, hana tabri keu lon
+  jawi: ''
+  id: Anda makan penganan dan tidak memberi saya
+  en: ''
+- aceh: peu reumok
+  jawi: ''
+  id: meremukkan dsb
+  en: ''
+- aceh: pakon tapeu reumok ulee aneuk gob le gata?
+  jawi: ''
+  id: Mengapa Anda meremukkan (memukul) kepala anak orang?
+  en: ''
 etymology: ''
 related_words: []
 dialect_notes: ''
-source: 'Daud, Bukhari & Mark Durie. Kamus Basa Acèh = Kamus Bahasa Aceh: Acehnese–Indonesian–English Thesaurus.
-  Pacific Linguistics C-151, 1999, p. 89.'
-date_added: '2026-07-20'
+source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
+  Pendidikan dan Kebudayaan, 1985, hlm. 794'
+date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: ''
+extraction_notes: 'Jawi left blank: the source is Latin-script only and no Jawi form is printed for this
+  entry.'

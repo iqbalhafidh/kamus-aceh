@@ -2,19 +2,25 @@ headword: mom
 jawi: ''
 alt_spelling: []
 ipa: ''
-part_of_speech: ''
+part_of_speech: n
 definitions:
-- meaning_id: tetek, buah dada, payudara
-  meaning_en: breast
-examples: []
+- meaning_id: buah dada wanita atau binatang betina, tetek, putik, menyusu
+  meaning_en: the breast of a woman or female animal, breast, bud, to suckle
+examples:
+- aceh: Nabi Muhammad geupulé Siti Halimah
+  jawi: ''
+  id: Nabi Muhammad disusui oleh SH ureueng pumom, orang yg menyusukan buah dadanya, penyusu
+  en: The Prophet Muhammad was suckled by SH; a wet nurse
 etymology: ''
 related_words:
-- dek
-- tek
+- abin
+- dèk
+- mik
+- tèk
 dialect_notes: ''
-source: 'Daud, Bukhari & Mark Durie. Kamus Basa Acèh = Kamus Bahasa Aceh: Acehnese–Indonesian–English Thesaurus.
-  Pacific Linguistics C-151, 1999, p. 29.'
-date_added: '2026-07-20'
+source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
+  Pendidikan dan Kebudayaan, 1985, hlm. 610'
+date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: PDF text-layer mismatch in the Acehnese form; copied from the searchable PDF text layer and needs
-  visual verification against printed p. 29.
+extraction_notes: 'Jawi left blank: the source is Latin-script only and no Jawi form is printed for this
+  entry.'

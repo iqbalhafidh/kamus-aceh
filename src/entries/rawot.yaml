@@ -2,17 +2,31 @@ headword: rawot
 jawi: ''
 alt_spelling: []
 ipa: ''
-part_of_speech: ''
+part_of_speech: v
 definitions:
-- meaning_id: meruncingkan
-  meaning_en: sharpen
-examples: []
+- meaning_id: meraut
+  meaning_en: to whittle
+- meaning_id: menghaluskan atau memotong sesuatu secara memanjang sehingga runcing (tentang rotan
+  meaning_en: ''
+- meaning_id: bambu
+  meaning_en: bamboo
+- meaning_id: kayu)
+  meaning_en: wood
+examples:
+- aceh: sapai inong nyan lagee geu rawotrawot
+  jawi: ''
+  id: lengan wanita itu laksana diraut
+  en: ''
+- aceh: keumamaih teu rawot
+  jawi: ''
+  id: ikan kayu yang
+  en: ''
 etymology: ''
 related_words: []
 dialect_notes: ''
-source: 'Daud, Bukhari & Mark Durie. Kamus Basa Acèh = Kamus Bahasa Aceh: Acehnese–Indonesian–English Thesaurus.
-  Pacific Linguistics C-151, 1999, p. 46.'
-date_added: '2026-07-20'
+source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
+  Pendidikan dan Kebudayaan, 1985, hlm. 785'
+date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: PDF text-layer mismatch in the Acehnese form; copied from the searchable PDF text layer and needs
-  visual verification against printed p. 46.
+extraction_notes: 'Jawi left blank: the source is Latin-script only and no Jawi form is printed for this
+  entry.'

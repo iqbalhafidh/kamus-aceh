@@ -2,16 +2,38 @@ headword: paya
 jawi: ''
 alt_spelling: []
 ipa: ''
-part_of_speech: ''
+part_of_speech: n
 definitions:
-- meaning_id: rawa, paya
-  meaning_en: marsh, swamp
-examples: []
+- meaning_id: paya
+  meaning_en: swamp
+- meaning_id: rawa
+  meaning_en: marsh
+- meaning_id: sawah yang terletak di daerah yang berawa-rawa
+  meaning_en: ''
+examples:
+- aceh: mupaya
+  jawi: ''
+  id: berpaya-paya, menyerupai paya
+  en: swamp swamp, to resemble swamp
+- aceh: ka mu paya yub moh
+  jawi: ''
+  id: Di bawah rumah sudah menyerupai paya
+  en: ''
+- aceh: pupaya
+  jawi: ''
+  id: membuat shg menjadi, menyerupai, atau membiarkan menjadi atau menyerupai paya
+  en: ''
+- aceh: pakon tapu paya yub moh gata?
+  jawi: ''
+  id: Mengapa Anda membiarkan di bawah rumah sehingga menyerupai paya?
+  en: ''
 etymology: ''
-related_words: []
+related_words:
+- bueng
 dialect_notes: ''
-source: 'Daud, Bukhari & Mark Durie. Kamus Basa Acèh = Kamus Bahasa Aceh: Acehnese–Indonesian–English Thesaurus.
-  Pacific Linguistics C-151, 1999, p. 93.'
-date_added: '2026-07-20'
+source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
+  Pendidikan dan Kebudayaan, 1985, hlm. 686'
+date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: ''
+extraction_notes: 'Jawi left blank: the source is Latin-script only and no Jawi form is printed for this
+  entry.'

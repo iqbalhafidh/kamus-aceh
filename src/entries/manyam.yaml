@@ -2,16 +2,27 @@ headword: manyam
 jawi: ''
 alt_spelling: []
 ipa: ''
-part_of_speech: ''
+part_of_speech: n
 definitions:
-- meaning_id: ukuran timbangan emas
-  meaning_en: measure of gold
+- meaning_id: mayang
+  meaning_en: palm blossom
+- meaning_id: tandan bunga
+  meaning_en: ''
+- meaning_id: gagang bunga (pada tanaman palma
+  meaning_en: the flower stalk of a palm
+- meaning_id: terutama pinang dan kelapa)
+  meaning_en: ''
+- meaning_id: mayam, timbangan emas
+  meaning_en: a gold weight, gold scales
 examples: []
 etymology: ''
 related_words: []
 dialect_notes: ''
-source: 'Daud, Bukhari & Mark Durie. Kamus Basa Acèh = Kamus Bahasa Aceh: Acehnese–Indonesian–English Thesaurus.
-  Pacific Linguistics C-151, 1999, p. 85.'
-date_added: '2026-07-20'
+source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
+  Pendidikan dan Kebudayaan, 1985, hlm. 576'
+date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: ''
+extraction_notes: 'Homonym 1 in the source (printed as a superscript numeral before the headword). Jawi
+  left blank: the source is Latin-script only and no Jawi form is printed for this entry. | Homonym 2
+  in the source (printed as a superscript numeral before the headword). Jawi left blank: the source is
+  Latin-script only and no Jawi form is printed for this entry.'

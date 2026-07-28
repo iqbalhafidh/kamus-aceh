@@ -2,16 +2,38 @@ headword: mieng
 jawi: ''
 alt_spelling: []
 ipa: ''
-part_of_speech: ''
+part_of_speech: n
 definitions:
 - meaning_id: pipi
   meaning_en: cheek
+- meaning_id: tepi muara sungai
+  meaning_en: ''
+- meaning_id: boh —
+  meaning_en: ''
+- meaning_id: bahagian berdaging pada pipi
+  meaning_en: the fleshy part of the cheek
+- meaning_id: — krueb dan ôn — krueh — krueb
+  meaning_en: ''
+- meaning_id: — — ka lhôk
+  meaning_en: ''
+- meaning_id: lagée ureueng p'ieb candu
+  meaning_en: ''
+- meaning_id: Kedua pipinya sudah melekuk seperti orang mengisap candu. mu—
+  meaning_en: His cheeks are sunken like an opium smoker's
+- meaning_id: berpipi
+  meaning_en: cheek
+- meaning_id: menyerupai pipi
+  meaning_en: to resemble cheek
+- meaning_id: mu— krueb
+  meaning_en: ''
 examples: []
 etymology: ''
-related_words: []
+related_words:
+- krueb
 dialect_notes: ''
-source: 'Daud, Bukhari & Mark Durie. Kamus Basa Acèh = Kamus Bahasa Aceh: Acehnese–Indonesian–English Thesaurus.
-  Pacific Linguistics C-151, 1999, p. 28.'
-date_added: '2026-07-20'
+source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
+  Pendidikan dan Kebudayaan, 1985, hlm. 604'
+date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: ''
+extraction_notes: 'Jawi left blank: the source is Latin-script only and no Jawi form is printed for this
+  entry.'

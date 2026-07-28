@@ -1,17 +1,44 @@
 headword: madu
 jawi: ''
-alt_spelling: []
+alt_spelling:
+- madzu
 ipa: ''
-part_of_speech: ''
+part_of_speech: n
 definitions:
 - meaning_id: madu
-  meaning_en: a second wife of a polygamous man
-examples: []
+  meaning_en: honey
+- meaning_id: isteri yang dikawini setelah ada isteri pertama
+  meaning_en: a wife taken after a first wife
+examples:
+- aceh: ie madu
+  jawi: ''
+  id: (air) madu lebah
+  en: bee honey
+- aceh: jipeuduek madu lagèe seunungkèe
+  jawi: ''
+  id: Ia menempatkan madunya spt menempatkan batu tungku. (ki) Ia dapat mendamaikan madu-madunya
+  en: 'He sets his co-wives like the stones of a hearth: he can keep peace among them'
+- aceh: mu madu
+  jawi: ''
+  id: bermadu, mempunyai isteri lebih dr satu orang
+  en: ''
+- aceh: pu madu
+  jawi: ''
+  id: memadukan, mengawini lebih dr seorang isteri
+  en: ''
+- aceh: bèk tapu madu lòn bòh!
+  jawi: ''
+  id: Anda jangan memadukan saya, ya!
+  en: Do not take a second wife over me!
 etymology: ''
 related_words: []
 dialect_notes: ''
-source: 'Daud, Bukhari & Mark Durie. Kamus Basa Acèh = Kamus Bahasa Aceh: Acehnese–Indonesian–English Thesaurus.
-  Pacific Linguistics C-151, 1999, p. 12.'
-date_added: '2026-07-20'
+source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
+  Pendidikan dan Kebudayaan, 1985, hlm. 565'
+date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: ''
+extraction_notes: 'Homonym 1 in the source (printed as a superscript numeral before the headword). Jawi
+  left blank: the source is Latin-script only and no Jawi form is printed for this entry. | Homonym 2
+  in the source (printed as a superscript numeral before the headword). Jawi left blank: the source is
+  Latin-script only and no Jawi form is printed for this entry. Part of speech not stated in the source;
+  left blank.'

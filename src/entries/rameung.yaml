@@ -1,0 +1,39 @@
+headword: rameung
+jawi: ''
+alt_spelling:
+- ameung
+ipa: ''
+part_of_speech: a
+definitions:
+- meaning_id: remang-remang
+  meaning_en: dim
+- meaning_id: samar-samar
+  meaning_en: indistinct
+- meaning_id: tidak jelas
+  meaning_en: ''
+examples:
+- aceh: hana deuih
+  jawi: ''
+  id: remang-remang, tidak jelas tampaknya
+  en: ''
+- aceh: ija rameung
+  jawi: ''
+  id: kain yg tembus pandangan
+  en: ''
+- aceh: meurameung
+  jawi: ''
+  id: keadaan remang-remang
+  en: state dim
+- aceh: nadeuih meurameung
+  jawi: ''
+  id: ada tampak, tetapi remang-remang
+  en: there is visible, but dim
+etymology: ''
+related_words: []
+dialect_notes: ''
+source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
+  Pendidikan dan Kebudayaan, 1985, hlm. 771'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+extraction_notes: 'Jawi left blank: the source is Latin-script only and no Jawi form is printed for this
+  entry.'

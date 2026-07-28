@@ -2,16 +2,29 @@ headword: reuteuek
 jawi: ''
 alt_spelling: []
 ipa: ''
-part_of_speech: ''
+part_of_speech: n
 definitions:
-- meaning_id: kacang panjang
-  meaning_en: long beans
-examples: []
+- meaning_id: nama umum untuk kacangkacangan
+  meaning_en: ''
+examples:
+- aceh: panyang
+  jawi: ''
+  id: kacang panjang
+  en: long bean
+- aceh: puteh
+  jawi: ''
+  id: kacang yg putih bijinya
+  en: ''
+- aceh: timoh, juga (= toge)
+  jawi: ''
+  id: kacang hijau yg sudah tumbuh atau taoge
+  en: ''
 etymology: ''
 related_words: []
 dialect_notes: ''
-source: 'Daud, Bukhari & Mark Durie. Kamus Basa Acèh = Kamus Bahasa Aceh: Acehnese–Indonesian–English Thesaurus.
-  Pacific Linguistics C-151, 1999, p. 102.'
-date_added: '2026-07-20'
+source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
+  Pendidikan dan Kebudayaan, 1985, hlm. 801'
+date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: ''
+extraction_notes: 'English gloss left blank: no confident translation of the Indonesian definition was
+  available. Jawi left blank: the source is Latin-script only and no Jawi form is printed for this entry.'

@@ -2,17 +2,27 @@ headword: pinah
 jawi: ''
 alt_spelling: []
 ipa: ''
-part_of_speech: ''
+part_of_speech: v
 definitions:
-- meaning_id: pindah
-  meaning_en: move
-examples: []
+- meaning_id: pindah, memindahkan, menyimpan di tempatnya, mengubah, menggantikan, menerjemahkan
+  meaning_en: to move, to store at place, to alter, substitute, to translate
+examples:
+- aceh: atra nyoe ka mupinah pinah
+  jawi: ''
+  id: kon bak teumpat sêt lé, Benda ini sudah berpindah-pindah, tidak pd tempatnya lagi. pupinah, melakukan
+    pinah
+  en: ''
+- aceh: jih ka geupupinah bak teumpat nyang ramê that
+  jawi: ''
+  id: Ia sudah dipindahkan ke tempat yg sangat ramai
+  en: ''
 etymology: ''
 related_words:
-- puwèh
+- minah
 dialect_notes: ''
-source: 'Daud, Bukhari & Mark Durie. Kamus Basa Acèh = Kamus Bahasa Aceh: Acehnese–Indonesian–English Thesaurus.
-  Pacific Linguistics C-151, 1999, p. 43.'
-date_added: '2026-07-20'
+source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
+  Pendidikan dan Kebudayaan, 1985, hlm. 722'
+date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: ''
+extraction_notes: 'Jawi left blank: the source is Latin-script only and no Jawi form is printed for this
+  entry.'

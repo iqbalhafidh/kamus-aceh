@@ -1,0 +1,27 @@
+headword: mama
+jawi: ''
+alt_spelling:
+- mamak
+ipa: ''
+part_of_speech: a
+definitions:
+- meaning_id: paman
+  meaning_en: uncle
+- meaning_id: makcok
+  meaning_en: ''
+examples:
+- aceh: so-idina Andah mama Nabi, Saidina Hamzah adalah paman Nabi Muhammad SAW jimupake adoe ngon aduen,
+    mama ngon keumuen jimeudakwa
+  jawi: ''
+  id: Adik dan abang saling bergaduh, sedangkan paman dan kemenakan saling berbantah-bantah
+  en: Younger and elder brother quarrel, while uncle and nephew dispute
+etymology: ''
+related_words:
+- paduen
+dialect_notes: ''
+source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
+  Pendidikan dan Kebudayaan, 1985, hlm. 571'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+extraction_notes: 'Jawi left blank: the source is Latin-script only and no Jawi form is printed for this
+  entry.'

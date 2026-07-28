@@ -1,14 +1,27 @@
 headword: meunara
-jawi: مونارا
-alt_spelling: []
+jawi: ''
+alt_spelling:
+- mônara
 ipa: ''
-part_of_speech: ''
-definitions: []
+part_of_speech: n
+definitions:
+- meaning_id: menara
+  meaning_en: tower
+examples:
+- aceh: tujôh boh
+  jawi: ''
+  id: ketujuh buah menara pd mesjid Mekah
+  en: ''
+- aceh: beureukat meunara ban tujôh boh, beureukat suthoh bandum lingka
+  jawi: ''
+  id: berkat ketujuh buah menara dan atap-atap di sekelilingnya
+  en: ''
 etymology: ''
-related_words:
-- jut
+related_words: []
 dialect_notes: ''
-source: Kamus Aceh-Indonesia (Acehnese-Indonesian Dictionary), p. 225
+source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
+  Pendidikan dan Kebudayaan, 1985, hlm. 594'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: Cross-reference entry pointing to 'jut'. Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate reviewer.
+extraction_notes: 'Homonym 1 in the source (printed as a superscript numeral before the headword). Jawi
+  left blank: the source is Latin-script only and no Jawi form is printed for this entry.'

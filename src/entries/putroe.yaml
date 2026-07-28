@@ -2,16 +2,38 @@ headword: putroe
 jawi: ''
 alt_spelling: []
 ipa: ''
-part_of_speech: ''
+part_of_speech: n
 definitions:
-- meaning_id: permaisuri
-  meaning_en: queen, princess
-examples: []
+- meaning_id: puteri
+  meaning_en: princess
+- meaning_id: ratu
+  meaning_en: queen
+- meaning_id: anak perempuan atau isteri raja
+  meaning_en: ''
+- meaning_id: dipergunakan sebagai mama diri
+  meaning_en: ''
+- meaning_id: gambar wanita pada permainan kartu
+  meaning_en: ''
+examples:
+- aceh: muputroe
+  jawi: ''
+  id: mempunyai puteri, berputeri, menyerupai puteri
+  en: to have princess, princess, to resemble princess
+- aceh: muputroe manoe
+  jawi: ''
+  id: menyerupai puteri mandi, berlesung pipit
+  en: ''
+- aceh: miengji muputroe manoe
+  jawi: ''
+  id: Pipinya menyerupai 'puteri mandi'. Pipinya berlesung pipit
+  en: ''
 etymology: ''
-related_words: []
+related_words:
+- lueb
 dialect_notes: ''
-source: 'Daud, Bukhari & Mark Durie. Kamus Basa Acèh = Kamus Bahasa Aceh: Acehnese–Indonesian–English Thesaurus.
-  Pacific Linguistics C-151, 1999, p. 17.'
-date_added: '2026-07-20'
+source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
+  Pendidikan dan Kebudayaan, 1985, hlm. 759'
+date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: ''
+extraction_notes: 'Jawi left blank: the source is Latin-script only and no Jawi form is printed for this
+  entry.'

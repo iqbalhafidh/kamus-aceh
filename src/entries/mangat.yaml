@@ -2,21 +2,49 @@ headword: mangat
 jawi: ''
 alt_spelling: []
 ipa: ''
-part_of_speech: ''
+part_of_speech: a
 definitions:
-- meaning_id: enak, mudah
-  meaning_en: delicious, nice, easy
-- meaning_id: mudah, gampang
-  meaning_en: easy
-- meaning_id: enak, lezat
-  meaning_en: delicious
-examples: []
+- meaning_id: enak, menyenangkan (terutama untuk rasa, bau), mudah, spy, agar
+  meaning_en: pleasant, pleasing, especially to the taste, smell, easy, so that
+examples:
+- aceh: mangat that boh panaih nyoe
+  jawi: ''
+  id: Buah nangka ini sangat enak
+  en: This jackfruit is very good
+- aceh: mangat that haba nyan
+  jawi: ''
+  id: Cerita atau 'kabar itu sangat menyenangkan
+  en: That news is very pleasing
+- aceh: ka jirasa mangat
+  jawi: ''
+  id: sudah merasa enak atau senang
+  en: ''
+- aceh: aneuk nyan mangat asoe
+  jawi: ''
+  id: bek tapumanoe! Anak itu tidak enak badan
+  en: ''
+- aceh: mangat bek
+  jawi: ''
+  id: spy tidak
+  en: ''
+- aceh: saket mangat
+  jawi: ''
+  id: yg enak atau tidak enak, senang dan susah, mudah dan payah
+  en: ''
+- aceh: pakon h'an tapeugah bak lon mangat pruoe jih
+  jawi: ''
+  id: Mengapa Anda tidak memberitahukan kpd saya spy saya ajar
+  en: Why did you not tell me so that I might teach him?
+- aceh: laba jinoe laba dudoe
+  jawi: ''
+  id: ban dua nanggroe labji na, Barang siapa yg menyenangkan hati gurunya akan memperoleh dua keuntungan
+  en: ''
 etymology: ''
-related_words:
-- lazat
+related_words: []
 dialect_notes: ''
-source: 'Daud, Bukhari & Mark Durie. Kamus Basa Acèh = Kamus Bahasa Aceh: Acehnese–Indonesian–English Thesaurus.
-  Pacific Linguistics C-151, 1999, p. 48; p. 51; p. 73; vii (PDF p. 5).'
-date_added: '2026-07-20'
+source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
+  Pendidikan dan Kebudayaan, 1985, hlm. 573'
+date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: ''
+extraction_notes: 'Jawi left blank: the source is Latin-script only and no Jawi form is printed for this
+  entry.'

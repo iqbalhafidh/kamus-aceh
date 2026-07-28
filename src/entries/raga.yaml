@@ -2,16 +2,81 @@ headword: raga
 jawi: ''
 alt_spelling: []
 ipa: ''
-part_of_speech: ''
+part_of_speech: n
 definitions:
-- meaning_id: keranjang
-  meaning_en: basket
-examples: []
+- meaning_id: keranjang terbuat dari bambu
+  meaning_en: ''
+- meaning_id: rotan yang dianyam dan sebagainya
+  meaning_en: ''
+- meaning_id: bola keranjang rotan yang kosong di tengahnya
+  meaning_en: ''
+- meaning_id: dipergunakan pada sejenis permainan bola kai
+  meaning_en: ''
+examples:
+- aceh: jok
+  jawi: ''
+  id: keranjang bulu ijuk yg besar-besar lobangnya, utk keranjang rumput
+  en: ''
+- aceh: raleuet
+  jawi: ''
+  id: keranjang kecil terbut dr kumpai, tempat ikan
+  en: ''
+- aceh: dua lapeh
+  jawi: ''
+  id: keranjang daun kelapa yg dianyam dua lapis
+  en: ''
+- aceh: mata punoe
+  jawi: ''
+  id: keranjang anyaman rotan dgn lobang-lobang yg berbaris di bahagian tengahnya
+  en: ''
+- aceh: meutakué
+  jawi: ''
+  id: keranjang rotan berleher yg menyerupai corong, tempat menangkap ikan-ikan kecil (spt udang) atau
+    tempat memasukkan ikan-ikan yg telah ditangkap
+  en: ''
+- aceh: meutangké
+  jawi: ''
+  id: keranjang bertangkai
+  en: ''
+- aceh: eungkôt
+  jawi: ''
+  id: keranjang tempat mengisi ikan
+  en: basket place fill fish
+- aceh: muge
+  jawi: ''
+  id: keranjang tengkulak, sj keranjang ikan yg besar bentuknya, dipergunakan oleh tengkulak-tengkulak
+    ikan
+  en: ''
+- aceh: naleueng
+  jawi: ''
+  id: keranjang tempat mengisi rumput
+  en: basket place fill grass
+- aceh: sipak raga
+  jawi: ''
+  id: menyepak atau bermain bola keranjang rotan
+  en: ''
+- aceh: meuraga
+  jawi: ''
+  id: mempunyai atau memakai keranjang
+  en: ''
+- aceh: meuraga raga
+  jawi: ''
+  id: berkeranjang-keranjang
+  en: basket basket
+- aceh: peuraga
+  jawi: ''
+  id: memasukkan ke dl keranjang, juga kasar utk melontarkan, menjatuhkan
+  en: ''
+- aceh: bèk lé kapeugah haba, kupeu keu u yub treuk!
+  jawi: ''
+  id: Engkau jangan banyak cakap, kulontarkan engkau ke bawah nanti!
+  en: ''
 etymology: ''
 related_words: []
 dialect_notes: ''
-source: 'Daud, Bukhari & Mark Durie. Kamus Basa Acèh = Kamus Bahasa Aceh: Acehnese–Indonesian–English Thesaurus.
-  Pacific Linguistics C-151, 1999, p. 67.'
-date_added: '2026-07-20'
+source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
+  Pendidikan dan Kebudayaan, 1985, hlm. 763'
+date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: ''
+extraction_notes: 'English gloss left blank: no confident translation of the Indonesian definition was
+  available. Jawi left blank: the source is Latin-script only and no Jawi form is printed for this entry.'

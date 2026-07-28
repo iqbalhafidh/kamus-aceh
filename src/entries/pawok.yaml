@@ -1,0 +1,34 @@
+headword: pawok
+jawi: ''
+alt_spelling: []
+ipa: ''
+part_of_speech: n
+definitions:
+- meaning_id: sekitar
+  meaning_en: around
+- meaning_id: daerah
+  meaning_en: region, district
+- meaning_id: wilayah
+  meaning_en: territory
+- meaning_id: tempat
+  meaning_en: place
+- meaning_id: kelompok
+  meaning_en: group
+- meaning_id: menyebut tempat
+  meaning_en: ''
+- meaning_id: mengurus (hikayat)
+  meaning_en: to manage (hikayat)
+examples:
+- aceh: pat taduck? pawok lam pawok nyan
+  jawi: ''
+  id: Di manakah Anda tinggal? Di tempat itu
+  en: ''
+etymology: ''
+related_words: []
+dialect_notes: ''
+source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
+  Pendidikan dan Kebudayaan, 1985, hlm. 686'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+extraction_notes: 'Jawi left blank: the source is Latin-script only and no Jawi form is printed for this
+  entry.'

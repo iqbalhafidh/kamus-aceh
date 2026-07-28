@@ -2,18 +2,37 @@ headword: pasang
 jawi: ''
 alt_spelling: []
 ipa: ''
-part_of_speech: ''
+part_of_speech: v
 definitions:
-- meaning_id: pasang
-  meaning_en: fit together
-examples: []
+- meaning_id: menaiki
+  meaning_en: ascend
+- meaning_id: menunggang
+  meaning_en: to ride
+- meaning_id: mengendarai (untuk binatang)
+  meaning_en: to ride (for animal)
+- meaning_id: (hikayat) pasang
+  meaning_en: pair (hikayat)
+- meaning_id: memasang
+  meaning_en: to set up
+- meaning_id: menembakkan
+  meaning_en: fire to
+- meaning_id: mengadakan
+  meaning_en: there is
+- meaning_id: pasangan
+  meaning_en: pair
+- meaning_id: pasang atau dua buah
+  meaning_en: ''
+examples:
+- aceh: h'an ék lon pasang
+  jawi: ''
+  id: Saya tidak dapat mengendarai
+  en: ''
 etymology: ''
-related_words:
-- råk
+related_words: []
 dialect_notes: ''
-source: 'Daud, Bukhari & Mark Durie. Kamus Basa Acèh = Kamus Bahasa Aceh: Acehnese–Indonesian–English Thesaurus.
-  Pacific Linguistics C-151, 1999, p. 45.'
-date_added: '2026-07-20'
+source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
+  Pendidikan dan Kebudayaan, 1985, hlm. 679'
+date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: Headword spelling was aligned to the supplied OCR by conservative fuzzy matching (fuzzy:0.91);
-  verify against printed p. 45.
+extraction_notes: 'Jawi left blank: the source is Latin-script only and no Jawi form is printed for this
+  entry.'

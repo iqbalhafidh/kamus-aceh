@@ -2,17 +2,33 @@ headword: ramien
 jawi: ''
 alt_spelling: []
 ipa: ''
-part_of_speech: ''
+part_of_speech: v
 definitions:
-- meaning_id: piknik, rekreasi, bertamasya
-  meaning_en: picnic
-examples: []
+- meaning_id: menyembelih hewan dan lain-lain dan makan bersama-sama di alam terbuka
+  meaning_en: ''
+examples:
+- aceh: kameng
+  jawi: ''
+  id: menyembelih kambing dan makan bersama-sama di alam terbuka
+  en: ''
+- aceh: meuramien
+  jawi: ''
+  id: bersenang-senang secara beramai-ramai di alam terbuka, bertamasya, bersenang-senang di alam terbuka
+  en: ''
+- aceh: singoh geutanyoe tajak meuramien u pasi
+  jawi: ''
+  id: Besok kita bertamasya ke pantai
+  en: ''
+- aceh: soe tajak peusingoh
+  jawi: ''
+  id: '? Siapakah yg Anda undang bertamasya besok?'
+  en: ''
 etymology: ''
-related_words:
-- meuramien
+related_words: []
 dialect_notes: ''
-source: 'Daud, Bukhari & Mark Durie. Kamus Basa Acèh = Kamus Bahasa Aceh: Acehnese–Indonesian–English Thesaurus.
-  Pacific Linguistics C-151, 1999, p. 15.'
-date_added: '2026-07-20'
+source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
+  Pendidikan dan Kebudayaan, 1985, hlm. 771'
+date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: ''
+extraction_notes: 'English gloss left blank: no confident translation of the Indonesian definition was
+  available. Jawi left blank: the source is Latin-script only and no Jawi form is printed for this entry.'

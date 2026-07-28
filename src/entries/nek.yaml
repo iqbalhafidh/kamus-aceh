@@ -1,18 +1,79 @@
-headword: nek
+headword: nèk
 jawi: ''
 alt_spelling: []
 ipa: ''
-part_of_speech: ''
+part_of_speech: n
 definitions:
-- meaning_id: kata panggilan untuk harimau
-  meaning_en: word for calling a tiger
-examples: []
+- meaning_id: nenek, kakek, paman dari pihak ayah atau ibu, makcik dari pihak ayah atau ibu, panggilan
+    untuk wanita tua secara umum, panggilan kepada harimau jika orang berada di hutan
+  meaning_en: grandmother, grandfather, an uncle on either side, an aunt on either side, a general term
+    for an old woman, the term used for a tiger when one is in the forest
+- meaning_id: — ayah
+  meaning_en: father
+- meaning_id: ayah —
+  meaning_en: father
+- meaning_id: ku —
+  meaning_en: ''
+- meaning_id: kakek
+  meaning_en: grandfather
+- meaning_id: paman dari pihak ayah atau ibu
+  meaning_en: an uncle on either side
+- meaning_id: — wa
+  meaning_en: ''
+- meaning_id: — chik
+  meaning_en: ''
+- meaning_id: nenek atau kakek yang lebih tua dari kakek atau nenek
+  meaning_en: a grandparent older than one's own grandparent
+- meaning_id: — cut
+  meaning_en: ''
+- meaning_id: — muda
+  meaning_en: young
+- meaning_id: dari pihak ayah atau ibu
+  meaning_en: on the father's or mother's side
+- meaning_id: — tèh
+  meaning_en: ''
+- meaning_id: adik atau kakak-kakak pihak kakek atau nenek
+  meaning_en: the siblings of a grandparent
+- meaning_id: — lôt
+  meaning_en: ''
+- meaning_id: kakek atau nene k yang termuda
+  meaning_en: the youngest grandparent
+examples:
+- aceh: ngoh
+  jawi: ''
+  id: kakek atau nenek yg tertua
+  en: ''
+- aceh: cèedara) saboh nèk
+  jawi: ''
+  id: kemenakan laki-laki atau perempuan
+  en: ''
+- aceh: nè nèk, ni nèk, nènda, ninda, nènènda, ninènda
+  jawi: ''
+  id: nenek menenda, = nèk (biasanya dl hik)
+  en: ''
+- aceh: muyang
+  jawi: ''
+  id: nenek moyang
+  en: grandmother ancestor
+- aceh: peulheueh kaôi bak jeurat nèk
+  jawi: ''
+  id: melepaskan nazar pd kuburan nèk
+  en: ''
+- aceh: Teuku nèk, gelar ulèebalang-ulèebalang mukim Meuraksa dan IX mukim Lhòk Nga dl sagi XXV mukim
+    pd masa dahulu yg menurut riwayat merupakan lambang kakek-kakek Sultan Aceh
+  jawi: ''
+  id: ja
+  en: ''
 etymology: ''
 related_words:
-- datók
+- peunganjò
+- datòk
+- gob
+- ja
 dialect_notes: ''
-source: 'Daud, Bukhari & Mark Durie. Kamus Basa Acèh = Kamus Bahasa Aceh: Acehnese–Indonesian–English Thesaurus.
-  Pacific Linguistics C-151, 1999, p. 65.'
-date_added: '2026-07-20'
+source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
+  Pendidikan dan Kebudayaan, 1985, hlm. 631'
+date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: ''
+extraction_notes: 'Jawi left blank: the source is Latin-script only and no Jawi form is printed for this
+  entry.'

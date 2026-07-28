@@ -2,18 +2,70 @@ headword: padan
 jawi: ''
 alt_spelling: []
 ipa: ''
-part_of_speech: ''
+part_of_speech: n
 definitions:
-- meaning_id: tara, bandingan
-  meaning_en: comparison
-- meaning_id: bujuk
-  meaning_en: persuade
-examples: []
+- meaning_id: nasihat
+  meaning_en: advice
+- meaning_id: cara
+  meaning_en: way
+- meaning_id: tipu daya
+  meaning_en: ''
+- meaning_id: bujukan
+  meaning_en: coaxing
+- meaning_id: godaan
+  meaning_en: temptation
+- meaning_id: membujuk
+  meaning_en: to coax
+- meaning_id: merayu
+  meaning_en: to woo
+- meaning_id: tara, lawan (dalam hikayat)
+  meaning_en: equal, opponent (in hikayat)
+examples:
+- aceh: pakri padan
+  jawi: ''
+  id: '? Bagaimanakah caranya? Apakah yg harus dilakukan sekarang?'
+  en: ''
+- aceh: boh padan
+  jawi: ''
+  id: memberi nasihati, membujuk
+  en: to give advice, to coax
+- aceh: keunong padan
+  jawi: ''
+  id: tertipu, terpedaya
+  en: ''
+- aceh: agam nyan ka jipadan inong jeh
+  jawi: ''
+  id: Pria itu telah merayu wanita itu
+  en: ''
+- aceh: ka jipadan le jih
+  jawi: ''
+  id: sudah ditipu olehnya
+  en: ''
+- aceh: mupadan
+  jawi: ''
+  id: berdaya upaya
+  en: resourceful effort
+- aceh: pumadan
+  jawi: ''
+  id: melakukan padan, si pumadan, si penggoda
+  en: ''
+- aceh: jipateh peunadan gob
+  jawi: ''
+  id: Ia percaya bujukan orang lain
+  en: ''
+- aceh: sipadan, sabe padan, sepadan, hana, tan padan
+  jawi: ''
+  id: tidak sepadan, tidak setara
+  en: ''
 etymology: ''
 related_words: []
-dialect_notes: ''
-source: 'Daud, Bukhari & Mark Durie. Kamus Basa Acèh = Kamus Bahasa Aceh: Acehnese–Indonesian–English Thesaurus.
-  Pacific Linguistics C-151, 1999, p. 55; p. 56.'
-date_added: '2026-07-20'
+dialect_notes: 'Marked (dl hik) in the source: attested in hikayat, the classical Acehnese narrative verse
+  register.'
+source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
+  Pendidikan dan Kebudayaan, 1985, hlm. 654'
+date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: ''
+extraction_notes: 'Homonym 1 in the source (printed as a superscript numeral before the headword). Jawi
+  left blank: the source is Latin-script only and no Jawi form is printed for this entry. | Homonym 2
+  in the source (printed as a superscript numeral before the headword). Jawi left blank: the source is
+  Latin-script only and no Jawi form is printed for this entry.'

@@ -2,17 +2,27 @@ headword: nang
 jawi: ''
 alt_spelling: []
 ipa: ''
-part_of_speech: ''
+part_of_speech: n
 definitions:
-- meaning_id: betina
-  meaning_en: female
+- meaning_id: induk (biasanya dipergunakan untuk hewan
+  meaning_en: the dam, usually of animals
+- meaning_id: untuk manusia dianggap kasar
+  meaning_en: of a person it is considered coarse
+- meaning_id: dan terdapat juga dalam ragam percakapan dan hikayat) — apa
+  meaning_en: also found in conversation and hikayat
+- meaning_id: — eumbah
+  meaning_en: ''
+- meaning_id: kedua-dua orang tua
+  meaning_en: two two person old
+- meaning_id: kamèng nyoe toh — jih? Yg manakah induk kambing ini?
+  meaning_en: Which is this goat's dam?
 examples: []
 etymology: ''
-related_words:
-- inöng
+related_words: []
 dialect_notes: ''
-source: 'Daud, Bukhari & Mark Durie. Kamus Basa Acèh = Kamus Bahasa Aceh: Acehnese–Indonesian–English Thesaurus.
-  Pacific Linguistics C-151, 1999, p. 104.'
-date_added: '2026-07-20'
+source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
+  Pendidikan dan Kebudayaan, 1985, hlm. 628'
+date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: ''
+extraction_notes: 'Jawi left blank: the source is Latin-script only and no Jawi form is printed for this
+  entry.'

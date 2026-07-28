@@ -2,16 +2,30 @@ headword: maksiet
 jawi: ''
 alt_spelling: []
 ipa: ''
-part_of_speech: ''
+part_of_speech: a
 definitions:
 - meaning_id: maksiat
-  meaning_en: evil deeds
-examples: []
+  meaning_en: sin
+- meaning_id: tidak patuh (terutama terhadap ketentuan-ketentuan Allah)
+  meaning_en: ''
+- meaning_id: berdosa
+  meaning_en: sin
+examples:
+- aceh: ureueng maksiet teumpatji lam nuraka
+  jawi: ''
+  id: Orang yg berbuat maksiat tempatnya di dl neraka. pu maksiet, berbuat atau bersikap shg tergolong
+    dl orang yg maksiat
+  en: The sinner's place is in hell
+- aceh: gata aneuk teungku
+  jawi: ''
+  id: pakon tapu maksiet maksiet droe? Anda seorang anak teungku, Mengapa Anda berbuat spt seorang maksiat?
+  en: ''
 etymology: ''
 related_words: []
 dialect_notes: ''
-source: 'Daud, Bukhari & Mark Durie. Kamus Basa Acèh = Kamus Bahasa Aceh: Acehnese–Indonesian–English Thesaurus.
-  Pacific Linguistics C-151, 1999, p. 23.'
-date_added: '2026-07-20'
+source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
+  Pendidikan dan Kebudayaan, 1985, hlm. 568'
+date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: ''
+extraction_notes: 'Jawi left blank: the source is Latin-script only and no Jawi form is printed for this
+  entry.'

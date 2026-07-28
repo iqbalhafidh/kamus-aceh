@@ -1,19 +1,27 @@
-headword: meh
+headword: mèh
 jawi: ''
-alt_spelling: []
+alt_spelling:
+- mè
 ipa: ''
 part_of_speech: ''
 definitions:
-- meaning_id: meja
-  meaning_en: table
-examples: []
+- meaning_id: berikan, beri ke mari, marilah
+  meaning_en: give, give to come, come
+examples:
+- aceh: mèh keu lôn kupiah lôn
+  jawi: ''
+  id: Beri ke mari kopiah saya
+  en: Hand me my cap
+- aceh: (ta) mèh lon kalon
+  jawi: ''
+  id: Marilah saya melihatnya. meja
+  en: Let me see it
 etymology: ''
-related_words:
-- meja
+related_words: []
 dialect_notes: ''
-source: 'Daud, Bukhari & Mark Durie. Kamus Basa Acèh = Kamus Bahasa Aceh: Acehnese–Indonesian–English Thesaurus.
-  Pacific Linguistics C-151, 1999, p. 78.'
-date_added: '2026-07-20'
+source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
+  Pendidikan dan Kebudayaan, 1985, hlm. 584'
+date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: PDF text-layer mismatch in the Acehnese form; copied from the searchable PDF text layer and needs
-  visual verification against printed p. 78.
+extraction_notes: 'Jawi left blank: the source is Latin-script only and no Jawi form is printed for this
+  entry. Part of speech not stated in the source; left blank.'

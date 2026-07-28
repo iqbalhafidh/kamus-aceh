@@ -2,17 +2,40 @@ headword: rakan
 jawi: ''
 alt_spelling: []
 ipa: ''
-part_of_speech: ''
+part_of_speech: n
 definitions:
-- meaning_id: kawan, ternan
+- meaning_id: rekan
+  meaning_en: companion
+- meaning_id: teman
   meaning_en: friend
-examples: []
+- meaning_id: sahabat
+  meaning_en: friend
+- meaning_id: (selanjutnya) pengikut seorang pemimpin
+  meaning_en: ''
+examples:
+- aceh: lôn ngon gobnyan sirakan
+  jawi: ''
+  id: Saya dan dia adalah peserta
+  en: ''
+- aceh: jih rakan lon
+  jawi: ''
+  id: Ia sahabat saya
+  en: ''
+- aceh: 'meurakan, berteman: si Pulan ka jimeu rakan ngon inong nyan, Si Polan sudah berteman (di sini
+    mengadakan hubungan gelap) dgn wanita itu: meu rakan aneuk miet'
+  jawi: ''
+  id: berkawan dgn anak-anak, yi halus utk melakukan liwat
+  en: ''
+- aceh: peurakan
+  jawi: ''
+  id: membuat sbg teman, membiarkan bergaul
+  en: ''
 etymology: ''
-related_words:
-- ngön
+related_words: []
 dialect_notes: ''
-source: 'Daud, Bukhari & Mark Durie. Kamus Basa Acèh = Kamus Bahasa Aceh: Acehnese–Indonesian–English Thesaurus.
-  Pacific Linguistics C-151, 1999, p. 15; vii (PDF p. 5).'
-date_added: '2026-07-20'
+source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
+  Pendidikan dan Kebudayaan, 1985, hlm. 767'
+date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: ''
+extraction_notes: 'Jawi left blank: the source is Latin-script only and no Jawi form is printed for this
+  entry.'

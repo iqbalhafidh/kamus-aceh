@@ -2,16 +2,36 @@ headword: panteue
 jawi: ''
 alt_spelling: []
 ipa: ''
-part_of_speech: ''
+part_of_speech: n
 definitions:
-- meaning_id: balai-balai temp at duduk
-  meaning_en: platform for sitting together
+- meaning_id: para-para
+  meaning_en: the (plural marker)s
+- meaning_id: rak kayu atau bambu tempat menyimpan umpamanya kayu api di kolong rumah
+  meaning_en: ''
+- meaning_id: tempat wanita menganginkan padi (pemeukrui - krui)
+  meaning_en: ''
+- meaning_id: palung tempat makanan hewan (- eumpeuen leumo
+  meaning_en: ''
+- meaning_id: keubeue)
+  meaning_en: ''
+- meaning_id: balai-balai tempat tidur atau beristirahat
+  meaning_en: ''
+- meaning_id: rusbang
+  meaning_en: ''
+- meaning_id: ta boh eumpeuen keubeue lam-
+  meaning_en: ''
+- meaning_id: Masukkanlah makanan kerbau ke dalam palung. - (bak) labu
+  meaning_en: ''
+- meaning_id: para-para tempat menjalankan tanaman labu
+  meaning_en: ''
 examples: []
 etymology: ''
-related_words: []
+related_words:
+- prataih
 dialect_notes: ''
-source: 'Daud, Bukhari & Mark Durie. Kamus Basa Acèh = Kamus Bahasa Aceh: Acehnese–Indonesian–English Thesaurus.
-  Pacific Linguistics C-151, 1999, p. 16.'
-date_added: '2026-07-20'
+source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
+  Pendidikan dan Kebudayaan, 1985, hlm. 674'
+date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: ''
+extraction_notes: 'Jawi left blank: the source is Latin-script only and no Jawi form is printed for this
+  entry.'

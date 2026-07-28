@@ -2,16 +2,23 @@ headword: ragam
 jawi: ''
 alt_spelling: []
 ipa: ''
-part_of_speech: ''
-definitions: []
-examples: []
+part_of_speech: n
+definitions:
+- meaning_id: ragam, irama, lagu, nada, (juga) cara melakukan sesuatu, sikap, kelakuan, (selanjutnya)
+    jenis, warna, menyanyikan sesuatu irama, bercerita, bersikap seperti, seolah-olah
+  meaning_en: variety, rhythm, tune, tone, way to perform something (also), attitude, behaviour, kind
+    (further), colour, to sing something rhythm, story, to behave like, as though
+examples:
+- aceh: peue ragam jiyob bangsi ureueng jéh bunoe?
+  jawi: ''
+  id: Lagu apakah yg dimainkan dgn suling oleh orang itu tadi?
+  en: ''
 etymology: ''
 related_words: []
 dialect_notes: ''
-source: 'Daud, Bukhari & Mark Durie. Kamus Basa Acèh = Kamus Bahasa Aceh: Acehnese–Indonesian–English Thesaurus.
-  Pacific Linguistics C-151, 1999, vii (PDF p. 5).'
-date_added: '2026-07-20'
+source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
+  Pendidikan dan Kebudayaan, 1985, hlm. 763'
+date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: Occurs in the unglossed Acehnese poem “Ranup Sigapu”; no definition has been inferred. Loan/proper-name
-  status should be checked by a reviewer.
-language_uncertain: true
+extraction_notes: 'Jawi left blank: the source is Latin-script only and no Jawi form is printed for this
+  entry.'

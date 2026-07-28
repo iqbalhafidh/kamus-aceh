@@ -2,16 +2,81 @@ headword: muka
 jawi: ''
 alt_spelling: []
 ipa: ''
-part_of_speech: ''
+part_of_speech: n
 definitions:
-- meaning_id: muka, wajah
-  meaning_en: face
-examples: []
+- meaning_id: muka, wajah, bahagian sebelah depan atau atas, halaman, (pada senjata tajam) bagian lekuk
+    yang diasah atau pada sisinya yang pipih, (pada tanaman sirih, lada, atau tanaman tanaman panjat lainnya)
+    puting tangkai, teruk, kata bantu hitung untuk keude
+  meaning_en: face, the front or upper part, yard, on an edged weapon, the ground hollow or the flat of
+    the blade, on the betel vine, pepper, or other climbing plants; the stalk end, severe, a classifier
+    for shops
+examples:
+- aceh: ji gèt that
+  jawi: ''
+  id: Mukanya sangat cantik
+  en: face very pretty
+- aceh: lôn hana teumakôt dum muka gata!
+  jawi: ''
+  id: Saya tidak takut kpd orang spt Anda
+  en: ''
+- aceh: dum muka gata takeu meung peukeue keu noe?
+  jawi: ''
+  id: Orang spt Anda hendak maju kemari?
+  en: Does one like you mean to come forward?
+- aceh: paléngmuka
+  jawi: ''
+  id: memalingkan muka , (ki) berkhianat
+  en: most face, treachery (figuratively)
+- aceh: tilékmuka
+  jawi: ''
+  id: menilik, meneliti, (ki) memperhatikan, mengawasi
+  en: ''
+- aceh: duamuka
+  jawi: ''
+  id: bermuka dua, berdua hati
+  en: face two, two heart
+- aceh: keureunamuka
+  jawi: ''
+  id: spy diketahui orang lain
+  en: ''
+- aceh: tapubuet ibadat keureuna Allah, bèk bubé drah keureunamuka
+  jawi: ''
+  id: Beribadatlah krn Allah. Jangan (sekali-kali) krn (mencari) muak (pd manusia)
+  en: Worship for God's sake, never to be seen by men
+- aceh: teubai
+  jawi: ''
+  id: muka tebal, orang yg tidak tahu malu
+  en: ''
+- aceh: iemuka
+  jawi: ''
+  id: air muka, tampang muka
+  en: ''
+- aceh: rèt, lorong kampung tempat ke luar ke jalan besar muka babah rèt
+  jawi: ''
+  id: muka
+  en: face
+- aceh: lada, ranub
+  jawi: ''
+  id: taruk lada, sirih
+  en: ''
+- aceh: keudè sabohmuka
+  jawi: ''
+  id: sebuah kedai
+  en: fruit shop
+- aceh: mumuka
+  jawi: ''
+  id: muka, bermuka-muka, berpihak kpd seseorang
+  en: ''
+- aceh: nyan bandum aneuk gata, pakon ta muka
+  jawi: ''
+  id: '? Semua itu anak Anda'
+  en: Are all those your children?
 etymology: ''
 related_words: []
 dialect_notes: ''
-source: 'Daud, Bukhari & Mark Durie. Kamus Basa Acèh = Kamus Bahasa Aceh: Acehnese–Indonesian–English Thesaurus.
-  Pacific Linguistics C-151, 1999, p. 28.'
-date_added: '2026-07-20'
+source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
+  Pendidikan dan Kebudayaan, 1985, hlm. 615'
+date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: ''
+extraction_notes: 'Jawi left blank: the source is Latin-script only and no Jawi form is printed for this
+  entry.'

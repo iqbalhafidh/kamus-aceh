@@ -1,19 +1,60 @@
----
-headword: "puga"
-jawi: ""
+headword: puga
+jawi: ''
 alt_spelling: []
-ipa: "/pu.ga/"
-part_of_speech: "v"
-language_uncertain: false
+ipa: ''
+part_of_speech: v
 definitions:
-  - meaning_id: "membuka atau memperbaiki lahan untuk pertanian atau perkebunan; meneroka; memugar"
-    meaning_en: ""
-examples:
-  []
-etymology: ""
-related_words: []
-dialect_notes: ""
-source: "Kamus Bahasa Aceh Daring (Balai Bahasa Provinsi Aceh), 'Entri huruf — puga', URL: https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/P?page=19 (diakses 20 Juli 2026); halaman tambahan: P?page=11, P?page=12, P?page=13, P?page=14, P?page=15, P?page=16, P?page=17, P?page=18, P?page=19, P?page=6, P?page=7, P?page=8, P?page=9"
-date_added: "2026-07-20"
-contributor: "AI-extracted — needs human review"
-extraction_notes: "Diekstrak dari 14 halaman sumber (https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/P?page=10, https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/P?page=11, https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/P?page=12, https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/P?page=13, https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/P?page=14, https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/P?page=15, https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/P?page=16, https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/P?page=17, https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/P?page=18, https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/P?page=19, https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/P?page=6, https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/P?page=7, https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/P?page=8, https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/P?page=9). Ditemukan pada beberapa halaman; definisi dan contoh digabungkan. Tidak ada bentuk Jawi dalam sumber — dibiarkan kosong sesuai aturan."
+- meaning_id: menanam
+  meaning_en: to plant
+- meaning_id: membuka (kebun lada)
+  meaning_en: to open (garden pepper)
+- meaning_id: menebas
+  meaning_en: to slash
+- meaning_id: menebang
+  meaning_en: to fell
+- meaning_id: (kiasan) mulai sesuatu usaha yang pernah dikerjakan dan dihentikan atau yang tidak dipedulikan
+    lagi
+  meaning_en: ''
+- meaning_id: mulai kembali dan sebagainya
+  meaning_en: ''
+- meaning_id: '- lada'
+  meaning_en: pepper
+- meaning_id: menanam lada
+  meaning_en: to plant pepper
+- meaning_id: '- lampih'
+  meaning_en: ''
+- meaning_id: membuka kebun lada
+  meaning_en: to open garden pepper
+- meaning_id: '- paké'
+  meaning_en: ''
+- meaning_id: menimbulkan kegaduhan
+  meaning_en: to give rise to uproar
+- meaning_id: memulai keributan
+  meaning_en: again commotion
+- meaning_id: '- prang'
+  meaning_en: ''
+- meaning_id: mulai berperang
+  meaning_en: beginning war
+- meaning_id: mu-
+  meaning_en: ''
+- meaning_id: dimulai
+  meaning_en: beginning
+- meaning_id: dibuka
+  meaning_en: open
+- meaning_id: pumuga seumuga
+  meaning_en: ''
+- meaning_id: melakukan puga
+  meaning_en: ''
+- meaning_id: membuka kebun lada
+  meaning_en: to open garden pepper
+examples: []
+etymology: ''
+related_words:
+- pula
+dialect_notes: ''
+source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
+  Pendidikan dan Kebudayaan, 1985, hlm. 746'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+extraction_notes: 'Jawi left blank: the source is Latin-script only and no Jawi form is printed for this
+  entry.'

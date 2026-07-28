@@ -1,17 +1,71 @@
 headword: riba
 jawi: ''
-alt_spelling: []
+alt_spelling:
+- meuriba
 ipa: ''
-part_of_speech: ''
+part_of_speech: n
 definitions:
+- meaning_id: riba, bunga uang
+  meaning_en: usury, flower money
+- meaning_id: tueng (pajoh -)
+  meaning_en: ''
+- meaning_id: mengambil atau makan riba
+  meaning_en: ''
+- meaning_id: bek tatueng -
+  meaning_en: ''
+- meaning_id: nyan buet deesya
+  meaning_en: ''
+- meaning_id: Jangan Anda makan riba
+  meaning_en: do not you eat usury
+- meaning_id: hal itu berdosa. meu-
+  meaning_en: ''
+- meaning_id: mengambil riba
+  meaning_en: take usury
+- meaning_id: membungakan uang
+  meaning_en: ''
+- meaning_id: peu-
+  meaning_en: ''
+- meaning_id: berpindah tempat
+  meaning_en: to move place
+- meaning_id: menyimpang dari tempat yang sebenarnya
+  meaning_en: ''
+- meaning_id: bertentangan
+  meaning_en: about
+- meaning_id: membelot
+  meaning_en: to defect
+- meaning_id: mata uroe meu- -
+  meaning_en: ''
+- meaning_id: matahari berpindah-pindah tempat (= nasib seseorang tidak tetap)
+  meaning_en: sun shifting about place (fate someone not fixed)
+- meaning_id: tapeugah bèk meu-l katakanlah yang sesungguhnya
+  meaning_en: ''
+- meaning_id: memindahkan
+  meaning_en: to move
+- meaning_id: mengalihkan pakon tapeu- ulee? Mengapakah Anda mengalihkan kepala (umpamanya perahu) ke
+    arah lain?
+  meaning_en: ''
 - meaning_id: riba
   meaning_en: usury
+- meaning_id: haribaan
+  meaning_en: lap
+- meaning_id: pangkuan
+  meaning_en: lap
+- meaning_id: meletakkan di atas pangkuan
+  meaning_en: put at upon lap
+- meaning_id: memangku
+  meaning_en: to hold in the lap
+- meaning_id: (dalam hikayat) aneuk meupeuduek ateueh -
+  meaning_en: ''
+- meaning_id: Ia meletakkan anaknya ke pangkuannya
+  meaning_en: ''
 examples: []
 etymology: ''
 related_words: []
-dialect_notes: ''
-source: 'Daud, Bukhari & Mark Durie. Kamus Basa Acèh = Kamus Bahasa Aceh: Acehnese–Indonesian–English Thesaurus.
-  Pacific Linguistics C-151, 1999, p. 69.'
-date_added: '2026-07-20'
+dialect_notes: 'Marked (dl hik) in the source: attested in hikayat, the classical Acehnese narrative verse
+  register.'
+source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
+  Pendidikan dan Kebudayaan, 1985, hlm. 804'
+date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: ''
+extraction_notes: 'Jawi left blank: the source is Latin-script only and no Jawi form is printed for this
+  entry.'

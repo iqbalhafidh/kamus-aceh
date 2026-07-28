@@ -2,16 +2,50 @@ headword: mita
 jawi: ''
 alt_spelling: []
 ipa: ''
-part_of_speech: ''
+part_of_speech: v
 definitions:
-- meaning_id: cari
-  meaning_en: seek, look for
-examples: []
+- meaning_id: mencari, berusaha mencari atau memperoleh sesuatu, melacak
+  meaning_en: to seek, to strive to find or obtain something, to trace
+examples:
+- aceh: h'an tom mon mita tima
+  jawi: ''
+  id: tidak pernah (terjadi bahwa) sumur mencari timba (pb) Tak pernah pihak wanita meminang laki-laki
+    krn menurut adat kebiasaan laki-laki lah yg meminang wanita
+  en: ''
+- aceh: cabeueng ji mita bak, aneuk rakyat ji mita raja
+  jawi: ''
+  id: cabang mencari (=menopang) batang, rakyat mencari (=membantu) raja (pb)
+  en: ''
+- aceh: awé
+  jawi: ''
+  id: mencari atau mengumpulkan rotan dl hutn
+  en: ''
+- aceh: pèng
+  jawi: ''
+  id: mencari nafkah, mencari uang, meminjam uang pd seseorang
+  en: ''
+- aceh: raseuki
+  jawi: ''
+  id: mencari rezeki atau nafkah
+  en: ''
+- aceh: pancuri nyang ék u rumoh inong balè beuklam teungoh ji mita lé plisi
+  jawi: ''
+  id: Polisi sedang melacak pencuri yg menaiki rumah janda tadi malam
+  en: ''
+- aceh: mumita, melakukan mta
+  jawi: ''
+  id: sedang mencuri sesuatu
+  en: in the midst of to steal something
+- aceh: lôn jak mumita jeueb-jeueb gampông
+  jawi: ''
+  id: Saya mencari nafkah ke tiap-tiap kampung
+  en: ''
 etymology: ''
 related_words: []
 dialect_notes: ''
-source: 'Daud, Bukhari & Mark Durie. Kamus Basa Acèh = Kamus Bahasa Aceh: Acehnese–Indonesian–English Thesaurus.
-  Pacific Linguistics C-151, 1999, p. 33; p. 47.'
-date_added: '2026-07-20'
+source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
+  Pendidikan dan Kebudayaan, 1985, hlm. 608'
+date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: ''
+extraction_notes: 'Jawi left blank: the source is Latin-script only and no Jawi form is printed for this
+  entry.'

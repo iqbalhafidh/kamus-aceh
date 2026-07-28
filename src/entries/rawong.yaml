@@ -1,0 +1,36 @@
+headword: rawong
+jawi: ''
+alt_spelling: []
+ipa: ''
+part_of_speech: v
+definitions:
+- meaning_id: meraung
+  meaning_en: to roar
+- meaning_id: berteriak keraskeras dan panjang (seperti lolong anjing)
+  meaning_en: ''
+- meaning_id: melolong
+  meaning_en: to howl
+- meaning_id: raung
+  meaning_en: howl
+- meaning_id: lolong
+  meaning_en: howl
+examples:
+- aceh: tasi Pulan jeh sigo! panggillah si Polan itu secara demikian. meu rawong
+  jawi: ''
+  id: melakukan rawong, berteriak sekeraskerasnya dan panjang, melolong
+  en: ''
+- aceh: peue tameulagee asee
+  jawi: ''
+  id: apa yang Anda panggil, meraung seperti anjing
+  en: ''
+etymology: ''
+related_words:
+- droih
+- ranggong
+dialect_notes: ''
+source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
+  Pendidikan dan Kebudayaan, 1985, hlm. 785'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+extraction_notes: 'Jawi left blank: the source is Latin-script only and no Jawi form is printed for this
+  entry.'

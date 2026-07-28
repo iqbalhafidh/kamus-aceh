@@ -1,19 +1,29 @@
----
-headword: "rawang"
-jawi: ""
+headword: rawang
+jawi: ''
 alt_spelling: []
-ipa: "/ra.waŋ/"
-part_of_speech: "n"
-language_uncertain: false
+ipa: ''
+part_of_speech: n
 definitions:
-  - meaning_id: "paya-paya di pantai, danau-danau kecil di pantai, dikenal juga brawang:"
-    meaning_en: ""
+- meaning_id: paya-paya di pantai
+  meaning_en: swamps at beach
+- meaning_id: danau-danau kecil di pantai
+  meaning_en: ''
 examples:
-  []
-etymology: ""
-related_words: []
-dialect_notes: ""
-source: "Kamus Bahasa Aceh Daring (Balai Bahasa Provinsi Aceh), 'Entri huruf — rawang', URL: https://kamusbbpa.kemendikdasmen.go.id/kamus/Aceh/R (diakses 20 Juli 2026)"
-date_added: "2026-07-20"
-contributor: "AI-extracted — needs human review"
-extraction_notes: "Diekstrak dari 1 halaman sumber (https://kamusbbpa.kemendikdasmen.go.id/kamus/Aceh/R). Tidak ada bentuk Jawi dalam sumber — dibiarkan kosong sesuai aturan."
+- aceh: eungkôt rawang
+  jawi: ''
+  id: ikan yg hidup di paya-paya seperti ini
+  en: ''
+- aceh: bèk tablôh lam rawang, lhok that?
+  jawi: ''
+  id: Jangan Anda masuk ke dl danau seperti ini, dl sekali. rawang
+  en: ''
+etymology: ''
+related_words:
+- brawang
+dialect_notes: ''
+source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
+  Pendidikan dan Kebudayaan, 1985, hlm. 783'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+extraction_notes: 'Jawi left blank: the source is Latin-script only and no Jawi form is printed for this
+  entry.'

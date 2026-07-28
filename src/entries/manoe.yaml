@@ -2,16 +2,53 @@ headword: manoe
 jawi: ''
 alt_spelling: []
 ipa: ''
-part_of_speech: ''
+part_of_speech: v
 definitions:
 - meaning_id: mandi
-  meaning_en: take a bath
-examples: []
+  meaning_en: to bathe
+examples:
+- aceh: junub, hadaih (rayek)
+  jawi: ''
+  id: mandi di pagi hari raya
+  en: ''
+- aceh: peuet ploh peuet, mandi setelah 44 hari melahirkan manoe rabu abeh
+  jawi: ''
+  id: mandi pd hari Rabu terakhir di bulan Safar
+  en: ''
+- aceh: pu manoe, seu manoe
+  jawi: ''
+  id: memandikan
+  en: to bathe
+- aceh: pu manoe bakai
+  jawi: ''
+  id: memandikan mayat utm pertama kali
+  en: ''
+- aceh: pu manoe mayet
+  jawi: ''
+  id: memandikan mayat
+  en: to bathe corpse
+- aceh: meunanoe
+  jawi: ''
+  id: tt mandi, mandi
+  en: about to bathe, to bathe
+- aceh: ie meunanoe
+  jawi: ''
+  id: air mandi
+  en: water to bathe
+- aceh: teumpat meunanoe
+  jawi: ''
+  id: tempat mandi, kamar mandi
+  en: place to bathe, room to bathe
 etymology: ''
-related_words: []
+related_words:
+- junub
+- hadaih
+- — uroe raya
+- mandi di pagi hari raya
 dialect_notes: ''
-source: 'Daud, Bukhari & Mark Durie. Kamus Basa Acèh = Kamus Bahasa Aceh: Acehnese–Indonesian–English Thesaurus.
-  Pacific Linguistics C-151, 1999, p. 39.'
-date_added: '2026-07-20'
+source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
+  Pendidikan dan Kebudayaan, 1985, hlm. 575'
+date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: ''
+extraction_notes: 'Jawi left blank: the source is Latin-script only and no Jawi form is printed for this
+  entry.'

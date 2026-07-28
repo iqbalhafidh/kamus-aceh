@@ -2,16 +2,54 @@ headword: reunyeun
 jawi: ''
 alt_spelling: []
 ipa: ''
-part_of_speech: ''
+part_of_speech: n
 definitions:
-- meaning_id: tangga
-  meaning_en: ladder, stairs
-examples: []
+- meaning_id: tangga rumah
+  meaning_en: house ladder
+examples:
+- aceh: aneuk reunyeun
+  jawi: ''
+  id: anak tangga
+  en: child ladder
+- aceh: pha reunyeun
+  jawi: ''
+  id: tiang tangga
+  en: post ladder
+- aceh: gaki reunyeun
+  jawi: ''
+  id: kaki tangga rumah
+  en: foot ladder house
+- aceh: ulee reunyeun
+  jawi: ''
+  id: bahagian atas tangga rumah
+  en: portion upon ladder house
+- aceh: duek bak ulee reunyeun
+  jawi: ''
+  id: duduk di bahagian atas tangga rumah
+  en: ''
+- aceh: taloe reunyeun
+  jawi: ''
+  id: tali tangga rumah (biasanya terbuat dr tembaga), rantai tangga yg diikat pd atap di atas tangga
+    rumah tempat pegangan orang jika naik atau turun
+  en: ''
+- aceh: rudah reunyeun
+  jawi: ''
+  id: meludah tangga rumah sbg sumpah tidak akan kembali lagi
+  en: ''
+- aceh: sra-moe reunyeun
+  jawi: ''
+  id: serambi muka
+  en: ''
+- aceh: dagu
+  jawi: ''
+  id: tangga yg dipergunakan utk memetik lada
+  en: ''
 etymology: ''
 related_words: []
 dialect_notes: ''
-source: 'Daud, Bukhari & Mark Durie. Kamus Basa Acèh = Kamus Bahasa Aceh: Acehnese–Indonesian–English Thesaurus.
-  Pacific Linguistics C-151, 1999, p. 78.'
-date_added: '2026-07-20'
+source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
+  Pendidikan dan Kebudayaan, 1985, hlm. 799'
+date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: ''
+extraction_notes: 'Jawi left blank: the source is Latin-script only and no Jawi form is printed for this
+  entry.'

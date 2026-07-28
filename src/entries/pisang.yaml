@@ -2,16 +2,39 @@ headword: pisang
 jawi: ''
 alt_spelling: []
 ipa: ''
-part_of_speech: ''
+part_of_speech: n
 definitions:
 - meaning_id: pisang
   meaning_en: banana
-examples: []
+examples:
+- aceh: abēe, pisang kepok, pisang abēe h'am, pisang abēe b'om, pisang abēe Klēng, lebih besar dr pisang
+    abēe biasa, pisang abin
+  jawi: ''
+  id: pisang gembor
+  en: ''
+- aceh: Ambōn, pisang brat, pisang Ambon, pisang batēe, pisang beum, beung, pisang meuaneuk, pisang batu,
+    pisang berbiji pisang bue
+  jawi: ''
+  id: pisang karoh
+  en: ''
+- aceh: bungong
+  jawi: ''
+  id: pisang kecil, lonjong dan wangi
+  en: ''
+- aceh: jarōm
+  jawi: ''
+  id: pisang jarum
+  en: banana needle
+- aceh: gadōng, pisang kapai, pisang tōng
+  jawi: ''
+  id: pisang
+  en: banana
 etymology: ''
 related_words: []
 dialect_notes: ''
-source: 'Daud, Bukhari & Mark Durie. Kamus Basa Acèh = Kamus Bahasa Aceh: Acehnese–Indonesian–English Thesaurus.
-  Pacific Linguistics C-151, 1999, p. 101.'
-date_added: '2026-07-20'
+source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
+  Pendidikan dan Kebudayaan, 1985, hlm. 726'
+date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: ''
+extraction_notes: 'Jawi left blank: the source is Latin-script only and no Jawi form is printed for this
+  entry.'

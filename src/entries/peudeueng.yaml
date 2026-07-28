@@ -2,16 +2,72 @@ headword: peudeueng
 jawi: ''
 alt_spelling: []
 ipa: ''
-part_of_speech: ''
+part_of_speech: n
 definitions:
+- meaning_id: pedang melengkung yang panjang sebelah
+  meaning_en: ''
 - meaning_id: pedang
   meaning_en: sword
-examples: []
+examples:
+- aceh: on jok
+  jawi: ''
+  id: pedang daun enau
+  en: sword leaf sugar palm
+- aceh: H) abeusah
+  jawi: ''
+  id: pedang Habsyi, sj pedang yg berat
+  en: ''
+- aceh: ulee meuapēt
+  jawi: ''
+  id: pedang yg hulunya dikepit
+  en: ''
+- aceh: ulee patong
+  jawi: ''
+  id: pedang yg hulunya menyerupai patung orang
+  en: ''
+- aceh: ulee tapak guda
+  jawi: ''
+  id: pedang yg hulunya menyerupai ladam kuda
+  en: ''
+- aceh: ulee tumpang beunteueng
+  jawi: ''
+  id: pedang yg hulunya bercanggah
+  en: ''
+- aceh: saboh, dua, atau lhee kurok
+  jawi: ''
+  id: pedang yg beralur satu, atau tiga
+  en: ''
+- aceh: cuale, pedang yg matanya menyerupai eungkot cuale
+  jawi: ''
+  id: peudeueng
+  en: ''
+- aceh: on jok
+  jawi: ''
+  id: sj pedang panjang
+  en: a kind of long sword
+- aceh: bale peudeueng, balai dekat gerbang = istana tempat melepaskan alat-alat persenjataan para tamu,
+    mupeudeueng
+  jawi: ''
+  id: berpedang, bersenjatakan atau menyandang pedang, menyerupai pedang
+  en: ''
+- aceh: sikin nyan get that mupeudeueng
+  jawi: ''
+  id: pisan itu berbentuk indah spt pedang
+  en: ''
+- aceh: pupeudeueng
+  jawi: ''
+  id: memotong dan pedang
+  en: ''
+- aceh: kupupeudeueng bak mukakeu!
+  jawi: ''
+  id: akan kupedangi mukamu!
+  en: ''
 etymology: ''
 related_words: []
 dialect_notes: ''
-source: 'Daud, Bukhari & Mark Durie. Kamus Basa Acèh = Kamus Bahasa Aceh: Acehnese–Indonesian–English Thesaurus.
-  Pacific Linguistics C-151, 1999, p. 21; p. 63; p. 65.'
-date_added: '2026-07-20'
+source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
+  Pendidikan dan Kebudayaan, 1985, hlm. 693'
+date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: ''
+extraction_notes: 'Jawi left blank: the source is Latin-script only and no Jawi form is printed for this
+  entry.'

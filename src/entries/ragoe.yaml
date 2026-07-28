@@ -1,17 +1,87 @@
 headword: ragoe
 jawi: ''
-alt_spelling: []
+alt_spelling:
+- raghoe
 ipa: ''
-part_of_speech: ''
+part_of_speech: n
 definitions:
 - meaning_id: ragi
   meaning_en: yeast
-examples: []
+- meaning_id: garis-garis pada kain tenunan yang diberi warna
+  meaning_en: ''
+- meaning_id: corak kain
+  meaning_en: ''
+- meaning_id: jinak
+  meaning_en: tame
+- meaning_id: terlatih
+  meaning_en: ''
+- meaning_id: biasa
+  meaning_en: usual
+- meaning_id: berpengalaman
+  meaning_en: experienced
+- meaning_id: pandai
+  meaning_en: skilled
+- meaning_id: ahli
+  meaning_en: expert
+examples:
+- aceh: tape
+  jawi: ''
+  id: ragi utk membuat tapai
+  en: ''
+- aceh: meu ragoe
+  jawi: ''
+  id: beragi, dibubuhi ragi
+  en: ''
+- aceh: bu tape ka lheueh meu ragoe atau tapeu ragoe
+  jawi: ''
+  id: '? Sudahkah Anda membubuhkan ragi pd nasi utk tapai?'
+  en: ''
+- aceh: peu ragoe
+  jawi: ''
+  id: membubuhi ragi
+  en: to apply yeast
+- aceh: dong atau teudong
+  jawi: ''
+  id: corak berdiri
+  en: ''
+- aceh: eh, atau teueh
+  jawi: ''
+  id: corak tidur atau melintang
+  en: ''
+- aceh: peue biek ragoe
+  jawi: ''
+  id: tabloe ija bunoe di peukan? Apakah cocorak kain yg Anda beli tadi di pasar?
+  en: ''
+- aceh: meu ragoe
+  jawi: ''
+  id: beragi, bergaris, bercorak
+  en: ''
+- aceh: kon ija meu ragoe lon bloe
+  jawi: ''
+  id: Saya tidak membeli kain beragi
+  en: ''
+- aceh: peu ragoe
+  jawi: ''
+  id: membubuhi ragi dsb
+  en: to apply yeast and so forth
+- aceh: bak get tapeu ragoe ija nyan
+  jawi: ''
+  id: Bubuhilah kain itu corak yg indah
+  en: ''
+- aceh: ureueng nyang ragoe pi na tuwoe, Orang yg pandai pun kadang-kadang lupa juga peu ragoe
+  jawi: ''
+  id: menjinakkan, melatih, membiasakan, membuat seseorang atau sesuatu menjadi pandai
+  en: ''
 etymology: ''
 related_words: []
 dialect_notes: ''
-source: 'Daud, Bukhari & Mark Durie. Kamus Basa Acèh = Kamus Bahasa Aceh: Acehnese–Indonesian–English Thesaurus.
-  Pacific Linguistics C-151, 1999, p. 74.'
-date_added: '2026-07-20'
+source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
+  Pendidikan dan Kebudayaan, 1985, hlm. 764'
+date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: ''
+extraction_notes: 'Homonym 1 in the source (printed as a superscript numeral before the headword). Jawi
+  left blank: the source is Latin-script only and no Jawi form is printed for this entry. | Homonym 2
+  in the source (printed as a superscript numeral before the headword). Jawi left blank: the source is
+  Latin-script only and no Jawi form is printed for this entry. | Homonym 3 in the source (printed as
+  a superscript numeral before the headword). Jawi left blank: the source is Latin-script only and no
+  Jawi form is printed for this entry.'
