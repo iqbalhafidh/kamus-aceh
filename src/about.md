@@ -9,7 +9,7 @@ permalink: /about/
 
 ## Tentang Kamus Aceh
 
-**Kamus Aceh** adalah kamus digital terbuka untuk Bahasa Aceh, dirancang untuk memudahkan dokumentasi dan pelestarian bahasa daerah Aceh. Setiap entri tersedia dalam tiga bahasa: Aceh, Indonesia, dan Inggris.
+**Kamus Aceh** adalah kamus digital gratis untuk Bahasa Aceh, dirancang untuk memudahkan dokumentasi dan pelestarian bahasa daerah Aceh. Setiap entri tersedia dalam tiga bahasa: Aceh, Indonesia, dan Inggris.
 
 Proyek ini sepenuhnya berbasis teks biasa (YAML) yang disimpan di GitHub, sehingga siapa pun dapat berkontribusi melalui pull request.
 
