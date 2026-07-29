@@ -1,5 +1,5 @@
 headword: siri
-jawi: ''
+jawi: سيري
 alt_spelling:
 - siré
 - yg
@@ -19,7 +19,8 @@ examples:
   jawi: ''
   id: yg mana yg baik?
   en: ''
-- aceh: nyang siri aneuk droe-neuh? Yg mana anak Anda? siri atau siri ri takeumeung cok, tacok-keu!
+- aceh: nyang siri aneuk droe-neuh? Yg mana anak Anda? siri atau siri ri takeumeung
+    cok, tacok-keu!
   jawi: ''
   id: Yg mana Anda inginkan, ambillah
   en: ''
@@ -29,15 +30,17 @@ related_words:
 - toh
 - sri
 dialect_notes: ''
-source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
-  Pendidikan dan Kebudayaan, 1985, hlm. 889'
+source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan
+  Bahasa, Departemen Pendidikan dan Kebudayaan, 1985, hlm. 889'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: 'Homonym 1 in the source (printed as a superscript numeral before the headword). Jawi
-  left blank: the source is Latin-script only and no Jawi form is printed for this entry. Part of speech
-  not stated in the source; left blank. | Homonym 2 in the source (printed as a superscript numeral before
-  the headword). Jawi left blank: the source is Latin-script only and no Jawi form is printed for this
-  entry. | Source gives this only as a cross-reference (→ sri); no independent definition is printed,
-  so meaning fields are left blank rather than guessed. Homonym 3 in the source (printed as a superscript
-  numeral before the headword). Jawi left blank: the source is Latin-script only and no Jawi form is printed
-  for this entry. Part of speech not stated in the source; left blank.'
+extraction_notes: 'Homonym 1 in the source (printed as a superscript numeral before
+  the headword). Jawi left blank: the source is Latin-script only and no Jawi form
+  is printed for this entry. Part of speech not stated in the source; left blank.
+  | Homonym 2 in the source (printed as a superscript numeral before the headword).
+  Jawi left blank: the source is Latin-script only and no Jawi form is printed for
+  this entry. | Source gives this only as a cross-reference (→ sri); no independent
+  definition is printed, so meaning fields are left blank rather than guessed. Homonym
+  3 in the source (printed as a superscript numeral before the headword). Jawi left
+  blank: the source is Latin-script only and no Jawi form is printed for this entry.
+  Part of speech not stated in the source; left blank.'

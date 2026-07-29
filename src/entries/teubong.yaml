@@ -1,10 +1,11 @@
 headword: teubong
-jawi: ''
+jawi: تبوغ
 alt_spelling: []
 ipa: ''
 part_of_speech: v
 definitions:
-- meaning_id: bercerita tentang berbagai-bagai hal yang tidak dpt dipertanggung jawabkan kebenarannya
+- meaning_id: bercerita tentang berbagai-bagai hal yang tidak dpt dipertanggung jawabkan
+    kebenarannya
   meaning_en: ''
 - meaning_id: membuat beromong kosong
   meaning_en: ''
@@ -13,17 +14,19 @@ examples:
   jawi: ''
   id: Anda membuat sembarangan!
   en: ''
-- aceh: gata bèk ta teubong x teubong gob, nyang hana-hana tekheun, 'oh ji-peudinabteu jitampa lé gob
+- aceh: gata bèk ta teubong x teubong gob, nyang hana-hana tekheun, 'oh ji-peudinabteu
+    jitampa lé gob
   jawi: ''
-  id: Jangan Anda berkata-kata yg tidak benar kpd orang lain, Anda katakanlah yg tidak-tidak, jika Anda
-    dihadapkan dng dia, Anda akan ditamparnya
+  id: Jangan Anda berkata-kata yg tidak benar kpd orang lain, Anda katakanlah yg tidak-tidak,
+    jika Anda dihadapkan dng dia, Anda akan ditamparnya
   en: ''
 etymology: ''
 related_words: []
 dialect_notes: ''
-source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
-  Pendidikan dan Kebudayaan, 1985, hlm. 955'
+source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan
+  Bahasa, Departemen Pendidikan dan Kebudayaan, 1985, hlm. 955'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: 'English gloss left blank: no confident translation of the Indonesian definition was
-  available. Jawi left blank: the source is Latin-script only and no Jawi form is printed for this entry.'
+extraction_notes: 'English gloss left blank: no confident translation of the Indonesian
+  definition was available. Jawi left blank: the source is Latin-script only and no
+  Jawi form is printed for this entry.'

@@ -1,19 +1,34 @@
-headword: "adi"
-jawi: ""
+headword: adi
+jawi: عدى
 alt_spelling: []
-ipa: ""
-part_of_speech: "v"
+ipa: ''
+part_of_speech: v
 definitions:
-  - meaning_id: "memukul, melemparkan sesuatu pd"
-    meaning_en: "to hit, to throw something at"
+- meaning_id: memukul, melemparkan sesuatu pd
+  meaning_en: to hit, to throw something at
 examples:
-  - aceh: "treuk ku adi bak ulèekeuh!"
-    jawi: ""
-    id: "nanti kupukul di kepalamu"
-    en: "I'll hit you on the head!"
-related_words: ["kuetok", "kiloe", "lago", "paloe", "poh", "sakai", "seukok", "seupot", "seureuku", "sòh", "tabi", "tadi", "tago", "tampa", "tapèk"]
-dialect_notes: ""
-source: "Aboe Bakar et al., Kamus Aceh-Indonesia Seri 1 A–L, 1985, p.8"
-date_added: "2025-06-18"
-contributor: "AI-extracted — needs human review"
-extraction_notes: "Jawi transliteration is AI-generated, not from source — needs verification."
+- aceh: treuk ku adi bak ulèekeuh!
+  jawi: ''
+  id: nanti kupukul di kepalamu
+  en: I'll hit you on the head!
+related_words:
+- kuetok
+- kiloe
+- lago
+- paloe
+- poh
+- sakai
+- seukok
+- seupot
+- seureuku
+- sòh
+- tabi
+- tadi
+- tago
+- tampa
+- tapèk
+dialect_notes: ''
+source: Aboe Bakar et al., Kamus Aceh-Indonesia Seri 1 A–L, 1985, p.8
+date_added: '2025-06-18'
+contributor: AI-extracted — needs human review
+extraction_notes: Jawi transliteration is AI-generated, not from source — needs verification.

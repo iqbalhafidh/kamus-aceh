@@ -1,22 +1,22 @@
-headword: "acòk"
-jawi: ""
+headword: acòk
+jawi: اچوک
 alt_spelling: []
-ipa: ""
-part_of_speech: "v"
+ipa: ''
+part_of_speech: v
 definitions:
-  - meaning_id: "mencoba, menguji (terutama ketika memancing)"
-    meaning_en: "to try, to test (especially when fishing)"
+- meaning_id: mencoba, menguji (terutama ketika memancing)
+  meaning_en: to try, to test (especially when fishing)
 examples:
-  - aceh: "Cuba ta acòk kawe gata, jikab atawa h'an!"
-    jawi: ""
-    id: "Coba Anda angkat gagang pancing; apakah umpannya dimakan ikan atau tidak!"
-    en: "Try lifting your fishing rod; will the fish take the bait or not!"
-  - aceh: "Hanya peue ta acòk jih, geuthèe na na kha jih!"
-    id: "Tidak usah Anda mencobanya; sudah dikenal keberaniannya"
-    en: "No need to test him; his bravery is already known"
+- aceh: Cuba ta acòk kawe gata, jikab atawa h'an!
+  jawi: ''
+  id: Coba Anda angkat gagang pancing; apakah umpannya dimakan ikan atau tidak!
+  en: Try lifting your fishing rod; will the fish take the bait or not!
+- aceh: Hanya peue ta acòk jih, geuthèe na na kha jih!
+  id: Tidak usah Anda mencobanya; sudah dikenal keberaniannya
+  en: No need to test him; his bravery is already known
 related_words: []
-dialect_notes: ""
-source: "Aboe Bakar et al., Kamus Aceh-Indonesia Seri 1 A–L, 1985, p.4"
-date_added: "2025-06-18"
-contributor: "AI-extracted — needs human review"
-extraction_notes: "Jawi transliteration is AI-generated, not from source — needs verification."
+dialect_notes: ''
+source: Aboe Bakar et al., Kamus Aceh-Indonesia Seri 1 A–L, 1985, p.4
+date_added: '2025-06-18'
+contributor: AI-extracted — needs human review
+extraction_notes: Jawi transliteration is AI-generated, not from source — needs verification.

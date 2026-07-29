@@ -1,5 +1,5 @@
 headword: gaseh
-jawi: ''
+jawi: كاسيه
 alt_spelling: []
 ipa: ''
 part_of_speech: n
@@ -13,11 +13,11 @@ definitions:
 - meaning_id: dan jika ia bersikap berlebih-lebihan, bawalah dia ke jalan yg benar
   meaning_en: ''
 examples:
-- aceh: 'carat - na lhee peukara, sampereuna deungon peuet: salah tateugah, beuna taikôt, sukaran tatulông,
-    lalu tacok'
+- aceh: 'carat - na lhee peukara, sampereuna deungon peuet: salah tateugah, beuna
+    taikôt, sukaran tatulông, lalu tacok'
   jawi: ''
-  id: 'Syarat mengasihi seseorang tiga perkara, yg sempurna empat: jika seseorang berbuat salah, laranglah
-    dia'
+  id: 'Syarat mengasihi seseorang tiga perkara, yg sempurna empat: jika seseorang
+    berbuat salah, laranglah dia'
   en: ''
 - aceh: meu keu aneuk droeji h'an ji -
   jawi: ''
@@ -63,10 +63,12 @@ etymology: ''
 related_words:
 - jahét
 dialect_notes: ''
-source: 'Kamus Aceh-Indonesia (extracted from pp.124-270 of the source edition, Acehnese section entries
-  cèm-unyèn through gutie/H). File: markdown.md supplied by the user. — pp.218-219'
+source: 'Kamus Aceh-Indonesia (extracted from pp.124-270 of the source edition, Acehnese
+  section entries cèm-unyèn through gutie/H). File: markdown.md supplied by the user.
+  — pp.218-219'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: Indonesian example translations are taken verbatim from the source. English meanings
-  and Jawi transliterations are AI-flagged as unverified and need human review. Jawi transliteration is
-  AI-generated, not from source — needs verification by a Jawi-literate reviewer.
+extraction_notes: Indonesian example translations are taken verbatim from the source.
+  English meanings and Jawi transliterations are AI-flagged as unverified and need
+  human review. Jawi transliteration is AI-generated, not from source — needs verification
+  by a Jawi-literate reviewer.

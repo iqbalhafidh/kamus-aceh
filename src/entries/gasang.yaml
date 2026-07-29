@@ -1,5 +1,5 @@
 headword: gasang
-jawi: ''
+jawi: كاسغ
 alt_spelling: []
 ipa: ''
 part_of_speech: a
@@ -11,7 +11,8 @@ examples:
   jawi: ''
   id: Anak itu liar sekali, ia memanjat ke sana dan kemari
   en: ''
-- aceh: agam nyan - that, h'an jeuet sagai jikalon inong, Laki-laki itu ga(n)sang sekali
+- aceh: agam nyan - that, h'an jeuet sagai jikalon inong, Laki-laki itu ga(n)sang
+    sekali
   jawi: ''
   id: ia tidak dapat melihat wanita
   en: ''
@@ -27,10 +28,12 @@ etymology: ''
 related_words:
 - ganaih
 dialect_notes: ''
-source: 'Kamus Aceh-Indonesia (extracted from pp.124-270 of the source edition, Acehnese section entries
-  cèm-unyèn through gutie/H). File: markdown.md supplied by the user. — p.218'
+source: 'Kamus Aceh-Indonesia (extracted from pp.124-270 of the source edition, Acehnese
+  section entries cèm-unyèn through gutie/H). File: markdown.md supplied by the user.
+  — p.218'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: Indonesian example translations are taken verbatim from the source. English meanings
-  and Jawi transliterations are AI-flagged as unverified and need human review. Jawi transliteration is
-  AI-generated, not from source — needs verification by a Jawi-literate reviewer.
+extraction_notes: Indonesian example translations are taken verbatim from the source.
+  English meanings and Jawi transliterations are AI-flagged as unverified and need
+  human review. Jawi transliteration is AI-generated, not from source — needs verification
+  by a Jawi-literate reviewer.

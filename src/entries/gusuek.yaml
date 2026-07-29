@@ -1,5 +1,5 @@
 headword: gusuek
-jawi: ''
+jawi: كوسوق
 alt_spelling: []
 ipa: ''
 part_of_speech: v
@@ -13,7 +13,8 @@ examples:
   en: ''
 - aceh: (pb) cèetam ji - bak rueng, jis'aih bak glunyueng, teuma jatimong lam atè
   jawi: ''
-  id: Setan mengusap belakang Anda, ia membisikan sesuatu ke telinga Anda lalu masuk ke dl hati Anda
+  id: Setan mengusap belakang Anda, ia membisikan sesuatu ke telinga Anda lalu masuk
+    ke dl hati Anda
   en: ''
 - aceh: meu -
   jawi: ''
@@ -38,10 +39,12 @@ related_words:
 - '**sampòh**'
 - '**uet**'
 dialect_notes: ''
-source: 'Kamus Aceh-Indonesia (extracted from pp.124-270 of the source edition, Acehnese section entries
-  cèm-unyèn through gutie/H). File: markdown.md supplied by the user. — p.267'
+source: 'Kamus Aceh-Indonesia (extracted from pp.124-270 of the source edition, Acehnese
+  section entries cèm-unyèn through gutie/H). File: markdown.md supplied by the user.
+  — p.267'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: Indonesian example translations are taken verbatim from the source. English meanings
-  and Jawi transliterations are AI-flagged as unverified and need human review. Jawi transliteration is
-  AI-generated, not from source — needs verification by a Jawi-literate reviewer.
+extraction_notes: Indonesian example translations are taken verbatim from the source.
+  English meanings and Jawi transliterations are AI-flagged as unverified and need
+  human review. Jawi transliteration is AI-generated, not from source — needs verification
+  by a Jawi-literate reviewer.

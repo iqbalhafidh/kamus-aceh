@@ -1,12 +1,13 @@
 headword: tunong
-jawi: ''
+jawi: تونوغ
 alt_spelling: []
 ipa: ''
 part_of_speech: v
 definitions:
 - meaning_id: bertunang
   meaning_en: to be betrothed
-- meaning_id: perjanjian untuk mengadu hewan setelah berlalu suatu jangka waktu dan taruhan tertentu
+- meaning_id: perjanjian untuk mengadu hewan setelah berlalu suatu jangka waktu dan
+    taruhan tertentu
   meaning_en: ''
 - meaning_id: udik
   meaning_en: upriver
@@ -23,8 +24,8 @@ definitions:
 examples:
 - aceh: aneuk dara nyan ka lam tunong
   jawi: ''
-  id: 'Dara itu sudah bertunang, sudah disepakati oleh orang tua kedua belah pihak utk dikawinkan kelak.
-    (jika utk hewan): sudah disepakati utk diadu kelak'
+  id: 'Dara itu sudah bertunang, sudah disepakati oleh orang tua kedua belah pihak
+    utk dikawinkan kelak. (jika utk hewan): sudah disepakati utk diadu kelak'
   en: ''
 - aceh: nikah tunong
   jawi: ''
@@ -81,9 +82,9 @@ examples:
 etymology: ''
 related_words: []
 dialect_notes: Source mentions Pidie. Source mentions Aceh Besar.
-source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
-  Pendidikan dan Kebudayaan, 1985, hlm. 1013, 1017'
+source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan
+  Bahasa, Departemen Pendidikan dan Kebudayaan, 1985, hlm. 1013, 1017'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: 'Jawi left blank: the source is Latin-script only and no Jawi form is printed for this
-  entry.'
+extraction_notes: 'Jawi left blank: the source is Latin-script only and no Jawi form
+  is printed for this entry.'

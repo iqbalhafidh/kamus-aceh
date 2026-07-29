@@ -1,23 +1,24 @@
 headword: gam
-jawi: ''
+jawi: كَم
 alt_spelling:
 - kp
 - agam
 ipa: ''
 part_of_speech: n
 definitions:
-- meaning_id: dipergunakan sbg na- 1g'am gameh-gamoh ma laki-laki, kata panggilan thd anak laki-laki yg
-    tidak diketahui namanya, panggilan thd putra sendiri
+- meaning_id: dipergunakan sbg na- 1g'am gameh-gamoh ma laki-laki, kata panggilan
+    thd anak laki-laki yg tidak diketahui namanya, panggilan thd putra sendiri
   meaning_en: ''
 examples:
-- aceh: hai - Nyak -, keunoe tajak siat, Wahai Nyak Gam kemarilah sebenar! si - lôn ka padum uroe hana
-    jipajôh bu, jih sakêt, Anak laki-laki saya sudah beberapa hari tidak makan, ia sakit 1g'am, meu -
-    (-) n bergetar-getar (tt jantung)
+- aceh: hai - Nyak -, keunoe tajak siat, Wahai Nyak Gam kemarilah sebenar! si - lôn
+    ka padum uroe hana jipajôh bu, jih sakêt, Anak laki-laki saya sudah beberapa hari
+    tidak makan, ia sakit 1g'am, meu - (-) n bergetar-getar (tt jantung)
   jawi: ''
   id: ''
   en: ''
-- aceh: 'atê lôn meu - keu inong nyan, Hati saya berdebar-debar krn wanita itu., gh''am, gh''am-gh''am
-    menderum, gemuruh, menderu, bunyi benda yg berat dan bergegar: meu -'
+- aceh: 'atê lôn meu - keu inong nyan, Hati saya berdebar-debar krn wanita itu., gh''am,
+    gh''am-gh''am menderum, gemuruh, menderu, bunyi benda yg berat dan bergegar: meu
+    -'
   jawi: ''
   id: —, berbunyi g'am-g'am
   en: ''
@@ -33,14 +34,14 @@ examples:
   jawi: ''
   id: —, Badannya gemetar sekali
   en: ''
-- aceh: 'peu -, menggemuruhkan., gr''am g''am-g''um, gh''am-gh''um n bunyi bergegar yg bertubi-tubi: su
-    meureu-yam -, Bunyi meriam berdentam-dentum., mengancam (dng senjata): bêk ta - sikin-teu, Janganlah
-    Anda menggamak-gamak dng pisau meu - (-)'
+- aceh: 'peu -, menggemuruhkan., gr''am g''am-g''um, gh''am-gh''um n bunyi bergegar
+    yg bertubi-tubi: su meureu-yam -, Bunyi meriam berdentam-dentum., mengancam (dng
+    senjata): bêk ta - sikin-teu, Janganlah Anda menggamak-gamak dng pisau meu - (-)'
   jawi: ''
   id: menggamak-gamak, bersikap mengancam
   en: ''
-- aceh: 'ho tajak meu - - ngon- ngon sikin, Hendak ke mana Anda menggamak-gamak dng sikin? peu - = -,
-    kecak 1gamat n sj tanaman utk obat luka: tamsê - umbat luka*'
+- aceh: 'ho tajak meu - - ngon- ngon sikin, Hendak ke mana Anda menggamak-gamak dng
+    sikin? peu - = -, kecak 1gamat n sj tanaman utk obat luka: tamsê - umbat luka*'
   jawi: ''
   id: laksana gamat utk obat luka
   en: ''
@@ -54,7 +55,8 @@ examples:
   en: ''
 - aceh: beu taseubut baranggapat, tamsê - nyang pumeu'aih dêesa
   jawi: ''
-  id: Sebutlah dia (yi kalimah syahadah) dimana-mana laksana gamat yg dapat mema-afkan dosa
+  id: Sebutlah dia (yi kalimah syahadah) dimana-mana laksana gamat yg dapat mema-afkan
+    dosa
   en: ''
 etymology: ''
 related_words:
@@ -78,10 +80,12 @@ related_words:
 - 'kecak* 1gamat *n* sj tanaman utk obat luka: *tamsê* — *umbat luka*'
 - laksana gamat utk obat luka
 dialect_notes: ''
-source: 'Kamus Aceh-Indonesia (extracted from pp.124-270 of the source edition, Acehnese section entries
-  cèm-unyèn through gutie/H). File: markdown.md supplied by the user. — pp.210-211'
+source: 'Kamus Aceh-Indonesia (extracted from pp.124-270 of the source edition, Acehnese
+  section entries cèm-unyèn through gutie/H). File: markdown.md supplied by the user.
+  — pp.210-211'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: Indonesian example translations are taken verbatim from the source. English meanings
-  and Jawi transliterations are AI-flagged as unverified and need human review. Jawi transliteration is
-  AI-generated, not from source — needs verification by a Jawi-literate reviewer.
+extraction_notes: Indonesian example translations are taken verbatim from the source.
+  English meanings and Jawi transliterations are AI-flagged as unverified and need
+  human review. Jawi transliteration is AI-generated, not from source — needs verification
+  by a Jawi-literate reviewer.

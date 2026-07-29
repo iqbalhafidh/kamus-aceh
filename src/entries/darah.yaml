@@ -1,5 +1,5 @@
 headword: darah
-jawi: ''
+jawi: دارا
 alt_spelling: []
 ipa: ''
 part_of_speech: n
@@ -45,23 +45,27 @@ examples:
   en: ''
 - aceh: '- geusukat'
   jawi: ''
-  id: lueng geusipat, darah (yg keluar) disukat, lubang (yg dilukai) diukur dl menentukan uang diat
+  id: lueng geusipat, darah (yg keluar) disukat, lubang (yg dilukai) diukur dl menentukan
+    uang diat
   en: ''
 - aceh: beuku -
   jawi: ''
   id: darah yg membeku bekas penganiayaan
   en: ''
-- aceh: nyw'ong -, - gapah, (hrf) nyawa dan darah serta darah dan lemah = cara hidup seseorang
+- aceh: nyw'ong -, - gapah, (hrf) nyawa dan darah serta darah dan lemah = cara hidup
+    seseorang
   jawi: ''
   id: ''
   en: ''
 - aceh: lōn peujok nyaw'ong - lōn keu droeneu
   jawi: ''
-  id: ban hukōm droeneu, saya serahkan kpd Anda nyawa dan darah saya spt yg Anda kehendaki. meu —, berdarah
+  id: ban hukōm droeneu, saya serahkan kpd Anda nyawa dan darah saya spt yg Anda kehendaki.
+    meu —, berdarah
   en: ''
 - aceh: maté meu -
   jawi: ''
-  id: 'mati berdarah, meninggal krn melahirkan, pintō pageue n pintu pagar: meu —, berpintu pagar'
+  id: 'mati berdarah, meninggal krn melahirkan, pintō pageue n pintu pagar: meu —,
+    berpintu pagar'
   en: ''
 etymology: ''
 related_words:
@@ -77,10 +81,12 @@ related_words:
 - 'pintō pageue n pintu pagar: meu —'
 - berpintu pagar
 dialect_notes: ''
-source: 'Kamus Aceh-Indonesia (extracted from pp.124-270 of the source edition, Acehnese section entries
-  cèm-unyèn through gutie/H). File: markdown.md supplied by the user. — p.159'
+source: 'Kamus Aceh-Indonesia (extracted from pp.124-270 of the source edition, Acehnese
+  section entries cèm-unyèn through gutie/H). File: markdown.md supplied by the user.
+  — p.159'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: Indonesian example translations are taken verbatim from the source. English meanings
-  and Jawi transliterations are AI-flagged as unverified and need human review. Jawi transliteration is
-  AI-generated, not from source — needs verification by a Jawi-literate reviewer.
+extraction_notes: Indonesian example translations are taken verbatim from the source.
+  English meanings and Jawi transliterations are AI-flagged as unverified and need
+  human review. Jawi transliteration is AI-generated, not from source — needs verification
+  by a Jawi-literate reviewer.

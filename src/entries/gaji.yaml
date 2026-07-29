@@ -1,5 +1,5 @@
 headword: gaji
-jawi: ''
+jawi: كاجي
 alt_spelling: []
 ipa: ''
 part_of_speech: n
@@ -25,8 +25,8 @@ examples:
   jawi: ''
   id: bergaji, menerima gaji
   en: ''
-- aceh: 'na tameu -? Adakah Anda menerima gaji? gak-gök n sj permainan anak-anak: meu -, bermain gak-gök,
-    bagian bawah suatu benda, ukuran panjang: srah -'
+- aceh: 'na tameu -? Adakah Anda menerima gaji? gak-gök n sj permainan anak-anak:
+    meu -, bermain gak-gök, bagian bawah suatu benda, ukuran panjang: srah -'
   jawi: ''
   id: mencuci kaki
   en: ''
@@ -74,10 +74,11 @@ examples:
   jawi: ''
   id: berkaki, berjalan kaki
   en: ''
-- aceh: 'peue gata hana meu - lè, h''an jeuet tajak keudroe, tayue (bak) gob sabè? Spakah Anda tidak berkaki
-    lagi sehingga tidak dapat berjalan sendiri dan selalu menyuruh kerjakan kpd orang lain? ureueng Meusè
-    geujak èk haji, ladòm meu -, ladom meukandreuen, Orang-orang Mesir pergi naik haji, ada yg berjalan
-    kaki dan ada yg berkendara $^{1}$gala v gadaian, petaruh: - meula-ba'
+- aceh: 'peue gata hana meu - lè, h''an jeuet tajak keudroe, tayue (bak) gob sabè?
+    Spakah Anda tidak berkaki lagi sehingga tidak dapat berjalan sendiri dan selalu
+    menyuruh kerjakan kpd orang lain? ureueng Meusè geujak èk haji, ladòm meu -, ladom
+    meukandreuen, Orang-orang Mesir pergi naik haji, ada yg berjalan kaki dan ada
+    yg berkendara $^{1}$gala v gadaian, petaruh: - meula-ba'
   jawi: ''
   id: gadaian yg diperhitungkan bunganya
   en: ''
@@ -113,8 +114,8 @@ examples:
   jawi: ''
   id: barang yg telah digadaikan
   en: ''
-- aceh: geunala atra nyoe siplòh reunggèt, Utang barang gadaian ini berjumlah sepuluh ringgit., geugala
-    n damar, lak, gala-gala*
+- aceh: geunala atra nyoe siplòh reunggèt, Utang barang gadaian ini berjumlah sepuluh
+    ringgit., geugala n damar, lak, gala-gala*
   jawi: ''
   id: Orang-orang di dl kubu pertahanan sedang memasak damar (utk disiram kpd mush)
   en: ''
@@ -126,11 +127,12 @@ examples:
   jawi: ''
   id: Badanya hancur, tulang-tulangnya patah, sedikit pun ia tidak berkekuatan
   en: ''
-- aceh: hana sapat na meu -, Di mana-mana tidak menunjukkan adanya kehidupan galagarò n sj gaharu yg tergolong
-    aweueh peuet plòh peuet galah n galah
+- aceh: hana sapat na meu -, Di mana-mana tidak menunjukkan adanya kehidupan galagarò
+    n sj gaharu yg tergolong aweueh peuet plòh peuet galah n galah
   jawi: ''
-  id: kayu pendorong perahu dr tepian ke laut atau sebaliknya, Matahari sudah terbit setinggi galah di
-    langit (kira-kira pukul 7.00 — 7.30 pagi). ji — prahô, Ia mendorong perahu dng galah
+  id: kayu pendorong perahu dr tepian ke laut atau sebaliknya, Matahari sudah terbit
+    setinggi galah di langit (kira-kira pukul 7.00 — 7.30 pagi). ji — prahô, Ia mendorong
+    perahu dng galah
   en: ''
 etymology: ''
 related_words:
@@ -144,13 +146,16 @@ related_words:
 - '*gala-gala* → *dama: ureueng lam kuta teungoh taguen* -'
 - Orang-orang di dl kubu pertahanan sedang memasak damar (utk disiram kpd mush)
 - '*jhò* : *si* - *uroe*'
-- Matahari sudah terbit setinggi galah di langit (kira-kira pukul 7.00 — 7.30 pagi). ji — prahô
+- Matahari sudah terbit setinggi galah di langit (kira-kira pukul 7.00 — 7.30 pagi).
+  ji — prahô
 - Ia mendorong perahu dng galah
 dialect_notes: ''
-source: 'Kamus Aceh-Indonesia (extracted from pp.124-270 of the source edition, Acehnese section entries
-  cèm-unyèn through gutie/H). File: markdown.md supplied by the user. — pp.207-209'
+source: 'Kamus Aceh-Indonesia (extracted from pp.124-270 of the source edition, Acehnese
+  section entries cèm-unyèn through gutie/H). File: markdown.md supplied by the user.
+  — pp.207-209'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: Indonesian example translations are taken verbatim from the source. English meanings
-  and Jawi transliterations are AI-flagged as unverified and need human review. Jawi transliteration is
-  AI-generated, not from source — needs verification by a Jawi-literate reviewer.
+extraction_notes: Indonesian example translations are taken verbatim from the source.
+  English meanings and Jawi transliterations are AI-flagged as unverified and need
+  human review. Jawi transliteration is AI-generated, not from source — needs verification
+  by a Jawi-literate reviewer.

@@ -1,5 +1,5 @@
 headword: dong
-jawi: ''
+jawi: دوغ
 alt_spelling: []
 ipa: ''
 part_of_speech: v
@@ -7,8 +7,8 @@ definitions:
 - meaning_id: berdiri, tegak
   meaning_en: ''
 examples:
-- aceh: 'ka thèe -(ia) sudah dpt berdiri (utk menyatakan umur seorang anak), hinggap (utk burung), melakukan:
-    - bak cot! berdiri tegak! kaji - seuma-yang'
+- aceh: 'ka thèe -(ia) sudah dpt berdiri (utk menyatakan umur seorang anak), hinggap
+    (utk burung), melakukan: - bak cot! berdiri tegak! kaji - seuma-yang'
   jawi: ''
   id: ia sudah bersembahyang
   en: ''
@@ -48,7 +48,8 @@ examples:
   jawi: ''
   id: sama-sama berdiri
   en: ''
-- aceh: pakon meu - gata bandum? Peue takalon? mengapa Anda semua berdiri? apakah yg Anda lihat? peu-
+- aceh: pakon meu - gata bandum? Peue takalon? mengapa Anda semua berdiri? apakah
+    yg Anda lihat? peu-
   jawi: ''
   id: menyuruh tegakkan (utk benda-benda yg berkaki), menyuruh hentikan
   en: ''
@@ -84,7 +85,8 @@ examples:
   jawi: ''
   id: berdiri tegak
   en: ''
-- aceh: ho ka si Pulan jèh kon teu -, kemana si Polan? itu'kan dia sedang berdiri di sana! teujak-teu-
+- aceh: ho ka si Pulan jèh kon teu -, kemana si Polan? itu'kan dia sedang berdiri
+    di sana! teujak-teu-
   jawi: ''
   id: ''
   en: ''
@@ -92,8 +94,8 @@ examples:
   jawi: ''
   id: sikap berdiri keadaan seseorang yg diukut dr kepala sampai kaki
   en: ''
-- aceh: panè 'oh na neu - si Pulan? na 'oh neu - lôn? Berapa tinggi si Polan? ada setinggi saya? umong
-    sineu -, sepetak sawah yg luasanya satu *yòk*
+- aceh: panè 'oh na neu - si Pulan? na 'oh neu - lôn? Berapa tinggi si Polan? ada
+    setinggi saya? umong sineu -, sepetak sawah yg luasanya satu *yòk*
   jawi: ''
   id: ''
   en: ''
@@ -106,10 +108,12 @@ related_words:
 - jak
 - beudoih
 dialect_notes: ''
-source: 'Kamus Aceh-Indonesia (extracted from pp.124-270 of the source edition, Acehnese section entries
-  cèm-unyèn through gutie/H). File: markdown.md supplied by the user. — p.175'
+source: 'Kamus Aceh-Indonesia (extracted from pp.124-270 of the source edition, Acehnese
+  section entries cèm-unyèn through gutie/H). File: markdown.md supplied by the user.
+  — p.175'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: Indonesian example translations are taken verbatim from the source. English meanings
-  and Jawi transliterations are AI-flagged as unverified and need human review. Jawi transliteration is
-  AI-generated, not from source — needs verification by a Jawi-literate reviewer.
+extraction_notes: Indonesian example translations are taken verbatim from the source.
+  English meanings and Jawi transliterations are AI-flagged as unverified and need
+  human review. Jawi transliteration is AI-generated, not from source — needs verification
+  by a Jawi-literate reviewer.

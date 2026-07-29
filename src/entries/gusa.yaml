@@ -1,5 +1,5 @@
 headword: gusa
-jawi: ''
+jawi: كوسا
 alt_spelling: []
 ipa: ''
 part_of_speech: n
@@ -9,8 +9,8 @@ definitions:
 examples:
 - aceh: gajah ka èk tapeuna, - h'an èk tapeuna? Anda telah dapat memelihara gajah
   jawi: ''
-  id: adakah tongkatnya tidak dapat Anda sediakan? (pb) = Anda telah berhasil melakukan yg besar, adakah
-    pekerjaan yg kecil tidak dapat Anda lakukan?
+  id: adakah tongkatnya tidak dapat Anda sediakan? (pb) = Anda telah berhasil melakukan
+    yg besar, adakah pekerjaan yg kecil tidak dapat Anda lakukan?
   en: ''
 - aceh: ji - gajah
   jawi: ''
@@ -27,10 +27,12 @@ examples:
 etymology: ''
 related_words: []
 dialect_notes: ''
-source: 'Kamus Aceh-Indonesia (extracted from pp.124-270 of the source edition, Acehnese section entries
-  cèm-unyèn through gutie/H). File: markdown.md supplied by the user. — p.267'
+source: 'Kamus Aceh-Indonesia (extracted from pp.124-270 of the source edition, Acehnese
+  section entries cèm-unyèn through gutie/H). File: markdown.md supplied by the user.
+  — p.267'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: Indonesian example translations are taken verbatim from the source. English meanings
-  and Jawi transliterations are AI-flagged as unverified and need human review. Jawi transliteration is
-  AI-generated, not from source — needs verification by a Jawi-literate reviewer.
+extraction_notes: Indonesian example translations are taken verbatim from the source.
+  English meanings and Jawi transliterations are AI-flagged as unverified and need
+  human review. Jawi transliteration is AI-generated, not from source — needs verification
+  by a Jawi-literate reviewer.

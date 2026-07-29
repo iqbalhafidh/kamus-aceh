@@ -1,5 +1,5 @@
 headword: teutap
-jawi: ''
+jawi: تتف
 alt_spelling: []
 ipa: ''
 part_of_speech: a
@@ -29,7 +29,8 @@ examples:
   en: ''
 - aceh: tabbat yada Abi Lahabin wa tabb, bak teutap
   jawi: ''
-  id: '! Tangan tangan Abu Lahab akan binasa dan ia sendiri akan dibinasakan semoga akan tetap adanya'
+  id: '! Tangan tangan Abu Lahab akan binasa dan ia sendiri akan dibinasakan semoga
+    akan tetap adanya'
   en: ''
 - aceh: jinoe jih ka akai
   jawi: ''
@@ -51,12 +52,14 @@ etymology: ''
 related_words:
 - goga
 dialect_notes: ''
-source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
-  Pendidikan dan Kebudayaan, 1985, hlm. 974'
+source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan
+  Bahasa, Departemen Pendidikan dan Kebudayaan, 1985, hlm. 974'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: 'Homonym 1 in the source (printed as a superscript numeral before the headword). Jawi
-  left blank: the source is Latin-script only and no Jawi form is printed for this entry. | English gloss
-  left blank: no confident translation of the Indonesian definition was available. Homonym 2 in the source
-  (printed as a superscript numeral before the headword). Jawi left blank: the source is Latin-script
-  only and no Jawi form is printed for this entry. Part of speech not stated in the source; left blank.'
+extraction_notes: 'Homonym 1 in the source (printed as a superscript numeral before
+  the headword). Jawi left blank: the source is Latin-script only and no Jawi form
+  is printed for this entry. | English gloss left blank: no confident translation
+  of the Indonesian definition was available. Homonym 2 in the source (printed as
+  a superscript numeral before the headword). Jawi left blank: the source is Latin-script
+  only and no Jawi form is printed for this entry. Part of speech not stated in the
+  source; left blank.'

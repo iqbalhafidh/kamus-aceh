@@ -1,28 +1,33 @@
-headword: "ahli"
-jawi: ""
-alt_spelling: ["ahalî", "ali"]
-ipa: ""
-part_of_speech: "a"
+headword: ahli
+jawi: اعلی
+alt_spelling:
+- ahalî
+- ali
+ipa: ''
+part_of_speech: a
 definitions:
-  - meaning_id: "ahli, pandai, keluarga"
-    meaning_en: "expert, skilled, family"
+- meaning_id: ahli, pandai, keluarga
+  meaning_en: expert, skilled, family
 examples:
-  - aceh: "dilee jameun ureueng Acèh ahli that lam prang"
-    jawi: ""
-    id: "dahulu orang Aceh sangat ahli dl perang"
-    en: "in the past the Acehnese were very expert in warfare"
-  - aceh: "ahli rumoh"
-    id: "sekeluarga"
-    en: "family members"
-  - aceh: "ahli droeneuh"
-    id: "keluarga Anda"
-    en: "your family"
-  - aceh: "padum droe ureueng ahli droeneuh?"
-    id: "berapa orang keluarga Anda?"
-    en: "how many family members do you have?"
-related_words: ["ahloî", "ai"]
-dialect_notes: ""
-source: "Aboe Bakar et al., Kamus Aceh-Indonesia Seri 1 A–L, 1985, p.10"
-date_added: "2025-06-18"
-contributor: "AI-extracted — needs human review"
-extraction_notes: "Arabic loanword. Jawi transliteration is AI-generated, not from source — needs verification."
+- aceh: dilee jameun ureueng Acèh ahli that lam prang
+  jawi: ''
+  id: dahulu orang Aceh sangat ahli dl perang
+  en: in the past the Acehnese were very expert in warfare
+- aceh: ahli rumoh
+  id: sekeluarga
+  en: family members
+- aceh: ahli droeneuh
+  id: keluarga Anda
+  en: your family
+- aceh: padum droe ureueng ahli droeneuh?
+  id: berapa orang keluarga Anda?
+  en: how many family members do you have?
+related_words:
+- ahloî
+- ai
+dialect_notes: ''
+source: Aboe Bakar et al., Kamus Aceh-Indonesia Seri 1 A–L, 1985, p.10
+date_added: '2025-06-18'
+contributor: AI-extracted — needs human review
+extraction_notes: Arabic loanword. Jawi transliteration is AI-generated, not from
+  source — needs verification.

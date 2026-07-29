@@ -1,5 +1,5 @@
 headword: guna
-jawi: ''
+jawi: كُونا
 alt_spelling: []
 ipa: ''
 part_of_speech: adv
@@ -16,22 +16,25 @@ definitions:
   meaning_en: ''
 - meaning_id: — biasa, sudah biasa, pandai,
   meaning_en: ''
-- meaning_id: dumnan tapeuduek — keu kamoe, h'an êk mubalaih, Demikian banyak jasa Anda kpd kami tidak
-    sanggup kami membalasnya. nyan dum jipulang — keu gata, h'an cit tapatêh peue nyang jipeugah, Demikian
-    banyak jasa yg diberikan kpd Anda, tetapi Anda tidak mau juga mengikuti perkataannya
+- meaning_id: dumnan tapeuduek — keu kamoe, h'an êk mubalaih, Demikian banyak jasa
+    Anda kpd kami tidak sanggup kami membalasnya. nyan dum jipulang — keu gata, h'an
+    cit tapatêh peue nyang jipeugah, Demikian banyak jasa yg diberikan kpd Anda, tetapi
+    Anda tidak mau juga mengikuti perkataannya
   meaning_en: ''
 - meaning_id: meu —, berguna
   meaning_en: ''
-- meaning_id: lôn bri — nyang meu — keu gata, Saya memberikan jasa-jasa yg berguna bagi Anda
+- meaning_id: lôn bri — nyang meu — keu gata, Saya memberikan jasa-jasa yg berguna
+    bagi Anda
   meaning_en: ''
 - meaning_id: peu —, menggunakan, mengambil manfaat
   meaning_en: ''
-- meaning_id: peue nyang jeuet tapeu —, Pergunakanlah apa yg dapat Anda pergunakan gunantan, gulatan,
-    manok gunantan n ayam kinantan, ayam jantan yg bulu, paruh, dan kakinya berwarna putih, (dianggap
-    bertuah)
+- meaning_id: peue nyang jeuet tapeu —, Pergunakanlah apa yg dapat Anda pergunakan
+    gunantan, gulatan, manok gunantan n ayam kinantan, ayam jantan yg bulu, paruh,
+    dan kakinya berwarna putih, (dianggap bertuah)
   meaning_en: ''
-- meaning_id: ureueng nyan kaya sabab jipeulara manok—, orang itu menjadi kaya krn memelihara ayam kinantan.
-    soe nyang pajôh manok — êk jeuet keu raja, Barangsiapa makan ayam kinantan akan menjadi raja
+- meaning_id: ureueng nyan kaya sabab jipeulara manok—, orang itu menjadi kaya krn
+    memelihara ayam kinantan. soe nyang pajôh manok — êk jeuet keu raja, Barangsiapa
+    makan ayam kinantan akan menjadi raja
   meaning_en: ''
 examples:
 - aceh: keu peue –
@@ -47,10 +50,12 @@ related_words:
 - gui
 - jantan
 dialect_notes: ''
-source: 'Kamus Aceh-Indonesia (extracted from pp.124-270 of the source edition, Acehnese section entries
-  cèm-unyèn through gutie/H). File: markdown.md supplied by the user. — pp.262-263'
+source: 'Kamus Aceh-Indonesia (extracted from pp.124-270 of the source edition, Acehnese
+  section entries cèm-unyèn through gutie/H). File: markdown.md supplied by the user.
+  — pp.262-263'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: Indonesian example translations are taken verbatim from the source. English meanings
-  and Jawi transliterations are AI-flagged as unverified and need human review. Jawi transliteration is
-  AI-generated, not from source — needs verification by a Jawi-literate reviewer.
+extraction_notes: Indonesian example translations are taken verbatim from the source.
+  English meanings and Jawi transliterations are AI-flagged as unverified and need
+  human review. Jawi transliteration is AI-generated, not from source — needs verification
+  by a Jawi-literate reviewer.

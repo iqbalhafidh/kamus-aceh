@@ -1,19 +1,21 @@
-headword: "adek"
-jawi: ""
-alt_spelling: ["dek"]
-ipa: ""
-part_of_speech: "n"
+headword: adek
+jawi: ادیق
+alt_spelling:
+- dek
+ipa: ''
+part_of_speech: n
 definitions:
-  - meaning_id: "adik (lebih sopan dr adoe)"
-    meaning_en: "younger sibling (more polite than 'adoe')"
+- meaning_id: adik (lebih sopan dr adoe)
+  meaning_en: younger sibling (more polite than 'adoe')
 examples:
-  - aceh: "meu adek"
-    jawi: ""
-    id: "beradik"
-    en: "to have younger siblings"
-related_words: ["adoe"]
-dialect_notes: ""
-source: "Aboe Bakar et al., Kamus Aceh-Indonesia Seri 1 A–L, 1985, p.7"
-date_added: "2025-06-18"
-contributor: "AI-extracted — needs human review"
-extraction_notes: "Jawi transliteration is AI-generated, not from source — needs verification."
+- aceh: meu adek
+  jawi: ''
+  id: beradik
+  en: to have younger siblings
+related_words:
+- adoe
+dialect_notes: ''
+source: Aboe Bakar et al., Kamus Aceh-Indonesia Seri 1 A–L, 1985, p.7
+date_added: '2025-06-18'
+contributor: AI-extracted — needs human review
+extraction_notes: Jawi transliteration is AI-generated, not from source — needs verification.

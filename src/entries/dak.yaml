@@ -1,5 +1,5 @@
 headword: dak
-jawi: ''
+jawi: داغ
 alt_spelling: []
 ipa: ''
 part_of_speech: p
@@ -21,7 +21,8 @@ examples:
   en: ''
 - aceh: roti -
   jawi: ''
-  id: h'an jitém ék, roti itu bantat adonannya, tidak mau naik. anoe —, pasir yg padat keadaannya
+  id: h'an jitém ék, roti itu bantat adonannya, tidak mau naik. anoe —, pasir yg padat
+    keadaannya
   en: ''
 - aceh: ie laôt - meusé apam
   jawi: ''
@@ -29,8 +30,8 @@ examples:
   en: ''
 - aceh: lòn - that uroe nyoe
   jawi: ''
-  id: hana breueh di rumoh, neubri lòn ngui meung sia- rè, saya susah sekali hari ini, di rumah tidak
-    ada beras, pinjamkan saya barang se arè
+  id: hana breueh di rumoh, neubri lòn ngui meung sia- rè, saya susah sekali hari
+    ini, di rumah tidak ada beras, pinjamkan saya barang se arè
   en: ''
 - aceh: '- akai (ki) ke- hilangan akal'
   jawi: ''
@@ -46,17 +47,19 @@ examples:
   en: ''
 - aceh: bèk tapeu - droe
   jawi: ''
-  id: lakoe gata ka jowoe ngon breueh, janganlah Anda berlaku spt orang melarat, suami Anda sudah pulang
-    membawa beras
+  id: lakoe gata ka jowoe ngon breueh, janganlah Anda berlaku spt orang melarat, suami
+    Anda sudah pulang membawa beras
   en: ''
 etymology: ''
 related_words:
 - dak-dak
 dialect_notes: ''
-source: 'Kamus Aceh-Indonesia (extracted from pp.124-270 of the source edition, Acehnese section entries
-  cèm-unyèn through gutie/H). File: markdown.md supplied by the user. — p.153'
+source: 'Kamus Aceh-Indonesia (extracted from pp.124-270 of the source edition, Acehnese
+  section entries cèm-unyèn through gutie/H). File: markdown.md supplied by the user.
+  — p.153'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: Indonesian example translations are taken verbatim from the source. English meanings
-  and Jawi transliterations are AI-flagged as unverified and need human review. Jawi transliteration is
-  AI-generated, not from source — needs verification by a Jawi-literate reviewer.
+extraction_notes: Indonesian example translations are taken verbatim from the source.
+  English meanings and Jawi transliterations are AI-flagged as unverified and need
+  human review. Jawi transliteration is AI-generated, not from source — needs verification
+  by a Jawi-literate reviewer.

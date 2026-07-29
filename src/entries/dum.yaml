@@ -1,5 +1,5 @@
 headword: dum
-jawi: ''
+jawi: دوم
 alt_spelling:
 - dub
 ipa: ''
@@ -58,8 +58,8 @@ examples:
   jawi: ''
   id: Kpd siapa saja ia akan bercerita demikian
   en: ''
-- aceh: '- soe tuha gob-nyan? spt siapa orang itu, setua siapa orang itu? - noe, - nan, dèh, nyoe -, nyan
-    -, jèh -'
+- aceh: '- soe tuha gob-nyan? spt siapa orang itu, setua siapa orang itu? - noe, -
+    nan, dèh, nyoe -, nyan -, jèh -'
   jawi: ''
   id: sebanyak atau spt ini, itu sana
   en: ''
@@ -99,8 +99,8 @@ examples:
   jawi: ''
   id: Semua orang seia sekata
   en: ''
-- aceh: 'barang (ga) -, beurang(ga) -, marang(g-) -, meurang(ga) -, berapa pun atau betapa pun keadaannya:
-    neubri barangga - keu lòn'
+- aceh: 'barang (ga) -, beurang(ga) -, marang(g-) -, meurang(ga) -, berapa pun atau
+    betapa pun keadaannya: neubri barangga - keu lòn'
   jawi: ''
   id: Berikanlah kpd sya berapa pun banyaknya
   en: ''
@@ -124,15 +124,16 @@ examples:
   jawi: ''
   id: Belum tentu berapa hari saya akan kpmabli kemari
   en: ''
-- aceh: tapeugah bumeu - buleuen tabanyeue utang gata! Katakanlah berapa bulan Anda akan membayar utang
-    Anda! meu -
+- aceh: tapeugah bumeu - buleuen tabanyeue utang gata! Katakanlah berapa bulan Anda
+    akan membayar utang Anda! meu -
   jawi: ''
   id: melakukan sesuatu secara bersama-sama
   en: ''
-- aceh: meungyo nyang biek teuga, bak that jirungkhom jimeu - lheueh cit hana soe èk mat
+- aceh: meungyo nyang biek teuga, bak that jirungkhom jimeu - lheueh cit hana soe
+    èk mat
   jawi: ''
-  id: Jika orang kuat, betapapun banyak orang bersama-sama menerkamnya, ia akan lepas juga, tak seorang
-    pun dpt memegangnya
+  id: Jika orang kuat, betapapun banyak orang bersama-sama menerkamnya, ia akan lepas
+    juga, tak seorang pun dpt memegangnya
   en: ''
 - aceh: peu - menentukan (jumlah)
   jawi: ''
@@ -142,8 +143,8 @@ examples:
   jawi: ''
   id: berapa, betapa
   en: ''
-- aceh: pa - yum, berapa harganya? pa - tuha gurèe gata? Berapa umur guru Anda? hana lòn tupeue pa - na!
-    Saya tidak tahu berapa! pa - (-)
+- aceh: pa - yum, berapa harganya? pa - tuha gurèe gata? Berapa umur guru Anda? hana
+    lòn tupeue pa - na! Saya tidak tahu berapa! pa - (-)
   jawi: ''
   id: berapa, berapa saja, beberapa
   en: ''
@@ -151,8 +152,8 @@ examples:
   jawi: ''
   id: Berapa pun Anda menginginkannya akan saya usahakan juga
   en: ''
-- aceh: ka pa - (pa -) go lòn kheun bèk, Sudah beberapa kali saya katakan jangan! lam pa - pa - urie mantong
-    ka pulèh geupeuu- bat
+- aceh: ka pa - (pa -) go lòn kheun bèk, Sudah beberapa kali saya katakan jangan!
+    lam pa - pa - urie mantong ka pulèh geupeuu- bat
   jawi: ''
   id: Dl beberapa hari saja diobati, ia sudah baik
   en: ''
@@ -202,11 +203,12 @@ related_words:
 - '*dit*'
 - '*ladôm*'
 dialect_notes: ''
-source: 'Kamus Aceh-Indonesia (extracted from pp.124-270 of the source edition, Acehnese section entries
-  cèm-unyèn through gutie/H). File: markdown.md supplied by the user. — pp.183-185'
+source: 'Kamus Aceh-Indonesia (extracted from pp.124-270 of the source edition, Acehnese
+  section entries cèm-unyèn through gutie/H). File: markdown.md supplied by the user.
+  — pp.183-185'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: Part of speech not explicitly marked in source. Indonesian example translations are
-  taken verbatim from the source. English meanings and Jawi transliterations are AI-flagged as unverified
-  and need human review. Jawi transliteration is AI-generated, not from source — needs verification by
-  a Jawi-literate reviewer.
+extraction_notes: Part of speech not explicitly marked in source. Indonesian example
+  translations are taken verbatim from the source. English meanings and Jawi transliterations
+  are AI-flagged as unverified and need human review. Jawi transliteration is AI-generated,
+  not from source — needs verification by a Jawi-literate reviewer.

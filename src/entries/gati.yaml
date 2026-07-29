@@ -1,5 +1,5 @@
 headword: gati
-jawi: ''
+jawi: كاتي
 alt_spelling:
 - kati
 ipa: ''
@@ -7,14 +7,16 @@ part_of_speech: n
 definitions:
 - meaning_id: boh
   meaning_en: ''
-- meaning_id: '* —, lengan-lengan kayu yg dipasang pd sayap-sayap perahu katir supaya setimbang'
+- meaning_id: '* —, lengan-lengan kayu yg dipasang pd sayap-sayap perahu katir supaya
+    setimbang'
   meaning_en: ''
 examples:
 - aceh: peu -
   jawi: ''
   id: memasang lengan-lengan kayu
   en: ''
-- aceh: tapeu - bak bagaih bidôk nyan! Pasanglah segera lengan-lengan kayu pd perahu katir itu
+- aceh: tapeu - bak bagaih bidôk nyan! Pasanglah segera lengan-lengan kayu pd perahu
+    katir itu
   jawi: ''
   id: ''
   en: ''
@@ -23,10 +25,12 @@ related_words:
 - sapai
 - ceudêk
 dialect_notes: ''
-source: 'Kamus Aceh-Indonesia (extracted from pp.124-270 of the source edition, Acehnese section entries
-  cèm-unyèn through gutie/H). File: markdown.md supplied by the user. — p.220'
+source: 'Kamus Aceh-Indonesia (extracted from pp.124-270 of the source edition, Acehnese
+  section entries cèm-unyèn through gutie/H). File: markdown.md supplied by the user.
+  — p.220'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: Indonesian example translations are taken verbatim from the source. English meanings
-  and Jawi transliterations are AI-flagged as unverified and need human review. Jawi transliteration is
-  AI-generated, not from source — needs verification by a Jawi-literate reviewer.
+extraction_notes: Indonesian example translations are taken verbatim from the source.
+  English meanings and Jawi transliterations are AI-flagged as unverified and need
+  human review. Jawi transliteration is AI-generated, not from source — needs verification
+  by a Jawi-literate reviewer.

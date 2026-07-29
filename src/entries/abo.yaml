@@ -1,31 +1,34 @@
-headword: "abo"
-jawi: ""
+headword: abo
+jawi: ابو
 alt_spelling: []
-ipa: ""
-part_of_speech: "n"
+ipa: ''
+part_of_speech: n
 definitions:
-  - meaning_id: "sj siput yg biasanya hidup di paya-paya dan selalu naik turun pd tanaman kumpai"
-    meaning_en: "a type of snail that lives in swamps and climbs up and down kumpai plants"
+- meaning_id: sj siput yg biasanya hidup di paya-paya dan selalu naik turun pd tanaman
+    kumpai
+  meaning_en: a type of snail that lives in swamps and climbs up and down kumpai plants
 examples:
-  - aceh: "até gata lagèe abo, meuèk meutròn"
-    jawi: ""
-    id: "hati Anda naik turun spt siput"
-    en: "your heart goes up and down like a snail"
-  - aceh: "abo jagat"
-    id: "→ jagat"
-    en: "→ see jagat"
-  - aceh: "euntuek bruek abo"
-    id: "→ euntuek"
-    en: "→ see euntuek"
-  - aceh: "Ka leupah jijak meu abo"
-    id: "ia sudah pergi mencari siput"
-    en: "he has gone looking for snails"
-  - aceh: "buet gata meu abo that"
-    id: "pekerjaan Anda menyerupai siput = lambat sekali"
-    en: "your work resembles a snail = very slow"
-related_words: ["jagat", "euntuek"]
-dialect_notes: ""
-source: "Aboe Bakar et al., Kamus Aceh-Indonesia Seri 1 A–L, 1985, p.3"
-date_added: "2025-06-18"
-contributor: "AI-extracted — needs human review"
-extraction_notes: "Jawi transliteration is AI-generated, not from source — needs verification."
+- aceh: até gata lagèe abo, meuèk meutròn
+  jawi: ''
+  id: hati Anda naik turun spt siput
+  en: your heart goes up and down like a snail
+- aceh: abo jagat
+  id: → jagat
+  en: → see jagat
+- aceh: euntuek bruek abo
+  id: → euntuek
+  en: → see euntuek
+- aceh: Ka leupah jijak meu abo
+  id: ia sudah pergi mencari siput
+  en: he has gone looking for snails
+- aceh: buet gata meu abo that
+  id: pekerjaan Anda menyerupai siput = lambat sekali
+  en: your work resembles a snail = very slow
+related_words:
+- jagat
+- euntuek
+dialect_notes: ''
+source: Aboe Bakar et al., Kamus Aceh-Indonesia Seri 1 A–L, 1985, p.3
+date_added: '2025-06-18'
+contributor: AI-extracted — needs human review
+extraction_notes: Jawi transliteration is AI-generated, not from source — needs verification.

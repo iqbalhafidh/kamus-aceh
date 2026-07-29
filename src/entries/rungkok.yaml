@@ -1,5 +1,5 @@
 headword: rungkok
-jawi: ''
+jawi: رُوْعَا
 alt_spelling: []
 ipa: ''
 part_of_speech: a
@@ -17,7 +17,8 @@ examples:
   jawi: ''
   id: Orang itu sudah bongkok sehingga tubuhnya menjadi bungkuk
   en: ''
-- aceh: jimeu'en muda troih an rungkok, Ia hidup bersenang-senang sampai usia tua meurungkok
+- aceh: jimeu'en muda troih an rungkok, Ia hidup bersenang-senang sampai usia tua
+    meurungkok
   jawi: ''
   id: = rungkok
   en: ''
@@ -26,12 +27,14 @@ related_words:
 - rungkok
 - reuntah
 dialect_notes: ''
-source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
-  Pendidikan dan Kebudayaan, 1985, hlm. 825'
+source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan
+  Bahasa, Departemen Pendidikan dan Kebudayaan, 1985, hlm. 825'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: 'Source gives this only as a cross-reference (→ rungkok); no independent definition
-  is printed, so meaning fields are left blank rather than guessed. Jawi left blank: the source is Latin-script
-  only and no Jawi form is printed for this entry. Part of speech not stated in the source; left blank.
-  | English gloss left blank: no confident translation of the Indonesian definition was available. Jawi
-  left blank: the source is Latin-script only and no Jawi form is printed for this entry.'
+extraction_notes: 'Source gives this only as a cross-reference (→ rungkok); no independent
+  definition is printed, so meaning fields are left blank rather than guessed. Jawi
+  left blank: the source is Latin-script only and no Jawi form is printed for this
+  entry. Part of speech not stated in the source; left blank. | English gloss left
+  blank: no confident translation of the Indonesian definition was available. Jawi
+  left blank: the source is Latin-script only and no Jawi form is printed for this
+  entry.'

@@ -1,21 +1,23 @@
 headword: dit
-jawi: ''
+jawi: دیت
 alt_spelling: []
 ipa: ''
 part_of_speech: p
 definitions:
-- meaning_id: 'sebutan utk suatu jumlah yg dianggap pantang: — that gaji lôn, gaji saya sedikit sekali'
+- meaning_id: 'sebutan utk suatu jumlah yg dianggap pantang: — that gaji lôn, gaji
+    saya sedikit sekali'
   meaning_en: ''
 - meaning_id: — noe — nan — dèn, — lagèe, si — noe, sebanyak ini, itu, sana
   meaning_en: ''
 - meaning_id: barangga —, betapapun sedikitnya
   meaning_en: ''
-- meaning_id: barangga —, jibri, tatueng cit, betapapun sedikit diberikannya, Anda terima juga
+- meaning_id: barangga —, jibri, tatueng cit, betapapun sedikit diberikannya, Anda
+    terima juga
   meaning_en: ''
 - meaning_id: meu —, tertentu banyaknya
   meaning_en: ''
-- meaning_id: pa — na ureueng lam gampong gata? hana meu — lom, berapa diwana, jumlah penduduk kampung
-    Anda? belum lagi diketahui berapa banyaknya
+- meaning_id: pa — na ureueng lam gampong gata? hana meu — lom, berapa diwana, jumlah
+    penduduk kampung Anda? belum lagi diketahui berapa banyaknya
   meaning_en: ''
 examples:
 - aceh: meu - -
@@ -54,7 +56,8 @@ examples:
   jawi: ''
   id: betapapun sedikitnya
   en: ''
-- aceh: pa - pa - na, tatueng cit, betapapun sedikit jumlahnya, Anda terima juga! sa -
+- aceh: pa - pa - na, tatueng cit, betapapun sedikit jumlahnya, Anda terima juga!
+    sa -
   jawi: ''
   id: sedikitnya serupa dng
   en: ''
@@ -78,8 +81,8 @@ examples:
   jawi: ''
   id: saya telah mengetahui berapa banyak yg diperolehnya
   en: ''
-- aceh: hana tahu - peugah lé, kita tidak dpt menceritakan berapa banyaknya, banyak sekali, dum, mit,
-    nit
+- aceh: hana tahu - peugah lé, kita tidak dpt menceritakan berapa banyaknya, banyak
+    sekali, dum, mit, nit
   jawi: ''
   id: ''
   en: ''
@@ -90,10 +93,12 @@ related_words:
 - '*mit*'
 - '*nit*'
 dialect_notes: ''
-source: 'Kamus Aceh-Indonesia (extracted from pp.124-270 of the source edition, Acehnese section entries
-  cèm-unyèn through gutie/H). File: markdown.md supplied by the user. — pp.171-172'
+source: 'Kamus Aceh-Indonesia (extracted from pp.124-270 of the source edition, Acehnese
+  section entries cèm-unyèn through gutie/H). File: markdown.md supplied by the user.
+  — pp.171-172'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: Indonesian example translations are taken verbatim from the source. English meanings
-  and Jawi transliterations are AI-flagged as unverified and need human review. Jawi transliteration is
-  AI-generated, not from source — needs verification by a Jawi-literate reviewer.
+extraction_notes: Indonesian example translations are taken verbatim from the source.
+  English meanings and Jawi transliterations are AI-flagged as unverified and need
+  human review. Jawi transliteration is AI-generated, not from source — needs verification
+  by a Jawi-literate reviewer.

@@ -1,5 +1,5 @@
 headword: dara
-jawi: ''
+jawi: دارا
 alt_spelling: []
 ipa: ''
 part_of_speech: n
@@ -13,7 +13,8 @@ definitions:
 - meaning_id: peu ~ ~ droe, berlaku spt seorang dara
   meaning_en: ''
 examples:
-- aceh: aneuk – seupo nyan? gadis siapa itu? – palèh hana malèe, dara celaka, tak tahu malu! ulèe –
+- aceh: aneuk – seupo nyan? gadis siapa itu? – palèh hana malèe, dara celaka, tak
+    tahu malu! ulèe –
   jawi: ''
   id: masa seorang gadis dpt dikawinkan
   en: ''
@@ -30,10 +31,12 @@ related_words:
 - meunarō
 - biké
 dialect_notes: ''
-source: 'Kamus Aceh-Indonesia (extracted from pp.124-270 of the source edition, Acehnese section entries
-  cèm-unyèn through gutie/H). File: markdown.md supplied by the user. — pp.158-159'
+source: 'Kamus Aceh-Indonesia (extracted from pp.124-270 of the source edition, Acehnese
+  section entries cèm-unyèn through gutie/H). File: markdown.md supplied by the user.
+  — pp.158-159'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: Indonesian example translations are taken verbatim from the source. English meanings
-  and Jawi transliterations are AI-flagged as unverified and need human review. Jawi transliteration is
-  AI-generated, not from source — needs verification by a Jawi-literate reviewer.
+extraction_notes: Indonesian example translations are taken verbatim from the source.
+  English meanings and Jawi transliterations are AI-flagged as unverified and need
+  human review. Jawi transliteration is AI-generated, not from source — needs verification
+  by a Jawi-literate reviewer.

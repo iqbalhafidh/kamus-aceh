@@ -1,19 +1,24 @@
-headword: "cakrawala"
-jawi: ""
-alt_spelling: ["cakrabala", "cakrabalat"]
-ipa: ""
-part_of_speech: "n"
+headword: cakrawala
+jawi: چکرولا
+alt_spelling:
+- cakrabala
+- cakrabalat
+ipa: ''
+part_of_speech: n
 definitions:
-  - meaning_id: "cakrawala, lengkung langit, kaki langit, langit tempat bintang-bintang, tepi langit"
-    meaning_en: "horizon, celestial sphere, vault of heaven, sky where stars are, edge of the sky"
+- meaning_id: cakrawala, lengkung langit, kaki langit, langit tempat bintang-bintang,
+    tepi langit
+  meaning_en: horizon, celestial sphere, vault of heaven, sky where stars are, edge
+    of the sky
 examples:
-  - aceh: "silagi na idaran cakrawala, selagi bintang-bintang di langit beredar"
-    jawi: ""
-    id: "selagi bintang-bintang di langit beredar"
-    en: "as long as the stars revolve in the sky"
+- aceh: silagi na idaran cakrawala, selagi bintang-bintang di langit beredar
+  jawi: ''
+  id: selagi bintang-bintang di langit beredar
+  en: as long as the stars revolve in the sky
 related_words: []
-dialect_notes: "Skr"
-source: "Aboe Bakar et al., Kamus Aceh-Indonesia Seri 1 A–L, 1985, p.114"
-date_added: "2025-06-18"
-contributor: "AI-extracted — needs human review"
-extraction_notes: "Sanskrit-derived. Jawi transliteration is AI-generated, not from source — needs verification."
+dialect_notes: Skr
+source: Aboe Bakar et al., Kamus Aceh-Indonesia Seri 1 A–L, 1985, p.114
+date_added: '2025-06-18'
+contributor: AI-extracted — needs human review
+extraction_notes: Sanskrit-derived. Jawi transliteration is AI-generated, not from
+  source — needs verification.

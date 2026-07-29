@@ -1,25 +1,29 @@
-headword: "adab"
-jawi: ""
+headword: adab
+jawi: ادب
 alt_spelling: []
-ipa: ""
-part_of_speech: "n"
+ipa: ''
+part_of_speech: n
 definitions:
-  - meaning_id: "adab, kesopanan, budi bahasa"
-    meaning_en: "manners, courtesy, politeness"
+- meaning_id: adab, kesopanan, budi bahasa
+  meaning_en: manners, courtesy, politeness
 examples:
-  - aceh: "meu adab"
-    jawi: ""
-    id: "beradab, berpendidikan, berkesopanan"
-    en: "to be well-mannered, educated, courteous"
-  - aceh: "hana meu adab sagai gata"
-    id: "Anda tidak beradat sekali; Anda seorang yang sangat tidak sopan"
-    en: "you have no manners at all; you are a very impolite person"
-  - aceh: "bri adab"
-    id: "memberi penghormatan"
-    en: "to show respect"
-related_words: ["adat", "èdat", "hò-reumat"]
-dialect_notes: ""
-source: "Aboe Bakar et al., Kamus Aceh-Indonesia Seri 1 A–L, 1985, p.5"
-date_added: "2025-06-18"
-contributor: "AI-extracted — needs human review"
-extraction_notes: "Arabic loanword. Jawi transliteration is AI-generated, not from source — needs verification."
+- aceh: meu adab
+  jawi: ''
+  id: beradab, berpendidikan, berkesopanan
+  en: to be well-mannered, educated, courteous
+- aceh: hana meu adab sagai gata
+  id: Anda tidak beradat sekali; Anda seorang yang sangat tidak sopan
+  en: you have no manners at all; you are a very impolite person
+- aceh: bri adab
+  id: memberi penghormatan
+  en: to show respect
+related_words:
+- adat
+- èdat
+- hò-reumat
+dialect_notes: ''
+source: Aboe Bakar et al., Kamus Aceh-Indonesia Seri 1 A–L, 1985, p.5
+date_added: '2025-06-18'
+contributor: AI-extracted — needs human review
+extraction_notes: Arabic loanword. Jawi transliteration is AI-generated, not from
+  source — needs verification.

@@ -1,28 +1,31 @@
-headword: "aden"
-jawi: ""
+headword: aden
+jawi: عدن
 alt_spelling: []
-ipa: ""
-part_of_speech: "n"
+ipa: ''
+part_of_speech: n
 definitions:
-  - meaning_id: "kotoran-kotoran bawah yg terdapat di bawah atau di belakang rumah"
-    meaning_en: "filth/waste found under or behind houses, at the end of drainage channels"
+- meaning_id: kotoran-kotoran bawah yg terdapat di bawah atau di belakang rumah
+  meaning_en: filth/waste found under or behind houses, at the end of drainage channels
 examples:
-  - aceh: "muka-muka meutamèh aden goh meukawèn jih meujaga"
-    jawi: ""
-    id: "Mukanya menyerupai tiang kotoran basah, orang lain yg kawin, dia yg berjaga-jaga (pb)"
-    en: "His face resembles a wet filth post, others marry, he stands guard (proverb)"
-  - aceh: "meu aden"
-    id: "berkotoran basah"
-    en: "to have wet filth"
-  - aceh: "biek gampòng meu aden, luat bak tajak!"
-    id: "kampung yg banyak kotoran sehingga menimbulkan perasaan jijik utk pergi ke sana"
-    en: "a village with so much filth that one feels disgusted to go there"
-  - aceh: "peu aden"
-    id: "menjadikan tumpukan kotoran basah"
-    en: "to create a pile of wet filth"
-related_words: ["jeua", "lu-beueng"]
-dialect_notes: ""
-source: "Aboe Bakar et al., Kamus Aceh-Indonesia Seri 1 A–L, 1985, p.7"
-date_added: "2025-06-18"
-contributor: "AI-extracted — needs human review"
-extraction_notes: "Jawi transliteration is AI-generated, not from source — needs verification."
+- aceh: muka-muka meutamèh aden goh meukawèn jih meujaga
+  jawi: ''
+  id: Mukanya menyerupai tiang kotoran basah, orang lain yg kawin, dia yg berjaga-jaga
+    (pb)
+  en: His face resembles a wet filth post, others marry, he stands guard (proverb)
+- aceh: meu aden
+  id: berkotoran basah
+  en: to have wet filth
+- aceh: biek gampòng meu aden, luat bak tajak!
+  id: kampung yg banyak kotoran sehingga menimbulkan perasaan jijik utk pergi ke sana
+  en: a village with so much filth that one feels disgusted to go there
+- aceh: peu aden
+  id: menjadikan tumpukan kotoran basah
+  en: to create a pile of wet filth
+related_words:
+- jeua
+- lu-beueng
+dialect_notes: ''
+source: Aboe Bakar et al., Kamus Aceh-Indonesia Seri 1 A–L, 1985, p.7
+date_added: '2025-06-18'
+contributor: AI-extracted — needs human review
+extraction_notes: Jawi transliteration is AI-generated, not from source — needs verification.

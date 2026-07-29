@@ -1,19 +1,21 @@
 headword: ceuradi
-jawi: ''
+jawi: چرادی
 alt_spelling:
 - cradi
 ipa: ''
 part_of_speech: n sj
 definitions:
-- meaning_id: 'pola hiasan terdiri dr kain-kain kecil dl berbagai bentuk yg digunakan pd pelamin, kelambu,
-    pintu, dsb: bak keu leumbu geugantung dum —, pd ceuradieh, ceurumoe kelambu digantungkan aneka ragam'
+- meaning_id: 'pola hiasan terdiri dr kain-kain kecil dl berbagai bentuk yg digunakan
+    pd pelamin, kelambu, pintu, dsb: bak keu leumbu geugantung dum —, pd ceuradieh,
+    ceurumoe kelambu digantungkan aneka ragam'
   meaning_en: ''
 examples:
 - aceh: ceuradi
   jawi: ''
   id: ''
   en: ''
-- aceh: silapéh geu -, tanoh kawi geucat rata, selapis dihiasi pola, ceuradi yg dicat dng tanah liat
+- aceh: silapéh geu -, tanoh kawi geucat rata, selapis dihiasi pola, ceuradi yg dicat
+    dng tanah liat
   jawi: ''
   id: ''
   en: ''
@@ -25,10 +27,12 @@ etymology: ''
 related_words:
 - mirhapati
 dialect_notes: ''
-source: 'Kamus Aceh-Indonesia (extracted from pp.124-270 of the source edition, Acehnese section entries
-  cèm-unyèn through gutie/H). File: markdown.md supplied by the user. — pp.129-130'
+source: 'Kamus Aceh-Indonesia (extracted from pp.124-270 of the source edition, Acehnese
+  section entries cèm-unyèn through gutie/H). File: markdown.md supplied by the user.
+  — pp.129-130'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: Indonesian example translations are taken verbatim from the source. English meanings
-  and Jawi transliterations are AI-flagged as unverified and need human review. Jawi transliteration is
-  AI-generated, not from source — needs verification by a Jawi-literate reviewer.
+extraction_notes: Indonesian example translations are taken verbatim from the source.
+  English meanings and Jawi transliterations are AI-flagged as unverified and need
+  human review. Jawi transliteration is AI-generated, not from source — needs verification
+  by a Jawi-literate reviewer.
