@@ -15,21 +15,31 @@ Proyek ini sepenuhnya berbasis teks biasa (YAML) yang disimpan di GitHub, sehing
 
 ## Cara berkontribusi
 
-### Menambahkan entri baru
+Kamu **tidak perlu jago coding** untuk berkontribusi — cukup akun GitHub gratis dan browser.
 
-1. Fork repositori ini di GitHub.
-2. Salin file `src/entries/_template.yaml` dengan nama baru, misalnya `src/entries/kata-baru.yaml`.
-3. Isi semua kolom yang relevan.
-4. Buat pull request ke branch `main`.
+### Langkah 1 — Fork repositori
 
-Selengkapnya lihat [CONTRIBUTING.md](https://github.com/YOUR_USERNAME/kamus-aceh/blob/main/CONTRIBUTING.md).
+1. Buka [github.com/kbpro8/kamus-aceh](https://github.com/kbpro8/kamus-aceh)
+2. Klik tombol **Fork** di pojok kanan atas
+3. Pilih akun GitHub kamu → klik **Create fork**
 
-### Format entri (YAML)
+### Langkah 2 — Buat file entri baru
+
+1. Di fork kamu, buka folder `src/entries/`
+2. Klik **Add file** → **Create new file**
+3. Beri nama file: `nama-kata.yaml` (huruf kecil, pakai `-` untuk spasi)
+
+### Langkah 3 — Isi entri
+
+Salin template berikut dan isi bagian yang kamu tahu:
 
 ```yaml
 headword: "kata-aceh"
-ipa: "/ˈka.ta/"
-part_of_speech: "kb"    # kb=kata benda, kk=kata kerja, ks=kata sifat, dll.
+jawi: "کات اچيه"
+alt_spelling:
+  - "ejaan-alternatif"
+ipa: "/transkripsi-ipa/"
+part_of_speech: "kb"
 definitions:
   - meaning_id: "Arti dalam Bahasa Indonesia"
     meaning_en: "Meaning in English"
@@ -37,10 +47,31 @@ examples:
   - aceh: "Kalimat dalam Bahasa Aceh."
     id: "Terjemahan Indonesia."
     en: "English translation."
-source: "Nama sumber / referensi"
-contributor: "Nama kontributor"
+etymology: "Asal usul kata"
+related_words:
+  - "slug-kata-lain"
+dialect_notes: "Catatan dialek jika ada"
+source: "Nama buku atau sumber"
 date_added: "2025-01-01"
+contributor: "Nama Kamu"
 ```
+
+**Wajib diisi:** `headword`, `part_of_speech`, `definitions`, `source`, `date_added`, `contributor`
+
+**Opsional (sangat dihargai):** `jawi`, `ipa`, `examples`, `etymology`, `related_words`, `dialect_notes`
+
+Kode `part_of_speech`: `kb` (kata benda) · `kk` (kata kerja) · `ks` (kata sifat) · `keterangan` · `partikel` · `kata ganti` · `seruan` · `bilangan`
+
+### Langkah 4 — Commit dan kirim Pull Request
+
+1. Scroll ke bawah, tulis pesan commit: `Tambah entri: nama-kata`
+2. Klik **Commit new file**
+3. Kembali ke fork kamu → klik **Contribute** → **Open pull request**
+4. Tulis judul yang jelas, klik **Create pull request**
+
+Selesai! Pengelola akan mengecek dan menggabungkan kontribusimu.
+
+Panduan lengkap dengan penjelasan lebih detail tersedia di [CONTRIBUTING.md](https://github.com/kbpro8/kamus-aceh/blob/main/CONTRIBUTING.md).
 
 ## Lisensi
 
