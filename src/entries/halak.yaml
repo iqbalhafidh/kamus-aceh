@@ -1,5 +1,5 @@
 headword: halak
-jawi: ''
+jawi: هافق
 alt_spelling:
 - alak
 ipa: ''
@@ -7,6 +7,9 @@ part_of_speech: v
 definitions:
 - meaning_id: keadaan yang terhampar dari jauh atau dari segenap penjuru, terhampar
   meaning_en: a state of being spread out into the distance or on every side, outspread
+- meaning_id: mēhalak, sesuatu yang terlihat dari jauh
+  meaning_en: mēhalak, something visible from afar
+  meaning_nl: mēhalak, iets, dat van verre zichtbaar is
 examples:
 - aceh: watèe taèk ateueh meuseujid meu halak ban saboh nang-groe
   jawi: ''
@@ -17,10 +20,16 @@ related_words:
 - h'ang
 dialect_notes: ''
 source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
-  Pendidikan dan Kebudayaan, 1985, hlm. 276'
+  Pendidikan dan Kebudayaan, 1985, hlm. 276; K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage:
+  Martinus Nijhoff, voor het Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië,
+  1889, hlm. 279'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
 extraction_notes: 'Jawi left blank: the source is Latin-script only and no Jawi form is printed for this
   entry. | Source gives this only as a cross-reference (→ h''ang); no independent definition is printed,
   so meaning fields are left blank rather than guessed. Jawi left blank: the source is Latin-script only
-  and no Jawi form is printed for this entry. Part of speech not stated in the source; left blank.'
+  and no Jawi form is printed for this entry. Part of speech not stated in the source; left blank. | Jawi
+  copied verbatim from the printed source (van Langen prints the Jawi form for each headword); not AI-generated.
+  Indonesian and English were produced by machine translation of van Langen''s Dutch (Dutch→English→Indonesian,
+  OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl` for verification; the rendering is not from
+  the source and needs a human check. Part of speech not stated in the source; left blank.'

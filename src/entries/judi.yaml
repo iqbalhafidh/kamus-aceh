@@ -1,11 +1,15 @@
 headword: judi
-jawi: ''
-alt_spelling: []
+jawi: جودی
+alt_spelling:
+- djoedi
 ipa: ''
 part_of_speech: n
 definitions:
 - meaning_id: judi, setiap permainan yang meyebabkan orang bertaruh
   meaning_en: gambling, any game that leads people to wager
+- meaning_id: disebut semua permainan, taruhan, seorang pemain profesi
+  meaning_en: are called all games, bet, a player of profession
+  meaning_nl: worden alle spelen genoemd, waarbij ingezet wordt, een speler van beroep
 examples:
 - aceh: meu judi
   jawi: ''
@@ -19,12 +23,32 @@ examples:
   jawi: ''
   id: '! Wahai anak, janganlah engkau berjudi!'
   en: O my son, do not gamble!
+- aceh: bangsat biek mejudi
+  aceh_1889: bangsat biék médjoedi
+  jawi: ''
+  id: yang berbuat sewenang-wenang dalam negeri
+  en: a sinner of the family of the players
+  nl: een nietsdoener van het geslacht der spelers
+- aceh: hai anek bek tamejudi
+  aceh_1889: hai anék bek tamédjoedi
+  jawi: ''
+  id: menunggu Anda untuk bermain, anak saya
+  en: wait for you to play, my child
+  nl: wacht u voor het spelen, mijn kind
 etymology: ''
 related_words: []
 dialect_notes: ''
 source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
-  Pendidikan dan Kebudayaan, 1985, hlm. 351'
+  Pendidikan dan Kebudayaan, 1985, hlm. 351; K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage:
+  Martinus Nijhoff, voor het Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië,
+  1889, hlm. 86'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
 extraction_notes: 'Jawi left blank: the source is Latin-script only and no Jawi form is printed for this
-  entry.'
+  entry. | Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each headword);
+  not AI-generated. `modern_spelling` “judi” is an AI-supplied transposition of the 1889 orthography (oe->u,
+  dj->j, tj->c, nj->ny, ë->eu); it is NOT from the source and needs checking before it is used to match
+  the 1985 dictionary. Indonesian and English were produced by machine translation of van Langen''s Dutch
+  (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl` for verification;
+  the rendering is not from the source and needs a human check. Part of speech not stated in the source;
+  left blank.'

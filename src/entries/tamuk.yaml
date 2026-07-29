@@ -1,18 +1,32 @@
-headword: tamuk
-jawi: ''
+headword: tamoek
+jawi: تاموق
 alt_spelling: []
 ipa: ''
 part_of_speech: ''
 definitions:
-- meaning_id: melangkah kedalam air
-  meaning_en: wade
-examples: []
+- meaning_id: enter, step
+  meaning_en: enter, step
+  meaning_nl: ingaan, treden, stappen,
+examples:
+- aceh: jitamuk le sungai raja
+  aceh_1889: djitamoek lé soengai raja
+  jawi: ''
+  id: ia melangkah di atasnya ke sungai besar
+  en: he stepped on it into the great river
+  nl: hij stapte daarop in de groote rivier
 etymology: ''
-related_words:
-- blöh
+related_words: []
 dialect_notes: ''
-source: 'Daud, Bukhari & Mark Durie. Kamus Basa Acèh = Kamus Bahasa Aceh: Acehnese–Indonesian–English Thesaurus.
-  Pacific Linguistics C-151, 1999, p. 38.'
-date_added: '2026-07-20'
+source: 'K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage: Martinus Nijhoff, voor het
+  Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië, 1889, hlm. 55'
+date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: ''
+language_uncertain: false
+modern_spelling: tamuk
+extraction_notes: Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each
+  headword); not AI-generated. `modern_spelling` “tamuk” is an AI-supplied transposition of the 1889 orthography
+  (oe->u, dj->j, tj->c, nj->ny, ë->eu); it is NOT from the source and needs checking before it is used
+  to match the 1985 dictionary. Indonesian and English were produced by machine translation of van Langen's
+  Dutch (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl` for verification;
+  the rendering is not from the source and needs a human check. Part of speech not stated in the source;
+  left blank.

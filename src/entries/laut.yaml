@@ -1,0 +1,32 @@
+headword: laoet
+jawi: لاوة
+alt_spelling: []
+ipa: ''
+part_of_speech: ''
+definitions:
+- meaning_id: 'laut, oleh Atjehers serta oleh Malaysia bernama setelah tempat-tempat di sekitarnya: laoet
+    Salan, laoet Sikatra'
+  meaning_en: 'sea, by the Atjehers as well as by the Malaysians named after the surrounding places: laoet
+    Salan, laoet Mélaka, laoet Sikatra'
+  meaning_nl: 'zee, door de Atjehers evenals door de Maleiers naar de omliggende plaatsen genoemd: laoet
+    Selan, laoet Mélaka, laoet Sikatra'
+- meaning_id: rëdj melaoet, laut jalan
+  meaning_en: rëdj melaoet, sea road
+  meaning_nl: rëdj melaoet, zeeweg
+examples: []
+etymology: ''
+related_words: []
+dialect_notes: ''
+source: 'K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage: Martinus Nijhoff, voor het
+  Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië, 1889, hlm. 236'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+language_uncertain: false
+modern_spelling: laut
+extraction_notes: Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each
+  headword); not AI-generated. `modern_spelling` “laut” is an AI-supplied transposition of the 1889 orthography
+  (oe->u, dj->j, tj->c, nj->ny, ë->eu); it is NOT from the source and needs checking before it is used
+  to match the 1985 dictionary. Indonesian and English were produced by machine translation of van Langen's
+  Dutch (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl` for verification;
+  the rendering is not from the source and needs a human check. Part of speech not stated in the source;
+  left blank.

@@ -1,11 +1,20 @@
 headword: ho
-jawi: ''
+jawi: هو
 alt_spelling: []
 ipa: ''
 part_of_speech: adv
 definitions:
 - meaning_id: arah, daerah, pihak, arah ke mana, ke mana
   meaning_en: direction, region, district, side, party, direction to which, to which
+- meaning_id: dimana
+  meaning_en: where
+  meaning_nl: waar, waarheen, werwaarts
+- meaning_id: renda, sutra
+  meaning_en: lace, silk
+  meaning_nl: kant, zijde
+- meaning_id: saboo saho, masing-masing di satu sisi
+  meaning_en: saboh saho, each on one side
+  meaning_nl: saboh saho, ieder aan eene zijde
 examples:
 - aceh: nyoe ho, nyan ho, jéh ho
   jawi: ''
@@ -63,13 +72,29 @@ examples:
   jawi: ''
   id: Di mana barang saya yg saya
   en: Where is my property that I
+- aceh: ho tajak
+  aceh_1889: ho tadjak
+  jawi: ''
+  id: kau mau ke mana? ho tabu, kemana kau membawanya?
+  en: where are you going? ho taba, where are you taking it?
+  nl: waarheen gaat ge? ho taba, waar brengt ge het heen?
 etymology: ''
 related_words: []
 dialect_notes: 'Marked (dl hik) in the source: attested in hikayat, the classical Acehnese narrative verse
   register.'
 source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
-  Pendidikan dan Kebudayaan, 1985, hlm. 293'
+  Pendidikan dan Kebudayaan, 1985, hlm. 293; K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage:
+  Martinus Nijhoff, voor het Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië,
+  1889, hlm. 282'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
 extraction_notes: 'Jawi left blank: the source is Latin-script only and no Jawi form is printed for this
-  entry.'
+  entry. | Homonym I in the source (printed as a numeral before the headword). Jawi copied verbatim from
+  the printed source (van Langen prints the Jawi form for each headword); not AI-generated. Indonesian
+  and English were produced by machine translation of van Langen''s Dutch (Dutch→English→Indonesian, OPUS-MT).
+  The Dutch original is kept in `meaning_nl`/`nl` for verification; the rendering is not from the source
+  and needs a human check. Part of speech not stated in the source; left blank. | Homonym II in the source
+  (printed as a numeral before the headword). Jawi left blank: no Jawi form is printed for this entry.
+  Indonesian and English were produced by machine translation of van Langen''s Dutch (Dutch→English→Indonesian,
+  OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl` for verification; the rendering is not from
+  the source and needs a human check. Part of speech not stated in the source; left blank.'

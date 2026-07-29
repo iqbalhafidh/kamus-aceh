@@ -1,0 +1,52 @@
+headword: boengkal
+jawi: بوغكل
+alt_spelling: []
+ipa: ''
+part_of_speech: ''
+definitions:
+- meaning_id: berat, untuk menimbang emas, perak dan kawat emas
+  meaning_en: weight, to weigh gold, silver and gold wire
+  meaning_nl: gewicht, om goud, zilver en gouddraad te wegen
+examples:
+- aceh: bungkal jang sabi neraca jang adil
+  aceh_1889: boengkal jang sabi nēratja jang adil
+  jawi: ''
+  id: (Atj)
+  en: (Atj)
+  nl: (Atj
+- aceh: rijksdaalders
+  aceh_1889: rijksdaalders
+  jawi: ''
+  id: pada 2 lainnya tiang tikar berat. boengkal juga digunakan sebagai representasi dari koin dalam perdagangan
+    dan dalam permainan dan kemudian mewakili tiang tikar ini disebut boengkal ringgit, yang juga digunakan
+    ketika memaksakan denda dalam hadiah pernikahan (djinamé) satu berbicara tentang boengkal mas tiang
+    tikar
+  en: on other 2 pillar mats heavy. The boengkal is also used as a representation of coin in the trade
+    and in the game and then represents pillar mats This is the so-called boengkal ringgit, which is also
+    used when imposing fines In wedding gifts (djinamé) one speaks of the boengkal mas of pillar mats
+  nl: op andere 2 pilaarmatten zwaar. De boengkal wordt in den handel en bij het spel ook als voorstelling
+    van munt gebezigd en stelt dan 20 pilaarmatten voor. Dit is de zoogenaamde boengkal ringgit, die ook
+    bij het opleggen van boeten wordt gebezigd. Bij huwelijksgiften (djinamé) spreekt men van de boengkal
+    mas van 25 pilaarmatten
+- aceh: salah si bungkal
+  aceh_1889: salah si boengkal
+  jawi: ''
+  id: denda dari satu boengkal atau tikar pilar
+  en: a fine of one boengkal or pillar mats
+  nl: eene boete van één boengkal of 20 pilaarmatten
+etymology: ''
+related_words: []
+dialect_notes: ''
+source: 'K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage: Martinus Nijhoff, voor het
+  Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië, 1889, hlm. 43'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+language_uncertain: false
+modern_spelling: bungkal
+extraction_notes: Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each
+  headword); not AI-generated. `modern_spelling` “bungkal” is an AI-supplied transposition of the 1889
+  orthography (oe->u, dj->j, tj->c, nj->ny, ë->eu); it is NOT from the source and needs checking before
+  it is used to match the 1985 dictionary. Indonesian and English were produced by machine translation
+  of van Langen's Dutch (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl`
+  for verification; the rendering is not from the source and needs a human check. Part of speech not stated
+  in the source; left blank.

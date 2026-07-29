@@ -1,0 +1,30 @@
+headword: amin
+jawi: امين
+alt_spelling: []
+ipa: ''
+part_of_speech: ''
+definitions:
+- meaning_id: amin ěntat, membawa, menawarkan, dalam arti memberikan untuk hadiah
+  meaning_en: amen. ěntat, bringing, offering, in the meaning of giving for a gift
+  meaning_nl: amen. انتت ěntat, brengen, aanbieden, in de beteekenis van ten geschenke geven
+examples:
+- aceh: jak ntat nyoi bak rumh krani
+  aceh_1889: djak ěntat njoi bak roemāh krani
+  jawi: ''
+  id: bawa ini ke rumah Krani
+  en: take this to the house of the krani
+  nl: ga dit naar de woning van den krani brengen
+etymology: ''
+related_words: []
+dialect_notes: ''
+source: 'K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage: Martinus Nijhoff, voor het
+  Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië, 1889, hlm. 11'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+language_uncertain: false
+modern_spelling: amin
+extraction_notes: Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each
+  headword); not AI-generated. Indonesian and English were produced by machine translation of van Langen's
+  Dutch (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl` for verification;
+  the rendering is not from the source and needs a human check. Part of speech not stated in the source;
+  left blank.

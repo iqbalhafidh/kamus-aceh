@@ -1,0 +1,33 @@
+headword: kawit
+jawi: كاويت
+alt_spelling: []
+ipa: ''
+part_of_speech: ''
+definitions:
+- meaning_id: sekin kawit atau sadip, pisau cukur dengan duri, biasanya melekat pada tongkat untuk menghapus
+    daun dari pohon
+  meaning_en: sekin kawit or sadip kawit, a razor with a barb, usually attached to a stick to remove leaves
+    from trees
+  meaning_nl: sêkin kawit of sadip kawit, een mesje met een weêrhaak, gewoonlijk aan een stok bevestigd
+    om bladeren van boomen af te halen
+- meaning_id: kawit badjée, perhiasan emas dalam bentuk bulan sabit, dikenakan oleh wanita Aceh untuk
+    leher
+  meaning_en: kawit badjée, a golden ornament in the shape of a crescent moon, worn by the women of Aceh
+    for the neck
+  meaning_nl: kawit badjée, een gouden versiersel in den vorm van een halve maan, door de Atjehsche vrouwen
+    voor aan den hals gedragen
+examples: []
+etymology: ''
+related_words: []
+dialect_notes: ''
+source: 'K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage: Martinus Nijhoff, voor het
+  Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië, 1889, hlm. 201'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+language_uncertain: false
+modern_spelling: kawit
+extraction_notes: Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each
+  headword); not AI-generated. Indonesian and English were produced by machine translation of van Langen's
+  Dutch (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl` for verification;
+  the rendering is not from the source and needs a human check. Part of speech not stated in the source;
+  left blank.

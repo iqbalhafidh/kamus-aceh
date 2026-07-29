@@ -1,5 +1,5 @@
 headword: kiblat
-jawi: ''
+jawi: قبلة
 alt_spelling: []
 ipa: ''
 part_of_speech: n
@@ -12,6 +12,12 @@ definitions:
   meaning_en: wind eye
 - meaning_id: sebagai kiasan arah untuk menetapkan pikiran atau sesuatu yang harus dipatuhi
   meaning_en: ''
+- meaning_id: daerah, di mana seseorang fokus pada ritual godsdiensttoefening
+  meaning_en: the region, where one focuses at the ritual godsdiensttoefening
+  meaning_nl: de streek, waarheen men zich bij de ritueele godsdiensttoefening richt
+- meaning_id: pët kiblat atau pihak, empat daerah angkasa
+  meaning_en: pët kiblat or pihak, the four celestial regions
+  meaning_nl: pët kiblat of pihak, de vier hemelstreken
 examples:
 - aceh: nyang narit droeneu ateu-eh buet nyan, hana maklum ulôn-tuan, malingkan keu déh kiblat droeneu
     bak si Pulan
@@ -32,8 +38,14 @@ etymology: ''
 related_words: []
 dialect_notes: ''
 source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
-  Pendidikan dan Kebudayaan, 1985, hlm. 429'
+  Pendidikan dan Kebudayaan, 1985, hlm. 429; K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage:
+  Martinus Nijhoff, voor het Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië,
+  1889, hlm. 197'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
 extraction_notes: 'Jawi left blank: the source is Latin-script only and no Jawi form is printed for this
-  entry.'
+  entry. | Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each headword);
+  not AI-generated. Indonesian and English were produced by machine translation of van Langen''s Dutch
+  (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl` for verification;
+  the rendering is not from the source and needs a human check. Part of speech not stated in the source;
+  left blank.'

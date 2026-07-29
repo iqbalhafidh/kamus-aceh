@@ -1,0 +1,29 @@
+headword: bantal
+jawi: بنتل
+alt_spelling: []
+ipa: ''
+part_of_speech: ''
+definitions:
+- meaning_id: ciuman
+  meaning_en: kisses
+  meaning_nl: kussen
+- meaning_id: bantal soesoen, akumulasi bantal di Atj rumah, dasar yang adalah bantal rajék, bantal besar
+  meaning_en: bantal soesoen, an accumulation of cushions in the Atj houses, the base of which is the
+    bantal rajék, the large cushion
+  meaning_nl: bantal soesoen, een opeenstapeling van kussens in de Atj. huizen, waarvan de basis de bantal
+    rajék, het groote kussen vormt
+examples: []
+etymology: ''
+related_words: []
+dialect_notes: ''
+source: 'K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage: Martinus Nijhoff, voor het
+  Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië, 1889, hlm. 39'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+language_uncertain: false
+modern_spelling: bantal
+extraction_notes: Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each
+  headword); not AI-generated. Indonesian and English were produced by machine translation of van Langen's
+  Dutch (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl` for verification;
+  the rendering is not from the source and needs a human check. Part of speech not stated in the source;
+  left blank.

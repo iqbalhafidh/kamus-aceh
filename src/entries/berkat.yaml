@@ -1,0 +1,28 @@
+headword: berkat
+jawi: بركت
+alt_spelling: []
+ipa: ''
+part_of_speech: ''
+definitions:
+- meaning_id: ''
+  meaning_en: 'blessings, blessings Speaking of words: Bismillah arrahman arrahim, considers the Atj as
+    a salutation He expresses this as follows: berkat tehat soi jang kata, many blessings for him who
+    pronounces it'
+  meaning_nl: 'zegen, heilzegening. Het uitspreken der woorden: Bismillah arrahman arrahim, beschouwt
+    de Atj. als heilaanbrengend. Hij drukt dit als volgt uit: berkat tehat soi jang kata, vele zegeningen
+    voor hem, die het uitspreekt'
+examples: []
+etymology: ''
+related_words: []
+dialect_notes: ''
+source: 'K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage: Martinus Nijhoff, voor het
+  Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië, 1889, hlm. 32'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+language_uncertain: false
+modern_spelling: berkat
+extraction_notes: Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each
+  headword); not AI-generated. Indonesian and English were produced by machine translation of van Langen's
+  Dutch (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl` for verification;
+  the rendering is not from the source and needs a human check. Part of speech not stated in the source;
+  left blank.

@@ -1,11 +1,23 @@
 headword: pala
-jawi: ''
+jawi: قالا
 alt_spelling: []
 ipa: ''
 part_of_speech: n
 definitions:
 - meaning_id: pala
   meaning_en: nutmeg
+- meaning_id: kacang muscat
+  meaning_en: muscat nut
+  meaning_nl: muskaatnoot
+- meaning_id: boh pala, buah muscat
+  meaning_en: boh pala, muscat fruit
+  meaning_nl: boh pala, muskaatvrucht
+- meaning_id: bak pala pohon muscat
+  meaning_en: bak pala muscat tree
+  meaning_nl: bak pala muskaatboom
+- meaning_id: boengong pala, gace
+  meaning_en: boengong pala, mace
+  meaning_nl: boengong pala, foelie
 examples:
 - aceh: boh pala
   jawi: ''
@@ -28,8 +40,14 @@ related_words:
 - pahla
 dialect_notes: ''
 source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
-  Pendidikan dan Kebudayaan, 1985, hlm. 662'
+  Pendidikan dan Kebudayaan, 1985, hlm. 662; K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage:
+  Martinus Nijhoff, voor het Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië,
+  1889, hlm. 177, 185'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
 extraction_notes: 'Jawi left blank: the source is Latin-script only and no Jawi form is printed for this
-  entry.'
+  entry. | Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each headword);
+  not AI-generated. Indonesian and English were produced by machine translation of van Langen''s Dutch
+  (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl` for verification;
+  the rendering is not from the source and needs a human check. Part of speech not stated in the source;
+  left blank.'

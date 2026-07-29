@@ -1,23 +1,49 @@
 headword: mali
-jawi: ''
+jawi: مالی
 alt_spelling: []
 ipa: ''
 part_of_speech: a
 definitions:
 - meaning_id: seri, serupa, sama
   meaning_en: radiance, resembling, same
+- meaning_id: bahkan, seperti, terbayar, (Yang tidak berhenti) buahnya. karena musim-musiman (dan tidak
+    terlarang mengambilnya) artinya, ia boleh diambil tanpa harus membayarnya
+  meaning_en: even, like, paid off, of a debt or of the recompense
+  meaning_nl: even, gelijk, afgedaan, van eene schuld of van de wedervergelding
 examples:
 - aceh: buet nyoe ka mali
   jawi: ''
   id: keu deh ka tapoh, keu neo ka tapoh, Perkara ini sudah sama. Bukankah Anda telah memukulnya dan ia
     pun telah memukul Anda?
   en: ''
+- aceh: bueet nyoi kon kamali
+  aceh_1889: boëet njoi kon kamali
+  jawi: ''
+  id: kēdēh ka taloh kēnoi katapooh, setelah semua, pekerjaan ini sekarang seperti, ada dipukul, di sini
+    ada telah dipukuli
+  en: kēdēh ka tapoh kēnoi katapoh, after all, this work is now like, there has been struck, here there
+    has been beaten
+  nl: kēdēh ka tapoh kēnoi katapoh, dit werk is nu immers gelijk, ginds is er geslagen, hier is er geslagen
+- aceh: bueeut nyoi kon kamali
+  aceh_1889: boëët njoi kon kamali
+  jawi: ''
+  id: këdëh ka taloh kënoi katapooh, setelah semua, pekerjaan ini sekarang seperti, ada dipukul, di sini
+    ada telah dipukuli
+  en: këdëh ka tapoh kënoi katapoh, after all, this work is now like, there has been struck, here there
+    has been beaten
+  nl: këdëh ka tapoh kënoi katapoh, dit werk is nu immers gelijk, ginds is er geslagen, hier is er geslagen
 etymology: ''
 related_words: []
 dialect_notes: ''
 source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
-  Pendidikan dan Kebudayaan, 1985, hlm. 570'
+  Pendidikan dan Kebudayaan, 1985, hlm. 570; K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage:
+  Martinus Nijhoff, voor het Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië,
+  1889, hlm. 253'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
 extraction_notes: 'Jawi left blank: the source is Latin-script only and no Jawi form is printed for this
-  entry.'
+  entry. | Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each headword);
+  not AI-generated. Indonesian and English were produced by machine translation of van Langen''s Dutch
+  (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl` for verification;
+  the rendering is not from the source and needs a human check. Part of speech not stated in the source;
+  left blank.'

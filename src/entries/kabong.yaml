@@ -1,6 +1,7 @@
 headword: kabông
-jawi: ''
-alt_spelling: []
+jawi: كابوع
+alt_spelling:
+- kabong
 ipa: ''
 part_of_speech: n
 definitions:
@@ -8,6 +9,9 @@ definitions:
   meaning_en: mourning, a length measure of four cubits for woven cloth
 - meaning_id: meukabông berkabung (dalam hikayat)
   meaning_en: to be in mourning (in hikayat)
+- meaning_id: panjang untuk pengukuran woven fabrics sesuai dengan panjang siku 4
+  meaning_en: a length for measuring woven fabrics corresponding to 4 elbow lengths
+  meaning_nl: een lengtemaat voor het meten van geweven stoffen, overeenkomende met 4 elleboogslengten
 examples:
 - aceh: ban saboh nanggroe habeh meu kabông
   jawi: ''
@@ -18,10 +22,16 @@ related_words: []
 dialect_notes: 'Marked (dl hik) in the source: attested in hikayat, the classical Acehnese narrative verse
   register.'
 source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
-  Pendidikan dan Kebudayaan, 1985, hlm. 361'
+  Pendidikan dan Kebudayaan, 1985, hlm. 361; K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage:
+  Martinus Nijhoff, voor het Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië,
+  1889, hlm. 198'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
 extraction_notes: 'Homonym 1 in the source (printed as a superscript numeral before the headword). Jawi
   left blank: the source is Latin-script only and no Jawi form is printed for this entry. | Homonym 2
   in the source (printed as a superscript numeral before the headword). Jawi left blank: the source is
-  Latin-script only and no Jawi form is printed for this entry.'
+  Latin-script only and no Jawi form is printed for this entry. | Jawi copied verbatim from the printed
+  source (van Langen prints the Jawi form for each headword); not AI-generated. Indonesian and English
+  were produced by machine translation of van Langen''s Dutch (Dutch→English→Indonesian, OPUS-MT). The
+  Dutch original is kept in `meaning_nl`/`nl` for verification; the rendering is not from the source and
+  needs a human check. Part of speech not stated in the source; left blank.'

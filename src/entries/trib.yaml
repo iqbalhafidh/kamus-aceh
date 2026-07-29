@@ -1,0 +1,36 @@
+headword: trib
+jawi: ترب
+alt_spelling: []
+ipa: ''
+part_of_speech: ''
+definitions:
+- meaning_id: panjang atau durasi waktu, lama bertentangan dengan baru
+  meaning_en: length or duration of time, old in contrast to new
+  meaning_nl: lengte of duur van tijd, oud in tegenoverstelling van nieuw
+- meaning_id: sitēhoen trib, satu tahun
+  meaning_en: sitēhoen trib, one year
+  meaning_nl: sitēhoen trib, één jaar lang
+- meaning_id: koeta trib, penguatan tua
+  meaning_en: koeta trib, old reinforcement
+  meaning_nl: koeta trib, oude versterking
+- meaning_id: pēkaian trib, pakaian lama
+  meaning_en: pēkaian trib, old clothes
+  meaning_nl: pēkaian trib, oude kleeren
+- meaning_id: sitrib- trib, selalu, sepanjang waktu itu, selama
+  meaning_en: sitrib-trib, always, all the time that, as long as
+  meaning_nl: sitrib-trib, altijd, al den tijd dat, zoo lang als
+examples: []
+etymology: ''
+related_words: []
+dialect_notes: ''
+source: 'K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage: Martinus Nijhoff, voor het
+  Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië, 1889, hlm. 59'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+language_uncertain: false
+modern_spelling: trib
+extraction_notes: Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each
+  headword); not AI-generated. Indonesian and English were produced by machine translation of van Langen's
+  Dutch (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl` for verification;
+  the rendering is not from the source and needs a human check. Part of speech not stated in the source;
+  left blank.

@@ -1,0 +1,30 @@
+headword: karas
+jawi: كارس
+alt_spelling: []
+ipa: ''
+part_of_speech: n
+definitions:
+- meaning_id: sejenis kue tepung
+  meaning_en: a kind of flour cake
+  meaning_nl: een soort van meelgebak
+- meaning_id: sejenis perak atau kotak sirihbox emas bentuk elips
+  meaning_en: a kind of silver or gold sirihbox of elliptical shape
+  meaning_nl: een soort van zilveren of gouden sirihdoos van ellipsvormige gedaante
+examples: []
+etymology: ''
+related_words: []
+dialect_notes: ''
+source: 'K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage: Martinus Nijhoff, voor het
+  Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië, 1889, hlm. 199'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+language_uncertain: false
+modern_spelling: karas
+extraction_notes: 'Homonym I in the source (printed as a numeral before the headword). Jawi copied verbatim
+  from the printed source (van Langen prints the Jawi form for each headword); not AI-generated. Indonesian
+  and English were produced by machine translation of van Langen''s Dutch (Dutch→English→Indonesian, OPUS-MT).
+  The Dutch original is kept in `meaning_nl`/`nl` for verification; the rendering is not from the source
+  and needs a human check. | Homonym II in the source (printed as a numeral before the headword). Jawi
+  left blank: no Jawi form is printed for this entry. Indonesian and English were produced by machine
+  translation of van Langen''s Dutch (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in
+  `meaning_nl`/`nl` for verification; the rendering is not from the source and needs a human check.'

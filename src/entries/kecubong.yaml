@@ -1,0 +1,44 @@
+headword: kétjoebong
+jawi: کچوبوغ
+alt_spelling: []
+ipa: ''
+part_of_speech: n
+definitions:
+- meaning_id: duri apel
+  meaning_en: the thorn apple
+  meaning_nl: de doornappel
+- meaning_id: namanya Atj alat yang digunakan oleh tukang kayu untuk merencanakan (cut) flat wood
+  meaning_en: name of an Atj. tool used by carpenters to plan (cut) flat wood
+  meaning_nl: naam van een Atj. werktuig bij de timmerlieden in gebruik om hout vlak te schaven (hakken)
+- meaning_id: sejenis kurcaci
+  meaning_en: a kind of dwarf
+  meaning_nl: een soort van dwerghert
+examples: []
+etymology: ''
+related_words: []
+dialect_notes: ''
+source: 'K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage: Martinus Nijhoff, voor het
+  Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië, 1889, hlm. 203'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+language_uncertain: false
+modern_spelling: kecubong
+extraction_notes: 'Homonym I in the source (printed as a numeral before the headword). Jawi copied verbatim
+  from the printed source (van Langen prints the Jawi form for each headword); not AI-generated. `modern_spelling`
+  “kecubong” is an AI-supplied transposition of the 1889 orthography (oe->u, dj->j, tj->c, nj->ny, ë->eu);
+  it is NOT from the source and needs checking before it is used to match the 1985 dictionary. Indonesian
+  and English were produced by machine translation of van Langen''s Dutch (Dutch→English→Indonesian, OPUS-MT).
+  The Dutch original is kept in `meaning_nl`/`nl` for verification; the rendering is not from the source
+  and needs a human check. Part of speech not stated in the source; left blank. | Homonym II in the source
+  (printed as a numeral before the headword). Jawi left blank: no Jawi form is printed for this entry.
+  `modern_spelling` “kecubong” is an AI-supplied transposition of the 1889 orthography (oe->u, dj->j,
+  tj->c, nj->ny, ë->eu); it is NOT from the source and needs checking before it is used to match the 1985
+  dictionary. Indonesian and English were produced by machine translation of van Langen''s Dutch (Dutch→English→Indonesian,
+  OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl` for verification; the rendering is not from
+  the source and needs a human check. | Homonym III in the source (printed as a numeral before the headword).
+  Jawi left blank: no Jawi form is printed for this entry. `modern_spelling` “kecubong” is an AI-supplied
+  transposition of the 1889 orthography (oe->u, dj->j, tj->c, nj->ny, ë->eu); it is NOT from the source
+  and needs checking before it is used to match the 1985 dictionary. Indonesian and English were produced
+  by machine translation of van Langen''s Dutch (Dutch→English→Indonesian, OPUS-MT). The Dutch original
+  is kept in `meaning_nl`/`nl` for verification; the rendering is not from the source and needs a human
+  check.'

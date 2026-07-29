@@ -1,5 +1,5 @@
 headword: lawi
-jawi: ''
+jawi: لاوى
 alt_spelling: []
 ipa: ''
 part_of_speech: n
@@ -8,6 +8,12 @@ definitions:
   meaning_en: old very, old
 - meaning_id: bahagian pada jalan
   meaning_en: a stretch of road
+- meaning_id: long durasi, with a view to the past
+  meaning_en: long duration, with a view to the past
+  meaning_nl: lang van duur, met het oog op het verledene
+- meaning_id: bagian dari jaring di atas memimpin, melayani untuk tenggelam itu
+  meaning_en: the part of a net above the lead, serving to sink it
+  meaning_nl: het gedeelte van een net boven het lood, dienende, om het te doen zinken
 examples:
 - aceh: that buet nyoe
   jawi: ''
@@ -23,11 +29,21 @@ related_words:
 - jeue
 dialect_notes: ''
 source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
-  Pendidikan dan Kebudayaan, 1985, hlm. 509'
+  Pendidikan dan Kebudayaan, 1985, hlm. 509; K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage:
+  Martinus Nijhoff, voor het Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië,
+  1889, hlm. 236'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
 extraction_notes: 'Homonym 1 in the source (printed as a superscript numeral before the headword). Jawi
   left blank: the source is Latin-script only and no Jawi form is printed for this entry. Part of speech
   not stated in the source; left blank. | Homonym 2 in the source (printed as a superscript numeral before
   the headword). Jawi left blank: the source is Latin-script only and no Jawi form is printed for this
-  entry.'
+  entry. | Homonym I in the source (printed as a numeral before the headword). Jawi copied verbatim from
+  the printed source (van Langen prints the Jawi form for each headword); not AI-generated. Indonesian
+  and English were produced by machine translation of van Langen''s Dutch (Dutch→English→Indonesian, OPUS-MT).
+  The Dutch original is kept in `meaning_nl`/`nl` for verification; the rendering is not from the source
+  and needs a human check. Part of speech not stated in the source; left blank. | Homonym II in the source
+  (printed as a numeral before the headword). Jawi left blank: no Jawi form is printed for this entry.
+  Indonesian and English were produced by machine translation of van Langen''s Dutch (Dutch→English→Indonesian,
+  OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl` for verification; the rendering is not from
+  the source and needs a human check. Part of speech not stated in the source; left blank.'

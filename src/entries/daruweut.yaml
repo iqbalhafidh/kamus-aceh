@@ -1,0 +1,41 @@
+headword: daroewët
+jawi: دارؤ
+alt_spelling: []
+ipa: ''
+part_of_speech: ''
+definitions:
+- meaning_id: belalang, nama umum
+  meaning_en: grasshopper, common name
+  meaning_nl: sprinkhaan, algemeene naam
+- meaning_id: 'spesies belalang: daroewët ek asée, belalang dari warna kotoran anjing'
+  meaning_en: 'species of locusts: daroewët ek asée, grasshopper of the color of dog dung'
+  meaning_nl: 'soorten van sprinkhanen: daroewët ek asée, sprinkhaan van de kleur van hondendrek'
+- meaning_id: daroewët rimong, daroewët barom, daroewët inong, daroewët agam, daroewët sekeh Atjehers
+    makan belalang panggang sebagai makanan lezat, mengatakan mereka merasa seperti udang dan karena itu
+    mereka disebut oedëng darat, udang tanah
+  meaning_en: daroewët rimong, daroewët barom, daroewët inong, daroewët agam, daroewët sekeh The Atjehers
+    eat the locusts baked as delicacies, say they taste like shrimp and therefore call them oedëng darat,
+    land shrimps
+  meaning_nl: daroewët rimong, daroewët barom, daroewët inong, daroewët agam, daroewët sekeh. De Atjehers
+    eten de sprinkhanen gebakken als lekkernij, zeggen dat zij als garnalen smaken en noemen ze daarom
+    oedëng darat, landgarnalen
+- meaning_id: daroewët blade, jangkrik hitam, menurut menurut warna kulit Klingen
+  meaning_en: daroewët blade, the black cricket, supposedly according to the skin colour of the Klingen
+  meaning_nl: daroewët kling, de zwarte krekel, zoogenaamd naar de huidskleur der Klingen
+examples: []
+etymology: ''
+related_words: []
+dialect_notes: ''
+source: 'K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage: Martinus Nijhoff, voor het
+  Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië, 1889, hlm. 107'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+language_uncertain: false
+modern_spelling: daruweut
+extraction_notes: Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each
+  headword); not AI-generated. `modern_spelling` “daruweut” is an AI-supplied transposition of the 1889
+  orthography (oe->u, dj->j, tj->c, nj->ny, ë->eu); it is NOT from the source and needs checking before
+  it is used to match the 1985 dictionary. Indonesian and English were produced by machine translation
+  of van Langen's Dutch (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl`
+  for verification; the rendering is not from the source and needs a human check. Part of speech not stated
+  in the source; left blank.

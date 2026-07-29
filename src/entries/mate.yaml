@@ -1,0 +1,38 @@
+headword: maté
+jawi: مَاتن
+alt_spelling: []
+ipa: ''
+part_of_speech: ''
+definitions:
+- meaning_id: mati, terkutuk
+  meaning_en: dead, doomed
+  meaning_nl: dood, overleden, gestorven, verdord
+- meaning_id: joem maté, harga terdekat, yang tidak lagi terpenuhi
+  meaning_en: joem maté, nearest price, which is no longer met
+  meaning_nl: joem maté, naaste prijs, waarop niet meer af te dingen valt
+- meaning_id: ijer maté, waktu antara pasang terkecil dan ebb terkecil
+  meaning_en: ijer maté, time between the smallest tide and the smallest ebb
+  meaning_nl: ijer maté, tijdperk tusschen kleinsten vloed en kleinste eb
+- meaning_id: maté angina, angin, yang telah turun lusuh?
+  meaning_en: maté angina, the wind, that has gone down [?]
+  meaning_nl: maté angin, de wind, die is gaan liggen [?]
+- meaning_id: kajée maté, kayu layu
+  meaning_en: kajée maté, withered wood
+  meaning_nl: kajée maté, verdord hout
+examples: []
+etymology: ''
+related_words: []
+dialect_notes: ''
+source: 'K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage: Martinus Nijhoff, voor het
+  Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië, 1889, hlm. 251'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+language_uncertain: false
+modern_spelling: mate
+extraction_notes: Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each
+  headword); not AI-generated. `modern_spelling` “mate” is an AI-supplied transposition of the 1889 orthography
+  (oe->u, dj->j, tj->c, nj->ny, ë->eu); it is NOT from the source and needs checking before it is used
+  to match the 1985 dictionary. Indonesian and English were produced by machine translation of van Langen's
+  Dutch (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl` for verification;
+  the rendering is not from the source and needs a human check. Part of speech not stated in the source;
+  left blank.

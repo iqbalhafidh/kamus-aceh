@@ -1,0 +1,51 @@
+headword: alëh
+jawi: اليء
+alt_spelling: []
+ipa: ''
+part_of_speech: ''
+definitions:
+- meaning_id: melewatkan skala
+  meaning_en: skipping a scale
+  meaning_nl: overslaan van een weegschaal
+- meaning_id: goyang koridor dan melambaikan tangan, berayun, berjabat tangan
+  meaning_en: rocking corridor and waving, swinging, shaking hands
+  meaning_nl: schommelende gang en daarbij tevens de handen zwaaien, schommelen, schudden
+- meaning_id: alëh djir, sebuah jaring yang berfluktuasi ejeksi
+  meaning_en: alëh djir, a net fluctuating ejection
+  meaning_nl: alëh djir, een net schommelende uitwerpen
+- meaning_id: i don apos; t tahu, mungkin atau tidak
+  meaning_en: i don't know, possibly or not
+  meaning_nl: ik weet niet, mogelijk of wel ... niet
+- meaning_id: alëh setelah alëh hana, mungkin ada, mungkin tidak ada di sana
+  meaning_en: alëh after alëh hana, it may be there, it may not be there
+  meaning_nl: alëh na alëh hana, mogelijk is het er, mogelijk is het er niet
+examples: []
+etymology: ''
+related_words: []
+dialect_notes: ''
+source: 'K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage: Martinus Nijhoff, voor het
+  Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië, 1889, hlm. 9'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+language_uncertain: false
+modern_spelling: aleuh
+extraction_notes: 'Homonym I in the source (printed as a numeral before the headword). Jawi copied verbatim
+  from the printed source (van Langen prints the Jawi form for each headword); not AI-generated. `modern_spelling`
+  “aleuh” is an AI-supplied transposition of the 1889 orthography (oe->u, dj->j, tj->c, nj->ny, ë->eu);
+  it is NOT from the source and needs checking before it is used to match the 1985 dictionary. Indonesian
+  and English were produced by machine translation of van Langen''s Dutch (Dutch→English→Indonesian, OPUS-MT).
+  The Dutch original is kept in `meaning_nl`/`nl` for verification; the rendering is not from the source
+  and needs a human check. Part of speech not stated in the source; left blank. | Homonym II in the source
+  (printed as a numeral before the headword). Jawi left blank: no Jawi form is printed for this entry.
+  `modern_spelling` “aleuh” is an AI-supplied transposition of the 1889 orthography (oe->u, dj->j, tj->c,
+  nj->ny, ë->eu); it is NOT from the source and needs checking before it is used to match the 1985 dictionary.
+  Indonesian and English were produced by machine translation of van Langen''s Dutch (Dutch→English→Indonesian,
+  OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl` for verification; the rendering is not from
+  the source and needs a human check. Part of speech not stated in the source; left blank. | Homonym III
+  in the source (printed as a numeral before the headword). Jawi left blank: no Jawi form is printed for
+  this entry. `modern_spelling` “aleuh” is an AI-supplied transposition of the 1889 orthography (oe->u,
+  dj->j, tj->c, nj->ny, ë->eu); it is NOT from the source and needs checking before it is used to match
+  the 1985 dictionary. Indonesian and English were produced by machine translation of van Langen''s Dutch
+  (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl` for verification;
+  the rendering is not from the source and needs a human check. Part of speech not stated in the source;
+  left blank.'

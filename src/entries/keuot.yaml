@@ -1,6 +1,7 @@
 headword: keuot
-jawi: ''
-alt_spelling: []
+jawi: كُوْتٌ
+alt_spelling:
+- këot
 ipa: ''
 part_of_speech: a
 definitions:
@@ -8,6 +9,12 @@ definitions:
     disebabkan oleh sesuatu penyakit), meromok (karena ketakutan)
   meaning_en: shrivelled, as skin drying on the limbs, like a hand or arm, caused by some illness, to
     crouch down in fear
+- meaning_id: lipat di kulit, disebabkan oleh dingin, runtuh, runtuh terhadap pelamar sinonim dengan kësiëb
+    dan kënnjoet
+  meaning_en: folds in the skin, caused by cold, collapsed, collapsed against significants. Synonym with
+    kësiëb and kënnjoet
+  meaning_nl: plooien in de huid, door koude veroorzaakt, ineengedoken, ineengezakt tegenover aanzienlijken.
+    Synoniem met kësiëb en kënnjoet
 examples:
 - aceh: bak keuot lôn, bit nyoe meunan, moga-moga tangan saya kokot, memang benar demikian, (kata-kata
     sumpah), ka keuot atau kot
@@ -31,8 +38,16 @@ etymology: ''
 related_words: []
 dialect_notes: ''
 source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
-  Pendidikan dan Kebudayaan, 1985, hlm. 409'
+  Pendidikan dan Kebudayaan, 1985, hlm. 409; K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage:
+  Martinus Nijhoff, voor het Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië,
+  1889, hlm. 214'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
 extraction_notes: 'Jawi left blank: the source is Latin-script only and no Jawi form is printed for this
-  entry.'
+  entry. | Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each headword);
+  not AI-generated. `modern_spelling` “keuot” is an AI-supplied transposition of the 1889 orthography
+  (oe->u, dj->j, tj->c, nj->ny, ë->eu); it is NOT from the source and needs checking before it is used
+  to match the 1985 dictionary. Indonesian and English were produced by machine translation of van Langen''s
+  Dutch (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl` for verification;
+  the rendering is not from the source and needs a human check. Part of speech not stated in the source;
+  left blank.'

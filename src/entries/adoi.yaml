@@ -1,0 +1,33 @@
+headword: adoi
+jawi: ادوی
+alt_spelling: []
+ipa: ''
+part_of_speech: ''
+definitions:
+- meaning_id: adik atau adik
+  meaning_en: younger brother or sister
+  meaning_nl: jongere broeder of zuster
+- meaning_id: adoi agam, adik
+  meaning_en: adoi agam, younger brother
+  meaning_nl: adoi agam, jongere broeder
+- meaning_id: adoi inong, adik
+  meaning_en: adoi inong, younger sister
+  meaning_nl: adoi inong, jongere zuster
+- meaning_id: adoi angkat, mignon
+  meaning_en: adoi angkat, mignon
+  meaning_nl: adoi angkat, mignon
+examples: []
+etymology: ''
+related_words: []
+dialect_notes: ''
+source: 'K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage: Martinus Nijhoff, voor het
+  Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië, 1889, hlm. 4'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+language_uncertain: false
+modern_spelling: adoi
+extraction_notes: Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each
+  headword); not AI-generated. Indonesian and English were produced by machine translation of van Langen's
+  Dutch (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl` for verification;
+  the rendering is not from the source and needs a human check. Part of speech not stated in the source;
+  left blank.

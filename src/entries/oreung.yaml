@@ -1,0 +1,56 @@
+headword: orëng
+jawi: اورغ
+alt_spelling: []
+ipa: ''
+part_of_speech: ''
+definitions:
+- meaning_id: orang, individu
+  meaning_en: person, individual
+  meaning_nl: mensch, persoon, individu
+- meaning_id: orëng rajëk, signifikan, orang dewasa
+  meaning_en: orëng rajëk, significant, adult person
+  meaning_nl: orëng rajëk, aanzienlijk, volwassen persoon
+- meaning_id: ''
+  meaning_en: a large (in the bet of heavy) person
+  meaning_nl: een groot (in de bet. van zwaar) persoon
+- meaning_id: orëng kaja, orang kaya
+  meaning_en: orëng kaja, rich man
+  meaning_nl: orëng kaja, rijk man, rijkard
+- meaning_id: orëng gasin, membutuhkan, miskin
+  meaning_en: orëng gasin, a needy, poor
+  meaning_nl: orëng gasin, een behoeftige, arme
+- meaning_id: orëng alim, orang cerdas
+  meaning_en: orëng alim, a learned, intelligent person
+  meaning_nl: orëng alim, een geleerd, verstandig mensch
+- meaning_id: orëng malim, seorang juru tulis
+  meaning_en: orëng malim, a scribe
+  meaning_nl: orëng malim, een schriftgeleerde
+- meaning_id: orëng fakir, miskin (setelah Allah), derwiesh
+  meaning_en: orëng fakir, a poor (after God), derwiesh
+  meaning_nl: orëng fakir, een arme (naar God), derwiesj
+- meaning_id: orëng lé, kerumunan
+  meaning_en: orëng lé, the crowd
+  meaning_nl: orëng lé, de menigte
+- meaning_id: orëng miët, sejumlah kecil orang
+  meaning_en: orëng miët, a small number of people
+  meaning_nl: orëng miët, een luttel aantal menschen
+- meaning_id: orëng tjoet, orang kecil, tidak seperti orang besar (berat)
+  meaning_en: orëng tjoet, a small person, unlike a large (heavy) person
+  meaning_nl: orëng tjoet, een klein persoon, in tegenstelling van een groot (zwaar) mensch
+examples: []
+etymology: ''
+related_words: []
+dialect_notes: ''
+source: 'K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage: Martinus Nijhoff, voor het
+  Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië, 1889, hlm. 16'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+language_uncertain: false
+modern_spelling: oreung
+extraction_notes: Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each
+  headword); not AI-generated. `modern_spelling` “oreung” is an AI-supplied transposition of the 1889
+  orthography (oe->u, dj->j, tj->c, nj->ny, ë->eu); it is NOT from the source and needs checking before
+  it is used to match the 1985 dictionary. Indonesian and English were produced by machine translation
+  of van Langen's Dutch (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl`
+  for verification; the rendering is not from the source and needs a human check. Part of speech not stated
+  in the source; left blank.

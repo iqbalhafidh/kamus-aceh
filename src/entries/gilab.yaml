@@ -1,177 +1,24 @@
 headword: gilab
-jawi: ڬلب
-alt_spelling:
-- kilab
+jawi: كِيَلَبَ
+alt_spelling: []
 ipa: ''
-part_of_speech: n
+part_of_speech: ''
 definitions:
-- meaning_id: kilat, cahaya
-  meaning_en: ''
-  examples:
-  - aceh: jibeudoih
-    jawi: ''
-    id: menimbulkan kilat
-    en: to cause lightning
-  - aceh: '''oh ji'
-    jawi: ''
-    id: ''
-    en: ''
-  - aceh: kilat, leumah pencuri
-    jawi: ''
-    id: Sewaktu kilat bercahaya, tampaklah pencuri
-    en: ''
-  - aceh: meu
-    jawi: ''
-    id: berkilat
-    en: sparkling
-  - aceh: '''oh jilangkah meu'
-    jawi: ''
-    id: ''
-    en: ''
-  - aceh: subang, 'oh jilinggang meu-simpreue cahya
-    jawi: ''
-    id: Ketika ia melangkah berkilatlah subangnya dan ketika melenggang bertaburanlah cahayanya
-    en: ''
-  - aceh: peu
-    jawi: ''
-    id: membuat bercahaya
-    en: ''
-  - aceh: bèk tapeu
-    jawi: ''
-    id: ''
-    en: ''
-  - aceh: ceureumèn
-    jawi: ''
-    id: Janganlah Anda membalik-balikkan cermin di sinar matahari*
-    en: Don't turn the mirror back and forth in the sunlight*
-  - aceh: giléng
-    jawi: ''
-    id: ''
-    en: ''
-  - aceh: ''
-    jawi: ''
-    id: v
-    en: v
-  - aceh: 'giling:'
-    jawi: ''
-    id: inong nyan teungoh ji
-    en: '! Why did you do that? which has been forbidden, don''t you do it!'
-  - aceh: —
-    jawi: ''
-    id: ubat
-    en: medicine
-  - aceh: ''
-    jawi: ''
-    id: Wanita itu sedang menggiling obat (dl lumpang). meu
-    en: ''
-  - aceh: — (
-    jawi: ''
-    id: teu
-    en: once made, it doesn't sway at all. → *
-  - aceh: '—), digiling:'
-    jawi: ''
-    id: manok lôn ka meu
-    en: ''
-  - aceh: —
-    jawi: ''
-    id: ngon moto*, Ayam saya telah digiling auto
-    en: ''
-  - aceh: peu
-    jawi: ''
-    id: menyuruh giling
-    en: ''
-  - aceh: geumiléng
-    jawi: ''
-    id: melakukan pekerjaan menggiling —, sedang melakukan perbuatan menggiling
-    en: ''
-  - aceh: alèe geumiléng
-    jawi: ''
-    id: alu utk menggiling → *
-    en: Mortar for pounding → *
-  - aceh: pèh, tob
-    jawi: ''
-    id: ''
-    en: ''
-  - aceh: gilho, gilo
-    jawi: ''
-    id: n* injak
-    en: ''
-  - aceh: bèk ta
-    jawi: ''
-    id: ''
-    en: ''
-  - aceh: ija gob
-    jawi: ''
-    id: Jangan Anda menginjak kain orang
-    en: Don't step on people's clothes
-  - aceh: aneuk nyan dukhat that, ji
-    jawi: ''
-    id: ''
-    en: ''
-  - aceh: manok lôn bak takue!
-    jawi: ''
-    id: Anak itu nakal sekali, ia menginjak ayam di lehernya (sehingga mati)
-    en: ''
-  - aceh: meu
-    jawi: ''
-    id: (
-    en: ''
-  - aceh: teu
-    jawi: ''
-    id: ), diinjak, terinjak
-    en: ), stepped on, trampled
-  - aceh: peu
-    jawi: ''
-    id: menyuruh injak → *
-    en: order to step on → *
-  - aceh: gidong, lho
-    jawi: ''
-    id: ''
-    en: ''
-  - aceh: gilo →
-    jawi: ''
-    id: ''
-    en: ''
-  - aceh: gilho
-    jawi: ''
-    id: ''
-    en: ''
-  - aceh: gim →
-    jawi: ''
-    id: ''
-    en: ''
-  - aceh: jim
-    jawi: ''
-    id: ''
-    en: ''
-  - aceh: gincét →
-    jawi: ''
-    id: ''
-    en: ''
-  - aceh: kincét
-    jawi: ''
-    id: ''
-    en: ''
-  - aceh: girang
-    jawi: ''
-    id: "a* gila kpd laki-laki (utk\n wanita) atau kpd wanita (utk laki-laki), wanita yg suka memperlihatkan dirinya di mana-mana, girang"
-    en: crazy for men (for women) or for women (for men), a woman who likes to show herself everywhere, excited
-  - aceh: inong nyan
-    jawi: ''
-    id: ''
-    en: ''
-  - aceh: that, jijak baranggaho
-    jawi: ''
-    id: Wanita itu girang sekali, ia pergi ke mana-mana
-    en: the sound of a rifle firing repeatedly
-  - aceh: peu
-    jawi: ''
-    id: membuat gila kpd laki-laki
-    en: drive men crazy
+- meaning_id: menpoles, membuat sesuatu yang cantik
+  meaning_en: polishing, making something gorgeous
+  meaning_nl: polijsten, iets schitterend maken
+examples: []
 etymology: ''
 related_words: []
 dialect_notes: ''
-source: Kamus Aceh-Indonesia (Acehnese-Indonesian Dictionary), pp. 240, 241
+source: 'K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage: Martinus Nijhoff, voor het
+  Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië, 1889, hlm. 232'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: 'Source lists variant spellings: kilab. Some fields (English translations, Jawi) may be incomplete due to API rate limits during processing. Re-run the translation script to fill in missing fields. Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate reviewer.'
+language_uncertain: false
+modern_spelling: gilab
+extraction_notes: Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each
+  headword); not AI-generated. Indonesian and English were produced by machine translation of van Langen's
+  Dutch (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl` for verification;
+  the rendering is not from the source and needs a human check. Part of speech not stated in the source;
+  left blank.

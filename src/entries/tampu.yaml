@@ -1,22 +1,36 @@
-headword: tampu
-jawi: ''
+headword: tampoe
+jawi: تَمَقُّوْ
 alt_spelling: []
 ipa: ''
-part_of_speech: n
+part_of_speech: ''
 definitions:
-- meaning_id: sejenis pohon kayu besar
-  meaning_en: a kind of big wood tree
-- meaning_id: kulitnya dipergunakan untuk melabur jala atau mewarnai pakaian
-  meaning_en: ''
-- meaning_id: daunnya kadang-kadang dimakan
-  meaning_en: its leaves sometimes eat
-examples: []
+- meaning_id: bak tampoe, sejenis pohon, kulit yang digunakan untuk penyamakan dan memanjakan jaring
+  meaning_en: bak tampoe, a kind of tree, the bark of which is used for tanning and pampering of nets
+  meaning_nl: bak tampoe, een soort van boom, waarvan de bast tot het looien en verwen van netten wordt
+    aangewend
+examples:
+- aceh: spreekw een klein weinigje belacan smeer ik op een tampublad
+  aceh_1889: spreekw.) een klein weinigje bèlatjan smeer ik op een tampoeblad
+  jawi: ''
+  id: sehingga saya akan segera melihat kematian, dan bukan co-istri saya. ini dikatakan oleh wanita yang
+    sudah menikah yang harus berbagi nikmat suaminya dengan co-wife
+  en: so that I may soon see death, and not my co-wife. This is said by married women who must share the
+    favors of her husband with a co-wife
+  nl: opdat ik ten spoedigste sterve en niet mijne mede-echtgenoote behoeve te zien. Dit wordt door gehuwde
+    vrouwen gezegd, die de gunsten van haren echtgenoot met eene mede-echtgenoote moeten deelen
 etymology: ''
 related_words: []
 dialect_notes: ''
-source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
-  Pendidikan dan Kebudayaan, 1985, hlm. 932'
+source: 'K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage: Martinus Nijhoff, voor het
+  Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië, 1889, hlm. 64'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: 'Jawi left blank: the source is Latin-script only and no Jawi form is printed for this
-  entry.'
+language_uncertain: false
+modern_spelling: tampu
+extraction_notes: Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each
+  headword); not AI-generated. `modern_spelling` “tampu” is an AI-supplied transposition of the 1889 orthography
+  (oe->u, dj->j, tj->c, nj->ny, ë->eu); it is NOT from the source and needs checking before it is used
+  to match the 1985 dictionary. Indonesian and English were produced by machine translation of van Langen's
+  Dutch (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl` for verification;
+  the rendering is not from the source and needs a human check. Part of speech not stated in the source;
+  left blank.

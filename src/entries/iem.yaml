@@ -1,11 +1,15 @@
 headword: iem
-jawi: ''
-alt_spelling: []
+jawi: ایم
+alt_spelling:
+- iëm
 ipa: ''
 part_of_speech: ''
 definitions:
 - meaning_id: droe
   meaning_en: ''
+- meaning_id: keheningan, pëiëm
+  meaning_en: silence, pëiëm
+  meaning_nl: stil zijn, zwijgen, zich stil houden, pëiëm, stil doen zijn
 examples:
 - aceh: 'v berdiam diri tanpa gerak atau suara, diam: iem, bèk meugrak'
   jawi: ''
@@ -31,13 +35,33 @@ examples:
   jawi: ''
   id: Pekerjaan itu sudah lama terhenti, sampai sekarang belum juga dimulai kembali
   en: That work has long been at a standstill and has still not been resumed
+- aceh: ta peuiem aneuk nyan bacut
+  aceh_1889: ta pëiëm anëk njan batjoet
+  jawi: ''
+  id: biarkan anak itu menjadi sedikit tenang
+  en: let that child be a little quiet
+  nl: laat dat kind een weinig stil zijn
+- aceh: iem gata beur le tamarit
+  aceh_1889: iëm gata bër lé tamarit
+  jawi: ''
+  id: diam, berhenti bicara
+  en: shut up, stop talking
+  nl: zwijgt, spreekt niet meer
 etymology: ''
 related_words: []
 dialect_notes: ''
 source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
-  Pendidikan dan Kebudayaan, 1985, hlm. 305'
+  Pendidikan dan Kebudayaan, 1985, hlm. 305; K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage:
+  Martinus Nijhoff, voor het Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië,
+  1889, hlm. 23'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
 extraction_notes: 'English gloss left blank: no confident translation of the Indonesian definition was
   available. Jawi left blank: the source is Latin-script only and no Jawi form is printed for this entry.
-  Part of speech not stated in the source; left blank.'
+  Part of speech not stated in the source; left blank. | Jawi copied verbatim from the printed source
+  (van Langen prints the Jawi form for each headword); not AI-generated. `modern_spelling` “iem” is an
+  AI-supplied transposition of the 1889 orthography (oe->u, dj->j, tj->c, nj->ny, ë->eu); it is NOT from
+  the source and needs checking before it is used to match the 1985 dictionary. Indonesian and English
+  were produced by machine translation of van Langen''s Dutch (Dutch→English→Indonesian, OPUS-MT). The
+  Dutch original is kept in `meaning_nl`/`nl` for verification; the rendering is not from the source and
+  needs a human check. Part of speech not stated in the source; left blank.'

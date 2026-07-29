@@ -1,6 +1,7 @@
 headword: klèng
-jawi: ''
-alt_spelling: []
+jawi: كلغ
+alt_spelling:
+- klēng
 ipa: ''
 part_of_speech: n
 definitions:
@@ -10,6 +11,9 @@ definitions:
   meaning_en: ''
 - meaning_id: orang Keling
   meaning_en: person Indian (Kling)
+- meaning_id: yang umum ind. ayam, burung mangsa
+  meaning_en: the common ind. chickling, bird of prey
+  meaning_nl: de gewone Ind. kiekendief, roofvogel
 examples:
 - aceh: ureueng klèng
   jawi: ''
@@ -56,8 +60,16 @@ etymology: ''
 related_words: []
 dialect_notes: ''
 source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
-  Pendidikan dan Kebudayaan, 1985, hlm. 439'
+  Pendidikan dan Kebudayaan, 1985, hlm. 439; K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage:
+  Martinus Nijhoff, voor het Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië,
+  1889, hlm. 209'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
 extraction_notes: 'Jawi left blank: the source is Latin-script only and no Jawi form is printed for this
-  entry.'
+  entry. | Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each headword);
+  not AI-generated. `modern_spelling` “kleng” is an AI-supplied transposition of the 1889 orthography
+  (oe->u, dj->j, tj->c, nj->ny, ë->eu); it is NOT from the source and needs checking before it is used
+  to match the 1985 dictionary. Indonesian and English were produced by machine translation of van Langen''s
+  Dutch (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl` for verification;
+  the rendering is not from the source and needs a human check. Part of speech not stated in the source;
+  left blank.'

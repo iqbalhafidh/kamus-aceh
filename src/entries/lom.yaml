@@ -1,5 +1,5 @@
 headword: lom
-jawi: ''
+jawi: لم
 alt_spelling: []
 ipa: ''
 part_of_speech: adv
@@ -16,6 +16,12 @@ definitions:
   meaning_en: again
 - meaning_id: selain itu
   meaning_en: ''
+- meaning_id: masih, bahkan, terlalu
+  meaning_en: still, even, too
+  meaning_nl: nog, nog steeds, zelfs, ook
+- meaning_id: lihat lom
+  meaning_en: see lom
+  meaning_nl: zie لم lom
 examples:
 - aceh: bu, Gam? lom h'an lé, (Mau) nasi lagi, Gam?
   jawi: ''
@@ -57,8 +63,18 @@ etymology: ''
 related_words: []
 dialect_notes: ''
 source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
-  Pendidikan dan Kebudayaan, 1985, hlm. 553'
+  Pendidikan dan Kebudayaan, 1985, hlm. 553; K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage:
+  Martinus Nijhoff, voor het Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië,
+  1889, hlm. 241, 246'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
 extraction_notes: 'Jawi left blank: the source is Latin-script only and no Jawi form is printed for this
-  entry.'
+  entry. | Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each headword);
+  not AI-generated. Indonesian and English were produced by machine translation of van Langen''s Dutch
+  (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl` for verification;
+  the rendering is not from the source and needs a human check. Part of speech not stated in the source;
+  left blank. | Homonym I in the source (printed as a numeral before the headword). Jawi copied verbatim
+  from the printed source (van Langen prints the Jawi form for each headword); not AI-generated. Indonesian
+  and English were produced by machine translation of van Langen''s Dutch (Dutch→English→Indonesian, OPUS-MT).
+  The Dutch original is kept in `meaning_nl`/`nl` for verification; the rendering is not from the source
+  and needs a human check. Part of speech not stated in the source; left blank.'

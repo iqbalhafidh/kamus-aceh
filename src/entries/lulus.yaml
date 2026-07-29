@@ -1,0 +1,38 @@
+headword: loeloes
+jawi: لولوس
+alt_spelling: []
+ipa: ''
+part_of_speech: ''
+definitions:
+- meaning_id: redo, mengambil alih, beruntung
+  meaning_en: redo, take over, lucky
+  meaning_nl: overdoen, overnemen, gelukken
+examples:
+- aceh: tapeululus keulun saboh boh deurien
+  aceh_1889: tapëloeloes këloen saboh boh dërïen
+  jawi: ''
+  id: beri aku doerianvrucht dari Anda
+  en: give me a doerianvrucht of yours
+  nl: doe mij een doerianvrucht van u over
+- aceh: ubuk akail hana lulus meulainkan jiboh tipee daja
+  aceh_1889: oebuk akail hana loeloes mëlainkan djiboh tipée daja
+  jawi: ''
+  id: adapun tipu daya kaumnya, maka mereka tidak bahagia, dan sekarang dia berusaha untuk menipu
+  en: as for his guile, they are not happy, but he is now trying to deceive
+  nl: wat zijne listen betreft, die gelukken niet, doch hij tracht thans bedrog te plegen
+etymology: ''
+related_words: []
+dialect_notes: ''
+source: 'K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage: Martinus Nijhoff, voor het
+  Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië, 1889, hlm. 246'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+language_uncertain: false
+modern_spelling: lulus
+extraction_notes: Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each
+  headword); not AI-generated. `modern_spelling` “lulus” is an AI-supplied transposition of the 1889 orthography
+  (oe->u, dj->j, tj->c, nj->ny, ë->eu); it is NOT from the source and needs checking before it is used
+  to match the 1985 dictionary. Indonesian and English were produced by machine translation of van Langen's
+  Dutch (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl` for verification;
+  the rendering is not from the source and needs a human check. Part of speech not stated in the source;
+  left blank.

@@ -1,0 +1,39 @@
+headword: sēoem
+jawi: سُوم
+alt_spelling:
+- séoem
+ipa: ''
+part_of_speech: ''
+definitions:
+- meaning_id: memasak
+  meaning_en: cooking
+  meaning_nl: koken
+- meaning_id: ijēr sēoem, air mendidih
+  meaning_en: ijēr sēoem, boiling water
+  meaning_nl: ijēr sēoem, kokend water
+- meaning_id: sēoem asoi, tubuh kehangatan
+  meaning_en: sēoem asoi, body warmth
+  meaning_nl: sēoem asoi, warmte van het lichaam
+- meaning_id: panas
+  meaning_en: hot
+  meaning_nl: heet, warm
+- meaning_id: séoem até, marah, temperamen
+  meaning_en: séoem até, angry, temperate
+  meaning_nl: séoem até, boos gestemd, driftig
+examples: []
+etymology: ''
+related_words: []
+dialect_notes: ''
+source: 'K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage: Martinus Nijhoff, voor het
+  Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië, 1889, hlm. 146, 159'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+language_uncertain: false
+modern_spelling: seum
+extraction_notes: Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each
+  headword); not AI-generated. `modern_spelling` “seum” is an AI-supplied transposition of the 1889 orthography
+  (oe->u, dj->j, tj->c, nj->ny, ë->eu); it is NOT from the source and needs checking before it is used
+  to match the 1985 dictionary. Indonesian and English were produced by machine translation of van Langen's
+  Dutch (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl` for verification;
+  the rendering is not from the source and needs a human check. Part of speech not stated in the source;
+  left blank.

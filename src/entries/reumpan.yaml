@@ -1,7 +1,8 @@
 headword: reumpan
-jawi: ''
+jawi: رمفن
 alt_spelling:
 - meureumpan
+- rëmpan
 ipa: ''
 part_of_speech: a
 definitions:
@@ -15,6 +16,9 @@ definitions:
   meaning_en: orderly
 - meaning_id: berbaris
   meaning_en: row
+- meaning_id: koridor bangga, disertai dengan pakaian pas, juga marching bersih
+  meaning_en: a proud corridor, accompanied by a fitting garment, also clean marching
+  meaning_nl: een fiere gang, gepaard aan eene voegzame kleeding, ook schoon marcheeren
 examples:
 - aceh: taduek bak meu reumpan, bèk ketkot, euntreuk
   jawi: ''
@@ -36,12 +40,26 @@ examples:
   jawi: ''
   id: menyusun rapi dsb
   en: ''
+- aceh: soi jak jeuh meureumpan teuhat lagee uleebalang
+  aceh_1889: soi djak djëh mërëmpan tëhat lagée oeléebalang
+  jawi: ''
+  id: siapa yang keluar dengan geng berapi-api seperti oeléebalang?
+  en: who goes out there with such a fiery gang like a oeléebalang?
+  nl: wie gaat daarginds met zoo'n fieren gang gelijk een oeléebalang?
 etymology: ''
 related_words: []
 dialect_notes: ''
 source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
-  Pendidikan dan Kebudayaan, 1985, hlm. 794'
+  Pendidikan dan Kebudayaan, 1985, hlm. 794; K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage:
+  Martinus Nijhoff, voor het Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië,
+  1889, hlm. 127'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
 extraction_notes: 'Jawi left blank: the source is Latin-script only and no Jawi form is printed for this
-  entry.'
+  entry. | Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each headword);
+  not AI-generated. `modern_spelling` “reumpan” is an AI-supplied transposition of the 1889 orthography
+  (oe->u, dj->j, tj->c, nj->ny, ë->eu); it is NOT from the source and needs checking before it is used
+  to match the 1985 dictionary. Indonesian and English were produced by machine translation of van Langen''s
+  Dutch (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl` for verification;
+  the rendering is not from the source and needs a human check. Part of speech not stated in the source;
+  left blank.'

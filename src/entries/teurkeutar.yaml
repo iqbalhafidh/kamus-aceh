@@ -1,0 +1,34 @@
+headword: tërkëtar
+jawi: تَرَكَت
+alt_spelling:
+- tëkëtar
+ipa: ''
+part_of_speech: ''
+definitions:
+- meaning_id: takut, marah
+  meaning_en: terrified, upset
+  meaning_nl: verschrikt, van streek zijn
+examples:
+- aceh: di lun bunoi oh lun kalon rimong teurkeutar keutar badan
+  aceh_1889: di loen boenoi óh loen kalon rimong tërkëtar-këtar badan
+  jawi: ''
+  id: sejauh yang aku tahu, aku baru saja melihat harimau, tubuhku sangat marah. sinonim dengan tëkepak
+  en: as far as I'm concerned, I've just seen a tiger, my body is very upset. Synonymous with tëkepak
+  nl: wat mij betreft, zoo juist heb ik een tijger gezien, mijn lichaam is er geheel van streek van. Synoniem
+    met tëkepak
+etymology: ''
+related_words: []
+dialect_notes: ''
+source: 'K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage: Martinus Nijhoff, voor het
+  Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië, 1889, hlm. 58'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+language_uncertain: false
+modern_spelling: teurkeutar
+extraction_notes: Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each
+  headword); not AI-generated. `modern_spelling` “teurkeutar” is an AI-supplied transposition of the 1889
+  orthography (oe->u, dj->j, tj->c, nj->ny, ë->eu); it is NOT from the source and needs checking before
+  it is used to match the 1985 dictionary. Indonesian and English were produced by machine translation
+  of van Langen's Dutch (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl`
+  for verification; the rendering is not from the source and needs a human check. Part of speech not stated
+  in the source; left blank.

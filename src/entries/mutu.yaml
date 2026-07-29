@@ -1,6 +1,7 @@
 headword: mutu
-jawi: ''
-alt_spelling: []
+jawi: متو
+alt_spelling:
+- moetoe
 ipa: ''
 part_of_speech: n
 definitions:
@@ -39,7 +40,35 @@ definitions:
   meaning_en: Whoever sees it
 - meaning_id: tercengang semuanya
   meaning_en: astounded all
-examples: []
+- meaning_id: dari tingkat yang sama dan dari keturunan yang hina
+  meaning_en: of equal grade or descent
+  meaning_nl: van gelijken rang of afkomst
+- meaning_id: carat
+  meaning_en: carat
+  meaning_nl: karaat
+- meaning_id: lihat métoe
+  meaning_en: see métoe
+  meaning_nl: zie متو métoe
+examples:
+- aceh: kah be kah mupake ngon ke hana sabe mutu ngon kah sebab kah temon gob
+  aceh_1889: kah bê-kah moepaké ngon kê hana sabé moetoe ngon kah sêbab kah têmon gob
+  jawi: ''
+  id: jangan memakai pakaian yang sama seperti yang saya pakai; engkau bukan orang yang sama, sebab engkau
+    budak
+  en: 'thou shalt not dress as I clothe, thou art not of the same origin: for thou art a slave'
+  nl: gij moet u niet als ik kleeden, gij zijt niet van gelijke afkomst, want gij zijt een slaaf
+- aceh: mes sipeluh mutu
+  aceh_1889: mês sipêloeh moetoe
+  jawi: ''
+  id: emas sepuluh karat
+  en: gold of ten carats
+  nl: goud van tien karaat
+- aceh: laksana mes sipeluh mutu patut kedudu intan permata
+  aceh_1889: laksana mês sipêloeh moetoe patoet kêdoedoe intan pêrmata
+  jawi: ''
+  id: (Atj)
+  en: (Atj)
+  nl: (Atj
 etymology: ''
 related_words:
 - laku
@@ -47,7 +76,9 @@ related_words:
 dialect_notes: 'Marked (dl hik) in the source: attested in hikayat, the classical Acehnese narrative verse
   register.'
 source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
-  Pendidikan dan Kebudayaan, 1985, hlm. 622'
+  Pendidikan dan Kebudayaan, 1985, hlm. 622; K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage:
+  Martinus Nijhoff, voor het Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië,
+  1889, hlm. 255, 266'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
 extraction_notes: 'Homonym 1 in the source (printed as a superscript numeral before the headword). Jawi
@@ -55,4 +86,23 @@ extraction_notes: 'Homonym 1 in the source (printed as a superscript numeral bef
   in the source (printed as a superscript numeral before the headword). Jawi left blank: the source is
   Latin-script only and no Jawi form is printed for this entry. | Homonym 3 in the source (printed as
   a superscript numeral before the headword). Jawi left blank: the source is Latin-script only and no
-  Jawi form is printed for this entry.'
+  Jawi form is printed for this entry. | Homonym I in the source (printed as a numeral before the headword).
+  Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each headword); not
+  AI-generated. `modern_spelling` “mutu” is an AI-supplied transposition of the 1889 orthography (oe->u,
+  dj->j, tj->c, nj->ny, ë->eu); it is NOT from the source and needs checking before it is used to match
+  the 1985 dictionary. Indonesian and English were produced by machine translation of van Langen''s Dutch
+  (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl` for verification;
+  the rendering is not from the source and needs a human check. Part of speech not stated in the source;
+  left blank. | Homonym II in the source (printed as a numeral before the headword). Jawi left blank:
+  no Jawi form is printed for this entry. `modern_spelling` “mutu” is an AI-supplied transposition of
+  the 1889 orthography (oe->u, dj->j, tj->c, nj->ny, ë->eu); it is NOT from the source and needs checking
+  before it is used to match the 1985 dictionary. Indonesian and English were produced by machine translation
+  of van Langen''s Dutch (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl`
+  for verification; the rendering is not from the source and needs a human check. Part of speech not stated
+  in the source; left blank. | Jawi copied verbatim from the printed source (van Langen prints the Jawi
+  form for each headword); not AI-generated. `modern_spelling` “mutu” is an AI-supplied transposition
+  of the 1889 orthography (oe->u, dj->j, tj->c, nj->ny, ë->eu); it is NOT from the source and needs checking
+  before it is used to match the 1985 dictionary. Indonesian and English were produced by machine translation
+  of van Langen''s Dutch (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl`
+  for verification; the rendering is not from the source and needs a human check. Part of speech not stated
+  in the source; left blank.'

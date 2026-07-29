@@ -1,0 +1,30 @@
+headword: las
+jawi: لس
+alt_spelling: []
+ipa: ''
+part_of_speech: ''
+definitions:
+- meaning_id: bertobat, bersalah
+  meaning_en: repentance, guilt
+  meaning_nl: berouwen, berouw, schuldgevoel hebben
+examples:
+- aceh: ke pe jid jinoi talas droi dilee hana tapikir
+  aceh_1889: kè pè-djid djinoi talas droi dilée hana tapikir
+  jawi: ''
+  id: mengapa sekarang kalian menyesal? Belum pernah kalian memikirkan tentang hal itu
+  en: why do you now repent, have you not thought about it before?
+  nl: waarom berouwt het u thans, hebt gij er te voren niet over nagedacht?
+etymology: ''
+related_words: []
+dialect_notes: ''
+source: 'K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage: Martinus Nijhoff, voor het
+  Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië, 1889, hlm. 238'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+language_uncertain: false
+modern_spelling: las
+extraction_notes: Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each
+  headword); not AI-generated. Indonesian and English were produced by machine translation of van Langen's
+  Dutch (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl` for verification;
+  the rendering is not from the source and needs a human check. Part of speech not stated in the source;
+  left blank.

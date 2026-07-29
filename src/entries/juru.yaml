@@ -1,11 +1,27 @@
 headword: juru
-jawi: ''
-alt_spelling: []
+jawi: جورو
+alt_spelling:
+- djoeroe
 ipa: ''
 part_of_speech: n
 definitions:
 - meaning_id: juru, ahli di suatu jurusan
   meaning_en: specialist, an expert in some field
+- meaning_id: berpengalaman dalam setiap subjek, memiliki pengetahuan itu
+  meaning_en: experienced in any subject, have knowledge of it
+  meaning_nl: ervaren in eenig vak, kennis er van hebben
+- meaning_id: djoeroe Espsa, penerjemah
+  meaning_en: djoeroe behasa, interpreter
+  meaning_nl: djoeroe behasa, tolk
+- meaning_id: djoeroe toelis, penulis, juru tulis
+  meaning_en: djoeroe toelis, writer, clerk
+  meaning_nl: djoeroe toelis, schrijver, klerk
+- meaning_id: djoeroe moedi, sobat
+  meaning_en: djoeroe moedi, mate
+  meaning_nl: djoeroe moedi, stuurman
+- meaning_id: djoeroe batoe, gudang
+  meaning_en: djoeroe batoe, warehouse
+  meaning_nl: djoeroe batoe, loods
 examples:
 - aceh: basa
   jawi: ''
@@ -28,8 +44,16 @@ related_words:
 - krani
 dialect_notes: ''
 source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
-  Pendidikan dan Kebudayaan, 1985, hlm. 357'
+  Pendidikan dan Kebudayaan, 1985, hlm. 357; K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage:
+  Martinus Nijhoff, voor het Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië,
+  1889, hlm. 86'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
 extraction_notes: 'Jawi left blank: the source is Latin-script only and no Jawi form is printed for this
-  entry.'
+  entry. | Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each headword);
+  not AI-generated. `modern_spelling` “juru” is an AI-supplied transposition of the 1889 orthography (oe->u,
+  dj->j, tj->c, nj->ny, ë->eu); it is NOT from the source and needs checking before it is used to match
+  the 1985 dictionary. Indonesian and English were produced by machine translation of van Langen''s Dutch
+  (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl` for verification;
+  the rendering is not from the source and needs a human check. Part of speech not stated in the source;
+  left blank.'

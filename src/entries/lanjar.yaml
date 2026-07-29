@@ -1,0 +1,47 @@
+headword: landjar
+jawi: لنجير
+alt_spelling: []
+ipa: ''
+part_of_speech: ''
+definitions:
+- meaning_id: cepat
+  meaning_en: quick
+  meaning_nl: spoedig, vlug, snel
+- meaning_id: tanpa memecah, membaca tanpa berkedip
+  meaning_en: without breaking down, read without blinking
+  meaning_nl: zonder af te breken, zonder haperen lezen
+examples:
+- aceh: jak lanjar keunoi
+  aceh_1889: djak landjar kënoi
+  jawi: ''
+  id: cepat kemari
+  en: come here quickly
+  nl: kom snel hier
+- aceh: jibeuj koran lanjar teuhat lageu jihafadl
+  aceh_1889: djibëdj koran landjar tëhat lagëe djihafadl
+  jawi: ''
+  id: dia membaca Al Qur 'an tanpa ragu-ragu, seperti yang dia baca dari ingatannya
+  en: he recites the Qur'an without hesitation, as does he recite it from his memory
+  nl: hij reciteert den koran zonder haperen evenals of hij hem uit zijn ge heugen opzegt
+etymology: ''
+related_words: []
+dialect_notes: ''
+source: 'K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage: Martinus Nijhoff, voor het
+  Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië, 1889, hlm. 243'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+language_uncertain: false
+modern_spelling: lanjar
+extraction_notes: 'Homonym I in the source (printed as a numeral before the headword). Jawi copied verbatim
+  from the printed source (van Langen prints the Jawi form for each headword); not AI-generated. `modern_spelling`
+  “lanjar” is an AI-supplied transposition of the 1889 orthography (oe->u, dj->j, tj->c, nj->ny, ë->eu);
+  it is NOT from the source and needs checking before it is used to match the 1985 dictionary. Indonesian
+  and English were produced by machine translation of van Langen''s Dutch (Dutch→English→Indonesian, OPUS-MT).
+  The Dutch original is kept in `meaning_nl`/`nl` for verification; the rendering is not from the source
+  and needs a human check. Part of speech not stated in the source; left blank. | Homonym II in the source
+  (printed as a numeral before the headword). Jawi left blank: no Jawi form is printed for this entry.
+  `modern_spelling` “lanjar” is an AI-supplied transposition of the 1889 orthography (oe->u, dj->j, tj->c,
+  nj->ny, ë->eu); it is NOT from the source and needs checking before it is used to match the 1985 dictionary.
+  Indonesian and English were produced by machine translation of van Langen''s Dutch (Dutch→English→Indonesian,
+  OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl` for verification; the rendering is not from
+  the source and needs a human check. Part of speech not stated in the source; left blank.'

@@ -1,18 +1,30 @@
 headword: tadi
-jawi: ''
+jawi: تادى
 alt_spelling: []
 ipa: ''
-part_of_speech: v
+part_of_speech: ''
 definitions:
-- meaning_id: memukul (dengan gada dan sebagainya), mementung
-  meaning_en: hit (with mace and as), cudgel
-examples: []
+- meaning_id: smack
+  meaning_en: smack
+  meaning_nl: slaan
+examples:
+- aceh: ulun tadi bak ulee
+  aceh_1889: oeloen tadi bak oelée
+  jawi: ''
+  id: i hit kepala
+  en: i hit the head
+  nl: ik sloeg op het hoofd
 etymology: ''
 related_words: []
 dialect_notes: ''
-source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
-  Pendidikan dan Kebudayaan, 1985, hlm. 916'
+source: 'K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage: Martinus Nijhoff, voor het
+  Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië, 1889, hlm. 52'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: 'Jawi left blank: the source is Latin-script only and no Jawi form is printed for this
-  entry.'
+language_uncertain: false
+modern_spelling: tadi
+extraction_notes: Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each
+  headword); not AI-generated. Indonesian and English were produced by machine translation of van Langen's
+  Dutch (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl` for verification;
+  the rendering is not from the source and needs a human check. Part of speech not stated in the source;
+  left blank.

@@ -1,0 +1,41 @@
+headword: poeting
+jawi: قُوتِيغ
+alt_spelling: []
+ipa: ''
+part_of_speech: ''
+definitions:
+- meaning_id: ujung runcing dari sesuatu yang datang ke rongga khusus
+  meaning_en: pointy end of something that comes into a dedicated cavity
+  meaning_nl: puntig uiteinde van iets, dat in een daarvoor bestemde holte komt
+- meaning_id: poeting sëkin, ujung pisau rumput
+  meaning_en: poeting sëkin, the tip of a grass blade
+  meaning_nl: poeting sëkin, de punt van een grasmesje
+- meaning_id: poeting rëntjong, ujung belati
+  meaning_en: poeting rëntjong, the tip of a dagger
+  meaning_nl: poeting rëntjong, de punt van een dolk
+- meaning_id: poeting tamëh, akhir dari pos pintu
+  meaning_en: poeting tamëh, the end of a door post
+  meaning_nl: poeting tamëh, het uiteinde van een deurpost
+- meaning_id: poeting tëk, puting payudara seorang wanita
+  meaning_en: poeting tëk, the nipples of a woman's breasts
+  meaning_nl: poeting tëk, de tepels van de borsten eener vrouw
+- meaning_id: poeting roekoh, sedikit cerutu
+  meaning_en: poeting roekoh, a little cigar
+  meaning_nl: poeting roekoh, een eindje sigaar
+examples: []
+etymology: ''
+related_words: []
+dialect_notes: ''
+source: 'K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage: Martinus Nijhoff, voor het
+  Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië, 1889, hlm. 189'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+language_uncertain: false
+modern_spelling: puting
+extraction_notes: Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each
+  headword); not AI-generated. `modern_spelling` “puting” is an AI-supplied transposition of the 1889
+  orthography (oe->u, dj->j, tj->c, nj->ny, ë->eu); it is NOT from the source and needs checking before
+  it is used to match the 1985 dictionary. Indonesian and English were produced by machine translation
+  of van Langen's Dutch (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl`
+  for verification; the rendering is not from the source and needs a human check. Part of speech not stated
+  in the source; left blank.

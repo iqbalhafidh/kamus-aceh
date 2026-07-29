@@ -1,0 +1,47 @@
+headword: bak bitjara
+jawi: ''
+alt_spelling: []
+ipa: ''
+part_of_speech: ''
+definitions:
+- meaning_id: untuk tahu sesuatu dari luar, kehadiran, keagungan
+  meaning_en: to fail to speak. To know something from the outside, presence, majesty
+  meaning_nl: er niet in slagen te spreken. حضرة ḥadlarat, tegenwoordigheid, majesteit. حفظ ḥafal, iets
+    van buiten kennen
+examples:
+- aceh: uit den koran  a
+  aceh_1889: uit den Koran. حق ḥaḳ
+  jawi: ''
+  id: benar, properti sah, kekayaan sah, kebenaran, kondisi yang benar dari sebuah kasus
+  en: right, lawful property. •aūhīkat, truth, correctness, true condition of a case. ♪aūrīki, sincere,
+    truthful. ›aūukuum, judgment, punishment, law; *ajukuum Allah, is also called death; "ahukuuman, "
+    punishment
+  nl: recht, rechtmatig bezit. حقيقة ḥaḳīkat, waarheid, juistheid, ware gesteldheid eener zaak. حقيقي
+    ḥaḳīki, oprecht, waarachtig. حكم ḥoekoem, vonnis, straf, wet; ḥoekoem Allah, wordt ook de dood genoemd;
+    ḥoekoeman, straf
+- aceh: meukum
+  aceh_1889: mēḥoekoem
+  jawi: ''
+  id: seseorang mengutuk lumut, ilmu pengetahuan, seni supranatural sebenarnya hakim hakim, hakim alkitab,
+    kondisi, keadaan
+  en: someone condemns. "Ikēmat, " science, art, supernatural art. "Oakim, " [actually.] judge, magistrate.
+    "Al, " state, condition, circumstances; "Al-a"uwal = "al."
+  nl: iemand veroordeelen. حكمت ḥikēmat, wetenschap, kunst, bovennatuurlijke kunst. حكيم ḥakim, [eigenl.
+    حاكم] rechter, magistraat. حل ḥal, staat, toestand, omstandigheden; ḥal-aḥoewal = ḥal. حلكوم ḥalekoem,
+    adamsappel. حلال ḥalēl, wettig, geoorloofd. حلوا ḥaloewa, een soort van gebak; ḥaloewa maskat, Maskatsch
+    gebak
+etymology: ''
+related_words: []
+dialect_notes: ''
+source: 'K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage: Martinus Nijhoff, voor het
+  Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië, 1889, hlm. 103'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+language_uncertain: false
+modern_spelling: bak bicara
+extraction_notes: 'Jawi left blank: no Jawi form is printed for this entry. `modern_spelling` “bak bicara”
+  is an AI-supplied transposition of the 1889 orthography (oe->u, dj->j, tj->c, nj->ny, ë->eu); it is
+  NOT from the source and needs checking before it is used to match the 1985 dictionary. Indonesian and
+  English were produced by machine translation of van Langen''s Dutch (Dutch→English→Indonesian, OPUS-MT).
+  The Dutch original is kept in `meaning_nl`/`nl` for verification; the rendering is not from the source
+  and needs a human check. Part of speech not stated in the source; left blank.'

@@ -1,11 +1,18 @@
 headword: rajam
-jawi: ''
-alt_spelling: []
+jawi: رَاجِم
+alt_spelling:
+- radjam
 ipa: ''
 part_of_speech: n
 definitions:
 - meaning_id: rajam, merajam
   meaning_en: stoning
+- meaning_id: stony. Di Aceh, kalau orang yang bersalah adalah seorang laki-laki, ia dimakamkan di pinggulnya,
+    kalau ia seorang wanita, ke dadanya di tanah
+  meaning_en: stony. In Aceh, when the guilty man is a man, he is buried up to his hips, if he is a woman,
+    to her breasts in the ground
+  meaning_nl: 'steeniging. In Atjeh als volgt ten uitvoer gelegd: wanneer de schuldige een man is, wordt
+    hij vooraf tot aan zijne heupen, indien het eene vrouw is, tot aan hare borsten in den grond begraven'
 examples:
 - aceh: si cilaka nyan ka geu rajam lé raja
   jawi: ''
@@ -19,8 +26,16 @@ etymology: ''
 related_words: []
 dialect_notes: ''
 source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
-  Pendidikan dan Kebudayaan, 1985, hlm. 766'
+  Pendidikan dan Kebudayaan, 1985, hlm. 766; K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage:
+  Martinus Nijhoff, voor het Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië,
+  1889, hlm. 118'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
 extraction_notes: 'Jawi left blank: the source is Latin-script only and no Jawi form is printed for this
-  entry.'
+  entry. | Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each headword);
+  not AI-generated. `modern_spelling` “rajam” is an AI-supplied transposition of the 1889 orthography
+  (oe->u, dj->j, tj->c, nj->ny, ë->eu); it is NOT from the source and needs checking before it is used
+  to match the 1985 dictionary. Indonesian and English were produced by machine translation of van Langen''s
+  Dutch (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl` for verification;
+  the rendering is not from the source and needs a human check. Part of speech not stated in the source;
+  left blank.'

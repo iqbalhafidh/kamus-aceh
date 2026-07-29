@@ -1,0 +1,41 @@
+headword: bliong
+jawi: بليوغ
+alt_spelling: []
+ipa: ''
+part_of_speech: n
+definitions:
+- meaning_id: sejenis drawbar besar, yang dapat diubah dalam handle dan karenanya digunakan dalam panjang
+    dan lebar
+  meaning_en: a kind of large drawbar, which can be turned in the handle and therefore used in length
+    and width
+  meaning_nl: een soort van grooten dissel, dien men in den steel kan omdraaien en daardoor in de lengte
+    en breedte kan gebruiken
+examples:
+- aceh: duwa jang ka
+  aceh_1889: doewa jang ka
+  jawi: ''
+  id: léhée ngon gata, hantomblion gétjoh ngon malau. (Atj)
+  en: léhée ngon gata, hantomblion gétjoh ngon malau. (Atj)
+  nl: léhée ngon gata, hantom bliong gétjoh ngon malau. (Atj
+- aceh: spreekwoord twee heb ik er reeds gehuwd
+  aceh_1889: spreekwoord) twee heb ik er reeds gehuwd
+  jawi: ''
+  id: tiga dengan Anda, "Tetapi puncak yang melekat pada kayu itu sudah berhenti", kata suami kepada istri-istri
+    mereka yang tidak menurut kemauan mereka
+  en: three with You, but it happens that the crest with which it is attached to the wood is stopped.
+    (The husbands say this to their wives who do not behave according to their will)
+  nl: drie met U, doch het komt voor dat de dissel door de hars, waarmede hij aan het hout bevestigd is,
+    wordt tegengehouden. (De echtgenooten zeggen dit tot hunne vrouwen, die zich niet naar hun wil gedragen)
+etymology: ''
+related_words: []
+dialect_notes: ''
+source: 'K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage: Martinus Nijhoff, voor het
+  Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië, 1889, hlm. 39'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+language_uncertain: false
+modern_spelling: bliong
+extraction_notes: Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each
+  headword); not AI-generated. Indonesian and English were produced by machine translation of van Langen's
+  Dutch (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl` for verification;
+  the rendering is not from the source and needs a human check.

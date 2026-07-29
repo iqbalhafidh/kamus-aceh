@@ -1,6 +1,7 @@
 headword: lari
-jawi: ''
-alt_spelling: []
+jawi: لاری
+alt_spelling:
+- lariḳ
 ipa: ''
 part_of_speech: n
 definitions:
@@ -12,6 +13,15 @@ definitions:
   meaning_en: ''
 - meaning_id: lari, melarikan diri, pergi
   meaning_en: run, run self, go
+- meaning_id: pemberi makan sejenis permainan dadu, menggambar salib di atas tikar, di mana satu set up
+    uangnya
+  meaning_en: the intercessors of a kind of dice game, drawing a cross on a mat, where one sets up his
+    money
+  meaning_nl: de tusschenvakken bij een soort van dobbelspel, waarbij een kruis op een mat geteekend wordt,
+    waar men zijn geld opzet
+- meaning_id: menyalakan lathe
+  meaning_en: turning on a lathe
+  meaning_nl: op een draaibank draaien
 examples:
 - aceh: gata hana ta lari cit keu déh?
   jawi: ''
@@ -42,8 +52,20 @@ related_words: []
 dialect_notes: 'Marked (dl hik) in the source: attested in hikayat, the classical Acehnese narrative verse
   register.'
 source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
-  Pendidikan dan Kebudayaan, 1985, hlm. 506'
+  Pendidikan dan Kebudayaan, 1985, hlm. 506; K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage:
+  Martinus Nijhoff, voor het Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië,
+  1889, hlm. 234'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
 extraction_notes: 'Jawi left blank: the source is Latin-script only and no Jawi form is printed for this
-  entry.'
+  entry. | Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each headword);
+  not AI-generated. Indonesian and English were produced by machine translation of van Langen''s Dutch
+  (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl` for verification;
+  the rendering is not from the source and needs a human check. Part of speech not stated in the source;
+  left blank. | Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each
+  headword); not AI-generated. `modern_spelling` “lari” is an AI-supplied transposition of the 1889 orthography
+  (oe->u, dj->j, tj->c, nj->ny, ë->eu); it is NOT from the source and needs checking before it is used
+  to match the 1985 dictionary. Indonesian and English were produced by machine translation of van Langen''s
+  Dutch (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl` for verification;
+  the rendering is not from the source and needs a human check. Part of speech not stated in the source;
+  left blank.'

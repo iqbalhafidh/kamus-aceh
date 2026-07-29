@@ -1,0 +1,38 @@
+headword: gëlis
+jawi: كَلِيِس
+alt_spelling: []
+ipa: ''
+part_of_speech: ''
+definitions:
+- meaning_id: murni, bersih
+  meaning_en: pure, clean
+  meaning_nl: zuiver, rein, schoon, reinigen, schoon maken
+- meaning_id: idjar gëlis, kain bersih
+  meaning_en: idjar gëlis, a clean cloth
+  meaning_nl: idjar gëlis, een rein kleed
+- meaning_id: pingan gëlis, piring bersih
+  meaning_en: pingan gëlis, a clean plate
+  meaning_nl: pingan gëlis, een schoon bord
+- meaning_id: rëdj gëlis, jalan murni
+  meaning_en: rëdj gëlis, a pure road
+  meaning_nl: rëdj gëlis, een zuivere weg
+- meaning_id: bagan gëlis, tubuh murni
+  meaning_en: badan gëlis, a pure body
+  meaning_nl: badan gëlis, een zuiver lichaam
+examples: []
+etymology: ''
+related_words: []
+dialect_notes: ''
+source: 'K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage: Martinus Nijhoff, voor het
+  Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië, 1889, hlm. 227'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+language_uncertain: false
+modern_spelling: geulis
+extraction_notes: Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each
+  headword); not AI-generated. `modern_spelling` “geulis” is an AI-supplied transposition of the 1889
+  orthography (oe->u, dj->j, tj->c, nj->ny, ë->eu); it is NOT from the source and needs checking before
+  it is used to match the 1985 dictionary. Indonesian and English were produced by machine translation
+  of van Langen's Dutch (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl`
+  for verification; the rendering is not from the source and needs a human check. Part of speech not stated
+  in the source; left blank.

@@ -1,0 +1,30 @@
+headword: tanggoi
+jawi: تُفْكَرَى
+alt_spelling: []
+ipa: ''
+part_of_speech: ''
+definitions:
+- meaning_id: menempatkan sesuatu di bawah objek sebagai balok
+  meaning_en: place something underneath an object as a beam
+  meaning_nl: iets onder een voorwerp als onderlegger leggen
+examples:
+- aceh: onder een stuk hout
+  aceh_1889: onder een stuk hout
+  jawi: ''
+  id: yang satu ingin berhenti
+  en: that one wants to quit
+  nl: dat men wil kappen
+etymology: ''
+related_words: []
+dialect_notes: ''
+source: 'K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage: Martinus Nijhoff, voor het
+  Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië, 1889, hlm. 61'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+language_uncertain: false
+modern_spelling: tanggoi
+extraction_notes: Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each
+  headword); not AI-generated. Indonesian and English were produced by machine translation of van Langen's
+  Dutch (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl` for verification;
+  the rendering is not from the source and needs a human check. Part of speech not stated in the source;
+  left blank.

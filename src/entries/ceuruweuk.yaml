@@ -1,0 +1,32 @@
+headword: tjëroewëk
+jawi: چروک
+alt_spelling: []
+ipa: ''
+part_of_speech: ''
+definitions:
+- meaning_id: inlaschgat untuk gaya, lubang dalam gaya di mana satu membaca sepotong kayu
+  meaning_en: inlaschgat for styles, a hole in a style in which one reads another piece of wood
+  meaning_nl: inlaschgat bij stijlen, een gat in een stijl waarin men een ander stuk hout inlascht
+examples:
+- aceh: tameuh ru meuh lun kapatah lam ceuroweuk joh geumpa oroi jeuh
+  aceh_1889: tamëh roe mëh loen kapatah lam tjërowëk joh gëmpa oroi djëh
+  jawi: ''
+  id: gaya rumah saya robek di inlaschgat selama gempa hari itu
+  en: the style of my home was torn in the inlaschgat during the earthquake that day
+  nl: de stijl van mijne woning is gescheurd in het inlaschgat tijdens de aardbeving op dien dag
+etymology: ''
+related_words: []
+dialect_notes: ''
+source: 'K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage: Martinus Nijhoff, voor het
+  Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië, 1889, hlm. 93'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+language_uncertain: false
+modern_spelling: ceuruweuk
+extraction_notes: Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each
+  headword); not AI-generated. `modern_spelling` “ceuruweuk” is an AI-supplied transposition of the 1889
+  orthography (oe->u, dj->j, tj->c, nj->ny, ë->eu); it is NOT from the source and needs checking before
+  it is used to match the 1985 dictionary. Indonesian and English were produced by machine translation
+  of van Langen's Dutch (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl`
+  for verification; the rendering is not from the source and needs a human check. Part of speech not stated
+  in the source; left blank.

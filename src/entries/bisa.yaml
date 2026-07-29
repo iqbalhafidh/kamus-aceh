@@ -1,17 +1,36 @@
 headword: bisa
-jawi: ''
+jawi: بيسا
 alt_spelling: []
 ipa: ''
 part_of_speech: ''
 definitions:
-- meaning_id: bisa
-  meaning_en: venom, poison
-examples: []
+- meaning_id: hadiah, kekerasan, beracun
+  meaning_en: gift, Violent, Poisonous
+  meaning_nl: gift, venijn, vergiftig, venijnig
+examples:
+- aceh: bisa tehat gob nyan mongkon ulun poh ngon kajee nyan baru ji tupue
+  aceh_1889: bisa tēhat gob njan mōngkon oeloen poh ngon kajée njan baroe dji toepoeë
+  jawi: ''
+  id: orang itu sangat kejam
+  en: that man is very vicious
+  nl: die man is zeer venijnig
+- aceh: eerst als ik hem met een hout sla
+  aceh_1889: eerst als ik hem met een hout sla
+  jawi: ''
+  id: dia mengerti alasan
+  en: he understands reason
+  nl: verstaat hij rede
 etymology: ''
 related_words: []
 dialect_notes: ''
-source: 'Daud, Bukhari & Mark Durie. Kamus Basa Acèh = Kamus Bahasa Aceh: Acehnese–Indonesian–English Thesaurus.
-  Pacific Linguistics C-151, 1999, p. 105.'
-date_added: '2026-07-20'
+source: 'K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage: Martinus Nijhoff, voor het
+  Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië, 1889, hlm. 49'
+date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: ''
+language_uncertain: false
+modern_spelling: bisa
+extraction_notes: Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each
+  headword); not AI-generated. Indonesian and English were produced by machine translation of van Langen's
+  Dutch (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl` for verification;
+  the rendering is not from the source and needs a human check. Part of speech not stated in the source;
+  left blank.

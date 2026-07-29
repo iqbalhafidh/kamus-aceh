@@ -1,18 +1,33 @@
 headword: trong
-jawi: ''
+jawi: تَرَوُغ
 alt_spelling: []
 ipa: ''
 part_of_speech: n
 definitions:
-- meaning_id: sejenis pouon yang daunnya dijadikan obat sariawan dan kayunya untuk tiang rumah
-  meaning_en: ''
-examples: []
+- meaning_id: sejenis pohon yang menyediakan kayu yang baik
+  meaning_en: a kind of tree that provides good carpentry
+  meaning_nl: een soort van boom, die goed timmerhout levert
+examples:
+- aceh: pantun zeer wit is de blum van de murung
+  aceh_1889: pantoen) zeer wit is de bloem van de moeroeng
+  jawi: ''
+  id: putih bunga dari palung di tempat di mana sungai Daja muncul, kepala besar berubah kepala kecil
+    patah, hatiku puas ketika Anda datang. ini dikatakan kepada wanita yang menyerah pada kita
+  en: white the flower of the trough in place where the river Daja arises, a large head changed the small
+    broken head, my heart is satisfied when you come. This is said to women who surrender to us
+  nl: wit de bloem van de trong ter plaatse, waar de rivier Daja ontstaat, een groote kop verwisselde
+    de kleine gebroken kop, mijn hart is vergenoegd, wanneer gij komt. Dit zegt men tot vrouwen, die zich
+    aan ons overgeven
 etymology: ''
 related_words: []
 dialect_notes: ''
-source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
-  Pendidikan dan Kebudayaan, 1985, hlm. 1000'
+source: 'K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage: Martinus Nijhoff, voor het
+  Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië, 1889, hlm. 58'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: 'English gloss left blank: no confident translation of the Indonesian definition was
-  available. Jawi left blank: the source is Latin-script only and no Jawi form is printed for this entry.'
+language_uncertain: false
+modern_spelling: trong
+extraction_notes: Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each
+  headword); not AI-generated. Indonesian and English were produced by machine translation of van Langen's
+  Dutch (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl` for verification;
+  the rendering is not from the source and needs a human check.

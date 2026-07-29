@@ -1,0 +1,32 @@
+headword: apit
+jawi: افيت
+alt_spelling: []
+ipa: ''
+part_of_speech: ''
+definitions:
+- meaning_id: jepit sesuatu antara dua benda, di kedua sisi sesuatu, antara dua orang berjalan
+  meaning_en: clamp something between two objects, on both sides of something, between two persons walk
+  meaning_nl: iets tusschen twee voorwerpen klemmen, aan weerskanten van iets, aan beide zijden van iets,
+    tusschen twee personen loopen
+examples:
+- aceh: soi saleuh jeuh jak oreung apit duwa teuleuhee wil uneun
+  aceh_1889: soi salëh djëh djak orëng apit doewa tëlëhée wil oenën
+  jawi: ''
+  id: yaitu orang-orang yang memperlihatkan pekerjaannya kepada orang lain, untuk mendapatkan kedudukan
+    dan pujian
+  en: who goes there, who walks between some persons on the left and the right
+  nl: wie gaat daar ginds, die tusschen eenige personen links en rechts loopt
+etymology: ''
+related_words: []
+dialect_notes: ''
+source: 'K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage: Martinus Nijhoff, voor het
+  Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië, 1889, hlm. 7'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+language_uncertain: false
+modern_spelling: apit
+extraction_notes: Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each
+  headword); not AI-generated. Indonesian and English were produced by machine translation of van Langen's
+  Dutch (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl` for verification;
+  the rendering is not from the source and needs a human check. Part of speech not stated in the source;
+  left blank.

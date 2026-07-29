@@ -1,22 +1,32 @@
-headword: teb-tob
-jawi: ''
-alt_spelling:
-- berkali-kali
+headword: tèb-tob
+jawi: تب
+alt_spelling: []
 ipa: ''
 part_of_speech: ''
 definitions:
-- meaning_id: tob n tiruan bunyi air yang menetes ke bawah
-  meaning_en: ''
-- meaning_id: memperdengarkan bunyi tob
-  meaning_en: ''
-examples: []
+- meaning_id: suara air menetes
+  meaning_en: sound of drip water
+  meaning_nl: geluid van druppelend water
+examples:
+- aceh: ijer tejoh h teb tob ban saboh rumh tiri
+  aceh_1889: ijèr tèdjoh òh tèb-tob ban saboh roemàh tiri
+  jawi: ''
+  id: air menetes dengan suara menetes, seolah-olah seluruh rumah bocor
+  en: the water drips with a dripping sound, as if the whole house is leaking
+  nl: het water druppelt met een druppelend geluid, alsof het geheele huis lek is
 etymology: ''
 related_words: []
 dialect_notes: ''
-source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
-  Pendidikan dan Kebudayaan, 1985, hlm. 949'
+source: 'K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage: Martinus Nijhoff, voor het
+  Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië, 1889, hlm. 55'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: 'English gloss left blank: no confident translation of the Indonesian definition was
-  available. Jawi left blank: the source is Latin-script only and no Jawi form is printed for this entry.
-  Part of speech not stated in the source; left blank.'
+language_uncertain: false
+modern_spelling: teb tob
+extraction_notes: Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each
+  headword); not AI-generated. `modern_spelling` “teb tob” is an AI-supplied transposition of the 1889
+  orthography (oe->u, dj->j, tj->c, nj->ny, ë->eu); it is NOT from the source and needs checking before
+  it is used to match the 1985 dictionary. Indonesian and English were produced by machine translation
+  of van Langen's Dutch (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl`
+  for verification; the rendering is not from the source and needs a human check. Part of speech not stated
+  in the source; left blank.

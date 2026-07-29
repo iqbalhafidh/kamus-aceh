@@ -1,17 +1,36 @@
 headword: bit
-jawi: ''
+jawi: ببت
 alt_spelling: []
 ipa: ''
 part_of_speech: ''
 definitions:
-- meaning_id: benar-benar
-  meaning_en: genuine, true
+- meaning_id: benar, dalam kebenaran, dalam keseriusan, memang
+  meaning_en: really, right, true, in truth, in seriousness, indeed, downright
+  meaning_nl: echt, juist, waar, in waarheid, in ernst, inderdaad, ronduit
+- meaning_id: chabar jang bit, sebuah berita nyata
+  meaning_en: chabar jang bit, a true news
+  meaning_nl: chabar jang bit, eene ware tijding
+- meaning_id: kēhēn bit - bit, berbicara terus terang
+  meaning_en: kēhēn bit-bit, speak frankly
+  meaning_nl: kēhēn bit-bit, spreek ronduit
+- meaning_id: dengan pi (= Mal adonan) bitpi terhubung dengan arti soenggoehpoen
+  meaning_en: with pi (= Mal. dough) connected bitpi with the meaning of soenggoehpoen
+  meaning_nl: met pi (= Mal. poen) verbonden heeft bitpi de beteekenis van soenggoehpoen
+- meaning_id: bitpi mēnan, sangat penting sehingga
+  meaning_en: bitpi mēnan, it is essential thus
+  meaning_nl: bitpi mēnan, het is wezenlijk aldus
 examples: []
 etymology: ''
 related_words: []
 dialect_notes: ''
-source: 'Daud, Bukhari & Mark Durie. Kamus Basa Acèh = Kamus Bahasa Aceh: Acehnese–Indonesian–English Thesaurus.
-  Pacific Linguistics C-151, 1999, p. 49.'
-date_added: '2026-07-20'
+source: 'K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage: Martinus Nijhoff, voor het
+  Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië, 1889, hlm. 48'
+date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: ''
+language_uncertain: false
+modern_spelling: bit
+extraction_notes: Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each
+  headword); not AI-generated. Indonesian and English were produced by machine translation of van Langen's
+  Dutch (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl` for verification;
+  the rendering is not from the source and needs a human check. Part of speech not stated in the source;
+  left blank.

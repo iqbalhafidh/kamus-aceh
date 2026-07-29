@@ -1,18 +1,42 @@
 headword: igien
-jawi: ''
-alt_spelling: []
+jawi: ایگین
+alt_spelling:
+- igiën
 ipa: ''
 part_of_speech: a
 definitions:
 - meaning_id: hemat sekali, membujuk
   meaning_en: very thrifty, to coax
-examples: []
+- meaning_id: ekonomis, hemat
+  meaning_en: economical, sparing
+  meaning_nl: zuinig, spaarzaam
+examples:
+- aceh: padum ik le ta igien jang gasin pane kaja
+  aceh_1889: padoem ik lé ta igiën jang gasin pané kaja
+  jawi: ''
+  id: (Atj)
+  en: (Atj)
+  nl: (Atj
+- aceh: spr hu zuinig ge ook zijt
+  aceh_1889: spr.) hoe zuinig ge ook zijt
+  jawi: ''
+  id: bagaimana bisa orang kaya miskin menjadi?
+  en: how can a poor rich be?
+  nl: hoe kan een arme rijk worden?
 etymology: ''
 related_words: []
 dialect_notes: ''
 source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
-  Pendidikan dan Kebudayaan, 1985, hlm. 306'
+  Pendidikan dan Kebudayaan, 1985, hlm. 306; K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage:
+  Martinus Nijhoff, voor het Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië,
+  1889, hlm. 23'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
 extraction_notes: 'Jawi left blank: the source is Latin-script only and no Jawi form is printed for this
-  entry.'
+  entry. | Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each headword);
+  not AI-generated. `modern_spelling` “igien” is an AI-supplied transposition of the 1889 orthography
+  (oe->u, dj->j, tj->c, nj->ny, ë->eu); it is NOT from the source and needs checking before it is used
+  to match the 1985 dictionary. Indonesian and English were produced by machine translation of van Langen''s
+  Dutch (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl` for verification;
+  the rendering is not from the source and needs a human check. Part of speech not stated in the source;
+  left blank.'

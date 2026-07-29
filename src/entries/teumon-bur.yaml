@@ -1,0 +1,32 @@
+headword: tëmon boer
+jawi: ''
+alt_spelling: []
+ipa: ''
+part_of_speech: ''
+definitions:
+- meaning_id: makanan untuk nasi
+  meaning_en: food for the rice
+  meaning_nl: toespijs bij de rijst
+examples:
+- aceh: pueeu na teumon bur
+  aceh_1889: poëë na tëmon boer
+  jawi: ''
+  id: apa jenis makanan yang ada dengan beras?
+  en: what kind of food is there with the rice?
+  nl: wat voor toespijs is er bij de rijst?
+etymology: ''
+related_words: []
+dialect_notes: ''
+source: 'K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage: Martinus Nijhoff, voor het
+  Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië, 1889, hlm. 65'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+language_uncertain: false
+modern_spelling: teumon bur
+extraction_notes: 'Homonym II in the source (printed as a numeral before the headword). Jawi left blank:
+  no Jawi form is printed for this entry. `modern_spelling` “teumon bur” is an AI-supplied transposition
+  of the 1889 orthography (oe->u, dj->j, tj->c, nj->ny, ë->eu); it is NOT from the source and needs checking
+  before it is used to match the 1985 dictionary. Indonesian and English were produced by machine translation
+  of van Langen''s Dutch (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl`
+  for verification; the rendering is not from the source and needs a human check. Part of speech not stated
+  in the source; left blank.'

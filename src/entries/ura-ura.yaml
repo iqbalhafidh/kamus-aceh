@@ -1,22 +1,32 @@
-headword: ura-ura
-jawi: ''
+headword: oera-oera
+jawi: اورا
 alt_spelling: []
 ipa: ''
-part_of_speech: v
+part_of_speech: ''
 definitions:
-- meaning_id: mempertimbangkan, memperhatikan, memikir-mikirkan, mereka-reka
-  meaning_en: to consider, to pay attention to, to ponder, to contrive
+- meaning_id: perasaan
+  meaning_en: feeling
+  meaning_nl: meening, gevoelen
 examples:
-- aceh: baranggapeue buet ta ura-ura dilèe
+- aceh: bak ura-ura lun ji na ji cemecuwer
+  aceh_1889: bak oera-oera loen dji na dji tjèmètjoewèr
   jawi: ''
-  id: Setiap hal haruslah direka-reka terlebih dahulu
-  en: ''
+  id: sejauh yang aku tahu, dia yang mencuri
+  en: as far as I'm concerned, it's he who stole
+  nl: naar mijne meening is hij het, die gestolen heeft
 etymology: ''
 related_words: []
 dialect_notes: ''
-source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
-  Pendidikan dan Kebudayaan, 1985, hlm. 1047'
+source: 'K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage: Martinus Nijhoff, voor het
+  Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië, 1889, hlm. 15'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: 'Jawi left blank: the source is Latin-script only and no Jawi form is printed for this
-  entry.'
+language_uncertain: false
+modern_spelling: ura-ura
+extraction_notes: Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each
+  headword); not AI-generated. `modern_spelling` “ura-ura” is an AI-supplied transposition of the 1889
+  orthography (oe->u, dj->j, tj->c, nj->ny, ë->eu); it is NOT from the source and needs checking before
+  it is used to match the 1985 dictionary. Indonesian and English were produced by machine translation
+  of van Langen's Dutch (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl`
+  for verification; the rendering is not from the source and needs a human check. Part of speech not stated
+  in the source; left blank.

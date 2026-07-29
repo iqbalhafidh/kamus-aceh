@@ -1,7 +1,8 @@
 headword: jungka
-jawi: ''
+jawi: جوغکا
 alt_spelling:
 - n
+- djoengka
 ipa: ''
 part_of_speech: n
 definitions:
@@ -9,6 +10,15 @@ definitions:
   meaning_en: jaw, bone jaw
 - meaning_id: jungka jôk benang-benang sabut pada bagian bawah pe-
   meaning_en: the fibrous threads at the lower part
+- meaning_id: tulang ayam
+  meaning_en: cockbone
+  meaning_nl: kakebeen
+- meaning_id: zat berbulu fibrous dari arén-palm yang satu menghasilkan di Copias Pedir, disebut copi
+    djoengka djoek sinonim dengan Riman
+  meaning_en: the hairy fibrous substance of the arén-palm of which one produces in Pedir copias, called
+    copia djoengka djoek Synonymous with riman
+  meaning_nl: de haarachtige vezelachtige zelfstandigheid van de arén-palm waarvan men in Pedir kopia's
+    vervaardigt, die kopia djoengka djoek heeten. Synoniem met riman
 examples: []
 etymology: ''
 related_words:
@@ -16,11 +26,25 @@ related_words:
 - héng
 dialect_notes: ''
 source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
-  Pendidikan dan Kebudayaan, 1985, hlm. 355'
+  Pendidikan dan Kebudayaan, 1985, hlm. 355; K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage:
+  Martinus Nijhoff, voor het Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië,
+  1889, hlm. 86'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
 extraction_notes: 'Homonym 1 in the source (printed as a superscript numeral before the headword). Jawi
   left blank: the source is Latin-script only and no Jawi form is printed for this entry. | Homonym 2
   in the source (printed as a superscript numeral before the headword). Jawi left blank: the source is
   Latin-script only and no Jawi form is printed for this entry. Part of speech not stated in the source;
-  left blank.'
+  left blank. | Homonym I in the source (printed as a numeral before the headword). Jawi copied verbatim
+  from the printed source (van Langen prints the Jawi form for each headword); not AI-generated. `modern_spelling`
+  “jungka” is an AI-supplied transposition of the 1889 orthography (oe->u, dj->j, tj->c, nj->ny, ë->eu);
+  it is NOT from the source and needs checking before it is used to match the 1985 dictionary. Indonesian
+  and English were produced by machine translation of van Langen''s Dutch (Dutch→English→Indonesian, OPUS-MT).
+  The Dutch original is kept in `meaning_nl`/`nl` for verification; the rendering is not from the source
+  and needs a human check. Part of speech not stated in the source; left blank. | Homonym II in the source
+  (printed as a numeral before the headword). Jawi left blank: no Jawi form is printed for this entry.
+  `modern_spelling` “jungka” is an AI-supplied transposition of the 1889 orthography (oe->u, dj->j, tj->c,
+  nj->ny, ë->eu); it is NOT from the source and needs checking before it is used to match the 1985 dictionary.
+  Indonesian and English were produced by machine translation of van Langen''s Dutch (Dutch→English→Indonesian,
+  OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl` for verification; the rendering is not from
+  the source and needs a human check. Part of speech not stated in the source; left blank.'

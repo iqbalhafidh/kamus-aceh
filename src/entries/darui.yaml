@@ -1,28 +1,32 @@
-headword: darui
-jawi: دروي
+headword: daroei
+jawi: داروى
 alt_spelling: []
 ipa: ''
-part_of_speech: v
+part_of_speech: ''
 definitions:
-- meaning_id: mempedulikan sesuatu, menghiraukan sesuatu
-  meaning_en: caring about something, ignoring something
-  examples:
-  - aceh: peue
-    jawi: ''
-    id: ''
-    en: ''
-  - aceh: gata
-    jawi: ''
-    id: '? Apa peduli Anda?'
-    en: to slim down
-  - aceh: ban dua ho hana
-    jawi: ''
-    id: pd kedua belah pihak mereka tidak menghiraukan
-    en: on both sides they ignored each other
+- meaning_id: perawatan, terlibat
+  meaning_en: care, engage
+  meaning_nl: schelen, aangaan
+examples:
+- aceh: puee darui gata
+  aceh_1889: poëe daroei gata
+  jawi: ''
+  id: apa artinya bagimu?
+  en: what's it to you?
+  nl: wat gaat het U aan?
 etymology: ''
 related_words: []
 dialect_notes: ''
-source: Kamus Aceh-Indonesia (Acehnese-Indonesian Dictionary), p. 160
+source: 'K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage: Martinus Nijhoff, voor het
+  Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië, 1889, hlm. 107'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate reviewer.
+language_uncertain: false
+modern_spelling: darui
+extraction_notes: Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each
+  headword); not AI-generated. `modern_spelling` “darui” is an AI-supplied transposition of the 1889 orthography
+  (oe->u, dj->j, tj->c, nj->ny, ë->eu); it is NOT from the source and needs checking before it is used
+  to match the 1985 dictionary. Indonesian and English were produced by machine translation of van Langen's
+  Dutch (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl` for verification;
+  the rendering is not from the source and needs a human check. Part of speech not stated in the source;
+  left blank.

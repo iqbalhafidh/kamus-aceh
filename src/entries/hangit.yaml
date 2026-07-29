@@ -1,0 +1,30 @@
+headword: hangit
+jawi: هاغيت
+alt_spelling: []
+ipa: ''
+part_of_speech: ''
+definitions:
+- meaning_id: keringat, sesuatu keringat
+  meaning_en: a sweat, something of sweat
+  meaning_nl: een zweetreuk, iets van zweetlucht hebbende
+examples:
+- aceh: allah hangit tehat bee reuh gata
+  aceh_1889: allah hangit tēhat bēe rēoeh gata
+  jawi: ''
+  id: Allah, apa keringat Anda?
+  en: Allah, what is the sweat of your sweat?
+  nl: Allah, wat heeft uw zweet een erge zweetlucht
+etymology: ''
+related_words: []
+dialect_notes: ''
+source: 'K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage: Martinus Nijhoff, voor het
+  Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië, 1889, hlm. 279'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+language_uncertain: false
+modern_spelling: hangit
+extraction_notes: Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each
+  headword); not AI-generated. Indonesian and English were produced by machine translation of van Langen's
+  Dutch (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl` for verification;
+  the rendering is not from the source and needs a human check. Part of speech not stated in the source;
+  left blank.

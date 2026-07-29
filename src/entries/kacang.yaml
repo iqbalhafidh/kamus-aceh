@@ -1,11 +1,18 @@
 headword: kacang
-jawi: ''
-alt_spelling: []
+jawi: كاچغ
+alt_spelling:
+- katjang
 ipa: ''
 part_of_speech: n
 definitions:
 - meaning_id: kacang (hanya dikatakan untuk jenis-jenis berikut ini)
   meaning_en: bean (only word for kinds to follow this)
+- meaning_id: 'di Acehers hanya diketahui dalam senyawa: katjang kelisa, buah kacang segitiga dan katjang
+    parang, bunga-bunga yang dikonsumsi sebagai sajor, tetapi buah tidak dapat dimakan'
+  meaning_en: 'at Acehers only known in the compounds: katjang kelisa, the triangular pea fruit and katjang
+    parang, the flowers of which are consumed as sajor, but the fruit is inedible'
+  meaning_nl: 'bij Atjehers alleen bekend in de verbindingen: katjang kelisa, de driehoekige peulvrucht
+    en katjang parang, waarvan de bloemen als sajor worden genuttigd, doch de vrucht oneetbaar is'
 examples:
 - aceh: guda
   jawi: ''
@@ -44,8 +51,16 @@ related_words:
 - reuteuek
 dialect_notes: ''
 source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
-  Pendidikan dan Kebudayaan, 1985, hlm. 362'
+  Pendidikan dan Kebudayaan, 1985, hlm. 362; K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage:
+  Martinus Nijhoff, voor het Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië,
+  1889, hlm. 199'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
 extraction_notes: 'Jawi left blank: the source is Latin-script only and no Jawi form is printed for this
-  entry.'
+  entry. | Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each headword);
+  not AI-generated. `modern_spelling` “kacang” is an AI-supplied transposition of the 1889 orthography
+  (oe->u, dj->j, tj->c, nj->ny, ë->eu); it is NOT from the source and needs checking before it is used
+  to match the 1985 dictionary. Indonesian and English were produced by machine translation of van Langen''s
+  Dutch (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl` for verification;
+  the rendering is not from the source and needs a human check. Part of speech not stated in the source;
+  left blank.'

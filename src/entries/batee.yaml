@@ -1,0 +1,44 @@
+headword: batée
+jawi: باتو
+alt_spelling: []
+ipa: ''
+part_of_speech: ''
+definitions:
+- meaning_id: batu, batu bijih
+  meaning_en: stone, rock ore
+  meaning_nl: steen, rots erts
+- meaning_id: batée ijër, batu bergulir di sungai
+  meaning_en: batée ijër, rolling stones in the rivers
+  meaning_nl: batée ijër, rolsteenen in de rivieren
+- meaning_id: batée neman, batu-batu, ditempatkan di atas dan bawah kuburan
+  meaning_en: batée nisan, the stones, placed at the top and bottom of a grave
+  meaning_nl: batée nisan, de steenen, die men aan het hoofd- en beneden-einde van een graf plaatst
+- meaning_id: batée pipis, batu, untuk menggosok sesuatu yang baik
+  meaning_en: batée pipis, a stone, to rub something fine
+  meaning_nl: batée pipis, een steen, om iets fijn te wrijven
+- meaning_id: batée apoei atau bëdil, blint
+  meaning_en: batée apoei or bëdil, flint
+  meaning_nl: batée apoei of bëdil, vuursteen
+- meaning_id: batée oedjoë, touchstone
+  meaning_en: batée oedjoë, touchstone
+  meaning_nl: batée oedjoë, toetssteen
+- meaning_id: batée timah, potongan timah, melekat ke jaring, tenggelam mereka
+  meaning_en: batée timah, pieces of lead, attached to the nets, to sink them
+  meaning_nl: batée timah, stukjes lood, die men aan de netten bevestigt, om ze te doen zinken
+examples: []
+etymology: ''
+related_words: []
+dialect_notes: ''
+source: 'K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage: Martinus Nijhoff, voor het
+  Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië, 1889, hlm. 25'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+language_uncertain: false
+modern_spelling: batee
+extraction_notes: Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each
+  headword); not AI-generated. `modern_spelling` “batee” is an AI-supplied transposition of the 1889 orthography
+  (oe->u, dj->j, tj->c, nj->ny, ë->eu); it is NOT from the source and needs checking before it is used
+  to match the 1985 dictionary. Indonesian and English were produced by machine translation of van Langen's
+  Dutch (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl` for verification;
+  the rendering is not from the source and needs a human check. Part of speech not stated in the source;
+  left blank.

@@ -1,0 +1,42 @@
+headword: isim
+jawi: اسم
+alt_spelling: []
+ipa: ''
+part_of_speech: ''
+definitions:
+- meaning_id: nama (Allah)
+  meaning_en: name (of Allah)
+  meaning_nl: naam (van Allah)
+examples:
+- aceh: de  isims zijn hier  allah
+  aceh_1889: 'de 3 isims zijn hier: 1°. Allah'
+  jawi: ''
+  id: 2 °
+  en: 2°
+  nl: 2°
+- aceh: rahman
+  aceh_1889: rahman
+  jawi: ''
+  id: 3 °
+  en: 3°
+  nl: 3°
+- aceh: isims worden ook de gebeden genumd
+  aceh_1889: isims worden ook de gebeden genoemd
+  jawi: ''
+  id: yang di dalamnya Allah mengeluarkan nama-nama (malaikat) dari surga
+  en: wherein Allah's names appear
+  nl: waarin Allah's namen voorkomen
+etymology: ''
+related_words: []
+dialect_notes: ''
+source: 'K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage: Martinus Nijhoff, voor het
+  Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië, 1889, hlm. 5'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+language_uncertain: false
+modern_spelling: isim
+extraction_notes: Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each
+  headword); not AI-generated. Indonesian and English were produced by machine translation of van Langen's
+  Dutch (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl` for verification;
+  the rendering is not from the source and needs a human check. Part of speech not stated in the source;
+  left blank.

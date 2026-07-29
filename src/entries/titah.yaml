@@ -2,23 +2,34 @@ headword: titah
 jawi: ''
 alt_spelling: []
 ipa: ''
-part_of_speech: n
+part_of_speech: ''
 definitions:
-- meaning_id: titah, perkataan, perintah, sabda (raja), firman Allah
-  meaning_en: royal command, speech, order, divine utterance (king), divine word God
-- meaning_id: menitahkan
-  meaning_en: to command
+- meaning_id: perintah, beban
+  meaning_en: command, burden, orders
+  meaning_nl: bevel, last, bevelen, gelasten
 examples:
-- aceh: pakri nyang titah taseuon, pakri nyang tijoh tatheun
+- aceh: pakri jang titah taseun
+  aceh_1889: pakri jang titah tasēoen
   jawi: ''
-  id: bagaimana yg dititahkan kita junjung
-  en: ''
+  id: pakri jang tidjoh tatēhēn, (Atj)
+  en: pakri jang tidjoh tatēhēn, (Atj)
+  nl: pakri jang tidjoh tatēhēn, (Atj
+- aceh: spreekw wat er bevolen wordt
+  aceh_1889: spreekw.) wat er bevolen wordt
+  jawi: ''
+  id: apa kita mengikuti apa yang menetes, kita menerima balasan?
+  en: do we follow what is dripping, we receive [?]
+  nl: volgen wij[?] op, wat er druppelt, vangen wij[?] op
 etymology: ''
 related_words: []
 dialect_notes: ''
-source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
-  Pendidikan dan Kebudayaan, 1985, hlm. 990'
+source: 'K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage: Martinus Nijhoff, voor het
+  Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië, 1889, hlm. 74'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: 'Jawi left blank: the source is Latin-script only and no Jawi form is printed for this
-  entry.'
+language_uncertain: false
+modern_spelling: titah
+extraction_notes: 'Jawi left blank: no Jawi form is printed for this entry. Indonesian and English were
+  produced by machine translation of van Langen''s Dutch (Dutch→English→Indonesian, OPUS-MT). The Dutch
+  original is kept in `meaning_nl`/`nl` for verification; the rendering is not from the source and needs
+  a human check. Part of speech not stated in the source; left blank.'

@@ -1,30 +1,30 @@
 headword: dagang
-jawi: ''
-alt_spelling:
-- aneuk
-- ureueng
+jawi: داغچ
+alt_spelling: []
 ipa: ''
 part_of_speech: ''
 definitions:
-- meaning_id: —, orang asing, orang Keling
-  meaning_en: ''
-examples:
-- aceh: meu -
-  jawi: ''
-  id: bepergian ke luar kampung utk belajar ilmu agama
-  en: ''
-- aceh: ureueng -
-  jawi: ''
-  id: seseorang yg pergi ke daerah lain utk belajar ilmu agama, orang asing, pelajar
-  en: ''
+- meaning_id: orang asing, seorang pria perjalanan mencari nafkah
+  meaning_en: stranger, a traveling man looking for a living
+  meaning_nl: vreemdeling, iemand die rondreizende den kost zoekt
+- meaning_id: anēk dagang, warga negara asing
+  meaning_en: anēk dagang, foreign nationals
+  meaning_nl: anēk dagang, de vreemdelingen
+- meaning_id: mēdagang, tur
+  meaning_en: mēdagang, tours
+  meaning_nl: mēdagang, rondreizen
+examples: []
 etymology: ''
 related_words: []
 dialect_notes: ''
-source: 'Kamus Aceh-Indonesia (extracted from pp.124-270 of the source edition, Acehnese section entries
-  cèm-unyèn through gutie/H). File: markdown.md supplied by the user. — p.152'
+source: 'K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage: Martinus Nijhoff, voor het
+  Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië, 1889, hlm. 108'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: Part of speech not explicitly marked in source. Indonesian example translations are
-  taken verbatim from the source. English meanings and Jawi transliterations are AI-flagged as unverified
-  and need human review. Jawi transliteration is AI-generated, not from source — needs verification by
-  a Jawi-literate reviewer.
+language_uncertain: false
+modern_spelling: dagang
+extraction_notes: Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each
+  headword); not AI-generated. Indonesian and English were produced by machine translation of van Langen's
+  Dutch (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl` for verification;
+  the rendering is not from the source and needs a human check. Part of speech not stated in the source;
+  left blank.

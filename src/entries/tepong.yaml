@@ -1,0 +1,35 @@
+headword: tēpong
+jawi: تُفُوغ
+alt_spelling: []
+ipa: ''
+part_of_speech: ''
+definitions:
+- meaning_id: tepung dan makanan
+  meaning_en: flours and meals
+  meaning_nl: meel
+- meaning_id: 'sejenis tepung: tēpong brès bit, beras tepung'
+  meaning_en: 'kind of flour: tēpong brès bit, rice flour'
+  meaning_nl: 'soorten van meel: tēpong brès bit, rijstemeel'
+- meaning_id: tēpong lēkat, kētan tepung
+  meaning_en: tēpong lēkat, kētan flour
+  meaning_nl: tēpong lēkat, meel van kētan
+- meaning_id: tēpong gandoem, tepung sereal
+  meaning_en: tēpong gandoem, cereal flour
+  meaning_nl: tēpong gandoem, meel van graan
+examples: []
+etymology: ''
+related_words: []
+dialect_notes: ''
+source: 'K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage: Martinus Nijhoff, voor het
+  Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië, 1889, hlm. 61'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+language_uncertain: false
+modern_spelling: tepong
+extraction_notes: Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each
+  headword); not AI-generated. `modern_spelling` “tepong” is an AI-supplied transposition of the 1889
+  orthography (oe->u, dj->j, tj->c, nj->ny, ë->eu); it is NOT from the source and needs checking before
+  it is used to match the 1985 dictionary. Indonesian and English were produced by machine translation
+  of van Langen's Dutch (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl`
+  for verification; the rendering is not from the source and needs a human check. Part of speech not stated
+  in the source; left blank.

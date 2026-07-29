@@ -1,0 +1,29 @@
+headword: tjaboel
+jawi: چَايُوَل
+alt_spelling: []
+ipa: ''
+part_of_speech: ''
+definitions:
+- meaning_id: gagak, bersemangat, juga longgar, harimau mengaum dan hewan liar lainnya
+  meaning_en: raven, excited, also loose, roaring tigers and other wild animals
+  meaning_nl: geraas, uitgelaten, ook losbandig, brullen van tijgers en andere wilde dieren
+- meaning_id: nanggroi tjaboel, tempat yang longgar
+  meaning_en: nanggroi tjaboel, a loose-banded place
+  meaning_nl: nanggroi tjaboel, een losbandige plaats
+examples: []
+etymology: ''
+related_words: []
+dialect_notes: ''
+source: 'K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage: Martinus Nijhoff, voor het
+  Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië, 1889, hlm. 89'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+language_uncertain: false
+modern_spelling: cabul
+extraction_notes: Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each
+  headword); not AI-generated. `modern_spelling` “cabul” is an AI-supplied transposition of the 1889 orthography
+  (oe->u, dj->j, tj->c, nj->ny, ë->eu); it is NOT from the source and needs checking before it is used
+  to match the 1985 dictionary. Indonesian and English were produced by machine translation of van Langen's
+  Dutch (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl` for verification;
+  the rendering is not from the source and needs a human check. Part of speech not stated in the source;
+  left blank.

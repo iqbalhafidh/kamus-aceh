@@ -1,0 +1,28 @@
+headword: katoi
+jawi: كاتوي
+alt_spelling: []
+ipa: ''
+part_of_speech: n
+definitions:
+- meaning_id: nama dari berat dari seperseratus ayam. dalam Aceh 22 kati, 23 dan 24 tiang tikar berat
+  meaning_en: name of a weight of the hundredth of a cock. In Aceh the kati 22, 23 and 24 pillar mats
+    are heavy
+  meaning_nl: naam van een gewicht van het honderdste van een pikol. In Atjeh is de kati 22, 23 en 24
+    pilaarmatten zwaar
+- meaning_id: kati untuk menimbang kawat emas adalah 36 tikar pilar berat
+  meaning_en: the kati to weigh gold wire is 36 pillar mats heavy
+  meaning_nl: de kati om gouddraad te wegen is 36 pilaarmatten zwaar
+examples: []
+etymology: ''
+related_words: []
+dialect_notes: ''
+source: 'K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage: Martinus Nijhoff, voor het
+  Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië, 1889, hlm. 198'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+language_uncertain: false
+modern_spelling: katoi
+extraction_notes: Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each
+  headword); not AI-generated. Indonesian and English were produced by machine translation of van Langen's
+  Dutch (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl` for verification;
+  the rendering is not from the source and needs a human check.

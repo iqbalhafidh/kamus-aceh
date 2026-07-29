@@ -1,12 +1,25 @@
 headword: p'ieb
-jawi: ''
+jawi: فِيَبَ
 alt_spelling:
 - pueb
+- piëb
 ipa: ''
 part_of_speech: v
 definitions:
 - meaning_id: mengisap
   meaning_en: to suck
+- meaning_id: mengisap, merokok, geser
+  meaning_en: sucking, smoking, sliding
+  meaning_nl: zuigen, rooken, schuiven
+- meaning_id: piëb ibu, payudara mengisap
+  meaning_en: piëb mom, breast sucking
+  meaning_nl: piëb mom, aan de borst zuigen
+- meaning_id: piëb roekok, merokok cerutu
+  meaning_en: piëb roekok, smoking a cigar
+  meaning_nl: piëb roekok, een sigaar rooken
+- meaning_id: piëb tjandoe, opium geser
+  meaning_en: piëb tjandoe, opium sliding
+  meaning_nl: piëb tjandoe, opium schuiven
 examples:
 - aceh: ie ka jip'ieb lé tanoh
   jawi: ''
@@ -56,8 +69,16 @@ related_words:
 - sr'ieb
 dialect_notes: ''
 source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
-  Pendidikan dan Kebudayaan, 1985, hlm. 718'
+  Pendidikan dan Kebudayaan, 1985, hlm. 718; K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage:
+  Martinus Nijhoff, voor het Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië,
+  1889, hlm. 193'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
 extraction_notes: 'Jawi left blank: the source is Latin-script only and no Jawi form is printed for this
-  entry.'
+  entry. | Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each headword);
+  not AI-generated. `modern_spelling` “pieb” is an AI-supplied transposition of the 1889 orthography (oe->u,
+  dj->j, tj->c, nj->ny, ë->eu); it is NOT from the source and needs checking before it is used to match
+  the 1985 dictionary. Indonesian and English were produced by machine translation of van Langen''s Dutch
+  (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl` for verification;
+  the rendering is not from the source and needs a human check. Part of speech not stated in the source;
+  left blank.'

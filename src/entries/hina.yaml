@@ -1,11 +1,17 @@
 headword: hina
-jawi: ''
+jawi: هينا
 alt_spelling: []
 ipa: ''
 part_of_speech: a
 definitions:
 - meaning_id: hina, rendah
   meaning_en: lowly, despicable, low
+- meaning_id: kecil, miskin, menyedihkan, berarti
+  meaning_en: small, poor, miserable, mean
+  meaning_nl: gering, armoedig, ellendig, gemeen
+- meaning_id: hina Dina, rendah dan sengsara
+  meaning_en: hina dina, low and miserable
+  meaning_nl: hina dina, laag en ellendig
 examples:
 - aceh: buet hina
   jawi: ''
@@ -27,8 +33,14 @@ etymology: ''
 related_words: []
 dialect_notes: ''
 source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
-  Pendidikan dan Kebudayaan, 1985, hlm. 291'
+  Pendidikan dan Kebudayaan, 1985, hlm. 291; K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage:
+  Martinus Nijhoff, voor het Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië,
+  1889, hlm. 285'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
 extraction_notes: 'Jawi left blank: the source is Latin-script only and no Jawi form is printed for this
-  entry.'
+  entry. | Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each headword);
+  not AI-generated. Indonesian and English were produced by machine translation of van Langen''s Dutch
+  (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl` for verification;
+  the rendering is not from the source and needs a human check. Part of speech not stated in the source;
+  left blank.'

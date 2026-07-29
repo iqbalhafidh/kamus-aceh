@@ -1,0 +1,47 @@
+headword: kēlat
+jawi: كلت
+alt_spelling: []
+ipa: ''
+part_of_speech: ''
+definitions:
+- meaning_id: wrang, aspengen
+  meaning_en: wrang, astringent
+  meaning_nl: wrang, samentrekkend
+- meaning_id: juga sejenis pohon dengan kayu keras dan merah
+  meaning_en: also a kind of tree with hard and red wood
+  meaning_nl: ook een soort van boom met hard en rood hout
+- meaning_id: digunakan untuk konstruksi rumah
+  meaning_en: used for house construction
+  meaning_nl: voor huisbouw gebezigd
+- meaning_id: lap, tali, terpasang ke sudut yang lebih rendah dari layar, melayani untuk ketegangan itu
+  meaning_en: lap, rope, attached to the lower corner of a sail, serving to tension it
+  meaning_nl: schoot, touw, aan den benedenhoek van een zeil vastgemaakt, dienende om het te spannen
+examples: []
+etymology: ''
+related_words: []
+dialect_notes: ''
+source: 'K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage: Martinus Nijhoff, voor het
+  Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië, 1889, hlm. 209'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+language_uncertain: false
+modern_spelling: kelat
+extraction_notes: 'Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each
+  headword); not AI-generated. `modern_spelling` “kelat” is an AI-supplied transposition of the 1889 orthography
+  (oe->u, dj->j, tj->c, nj->ny, ë->eu); it is NOT from the source and needs checking before it is used
+  to match the 1985 dictionary. Indonesian and English were produced by machine translation of van Langen''s
+  Dutch (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl` for verification;
+  the rendering is not from the source and needs a human check. Part of speech not stated in the source;
+  left blank. | Homonym II in the source (printed as a numeral before the headword). Jawi left blank:
+  no Jawi form is printed for this entry. `modern_spelling` “kelat” is an AI-supplied transposition of
+  the 1889 orthography (oe->u, dj->j, tj->c, nj->ny, ë->eu); it is NOT from the source and needs checking
+  before it is used to match the 1985 dictionary. Indonesian and English were produced by machine translation
+  of van Langen''s Dutch (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl`
+  for verification; the rendering is not from the source and needs a human check. Part of speech not stated
+  in the source; left blank. | Homonym III in the source (printed as a numeral before the headword). Jawi
+  left blank: no Jawi form is printed for this entry. `modern_spelling` “kelat” is an AI-supplied transposition
+  of the 1889 orthography (oe->u, dj->j, tj->c, nj->ny, ë->eu); it is NOT from the source and needs checking
+  before it is used to match the 1985 dictionary. Indonesian and English were produced by machine translation
+  of van Langen''s Dutch (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl`
+  for verification; the rendering is not from the source and needs a human check. Part of speech not stated
+  in the source; left blank.'

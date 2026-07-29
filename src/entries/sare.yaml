@@ -1,27 +1,32 @@
 headword: saré
-jawi: ''
-alt_spelling:
-- sarék
+jawi: ساری
+alt_spelling: []
 ipa: ''
-part_of_speech: a
+part_of_speech: ''
 definitions:
-- meaning_id: serupa, sama, rata, sama rata, semuanya tanpa perbedaan, seluruhnya
-  meaning_en: resembling, same, level, same level, all without difference, entirely
+- meaning_id: seperti, datar, polos
+  meaning_en: like, flat, plain
+  meaning_nl: gelijk, vlak, effen,
 examples:
-- aceh: tanoh nyan saré that
+- aceh: kajee nyoi sare teuhat jinyeuh
+  aceh_1889: kajée njoi saré tëhat djinjëh
   jawi: ''
-  id: Tanah itu rata sekali
-  en: ''
-- aceh: eungkōt nyan saré geuweuek
-  jawi: ''
-  id: Ikan itu dibagi
-  en: ''
+  id: kayu ini telah direncanakan sangat datar sinonim dengan rata
+  en: this wood has been planed very flat. Synonymously with rata
+  nl: dit hout heeft men zeer vlak geschaafd. Synoniem met rata
 etymology: ''
 related_words: []
 dialect_notes: ''
-source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
-  Pendidikan dan Kebudayaan, 1985, hlm. 847'
+source: 'K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage: Martinus Nijhoff, voor het
+  Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië, 1889, hlm. 137'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: 'Jawi left blank: the source is Latin-script only and no Jawi form is printed for this
-  entry.'
+language_uncertain: false
+modern_spelling: sare
+extraction_notes: Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each
+  headword); not AI-generated. `modern_spelling` “sare” is an AI-supplied transposition of the 1889 orthography
+  (oe->u, dj->j, tj->c, nj->ny, ë->eu); it is NOT from the source and needs checking before it is used
+  to match the 1985 dictionary. Indonesian and English were produced by machine translation of van Langen's
+  Dutch (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl` for verification;
+  the rendering is not from the source and needs a human check. Part of speech not stated in the source;
+  left blank.

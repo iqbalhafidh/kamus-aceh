@@ -1,17 +1,36 @@
 headword: bawang
-jawi: ''
+jawi: باوغ
 alt_spelling: []
 ipa: ''
 part_of_speech: ''
 definitions:
-- meaning_id: bawang
-  meaning_en: onion
+- meaning_id: bawang, lihat
+  meaning_en: onion, look
+  meaning_nl: ui, look
+- meaning_id: bawang poetih, bawang putih Cina
+  meaning_en: bawang poetih, white Chinese onion
+  meaning_nl: bawang poetih, witte chineesche ui
+- meaning_id: bawang mirah, shallots, bawang merah kecil
+  meaning_en: bawang mirah, shallots, small red onion
+  meaning_nl: bawang mirah, sjalotten, kleine roode ui
+- meaning_id: bawang Pia, bawang besar Bengal
+  meaning_en: bawang pia, large Bengal onion
+  meaning_nl: bawang pia, groote Bengaalsche ui
+- meaning_id: bawang sërë, bawang putih
+  meaning_en: bawang sërë, garlic
+  meaning_nl: bawang sërë, knoflook
 examples: []
 etymology: ''
 related_words: []
 dialect_notes: ''
-source: 'Daud, Bukhari & Mark Durie. Kamus Basa Acèh = Kamus Bahasa Aceh: Acehnese–Indonesian–English Thesaurus.
-  Pacific Linguistics C-151, 1999, p. 75.'
-date_added: '2026-07-20'
+source: 'K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage: Martinus Nijhoff, voor het
+  Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië, 1889, hlm. 29'
+date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: ''
+language_uncertain: false
+modern_spelling: bawang
+extraction_notes: Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each
+  headword); not AI-generated. Indonesian and English were produced by machine translation of van Langen's
+  Dutch (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl` for verification;
+  the rendering is not from the source and needs a human check. Part of speech not stated in the source;
+  left blank.

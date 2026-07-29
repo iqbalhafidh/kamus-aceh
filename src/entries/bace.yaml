@@ -1,0 +1,36 @@
+headword: batjé
+jawi: باجی
+alt_spelling: []
+ipa: ''
+part_of_speech: ''
+definitions:
+- meaning_id: spesies ikan ditemukan dalam air berlumpur, yang gaboes
+  meaning_en: a species of fish found in muddy water, the gaboes
+  meaning_nl: een soort visch, die in modderig water wordt aangetroffen, de gaboes
+- meaning_id: menjadi berani, berani, pintar, dll., tapi takut, kurang ajar
+  meaning_en: be brave, bold, clever, etc., but fearful, brazen
+  meaning_nl: binnen zijne landpalen moedig, brutaal, slim enz., doch daarbuiten vreesachtig, beschroomd,
+    enz. zijn
+examples: []
+etymology: ''
+related_words: []
+dialect_notes: ''
+source: 'K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage: Martinus Nijhoff, voor het
+  Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië, 1889, hlm. 25, 26'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+language_uncertain: false
+modern_spelling: bace
+extraction_notes: 'Homonym I in the source (printed as a numeral before the headword). Jawi copied verbatim
+  from the printed source (van Langen prints the Jawi form for each headword); not AI-generated. `modern_spelling`
+  “bace” is an AI-supplied transposition of the 1889 orthography (oe->u, dj->j, tj->c, nj->ny, ë->eu);
+  it is NOT from the source and needs checking before it is used to match the 1985 dictionary. Indonesian
+  and English were produced by machine translation of van Langen''s Dutch (Dutch→English→Indonesian, OPUS-MT).
+  The Dutch original is kept in `meaning_nl`/`nl` for verification; the rendering is not from the source
+  and needs a human check. Part of speech not stated in the source; left blank. | Homonym II in the source
+  (printed as a numeral before the headword). Jawi left blank: no Jawi form is printed for this entry.
+  `modern_spelling` “bace” is an AI-supplied transposition of the 1889 orthography (oe->u, dj->j, tj->c,
+  nj->ny, ë->eu); it is NOT from the source and needs checking before it is used to match the 1985 dictionary.
+  Indonesian and English were produced by machine translation of van Langen''s Dutch (Dutch→English→Indonesian,
+  OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl` for verification; the rendering is not from
+  the source and needs a human check. Part of speech not stated in the source; left blank.'

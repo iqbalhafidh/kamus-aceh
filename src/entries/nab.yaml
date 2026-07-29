@@ -1,11 +1,23 @@
 headword: nab
-jawi: ''
+jawi: نب
 alt_spelling: []
 ipa: ''
 part_of_speech: a
 definitions:
 - meaning_id: depan, di hadapan, bahagian muka, kemaluan wanita
   meaning_en: front, at face, portion face, ashamed women
+- meaning_id: sebelum
+  meaning_en: before
+  meaning_nl: voor
+- meaning_id: mati nab, dari depan
+  meaning_en: die nab, from the front
+  meaning_nl: di nab, van voren
+- meaning_id: bëroek nab, bagian perut untuk pubes ini bagian dari perut ditunjukkan dengan bëroek, topi
+    popper, karena kesepakatan dalam bentuk
+  meaning_en: bëroek nab, the part of the abdomen for the pubes This part of the belly is indicated with
+    bëroek, popper cap, because of the agreement in form
+  meaning_nl: bëroek nab, het gedeelte van den buik voor de schaamdeelen. Men duidt dit deel van den buik
+    met bëroek, klapperdop, aan wegens de overeenkomst in gedaante
 examples:
 - aceh: 'di nab, di hadapan: di nab mata'
   jawi: ''
@@ -23,8 +35,14 @@ etymology: ''
 related_words: []
 dialect_notes: ''
 source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
-  Pendidikan dan Kebudayaan, 1985, hlm. 624'
+  Pendidikan dan Kebudayaan, 1985, hlm. 624; K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage:
+  Martinus Nijhoff, voor het Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië,
+  1889, hlm. 271'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
 extraction_notes: 'Jawi left blank: the source is Latin-script only and no Jawi form is printed for this
-  entry.'
+  entry. | Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each headword);
+  not AI-generated. Indonesian and English were produced by machine translation of van Langen''s Dutch
+  (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl` for verification;
+  the rendering is not from the source and needs a human check. Part of speech not stated in the source;
+  left blank.'

@@ -1,17 +1,30 @@
 headword: bisan
-jawi: ''
+jawi: بيسان
 alt_spelling: []
 ipa: ''
 part_of_speech: ''
 definitions:
-- meaning_id: besan
-  meaning_en: in-law relationship between parents of a couple
+- meaning_id: yang berhubungan dengan orang tua, yang anak-anaknya menikah bersama-sama, juga dari saudara
+    dan saudari dari menikah
+  meaning_en: related, of parents, whose children are married together, also of the brothers and sisters
+    of the married
+  meaning_nl: aanverwant zijn, van ouders, wier kinderen samen gehuwd zijn, ook van de broeders en zusters
+    der gehuwden onderling
+- meaning_id: moebisan, cobalah untuk menjadi bisan
+  meaning_en: moebisan, try to become bisan
+  meaning_nl: moebisan, trachten bisan te worden
 examples: []
 etymology: ''
 related_words: []
 dialect_notes: ''
-source: 'Daud, Bukhari & Mark Durie. Kamus Basa Acèh = Kamus Bahasa Aceh: Acehnese–Indonesian–English Thesaurus.
-  Pacific Linguistics C-151, 1999, p. 14.'
-date_added: '2026-07-20'
+source: 'K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage: Martinus Nijhoff, voor het
+  Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië, 1889, hlm. 49'
+date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: ''
+language_uncertain: false
+modern_spelling: bisan
+extraction_notes: Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each
+  headword); not AI-generated. Indonesian and English were produced by machine translation of van Langen's
+  Dutch (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl` for verification;
+  the rendering is not from the source and needs a human check. Part of speech not stated in the source;
+  left blank.

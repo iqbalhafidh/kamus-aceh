@@ -1,0 +1,54 @@
+headword: tjoewëër
+jawi: چور
+alt_spelling: []
+ipa: ''
+part_of_speech: ''
+definitions:
+- meaning_id: mencuri
+  meaning_en: stealing
+  meaning_nl: stelen
+- meaning_id: tjëmëtjoewëër, mencuri
+  meaning_en: tjëmëtjoewëër, Stealing
+  meaning_nl: tjëmëtjoewëër, stelen
+- meaning_id: bagian dari sesuatu yang dibagi atau dipotong di lebih dari dua bagian
+  meaning_en: a part of something that is split or chopped in more than two parts
+  meaning_nl: een deel van iets, dat in meer dan twee deelen gespleten of gehakt is
+- meaning_id: satu kerang tunggal, di oetwater, yang satu makan isinya
+  meaning_en: a single shellfish, in oetwater, of which one eats its contents
+  meaning_nl: een eenschalig schelpdier, in zoetwater voorkomende, waarvan men den inhoud eet
+examples:
+- aceh: gata ke jang ceumeucuweur
+  aceh_1889: gata kè jang tjëmëtjoewëër
+  jawi: ''
+  id: kau membunuh orang yang mencuri
+  en: you're the one who stole
+  nl: gij zijt het die gestolen hebt
+etymology: ''
+related_words: []
+dialect_notes: ''
+source: 'K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage: Martinus Nijhoff, voor het
+  Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië, 1889, hlm. 98'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+language_uncertain: false
+modern_spelling: cuweur
+extraction_notes: 'Homonym I in the source (printed as a numeral before the headword). Jawi copied verbatim
+  from the printed source (van Langen prints the Jawi form for each headword); not AI-generated. `modern_spelling`
+  “cuweur” is an AI-supplied transposition of the 1889 orthography (oe->u, dj->j, tj->c, nj->ny, ë->eu);
+  it is NOT from the source and needs checking before it is used to match the 1985 dictionary. Indonesian
+  and English were produced by machine translation of van Langen''s Dutch (Dutch→English→Indonesian, OPUS-MT).
+  The Dutch original is kept in `meaning_nl`/`nl` for verification; the rendering is not from the source
+  and needs a human check. Part of speech not stated in the source; left blank. | Homonym II in the source
+  (printed as a numeral before the headword). Jawi left blank: no Jawi form is printed for this entry.
+  `modern_spelling` “cuweur” is an AI-supplied transposition of the 1889 orthography (oe->u, dj->j, tj->c,
+  nj->ny, ë->eu); it is NOT from the source and needs checking before it is used to match the 1985 dictionary.
+  Indonesian and English were produced by machine translation of van Langen''s Dutch (Dutch→English→Indonesian,
+  OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl` for verification; the rendering is not from
+  the source and needs a human check. Part of speech not stated in the source; left blank. | Homonym III
+  in the source (printed as a numeral before the headword). Jawi left blank: no Jawi form is printed for
+  this entry. `modern_spelling` “cuweur” is an AI-supplied transposition of the 1889 orthography (oe->u,
+  dj->j, tj->c, nj->ny, ë->eu); it is NOT from the source and needs checking before it is used to match
+  the 1985 dictionary. Indonesian and English were produced by machine translation of van Langen''s Dutch
+  (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl` for verification;
+  the rendering is not from the source and needs a human check. Part of speech not stated in the source;
+  left blank.'

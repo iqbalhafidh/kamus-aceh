@@ -1,0 +1,32 @@
+headword: sērak-sēroek
+jawi: سوق سوق
+alt_spelling: []
+ipa: ''
+part_of_speech: ''
+definitions:
+- meaning_id: kegelisahan, kekhawatiran
+  meaning_en: restlessness, concern
+  meaning_nl: onrust, zorg
+examples:
+- aceh: di gampong lun jinoi serak seruk tehat genab malam na oreng tamong
+  aceh_1889: di gampong loen djinoi sērak-sēroek tēhat gēnab malam na orēng tamong
+  jawi: ''
+  id: aku punya banyak perawatan di rawa sekarang, orang-orang datang setiap malam
+  en: i have a lot of care in the kampong now, people come in every night
+  nl: ik heb thans veel zorg in de kampong, iederen nacht komen er menschen binnen
+etymology: ''
+related_words: []
+dialect_notes: ''
+source: 'K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage: Martinus Nijhoff, voor het
+  Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië, 1889, hlm. 144'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+language_uncertain: false
+modern_spelling: serak seruk
+extraction_notes: Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each
+  headword); not AI-generated. `modern_spelling` “serak seruk” is an AI-supplied transposition of the
+  1889 orthography (oe->u, dj->j, tj->c, nj->ny, ë->eu); it is NOT from the source and needs checking
+  before it is used to match the 1985 dictionary. Indonesian and English were produced by machine translation
+  of van Langen's Dutch (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl`
+  for verification; the rendering is not from the source and needs a human check. Part of speech not stated
+  in the source; left blank.

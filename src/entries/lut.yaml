@@ -1,11 +1,15 @@
 headword: lut
-jawi: ''
-alt_spelling: []
+jawi: لوة
+alt_spelling:
+- loet
 ipa: ''
 part_of_speech: v
 definitions:
 - meaning_id: makan, dapat dilukai'
   meaning_en: eat, can wound
+- meaning_id: menarik keluar, menyerang, rentan, menyakiti
+  meaning_en: pulling out, invading, vulnerable, hurting
+  meaning_nl: uittrekken, indringen, kwetsbaar, kwetsen
 examples:
 - aceh: ék lut seukin nyoe tasie asoe?
   jawi: ''
@@ -19,12 +23,20 @@ examples:
   jawi: ''
   id: Walaupun ditetakkan atau ditusuk, ia tidak dapat dilukai juga. Ia sangat kebal
   en: Though hacked or stabbed he cannot be wounded; he is quite invulnerable
+- aceh: oreng nyoi han lut besoi
+  aceh_1889: orèng njoi han loet bèsoi
+  jawi: ''
+  id: orang ini tidak bisa terluka (tidak mengganggu) oleh besi
+  en: this man can't be hurt (not to intrude) by the iron
+  nl: deze man is niet te kwetsen (niet in te dringen) door het ijzer
 etymology: ''
 related_words:
 - pileut
 dialect_notes: ''
 source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
-  Pendidikan dan Kebudayaan, 1985, hlm. 562'
+  Pendidikan dan Kebudayaan, 1985, hlm. 562; K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage:
+  Martinus Nijhoff, voor het Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië,
+  1889, hlm. 241'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
 extraction_notes: 'Homonym 1 in the source (printed as a superscript numeral before the headword). Jawi
@@ -32,4 +44,10 @@ extraction_notes: 'Homonym 1 in the source (printed as a superscript numeral bef
   this only as a cross-reference (→ pileut); no independent definition is printed, so meaning fields are
   left blank rather than guessed. Homonym 2 in the source (printed as a superscript numeral before the
   headword). Jawi left blank: the source is Latin-script only and no Jawi form is printed for this entry.
-  Part of speech not stated in the source; left blank.'
+  Part of speech not stated in the source; left blank. | Jawi copied verbatim from the printed source
+  (van Langen prints the Jawi form for each headword); not AI-generated. `modern_spelling` “lut” is an
+  AI-supplied transposition of the 1889 orthography (oe->u, dj->j, tj->c, nj->ny, ë->eu); it is NOT from
+  the source and needs checking before it is used to match the 1985 dictionary. Indonesian and English
+  were produced by machine translation of van Langen''s Dutch (Dutch→English→Indonesian, OPUS-MT). The
+  Dutch original is kept in `meaning_nl`/`nl` for verification; the rendering is not from the source and
+  needs a human check. Part of speech not stated in the source; left blank.'

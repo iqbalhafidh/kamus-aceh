@@ -1,12 +1,16 @@
 headword: jeupat
-jawi: ''
+jawi: جفت
 alt_spelling:
 - ceupat
+- djëpat
 ipa: ''
 part_of_speech: v
 definitions:
 - meaning_id: memulas, memeras
   meaning_en: to twist, to squeeze
+- meaning_id: pembungkus
+  meaning_en: wrapping
+  meaning_nl: uitwringen
 examples:
 - aceh: ta jeupat ija bak thô
   jawi: ''
@@ -24,12 +28,26 @@ examples:
   jawi: ''
   id: terpulas, dipulas
   en: wrung, twisted
+- aceh: jeupat ijar bak teuhor
+  aceh_1889: djëpat idjar bak tëhor
+  jawi: ''
+  id: kerut kanvas sampai kering sinonim dengan tjëpat
+  en: wrinkles the canvas until it is dry. Synonym with tjëpat
+  nl: wringt het kleed uit tot dat het droog is. Synoniem met tjëpat
 etymology: ''
 related_words: []
 dialect_notes: ''
 source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
-  Pendidikan dan Kebudayaan, 1985, hlm. 342'
+  Pendidikan dan Kebudayaan, 1985, hlm. 342; K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage:
+  Martinus Nijhoff, voor het Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië,
+  1889, hlm. 82'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
 extraction_notes: 'Jawi left blank: the source is Latin-script only and no Jawi form is printed for this
-  entry.'
+  entry. | Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each headword);
+  not AI-generated. `modern_spelling` “jeupat” is an AI-supplied transposition of the 1889 orthography
+  (oe->u, dj->j, tj->c, nj->ny, ë->eu); it is NOT from the source and needs checking before it is used
+  to match the 1985 dictionary. Indonesian and English were produced by machine translation of van Langen''s
+  Dutch (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl` for verification;
+  the rendering is not from the source and needs a human check. Part of speech not stated in the source;
+  left blank.'

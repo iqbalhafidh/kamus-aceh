@@ -1,0 +1,33 @@
+headword: gantoi
+jawi: کَنْتُی
+alt_spelling: []
+ipa: ''
+part_of_speech: ''
+definitions:
+- meaning_id: mengambil tempat, menggantikan, menebus, berhasil
+  meaning_en: take the place of, replace, redeem, succeed
+  meaning_nl: de plaats innemen van, vervangen, aflossen, opvolgen
+- meaning_id: mègantoi, swap dengan, diganti oleh
+  meaning_en: mègantoi, swap with, be replaced by
+  meaning_nl: mègantoi, verwisselen met, vervangen worden door
+- meaning_id: mègantoi-gantoi, pada gilirannya
+  meaning_en: mègantoi-gantoi, in turn
+  meaning_nl: mègantoi-gantoi, bij beurten
+- meaning_id: gènantoi, pengganti, penebusan, penerus
+  meaning_en: gènantoi, replacement, redeemer, successor
+  meaning_nl: gènantoi, vervanger, aflosser, opvolger
+examples: []
+etymology: ''
+related_words: []
+dialect_notes: ''
+source: 'K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage: Martinus Nijhoff, voor het
+  Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië, 1889, hlm. 228'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+language_uncertain: false
+modern_spelling: gantoi
+extraction_notes: Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each
+  headword); not AI-generated. Indonesian and English were produced by machine translation of van Langen's
+  Dutch (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl` for verification;
+  the rendering is not from the source and needs a human check. Part of speech not stated in the source;
+  left blank.

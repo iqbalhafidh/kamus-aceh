@@ -1,5 +1,5 @@
 headword: rimbang
-jawi: ''
+jawi: رِغْمِيغ
 alt_spelling: []
 ipa: ''
 part_of_speech: n
@@ -12,15 +12,31 @@ definitions:
   meaning_en: fruit green smalls
 - meaning_id: dapat di-
   meaning_en: can at
-- meaning_id: sejenis tanaman terong
-  meaning_en: a kind of plant aubergine
+- meaning_id: permainan bola dimainkan oleh anak-anak dengan tangan dan kaki, bola yang terbuat dari kancing
+  meaning_en: a ball game played by children with hands and feet, the balls of which are made up of studs
+  meaning_nl: een door kinderen met handen en voeten gespeeld balspel, waarvan de ballen uit klapperdoppen
+    bestaan
+- meaning_id: '{Y: i} pohon ooft, dengan buah dapat dimakan hijau'
+  meaning_en: an ooft tree, with green edible fruit
+  meaning_nl: een ooftboom, met groene eetbare vruchten
 examples: []
 etymology: ''
 related_words: []
 dialect_notes: ''
 source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
-  Pendidikan dan Kebudayaan, 1985, hlm. 806'
+  Pendidikan dan Kebudayaan, 1985, hlm. 806; K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage:
+  Martinus Nijhoff, voor het Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië,
+  1889, hlm. 133'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
 extraction_notes: 'Homonym 2 in the source (printed as a superscript numeral before the headword). Jawi
-  left blank: the source is Latin-script only and no Jawi form is printed for this entry.'
+  left blank: the source is Latin-script only and no Jawi form is printed for this entry. | Homonym I
+  in the source (printed as a numeral before the headword). Jawi copied verbatim from the printed source
+  (van Langen prints the Jawi form for each headword); not AI-generated. Indonesian and English were produced
+  by machine translation of van Langen''s Dutch (Dutch→English→Indonesian, OPUS-MT). The Dutch original
+  is kept in `meaning_nl`/`nl` for verification; the rendering is not from the source and needs a human
+  check. Part of speech not stated in the source; left blank. | Homonym II in the source (printed as a
+  numeral before the headword). Jawi left blank: no Jawi form is printed for this entry. Indonesian and
+  English were produced by machine translation of van Langen''s Dutch (Dutch→English→Indonesian, OPUS-MT).
+  The Dutch original is kept in `meaning_nl`/`nl` for verification; the rendering is not from the source
+  and needs a human check. Part of speech not stated in the source; left blank.'

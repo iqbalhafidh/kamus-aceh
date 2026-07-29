@@ -1,19 +1,52 @@
 headword: adat
-jawi: ''
-alt_spelling: []
+jawi: ادت
+alt_spelling:
+- âdat
 ipa: ''
 part_of_speech: ''
 definitions:
-- meaning_id: adat
-  meaning_en: custom
-- meaning_id: adat
-  meaning_en: custom, traditions
+- meaning_id: jika, atau
+  meaning_en: if, or
+  meaning_nl: als, indien, of
+- meaning_id: adat mënan, seperti itu
+  meaning_en: adat mënan, like that
+  meaning_nl: adat mënan, zooals dat
+- meaning_id: adat mënoi, seperti ini
+  meaning_en: adat mënoi, like this
+  meaning_nl: adat mënoi, zooals dit
+- meaning_id: adat djid, jika itu terjadi
+  meaning_en: adat djid, if it happens
+  meaning_nl: adat djid, als het gebeurt
+- meaning_id: adat han, jika tidak
+  meaning_en: adat han, if not
+  meaning_nl: adat han, als het niet zoo is
+- meaning_id: adat, penggunaan, institusi leluhur, hukum adat
+  meaning_en: custom, use, ancestral institutions, customary law
+  meaning_nl: gewoonte, gebruik, voorvaderlijke instellingen, gewoonterecht
+- meaning_id: tašadat, untuk membuat adat, untuk membuat kebiasaan
+  meaning_en: tapšadat, to make adat, to make habit
+  meaning_nl: tapšâdat, tot adat maken, tot gewoonte maken
+- meaning_id: adat istiadat, memberikan kebiasaan kekuatan hukum
+  meaning_en: adat istiadat, giving the habit force of law
+  meaning_nl: âdat istiâdat, de gewoonte kracht van wet geven
 examples: []
 etymology: ''
 related_words: []
 dialect_notes: ''
-source: 'Daud, Bukhari & Mark Durie. Kamus Basa Acèh = Kamus Bahasa Aceh: Acehnese–Indonesian–English Thesaurus.
-  Pacific Linguistics C-151, 1999, p. 16; p. 21.'
-date_added: '2026-07-20'
+source: 'K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage: Martinus Nijhoff, voor het
+  Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië, 1889, hlm. 3, 169'
+date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: ''
+language_uncertain: false
+modern_spelling: adat
+extraction_notes: Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each
+  headword); not AI-generated. Indonesian and English were produced by machine translation of van Langen's
+  Dutch (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl` for verification;
+  the rendering is not from the source and needs a human check. Part of speech not stated in the source;
+  left blank. | Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each
+  headword); not AI-generated. `modern_spelling` “adat” is an AI-supplied transposition of the 1889 orthography
+  (oe->u, dj->j, tj->c, nj->ny, ë->eu); it is NOT from the source and needs checking before it is used
+  to match the 1985 dictionary. Indonesian and English were produced by machine translation of van Langen's
+  Dutch (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl` for verification;
+  the rendering is not from the source and needs a human check. Part of speech not stated in the source;
+  left blank.

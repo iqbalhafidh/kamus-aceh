@@ -1,24 +1,32 @@
-headword: tuwi
-jawi: ''
-alt_spelling:
-- tui
+headword: toewi
+jawi: توى
+alt_spelling: []
 ipa: ''
-part_of_speech: n
+part_of_speech: ''
 definitions:
-- meaning_id: lubuk
-  meaning_en: deep pool
-- meaning_id: tempat yang dalam (dalam sungai)
-  meaning_en: ''
-- meaning_id: pusaran air
-  meaning_en: water whirl
-examples: []
+- meaning_id: kedalaman atau datang ke sungai
+  meaning_en: depth or come into a river
+  meaning_nl: diepte of kom in eene rivier
+examples:
+- aceh: sruj lam tuwi mate
+  aceh_1889: sroedj lam toewi maté
+  jawi: ''
+  id: jatuh ke kedalaman dan mati sinonim dengan loeboek
+  en: fall into a depth and die. Synonymous with loeboek
+  nl: in een diepte vallen en sterven. Synoniem met loeboek
 etymology: ''
-related_words:
-- takwi
+related_words: []
 dialect_notes: ''
-source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
-  Pendidikan dan Kebudayaan, 1985, hlm. 1022'
+source: 'K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage: Martinus Nijhoff, voor het
+  Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië, 1889, hlm. 73'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: 'Jawi left blank: the source is Latin-script only and no Jawi form is printed for this
-  entry.'
+language_uncertain: false
+modern_spelling: tuwi
+extraction_notes: Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each
+  headword); not AI-generated. `modern_spelling` “tuwi” is an AI-supplied transposition of the 1889 orthography
+  (oe->u, dj->j, tj->c, nj->ny, ë->eu); it is NOT from the source and needs checking before it is used
+  to match the 1985 dictionary. Indonesian and English were produced by machine translation of van Langen's
+  Dutch (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl` for verification;
+  the rendering is not from the source and needs a human check. Part of speech not stated in the source;
+  left blank.

@@ -1,0 +1,38 @@
+headword: tēngēt
+jawi: تفت
+alt_spelling: []
+ipa: ''
+part_of_speech: ''
+definitions:
+- meaning_id: 'bodoh, mengantuk, juga: tidur, ketika menjadi beradab, sementara ēs lebih digunakan dalam
+    bahasa informal Tēngēt dikatakan kepala'
+  meaning_en: 'stupid, sleepy, also: sleeping, when being civilized, while ēs is more used in the informal
+    speaking language Tēngēt is said to be heads'
+  meaning_nl: 'dommelig, slaperig, ook: slapen, als men zich beschaafd uitdrukt, terwijl ēs meer in de
+    gemeenzame spreektaal wordt gebruikt. Tēngēt zegt men van hoofden'
+- meaning_id: tēngēt Indra, tidur cepat, tidur nyenyak Indra tidak muncul secara terpisah
+  meaning_en: tēngēt indra, fast sleep, steady slumber. Indra does not appear separately
+  meaning_nl: tēngēt indra, vast slapen, vast sluimeren. Indra komt niet afzonderlijk voor,
+examples:
+- aceh: paute pangsan tenget indra
+  aceh_1889: Pauté pangsan tēngēt indra
+  jawi: ''
+  id: es tidur tenang dan tegas
+  en: the frost slept quietly and firmly
+  nl: de vorst sliep rustig en vast
+etymology: ''
+related_words: []
+dialect_notes: ''
+source: 'K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage: Martinus Nijhoff, voor het
+  Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië, 1889, hlm. 60'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+language_uncertain: false
+modern_spelling: tenget
+extraction_notes: Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each
+  headword); not AI-generated. `modern_spelling` “tenget” is an AI-supplied transposition of the 1889
+  orthography (oe->u, dj->j, tj->c, nj->ny, ë->eu); it is NOT from the source and needs checking before
+  it is used to match the 1985 dictionary. Indonesian and English were produced by machine translation
+  of van Langen's Dutch (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl`
+  for verification; the rendering is not from the source and needs a human check. Part of speech not stated
+  in the source; left blank.

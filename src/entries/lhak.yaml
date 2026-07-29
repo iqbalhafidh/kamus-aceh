@@ -1,11 +1,24 @@
 headword: lhak
-jawi: ''
-alt_spelling: []
+jawi: لحق
+alt_spelling:
+- l'hak
 ipa: ''
 part_of_speech: n
 definitions:
 - meaning_id: sendi, memotong (pada sendi)
   meaning_en: joint, to cut up (on joint)
+- meaning_id: bersama
+  meaning_en: joint
+  meaning_nl: gewricht
+- meaning_id: l'hak djaroi, sendi jari
+  meaning_en: l'hak djaroi, finger joint
+  meaning_nl: l'hak djaroi, vingergewricht
+- meaning_id: l'hak tèoet, sendi lutut
+  meaning_en: l'hak tèoet, knee joint
+  meaning_nl: l'hak tèoet, kniegewricht
+- meaning_id: l'hak gaki, voetgewricht
+  meaning_en: l'hak gaki, voetgewricht
+  meaning_nl: l'hak gaki, voetgewricht
 examples: []
 etymology: ''
 related_words:
@@ -13,7 +26,9 @@ related_words:
 - ceulak
 dialect_notes: ''
 source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
-  Pendidikan dan Kebudayaan, 1985, hlm. 533, 534'
+  Pendidikan dan Kebudayaan, 1985, hlm. 533, 534; K. F. H. van Langen. Woordenboek der Atjehsche Taal.
+  ''s-Gravenhage: Martinus Nijhoff, voor het Koninklijk Instituut voor de Taal-, Land- en Volkenkunde
+  van Nederlandsch-Indië, 1889, hlm. 238'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
 extraction_notes: 'Homonym 1 in the source (printed as a superscript numeral before the headword). Jawi
@@ -21,4 +36,8 @@ extraction_notes: 'Homonym 1 in the source (printed as a superscript numeral bef
   this only as a cross-reference (→ ceulak); no independent definition is printed, so meaning fields are
   left blank rather than guessed. Homonym 2 in the source (printed as a superscript numeral before the
   headword). Jawi left blank: the source is Latin-script only and no Jawi form is printed for this entry.
-  Part of speech not stated in the source; left blank.'
+  Part of speech not stated in the source; left blank. | Jawi copied verbatim from the printed source
+  (van Langen prints the Jawi form for each headword); not AI-generated. Indonesian and English were produced
+  by machine translation of van Langen''s Dutch (Dutch→English→Indonesian, OPUS-MT). The Dutch original
+  is kept in `meaning_nl`/`nl` for verification; the rendering is not from the source and needs a human
+  check. Part of speech not stated in the source; left blank.'

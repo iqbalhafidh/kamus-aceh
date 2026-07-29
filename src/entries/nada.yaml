@@ -1,6 +1,7 @@
 headword: nada
-jawi: ''
-alt_spelling: []
+jawi: نداق
+alt_spelling:
+- nadaḳ
 ipa: ''
 part_of_speech: ''
 definitions:
@@ -8,6 +9,9 @@ definitions:
   meaning_en: vow
 - meaning_id: miat
   meaning_en: ''
+- meaning_id: sekarat, kejang terakhir dari sekarat
+  meaning_en: dying, the last convulsions of a dying
+  meaning_nl: op sterven liggen, de laatste stuiptrekkingen van een stervende
 examples:
 - aceh: lôn bak teungku di Kuala siidang bu kunyêt, Saya bernazar pd teungku di Kuala se-idang
   jawi: ''
@@ -26,7 +30,9 @@ related_words:
 - nadra
 dialect_notes: ''
 source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
-  Pendidikan dan Kebudayaan, 1985, hlm. 625'
+  Pendidikan dan Kebudayaan, 1985, hlm. 625; K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage:
+  Martinus Nijhoff, voor het Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië,
+  1889, hlm. 271'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
 extraction_notes: 'Homonym 1 in the source (printed as a superscript numeral before the headword). Jawi
@@ -34,4 +40,11 @@ extraction_notes: 'Homonym 1 in the source (printed as a superscript numeral bef
   not stated in the source; left blank. | Source gives this only as a cross-reference (→ nadra); no independent
   definition is printed, so meaning fields are left blank rather than guessed. Homonym 2 in the source
   (printed as a superscript numeral before the headword). Jawi left blank: the source is Latin-script
-  only and no Jawi form is printed for this entry. Part of speech not stated in the source; left blank.'
+  only and no Jawi form is printed for this entry. Part of speech not stated in the source; left blank.
+  | Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each headword);
+  not AI-generated. `modern_spelling` “nada” is an AI-supplied transposition of the 1889 orthography (oe->u,
+  dj->j, tj->c, nj->ny, ë->eu); it is NOT from the source and needs checking before it is used to match
+  the 1985 dictionary. Indonesian and English were produced by machine translation of van Langen''s Dutch
+  (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl` for verification;
+  the rendering is not from the source and needs a human check. Part of speech not stated in the source;
+  left blank.'

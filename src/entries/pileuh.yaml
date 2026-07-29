@@ -1,0 +1,31 @@
+headword: pilëh
+jawi: فِييلَه
+alt_spelling: []
+ipa: ''
+part_of_speech: ''
+definitions:
+- meaning_id: sebuah spesies ayam
+  meaning_en: a chicken species
+  meaning_nl: een kippensoort
+- meaning_id: 'manok pileh, pileh ayam jenis ayam: pilëh anëk djoek, pilëh sangkaloi dan pilëh awo moeda'
+  meaning_en: 'manok pileh, pileh chickens. Kind of chickens are: pilëh anëk djoek, pilëh sangkaloi and
+    pilëh awo moeda'
+  meaning_nl: 'manok pileh, pilehkippen. Soorten van die kippen zijn: pilëh anëk djoek, pilëh sangkaloi
+    en pilëh awo moeda'
+examples: []
+etymology: ''
+related_words: []
+dialect_notes: ''
+source: 'K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage: Martinus Nijhoff, voor het
+  Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië, 1889, hlm. 195'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+language_uncertain: false
+modern_spelling: pileuh
+extraction_notes: Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each
+  headword); not AI-generated. `modern_spelling` “pileuh” is an AI-supplied transposition of the 1889
+  orthography (oe->u, dj->j, tj->c, nj->ny, ë->eu); it is NOT from the source and needs checking before
+  it is used to match the 1985 dictionary. Indonesian and English were produced by machine translation
+  of van Langen's Dutch (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl`
+  for verification; the rendering is not from the source and needs a human check. Part of speech not stated
+  in the source; left blank.

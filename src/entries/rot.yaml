@@ -1,22 +1,31 @@
 headword: rot
-jawi: ''
-alt_spelling: []
+jawi: رُوت
+alt_spelling:
+- rét
 ipa: ''
 part_of_speech: ''
-definitions: []
-examples: []
+definitions:
+- meaning_id: makan, makan makanan dari hewan
+  meaning_en: eating, eating food from animals
+  meaning_nl: vreten, voedsel nuttigen van dieren
+examples:
+- aceh: guda rot naleng
+  aceh_1889: goeda rot nalēng
+  jawi: ''
+  id: kuda makan rumput
+  en: the horse eats grass
+  nl: het paard vreet gras
 etymology: ''
-related_words:
-- srot
-- ret
+related_words: []
 dialect_notes: ''
-source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
-  Pendidikan dan Kebudayaan, 1985, hlm. 815'
+source: 'K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage: Martinus Nijhoff, voor het
+  Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië, 1889, hlm. 128'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: 'Source gives this only as a cross-reference (→ srot); no independent definition is
-  printed, so meaning fields are left blank rather than guessed. Jawi left blank: the source is Latin-script
-  only and no Jawi form is printed for this entry. Part of speech not stated in the source; left blank.
-  | Source gives this only as a cross-reference (→ ret); no independent definition is printed, so meaning
-  fields are left blank rather than guessed. Jawi left blank: the source is Latin-script only and no Jawi
-  form is printed for this entry. Part of speech not stated in the source; left blank.'
+language_uncertain: false
+modern_spelling: rot
+extraction_notes: Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each
+  headword); not AI-generated. Indonesian and English were produced by machine translation of van Langen's
+  Dutch (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl` for verification;
+  the rendering is not from the source and needs a human check. Part of speech not stated in the source;
+  left blank.

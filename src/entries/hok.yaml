@@ -1,0 +1,31 @@
+headword: hok
+jawi: هق
+alt_spelling: []
+ipa: ''
+part_of_speech: ''
+definitions:
+- meaning_id: mëhok-hok, luka berat dan dalam
+  meaning_en: mëhok-hok, heavy and deep wounds
+  meaning_nl: mëhok-hok, zwaar en diep verwonden
+examples:
+- aceh: meuhok hok luka nya' man bak beutis
+  aceh_1889: mëhok-hok loeka Nja' Man bak bëtis
+  jawi: ''
+  id: nja' Man berat dan terluka parah di tulang keringnya itu juga disebut mëhak-hak dan mëhek-hëk
+  en: nja' Man is heavily and deeply wounded in his tibia. It is also called mëhak-hak and mëhek-hëk
+  nl: Nja' Man is zwaar en diep in zijn scheenbeen verwond. Men spreekt ook wel mëhak-hak en mëhek-hëk
+    uit
+etymology: ''
+related_words: []
+dialect_notes: ''
+source: 'K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage: Martinus Nijhoff, voor het
+  Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië, 1889, hlm. 280'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+language_uncertain: false
+modern_spelling: hok
+extraction_notes: Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each
+  headword); not AI-generated. Indonesian and English were produced by machine translation of van Langen's
+  Dutch (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl` for verification;
+  the rendering is not from the source and needs a human check. Part of speech not stated in the source;
+  left blank.

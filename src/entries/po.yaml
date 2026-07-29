@@ -1,11 +1,23 @@
 headword: po
-jawi: ''
+jawi: قُو
 alt_spelling: []
 ipa: ''
 part_of_speech: v
 definitions:
 - meaning_id: terbang
   meaning_en: to fly
+- meaning_id: pangeran, kepala
+  meaning_en: prince, Head
+  meaning_nl: vorst, prins, hoofd
+- meaning_id: patjoet, pangeran kecil, judul yang diberikan kepada para pangeran dari House of Atjhs,
+    lahir dari pernikahan seorang putri dengan seorang pria yang tidak pangeran
+  meaning_en: patjoet, the little prince, a title given to the princes of the House of Atjehs, born out
+    of the marriage of a princess with a not princely man
+  meaning_nl: patjoet, de kleine prins, een titel, die aan de prinsen van het Atjehsche vorstenhuis, voortgesproten
+    uit het huwelijk eener prinses met een niet vorstelijk manspersoon, wordt gegeven
+- meaning_id: pemilik, tuan dari sesuatu, sama seperti Mal ampoenja
+  meaning_en: owner, lord of something, same as the Mal. ampoenja
+  meaning_nl: bezitter, eigenaar, heer van iets zijn, hetzelfde als het Mal. ampoenja
 examples:
 - aceh: ba po, membawa terbang, menerbangkan, keureu-taih ka jiba po, ka jipupo lé jipupo lé angèn
   jawi: ''
@@ -15,12 +27,24 @@ examples:
   jawi: ''
   id: pergi ke sawah menaikkan layang-layang
   en: ''
+- aceh: soi po kitab
+  aceh_1889: soi po kitab
+  jawi: ''
+  id: buku siapa ini?
+  en: whose book is this?
+  nl: wiens boek is dit?
 etymology: ''
 related_words: []
 dialect_notes: ''
 source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
-  Pendidikan dan Kebudayaan, 1985, hlm. 733'
+  Pendidikan dan Kebudayaan, 1985, hlm. 733; K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage:
+  Martinus Nijhoff, voor het Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië,
+  1889, hlm. 188'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
 extraction_notes: 'Homonym 2 in the source (printed as a superscript numeral before the headword). Jawi
-  left blank: the source is Latin-script only and no Jawi form is printed for this entry.'
+  left blank: the source is Latin-script only and no Jawi form is printed for this entry. | Jawi copied
+  verbatim from the printed source (van Langen prints the Jawi form for each headword); not AI-generated.
+  Indonesian and English were produced by machine translation of van Langen''s Dutch (Dutch→English→Indonesian,
+  OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl` for verification; the rendering is not from
+  the source and needs a human check. Part of speech not stated in the source; left blank.'

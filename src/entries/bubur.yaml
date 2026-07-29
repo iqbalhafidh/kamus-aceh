@@ -1,0 +1,37 @@
+headword: boeboer
+jawi: بوہور
+alt_spelling: []
+ipa: ''
+part_of_speech: ''
+definitions:
+- meaning_id: sebuah nangka buah dengan minggu daging
+  meaning_en: a nangka fruit with week meat
+  meaning_nl: een nangka-vrucht met week vleesch
+examples:
+- aceh: pantun de nangka vrukht met week vleeskh
+  aceh_1889: pantoen) de nangka-vrucht met week vleesch
+  jawi: ''
+  id: berperingkat di atas nampan, terasa, di tempat itu saya juga menyentuh mereka, lemah; (mengapa)
+    saya telah mengambil kembali uang saya dan membawa pulang. (pantoen ini digunakan, jika seseorang
+    tahu untuk melakukan perzinahan dengan seorang wanita tua)
+  en: ranked on the tray, feels, in that place I also touch them, weak; (why) I have taken back my money
+    and brought home. (This pantoen is used, if one finds out to do adultery with an old woman)
+  nl: gerangschikt op het presenteerblad, voelt, op welke plaats ik ze ook aanraak, week aan; (waarom)
+    ik mijn geld heb teruggenomen en huiswaarts gebracht. (Deze pantoen wordt gebezigd, indien men bij
+    het bedrijven van overspel bemerkt met eene oude vrouw te doen te hebben)
+etymology: ''
+related_words: []
+dialect_notes: ''
+source: 'K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage: Martinus Nijhoff, voor het
+  Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië, 1889, hlm. 41'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+language_uncertain: false
+modern_spelling: bubur
+extraction_notes: Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each
+  headword); not AI-generated. `modern_spelling` “bubur” is an AI-supplied transposition of the 1889 orthography
+  (oe->u, dj->j, tj->c, nj->ny, ë->eu); it is NOT from the source and needs checking before it is used
+  to match the 1985 dictionary. Indonesian and English were produced by machine translation of van Langen's
+  Dutch (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl` for verification;
+  the rendering is not from the source and needs a human check. Part of speech not stated in the source;
+  left blank.

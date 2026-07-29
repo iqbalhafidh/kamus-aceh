@@ -1,0 +1,38 @@
+headword: lëpas
+jawi: لُغَس
+alt_spelling: []
+ipa: ''
+part_of_speech: ''
+definitions:
+- meaning_id: masa lalu, bebas, sudah, siap, setelah, dilakukan
+  meaning_en: past, free, already, prepared, after, done
+  meaning_nl: voorbij, vrij, reeds, bereids, na, afgedaan
+- meaning_id: pos--ride- lëpas, telah berbicara atau mengatakan
+  meaning_en: lëpas post-ride, already spoken or told
+  meaning_nl: lëpas na-rit, reeds gesproken of verhaald hebben
+- meaning_id: lëpas boewët, selesai bekerja
+  meaning_en: lëpas boewët, done working
+  meaning_nl: lëpas boewët, gedaan hebben met werken
+examples:
+- aceh: kaleupas geujak
+  aceh_1889: kalëpas gëdjak
+  jawi: ''
+  id: apa dia pergi dengan sukarela?
+  en: did he leave willingly?
+  nl: is hij bereids op weg gegaan?
+etymology: ''
+related_words: []
+dialect_notes: ''
+source: 'K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage: Martinus Nijhoff, voor het
+  Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië, 1889, hlm. 240'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+language_uncertain: false
+modern_spelling: leupas
+extraction_notes: Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each
+  headword); not AI-generated. `modern_spelling` “leupas” is an AI-supplied transposition of the 1889
+  orthography (oe->u, dj->j, tj->c, nj->ny, ë->eu); it is NOT from the source and needs checking before
+  it is used to match the 1985 dictionary. Indonesian and English were produced by machine translation
+  of van Langen's Dutch (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl`
+  for verification; the rendering is not from the source and needs a human check. Part of speech not stated
+  in the source; left blank.

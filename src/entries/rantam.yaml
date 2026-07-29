@@ -1,5 +1,5 @@
 headword: rantam
-jawi: ''
+jawi: رانتم
 alt_spelling:
 - reuntam
 ipa: ''
@@ -9,6 +9,12 @@ definitions:
   meaning_en: ''
 - meaning_id: bual, omong kosong, besar cakap
   meaning_en: boasting, empty talk, big speech
+- meaning_id: dengan banyak melakukan atau melakukan sesuatu, jumlah bersama-sama
+  meaning_en: with his many doing or doing something, a sum together
+  meaning_nl: met zijn velen iets doen of ondernemen, gezamenlijk eene som bijeenbrengen
+- meaning_id: tjrèk dan rèpoen sinonim
+  meaning_en: tjrèk and rèpoen synonymize
+  meaning_nl: keuvelen, babbelen. Synoniem met tjrèk en rèpoen
 examples:
 - aceh: peue tapeugah sabe di sinoe lagee ureueng rantam keubeue pijuet
   jawi: ''
@@ -19,9 +25,20 @@ etymology: ''
 related_words: []
 dialect_notes: ''
 source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
-  Pendidikan dan Kebudayaan, 1985, hlm. 778'
+  Pendidikan dan Kebudayaan, 1985, hlm. 778; K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage:
+  Martinus Nijhoff, voor het Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië,
+  1889, hlm. 121'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
 extraction_notes: 'English gloss left blank: no confident translation of the Indonesian definition was
   available. Jawi left blank: the source is Latin-script only and no Jawi form is printed for this entry.
-  | Jawi left blank: the source is Latin-script only and no Jawi form is printed for this entry.'
+  | Jawi left blank: the source is Latin-script only and no Jawi form is printed for this entry. | Homonym
+  I in the source (printed as a numeral before the headword). Jawi copied verbatim from the printed source
+  (van Langen prints the Jawi form for each headword); not AI-generated. Indonesian and English were produced
+  by machine translation of van Langen''s Dutch (Dutch→English→Indonesian, OPUS-MT). The Dutch original
+  is kept in `meaning_nl`/`nl` for verification; the rendering is not from the source and needs a human
+  check. Part of speech not stated in the source; left blank. | Homonym II in the source (printed as a
+  numeral before the headword). Jawi left blank: no Jawi form is printed for this entry. Indonesian and
+  English were produced by machine translation of van Langen''s Dutch (Dutch→English→Indonesian, OPUS-MT).
+  The Dutch original is kept in `meaning_nl`/`nl` for verification; the rendering is not from the source
+  and needs a human check. Part of speech not stated in the source; left blank.'

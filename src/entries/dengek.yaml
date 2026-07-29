@@ -1,0 +1,32 @@
+headword: dêngêk
+jawi: دغبق
+alt_spelling: []
+ipa: ''
+part_of_speech: ''
+definitions:
+- meaning_id: tak berpenghuni
+  meaning_en: uninhabited
+  meaning_nl: onbewoond
+examples:
+- aceh: rumah nyan singab tehat oreng hana medengek meng sidroi
+  aceh_1889: roemâh njan singab têhat orêng hana médêngêk mêng sidroi
+  jawi: ''
+  id: rumah ini sangat sepi, tidak dihuni oleh siapa pun
+  en: this house is very lonely, it's not inhabited by anyone
+  nl: dit huis is zeer eenzaam, het is door niemand bewoond
+etymology: ''
+related_words: []
+dialect_notes: ''
+source: 'K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage: Martinus Nijhoff, voor het
+  Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië, 1889, hlm. 111'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+language_uncertain: false
+modern_spelling: dengek
+extraction_notes: Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each
+  headword); not AI-generated. `modern_spelling` “dengek” is an AI-supplied transposition of the 1889
+  orthography (oe->u, dj->j, tj->c, nj->ny, ë->eu); it is NOT from the source and needs checking before
+  it is used to match the 1985 dictionary. Indonesian and English were produced by machine translation
+  of van Langen's Dutch (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl`
+  for verification; the rendering is not from the source and needs a human check. Part of speech not stated
+  in the source; left blank.

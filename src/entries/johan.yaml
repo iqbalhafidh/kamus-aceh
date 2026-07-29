@@ -1,9 +1,13 @@
 headword: jôhan
-jawi: ''
-alt_spelling: []
+jawi: جوهى
+alt_spelling:
+- djohan
 ipa: ''
 part_of_speech: ''
-definitions: []
+definitions:
+- meaning_id: dan juga gelar Atj pangeran
+  meaning_en: hero [?] Also in titles of Atj. princes
+  meaning_nl: held [?] Ook in titels van Atj. vorsten
 examples: []
 etymology: ''
 related_words:
@@ -11,7 +15,9 @@ related_words:
 - juhang
 dialect_notes: ''
 source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
-  Pendidikan dan Kebudayaan, 1985, hlm. 347'
+  Pendidikan dan Kebudayaan, 1985, hlm. 347; K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage:
+  Martinus Nijhoff, voor het Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië,
+  1889, hlm. 88'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
 extraction_notes: 'Source gives this only as a cross-reference (→ juhan); no independent definition is
@@ -19,4 +25,10 @@ extraction_notes: 'Source gives this only as a cross-reference (→ juhan); no i
   only and no Jawi form is printed for this entry. Part of speech not stated in the source; left blank.
   | Source gives this only as a cross-reference (→ juhang); no independent definition is printed, so meaning
   fields are left blank rather than guessed. Jawi left blank: the source is Latin-script only and no Jawi
-  form is printed for this entry. Part of speech not stated in the source; left blank.'
+  form is printed for this entry. Part of speech not stated in the source; left blank. | Jawi copied verbatim
+  from the printed source (van Langen prints the Jawi form for each headword); not AI-generated. `modern_spelling`
+  “johan” is an AI-supplied transposition of the 1889 orthography (oe->u, dj->j, tj->c, nj->ny, ë->eu);
+  it is NOT from the source and needs checking before it is used to match the 1985 dictionary. Indonesian
+  and English were produced by machine translation of van Langen''s Dutch (Dutch→English→Indonesian, OPUS-MT).
+  The Dutch original is kept in `meaning_nl`/`nl` for verification; the rendering is not from the source
+  and needs a human check. Part of speech not stated in the source; left blank.'

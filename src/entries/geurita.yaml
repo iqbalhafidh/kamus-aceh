@@ -1,14 +1,25 @@
-headword: geurita
-jawi: ڬريتا
+headword: gërita
+jawi: كُرْيَتَا
 alt_spelling: []
 ipa: ''
-part_of_speech: ''
-definitions: []
+part_of_speech: n
+definitions:
+- meaning_id: dengan udang
+  meaning_en: of a kind of sea creature, with shrimps
+  meaning_nl: een soort van zeedier, van vangarmen voorzien
+examples: []
 etymology: ''
-related_words:
-- grita
+related_words: []
 dialect_notes: ''
-source: Kamus Aceh-Indonesia (Acehnese-Indonesian Dictionary), p. 234
+source: 'K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage: Martinus Nijhoff, voor het
+  Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië, 1889, hlm. 225'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: Cross-reference entry pointing to 'grita'. Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate reviewer.
+language_uncertain: false
+modern_spelling: geurita
+extraction_notes: Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each
+  headword); not AI-generated. `modern_spelling` “geurita” is an AI-supplied transposition of the 1889
+  orthography (oe->u, dj->j, tj->c, nj->ny, ë->eu); it is NOT from the source and needs checking before
+  it is used to match the 1985 dictionary. Indonesian and English were produced by machine translation
+  of van Langen's Dutch (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl`
+  for verification; the rendering is not from the source and needs a human check.

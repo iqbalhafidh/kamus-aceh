@@ -1,0 +1,42 @@
+headword: toel
+jawi: تول
+alt_spelling: []
+ipa: ''
+part_of_speech: ''
+definitions:
+- meaning_id: 'balok ekstrim, yang membentuk kerangka di lebar rumah. Atj literal terjemahan: di sisi
+    lain dari kerangka satu adalah bekerja untuk memperketat benang, di sisi ini salah satu berbalik sisi,
+    suami saya yang cantik datang ke sini, saya bersumpah sehingga Anda bisa kembali segera. dan ketika
+    dia memasuki rumah: Poetik pisang kēlat, djantong pisang noe, nē-ik lēpoeh tēngkoe radja, seperti
+    tunas pisang kelat dan jantung pisang noe (terlihat), jadi masuklah dan tempatkan kau, pangeranku,
+    di kursi'
+  meaning_en: 'the extreme beams, which form the skeleton in the width of a house. Atj literal translation:
+    on the other side of the skeleton one is working to tighten yarn, on this side one is turning side,
+    my beautiful husband Come here, I made a vow so you could come back soon. And when he enters the house:
+    Poetik pisang kēlat, djantong pisang noe, nē-ik oe lēpoeh tēngkoe radja, like the bud of the pisang
+    kelat and the heart of the pisang noe (be visible), so enter and put you, my prince, on the seat'
+  meaning_nl: 'de uiterste balken, die het geraamte in de breedte van een huis vormen. Atj. pantoen, door
+    de vrouwen gezongen, als haar man van verre reizen terugkomt: bélah dēh toel gēgemampoei, bélah noi
+    toel gēsring soetra nanē-kēnoi djoedoe djēmaloi loen mēkaoēs bak rēdjang tēka, letterlijke vertaling:
+    aan de andere zijde van het huis-geraamte is men bezig garen te spannen, aan deze zijde is men bezig
+    zijde te draaien, mijn schoone echtgenoot, kom hier, ik heb een gelofte gedaan, opdat gij spoedig
+    mocht terugkomen. En als hij het huis binnentreedt: Poetik pisang kēlat, djantong pisang noe, nē-ik
+    oe lēpoeh tēngkoe radja, gelijk de knop van de pisang kelat en het hart van de pisang noe (zichtbaar
+    zijn), zoo treed binnen en zet u, mijn vorst, op de zitplaats neder'
+examples: []
+etymology: ''
+related_words: []
+dialect_notes: ''
+source: 'K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage: Martinus Nijhoff, voor het
+  Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië, 1889, hlm. 70'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+language_uncertain: false
+modern_spelling: tul
+extraction_notes: Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each
+  headword); not AI-generated. `modern_spelling` “tul” is an AI-supplied transposition of the 1889 orthography
+  (oe->u, dj->j, tj->c, nj->ny, ë->eu); it is NOT from the source and needs checking before it is used
+  to match the 1985 dictionary. Indonesian and English were produced by machine translation of van Langen's
+  Dutch (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl` for verification;
+  the rendering is not from the source and needs a human check. Part of speech not stated in the source;
+  left blank.

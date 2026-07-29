@@ -1,20 +1,35 @@
-headword: gulita
-jawi: ݢوليتا
-alt_spelling:
-- glap-gulita
+headword: goelita
+jawi: كوليتا
+alt_spelling: []
 ipa: ''
-part_of_speech: a
+part_of_speech: ''
 definitions:
-- meaning_id: 'gelap gulita, gelap sekali (dl hik): lôn pi sajan jiba keunan, seupôt h''an ban glapgulita, Saya pun ikut dibawanya, keadaan disana gelap-gulita'
-  meaning_en: ''
-  examples: []
+- meaning_id: jika begitu gelap, orang bisa melihat apa-apa
+  meaning_en: if it's so dark, one can't discern anything
+  meaning_nl: als 't zoo duister is, dat men niets meer onderscheiden kan
+- meaning_id: ketika angin menangis begitu berat bahwa seseorang dapat mendengar
+  meaning_en: when the wind cries so heavy that one can't hear
+  meaning_nl: als de wind zoo hevig huilt dat men niet hooren kan
+- meaning_id: ketika suara begitu berat bahwa seseorang tidak dapat memahami satu sama lain, pada umumnya,
+    ketika seseorang tidak dapat melihat atau mendengar dari satu alasan atau lain
+  meaning_en: when the noise is so heavy that one cannot understand one another, in general, when one
+    cannot see or hear from one reason or another
+  meaning_nl: als het rumoer zoo hevig is, dat men elkaar niet kan verstaan, in 't algemeen als men door
+    een of andere oorzaak zien noch hooren kan
+examples: []
 etymology: ''
-related_words:
-- glap
-- klam
-- seupôt
+related_words: []
 dialect_notes: ''
-source: Kamus Aceh-Indonesia (Acehnese-Indonesian Dictionary), p. 261
+source: 'K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage: Martinus Nijhoff, voor het
+  Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië, 1889, hlm. 230'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: 'Source lists variant spellings: glap-gulita. Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate reviewer. Some fields (English translations, Jawi) may be incomplete due to API rate limits during processing. Re-run the translation script to fill in missing fields.'
+language_uncertain: false
+modern_spelling: gulita
+extraction_notes: Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each
+  headword); not AI-generated. `modern_spelling` “gulita” is an AI-supplied transposition of the 1889
+  orthography (oe->u, dj->j, tj->c, nj->ny, ë->eu); it is NOT from the source and needs checking before
+  it is used to match the 1985 dictionary. Indonesian and English were produced by machine translation
+  of van Langen's Dutch (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl`
+  for verification; the rendering is not from the source and needs a human check. Part of speech not stated
+  in the source; left blank.

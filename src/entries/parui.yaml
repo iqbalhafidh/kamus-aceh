@@ -1,19 +1,32 @@
 headword: parui
-jawi: ''
-alt_spelling: []
+jawi: فاروي
+alt_spelling:
+- paroei
 ipa: ''
 part_of_speech: n
 definitions:
 - meaning_id: adik ipar (laki-laki atau perempuan)
   meaning_en: ''
+- meaning_id: adik laki-laki atau adik suami dan istri
+  meaning_en: younger brother or sister of husband and wife
+  meaning_nl: jongere broeder of zuster van echtgenoot en echtgenoote
 examples: []
 etymology: ''
 related_words:
 - teumuda
 dialect_notes: ''
 source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
-  Pendidikan dan Kebudayaan, 1985, hlm. 678'
+  Pendidikan dan Kebudayaan, 1985, hlm. 678; K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage:
+  Martinus Nijhoff, voor het Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië,
+  1889, hlm. 176'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
 extraction_notes: 'English gloss left blank: no confident translation of the Indonesian definition was
-  available. Jawi left blank: the source is Latin-script only and no Jawi form is printed for this entry.'
+  available. Jawi left blank: the source is Latin-script only and no Jawi form is printed for this entry.
+  | Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each headword);
+  not AI-generated. `modern_spelling` “parui” is an AI-supplied transposition of the 1889 orthography
+  (oe->u, dj->j, tj->c, nj->ny, ë->eu); it is NOT from the source and needs checking before it is used
+  to match the 1985 dictionary. Indonesian and English were produced by machine translation of van Langen''s
+  Dutch (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl` for verification;
+  the rendering is not from the source and needs a human check. Part of speech not stated in the source;
+  left blank.'

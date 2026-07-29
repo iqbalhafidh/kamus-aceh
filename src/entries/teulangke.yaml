@@ -1,18 +1,38 @@
-headword: teulangke
-jawi: ''
+headword: tëlangké
+jawi: تَلَاَغْكي
 alt_spelling: []
 ipa: ''
 part_of_speech: ''
-definitions: []
+definitions:
+- meaning_id: seorang pria meminta seorang gadis untuk menikah dengan seseorang
+  meaning_en: a male person asking a girl to marry someone
+  meaning_nl: een mannelijk persoon, die een meisje voor iemand ten huwelijk vraagt
+- meaning_id: djak tëlangké, dalam perjalanan untuk melaksanakan operasi itu
+  meaning_en: djak tëlangké, on his way to carry out that operation
+  meaning_nl: djak tëlangké, zich op weg begeven, om die handeling te verrichten
+- meaning_id: chop tëlangké, adalah persentase biasa jika mas kawin hanya 1 tahil mas besar, maka dia
+    akan menerima satu mas dia tidak pernah menerima kurang dari satu mas. sinonim dengan sëlangké
+  meaning_en: chop tëlangké, is the usual percentage, which is due to such a matchmaker (in the good sense)
+    of the wedding gift and per boengkal mas dowry is mas or f 2.50 If the dowry is only 1 tahil mas large,
+    then he will receive one mas. He never receives less than one mas. Synonymous with sëlangké
+  meaning_nl: hak tëlangké, is de gebruikelijke percentage, die een dergelijken koppelaar (in de goede
+    beteekenis) van de huwelijksgift toekomt en per boengkal mâs bruidschat 4 mâs of f 2.50 bedraagt.
+    Is de bruidschat slechts 1 tahil mâs groot, dan komt hem daarvan 1 mâs toe. Minder dan 1 mâs ontvangt
+    hij nimmer. Synoniem met sëlangké
 examples: []
 etymology: ''
-related_words:
-- seulangke
+related_words: []
 dialect_notes: ''
-source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
-  Pendidikan dan Kebudayaan, 1985, hlm. 960'
+source: 'K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage: Martinus Nijhoff, voor het
+  Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië, 1889, hlm. 63'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: 'Source gives this only as a cross-reference (→ seulangke); no independent definition
-  is printed, so meaning fields are left blank rather than guessed. Jawi left blank: the source is Latin-script
-  only and no Jawi form is printed for this entry. Part of speech not stated in the source; left blank.'
+language_uncertain: false
+modern_spelling: teulangke
+extraction_notes: Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each
+  headword); not AI-generated. `modern_spelling` “teulangke” is an AI-supplied transposition of the 1889
+  orthography (oe->u, dj->j, tj->c, nj->ny, ë->eu); it is NOT from the source and needs checking before
+  it is used to match the 1985 dictionary. Indonesian and English were produced by machine translation
+  of van Langen's Dutch (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl`
+  for verification; the rendering is not from the source and needs a human check. Part of speech not stated
+  in the source; left blank.

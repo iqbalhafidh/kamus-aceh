@@ -1,0 +1,36 @@
+headword: lawit
+jawi: لاويت
+alt_spelling: []
+ipa: ''
+part_of_speech: ''
+definitions:
+- meaning_id: lambat, lama
+  meaning_en: slow, long ago
+  meaning_nl: langzaam, lang geleden
+examples:
+- aceh: lawit teuhat buweut nyoi
+  aceh_1889: lawit tëhat boewët njoi
+  jawi: ''
+  id: sangat perlahan pekerjaan ini terjadi
+  en: very slowly this work happens
+  nl: zeer langzaam geschiedt dit werk
+- aceh: lawit dudoi ni bak nyan meowoil karangan ke paute raja
+  aceh_1889: lawit doedoi ni bak njan mèowoil karangan kè pauté radja
+  jawi: ''
+  id: lama setelah itu, jawabannya dikembalikan kepada Yang Mulia sang pangeran
+  en: long after that, the answer was returned to His Majesty the prince
+  nl: lang daarna gaf men het antwoord aan zijne Majesteit den vorst terug
+etymology: ''
+related_words: []
+dialect_notes: ''
+source: 'K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage: Martinus Nijhoff, voor het
+  Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië, 1889, hlm. 236'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+language_uncertain: false
+modern_spelling: lawit
+extraction_notes: Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each
+  headword); not AI-generated. Indonesian and English were produced by machine translation of van Langen's
+  Dutch (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl` for verification;
+  the rendering is not from the source and needs a human check. Part of speech not stated in the source;
+  left blank.

@@ -1,0 +1,35 @@
+headword: droinē
+jawi: دروین
+alt_spelling: []
+ipa: ''
+part_of_speech: ''
+definitions:
+- meaning_id: kau, secara pribadi. kata ganti. 2 pribadi. dan... dalam bahasa yang beradab. Orang kedua
+    juga diduduki oleh droitē dan Droikē Droinē melawan atasan dan orang tua droitē melawan orang dari
+    peringkat yang sama dalam bahasa informal Droikē melawan orang-orang kecil dan muda Berbicara tentang
+    kepala, mereka mengatakan tēkoe touan juga digunakan
+  meaning_en: you, personally. Pronoun. 2nd personal. And... in the civilized speaking language. The 2nd
+    person is also occupied by droitē and Droikē Droinē against superiors and elderly droitē against persons
+    of the same rank in the informal language Droikē against small and young people Speaking of heads,
+    they say tēkoe Touan is also used
+  meaning_nl: gij, pers. voornw. 2e pers. enk. in de beschaafde spreektaal gebezigd. Voor den 2en persoon
+    bezigt men ook droitē en droikē. Droinē tegen meerderen en ouderen. Droitē tegen personen van den
+    zelfden rang in de gemeenzame spreektaal. Droikē tegen geringen en jongeren. Van hoofden sprekende
+    zegt men tēkoe. Ook toean wordt gebezigd
+examples: []
+etymology: ''
+related_words: []
+dialect_notes: ''
+source: 'K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage: Martinus Nijhoff, voor het
+  Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië, 1889, hlm. 110'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+language_uncertain: false
+modern_spelling: droine
+extraction_notes: Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each
+  headword); not AI-generated. `modern_spelling` “droine” is an AI-supplied transposition of the 1889
+  orthography (oe->u, dj->j, tj->c, nj->ny, ë->eu); it is NOT from the source and needs checking before
+  it is used to match the 1985 dictionary. Indonesian and English were produced by machine translation
+  of van Langen's Dutch (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl`
+  for verification; the rendering is not from the source and needs a human check. Part of speech not stated
+  in the source; left blank.

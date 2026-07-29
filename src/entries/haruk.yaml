@@ -1,0 +1,32 @@
+headword: haroek
+jawi: هاروق
+alt_spelling: []
+ipa: ''
+part_of_speech: ''
+definitions:
+- meaning_id: dikatakan laut, ketika sangat bersemangat
+  meaning_en: is said of the sea, when it is very impetuous
+  meaning_nl: wordt van de zee gezegd, wanneer zij zeer onstuimig is
+examples:
+- aceh: haruk tehat laot hana metemeng eng kut
+  aceh_1889: haroek tēhat laot hana mētēmēng ēng-koet
+  jawi: ''
+  id: laut ini sangat sabar, kami belum mampu menangkap ikan
+  en: the sea is very impetuous, we have not been able to catch fish
+  nl: de zee is zeer onstuimig, wij hebben geen visch kunnen vangen
+etymology: ''
+related_words: []
+dialect_notes: ''
+source: 'K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage: Martinus Nijhoff, voor het
+  Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië, 1889, hlm. 279'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+language_uncertain: false
+modern_spelling: haruk
+extraction_notes: Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each
+  headword); not AI-generated. `modern_spelling` “haruk” is an AI-supplied transposition of the 1889 orthography
+  (oe->u, dj->j, tj->c, nj->ny, ë->eu); it is NOT from the source and needs checking before it is used
+  to match the 1985 dictionary. Indonesian and English were produced by machine translation of van Langen's
+  Dutch (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl` for verification;
+  the rendering is not from the source and needs a human check. Part of speech not stated in the source;
+  left blank.

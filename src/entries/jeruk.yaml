@@ -1,0 +1,41 @@
+headword: djèroek
+jawi: چروق
+alt_spelling: []
+ipa: ''
+part_of_speech: ''
+definitions:
+- meaning_id: nama umum untuk asam inlaid
+  meaning_en: general name for inlaid acid
+  meaning_nl: algemeene naam voor ingelegd zuur
+- meaning_id: djèroek tjapli, lada spanyolus dalam asam
+  meaning_en: djèroek tjapli, Spanish pepper in acid
+  meaning_nl: djèroek tjapli, spaansche peper in 't zuur
+- meaning_id: djèroek koejoen, Pisau di asam
+  meaning_en: djèroek koejoen, blades in the acid
+  meaning_nl: djèroek koejoen, lemmetjes in 't zuur
+- meaning_id: djèroek mamplam, mangga dalam asam
+  meaning_en: djèroek mamplam, mangga in acid
+  meaning_nl: djèroek mamplam, mangga in 't zuur
+- meaning_id: djèroek bagang, bawang dalam asam
+  meaning_en: djèroek bagang, onions in the acid
+  meaning_nl: djèroek bawang, uien in 't zuur
+- meaning_id: djèroek halia, jahe dalam asam
+  meaning_en: djèroek halia, ginger in acid
+  meaning_nl: djèroek halia, gember in 't zuur
+examples: []
+etymology: ''
+related_words: []
+dialect_notes: ''
+source: 'K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage: Martinus Nijhoff, voor het
+  Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië, 1889, hlm. 81'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+language_uncertain: false
+modern_spelling: jeruk
+extraction_notes: Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each
+  headword); not AI-generated. `modern_spelling` “jeruk” is an AI-supplied transposition of the 1889 orthography
+  (oe->u, dj->j, tj->c, nj->ny, ë->eu); it is NOT from the source and needs checking before it is used
+  to match the 1985 dictionary. Indonesian and English were produced by machine translation of van Langen's
+  Dutch (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl` for verification;
+  the rendering is not from the source and needs a human check. Part of speech not stated in the source;
+  left blank.

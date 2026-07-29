@@ -1,29 +1,40 @@
-headword: deundang
-jawi: ''
+headword: dëndang
+jawi: دندغ
 alt_spelling: []
 ipa: ''
 part_of_speech: n
 definitions:
-- meaning_id: 'burung dendang, sj itik liar pemakan ikan dan katak: bèe ija gata bèe — meuaneuk, bau kain
-    Anda spt bau burung dendang beranak, tidak sedap, amis, basi deune, meu — a (dl hik), indah krn sebanding
-    antara bentuk dan luasnya: balè nyan jroh that'
-  meaning_en: ''
+- meaning_id: sejenis bebek liar atau penyelam
+  meaning_en: kind of wild duck or diver
+  meaning_nl: soort van wilde eend of duiker
+- meaning_id: sejenis bernyanyi, mëdëndang, dendang bernyanyi
+  meaning_en: a kind of singing, mëdëndang, dendang singing
+  meaning_nl: een soort van gezang, mëdëndang, dendangs zingen
 examples:
-- aceh: meu -
+- aceh: kee ijar gata bee deundang meuameuk
+  aceh_1889: kée idjar gata bée dëndang mëamëk
   jawi: ''
-  id: balai itu sangat indah bentuknya
-  en: ''
-- aceh: cabeueng pi rampak jroh that meu -
-  jawi: ''
-  id: cabang pohon itu rindang dan indah sekali bentuknya
-  en: ''
+  id: aroma pakaianmu seperti aroma seorang penyelam yang memiliki anak laki-laki
+  en: the scent of your cloth is like the scent of a diver who has a boy
+  nl: de geur van uw kleed is gelijk aan den geur van een duiker, die jongen heeft
 etymology: ''
 related_words: []
 dialect_notes: ''
-source: 'Kamus Aceh-Indonesia (extracted from pp.124-270 of the source edition, Acehnese section entries
-  cèm-unyèn through gutie/H). File: markdown.md supplied by the user. — pp.166-167'
+source: 'K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage: Martinus Nijhoff, voor het
+  Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië, 1889, hlm. 112'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: Indonesian example translations are taken verbatim from the source. English meanings
-  and Jawi transliterations are AI-flagged as unverified and need human review. Jawi transliteration is
-  AI-generated, not from source — needs verification by a Jawi-literate reviewer.
+language_uncertain: false
+modern_spelling: deundang
+extraction_notes: Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each
+  headword); not AI-generated. `modern_spelling` “deundang” is an AI-supplied transposition of the 1889
+  orthography (oe->u, dj->j, tj->c, nj->ny, ë->eu); it is NOT from the source and needs checking before
+  it is used to match the 1985 dictionary. Indonesian and English were produced by machine translation
+  of van Langen's Dutch (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl`
+  for verification; the rendering is not from the source and needs a human check. Part of speech not stated
+  in the source; left blank. | Jawi copied verbatim from the printed source (van Langen prints the Jawi
+  form for each headword); not AI-generated. `modern_spelling` “deundang” is an AI-supplied transposition
+  of the 1889 orthography (oe->u, dj->j, tj->c, nj->ny, ë->eu); it is NOT from the source and needs checking
+  before it is used to match the 1985 dictionary. Indonesian and English were produced by machine translation
+  of van Langen's Dutch (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl`
+  for verification; the rendering is not from the source and needs a human check.

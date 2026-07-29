@@ -1,0 +1,34 @@
+headword: patik
+jawi: فاتيك
+alt_spelling: []
+ipa: ''
+part_of_speech: ''
+definitions:
+- meaning_id: dihiasi dengan batik
+  meaning_en: decorated with batik
+  meaning_nl: gebatikt
+- meaning_id: tëngkoe Loek patik, jilbab batik
+  meaning_en: tëngkoe Loek patik, Batikt headscarf
+  meaning_nl: tëngkoe loek patik, gebatikte hoofddoek
+- meaning_id: idjar patik, kain dihiasi dengan batik
+  meaning_en: idjar patik, cloth decorated with batik
+  meaning_nl: idjar patik, gebatikt kleedje
+- meaning_id: digunakan dalam tulisan untuk mengekspresikan secara pribadi kata orang 1 $^ {dan} $
+  meaning_en: is used in writings to express personally the word of the person 1$^{and}$
+  meaning_nl: wordt in geschriften gebezigd om het pers. voorn. woord van den 1$^{en}$ persoon uit te
+    drukken
+examples: []
+etymology: ''
+related_words: []
+dialect_notes: ''
+source: 'K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage: Martinus Nijhoff, voor het
+  Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië, 1889, hlm. 174'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+language_uncertain: false
+modern_spelling: patik
+extraction_notes: Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each
+  headword); not AI-generated. Indonesian and English were produced by machine translation of van Langen's
+  Dutch (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl` for verification;
+  the rendering is not from the source and needs a human check. Part of speech not stated in the source;
+  left blank.

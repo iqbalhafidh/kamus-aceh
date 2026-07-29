@@ -1,0 +1,40 @@
+headword: bèngàh
+jawi: بغه
+alt_spelling: []
+ipa: ''
+part_of_speech: ''
+definitions:
+- meaning_id: pagi
+  meaning_en: morning
+  meaning_nl: ochtend
+- meaning_id: singh bèngàh, besok pagi
+  meaning_en: singàh bèngàh, tomorrow morning
+  meaning_nl: singàh bèngàh, morgen ochtend
+- meaning_id: bèngàh-
+  meaning_en: bèngàh-
+  meaning_nl: bèngàh-
+- meaning_id: di pagi hari
+  meaning_en: in the morning
+  meaning_nl: in den vroegen morgen
+examples: []
+etymology: ''
+related_words: []
+dialect_notes: ''
+source: 'K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage: Martinus Nijhoff, voor het
+  Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië, 1889, hlm. 36'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+language_uncertain: false
+modern_spelling: bengh
+extraction_notes: 'Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each
+  headword); not AI-generated. `modern_spelling` “bengh” is an AI-supplied transposition of the 1889 orthography
+  (oe->u, dj->j, tj->c, nj->ny, ë->eu); it is NOT from the source and needs checking before it is used
+  to match the 1985 dictionary. Indonesian and English were produced by machine translation of van Langen''s
+  Dutch (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl` for verification;
+  the rendering is not from the source and needs a human check. Part of speech not stated in the source;
+  left blank. | Jawi left blank: no Jawi form is printed for this entry. `modern_spelling` “bengh” is
+  an AI-supplied transposition of the 1889 orthography (oe->u, dj->j, tj->c, nj->ny, ë->eu); it is NOT
+  from the source and needs checking before it is used to match the 1985 dictionary. Indonesian and English
+  were produced by machine translation of van Langen''s Dutch (Dutch→English→Indonesian, OPUS-MT). The
+  Dutch original is kept in `meaning_nl`/`nl` for verification; the rendering is not from the source and
+  needs a human check. Part of speech not stated in the source; left blank.'

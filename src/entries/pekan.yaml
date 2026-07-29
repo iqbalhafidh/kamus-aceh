@@ -1,0 +1,29 @@
+headword: pēkan
+jawi: فكن
+alt_spelling: []
+ipa: ''
+part_of_speech: ''
+definitions:
+- meaning_id: pasar, pasar tempat, tempat di mana orang hanya menjual barang mereka semalam, sebagai lawan
+    kēdei, tempat pasar, dikelilingi oleh toko-toko di mana mereka tinggal
+  meaning_en: market, market place, a place where people only sell their goods overnight, as opposed to
+    kēdei, a market place, surrounded by shops where they stay
+  meaning_nl: markt, marktplaats, eene plaats, waar men slechts over dag zijne waren ten verkoop aanbiedt,
+    in tegenstelling van kēdei, eene marktplaats, omgeven door winkeltjes waarin men overnacht
+examples: []
+etymology: ''
+related_words: []
+dialect_notes: ''
+source: 'K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage: Martinus Nijhoff, voor het
+  Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië, 1889, hlm. 185'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+language_uncertain: false
+modern_spelling: pekan
+extraction_notes: Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each
+  headword); not AI-generated. `modern_spelling` “pekan” is an AI-supplied transposition of the 1889 orthography
+  (oe->u, dj->j, tj->c, nj->ny, ë->eu); it is NOT from the source and needs checking before it is used
+  to match the 1985 dictionary. Indonesian and English were produced by machine translation of van Langen's
+  Dutch (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl` for verification;
+  the rendering is not from the source and needs a human check. Part of speech not stated in the source;
+  left blank.

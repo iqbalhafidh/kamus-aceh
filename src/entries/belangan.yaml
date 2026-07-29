@@ -1,0 +1,29 @@
+headword: bēlangan
+jawi: بَلَاغِن
+alt_spelling: []
+ipa: ''
+part_of_speech: ''
+definitions:
+- meaning_id: sejenis pohon dengan cabang berduri, jus buah yang digunakan sebagai grub untuk dislokasi.
+    pohon ini juga disebut ranking kileh
+  meaning_en: kind of tree with thorny branches, the fruit juice of which is used as a rub for dislocation.
+    This tree is also called rank kilih
+  meaning_nl: soort van boom met doornige takken, waarvan het sap der vruchten als wrijfmiddel tegen ontwrichting
+    wordt gebezigd. Deze boom wordt ook rangkilih genoemd
+examples: []
+etymology: ''
+related_words: []
+dialect_notes: ''
+source: 'K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage: Martinus Nijhoff, voor het
+  Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië, 1889, hlm. 37'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+language_uncertain: false
+modern_spelling: belangan
+extraction_notes: Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each
+  headword); not AI-generated. `modern_spelling` “belangan” is an AI-supplied transposition of the 1889
+  orthography (oe->u, dj->j, tj->c, nj->ny, ë->eu); it is NOT from the source and needs checking before
+  it is used to match the 1985 dictionary. Indonesian and English were produced by machine translation
+  of van Langen's Dutch (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl`
+  for verification; the rendering is not from the source and needs a human check. Part of speech not stated
+  in the source; left blank.

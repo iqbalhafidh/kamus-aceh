@@ -1,0 +1,38 @@
+headword: oeloen
+jawi: اولن
+alt_spelling: []
+ipa: ''
+part_of_speech: ''
+definitions:
+- meaning_id: aku, pelayan
+  meaning_en: me, servant
+  meaning_nl: ik, dienaar
+- meaning_id: 'secara pribadi. kata ganti. 1 $^ {e} $personal. dan... Bicara bahasa umum, sering dipersingkat
+    ke loon. jika seseorang mengekspresikan diri sangat beradab atau berbicara kepada atasan dan kepala,
+    maka satu cabang di oeloen touan di daerah atas oeloen Xxii Moekims dan Daja oeloen dikatakan: kée
+    Pedireese mengatakan droikoe, juga satu mendengar sapi, mempersingkat Mal akoe'
+  meaning_en: 'personally. Pronoun. 1$^{e}$ personal. And... Common speaking language, often shortened
+    to loon. If one expresses oneself very civilized or speaks to superiors and heads, then one engages
+    in oeloen touan In upper regions oeloen Xxii Moekims and Daja oeloen it is said: kée The Pedireese
+    say droikoe, also one hears cow, shortening the Mal akoe'
+  meaning_nl: 'pers. voornw. 1$^{e}$ pers. enk. gewone spreektaal, vaak verkort tot loen. Drukt men zich
+    zeer beschaafd uit of spreekt men tot meerderen en hoofden, dan bezigt men oeloen toean. In bovenstreken
+    oeloen XXII Moekims en Daja oeloen zegt men: kée. De Pedireezen zeggen droikoe, ook hoort men wel
+    koe, verkorting van het Mal. akoe'
+examples: []
+etymology: ''
+related_words: []
+dialect_notes: ''
+source: 'K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage: Martinus Nijhoff, voor het
+  Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië, 1889, hlm. 19'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+language_uncertain: false
+modern_spelling: ulun
+extraction_notes: Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each
+  headword); not AI-generated. `modern_spelling` “ulun” is an AI-supplied transposition of the 1889 orthography
+  (oe->u, dj->j, tj->c, nj->ny, ë->eu); it is NOT from the source and needs checking before it is used
+  to match the 1985 dictionary. Indonesian and English were produced by machine translation of van Langen's
+  Dutch (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl` for verification;
+  the rendering is not from the source and needs a human check. Part of speech not stated in the source;
+  left blank.

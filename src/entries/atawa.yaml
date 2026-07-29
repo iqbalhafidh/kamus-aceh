@@ -1,18 +1,36 @@
 headword: atawa
-jawi: ''
+jawi: اتوا
 alt_spelling: []
 ipa: ''
 part_of_speech: ''
 definitions:
 - meaning_id: atau
   meaning_en: or
-examples: []
+  meaning_nl: of
+- meaning_id: astaga, apa apinya sudah padam atau belum?
+  meaning_en: gosh, is the fire out or not?
+  meaning_nl: goh*, is het vuur uitgebluscht of nog niet?
+examples:
+- aceh: ate gata ke ulun atawa putih atawa itam
+  aceh_1889: atē gata kē oeloen atawa poetih atawa itam
+  jawi: ''
+  id: ls hatimu tambang terhadap putih atau hitam?
+  en: is your heart mine against white or black? *na atawa
+  nl: is uw hart te mijnen opzichte wit of zwart? *na atawa
 etymology: ''
-related_words:
-- ato
+related_words: []
 dialect_notes: ''
-source: 'Daud, Bukhari & Mark Durie. Kamus Basa Acèh = Kamus Bahasa Aceh: Acehnese–Indonesian–English Thesaurus.
-  Pacific Linguistics C-151, 1999, p. 114; vii (PDF p. 5).'
-date_added: '2026-07-20'
+source: 'K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage: Martinus Nijhoff, voor het
+  Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië, 1889, hlm. 2, 243'
+date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: ''
+language_uncertain: false
+modern_spelling: atawa
+extraction_notes: 'Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each
+  headword); not AI-generated. Indonesian and English were produced by machine translation of van Langen''s
+  Dutch (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl` for verification;
+  the rendering is not from the source and needs a human check. Part of speech not stated in the source;
+  left blank. | Jawi left blank: no Jawi form is printed for this entry. Indonesian and English were produced
+  by machine translation of van Langen''s Dutch (Dutch→English→Indonesian, OPUS-MT). The Dutch original
+  is kept in `meaning_nl`/`nl` for verification; the rendering is not from the source and needs a human
+  check. Part of speech not stated in the source; left blank.'

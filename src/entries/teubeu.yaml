@@ -1,0 +1,47 @@
+headword: tëbëe
+jawi: تبو
+alt_spelling: []
+ipa: ''
+part_of_speech: ''
+definitions:
+- meaning_id: tebu
+  meaning_en: sugar cane
+  meaning_nl: suikerriet
+- meaning_id: poela tëbëe, tebu tanaman
+  meaning_en: poela tëbëe, sugar cane plants
+  meaning_nl: poela tëbëe, suikerrietplanten
+- meaning_id: 'spesies tebu: tëbëe gatja'
+  meaning_en: 'species of sugar cane: tëbëe gatja'
+  meaning_nl: 'soorten van suikerriet: tëbëe gatja'
+- meaning_id: tëbëe Rimong
+  meaning_en: tëbëe rimong
+  meaning_nl: tëbëe rimong
+- meaning_id: tëbëe gapoer
+  meaning_en: tëbëe gapoer
+  meaning_nl: tëbëe gapoer
+- meaning_id: tëbëe menyukai
+  meaning_en: tëbëe liked
+  meaning_nl: tëbëe gading
+- meaning_id: tëbëe Kamar
+  meaning_en: tëbëe kamar
+  meaning_nl: tëbëe kamar
+- meaning_id: tëbëe rëliëng, tëbëe sëlembik
+  meaning_en: tëbëe rëliëng, tëbëe sëlembik
+  meaning_nl: tëbëe rëliëng, tëbëe sëlembik
+examples: []
+etymology: ''
+related_words: []
+dialect_notes: ''
+source: 'K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage: Martinus Nijhoff, voor het
+  Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië, 1889, hlm. 56'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+language_uncertain: false
+modern_spelling: teubeu
+extraction_notes: Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each
+  headword); not AI-generated. `modern_spelling` “teubeu” is an AI-supplied transposition of the 1889
+  orthography (oe->u, dj->j, tj->c, nj->ny, ë->eu); it is NOT from the source and needs checking before
+  it is used to match the 1985 dictionary. Indonesian and English were produced by machine translation
+  of van Langen's Dutch (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl`
+  for verification; the rendering is not from the source and needs a human check. Part of speech not stated
+  in the source; left blank.

@@ -1,14 +1,23 @@
 headword: dangdi
-jawi: ڎڠدي
+jawi: دغدى
 alt_spelling: []
 ipa: ''
-part_of_speech: ''
-definitions: []
+part_of_speech: n
+definitions:
+- meaning_id: sejenis kecapi
+  meaning_en: a kind of lute
+  meaning_nl: een soort van luit
+examples: []
 etymology: ''
-related_words:
-- dandi
+related_words: []
 dialect_notes: ''
-source: Kamus Aceh-Indonesia (Acehnese-Indonesian Dictionary), p. 158
+source: 'K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage: Martinus Nijhoff, voor het
+  Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië, 1889, hlm. 111'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: Cross-reference entry pointing to 'dandi'. Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate reviewer.
+language_uncertain: false
+modern_spelling: dangdi
+extraction_notes: Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each
+  headword); not AI-generated. Indonesian and English were produced by machine translation of van Langen's
+  Dutch (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl` for verification;
+  the rendering is not from the source and needs a human check.

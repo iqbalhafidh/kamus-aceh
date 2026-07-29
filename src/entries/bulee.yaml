@@ -1,0 +1,92 @@
+headword: boelée
+jawi: بولو
+alt_spelling: []
+ipa: ''
+part_of_speech: ''
+definitions:
+- meaning_id: bulu rambut (secara umum, kecuali rambut kepala) juga
+  meaning_en: feather hair (in general, except head hair) as well
+  meaning_nl: haar (in 't algemeen, behalve hoofdhaar) ook vederen
+- meaning_id: boelée kēning, alisnya
+  meaning_en: boelée kēning, eyebrow
+  meaning_nl: boelée kēning, wenkbrauw
+- meaning_id: boelée mata, bulu mata
+  meaning_en: boelée mata, eye hairs
+  meaning_nl: boelée mata, ooghaartjes
+- meaning_id: boelée idoeng, bulu hidung
+  meaning_en: boelée idoeng, nose hairs
+  meaning_nl: boelée idoeng, neushaartjes
+- meaning_id: boelée gēloenjoeng, oorhaartjes
+  meaning_en: boelée gēloenjoeng, oorhaartjes
+  meaning_nl: boelée gēloenjoeng, oorhaartjes
+- meaning_id: boelée misai, rambut gag
+  meaning_en: boelée misai, the hair of the gag
+  meaning_nl: boelée misai, de haren van den knevel
+- meaning_id: boelée koemēs, rambut di bawah bibir bawah
+  meaning_en: boelée koemēs, the hair under the lower lip
+  meaning_nl: boelée koemēs, de haren onder de onderste lip
+- meaning_id: boelée kēng, rambut di bawah dagu
+  meaning_en: boelée kēng, the hair under the chin
+  meaning_nl: boelée kēng, de haren onder de kin
+- meaning_id: boelée ming, rambut pipi
+  meaning_en: boelée ming, the cheek hairs
+  meaning_nl: boelée ming, de wangharen
+- meaning_id: boelée takoewē, rambut di leher
+  meaning_en: boelée takoewē, hair on the neck
+  meaning_nl: boelée takoewē, de haren in den hals
+- meaning_id: boelée koe-doek, bulu leher
+  meaning_en: boelée koe-doek, the neck hairs
+  meaning_nl: boelée koe-doek, de nekharen
+- meaning_id: boelée roeng, rambut belakang
+  meaning_en: boelée roeng, the backhairs
+  meaning_nl: boelée roeng, de rugharen
+- meaning_id: boelée gētik, rambut ketiak
+  meaning_en: boelée gētik, armpit hair
+  meaning_nl: boelée gētik, oksel-haren
+- meaning_id: boelée tēh, rambut puting
+  meaning_en: boelée tēh, nipple hair
+  meaning_nl: boelée tēh, de tepelharen
+- meaning_id: boelée dada, rambut di dada
+  meaning_en: boelée dada, the hair on the chest
+  meaning_nl: boelée dada, de haren op de borst
+- meaning_id: boelée prēoet, rambut di perut
+  meaning_en: boelée prēoet, the hairs on the abdomen
+  meaning_nl: boelée prēoet, de haren op den buik
+- meaning_id: boelée boh, rambut organ seksual
+  meaning_en: boelée boh, the hair of the pubic part
+  meaning_nl: boelée boh, de haren van het schaamdeel
+- meaning_id: boelée poengong, rambut pantat
+  meaning_en: boelée poengong, ass hairs
+  meaning_nl: boelée poengong, de aarsharen
+- meaning_id: boelée pēha, rambut di tulang paha
+  meaning_en: boelée pēha, the hairs on the femurs
+  meaning_nl: boelée pēha, de haren op de dijbeenen
+- meaning_id: boelée bētis, rambut di betis
+  meaning_en: boelée bētis, hair on calves
+  meaning_nl: boelée bētis, de haren op de kuiten
+- meaning_id: boelée manok, daging ayam
+  meaning_en: boelée manok, chicken meat
+  meaning_nl: boelée manok, kippevederen
+- meaning_id: boelée berkemah, rambut kambing
+  meaning_en: boelée camping, goat hair
+  meaning_nl: boelée kameng, geitenhaar
+- meaning_id: boelée tjitjim, bulu burung
+  meaning_en: boelée tjitjim, bird feather
+  meaning_nl: boelée tjitjim, vogelvederen
+examples: []
+etymology: ''
+related_words: []
+dialect_notes: ''
+source: 'K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage: Martinus Nijhoff, voor het
+  Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië, 1889, hlm. 45'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+language_uncertain: false
+modern_spelling: bulee
+extraction_notes: Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each
+  headword); not AI-generated. `modern_spelling` “bulee” is an AI-supplied transposition of the 1889 orthography
+  (oe->u, dj->j, tj->c, nj->ny, ë->eu); it is NOT from the source and needs checking before it is used
+  to match the 1985 dictionary. Indonesian and English were produced by machine translation of van Langen's
+  Dutch (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl` for verification;
+  the rendering is not from the source and needs a human check. Part of speech not stated in the source;
+  left blank.

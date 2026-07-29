@@ -1,0 +1,30 @@
+headword: talar
+jawi: تاکو
+alt_spelling: []
+ipa: ''
+part_of_speech: ''
+definitions:
+- meaning_id: menyerang seseorang dengan senjata tajam
+  meaning_en: striking someone with a sharp weapon
+  meaning_nl: iemand een slag met een scherp wapen toebrengen
+examples:
+- aceh: ulun talar bak muka
+  aceh_1889: oeloen talar bak moeka
+  jawi: ''
+  id: i memukul wajahnya
+  en: i struck him on his face
+  nl: ik bracht (hem) een slag op zijn aangezicht toe
+etymology: ''
+related_words: []
+dialect_notes: ''
+source: 'K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage: Martinus Nijhoff, voor het
+  Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië, 1889, hlm. 54'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+language_uncertain: false
+modern_spelling: talar
+extraction_notes: Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each
+  headword); not AI-generated. Indonesian and English were produced by machine translation of van Langen's
+  Dutch (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl` for verification;
+  the rendering is not from the source and needs a human check. Part of speech not stated in the source;
+  left blank.

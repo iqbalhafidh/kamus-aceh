@@ -1,0 +1,32 @@
+headword: baid
+jawi: بَعِيد
+alt_spelling: []
+ipa: ''
+part_of_speech: n
+definitions:
+- meaning_id: nama sebuah desa di Moekim Vi dari Xxii
+  meaning_en: name of a village in the Vii Moekims of Xxii
+  meaning_nl: naam van een dorp in de VII Moekims der XXII
+- meaning_id: juga nama kepala
+  meaning_en: also name of heads
+  meaning_nl: ook naam van hoofden
+examples:
+- aceh: teku baid telok krut
+  aceh_1889: Tēkoe Baid Tēlok-Kroet
+  jawi: ''
+  id: tekoe Baid dari Telok-Kroet
+  en: tekoe Baid of Telok-Kroet
+  nl: Tekoe Baid van Telok-Kroet
+etymology: ''
+related_words: []
+dialect_notes: ''
+source: 'K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage: Martinus Nijhoff, voor het
+  Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië, 1889, hlm. 34'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+language_uncertain: false
+modern_spelling: baid
+extraction_notes: Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each
+  headword); not AI-generated. Indonesian and English were produced by machine translation of van Langen's
+  Dutch (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl` for verification;
+  the rendering is not from the source and needs a human check.

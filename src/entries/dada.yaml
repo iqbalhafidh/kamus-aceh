@@ -1,32 +1,27 @@
 headword: dada
-jawi: ددا
+jawi: دادا
 alt_spelling: []
 ipa: ''
-part_of_speech: n
+part_of_speech: ''
 definitions:
 - meaning_id: dada
   meaning_en: chest
-  examples:
-  - aceh: ulèe
-    jawi: ''
-    id: 'bagian atas tulang dada: —'
-    en: 'upper part of the breastbone: —'
-  - aceh: limpeuen
-    jawi: ''
-    id: (hrf) dada lipan, nama sj hiasan benang kasap
-    en: ''
-  - aceh: meu
-    jawi: ''
-    id: berdada
-    en: buxom
-  - aceh: peu
-    jawi: ''
-    id: mendorong dng sekuat tenaga
-    en: ''
+  meaning_nl: de borst
+- meaning_id: pëdada, laki-laki ke laki-laki
+  meaning_en: pëdada, male to male
+  meaning_nl: pëdada, man tegen man
+examples: []
 etymology: ''
 related_words: []
 dialect_notes: ''
-source: Kamus Aceh-Indonesia (Acehnese-Indonesian Dictionary), p. 152
+source: 'K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage: Martinus Nijhoff, voor het
+  Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië, 1889, hlm. 107'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate reviewer.
+language_uncertain: false
+modern_spelling: dada
+extraction_notes: Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each
+  headword); not AI-generated. Indonesian and English were produced by machine translation of van Langen's
+  Dutch (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl` for verification;
+  the rendering is not from the source and needs a human check. Part of speech not stated in the source;
+  left blank.

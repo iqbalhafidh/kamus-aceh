@@ -1,0 +1,43 @@
+headword: tëbot
+jawi: تبوت
+alt_spelling: []
+ipa: ''
+part_of_speech: ''
+definitions:
+- meaning_id: dengan tepi atas melengkung mundur
+  meaning_en: with the top edge curved backwards
+  meaning_nl: met het boveneinde achterwaarts gebogen
+examples:
+- aceh: jiduk bungkuk tapis ji eus bungkuh timah jijak bungkuh teubot peunyakit seut jirivong teumar
+  aceh_1889: djidoek boengkoek tapis dji-ës boengkoeh timah djidjak boengkoeh tëbot pënjakit sët djirivong
+    tëmar
+  jawi: ''
+  id: (Atj)
+  en: (Atj)
+  nl: (Atj
+- aceh: pantun hij zit zoo krom als het omkleedsel van een klappertak
+  aceh_1889: pantoen) hij zit zoo krom als het omkleedsel van een klappertak
+  jawi: ''
+  id: ia tidur sebagai bengkok sebagai pencipta air, ia berjalan dengan kepalanya bengkok mundur, penyakit
+    lama kembali. Orang mengatakan ini, berbicara tentang seorang pria berambut abu-abu. sinonim dengan
+    lëntik
+  en: he sleeps as crooked as a water creator, he walks with his head bent backwards, the old diseases
+    come back. People say this, speaking of a gray-headed man. Synonymous with lëntik
+  nl: hij slaapt zoo krom als een waterschepper, hij loopt met het hoofd achterwaarts gebogen, de oude
+    ziekten komen terug. Men zegt dit, van een grijsaard sprekende. Synoniem met lëntik
+etymology: ''
+related_words: []
+dialect_notes: ''
+source: 'K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage: Martinus Nijhoff, voor het
+  Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië, 1889, hlm. 56'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+language_uncertain: false
+modern_spelling: teubot
+extraction_notes: Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each
+  headword); not AI-generated. `modern_spelling` “teubot” is an AI-supplied transposition of the 1889
+  orthography (oe->u, dj->j, tj->c, nj->ny, ë->eu); it is NOT from the source and needs checking before
+  it is used to match the 1985 dictionary. Indonesian and English were produced by machine translation
+  of van Langen's Dutch (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl`
+  for verification; the rendering is not from the source and needs a human check. Part of speech not stated
+  in the source; left blank.

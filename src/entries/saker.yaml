@@ -1,0 +1,32 @@
+headword: sakér
+jawi: ساكير
+alt_spelling: []
+ipa: ''
+part_of_speech: ''
+definitions:
+- meaning_id: niat, disengaja, pengabdian
+  meaning_en: intent, intentional, devotion
+  meaning_nl: opzet, opzettelijk, toeleg
+- meaning_id: makin gètèham Makin tapèsakér tjit, semakin Anda dilarang, semakin sengaja Anda melakukannya
+    sinonim dengan ko
+  meaning_en: makin gètèham Makin tapèsakér tjit, the more you are forbidden, the more deliberately you
+    do it Synonymous with ko
+  meaning_nl: makin gètèham makin tapèsakér tjit, hoe meer men u verbiedt, des te opzettelijker doet ge
+    het. Synoniem met ko
+examples: []
+etymology: ''
+related_words: []
+dialect_notes: ''
+source: 'K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage: Martinus Nijhoff, voor het
+  Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië, 1889, hlm. 138'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+language_uncertain: false
+modern_spelling: saker
+extraction_notes: Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each
+  headword); not AI-generated. `modern_spelling` “saker” is an AI-supplied transposition of the 1889 orthography
+  (oe->u, dj->j, tj->c, nj->ny, ë->eu); it is NOT from the source and needs checking before it is used
+  to match the 1985 dictionary. Indonesian and English were produced by machine translation of van Langen's
+  Dutch (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl` for verification;
+  the rendering is not from the source and needs a human check. Part of speech not stated in the source;
+  left blank.

@@ -1,11 +1,15 @@
 headword: nyang
-jawi: ''
-alt_spelling: []
+jawi: پغ
+alt_spelling:
+- njang
 ipa: ''
 part_of_speech: ''
 definitions:
 - meaning_id: yang
   meaning_en: which
+- meaning_id: biasanya digunakan dalam bahasa yang digunakan untuk JANG
+  meaning_en: usually used in the language used for jang
+  meaning_nl: gewoonlijk in de spreektaal voor jang gebezigd
 examples:
 - aceh: peuneugah meunan, nyang buet hōm
   jawi: ''
@@ -49,8 +53,16 @@ related_words:
 - keu
 dialect_notes: ''
 source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
-  Pendidikan dan Kebudayaan, 1985, hlm. 644'
+  Pendidikan dan Kebudayaan, 1985, hlm. 644; K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage:
+  Martinus Nijhoff, voor het Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië,
+  1889, hlm. 287'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
 extraction_notes: 'Jawi left blank: the source is Latin-script only and no Jawi form is printed for this
-  entry. Part of speech not stated in the source; left blank.'
+  entry. Part of speech not stated in the source; left blank. | Jawi copied verbatim from the printed
+  source (van Langen prints the Jawi form for each headword); not AI-generated. `modern_spelling` “nyang”
+  is an AI-supplied transposition of the 1889 orthography (oe->u, dj->j, tj->c, nj->ny, ë->eu); it is
+  NOT from the source and needs checking before it is used to match the 1985 dictionary. Indonesian and
+  English were produced by machine translation of van Langen''s Dutch (Dutch→English→Indonesian, OPUS-MT).
+  The Dutch original is kept in `meaning_nl`/`nl` for verification; the rendering is not from the source
+  and needs a human check. Part of speech not stated in the source; left blank.'

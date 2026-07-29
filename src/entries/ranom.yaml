@@ -1,5 +1,5 @@
 headword: ranom
-jawi: ''
+jawi: رانوم
 alt_spelling:
 - reunom
 ipa: ''
@@ -15,6 +15,12 @@ definitions:
   meaning_en: cordial
 - meaning_id: lembut (tentang wajah)
   meaning_en: gentle (about face)
+- meaning_id: terlalu kuat berwarna, kain
+  meaning_en: too strongly coloured, of fabrics
+  meaning_nl: te sterk gekleurd, van stoffen
+- meaning_id: lengkap, dalam rasa matang
+  meaning_en: complete, in the sense of ripe
+  meaning_nl: volkomen, in den zin van rijp
 examples:
 - aceh: mirah ranom
   jawi: ''
@@ -28,8 +34,18 @@ etymology: ''
 related_words: []
 dialect_notes: ''
 source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
-  Pendidikan dan Kebudayaan, 1985, hlm. 777'
+  Pendidikan dan Kebudayaan, 1985, hlm. 777; K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage:
+  Martinus Nijhoff, voor het Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië,
+  1889, hlm. 122'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
 extraction_notes: 'Jawi left blank: the source is Latin-script only and no Jawi form is printed for this
-  entry.'
+  entry. | Homonym I in the source (printed as a numeral before the headword). Jawi copied verbatim from
+  the printed source (van Langen prints the Jawi form for each headword); not AI-generated. Indonesian
+  and English were produced by machine translation of van Langen''s Dutch (Dutch→English→Indonesian, OPUS-MT).
+  The Dutch original is kept in `meaning_nl`/`nl` for verification; the rendering is not from the source
+  and needs a human check. Part of speech not stated in the source; left blank. | Homonym II in the source
+  (printed as a numeral before the headword). Jawi left blank: no Jawi form is printed for this entry.
+  Indonesian and English were produced by machine translation of van Langen''s Dutch (Dutch→English→Indonesian,
+  OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl` for verification; the rendering is not from
+  the source and needs a human check. Part of speech not stated in the source; left blank.'

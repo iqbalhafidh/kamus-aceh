@@ -1,8 +1,9 @@
 headword: jeura
-jawi: ''
+jawi: جرا
 alt_spelling:
 - jara
 - jira
+- djëra
 ipa: ''
 part_of_speech: n
 definitions:
@@ -10,6 +11,24 @@ definitions:
   meaning_en: cumin
 - meaning_id: (merupakan bagian dari
   meaning_en: ''
+- meaning_id: menempatkan pada target ketika menembak, bertujuan
+  meaning_en: placing on a target when shooting, aiming
+  meaning_nl: aanleggen op een doel bij het schieten, mikken
+- meaning_id: memiliki pengalaman sesuatu yang tidak menyenangkan
+  meaning_en: having the experience of something unpleasant
+  meaning_nl: de ondervinding van iets onaangenaams hebben
+- meaning_id: 'cumin, yang spesies: djëra mamës, cumin manis'
+  meaning_en: 'cumin, of which species: djëra mamës, sweet cumin'
+  meaning_nl: 'komijn, waarvan 3 soorten: djëra mamës, zoete komijn'
+- meaning_id: djëra poetih atau ëngkoet, cumin putih atau jintan untuk ditambahkan ke ikan
+  meaning_en: djëra poetih or ëngkoet, white cumin or cumin to be added to fish
+  meaning_nl: djëra poetih of ëngkoet, witte komijn of komijn die men bij visch voegt
+- meaning_id: djëra itam, hitam cumin
+  meaning_en: djëra itam, black cumin
+  meaning_nl: djëra itam, zwarte komijn
+- meaning_id: djëra halëba, cumin dan anise
+  meaning_en: djëra halëba, cumin and anise
+  meaning_nl: djëra halëba, komijn en anijs
 examples:
 - aceh: 'aweueh peuet piôh peuet): jeura haleuba'
   jawi: ''
@@ -35,8 +54,28 @@ etymology: ''
 related_words: []
 dialect_notes: ''
 source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
-  Pendidikan dan Kebudayaan, 1985, hlm. 342'
+  Pendidikan dan Kebudayaan, 1985, hlm. 342; K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage:
+  Martinus Nijhoff, voor het Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië,
+  1889, hlm. 80'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
 extraction_notes: 'Jawi left blank: the source is Latin-script only and no Jawi form is printed for this
-  entry.'
+  entry. | Homonym I in the source (printed as a numeral before the headword). Jawi copied verbatim from
+  the printed source (van Langen prints the Jawi form for each headword); not AI-generated. `modern_spelling`
+  “jeura” is an AI-supplied transposition of the 1889 orthography (oe->u, dj->j, tj->c, nj->ny, ë->eu);
+  it is NOT from the source and needs checking before it is used to match the 1985 dictionary. Indonesian
+  and English were produced by machine translation of van Langen''s Dutch (Dutch→English→Indonesian, OPUS-MT).
+  The Dutch original is kept in `meaning_nl`/`nl` for verification; the rendering is not from the source
+  and needs a human check. Part of speech not stated in the source; left blank. | Homonym II in the source
+  (printed as a numeral before the headword). Jawi left blank: no Jawi form is printed for this entry.
+  `modern_spelling` “jeura” is an AI-supplied transposition of the 1889 orthography (oe->u, dj->j, tj->c,
+  nj->ny, ë->eu); it is NOT from the source and needs checking before it is used to match the 1985 dictionary.
+  Indonesian and English were produced by machine translation of van Langen''s Dutch (Dutch→English→Indonesian,
+  OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl` for verification; the rendering is not from
+  the source and needs a human check. Part of speech not stated in the source; left blank. | Jawi copied
+  verbatim from the printed source (van Langen prints the Jawi form for each headword); not AI-generated.
+  `modern_spelling` “jeura” is an AI-supplied transposition of the 1889 orthography (oe->u, dj->j, tj->c,
+  nj->ny, ë->eu); it is NOT from the source and needs checking before it is used to match the 1985 dictionary.
+  Indonesian and English were produced by machine translation of van Langen''s Dutch (Dutch→English→Indonesian,
+  OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl` for verification; the rendering is not from
+  the source and needs a human check. Part of speech not stated in the source; left blank.'

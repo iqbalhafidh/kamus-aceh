@@ -1,11 +1,17 @@
 headword: kadang
-jawi: ''
+jawi: كادغ
 alt_spelling: []
 ipa: ''
 part_of_speech: ''
 definitions:
 - meaning_id: kadang-kadang
   meaning_en: sometimes
+- meaning_id: kadang-kadang, di kali
+  meaning_en: sometimes, at times, occasionally
+  meaning_nl: somtijds, bijwijlen, bij tijden, nu en dan
+- meaning_id: kadang -kadang, sekali
+  meaning_en: kadang-kadang, once
+  meaning_nl: kadang-kadang, een enkele maal
 examples:
 - aceh: adv barang-kali, kemungkinan kadang-kadang cuba tajak kalon, kadang ka jiteuka, coba Anda lihat,
     barang-kali ia sudah datang, kadang jeuet
@@ -22,7 +28,9 @@ related_words:
 - gadang
 dialect_notes: ''
 source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
-  Pendidikan dan Kebudayaan, 1985, hlm. 364'
+  Pendidikan dan Kebudayaan, 1985, hlm. 364; K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage:
+  Martinus Nijhoff, voor het Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië,
+  1889, hlm. 199'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
 extraction_notes: 'Homonym 1 in the source (printed as a superscript numeral before the headword). Jawi
@@ -30,4 +38,9 @@ extraction_notes: 'Homonym 1 in the source (printed as a superscript numeral bef
   not stated in the source; left blank. | Source gives this only as a cross-reference (→ gadang); no independent
   definition is printed, so meaning fields are left blank rather than guessed. Homonym 2 in the source
   (printed as a superscript numeral before the headword). Jawi left blank: the source is Latin-script
-  only and no Jawi form is printed for this entry. Part of speech not stated in the source; left blank.'
+  only and no Jawi form is printed for this entry. Part of speech not stated in the source; left blank.
+  | Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each headword);
+  not AI-generated. Indonesian and English were produced by machine translation of van Langen''s Dutch
+  (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl` for verification;
+  the rendering is not from the source and needs a human check. Part of speech not stated in the source;
+  left blank.'

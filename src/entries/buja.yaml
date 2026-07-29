@@ -1,0 +1,46 @@
+headword: boeja
+jawi: بويا
+alt_spelling: []
+ipa: ''
+part_of_speech: ''
+definitions:
+- meaning_id: buaya
+  meaning_en: crocodile
+  meaning_nl: krokodil
+examples:
+- aceh: do ida idi canggok pang geunting gaki
+  aceh_1889: do ida idi tjanggok pang gënting gaki
+  jawi: ''
+  id: boeja di krong katëdongdong boeja tamong mërazëki, (Atj)
+  en: boeja di krong katëdongdong boeja tamong mërazëki, (Atj)
+  nl: boeja di krong katëdongdong boeja tamong mërazëki, (Atj
+- aceh: wiegelied de kikvorskh pang is aan zijne pooten gebonden
+  aceh_1889: wiegelied) de kikvorsch Pang is aan zijne pooten gebonden
+  jawi: ''
+  id: buaya di sungai selalu menunggu, sementara yang baru tiba (buaya) telah memperoleh makanannya
+  en: the crocodile in the river is always waiting, while the newly arrived (crocodile) has already obtained
+    his food
+  nl: de krokodil in de rivier wacht steeds, terwijl de pas aangekomen (krokodil) reeds zijne voeding
+    heeft bemachtigd
+- aceh: wordt ook als satire door de vrouwen gezongen
+  aceh_1889: wordt ook als satire door de vrouwen gezongen
+  jawi: ''
+  id: ketika suaminya mencoba untuk mendapatkan sesuatu, sementara orang lain mengambilnya dari dia
+  en: when her husband tries to get something, while someone else takes it away from him
+  nl: wanneer haar echtgenoot moeite doet, om iets te bekomen, terwijl een ander het voor zijn neus weghaalt
+etymology: ''
+related_words: []
+dialect_notes: ''
+source: 'K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage: Martinus Nijhoff, voor het
+  Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië, 1889, hlm. 46'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+language_uncertain: false
+modern_spelling: buja
+extraction_notes: Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each
+  headword); not AI-generated. `modern_spelling` “buja” is an AI-supplied transposition of the 1889 orthography
+  (oe->u, dj->j, tj->c, nj->ny, ë->eu); it is NOT from the source and needs checking before it is used
+  to match the 1985 dictionary. Indonesian and English were produced by machine translation of van Langen's
+  Dutch (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl` for verification;
+  the rendering is not from the source and needs a human check. Part of speech not stated in the source;
+  left blank.

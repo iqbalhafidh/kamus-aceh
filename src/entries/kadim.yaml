@@ -1,11 +1,21 @@
 headword: Kadim
-jawi: ''
-alt_spelling: []
+jawi: قَدِيم
+alt_spelling:
+- kadim
 ipa: ''
 part_of_speech: a
 definitions:
 - meaning_id: kadim, abadi, tidak berkesudahan (sifat Tuhan)
   meaning_en: eternal, without end, an attribute of God
+- meaning_id: selamanya
+  meaning_en: forever
+  meaning_nl: eeuwig
+- meaning_id: toehan kadim, Tuhan yang abadi
+  meaning_en: toehan kadim, the eternal Lord
+  meaning_nl: toehan kadim, de eeuwige Heer
+- meaning_id: mengaku, mengaku?
+  meaning_en: acknowledge, confess [?]
+  meaning_nl: erkennen, bekennen [?]
 examples:
 - aceh: Tuhan Kadim
   jawi: ''
@@ -23,8 +33,18 @@ etymology: ''
 related_words: []
 dialect_notes: ''
 source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
-  Pendidikan dan Kebudayaan, 1985, hlm. 364'
+  Pendidikan dan Kebudayaan, 1985, hlm. 364; K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage:
+  Martinus Nijhoff, voor het Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië,
+  1889, hlm. 197'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
 extraction_notes: 'Jawi left blank: the source is Latin-script only and no Jawi form is printed for this
-  entry.'
+  entry. | Homonym I in the source (printed as a numeral before the headword). Jawi copied verbatim from
+  the printed source (van Langen prints the Jawi form for each headword); not AI-generated. Indonesian
+  and English were produced by machine translation of van Langen''s Dutch (Dutch→English→Indonesian, OPUS-MT).
+  The Dutch original is kept in `meaning_nl`/`nl` for verification; the rendering is not from the source
+  and needs a human check. Part of speech not stated in the source; left blank. | Homonym II in the source
+  (printed as a numeral before the headword). Jawi left blank: no Jawi form is printed for this entry.
+  Indonesian and English were produced by machine translation of van Langen''s Dutch (Dutch→English→Indonesian,
+  OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl` for verification; the rendering is not from
+  the source and needs a human check. Part of speech not stated in the source; left blank.'

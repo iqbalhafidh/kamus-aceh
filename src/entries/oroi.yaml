@@ -1,0 +1,54 @@
+headword: oroi
+jawi: اوری
+alt_spelling: []
+ipa: ''
+part_of_speech: ''
+definitions:
+- meaning_id: hari
+  meaning_en: day
+  meaning_nl: dag
+- meaning_id: oroi njoi, hari ini
+  meaning_en: oroi njoi, this day, today
+  meaning_nl: oroi njoi, deze dag, heden
+- meaning_id: oroi Malam, siang dan malam
+  meaning_en: oroi malam, day and night
+  meaning_nl: oroi malam, dag en nacht
+- meaning_id: si oroi-oroi, setiap hari
+  meaning_en: si oroi-oroi, daily
+  meaning_nl: si oroi-oroi, dagelijks
+- meaning_id: oroi raja, liburan
+  meaning_en: oroi raja, a holiday
+  meaning_nl: oroi raja, een feestdag
+examples:
+- aceh: padum oroi buleun nyoi
+  aceh_1889: padoem oroi boelën njoi
+  jawi: ''
+  id: jumlah bulan ini itu
+  en: the number of this month it is
+  nl: de hoeveelste van deze maand is 't
+- aceh: padum oroi tangguh
+  aceh_1889: padoem oroi tanggoeh
+  jawi: ''
+  id: berapa hari
+  en: how many days time
+  nl: hoeveel dagen tijd
+- aceh: bak sikoreung oroi buleun leumah
+  aceh_1889: bak sikorëng oroi boelën lëmäh
+  jawi: ''
+  id: pada hari kesembilan bulan berikutnya
+  en: on the ninth day of the following month
+  nl: op den negenden der volgende maand
+etymology: ''
+related_words: []
+dialect_notes: ''
+source: 'K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage: Martinus Nijhoff, voor het
+  Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië, 1889, hlm. 16'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+language_uncertain: false
+modern_spelling: oroi
+extraction_notes: Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each
+  headword); not AI-generated. Indonesian and English were produced by machine translation of van Langen's
+  Dutch (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl` for verification;
+  the rendering is not from the source and needs a human check. Part of speech not stated in the source;
+  left blank.

@@ -1,21 +1,36 @@
----
-headword: "nyap"
-jawi: ""
-alt_spelling: []
-ipa: "/ɳãp/"
-part_of_speech: "n"
-language_uncertain: false
+headword: njap
+jawi: پف
+alt_spelling:
+- njop
+ipa: ''
+part_of_speech: ''
 definitions:
-  - meaning_id: "jaring penangkap ikan di palông berbentuk bujur sangkar, berukuran 20 x 20 m, terbuat dari benang nilon yg dirajut/disimpul, kedalamannya 10 m ke dalam air, dan di keempat sisi atasnya diikat tali yg berfungsi untuk menarik ke permukaan"
-    meaning_en: ""
-  - meaning_id: "jaring penangkap ikan di palông berbentuk bujur sangkar, berukuran 20 x 20 m, terbuat dr benang nilon yg dirajut/disimpul, kedalamannya 10 m ke dalam air, dan di keempat sisi atasnya diikat tali yg berfungsi untuk menarik ke permukaan"
-    meaning_en: ""
+- meaning_id: cross- net
+  meaning_en: cross-net
+  meaning_nl: kruisnet
+- meaning_id: jaqueline, lembab, basah
+  meaning_en: jacqueline, moist, wet
+  meaning_nl: doortrokken van water, vochtig, nat
 examples:
-  []
-etymology: ""
+- aceh: jeuh ijar droineu ka meunyap bak ijeur
+  aceh_1889: djëh idjar droinë ka mënjap bak ijër
+  jawi: ''
+  id: kanvas Anda memerah dari air
+  en: your canvas is flushed from the water
+  nl: uw gindsche kleed is doortrokken van het water
+etymology: ''
 related_words: []
-dialect_notes: ""
-source: "Kamus Bahasa Aceh Daring (Balai Bahasa Provinsi Aceh), 'Entri huruf — nyap', URL: https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/N?page=6 (diakses 20 Juli 2026); halaman tambahan: N?page=11, N?page=12, N?page=13, N?page=14, N?page=15, N?page=16, N?page=17, N?page=18, N?page=19, N?page=2, N?page=3, N?page=4, N?page=5, N?page=6, N?page=7, N?page=8, N?page=9"
-date_added: "2026-07-20"
-contributor: "AI-extracted — needs human review"
-extraction_notes: "Diekstrak dari 18 halaman sumber (https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/N?page=10, https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/N?page=11, https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/N?page=12, https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/N?page=13, https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/N?page=14, https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/N?page=15, https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/N?page=16, https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/N?page=17, https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/N?page=18, https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/N?page=19, https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/N?page=2, https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/N?page=3, https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/N?page=4, https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/N?page=5, https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/N?page=6, https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/N?page=7, https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/N?page=8, https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/N?page=9). Ditemukan pada beberapa halaman; definisi dan contoh digabungkan. Tidak ada bentuk Jawi dalam sumber — dibiarkan kosong sesuai aturan."
+dialect_notes: ''
+source: 'K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage: Martinus Nijhoff, voor het
+  Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië, 1889, hlm. 287'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+language_uncertain: false
+modern_spelling: nyap
+extraction_notes: Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each
+  headword); not AI-generated. `modern_spelling` “nyap” is an AI-supplied transposition of the 1889 orthography
+  (oe->u, dj->j, tj->c, nj->ny, ë->eu); it is NOT from the source and needs checking before it is used
+  to match the 1985 dictionary. Indonesian and English were produced by machine translation of van Langen's
+  Dutch (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl` for verification;
+  the rendering is not from the source and needs a human check. Part of speech not stated in the source;
+  left blank.

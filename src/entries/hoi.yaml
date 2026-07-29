@@ -1,11 +1,18 @@
 headword: hōi
-jawi: ''
-alt_spelling: []
+jawi: هوي
+alt_spelling:
+- hoi
 ipa: ''
 part_of_speech: v
 definitions:
 - meaning_id: mengasapi, memanggang (di atas kemenyan)
   meaning_en: to smoke, to fumigate, to roast (over benzoin incense)
+- meaning_id: panggilan
+  meaning_en: call
+  meaning_nl: roepen, aanroepen
+- meaning_id: smoodthing
+  meaning_en: smoothing
+  meaning_nl: bewierooken
 examples:
 - aceh: ija
   jawi: ''
@@ -24,14 +31,31 @@ examples:
   jawi: ''
   id: cara atau hasil pengasapan
   en: the manner or result of smoking something
+- aceh: tehoi pineng buet si nya' ti di gampong jawa
+  aceh_1889: tèhoi pinèng boeët si Nja' Ti di gampong djawa
+  jawi: ''
+  id: oleh Anda yang terpaku untuk Si Nja' Ti, di Kampong Djawa
+  en: by you being pinanged for Si Nja' Ti, at Kampong Djawa
+  nl: door u worde pinang bewierookt voor Si Nja' Ti, te Kampong Djawa
 etymology: ''
 related_words:
 - ganggang
 - raksi
 dialect_notes: ''
 source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
-  Pendidikan dan Kebudayaan, 1985, hlm. 295'
+  Pendidikan dan Kebudayaan, 1985, hlm. 295; K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage:
+  Martinus Nijhoff, voor het Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië,
+  1889, hlm. 283'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
 extraction_notes: 'Homonym 2 in the source (printed as a superscript numeral before the headword). Jawi
-  left blank: the source is Latin-script only and no Jawi form is printed for this entry.'
+  left blank: the source is Latin-script only and no Jawi form is printed for this entry. | Homonym I
+  in the source (printed as a numeral before the headword). Jawi copied verbatim from the printed source
+  (van Langen prints the Jawi form for each headword); not AI-generated. Indonesian and English were produced
+  by machine translation of van Langen''s Dutch (Dutch→English→Indonesian, OPUS-MT). The Dutch original
+  is kept in `meaning_nl`/`nl` for verification; the rendering is not from the source and needs a human
+  check. Part of speech not stated in the source; left blank. | Homonym II in the source (printed as a
+  numeral before the headword). Jawi left blank: no Jawi form is printed for this entry. Indonesian and
+  English were produced by machine translation of van Langen''s Dutch (Dutch→English→Indonesian, OPUS-MT).
+  The Dutch original is kept in `meaning_nl`/`nl` for verification; the rendering is not from the source
+  and needs a human check. Part of speech not stated in the source; left blank.'

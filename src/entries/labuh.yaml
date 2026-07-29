@@ -1,0 +1,38 @@
+headword: laboeh
+jawi: لابو
+alt_spelling: []
+ipa: ''
+part_of_speech: ''
+definitions:
+- meaning_id: drop, eject, anchors
+  meaning_en: drop, eject, anchors
+  meaning_nl: laten vallen, nederlaten, uitwerpen, ankeren
+- meaning_id: laboeh poekat, mengeluarkan jaring
+  meaning_en: laboeh poekat, ejecting a net
+  meaning_nl: laboeh poekat, een net uitwerpen
+- meaning_id: laboeh saoeh, turunkan jangkar
+  meaning_en: laboeh saoeh, drop anchor
+  meaning_nl: laboeh saoeh, het anker laten vallen
+examples:
+- aceh: kameulabuh sauh
+  aceh_1889: kamëlaboeh saoeh
+  jawi: ''
+  id: apa kau sudah menjatuhkan jangkarnya? Pat djilaboeh poekat, di mana mereka mengeluarkan jaringnya?
+  en: have you already dropped the anchor? pat djilaboeh poekat, where have they cast out their nets?
+  nl: hebt gij reeds het anker laten vallen? pat djilaboeh poekat, waar hebben zij hunne netten uitgeworpen?
+etymology: ''
+related_words: []
+dialect_notes: ''
+source: 'K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage: Martinus Nijhoff, voor het
+  Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië, 1889, hlm. 233'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+language_uncertain: false
+modern_spelling: labuh
+extraction_notes: Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each
+  headword); not AI-generated. `modern_spelling` “labuh” is an AI-supplied transposition of the 1889 orthography
+  (oe->u, dj->j, tj->c, nj->ny, ë->eu); it is NOT from the source and needs checking before it is used
+  to match the 1985 dictionary. Indonesian and English were produced by machine translation of van Langen's
+  Dutch (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl` for verification;
+  the rendering is not from the source and needs a human check. Part of speech not stated in the source;
+  left blank.

@@ -1,7 +1,8 @@
 headword: madu
-jawi: ''
+jawi: مادو
 alt_spelling:
 - madzu
+- madoe
 ipa: ''
 part_of_speech: n
 definitions:
@@ -9,6 +10,15 @@ definitions:
   meaning_en: honey
 - meaning_id: isteri yang dikawini setelah ada isteri pertama
   meaning_en: a wife taken after a first wife
+- meaning_id: medeëchtgenoote dari orang yang sama, sesama kekasih atau kekasih
+  meaning_en: medeëchtgenoote of the same man, fellow lover or lover
+  meaning_nl: medeëchtgenoote van denzelfden man, mede-minnaar of minnares
+- meaning_id: kekasih dari istri seseorang, kekasih dari seseorang suami
+  meaning_en: lover of someone's wife, lover of someone's husband
+  meaning_nl: minnaar van iemands vrouw, minnares van iemands man
+- meaning_id: musuh
+  meaning_en: enemy
+  meaning_nl: vijand
 examples:
 - aceh: ie madu
   jawi: ''
@@ -34,11 +44,38 @@ etymology: ''
 related_words: []
 dialect_notes: ''
 source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
-  Pendidikan dan Kebudayaan, 1985, hlm. 565'
+  Pendidikan dan Kebudayaan, 1985, hlm. 565; K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage:
+  Martinus Nijhoff, voor het Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië,
+  1889, hlm. 252, 253'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
 extraction_notes: 'Homonym 1 in the source (printed as a superscript numeral before the headword). Jawi
   left blank: the source is Latin-script only and no Jawi form is printed for this entry. | Homonym 2
   in the source (printed as a superscript numeral before the headword). Jawi left blank: the source is
   Latin-script only and no Jawi form is printed for this entry. Part of speech not stated in the source;
-  left blank.'
+  left blank. | Homonym I in the source (printed as a numeral before the headword). Jawi copied verbatim
+  from the printed source (van Langen prints the Jawi form for each headword); not AI-generated. `modern_spelling`
+  “madu” is an AI-supplied transposition of the 1889 orthography (oe->u, dj->j, tj->c, nj->ny, ë->eu);
+  it is NOT from the source and needs checking before it is used to match the 1985 dictionary. Indonesian
+  and English were produced by machine translation of van Langen''s Dutch (Dutch→English→Indonesian, OPUS-MT).
+  The Dutch original is kept in `meaning_nl`/`nl` for verification; the rendering is not from the source
+  and needs a human check. Part of speech not stated in the source; left blank. | Homonym II in the source
+  (printed as a numeral before the headword). Jawi left blank: no Jawi form is printed for this entry.
+  `modern_spelling` “madu” is an AI-supplied transposition of the 1889 orthography (oe->u, dj->j, tj->c,
+  nj->ny, ë->eu); it is NOT from the source and needs checking before it is used to match the 1985 dictionary.
+  Indonesian and English were produced by machine translation of van Langen''s Dutch (Dutch→English→Indonesian,
+  OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl` for verification; the rendering is not from
+  the source and needs a human check. Part of speech not stated in the source; left blank. | Homonym I
+  in the source (printed as a numeral before the headword). Jawi copied verbatim from the printed source
+  (van Langen prints the Jawi form for each headword); not AI-generated. `modern_spelling` “madu” is an
+  AI-supplied transposition of the 1889 orthography (oe->u, dj->j, tj->c, nj->ny, ë->eu); it is NOT from
+  the source and needs checking before it is used to match the 1985 dictionary. Indonesian and English
+  were produced by machine translation of van Langen''s Dutch (Dutch→English→Indonesian, OPUS-MT). The
+  Dutch original is kept in `meaning_nl`/`nl` for verification; the rendering is not from the source and
+  needs a human check. Part of speech not stated in the source; left blank. | Homonym II in the source
+  (printed as a numeral before the headword). Jawi left blank: no Jawi form is printed for this entry.
+  `modern_spelling` “madu” is an AI-supplied transposition of the 1889 orthography (oe->u, dj->j, tj->c,
+  nj->ny, ë->eu); it is NOT from the source and needs checking before it is used to match the 1985 dictionary.
+  Indonesian and English were produced by machine translation of van Langen''s Dutch (Dutch→English→Indonesian,
+  OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl` for verification; the rendering is not from
+  the source and needs a human check. Part of speech not stated in the source; left blank.'

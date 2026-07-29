@@ -1,0 +1,33 @@
+headword: bêngkar
+jawi: بغكر
+alt_spelling: []
+ipa: ''
+part_of_speech: ''
+definitions:
+- meaning_id: melebar seorang wanita lubang telinga
+  meaning_en: dilating a woman's earholes
+  meaning_nl: het verwijden van de oorgaten eener vrouw
+examples:
+- aceh: tabengkar gelujung gata lom bak rajeuk mangat jid tangui subang
+  aceh_1889: tabêngkar gêloejoeng gata lom bak rajëk mangat djid tangoei soebang
+  jawi: ''
+  id: anda harus memperluas lubang telinga Anda, mereka belum cukup besar, sehingga Anda dapat memakai
+    anting-anting Anda
+  en: you must expand your earholes, they are not yet large enough, so that you can wear your earrings
+  nl: ge moet uwe oorgaten verwijden, zij zijn nog niet groot genoeg, opdat ge uwe oorringen kunt dragen
+etymology: ''
+related_words: []
+dialect_notes: ''
+source: 'K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage: Martinus Nijhoff, voor het
+  Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië, 1889, hlm. 35'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+language_uncertain: false
+modern_spelling: bengkar
+extraction_notes: Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each
+  headword); not AI-generated. `modern_spelling` “bengkar” is an AI-supplied transposition of the 1889
+  orthography (oe->u, dj->j, tj->c, nj->ny, ë->eu); it is NOT from the source and needs checking before
+  it is used to match the 1985 dictionary. Indonesian and English were produced by machine translation
+  of van Langen's Dutch (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl`
+  for verification; the rendering is not from the source and needs a human check. Part of speech not stated
+  in the source; left blank.

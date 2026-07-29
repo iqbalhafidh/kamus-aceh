@@ -1,0 +1,38 @@
+headword: dêngon
+jawi: دغن
+alt_spelling: []
+ipa: ''
+part_of_speech: ''
+definitions:
+- meaning_id: dengan, menemani
+  meaning_en: with, accompanying
+  meaning_nl: met, vergezellen
+- meaning_id: diterjemahkan dengan cara yang berbeda
+  meaning_en: is translated in different ways
+  meaning_nl: wordt op verschillende wijzen vertaald
+- meaning_id: dengon hana sapoë, tanpa apapun
+  meaning_en: dengon hana sapoë, without anything
+  meaning_nl: dêngon hana sapoë, zonder iets
+- meaning_id: dengon Perentah, dengan muatan
+  meaning_en: dengon perentah, by load
+  meaning_nl: dêngon pêrêntah, op last
+- meaning_id: dengon hoekoem, menurut penilaian, dengon silkroi loen, sendirian
+  meaning_en: dengon hoekoem, according to the judgment, dengon silkroi loen, alone
+  meaning_nl: dêngon hoekoem, volgens het vonnis, dêngon sidroi loen, alleen
+examples: []
+etymology: ''
+related_words: []
+dialect_notes: ''
+source: 'K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage: Martinus Nijhoff, voor het
+  Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië, 1889, hlm. 111'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+language_uncertain: false
+modern_spelling: dengon
+extraction_notes: Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each
+  headword); not AI-generated. `modern_spelling` “dengon” is an AI-supplied transposition of the 1889
+  orthography (oe->u, dj->j, tj->c, nj->ny, ë->eu); it is NOT from the source and needs checking before
+  it is used to match the 1985 dictionary. Indonesian and English were produced by machine translation
+  of van Langen's Dutch (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl`
+  for verification; the rendering is not from the source and needs a human check. Part of speech not stated
+  in the source; left blank.

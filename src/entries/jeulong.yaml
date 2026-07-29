@@ -1,0 +1,35 @@
+headword: djëlong
+jawi: جلوغ
+alt_spelling: []
+ipa: ''
+part_of_speech: ''
+definitions:
+- meaning_id: letakkan sepotong kayu di tanah untuk mengikat sesuatu untuk itu
+  meaning_en: put a piece of wood in the ground to tie something to it
+  meaning_nl: een stuk hout in den grond steken om er iets aan vast te binden
+- meaning_id: djënëlong, tongkat yang satu tongkat di tanah
+  meaning_en: djënëlong, the stick that one sticks in the ground
+  meaning_nl: djënëlong, de stok, dien men in den grond steekt
+examples:
+- aceh: tajeulong kajee nyan dalam tanah
+  aceh_1889: tadjëlong kajée njan dalam tanäh
+  jawi: ''
+  id: tancapkan kayu itu ke tanah sinonim dengan gëlong
+  en: stick that wood in the ground. Synonymize with gëlong
+  nl: steek dat hout in den grond. Synoniem met gëlong
+etymology: ''
+related_words: []
+dialect_notes: ''
+source: 'K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage: Martinus Nijhoff, voor het
+  Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië, 1889, hlm. 83'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+language_uncertain: false
+modern_spelling: jeulong
+extraction_notes: Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each
+  headword); not AI-generated. `modern_spelling` “jeulong” is an AI-supplied transposition of the 1889
+  orthography (oe->u, dj->j, tj->c, nj->ny, ë->eu); it is NOT from the source and needs checking before
+  it is used to match the 1985 dictionary. Indonesian and English were produced by machine translation
+  of van Langen's Dutch (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl`
+  for verification; the rendering is not from the source and needs a human check. Part of speech not stated
+  in the source; left blank.

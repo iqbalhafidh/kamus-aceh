@@ -1,0 +1,32 @@
+headword: karëh
+jawi: كاريه
+alt_spelling: []
+ipa: ''
+part_of_speech: ''
+definitions:
+- meaning_id: stroke
+  meaning_en: stroke
+  meaning_nl: omroeren
+examples:
+- aceh: kareuh bur bek meuntah
+  aceh_1889: karëh boer bék mëntah
+  jawi: ''
+  id: balikkan beras, sehingga tidak tetap bersih
+  en: turn over the rice, so that it does not remain untainted
+  nl: roer de rijst om, opdat zij niet ongaar blijve
+etymology: ''
+related_words: []
+dialect_notes: ''
+source: 'K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage: Martinus Nijhoff, voor het
+  Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië, 1889, hlm. 200'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+language_uncertain: false
+modern_spelling: kareuh
+extraction_notes: Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each
+  headword); not AI-generated. `modern_spelling` “kareuh” is an AI-supplied transposition of the 1889
+  orthography (oe->u, dj->j, tj->c, nj->ny, ë->eu); it is NOT from the source and needs checking before
+  it is used to match the 1985 dictionary. Indonesian and English were produced by machine translation
+  of van Langen's Dutch (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl`
+  for verification; the rendering is not from the source and needs a human check. Part of speech not stated
+  in the source; left blank.

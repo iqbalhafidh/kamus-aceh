@@ -1,22 +1,30 @@
 headword: sandang
-jawi: ''
+jawi: سَنَدَاع
 alt_spelling: []
 ipa: ''
-part_of_speech: n
+part_of_speech: ''
 definitions:
-- meaning_id: alat untuk memikul sesuatu berupa tali atau ban kulit yang disilangkan di bahu atau di dada
-  meaning_en: ''
-examples:
-- aceh: cut
-  jawi: ''
-  id: ja, tok sandang, salah satu suku keturunan orang Aceh
-  en: ''
+- meaning_id: membawa sesuatu di bawah lengan pada tali
+  meaning_en: carrying something under the arm on a rope
+  meaning_nl: iets onder den arm aan een touw dragen
+- meaning_id: sandang pēdēng, membawa pedang
+  meaning_en: sandang pēdēng, carrying a sword
+  meaning_nl: sandang pēdēng, een zwaard dragen
+- meaning_id: sandang pērisoi, memakai perisai
+  meaning_en: sandang pērisoi, wearing a shield
+  meaning_nl: sandang pērisoi, een schild dragen
+examples: []
 etymology: ''
 related_words: []
 dialect_notes: ''
-source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
-  Pendidikan dan Kebudayaan, 1985, hlm. 842'
+source: 'K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage: Martinus Nijhoff, voor het
+  Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië, 1889, hlm. 154'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: 'English gloss left blank: no confident translation of the Indonesian definition was
-  available. Jawi left blank: the source is Latin-script only and no Jawi form is printed for this entry.'
+language_uncertain: false
+modern_spelling: sandang
+extraction_notes: Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each
+  headword); not AI-generated. Indonesian and English were produced by machine translation of van Langen's
+  Dutch (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl` for verification;
+  the rendering is not from the source and needs a human check. Part of speech not stated in the source;
+  left blank.

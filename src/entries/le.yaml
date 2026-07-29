@@ -1,11 +1,21 @@
 headword: le
-jawi: ''
-alt_spelling: []
+jawi: لا
+alt_spelling:
+- lé
 ipa: ''
 part_of_speech: a
 definitions:
 - meaning_id: banyak
   meaning_en: many
+- meaning_id: banyak, sering, berkali-kali
+  meaning_en: many, often, many times
+  meaning_nl: veel, menigvuldig, talrijk, dikwijls, vele malen
+- meaning_id: pélé, tingkatkan
+  meaning_en: pélé, increase
+  meaning_nl: pélé, vermeerderen
+- meaning_id: nélé, banyak, mayoritas, kerumunan
+  meaning_en: nélé, multitude, majority, crowd
+  meaning_nl: nélé, veelheid, meerderheid, menigte,
 examples:
 - aceh: that
   jawi: ''
@@ -27,13 +37,33 @@ examples:
   jawi: ''
   id: berbanyak-banyak
   en: many many
+- aceh: namit pi le arta mamur
+  aceh_1889: namit pi lé arta mamoer
+  jawi: ''
+  id: budak-budaknya banyak, dan hartanya banyak
+  en: his slaves were many, and his possessions were many
+  nl: zijne slaven waren vele, zijne bezittingen menigvuldig
+- aceh: rajat nele meribee ribee
+  aceh_1889: rajat nélé mèribée-ribée
+  jawi: ''
+  id: kerumunan rakyatnya ribuan
+  en: the crowd of his subjects was thousands
+  nl: de menigte zijner onderdanen bedroeg duizenden
 etymology: ''
 related_words:
 - bin- tang
 dialect_notes: ''
 source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
-  Pendidikan dan Kebudayaan, 1985, hlm. 512'
+  Pendidikan dan Kebudayaan, 1985, hlm. 512; K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage:
+  Martinus Nijhoff, voor het Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië,
+  1889, hlm. 233'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
 extraction_notes: 'Jawi left blank: the source is Latin-script only and no Jawi form is printed for this
-  entry.'
+  entry. | Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each headword);
+  not AI-generated. `modern_spelling` “le” is an AI-supplied transposition of the 1889 orthography (oe->u,
+  dj->j, tj->c, nj->ny, ë->eu); it is NOT from the source and needs checking before it is used to match
+  the 1985 dictionary. Indonesian and English were produced by machine translation of van Langen''s Dutch
+  (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl` for verification;
+  the rendering is not from the source and needs a human check. Part of speech not stated in the source;
+  left blank.'

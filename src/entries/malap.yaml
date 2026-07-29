@@ -1,11 +1,18 @@
 headword: malap
-jawi: ''
+jawi: مالف
 alt_spelling: []
 ipa: ''
 part_of_speech: a
 definitions:
 - meaning_id: malap, suram, majal, tumpul
   meaning_en: dim, dim, dull, blunt
+- meaning_id: yaitu api yang sangat kecil, yang tingkat kepanasannya tidak akan pernah dicapai jenis api
+    yang lain, walaupun menyala-nyala dengan diisi bahan bakar
+  meaning_en: 'of a fire: small, smoldering'
+  meaning_nl: 'van een vuur: klein, smeulend'
+- meaning_id: 'dari pisau: tulang'
+  meaning_en: 'of a knife: bone'
+  meaning_nl: 'van een mes: bot'
 examples: []
 etymology: ''
 related_words:
@@ -13,8 +20,14 @@ related_words:
 - mala
 dialect_notes: ''
 source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
-  Pendidikan dan Kebudayaan, 1985, hlm. 569'
+  Pendidikan dan Kebudayaan, 1985, hlm. 569; K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage:
+  Martinus Nijhoff, voor het Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië,
+  1889, hlm. 253'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
 extraction_notes: 'Jawi left blank: the source is Latin-script only and no Jawi form is printed for this
-  entry.'
+  entry. | Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each headword);
+  not AI-generated. Indonesian and English were produced by machine translation of van Langen''s Dutch
+  (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl` for verification;
+  the rendering is not from the source and needs a human check. Part of speech not stated in the source;
+  left blank.'

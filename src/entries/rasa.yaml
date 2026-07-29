@@ -1,11 +1,17 @@
 headword: rasa
-jawi: ''
+jawi: رَاس
 alt_spelling: []
 ipa: ''
 part_of_speech: n
 definitions:
 - meaning_id: rasa, perasaan, pendapat, merasa, merasakan, mengalami, berpendapat
   meaning_en: feeling, can, to experience, to be of the opinion
+- meaning_id: rasa dari sesuatu, perasaan, sensasi, rasa
+  meaning_en: taste of something, feeling, sensation, taste
+  meaning_nl: smaak van iets, gevoel, gewaarwording, smaak
+- meaning_id: mērasa, rasakan sesuatu, rasakan itu juga ditulis
+  meaning_en: mērasa, taste something, feel it. Also written
+  meaning_nl: mērasa, iets proeven, van gevoelen zijn. Ook رَسَا geschreven
 examples:
 - aceh: ta rasa kuah nyoe sigo, peue na tabue?
   jawi: ''
@@ -24,7 +30,9 @@ related_words:
 - raksa
 dialect_notes: ''
 source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
-  Pendidikan dan Kebudayaan, 1985, hlm. 780'
+  Pendidikan dan Kebudayaan, 1985, hlm. 780; K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage:
+  Martinus Nijhoff, voor het Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië,
+  1889, hlm. 118'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
 extraction_notes: 'Homonym 1 in the source (printed as a superscript numeral before the headword). Jawi
@@ -32,4 +40,8 @@ extraction_notes: 'Homonym 1 in the source (printed as a superscript numeral bef
   this only as a cross-reference (→ raksa); no independent definition is printed, so meaning fields are
   left blank rather than guessed. Homonym 2 in the source (printed as a superscript numeral before the
   headword). Jawi left blank: the source is Latin-script only and no Jawi form is printed for this entry.
-  Part of speech not stated in the source; left blank.'
+  Part of speech not stated in the source; left blank. | Jawi copied verbatim from the printed source
+  (van Langen prints the Jawi form for each headword); not AI-generated. Indonesian and English were produced
+  by machine translation of van Langen''s Dutch (Dutch→English→Indonesian, OPUS-MT). The Dutch original
+  is kept in `meaning_nl`/`nl` for verification; the rendering is not from the source and needs a human
+  check. Part of speech not stated in the source; left blank.'

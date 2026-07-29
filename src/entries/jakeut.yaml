@@ -1,0 +1,38 @@
+headword: djakët
+jawi: جاکه
+alt_spelling: []
+ipa: ''
+part_of_speech: ''
+definitions:
+- meaning_id: the Ar. zakat, pemurnian barang
+  meaning_en: the Ar. zakat, purification of goods
+  meaning_nl: het Ar. zakat, zuivering van goederen
+- meaning_id: djakët ringgit, dari keturunan nasional Hero
+  meaning_en: djakët ringgit, of national descendants 21⁄2
+  meaning_nl: djakët ringgit, van 100 rijksdaalders 2½
+- meaning_id: 'padi: dari goedjës naliës'
+  meaning_en: 'of padi: of goedjës naliës'
+  meaning_nl: 'van padi: van 6 goedjës 6 naliës'
+- meaning_id: carbounws dan lainnya tanduk saham dari 30 potong 1
+  meaning_en: of carbouws and other horn stock of 30 pieces 1
+  meaning_nl: van karbouwen en ander hoornvee van 30 stuks 1
+- meaning_id: jumlah yang dideklarasikan adalah minimum yang djakët pertama-tama harus diterapkan
+  meaning_en: the quantities declared are the minimums for which djakët must first be applied
+  meaning_nl: De opgegeven hoeveelheden zijn de minima, waarvoor eerst djakët moet worden opgebracht
+examples: []
+etymology: ''
+related_words: []
+dialect_notes: ''
+source: 'K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage: Martinus Nijhoff, voor het
+  Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië, 1889, hlm. 78'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+language_uncertain: false
+modern_spelling: jakeut
+extraction_notes: Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each
+  headword); not AI-generated. `modern_spelling` “jakeut” is an AI-supplied transposition of the 1889
+  orthography (oe->u, dj->j, tj->c, nj->ny, ë->eu); it is NOT from the source and needs checking before
+  it is used to match the 1985 dictionary. Indonesian and English were produced by machine translation
+  of van Langen's Dutch (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl`
+  for verification; the rendering is not from the source and needs a human check. Part of speech not stated
+  in the source; left blank.

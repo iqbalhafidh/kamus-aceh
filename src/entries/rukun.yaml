@@ -1,0 +1,38 @@
+headword: roekoen
+jawi: روكون
+alt_spelling: []
+ipa: ''
+part_of_speech: ''
+definitions:
+- meaning_id: pilar Islam, kewajiban utama agama, dukungan, bantuan, materi yang sangat penting, prinsip,
+    lembaga tanah
+  meaning_en: pillars of Islam, the principal obligations of religion, support, assistance, matter of
+    great importance, principle of principle, land institution
+  meaning_nl: pilaren van den Islam, de voornaamste godsdienstplichten, steun, bijstand, zaak van groot
+    gewicht, grondbeginsel, grondinstelling
+- meaning_id: roekoen-roekoen, masing-masing, setiap
+  meaning_en: roekoen-roekoen, each, every
+  meaning_nl: roekoen-roekoen, iedere, elke
+examples: []
+etymology: ''
+related_words: []
+dialect_notes: ''
+source: 'K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage: Martinus Nijhoff, voor het
+  Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië, 1889, hlm. 130'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+language_uncertain: false
+modern_spelling: rukun
+extraction_notes: 'Homonym I in the source (printed as a numeral before the headword). Jawi copied verbatim
+  from the printed source (van Langen prints the Jawi form for each headword); not AI-generated. `modern_spelling`
+  “rukun” is an AI-supplied transposition of the 1889 orthography (oe->u, dj->j, tj->c, nj->ny, ë->eu);
+  it is NOT from the source and needs checking before it is used to match the 1985 dictionary. Indonesian
+  and English were produced by machine translation of van Langen''s Dutch (Dutch→English→Indonesian, OPUS-MT).
+  The Dutch original is kept in `meaning_nl`/`nl` for verification; the rendering is not from the source
+  and needs a human check. Part of speech not stated in the source; left blank. | Homonym II in the source
+  (printed as a numeral before the headword). Jawi left blank: no Jawi form is printed for this entry.
+  `modern_spelling` “rukun” is an AI-supplied transposition of the 1889 orthography (oe->u, dj->j, tj->c,
+  nj->ny, ë->eu); it is NOT from the source and needs checking before it is used to match the 1985 dictionary.
+  Indonesian and English were produced by machine translation of van Langen''s Dutch (Dutch→English→Indonesian,
+  OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl` for verification; the rendering is not from
+  the source and needs a human check. Part of speech not stated in the source; left blank.'

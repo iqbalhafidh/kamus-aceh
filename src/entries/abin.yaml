@@ -1,21 +1,33 @@
 headword: abin
-jawi: ''
+jawi: ابین
 alt_spelling: []
 ipa: ''
 part_of_speech: ''
 definitions:
-- meaning_id: susu
-  meaning_en: milk
-- meaning_id: tetek
-  meaning_en: breast, udder
+- meaning_id: ambing
+  meaning_en: udder
+  meaning_nl: uier
+- meaning_id: abin kēbē, sebuah ambing dari karnaval, * pi sang * abin, spesies kencing di Pedir satu
+    mengatakan dari seorang wanita payudara juga abin
+  meaning_en: abin kēbē, an udder of a carnival, *pi sang* abin, a species of piss In Pedir one says of
+    a woman's breasts also abin
+  meaning_nl: abin kēbē, een uier van een karbouw, *pi sang* abin, een pisangsoort. In Pedir zegt men
+    van de borsten eener vrouw ook abin
+- meaning_id: ijēr abin, susu
+  meaning_en: ijēr abin, milk
+  meaning_nl: ijēr abin, melk
 examples: []
 etymology: ''
-related_words:
-- ie tèk
-- tèk
+related_words: []
 dialect_notes: ''
-source: 'Daud, Bukhari & Mark Durie. Kamus Basa Acèh = Kamus Bahasa Aceh: Acehnese–Indonesian–English Thesaurus.
-  Pacific Linguistics C-151, 1999, p. 104; p. 105.'
-date_added: '2026-07-20'
+source: 'K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage: Martinus Nijhoff, voor het
+  Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië, 1889, hlm. 2'
+date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: ''
+language_uncertain: false
+modern_spelling: abin
+extraction_notes: Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each
+  headword); not AI-generated. Indonesian and English were produced by machine translation of van Langen's
+  Dutch (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl` for verification;
+  the rendering is not from the source and needs a human check. Part of speech not stated in the source;
+  left blank.

@@ -1,6 +1,7 @@
 headword: muka
-jawi: ''
-alt_spelling: []
+jawi: موكا
+alt_spelling:
+- moeka
 ipa: ''
 part_of_speech: n
 definitions:
@@ -10,6 +11,12 @@ definitions:
   meaning_en: face, the front or upper part, yard, on an edged weapon, the ground hollow or the flat of
     the blade, on the betel vine, pepper, or other climbing plants; the stalk end, severe, a classifier
     for shops
+- meaning_id: wajah, penampilan
+  meaning_en: face, appearance
+  meaning_nl: aangezicht, gelaat, uiterlijk
+- meaning_id: moeka rēdj, titik keluar dari jalan
+  meaning_en: moeka rēdj, point of exit of a road
+  meaning_nl: moeka rēdj, punt van uitgang van een weg
 examples:
 - aceh: ji gèt that
   jawi: ''
@@ -25,7 +32,7 @@ examples:
   en: Does one like you mean to come forward?
 - aceh: paléngmuka
   jawi: ''
-  id: memalingkan muka , (ki) berkhianat
+  id: memalingkan muka, (ki) berkhianat
   en: most face, treachery (figuratively)
 - aceh: tilékmuka
   jawi: ''
@@ -75,8 +82,16 @@ etymology: ''
 related_words: []
 dialect_notes: ''
 source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
-  Pendidikan dan Kebudayaan, 1985, hlm. 615'
+  Pendidikan dan Kebudayaan, 1985, hlm. 615; K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage:
+  Martinus Nijhoff, voor het Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië,
+  1889, hlm. 267'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
 extraction_notes: 'Jawi left blank: the source is Latin-script only and no Jawi form is printed for this
-  entry.'
+  entry. | Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each headword);
+  not AI-generated. `modern_spelling` “muka” is an AI-supplied transposition of the 1889 orthography (oe->u,
+  dj->j, tj->c, nj->ny, ë->eu); it is NOT from the source and needs checking before it is used to match
+  the 1985 dictionary. Indonesian and English were produced by machine translation of van Langen''s Dutch
+  (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl` for verification;
+  the rendering is not from the source and needs a human check. Part of speech not stated in the source;
+  left blank.'

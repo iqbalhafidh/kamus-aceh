@@ -1,11 +1,15 @@
 headword: lu
-jawi: ''
-alt_spelling: []
+jawi: لو
+alt_spelling:
+- loe
 ipa: ''
 part_of_speech: a
 definitions:
 - meaning_id: manja
   meaning_en: spoilt
+- meaning_id: kasih sayang, cinta
+  meaning_en: affection, love
+  meaning_nl: toegenegenheid, liefde toedragen
 examples:
 - aceh: aneuklu
   jawi: ''
@@ -27,14 +31,28 @@ examples:
   jawi: ''
   id: Anda jangan memanjakan diri pdku
   en: Do not play the spoilt child with me
+- aceh: ulun lu tehat bak ku ulun hantom gepoh hantom gecarut
+  aceh_1889: oeloen loe tēhat bak koe oeloen hantom gēpoh hantom gētjaroet
+  jawi: ''
+  id: aku sangat sayang kepada ayahku, sebab dia tidak memukul aku atau menggelindingkan aku
+  en: i bear great affection to my father, because he neither beats me nor shakes me
+  nl: ik draag mijn vader groote toegenegenheid toe, omdat hij mij noch slaat noch bekijft
 etymology: ''
 related_words:
 - manja
 - ucê
 dialect_notes: ''
 source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
-  Pendidikan dan Kebudayaan, 1985, hlm. 554'
+  Pendidikan dan Kebudayaan, 1985, hlm. 554; K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage:
+  Martinus Nijhoff, voor het Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië,
+  1889, hlm. 244'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
 extraction_notes: 'Jawi left blank: the source is Latin-script only and no Jawi form is printed for this
-  entry.'
+  entry. | Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each headword);
+  not AI-generated. `modern_spelling` “lu” is an AI-supplied transposition of the 1889 orthography (oe->u,
+  dj->j, tj->c, nj->ny, ë->eu); it is NOT from the source and needs checking before it is used to match
+  the 1985 dictionary. Indonesian and English were produced by machine translation of van Langen''s Dutch
+  (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl` for verification;
+  the rendering is not from the source and needs a human check. Part of speech not stated in the source;
+  left blank.'

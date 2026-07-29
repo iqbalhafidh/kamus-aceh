@@ -1,0 +1,29 @@
+headword: kating
+jawi: كاتيغ
+alt_spelling: []
+ipa: ''
+part_of_speech: n
+definitions:
+- meaning_id: sejenis keranjang persegi memanjang dari kulit semak belukar yang disebut bili, dikepang.
+    dalam keranjang ini, yang memiliki tertentu isi atau nalé, padi dari bidang tersebut dibawa pulang,
+    sehingga orang dapat segera menghitung seberapa besar panen telah
+  meaning_en: a kind of elongated square basket of the bark of a shrub called bili, braided. In these
+    baskets, which have a certain content of or 11⁄2 nalé, the padi of the field is carried home, so that
+    one can immediately calculate how big the harvest has been
+  meaning_nl: een soort van langwerpig vierkante mand van de schors van een heester, bili genaamd, gevlochten.
+    In deze manden, die een bepaalden inhoud van 1 of 1½ nalé hebben, wordt de padi van het veld huiswaarts
+    gedragen, zoodat men onmiddellijk berekenen kan hoe groot de oogst is geweest
+examples: []
+etymology: ''
+related_words: []
+dialect_notes: ''
+source: 'K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage: Martinus Nijhoff, voor het
+  Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië, 1889, hlm. 199'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+language_uncertain: false
+modern_spelling: kating
+extraction_notes: Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each
+  headword); not AI-generated. Indonesian and English were produced by machine translation of van Langen's
+  Dutch (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl` for verification;
+  the rendering is not from the source and needs a human check.

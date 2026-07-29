@@ -1,19 +1,32 @@
-headword: sajan
-jawi: ''
+headword: sadjan
+jawi: ساجن
 alt_spelling: []
 ipa: ''
 part_of_speech: ''
-definitions: []
-examples: []
+definitions:
+- meaning_id: simultan, pada saat yang sama
+  meaning_en: simultaneous, at the same time
+  meaning_nl: gelijktijdig, te gelijker tijd
+examples:
+- aceh: padum kapal kempeni kapal perenggi sajan teka
+  aceh_1889: padoem kapal kēmpēni kapal pērēnggi sadjan tēka
+  jawi: ''
+  id: hoevele perusahaan kapal, hoevele kapal Frankise tidak tiba pada waktu yang sama
+  en: hoevele company's ships, hoevele Frankise ships did not arrive at the same time
+  nl: hoevele compagnie's schepen, hoevele Frankische schepen kwamen er niet te gelijkertijd
 etymology: ''
-related_words:
-- jan
-- sa
+related_words: []
 dialect_notes: ''
-source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
-  Pendidikan dan Kebudayaan, 1985, hlm. 834'
+source: 'K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage: Martinus Nijhoff, voor het
+  Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië, 1889, hlm. 136'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: 'Source gives this only as a cross-reference (→ jan, sa); no independent definition
-  is printed, so meaning fields are left blank rather than guessed. Jawi left blank: the source is Latin-script
-  only and no Jawi form is printed for this entry. Part of speech not stated in the source; left blank.'
+language_uncertain: false
+modern_spelling: sajan
+extraction_notes: Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each
+  headword); not AI-generated. `modern_spelling` “sajan” is an AI-supplied transposition of the 1889 orthography
+  (oe->u, dj->j, tj->c, nj->ny, ë->eu); it is NOT from the source and needs checking before it is used
+  to match the 1985 dictionary. Indonesian and English were produced by machine translation of van Langen's
+  Dutch (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl` for verification;
+  the rendering is not from the source and needs a human check. Part of speech not stated in the source;
+  left blank.

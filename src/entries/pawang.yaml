@@ -1,5 +1,5 @@
 headword: pawang
-jawi: ''
+jawi: فاوغ
 alt_spelling: []
 ipa: ''
 part_of_speech: n
@@ -8,6 +8,28 @@ definitions:
     sesuatu, memimpin, mengurus
   meaning_en: shaman, specialist catch animal wild, to hunt, pilot, helmsman, leader, head, shaman something,
     to lead, to manage
+- meaning_id: seseorang yang berpengalaman di perusahaan dan bisa bertindak sebagai bos atau kepala di
+    dalamnya
+  meaning_en: a person who is experienced in a company and who can act as a boss or head in it
+  meaning_nl: iemand, die in een bedrijf ervaren is en als baas of hoofd daarin kan optreden
+- meaning_id: pawang poekat, kepala Fishschers
+  meaning_en: pawang poekat, Head of Fishschers
+  meaning_nl: pawang poekat, hoofd der visschers
+- meaning_id: pawang sampan, pencipta
+  meaning_en: pawang sampan, creator
+  meaning_nl: pawang sampan, schepper
+- meaning_id: pawang batée, gudang
+  meaning_en: pawang batée, warehouse
+  meaning_nl: pawang batée, loods
+- meaning_id: pawang oenoi, seseorang yang ahli dalam melacak lebah-lebah misknests
+  meaning_en: pawang oenoi, someone skilled in tracking bees' nests
+  meaning_nl: pawang oenoi, iemand, bedreven in 't opsporen van bijennesten
+- meaning_id: pawang roesa, hertenjager
+  meaning_en: pawang roesa, hertenjager
+  meaning_nl: pawang roesa, hertenjager
+- meaning_id: pawang gadjah, olifantenjager
+  meaning_en: pawang gadjah, olifantenjager
+  meaning_nl: pawang gadjah, olifantenjager
 examples:
 - aceh: pawang buya
   jawi: ''
@@ -18,8 +40,14 @@ etymology: ''
 related_words: []
 dialect_notes: ''
 source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
-  Pendidikan dan Kebudayaan, 1985, hlm. 685'
+  Pendidikan dan Kebudayaan, 1985, hlm. 685; K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage:
+  Martinus Nijhoff, voor het Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië,
+  1889, hlm. 178'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
 extraction_notes: 'Jawi left blank: the source is Latin-script only and no Jawi form is printed for this
-  entry.'
+  entry. | Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each headword);
+  not AI-generated. Indonesian and English were produced by machine translation of van Langen''s Dutch
+  (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl` for verification;
+  the rendering is not from the source and needs a human check. Part of speech not stated in the source;
+  left blank.'

@@ -1,0 +1,47 @@
+headword: tēhēn
+jawi: تھن
+alt_spelling: []
+ipa: ''
+part_of_speech: ''
+definitions:
+- meaning_id: tahan
+  meaning_en: hold
+  meaning_nl: tegenhouden, standhouden, uithouden
+- meaning_id: tēhēn atē, tahan, tetap tenang
+  meaning_en: tēhēn atē, restraining, keeping calm
+  meaning_nl: tēhēn atē, zich bedwingen, bedaard houden
+- meaning_id: tēhēn sabar, sabar
+  meaning_en: tēhēn sabar, patience
+  meaning_nl: tēhēn sabar, geduldig verdragen
+- meaning_id: tēhēn soeda, tanaman randjau's
+  meaning_en: tēhēn soeda, randjau's plants
+  meaning_nl: tēhēn soeda, randjau's planten
+- meaning_id: tēhēn darah, darah menusuk dari luka
+  meaning_en: tēhēn darah, blood stabbing from a wound
+  meaning_nl: tēhēn darah, bloed uit eene wonde stelpen
+- meaning_id: tēhēn boebée, kencangkan perangkap ikan
+  meaning_en: tēhēn boebée, fasten fish traps
+  meaning_nl: tēhēn boebée, fuiken vastzetten
+- meaning_id: tēhēn pēlēntik, tempat menunjuk bamboe's atau kayu dalam arah horizontal sedemikian rupa
+    sehingga, jika hewan bingung dalam jaring, mereka terpengaruh oleh itu
+  meaning_en: tēhēn pēlēntik, place pointed bamboe's or wooden in a horizontal direction in such a way
+    that, if animals are confused in the nets, they are affected by it
+  meaning_nl: tēhēn pēlēntik, puntige bamboe's of houten in horizontale richting zoodanig stellen, dat,
+    wanneer beesten in de netten verwarren, zij er door getroffen worden
+examples: []
+etymology: ''
+related_words: []
+dialect_notes: ''
+source: 'K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage: Martinus Nijhoff, voor het
+  Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië, 1889, hlm. 73'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+language_uncertain: false
+modern_spelling: tehen
+extraction_notes: Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each
+  headword); not AI-generated. `modern_spelling` “tehen” is an AI-supplied transposition of the 1889 orthography
+  (oe->u, dj->j, tj->c, nj->ny, ë->eu); it is NOT from the source and needs checking before it is used
+  to match the 1985 dictionary. Indonesian and English were produced by machine translation of van Langen's
+  Dutch (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl` for verification;
+  the rendering is not from the source and needs a human check. Part of speech not stated in the source;
+  left blank.

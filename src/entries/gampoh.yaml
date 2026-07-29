@@ -1,0 +1,30 @@
+headword: gampoh
+jawi: کَمَفُو
+alt_spelling: []
+ipa: ''
+part_of_speech: ''
+definitions:
+- meaning_id: untuk menggabungkan dua atau lebih potongan baik, kawat atau tali bersama-sama sedemikian
+    rupa bahwa bagian-bagian masih dapat dibedakan
+  meaning_en: to combine two or more pieces of good, wire or rope together in such a way that the parts
+    can still be distinguished
+  meaning_nl: twee of meer stukken goed, draad of touw tot een geheel vereenigen, zoodanig dat men de
+    deelen nog kan onderscheiden
+- meaning_id: terhubung, merge
+  meaning_en: connect, Merge
+  meaning_nl: verbinden, samenvoegen
+examples: []
+etymology: ''
+related_words: []
+dialect_notes: ''
+source: 'K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage: Martinus Nijhoff, voor het
+  Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië, 1889, hlm. 228'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+language_uncertain: false
+modern_spelling: gampoh
+extraction_notes: Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each
+  headword); not AI-generated. Indonesian and English were produced by machine translation of van Langen's
+  Dutch (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl` for verification;
+  the rendering is not from the source and needs a human check. Part of speech not stated in the source;
+  left blank.

@@ -1,5 +1,5 @@
 headword: ilah
-jawi: ''
+jawi: ایله
 alt_spelling:
 - hilah
 ipa: ''
@@ -7,6 +7,9 @@ part_of_speech: n
 definitions:
 - meaning_id: hela, cara untuk mencapai atau melepaskan diri dari sesuatu, mengelakkan diri
   meaning_en: to haul, to drag, a means of attaining something or of getting free of it, to evade
+- meaning_id: (sebenarnya hilah,.) tipu muslihat, wilayah, migrasi buruk, mencari jalan keluar
+  meaning_en: (actually. hilah,..) ruse, region, lousy migration, seeking a way out
+  meaning_nl: (eigenl. hilah, حیله) list, streek, looze trek, een uitweg zoeken
 examples:
 - aceh: le ilah, (raya ilah)
   jawi: ''
@@ -40,13 +43,25 @@ examples:
   jawi: ''
   id: memakai gelang, mempunyai gelang
   en: to wear a bracelet, to have a bracelet
+- aceh: utus teuhat gata mita ilah
+  aceh_1889: oetoes tëhat gata mita ilah
+  jawi: ''
+  id: anda sangat dipotong dalam pencarian jalan
+  en: you are very cut up in the search for roads
+  nl: ge zijt zeer geslepen in het zoeken van uitwegen
 etymology: ''
 related_words:
 - buang
 dialect_notes: ''
 source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
-  Pendidikan dan Kebudayaan, 1985, hlm. 309'
+  Pendidikan dan Kebudayaan, 1985, hlm. 309; K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage:
+  Martinus Nijhoff, voor het Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië,
+  1889, hlm. 23'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
 extraction_notes: 'Jawi left blank: the source is Latin-script only and no Jawi form is printed for this
-  entry.'
+  entry. | Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each headword);
+  not AI-generated. Indonesian and English were produced by machine translation of van Langen''s Dutch
+  (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl` for verification;
+  the rendering is not from the source and needs a human check. Part of speech not stated in the source;
+  left blank.'

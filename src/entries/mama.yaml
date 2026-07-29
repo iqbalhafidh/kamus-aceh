@@ -1,5 +1,5 @@
 headword: mama
-jawi: ''
+jawi: مبا
 alt_spelling:
 - mamak
 ipa: ''
@@ -9,6 +9,9 @@ definitions:
   meaning_en: uncle
 - meaning_id: makcok
   meaning_en: ''
+- meaning_id: paman atau ibu, atau ayah
+  meaning_en: uncle or mom's or dad's
+  meaning_nl: oom of moei van vaders- of van moederszijde
 examples:
 - aceh: so-idina Andah mama Nabi, Saidina Hamzah adalah paman Nabi Muhammad SAW jimupake adoe ngon aduen,
     mama ngon keumuen jimeudakwa
@@ -20,8 +23,14 @@ related_words:
 - paduen
 dialect_notes: ''
 source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
-  Pendidikan dan Kebudayaan, 1985, hlm. 571'
+  Pendidikan dan Kebudayaan, 1985, hlm. 571; K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage:
+  Martinus Nijhoff, voor het Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië,
+  1889, hlm. 264'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
 extraction_notes: 'Jawi left blank: the source is Latin-script only and no Jawi form is printed for this
-  entry.'
+  entry. | Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each headword);
+  not AI-generated. Indonesian and English were produced by machine translation of van Langen''s Dutch
+  (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl` for verification;
+  the rendering is not from the source and needs a human check. Part of speech not stated in the source;
+  left blank.'

@@ -1,0 +1,36 @@
+headword: gigoi
+jawi: كِيَكِي
+alt_spelling: []
+ipa: ''
+part_of_speech: ''
+definitions:
+- meaning_id: gigi
+  meaning_en: tooth
+  meaning_nl: tand
+- meaning_id: gigoi midèn, gigi depan
+  meaning_en: gigoi midèn, front teeth
+  meaning_nl: gigoi midèn, de voortanden
+- meaning_id: gigoi asée, hoek-tand
+  meaning_en: gigoi asée, hoek-tand
+  meaning_nl: gigoi asée, hoek-tand
+- meaning_id: mègigoi toothed
+  meaning_en: mègigoi toothed
+  meaning_nl: mègigoi, getand
+- meaning_id: pègigoi, membuat gigi dalam sesuatu
+  meaning_en: pègigoi, making teeth in something
+  meaning_nl: pègigoi, tanden in iets maken
+examples: []
+etymology: ''
+related_words: []
+dialect_notes: ''
+source: 'K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage: Martinus Nijhoff, voor het
+  Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië, 1889, hlm. 232'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+language_uncertain: false
+modern_spelling: gigoi
+extraction_notes: Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each
+  headword); not AI-generated. Indonesian and English were produced by machine translation of van Langen's
+  Dutch (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl` for verification;
+  the rendering is not from the source and needs a human check. Part of speech not stated in the source;
+  left blank.

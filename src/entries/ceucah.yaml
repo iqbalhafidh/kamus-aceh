@@ -1,14 +1,32 @@
-headword: ceucah
-jawi: چوچه
+headword: tjëtjah
+jawi: چچه
 alt_spelling: []
 ipa: ''
 part_of_speech: ''
-definitions: []
+definitions:
+- meaning_id: pembuatan sambal (baik - buatan cabai Spanyol)
+  meaning_en: manufacture of sambal (fine-made spanish pepper)
+  meaning_nl: het vervaardigen van sambal (fijngemaakte spaan-sche peper)
+- meaning_id: tjëmëtjah, roedjak, jenis salad yang terbuat dari buah, matang dan belum matang, diiris
+    halus dan dicampur dengan cuka, gula, rentang lada, garam dan bawang
+  meaning_en: tjëmëtjah, roedjak, a kind of salad made from fruit, ripe and immature, finely sliced and
+    mixed with vinegar, sugar, span pepper, salt and onions
+  meaning_nl: tjëmëtjah, roedjak, een soort van salade gemaakt van vruchten, rijp en onrijp, fijn gesneden
+    en vermengd met azijn, suiker, spaan-sche peper, zout en uien
+examples: []
 etymology: ''
-related_words:
-- cicah
+related_words: []
 dialect_notes: ''
-source: Kamus Aceh-Indonesia (Acehnese-Indonesian Dictionary), p. 124
+source: 'K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage: Martinus Nijhoff, voor het
+  Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië, 1889, hlm. 91'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: Cross-reference entry pointing to 'cicah'. Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate reviewer.
+language_uncertain: false
+modern_spelling: ceucah
+extraction_notes: Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each
+  headword); not AI-generated. `modern_spelling` “ceucah” is an AI-supplied transposition of the 1889
+  orthography (oe->u, dj->j, tj->c, nj->ny, ë->eu); it is NOT from the source and needs checking before
+  it is used to match the 1985 dictionary. Indonesian and English were produced by machine translation
+  of van Langen's Dutch (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl`
+  for verification; the rendering is not from the source and needs a human check. Part of speech not stated
+  in the source; left blank.

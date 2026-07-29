@@ -1,11 +1,15 @@
 headword: rabe
-jawi: ''
-alt_spelling: []
+jawi: رابی
+alt_spelling:
+- rabé
 ipa: ''
 part_of_speech: v
 definitions:
 - meaning_id: mengembalakan
   meaning_en: ''
+- meaning_id: penggembalaan, merumput
+  meaning_en: grazing
+  meaning_nl: grazen, weiden
 examples:
 - aceh: 'ki menguasai: lon jak rabe leumo u blang'
   jawi: ''
@@ -27,12 +31,27 @@ examples:
   jawi: ''
   id: membiarkan berbuat sesuka hati
   en: to allow make like heart
+- aceh: lun jak rabe lemo u blang
+  aceh_1889: loen djak rabé lēmo oe blang
+  jawi: ''
+  id: aku akan membiarkan daging sapiku merumput di sawah
+  en: i'll let my beef graze on the rice field
+  nl: ik laat mijn rund op het rijstveld grazen
 etymology: ''
 related_words: []
 dialect_notes: ''
 source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
-  Pendidikan dan Kebudayaan, 1985, hlm. 761'
+  Pendidikan dan Kebudayaan, 1985, hlm. 761; K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage:
+  Martinus Nijhoff, voor het Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië,
+  1889, hlm. 117'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
 extraction_notes: 'English gloss left blank: no confident translation of the Indonesian definition was
-  available. Jawi left blank: the source is Latin-script only and no Jawi form is printed for this entry.'
+  available. Jawi left blank: the source is Latin-script only and no Jawi form is printed for this entry.
+  | Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each headword);
+  not AI-generated. `modern_spelling` “rabe” is an AI-supplied transposition of the 1889 orthography (oe->u,
+  dj->j, tj->c, nj->ny, ë->eu); it is NOT from the source and needs checking before it is used to match
+  the 1985 dictionary. Indonesian and English were produced by machine translation of van Langen''s Dutch
+  (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl` for verification;
+  the rendering is not from the source and needs a human check. Part of speech not stated in the source;
+  left blank.'

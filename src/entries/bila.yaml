@@ -1,0 +1,31 @@
+headword: bila
+jawi: بيلا
+alt_spelling: []
+ipa: ''
+part_of_speech: ''
+definitions:
+- meaning_id: balas dendam, taIio
+  meaning_en: revenge, talio
+  meaning_nl: weêrwraak, talio
+- meaning_id: bila njawong, balas dendam berakhir dengan kematian
+  meaning_en: bila njawong, revenge ending with death
+  meaning_nl: bila njawong, weêrwraak, die met den dood eindigt
+- meaning_id: bila darah, balas dendam darah memberikan kembali pertempuran yang diterima, balas, jadi
+    jawab
+  meaning_en: bila darah, blood vengeance. Give back a battle received, balas, so answer
+  meaning_nl: bila darah, bloedwraak. Een ontvangen slag teruggeven, balas, dus beantwoorden
+examples: []
+etymology: ''
+related_words: []
+dialect_notes: ''
+source: 'K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage: Martinus Nijhoff, voor het
+  Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië, 1889, hlm. 50'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+language_uncertain: false
+modern_spelling: bila
+extraction_notes: Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each
+  headword); not AI-generated. Indonesian and English were produced by machine translation of van Langen's
+  Dutch (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl` for verification;
+  the rendering is not from the source and needs a human check. Part of speech not stated in the source;
+  left blank.

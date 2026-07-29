@@ -1,0 +1,35 @@
+headword: ampēt
+jawi: امفت
+alt_spelling: []
+ipa: ''
+part_of_speech: ''
+definitions:
+- meaning_id: ambang pintu
+  meaning_en: threshold
+  meaning_nl: drempel, dorpel
+examples:
+- aceh: hana rut bek kaduk bak ampet renyen
+  aceh_1889: hana roet bēk kadoek bak ampēt rēnjēn
+  jawi: ''
+  id: itu tidak benar bagi Anda untuk duduk di ambang pintu tangga. satu mengatakan baik ampēt rēnjēn,
+    ambang tangga, dan ampēt pintoe, ambang pintu
+  en: it is not right for you to sit on the threshold of the stairs. One says both ampēt rēnjēn, threshold
+    of the stairs, and ampēt pintoe, threshold of the door
+  nl: het is niet behoorlijk, dat gij op den drempel van de trap zit. Men zegt zoowel ampēt rēnjēn, dorpel
+    van de trap, als ampēt pintoe, dorpel van de deur
+etymology: ''
+related_words: []
+dialect_notes: ''
+source: 'K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage: Martinus Nijhoff, voor het
+  Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië, 1889, hlm. 10'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+language_uncertain: false
+modern_spelling: ampet
+extraction_notes: Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each
+  headword); not AI-generated. `modern_spelling` “ampet” is an AI-supplied transposition of the 1889 orthography
+  (oe->u, dj->j, tj->c, nj->ny, ë->eu); it is NOT from the source and needs checking before it is used
+  to match the 1985 dictionary. Indonesian and English were produced by machine translation of van Langen's
+  Dutch (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl` for verification;
+  the rendering is not from the source and needs a human check. Part of speech not stated in the source;
+  left blank.

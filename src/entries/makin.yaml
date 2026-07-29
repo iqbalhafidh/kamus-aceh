@@ -1,17 +1,53 @@
 headword: makin
-jawi: ''
-alt_spelling: []
+jawi: ماکین
+alt_spelling:
+- mangkin
 ipa: ''
-part_of_speech: ''
+part_of_speech: n
 definitions:
-- meaning_id: makin
-  meaning_en: the more, increasingly
-examples: []
+- meaning_id: sejenis lemon
+  meaning_en: a kind of lemon
+  meaning_nl: een soort van citroen
+- meaning_id: semakin banyak atau kurang, sehingga jauh lebih
+  meaning_en: the more or less, so much more
+  meaning_nl: des te meer of eerder, zooveel te meer
+- meaning_id: lihat makin
+  meaning_en: see makin
+  meaning_nl: zie ماکین makin
+examples:
+- aceh: makin trib makin geuj
+  aceh_1889: makin trib makin gëdj
+  jawi: ''
+  id: lebih lama lebih baik
+  en: the longer the better
+  nl: hoe langer hoe beter
 etymology: ''
 related_words: []
 dialect_notes: ''
-source: 'Daud, Bukhari & Mark Durie. Kamus Basa Acèh = Kamus Bahasa Aceh: Acehnese–Indonesian–English Thesaurus.
-  Pacific Linguistics C-151, 1999, p. 114.'
-date_added: '2026-07-20'
+source: 'K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage: Martinus Nijhoff, voor het
+  Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië, 1889, hlm. 253, 262'
+date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: ''
+language_uncertain: false
+modern_spelling: makin
+extraction_notes: 'Homonym I in the source (printed as a numeral before the headword). Jawi copied verbatim
+  from the printed source (van Langen prints the Jawi form for each headword); not AI-generated. Indonesian
+  and English were produced by machine translation of van Langen''s Dutch (Dutch→English→Indonesian, OPUS-MT).
+  The Dutch original is kept in `meaning_nl`/`nl` for verification; the rendering is not from the source
+  and needs a human check. | Homonym II in the source (printed as a numeral before the headword). Jawi
+  left blank: no Jawi form is printed for this entry. Indonesian and English were produced by machine
+  translation of van Langen''s Dutch (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in
+  `meaning_nl`/`nl` for verification; the rendering is not from the source and needs a human check. Part
+  of speech not stated in the source; left blank. | Homonym I in the source (printed as a numeral before
+  the headword). Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each
+  headword); not AI-generated. Indonesian and English were produced by machine translation of van Langen''s
+  Dutch (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl` for verification;
+  the rendering is not from the source and needs a human check. | Homonym II in the source (printed as
+  a numeral before the headword). Jawi left blank: no Jawi form is printed for this entry. Indonesian
+  and English were produced by machine translation of van Langen''s Dutch (Dutch→English→Indonesian, OPUS-MT).
+  The Dutch original is kept in `meaning_nl`/`nl` for verification; the rendering is not from the source
+  and needs a human check. Part of speech not stated in the source; left blank. | Jawi copied verbatim
+  from the printed source (van Langen prints the Jawi form for each headword); not AI-generated. Indonesian
+  and English were produced by machine translation of van Langen''s Dutch (Dutch→English→Indonesian, OPUS-MT).
+  The Dutch original is kept in `meaning_nl`/`nl` for verification; the rendering is not from the source
+  and needs a human check. Part of speech not stated in the source; left blank.'

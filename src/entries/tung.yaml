@@ -1,0 +1,42 @@
+headword: toeng
+jawi: تُوغْ
+alt_spelling: []
+ipa: ''
+part_of_speech: ''
+definitions:
+- meaning_id: mendapatkan seseorang, mendapatkan seseorang keluar dari sesuatu, menarik dari sesuatu,
+    mengambil, mengambil alih
+  meaning_en: get someone, get someone out of something, pull from something, take, take over
+  meaning_nl: halen, iemand halen, uit iets halen, uit iets trekken, nemen, overnemen,
+- meaning_id: benjolan dengan kepala atau tanduk
+  meaning_en: bumps with head or horns
+  meaning_nl: stooten, met het hoofd of de hoorns
+- meaning_id: juga terhadap satu sama lain
+  meaning_en: also against each other
+  meaning_nl: ook tegen elkander aanvaren van vaartuigen
+- meaning_id: mētoeng, serangan, boarding sinonim dengan Pok
+  meaning_en: mētoeng, assaults, boarding. Synonym with pok
+  meaning_nl: mētoeng, aanstooten, aanvaren. Synoniem met pok
+examples:
+- aceh: bukon lun tung bak na sehah
+  aceh_1889: boekon loen toeng bak na-sēhah
+  jawi: ''
+  id: aku tidak mengambilnya dari contoh?
+  en: i didn't take it from an example [?]
+  nl: ik heb het niet uit een voorbeeld overgenomen [?]
+etymology: ''
+related_words: []
+dialect_notes: ''
+source: 'K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage: Martinus Nijhoff, voor het
+  Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië, 1889, hlm. 69'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+language_uncertain: false
+modern_spelling: tung
+extraction_notes: Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each
+  headword); not AI-generated. `modern_spelling` “tung” is an AI-supplied transposition of the 1889 orthography
+  (oe->u, dj->j, tj->c, nj->ny, ë->eu); it is NOT from the source and needs checking before it is used
+  to match the 1985 dictionary. Indonesian and English were produced by machine translation of van Langen's
+  Dutch (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl` for verification;
+  the rendering is not from the source and needs a human check. Part of speech not stated in the source;
+  left blank.

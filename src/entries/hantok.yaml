@@ -1,18 +1,36 @@
 headword: hantōk
-jawi: ''
-alt_spelling: []
+jawi: هئتم
+alt_spelling:
+- antok
+- hantok
 ipa: ''
 part_of_speech: ''
-definitions: []
-examples: []
+definitions:
+- meaning_id: fisting, meninju
+  meaning_en: fisting, punching
+  meaning_nl: vuistslagen geven, stompen
+examples:
+- aceh: kuhantok bak ulee ji sigo
+  aceh_1889: koehantok bak oelée dji sigo
+  jawi: ''
+  id: i memberinya tinju di kepalanya
+  en: i gave him a fist on his head
+  nl: ik gaf hem een vuistslag op zijn hoofd
 etymology: ''
 related_words:
 - antōk
 dialect_notes: ''
 source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
-  Pendidikan dan Kebudayaan, 1985, hlm. 281'
+  Pendidikan dan Kebudayaan, 1985, hlm. 281; K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage:
+  Martinus Nijhoff, voor het Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië,
+  1889, hlm. 281'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
 extraction_notes: 'Source gives this only as a cross-reference (→ antōk); no independent definition is
   printed, so meaning fields are left blank rather than guessed. Jawi left blank: the source is Latin-script
-  only and no Jawi form is printed for this entry. Part of speech not stated in the source; left blank.'
+  only and no Jawi form is printed for this entry. Part of speech not stated in the source; left blank.
+  | Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each headword);
+  not AI-generated. Indonesian and English were produced by machine translation of van Langen''s Dutch
+  (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl` for verification;
+  the rendering is not from the source and needs a human check. Part of speech not stated in the source;
+  left blank.'

@@ -1,0 +1,45 @@
+headword: barang is een partikel
+jawi: بارغ
+alt_spelling: []
+ipa: ''
+part_of_speech: ''
+definitions:
+- meaning_id: hanya dalam komposisi
+  meaning_en: only in compositions
+  meaning_nl: slechts in samenstellingen voorkomende
+- meaning_id: buang adalah een partikel hakri, bagaimana, ketika
+  meaning_en: barang is een particle gakri, how, when
+  meaning_nl: barang is een partikel gakri, hoe, wanneer
+- meaning_id: buang adalah een partikel gaban, ketika datang kepada Anda
+  meaning_en: barang is een particle gaban, when it comes to you
+  meaning_nl: barang is een partikel gaban, als het U gelegen komt
+- meaning_id: buang adalah een partikel gadjan, ketika
+  meaning_en: barang is een particle gadjan, when
+  meaning_nl: barang is een partikel gadjan, wanneer
+- meaning_id: buang adalah een partikel gas, siapa pun
+  meaning_en: barang is een particle gasoi, whoever
+  meaning_nl: barang is een partikel gasoi, wie ook
+- meaning_id: buang adalah een partikel gadoem, tidak peduli berapa banyak
+  meaning_en: barang is een particle gadoem, no matter how much
+  meaning_nl: barang is een partikel gadoem, hoeveel ook
+- meaning_id: buang adalah een partikel ganoi, kapan saja
+  meaning_en: barang is een particle ganoi, whenever
+  meaning_nl: barang is een partikel ganoi, wanneer ook
+- meaning_id: 'buang adalah een partikel masa lalu, setiap saat: boebarang, tidak peduli'
+  meaning_en: 'barang is een particle masa, at any time: boebarang, indifferent'
+  meaning_nl: 'barang is een partikel masa, op welken tijd ook: boebarang, onverschillig welke'
+examples: []
+etymology: ''
+related_words: []
+dialect_notes: ''
+source: 'K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage: Martinus Nijhoff, voor het
+  Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië, 1889, hlm. 26'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+language_uncertain: false
+modern_spelling: barang is een partikel
+extraction_notes: Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each
+  headword); not AI-generated. Indonesian and English were produced by machine translation of van Langen's
+  Dutch (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl` for verification;
+  the rendering is not from the source and needs a human check. Part of speech not stated in the source;
+  left blank.

@@ -1,0 +1,32 @@
+headword: kalëng
+jawi: كالغ
+alt_spelling: []
+ipa: ''
+part_of_speech: ''
+definitions:
+- meaning_id: roll atau blok ditempatkan di bawah sebuah objek untuk tetap bebas dari tanah
+  meaning_en: roll or block placed under an object to keep it free from the ground
+  meaning_nl: rol of blok, dat men onder een voorwerp plaatst om het van den grond vrij te houden
+- meaning_id: bantal kalëng, roller bantalan
+  meaning_en: bantal kalëng, roller cushion
+  meaning_nl: bantal kalëng, rolkussen
+- meaning_id: kënalëng, blok
+  meaning_en: kënalëng, the block
+  meaning_nl: kënalëng, het blok
+examples: []
+etymology: ''
+related_words: []
+dialect_notes: ''
+source: 'K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage: Martinus Nijhoff, voor het
+  Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië, 1889, hlm. 200'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+language_uncertain: false
+modern_spelling: kaleung
+extraction_notes: Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each
+  headword); not AI-generated. `modern_spelling` “kaleung” is an AI-supplied transposition of the 1889
+  orthography (oe->u, dj->j, tj->c, nj->ny, ë->eu); it is NOT from the source and needs checking before
+  it is used to match the 1985 dictionary. Indonesian and English were produced by machine translation
+  of van Langen's Dutch (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl`
+  for verification; the rendering is not from the source and needs a human check. Part of speech not stated
+  in the source; left blank.

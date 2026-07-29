@@ -1,5 +1,5 @@
 headword: kôn
-jawi: ''
+jawi: کَن
 alt_spelling:
 - kon
 ipa: ''
@@ -9,7 +9,7 @@ definitions:
   meaning_en: ''
 - meaning_id: (kep dari bukon yang lazim dipergunakan dalam cak)
   meaning_en: short for bukon, usual in ordinary speech
-- meaning_id: sebab, alasan, permulaan, sejak, sedari ... sampai, kegunaannya, (biasanya diperkuat dengan
+- meaning_id: sebab, alasan, permulaan, sejak, sedari... sampai, kegunaannya, (biasanya diperkuat dengan
     tambahan guna)
   meaning_en: because, reason, beginning, since, from until, its use, usually strengthened by adding guna
 - meaning_id: hana jitém peugah -
@@ -70,6 +70,9 @@ definitions:
   meaning_en: what its use
 - meaning_id: (biasanya
   meaning_en: usually
+- meaning_id: mempersingkat boekon, berfungsi untuk mengungkapkan denial, sesuatu yang tidak
+  meaning_en: shortening of boekon, serves to express denials, something is not
+  meaning_nl: verkorting van boekon, dient ter uitdrukking van ontkenningen, iets niet zijn
 examples:
 - aceh: neupumeu'aih jeueb kôn keusalahan lôn
   jawi: ''
@@ -87,7 +90,9 @@ etymology: ''
 related_words: []
 dialect_notes: ''
 source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
-  Pendidikan dan Kebudayaan, 1985, hlm. 444, 445'
+  Pendidikan dan Kebudayaan, 1985, hlm. 444, 445; K. F. H. van Langen. Woordenboek der Atjehsche Taal.
+  ''s-Gravenhage: Martinus Nijhoff, voor het Koninklijk Instituut voor de Taal-, Land- en Volkenkunde
+  van Nederlandsch-Indië, 1889, hlm. 212'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
 extraction_notes: 'English gloss left blank: no confident translation of the Indonesian definition was
@@ -96,4 +101,8 @@ extraction_notes: 'English gloss left blank: no confident translation of the Ind
   numeral before the headword). Jawi left blank: the source is Latin-script only and no Jawi form is printed
   for this entry. Part of speech not stated in the source; left blank. | Homonym 2 in the source (printed
   as a superscript numeral before the headword). Jawi left blank: the source is Latin-script only and
-  no Jawi form is printed for this entry.'
+  no Jawi form is printed for this entry. | Jawi copied verbatim from the printed source (van Langen prints
+  the Jawi form for each headword); not AI-generated. Indonesian and English were produced by machine
+  translation of van Langen''s Dutch (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in
+  `meaning_nl`/`nl` for verification; the rendering is not from the source and needs a human check. Part
+  of speech not stated in the source; left blank.'

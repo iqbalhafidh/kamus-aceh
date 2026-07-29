@@ -1,0 +1,33 @@
+headword: ambat-ambat
+jawi: امبت
+alt_spelling: []
+ipa: ''
+part_of_speech: ''
+definitions:
+- meaning_id: ingat wajah seseorang yang aneh atau nama
+  meaning_en: remember someone's face or name
+  meaning_nl: zich iemands gelaat of naam herinneren
+examples:
+- aceh: si pulan nyan bak lun ambat-ambat lagde-lagde lun turi rupa
+  aceh_1889: si Poelan njan bak loen ambat-ambat lagde-lagde loen toeri roepa
+  jawi: ''
+  id: tëtapi nan hana loen toesoi, saya ingat bahwa N Ini seperti aku lebih sering melihat wajahnya, tapi
+    aku tak tahu namanya
+  en: tëtapi nan hana loen toesoi, I remember that N N., it's like I've seen his face more, but I don't
+    know his name
+  nl: tëtapi nan hana loen toesoi, ik herinner mij dien N. N., het is, als of ik zijn gelaat meer heb
+    gezien, doch zijn naam weet ik niet
+etymology: ''
+related_words: []
+dialect_notes: ''
+source: 'K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage: Martinus Nijhoff, voor het
+  Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië, 1889, hlm. 9'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+language_uncertain: false
+modern_spelling: ambat-ambat
+extraction_notes: Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each
+  headword); not AI-generated. Indonesian and English were produced by machine translation of van Langen's
+  Dutch (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl` for verification;
+  the rendering is not from the source and needs a human check. Part of speech not stated in the source;
+  left blank.

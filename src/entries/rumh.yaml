@@ -1,0 +1,35 @@
+headword: roemāh
+jawi: رومد
+alt_spelling: []
+ipa: ''
+part_of_speech: ''
+definitions:
+- meaning_id: rumah, bangunan
+  meaning_en: house, building
+  meaning_nl: woning, huis, gebouw
+- meaning_id: anēk roemāh, hamba
+  meaning_en: anēk roemāh, servant
+  meaning_nl: anēk roemāh, bediende
+- meaning_id: aoi roemāh, anggota rumah tangga
+  meaning_en: asoi roemāh, members of the household
+  meaning_nl: asoi roemāh, de leden van het huisgezin
+- meaning_id: pēroemāh, istri
+  meaning_en: pēroemāh, wife
+  meaning_nl: pēroemāh, echtgenoote, vrouw
+examples: []
+etymology: ''
+related_words: []
+dialect_notes: ''
+source: 'K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage: Martinus Nijhoff, voor het
+  Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië, 1889, hlm. 131'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+language_uncertain: false
+modern_spelling: rumh
+extraction_notes: Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each
+  headword); not AI-generated. `modern_spelling` “rumh” is an AI-supplied transposition of the 1889 orthography
+  (oe->u, dj->j, tj->c, nj->ny, ë->eu); it is NOT from the source and needs checking before it is used
+  to match the 1985 dictionary. Indonesian and English were produced by machine translation of van Langen's
+  Dutch (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl` for verification;
+  the rendering is not from the source and needs a human check. Part of speech not stated in the source;
+  left blank.

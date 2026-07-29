@@ -1,34 +1,55 @@
 headword: tob
-jawi: ''
+jawi: توب
 alt_spelling: []
 ipa: ''
-part_of_speech: v
+part_of_speech: ''
 definitions:
-- meaning_id: menusuk
-  meaning_en: to pierce
-- meaning_id: menikam
-  meaning_en: to stab
-- meaning_id: menombak
-  meaning_en: lance
-- meaning_id: menumbuk (umpamanya tepung)
-  meaning_en: to pound (for example flour)
-- meaning_id: melipat
-  meaning_en: to fold
-- meaning_id: memalut
-  meaning_en: to wrap
-- meaning_id: mengikat (umpamanya tengkuluk
-  meaning_en: tie for example head cloth
-- meaning_id: kain kepala)
-  meaning_en: head cloth
-- meaning_id: (juga) memasang atau menjadikan taruhan (umpamanya pada permainan judi)
-  meaning_en: ''
-examples: []
+- meaning_id: baik stamping
+  meaning_en: fine stamping
+  meaning_nl: fijn stampen
+- meaning_id: -tob, performa berulang dari operasi itu
+  meaning_en: tob-tob, repeated performance of that operation
+  meaning_nl: tob-tob, het herhaaldelijk verrichten van die handeling
+- meaning_id: tob kahawa, kopi baik menginjak
+  meaning_en: tob kahawa, coffee fine stomping
+  meaning_nl: tob kahawa, koffie fijn stampen
+- meaning_id: menusuk, melemparkan, melemparkan dengan alat tajam
+  meaning_en: stabbing, throwing, throwing with a sharp tool
+  meaning_nl: steken, doorsteken, werpen, gooien met een scherp werktuig
+examples:
+- aceh: tob oreung ngon rincong
+  aceh_1889: tob orëng ngon rintjong
+  jawi: ''
+  id: silangkan orang itu dengan sebuah rentjong
+  en: cross that man with a rentjong
+  nl: doorsteek dien man met een rentjong
+- aceh: tob oreung ngon leumbing kapak
+  aceh_1889: tob orëng ngon lëmbing kapak
+  jawi: ''
+  id: lempar ke orang itu dengan tombak pelempar
+  en: throw to that man with a pitching spear
+  nl: werp naar dien man met een werpspies
+- aceh: tob eungkut ngon tampuling
+  aceh_1889: tob ëngkoet ngon tampoeling
+  jawi: ''
+  id: melempar ikan dengan harpun
+  en: throw at that fish with the harpoon
+  nl: werp naar dien visch met den harpoen
 etymology: ''
 related_words: []
 dialect_notes: ''
-source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
-  Pendidikan dan Kebudayaan, 1985, hlm. 991'
+source: 'K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage: Martinus Nijhoff, voor het
+  Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië, 1889, hlm. 67'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: 'Jawi left blank: the source is Latin-script only and no Jawi form is printed for this
-  entry.'
+language_uncertain: false
+modern_spelling: tob
+extraction_notes: 'Homonym I in the source (printed as a numeral before the headword). Jawi copied verbatim
+  from the printed source (van Langen prints the Jawi form for each headword); not AI-generated. Indonesian
+  and English were produced by machine translation of van Langen''s Dutch (Dutch→English→Indonesian, OPUS-MT).
+  The Dutch original is kept in `meaning_nl`/`nl` for verification; the rendering is not from the source
+  and needs a human check. Part of speech not stated in the source; left blank. | Homonym II in the source
+  (printed as a numeral before the headword). Jawi left blank: no Jawi form is printed for this entry.
+  Indonesian and English were produced by machine translation of van Langen''s Dutch (Dutch→English→Indonesian,
+  OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl` for verification; the rendering is not from
+  the source and needs a human check. Part of speech not stated in the source; left blank.'

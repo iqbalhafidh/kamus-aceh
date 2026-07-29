@@ -1,0 +1,30 @@
+headword: tarik
+jawi: تاریق
+alt_spelling: []
+ipa: ''
+part_of_speech: ''
+definitions:
+- meaning_id: menarik, mengambil, menyeret
+  meaning_en: pull, fetching, dragging
+  meaning_nl: trekken, aanhalen, ophalen, slepen
+- meaning_id: goela tarik, gula syrups atau madu, terkonsentrasi ke tingkat tertentu dan kemudian ditarik
+    dan digulung dalam benang
+  meaning_en: goela tarik, sugar syrups or honey, concentrated to a certain extent and then drawn and
+    rolled in threads
+  meaning_nl: goela tarik, suikerstroop of honig, tot zekere lijvigheid ingedikt en dan in draden getrokken
+    en opgerold
+examples: []
+etymology: ''
+related_words: []
+dialect_notes: ''
+source: 'K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage: Martinus Nijhoff, voor het
+  Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië, 1889, hlm. 53'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+language_uncertain: false
+modern_spelling: tarik
+extraction_notes: Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each
+  headword); not AI-generated. Indonesian and English were produced by machine translation of van Langen's
+  Dutch (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl` for verification;
+  the rendering is not from the source and needs a human check. Part of speech not stated in the source;
+  left blank.

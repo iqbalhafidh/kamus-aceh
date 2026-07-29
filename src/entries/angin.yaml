@@ -1,0 +1,60 @@
+headword: angin
+jawi: اغين
+alt_spelling: []
+ipa: ''
+part_of_speech: ''
+definitions:
+- meaning_id: angin
+  meaning_en: wind
+  meaning_nl: wind
+- meaning_id: angin di oelée, angin kencang
+  meaning_en: angin di oelée, headwind
+  meaning_nl: angin di oelée, tegenwind
+- meaning_id: angin di roesoek atau angin di gëniring, angin di bagian persimpangan
+  meaning_en: angin di roesoek or angin di gëniring, cross-section wind
+  meaning_nl: angin di roesoek of angin di gëniring, wind, die dwars invalt
+- meaning_id: angin di likoet, angin belakang
+  meaning_en: angin di likoet, rear wind
+  meaning_nl: angin di likoet, wind van achteren
+- meaning_id: angin krës, angin kencang
+  meaning_en: angin krës, strong wind
+  meaning_nl: angin krës, stevige wind
+- meaning_id: angin krës tarik këlat, kukus dingin
+  meaning_en: angin krës tarik këlat, stiff coolness
+  meaning_nl: angin krës tarik këlat, stijve koelte
+- meaning_id: angin mësinjok-sinjok, hama
+  meaning_en: angin mësinjok-sinjok, gusts
+  meaning_nl: angin mësinjok-sinjok, rukwinden
+- meaning_id: ek angin, apa yang tersisa setelah hujan awan
+  meaning_en: ek angin, what remains after the rain of the clouds
+  meaning_nl: ek angin, wat er na den regen van de wolken overblijft
+- meaning_id: mata angin, daerah angin
+  meaning_en: mata angin, wind region
+  meaning_nl: mata angin, windstreek
+- meaning_id: bak angin, awan, dari mana angin akan datang
+  meaning_en: bak angin, a cloud, from which wind will come
+  meaning_nl: bak angin, een wolk, waaruit wind zal voortkomen
+- meaning_id: ka tëdoeh angin, angin turun
+  meaning_en: ka tëdoeh angin, the wind is down
+  meaning_nl: ka tëdoeh angin, de wind is gaan liggen
+- meaning_id: mëangin-angin, terkena draught
+  meaning_en: mëangin-angin, exposed to draught
+  meaning_nl: mëangin-angin, zich aan tocht bloot stellen
+- meaning_id: mëangin-angin padi, de Pari wannen
+  meaning_en: mëangin-angin padi, de padi wannen
+  meaning_nl: mëangin-angin padi, de padi wannen
+examples: []
+etymology: ''
+related_words: []
+dialect_notes: ''
+source: 'K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage: Martinus Nijhoff, voor het
+  Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië, 1889, hlm. 7'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+language_uncertain: false
+modern_spelling: angin
+extraction_notes: Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each
+  headword); not AI-generated. Indonesian and English were produced by machine translation of van Langen's
+  Dutch (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl` for verification;
+  the rendering is not from the source and needs a human check. Part of speech not stated in the source;
+  left blank.

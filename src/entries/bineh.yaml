@@ -1,0 +1,36 @@
+headword: bineh
+jawi: بِينَه
+alt_spelling: []
+ipa: ''
+part_of_speech: ''
+definitions:
+- meaning_id: ekstrim tepi sesuatu, frame ekstrim lukisan, bineh mata
+  meaning_en: extreme edge of something, extreme frame of a painting, bineh mata, eyelid
+  meaning_nl: uiterste rand van iets, uiterste lijst van een schilderij, bineh mata, ooglid
+- meaning_id: tip hidung bineh hidoeng
+  meaning_en: bineh hidoeng nose tip
+  meaning_nl: bineh hidoeng, punt van den neus
+- meaning_id: bineh laoet, pantai
+  meaning_en: bineh laoet, beach
+  meaning_nl: bineh laoet, strand
+- meaning_id: bineh idjar, pinggiran kain
+  meaning_en: bineh idjar, hem of a cloth
+  meaning_nl: bineh idjar, zoom van een kleed
+- meaning_id: bineh kërong, tepi sungai
+  meaning_en: bineh kërong, riverbank
+  meaning_nl: bineh kërong, rivieroever
+examples: []
+etymology: ''
+related_words: []
+dialect_notes: ''
+source: 'K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage: Martinus Nijhoff, voor het
+  Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië, 1889, hlm. 51'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+language_uncertain: false
+modern_spelling: bineh
+extraction_notes: Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each
+  headword); not AI-generated. Indonesian and English were produced by machine translation of van Langen's
+  Dutch (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl` for verification;
+  the rendering is not from the source and needs a human check. Part of speech not stated in the source;
+  left blank.

@@ -1,0 +1,39 @@
+headword: dêmba
+jawi: دمبا
+alt_spelling: []
+ipa: ''
+part_of_speech: ''
+definitions:
+- meaning_id: harapan, berharap
+  meaning_en: hope, expect
+  meaning_nl: hopen, verwachten
+examples:
+- aceh: puee lun demba lun mekawin ngon gata harta han rupa tan bangsa han
+  aceh_1889: poëè loen dêmba loen mêkawin ngon gata harta han roepa tan bangsa han
+  jawi: ''
+  id: apa yang saya harapkan? Aku menikahimu saat kau tak punya barang atau penampilan baik atau bangsawan
+  en: what do I expect? I married you when you possessed neither goods nor good looks nor nobility
+  nl: wat heb ik te verwachten? ik huwde met u terwijl ge noch goederen noch een goed uiterlijk noch adel
+    bezat
+- aceh: pue lun deumba bak unta adat bak guda na cit bulee
+  aceh_1889: poë loen dëmba bak oenta adat bak goeda na tjit boelée
+  jawi: ''
+  id: poë loen dëmba bak gata atat bak orëng kaja na tjit mix bée, (Atj)
+  en: poë loen dëmba bak gata atat bak orëng kaja na tjit mix bée, (Atj)
+  nl: poë loen dëmba bak gata adat bak orëng kaja na tjit meng bée, (Atj
+etymology: ''
+related_words: []
+dialect_notes: ''
+source: 'K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage: Martinus Nijhoff, voor het
+  Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië, 1889, hlm. 111'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+language_uncertain: false
+modern_spelling: demba
+extraction_notes: Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each
+  headword); not AI-generated. `modern_spelling` “demba” is an AI-supplied transposition of the 1889 orthography
+  (oe->u, dj->j, tj->c, nj->ny, ë->eu); it is NOT from the source and needs checking before it is used
+  to match the 1985 dictionary. Indonesian and English were produced by machine translation of van Langen's
+  Dutch (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl` for verification;
+  the rendering is not from the source and needs a human check. Part of speech not stated in the source;
+  left blank.

@@ -1,20 +1,32 @@
-headword: bulut
-jawi: ''
+headword: boeloet
+jawi: بولوة
 alt_spelling: []
 ipa: ''
 part_of_speech: ''
 definitions:
-- meaning_id: basah kuyup
-  meaning_en: soaked, very wet, drenched
-examples: []
+- meaning_id: basah, lembab, basah kuyup
+  meaning_en: wet, humid, soaked
+  meaning_nl: nat, vochtig, doorweekt
+examples:
+- aceh: kabulut bajee
+  aceh_1889: kaboeloet badjée
+  jawi: ''
+  id: mandiku sudah basah sinonim dengan boetjēhor
+  en: my bath is already wet. Synonymous with boetjēhor
+  nl: mijn baadje is reeds nat. Synoniem met boetjēhor
 etymology: ''
-related_words:
-- bucho
-- jhuek
-- lijhuek
+related_words: []
 dialect_notes: ''
-source: 'Daud, Bukhari & Mark Durie. Kamus Basa Acèh = Kamus Bahasa Aceh: Acehnese–Indonesian–English Thesaurus.
-  Pacific Linguistics C-151, 1999, p. 94.'
-date_added: '2026-07-20'
+source: 'K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage: Martinus Nijhoff, voor het
+  Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië, 1889, hlm. 45'
+date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: ''
+language_uncertain: false
+modern_spelling: bulut
+extraction_notes: Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each
+  headword); not AI-generated. `modern_spelling` “bulut” is an AI-supplied transposition of the 1889 orthography
+  (oe->u, dj->j, tj->c, nj->ny, ë->eu); it is NOT from the source and needs checking before it is used
+  to match the 1985 dictionary. Indonesian and English were produced by machine translation of van Langen's
+  Dutch (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl` for verification;
+  the rendering is not from the source and needs a human check. Part of speech not stated in the source;
+  left blank.

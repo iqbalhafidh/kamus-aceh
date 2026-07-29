@@ -1,0 +1,33 @@
+headword: angka-angka
+jawi: اَغْكَق
+alt_spelling: []
+ipa: ''
+part_of_speech: ''
+definitions:
+- meaning_id: nakal, tak terkatakan, tidak taat
+  meaning_en: naughty, unspeakable, disobedient
+  meaning_nl: ondeugend, stout, ongezeggelijk, ongehoorzaam
+examples:
+- aceh: hai pakon kah angka angka tehat dawok kapoh anek gob genab oroi
+  aceh_1889: hai pakon kah angka-angka-tēhat dawok kapoh anēk gob genab oroi
+  jawi: ''
+  id: hé, mengapa kau begitu nakal, berulang kali memukul anak-anak orang lain setiap hari? sinonim dengan
+    mantjēr
+  en: hé, why are you so naughty, repeatedly beating other people's children every day? Synonymous with
+    mantjēr
+  nl: hé, waarom zijt ge zoo ondeugend, om herhaaldelijk iederen dag andermans kinderen te slaan? Synoniem
+    met mantjēr
+etymology: ''
+related_words: []
+dialect_notes: ''
+source: 'K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage: Martinus Nijhoff, voor het
+  Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië, 1889, hlm. 6'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+language_uncertain: false
+modern_spelling: angka-angka
+extraction_notes: Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each
+  headword); not AI-generated. Indonesian and English were produced by machine translation of van Langen's
+  Dutch (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl` for verification;
+  the rendering is not from the source and needs a human check. Part of speech not stated in the source;
+  left blank.

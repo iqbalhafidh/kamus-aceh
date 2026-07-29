@@ -1,0 +1,31 @@
+headword: hapos
+jawi: هافوس
+alt_spelling:
+- apos
+ipa: ''
+part_of_speech: ''
+definitions:
+- meaning_id: di bawah permukaan sesuatu yang pergi, hancur, dihapuskan
+  meaning_en: under the surface of something gone, destroyed, wiped out
+  meaning_nl: onder de oppervlakte van iets verdwenen, verdelgd, weggevaagd, vernietigd
+examples:
+- aceh: allah ijer lehok tehat oh hapos ulee
+  aceh_1889: Allah ijēr lēhok tēhat oh hapos oelēe
+  jawi: ''
+  id: Allah, air begitu dalam bahwa kepala di bawah air menghilang
+  en: Allah, the water is so deep that the head under the water disappears
+  nl: Allah, het water is zoo diep, dat het hoofd onder het water verdwijnt
+etymology: ''
+related_words: []
+dialect_notes: ''
+source: 'K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage: Martinus Nijhoff, voor het
+  Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië, 1889, hlm. 279'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+language_uncertain: false
+modern_spelling: hapos
+extraction_notes: Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each
+  headword); not AI-generated. Indonesian and English were produced by machine translation of van Langen's
+  Dutch (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl` for verification;
+  the rendering is not from the source and needs a human check. Part of speech not stated in the source;
+  left blank.

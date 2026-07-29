@@ -1,11 +1,17 @@
 headword: limpah
-jawi: ''
+jawi: لِيمَغْ
 alt_spelling: []
 ipa: ''
 part_of_speech: v
 definitions:
 - meaning_id: melimpah, meluap, kermahtamahan, bercahaya-cahaya
   meaning_en: to overflow, to boil over, hospitality, gleaming
+- meaning_id: banjir, kelembaban dalam kapal, dan menyebar di luar kapal
+  meaning_en: flooding, overflowing, of moisture in a vessel, and spreading outside the vessel
+  meaning_nl: overvloeien, overloopen, van vocht in een vat, en zich buiten het vat uitspreiden
+- meaning_id: 'dari gloss: menyebar'
+  meaning_en: 'of a gloss: spreading'
+  meaning_nl: 'van een glans: zich verspreiden'
 examples:
 - aceh: peu limpah
   jawi: ''
@@ -40,8 +46,14 @@ related_words:
 - limbak
 dialect_notes: ''
 source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
-  Pendidikan dan Kebudayaan, 1985, hlm. 545'
+  Pendidikan dan Kebudayaan, 1985, hlm. 545; K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage:
+  Martinus Nijhoff, voor het Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië,
+  1889, hlm. 251'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
 extraction_notes: 'Jawi left blank: the source is Latin-script only and no Jawi form is printed for this
-  entry.'
+  entry. | Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each headword);
+  not AI-generated. Indonesian and English were produced by machine translation of van Langen''s Dutch
+  (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl` for verification;
+  the rendering is not from the source and needs a human check. Part of speech not stated in the source;
+  left blank.'

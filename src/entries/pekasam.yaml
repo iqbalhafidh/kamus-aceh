@@ -1,0 +1,35 @@
+headword: pēkasam
+jawi: فكاسم
+alt_spelling: []
+ipa: ''
+part_of_speech: ''
+definitions:
+- meaning_id: dalam garam atau makanan asin, apakah sayuran, daging atau ikan
+  meaning_en: in brine or in brine food, whether vegetables, meat or fish
+  meaning_nl: gepekelde of ingezouten eetwaren, hetzij groenten, vleesch of visch
+examples:
+- aceh: pekasam durien
+  aceh_1889: pēkasam doeriēn
+  jawi: ''
+  id: doerian yang diimpor Brassica rēbong, menanam buah dan sayuran, satsumas Zsiēl, dalam air garam
+    ēngkoet, ikan asin
+  en: imported doerian; Brassica rēbong, prepared sprouts of fruit and vegetables; satsumas siēl, in brine;
+    ēngkoet, salted fish
+  nl: ingemaakte doerian; — rēbong, ingemaakte uitspruitsels van groenten en vruchten; — siēl, gepekeld
+    vleesch; — ēngkoet, gezouten visch
+etymology: ''
+related_words: []
+dialect_notes: ''
+source: 'K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage: Martinus Nijhoff, voor het
+  Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië, 1889, hlm. 185'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+language_uncertain: false
+modern_spelling: pekasam
+extraction_notes: Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each
+  headword); not AI-generated. `modern_spelling` “pekasam” is an AI-supplied transposition of the 1889
+  orthography (oe->u, dj->j, tj->c, nj->ny, ë->eu); it is NOT from the source and needs checking before
+  it is used to match the 1985 dictionary. Indonesian and English were produced by machine translation
+  of van Langen's Dutch (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl`
+  for verification; the rendering is not from the source and needs a human check. Part of speech not stated
+  in the source; left blank.

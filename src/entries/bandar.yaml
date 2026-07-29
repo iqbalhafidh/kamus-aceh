@@ -1,0 +1,36 @@
+headword: bandar
+jawi: بندر
+alt_spelling: []
+ipa: ''
+part_of_speech: ''
+definitions:
+- meaning_id: pelabuhan, hidup, tempat pasar
+  meaning_en: harbour, vibrant, market place
+  meaning_nl: haven, levendig, marktplaats
+examples:
+- aceh: nanggroi tampat tuwan bandar tehat
+  aceh_1889: nanggroi Tampat toewan bandar tèhat
+  jawi: ''
+  id: tempat T Toewan sangat hidup
+  en: the place T. Toewan is very lively
+  nl: de plaats T. Toewan is zeer levendig
+- aceh: syahbandar
+  aceh_1889: sjahbandar
+  jawi: ''
+  id: kepala pedagang, pelabuhan master, memegang impor dan ekspor tugas di Aceh vasalstaatjes
+  en: head of merchants, harbor master, holds import and export duties in the Aceh vasalstaatjes.'
+  nl: hoofd der kooplieden, havenmeester, heft in de Atjehsche vasalstaatjes de in- en uitvoerrechten.'
+etymology: ''
+related_words: []
+dialect_notes: ''
+source: 'K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage: Martinus Nijhoff, voor het
+  Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië, 1889, hlm. 40'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+language_uncertain: false
+modern_spelling: bandar
+extraction_notes: Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each
+  headword); not AI-generated. Indonesian and English were produced by machine translation of van Langen's
+  Dutch (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl` for verification;
+  the rendering is not from the source and needs a human check. Part of speech not stated in the source;
+  left blank.

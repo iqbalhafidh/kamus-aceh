@@ -1,26 +1,81 @@
 headword: boh
-jawi: ''
+jawi: بوه
 alt_spelling: []
 ipa: ''
 part_of_speech: ''
 definitions:
-- meaning_id: zakar
-  meaning_en: penis
-- meaning_id: buah
-  meaning_en: fruit
-- meaning_id: ubi-ubi an
-  meaning_en: bulb, tuber
-- meaning_id: telur
-  meaning_en: egg
-- meaning_id: ajakan, mengiyakan
-  meaning_en: urging particle, do it
+- meaning_id: ini adalah respon afirmatif atas permintaan atau perintah
+  meaning_en: it's a good, good, yes. It's an affirmative response to a request or order
+  meaning_nl: het is goed, goed, ja. Het is een bevestigend antwoord op een verzoek of bevel
+- meaning_id: buah pada umumnya
+  meaning_en: fruit in general
+  meaning_nl: vrucht in het algemeen
+- meaning_id: manusia dan binatang berkaki empat organ seksual laki-laki
+  meaning_en: of humans and four-legged animals the male pubic part
+  meaning_nl: van menschen en viervoetige dieren het mannelijk schaamdeel
+- meaning_id: dari burung telur
+  meaning_en: of birds the egg
+  meaning_nl: van vogels het ei
+- meaning_id: pohon, buah-buahan
+  meaning_en: of trees, fruit
+  meaning_nl: van boomen de vruchten
+- meaning_id: boh orëng, pubes pria
+  meaning_en: boh orëng, male pubes
+  meaning_nl: boh orëng, mannelijk schaamdeel
+- meaning_id: boh këbë, organ seksual laki-laki dari carbouw
+  meaning_en: boh këbë, the male pubic part of the carbouw
+  meaning_nl: boh këbë, het mannelijk schaamdeel der karbouwen
+- meaning_id: boh krës, bola, bola seorang pria
+  meaning_en: boh krës, balls, balls of a man
+  meaning_nl: boh krës, de ballen, klooten van een man
+- meaning_id: boh manok, telur ayam
+  meaning_en: boh manok, chicken egg
+  meaning_nl: boh manok, kippenei
+- meaning_id: boh tijtjim, telur burung
+  meaning_en: boh tijtjim, bird egg
+  meaning_nl: boh tijtjim, vogelei
+- meaning_id: boh meriam, cannonball
+  meaning_en: boh meriam, cannonball
+  meaning_nl: boh meriam, kanonskogel
+- meaning_id: boh bëdil, bulat senjata api pada umumnya
+  meaning_en: boh bëdil, round of a firearm in general
+  meaning_nl: boh bëdil, kogel van een vuurwapen in 't algemeen
+- meaning_id: boh bërtoeh, granat
+  meaning_en: boh bërtoeh, grenade
+  meaning_nl: boh bërtoeh, granaat
+- meaning_id: tip hidung boh hidoeng
+  meaning_en: boh hidoeng nose tip
+  meaning_nl: boh hidoeng, punt van den neus
+- meaning_id: boh bëtis, anak sapi itu juga muncul sebagai countword komposit untuk
+  meaning_en: boh bëtis, the calves. It also appears as a composite countword for
+  meaning_nl: boh bëtis, de kuiten. Het komt ook als samengesteld telwoord voor
+- meaning_id: saboh, sepotong
+  meaning_en: saboh, a piece
+  meaning_nl: saboh, een stuk
+- meaning_id: saboo masa, pada waktu tertentu
+  meaning_en: saboh masa, at a certain time
+  meaning_nl: saboh masa, op een zekeren tijd
+- meaning_id: menempatkan, menempatkan sesuatu ke dalam sesuatu, membual
+  meaning_en: putting, placing, putting something into something, bragging
+  meaning_nl: zetten, plaatsen, iets ergens in doen, opscheppen
+- meaning_id: boh boebée, perangkap ikan
+  meaning_en: boh boebée, fish traps
+  meaning_nl: boh boebée, fuiken zetten
+- meaning_id: petani boh, membual beras
+  meaning_en: boh farmer, bragging the rice
+  meaning_nl: boh boer, de rijst opscheppen
 examples: []
 etymology: ''
-related_words:
-- bëh
+related_words: []
 dialect_notes: ''
-source: 'Daud, Bukhari & Mark Durie. Kamus Basa Acèh = Kamus Bahasa Aceh: Acehnese–Indonesian–English Thesaurus.
-  Pacific Linguistics C-151, 1999, p. 29; p. 99; p. 102; p. 104; p. 112.'
-date_added: '2026-07-20'
+source: 'K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage: Martinus Nijhoff, voor het
+  Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië, 1889, hlm. 46'
+date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: ''
+language_uncertain: false
+modern_spelling: boh
+extraction_notes: Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each
+  headword); not AI-generated. Indonesian and English were produced by machine translation of van Langen's
+  Dutch (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl` for verification;
+  the rendering is not from the source and needs a human check. Part of speech not stated in the source;
+  left blank.

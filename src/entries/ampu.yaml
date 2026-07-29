@@ -1,21 +1,38 @@
----
-headword: "ampu"
-jawi: ""
+headword: ampoe
+jawi: امفو
 alt_spelling: []
-ipa: "/am.pu/"
-part_of_speech: "a"
-language_uncertain: false
+ipa: ''
+part_of_speech: ''
 definitions:
-  - meaning_id: "1 lebih tinggi"
-    meaning_en: ""
-  - meaning_id: "2 menyangga, mengangkat, menopang"
-    meaning_en: ""
+- meaning_id: di atas
+  meaning_en: over
+  meaning_nl: voorbij
 examples:
-  []
-etymology: ""
+- aceh: ohna tamelajer ampu ujung raja
+  aceh_1889: ohna tamēlajēr ampoe oedjoeng Radja
+  jawi: ''
+  id: kau berlayar ke mana? Aku akan melihatmu melewati O. R ěmpoes, taman utama; kebun lada, kebun lada
+    sinonim dengan lampoes ěmpoeng, sarang, kandang tjitjim, sarang burung nyamuk; manok, sarang ayam
+    aslas kamēng, pasukan kambing anēk, rahim
+  en: where are you sailed to? I'll see you past O. R. ěmpoes, garden; primary garden; lada, pepper garden
+    Synonym with lampoes. ěmpoeng, nest, cage; tjitjim, bird's nest; manok, chicken's nest; kamēng, goat's
+    army; anēk, uterus
+  nl: tot waar toe zijt gij gezeild? tot voorbij O. R. امفوس ěmpoes, tuin; — oer, een klappertuin; — lada,
+    een pepertuin. Synoniem met lampoes. امفوغ ěmpoeng, nest, kooi; — tjitjim, vogelnest; — manok, kippennest;
+    — kamēng, geitenleger; — anēk, baarmoeder
+etymology: ''
 related_words: []
-dialect_notes: ""
-source: "Kamus Bahasa Aceh Daring (Balai Bahasa Provinsi Aceh), 'Entri huruf — ampu', URL: https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/A?page=3 (diakses 20 Juli 2026)"
-date_added: "2026-07-20"
-contributor: "AI-extracted — needs human review"
-extraction_notes: "Diekstrak dari 1 halaman sumber (https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/A?page=3). Tidak ada bentuk Jawi dalam sumber — dibiarkan kosong sesuai aturan."
+dialect_notes: ''
+source: 'K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage: Martinus Nijhoff, voor het
+  Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië, 1889, hlm. 11'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+language_uncertain: false
+modern_spelling: ampu
+extraction_notes: Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each
+  headword); not AI-generated. `modern_spelling` “ampu” is an AI-supplied transposition of the 1889 orthography
+  (oe->u, dj->j, tj->c, nj->ny, ë->eu); it is NOT from the source and needs checking before it is used
+  to match the 1985 dictionary. Indonesian and English were produced by machine translation of van Langen's
+  Dutch (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl` for verification;
+  the rendering is not from the source and needs a human check. Part of speech not stated in the source;
+  left blank.

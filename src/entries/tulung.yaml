@@ -1,0 +1,44 @@
+headword: toeloeng
+jawi: تولوغ
+alt_spelling: []
+ipa: ''
+part_of_speech: ''
+definitions:
+- meaning_id: bantuan
+  meaning_en: assistance
+  meaning_nl: hulp, helpen, bijstand, bijstaan
+examples:
+- aceh: salah tegah benar ikut alang tatulung
+  aceh_1889: salah tégah bēnar ikoet alang tatoeloeng
+  jawi: ''
+  id: lēpas laloe tadjok (Atj)
+  en: lēpas laloe tadjok (Atj)
+  nl: lēpas laloe tadjok (Atj
+- aceh: syarat tulung genaamd
+  aceh_1889: sjarat toeloeng genaamd)
+  jawi: ''
+  id: 'literal translation: melarang salah, mengikuti kebaikan, Membantu dalam kesulitan Toeloeng digunakan
+    dalam arti membantu dengan uang atau saran, sebagai lawan bantue, membantu dengan kekuatan tubuh compare'
+  en: 'literal translation: forbids the wrong, follows the good, helps in distress, takes (atonement)
+    from him who has misguided. Toeloeng is used in the meaning of helping with money or advice, as opposed
+    to bantue, help with body strength [compare'
+  nl: 'letterlijke vertaling: verbiedt het verkeerde, volgt het goede, helpt in nood, neemt (boete) van
+    hem, die misdreven heeft. Toeloeng wordt gebezigd in de beteekenis van helpen met geld of raad, in
+    tegenstelling van bantoe, helpen met lichaamskracht [vergel'
+etymology: ''
+related_words:
+- echter
+dialect_notes: ''
+source: 'K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage: Martinus Nijhoff, voor het
+  Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië, 1889, hlm. 71'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+language_uncertain: false
+modern_spelling: tulung
+extraction_notes: Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each
+  headword); not AI-generated. `modern_spelling` “tulung” is an AI-supplied transposition of the 1889
+  orthography (oe->u, dj->j, tj->c, nj->ny, ë->eu); it is NOT from the source and needs checking before
+  it is used to match the 1985 dictionary. Indonesian and English were produced by machine translation
+  of van Langen's Dutch (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl`
+  for verification; the rendering is not from the source and needs a human check. Part of speech not stated
+  in the source; left blank.

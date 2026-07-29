@@ -1,28 +1,32 @@
-headword: curah
-jawi: چوره
+headword: tjoerah
+jawi: چورة
 alt_spelling: []
 ipa: ''
-part_of_speech: v
+part_of_speech: ''
 definitions:
-- meaning_id: 'mencurahkan, meriam, menuang: —'
-  meaning_en: 'to pour, cannon, to pour: —'
-  examples:
-  - aceh: ie laju
-    jawi: ''
-    id: tuangkan air cepat-cepat
-    en: ''
-  - aceh: meu
-    jawi: ''
-    id: dicurahkan
-    en: poured out
-  - aceh: peu
-    jawi: ''
-    id: menyuruh curahkan
-    en: to wash feet
+- meaning_id: overcasting, menuangkan
+  meaning_en: overcasting, pouring
+  meaning_nl: overgieten, afgieten, begieten
+examples:
+- aceh: curah ijeur laju
+  aceh_1889: tjoerah ijër ladjoe
+  jawi: ''
+  id: tuang airnya dengan cepat sinonim dengan pélé dan toengging
+  en: pour the water quickly. Synonymize with pélé and toengging
+  nl: giet het water spoedig af. Synoniem met pélé en toengging
 etymology: ''
 related_words: []
 dialect_notes: ''
-source: Kamus Aceh-Indonesia (Acehnese-Indonesian Dictionary), p. 148
+source: 'K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage: Martinus Nijhoff, voor het
+  Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië, 1889, hlm. 98'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: Some fields (English translations, Jawi) may be incomplete due to API rate limits during processing. Re-run the translation script to fill in missing fields. Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate reviewer.
+language_uncertain: false
+modern_spelling: curah
+extraction_notes: Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each
+  headword); not AI-generated. `modern_spelling` “curah” is an AI-supplied transposition of the 1889 orthography
+  (oe->u, dj->j, tj->c, nj->ny, ë->eu); it is NOT from the source and needs checking before it is used
+  to match the 1985 dictionary. Indonesian and English were produced by machine translation of van Langen's
+  Dutch (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl` for verification;
+  the rendering is not from the source and needs a human check. Part of speech not stated in the source;
+  left blank.

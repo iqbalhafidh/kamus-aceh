@@ -1,21 +1,32 @@
----
-headword: "lung"
-jawi: ""
+headword: loeng
+jawi: لوغ
 alt_spelling: []
-ipa: "/luwŋ/"
-part_of_speech: "n"
-language_uncertain: false
+ipa: ''
+part_of_speech: ''
 definitions:
-  - meaning_id: "1 saluran air; parit"
-    meaning_en: ""
-  - meaning_id: "2 selokan yg digali di sekeliling bagian dalam tambak/kolam, fungsinya sebagai tampungan air dan berkumpulnya ikan"
-    meaning_en: ""
-examples:
-  []
-etymology: ""
+- meaning_id: pipa air, pipa
+  meaning_en: water pipe, pipe
+  meaning_nl: waterleiding, leiding
+- meaning_id: loeng oemong, persediaan air dari sawah
+  meaning_en: loeng oemong, the water supply of the rice field
+  meaning_nl: loeng oemong, de waterleiding van het rijstveld
+- meaning_id: loeng bata, pipa yang terbuat dari batu panggang
+  meaning_en: loeng bata, a pipe made of baked stone
+  meaning_nl: loeng bata, eene leiding van gebakken steen
+examples: []
+etymology: ''
 related_words: []
-dialect_notes: ""
-source: "Kamus Bahasa Aceh Daring (Balai Bahasa Provinsi Aceh), 'Entri huruf — lung', URL: https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/L?page=7 (diakses 20 Juli 2026); halaman tambahan: L?page=11, L?page=12, L?page=13, L?page=14, L?page=15, L?page=16, L?page=17, L?page=18, L?page=19, L?page=4, L?page=5, L?page=6, L?page=7, L?page=8, L?page=9"
-date_added: "2026-07-20"
-contributor: "AI-extracted — needs human review"
-extraction_notes: "Diekstrak dari 16 halaman sumber (https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/L?page=10, https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/L?page=11, https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/L?page=12, https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/L?page=13, https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/L?page=14, https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/L?page=15, https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/L?page=16, https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/L?page=17, https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/L?page=18, https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/L?page=19, https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/L?page=4, https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/L?page=5, https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/L?page=6, https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/L?page=7, https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/L?page=8, https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/L?page=9). Ditemukan pada beberapa halaman; definisi dan contoh digabungkan. Tidak ada bentuk Jawi dalam sumber — dibiarkan kosong sesuai aturan."
+dialect_notes: ''
+source: 'K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage: Martinus Nijhoff, voor het
+  Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië, 1889, hlm. 245'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+language_uncertain: false
+modern_spelling: lung
+extraction_notes: Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each
+  headword); not AI-generated. `modern_spelling` “lung” is an AI-supplied transposition of the 1889 orthography
+  (oe->u, dj->j, tj->c, nj->ny, ë->eu); it is NOT from the source and needs checking before it is used
+  to match the 1985 dictionary. Indonesian and English were produced by machine translation of van Langen's
+  Dutch (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl` for verification;
+  the rendering is not from the source and needs a human check. Part of speech not stated in the source;
+  left blank.

@@ -1,6 +1,7 @@
 headword: raja
-jawi: ''
-alt_spelling: []
+jawi: رايا
+alt_spelling:
+- radja
 ipa: ''
 part_of_speech: n
 definitions:
@@ -12,13 +13,59 @@ definitions:
   meaning_en: ''
 - meaning_id: kepala kenegerian
   meaning_en: head country
-examples: []
+- meaning_id: besar, signifikan, diperpanjang sinonim dengan rajëk
+  meaning_en: large, significant, extended. Synonym with rajëk
+  meaning_nl: groot, aanzienlijk, uitgebreid. Synoniem met rajëk
+- meaning_id: pangeran, raja, kepala, tuan
+  meaning_en: prince, king, head, lord
+  meaning_nl: vorst, koning, hoofd, heerscher
+- meaning_id: ''
+  meaning_en: the Lord of the Game of Cards
+  meaning_nl: de heer van 't kaartspel
+- meaning_id: radja moeda, pewaris tahta, raja muda
+  meaning_en: radja moeda, heir to the throne, viceroy
+  meaning_nl: radja moeda, troonsopvolger, onderkoning
+- meaning_id: radja inong, queen
+  meaning_en: radja inong, queen
+  meaning_nl: radja inong, vorstin
+- meaning_id: anēk radja, putra pangeran, pangeran
+  meaning_en: anēk radja, son of princes, prince
+  meaning_nl: anēk radja, vorstenkind, prins
+- meaning_id: lihat raja
+  meaning_en: see raja
+  meaning_nl: zie رایا raja
+examples:
+- aceh: soi ta meraja
+  aceh_1889: soi ta mēradja
+  jawi: ''
+  id: siapa yang membunuh rajamu? Dalam kitab suci seseorang menemukan chēradjēn atau kēradjaān untuk
+    kerajaan, tapi kata ini adalah dari Mal
+  en: who's your king? In scriptures one finds chēradjēn or kēradjaān for kingdom, but this word is of
+    the Mal
+  nl: wie is uw koning. In schriften vindt men chēradjēn of kēradjaān voor koninkrijk, doch dit woord
+    is van de Mal
 etymology: ''
 related_words: []
 dialect_notes: ''
 source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
-  Pendidikan dan Kebudayaan, 1985, hlm. 765'
+  Pendidikan dan Kebudayaan, 1985, hlm. 765; K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage:
+  Martinus Nijhoff, voor het Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië,
+  1889, hlm. 123, 124, 132'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
 extraction_notes: 'Jawi left blank: the source is Latin-script only and no Jawi form is printed for this
-  entry.'
+  entry. | Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each headword);
+  not AI-generated. Indonesian and English were produced by machine translation of van Langen''s Dutch
+  (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl` for verification;
+  the rendering is not from the source and needs a human check. Part of speech not stated in the source;
+  left blank. | Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each
+  headword); not AI-generated. `modern_spelling` “raja” is an AI-supplied transposition of the 1889 orthography
+  (oe->u, dj->j, tj->c, nj->ny, ë->eu); it is NOT from the source and needs checking before it is used
+  to match the 1985 dictionary. Indonesian and English were produced by machine translation of van Langen''s
+  Dutch (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl` for verification;
+  the rendering is not from the source and needs a human check. Part of speech not stated in the source;
+  left blank. | Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each
+  headword); not AI-generated. Indonesian and English were produced by machine translation of van Langen''s
+  Dutch (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl` for verification;
+  the rendering is not from the source and needs a human check. Part of speech not stated in the source;
+  left blank.'

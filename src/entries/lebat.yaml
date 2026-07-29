@@ -1,0 +1,38 @@
+headword: lēbat
+jawi: لبت
+alt_spelling: []
+ipa: ''
+part_of_speech: ''
+definitions:
+- meaning_id: tebal, padat
+  meaning_en: thick, dense
+  meaning_nl: dik, dicht
+- meaning_id: hoedjēn lēbat, tebal hujan
+  meaning_en: hoedjēn lēbat, thick of rain
+  meaning_nl: hoedjēn lēbat, dik van regen
+- meaning_id: djanggoet lēbat, jenggot yang tebal
+  meaning_en: djanggoet lēbat, a dense (heavy) beard
+  meaning_nl: djanggoet lēbat, een dichte (zware) baard
+- meaning_id: misé lēbat, sebuah lelucon berat
+  meaning_en: misé lēbat, a heavy gag
+  meaning_nl: misé lēbat, een zware knevel
+- meaning_id: oek lēbat, rambut kepala berat
+  meaning_en: oek lēbat, heavy head hair
+  meaning_nl: oek lēbat, zwaar hoofdhaar
+examples: []
+etymology: ''
+related_words: []
+dialect_notes: ''
+source: 'K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage: Martinus Nijhoff, voor het
+  Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië, 1889, hlm. 237'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+language_uncertain: false
+modern_spelling: lebat
+extraction_notes: Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each
+  headword); not AI-generated. `modern_spelling` “lebat” is an AI-supplied transposition of the 1889 orthography
+  (oe->u, dj->j, tj->c, nj->ny, ë->eu); it is NOT from the source and needs checking before it is used
+  to match the 1985 dictionary. Indonesian and English were produced by machine translation of van Langen's
+  Dutch (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl` for verification;
+  the rendering is not from the source and needs a human check. Part of speech not stated in the source;
+  left blank.

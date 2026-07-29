@@ -1,0 +1,32 @@
+headword: afoewah
+jawi: افوا
+alt_spelling: []
+ipa: ''
+part_of_speech: ''
+definitions:
+- meaning_id: bantuan
+  meaning_en: help
+  meaning_nl: hulp
+examples:
+- aceh: ulun teumee nama jang geuj ngon afuwah teuku
+  aceh_1889: oeloen tëmée nama jang gëdj ngon afoewah tëkoe
+  jawi: ''
+  id: i mendapat nama yang baik dari Tekoë's baik bantuan
+  en: i got a good name from Tekoë's good help
+  nl: ik heb een goeden naam gekregen door Tekoë's goede hulp
+etymology: ''
+related_words: []
+dialect_notes: ''
+source: 'K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage: Martinus Nijhoff, voor het
+  Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië, 1889, hlm. 7'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+language_uncertain: false
+modern_spelling: afuwah
+extraction_notes: Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each
+  headword); not AI-generated. `modern_spelling` “afuwah” is an AI-supplied transposition of the 1889
+  orthography (oe->u, dj->j, tj->c, nj->ny, ë->eu); it is NOT from the source and needs checking before
+  it is used to match the 1985 dictionary. Indonesian and English were produced by machine translation
+  of van Langen's Dutch (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl`
+  for verification; the rendering is not from the source and needs a human check. Part of speech not stated
+  in the source; left blank.

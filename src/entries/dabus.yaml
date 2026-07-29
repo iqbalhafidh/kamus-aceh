@@ -1,0 +1,33 @@
+headword: daboes
+jawi: دابوس
+alt_spelling: []
+ipa: ''
+part_of_speech: ''
+definitions:
+- meaning_id: sebuah dermaga besi panjang kaki dengan kenop besi besar, dengan empat rantai, untuk menghasilkan
+    denting. dengan objek ini hantu dan penyihir menusuk diri mereka sendiri tanpa menyakiti diri sendiri
+  meaning_en: an iron pier of a foot length with a large iron knob, with four chains, to produce tinkling.
+    With this object ghosts and magicians stab themselves without hurting themselves
+  meaning_nl: een ijzeren priem van een voet lengte met een grooten ijzeren knop, waaraan vier kettinkjes,
+    om gerinkink voort te brengen. Met dit voorwerp steken zich geestdrijvers en goochelaars zonder zich
+    te kwetsen
+- meaning_id: jalankan mëdaboes dengan demikian
+  meaning_en: run mëdaboes therewith
+  meaning_nl: mëdaboes, daarmede toeren uitvoeren
+examples: []
+etymology: ''
+related_words: []
+dialect_notes: ''
+source: 'K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage: Martinus Nijhoff, voor het
+  Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië, 1889, hlm. 106'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+language_uncertain: false
+modern_spelling: dabus
+extraction_notes: Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each
+  headword); not AI-generated. `modern_spelling` “dabus” is an AI-supplied transposition of the 1889 orthography
+  (oe->u, dj->j, tj->c, nj->ny, ë->eu); it is NOT from the source and needs checking before it is used
+  to match the 1985 dictionary. Indonesian and English were produced by machine translation of van Langen's
+  Dutch (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl` for verification;
+  the rendering is not from the source and needs a human check. Part of speech not stated in the source;
+  left blank.

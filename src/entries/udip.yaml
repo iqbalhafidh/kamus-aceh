@@ -1,0 +1,38 @@
+headword: oedip
+jawi: اوديف
+alt_spelling: []
+ipa: ''
+part_of_speech: ''
+definitions:
+- meaning_id: hidup, masih hidup
+  meaning_en: life, being alive
+  meaning_nl: leven, het nog in leven zijn
+examples:
+- aceh: ka mate gob nyan han mantong udip
+  aceh_1889: ka maté gob njan han mantong oedip
+  jawi: ''
+  id: apa pria itu sudah mati?
+  en: has that man already died?
+  nl: is die man reeds gestorven? Neen, hij is nog in leven
+- aceh: mata oroi udip
+  aceh_1889: mata oroi oedip
+  jawi: ''
+  id: terbit matahari
+  en: rising of the sun
+  nl: opgaan van de zon
+etymology: ''
+related_words: []
+dialect_notes: ''
+source: 'K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage: Martinus Nijhoff, voor het
+  Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië, 1889, hlm. 15'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+language_uncertain: false
+modern_spelling: udip
+extraction_notes: Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each
+  headword); not AI-generated. `modern_spelling` “udip” is an AI-supplied transposition of the 1889 orthography
+  (oe->u, dj->j, tj->c, nj->ny, ë->eu); it is NOT from the source and needs checking before it is used
+  to match the 1985 dictionary. Indonesian and English were produced by machine translation of van Langen's
+  Dutch (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl` for verification;
+  the rendering is not from the source and needs a human check. Part of speech not stated in the source;
+  left blank.

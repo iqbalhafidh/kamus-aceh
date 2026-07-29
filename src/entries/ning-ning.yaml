@@ -1,0 +1,42 @@
+headword: ning-ning
+jawi: نغ٢
+alt_spelling: []
+ipa: ''
+part_of_speech: ''
+definitions:
+- meaning_id: datang dalam buaian
+  meaning_en: comes in a cradle
+  meaning_nl: komt in een wiegelied voor
+examples:
+- aceh: ning-ning ning boi
+  aceh_1889: ning-ning ning boi
+  jawi: ''
+  id: sinja tjoet loen bak Raja sanggoi, tidur di, tidur di, kecil saya, sehingga Anda mendapatkan rambut
+    besar yang salah; atau Atj
+  en: sinja tjoet loen bak Raja sanggoi, sleep in, sleep in, my little, so that you obtain a large hairwrong;
+    [Atj
+  nl: sinja tjoet loen bak raja sanggoi, slaap in, slaap in, mijn kleine, opdat ge een grooten haarwrong
+    verkrijgt; [Atj
+- aceh: voor een jongen hetzelfde
+  aceh_1889: voor een jongen hetzelfde
+  jawi: ''
+  id: tetapi tiga kata terakhir kemudian digantikan oleh kotak rëdjang kaja, sehingga Anda dengan cepat
+    menjadi kaya, atau bah rëdjang ganas, sehingga Anda segera dipelajari
+  en: but the last three words are then replaced by box rëdjang kaja, so that you quickly become rich,
+    or bah rëdjang malim, so that you are soon learned]
+  nl: doch de drie laatste woorden worden dan vervangen door bak rëdjang kaja, opdat ge spoedig rijk wordt,
+    of bah rëdjang malim, opdat ge spoedig geleerd wordt]
+etymology: ''
+related_words: []
+dialect_notes: ''
+source: 'K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage: Martinus Nijhoff, voor het
+  Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië, 1889, hlm. 272'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+language_uncertain: false
+modern_spelling: ning-ning
+extraction_notes: Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each
+  headword); not AI-generated. Indonesian and English were produced by machine translation of van Langen's
+  Dutch (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl` for verification;
+  the rendering is not from the source and needs a human check. Part of speech not stated in the source;
+  left blank.

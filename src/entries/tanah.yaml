@@ -1,0 +1,51 @@
+headword: tanah
+jawi: تانه
+alt_spelling: []
+ipa: ''
+part_of_speech: ''
+definitions:
+- meaning_id: tanah, wilayah
+  meaning_en: soil, region
+  meaning_nl: aarde, grond, aardbodem, landstreek
+- meaning_id: tanah klièt, tanah liat
+  meaning_en: tanah klièt, clay
+  meaning_nl: tanah klièt, klei, leem
+- meaning_id: tanah hitam, humus bumi tua
+  meaning_en: tanah hitam, old humus earth
+  meaning_nl: tanah hitam, oude humusaarde
+- meaning_id: tanah anoi, tanah berpasir
+  meaning_en: tanah anoi, sandy soil
+  meaning_nl: tanah anoi, zandgrond
+- meaning_id: tanah ass kajée, humus muda bumi
+  meaning_en: tanah ass kajée, young humus earth
+  meaning_nl: tanah oen kajée, jonge humusaarde
+- meaning_id: tanah mirah atau kawi, tanah liat merah
+  meaning_en: tanah mirah or kawi, red clay soil
+  meaning_nl: tanah mirah of kawi, roode kleigrond
+- meaning_id: tanah koening, marl ground
+  meaning_en: tanah koening, marl ground
+  meaning_nl: tanah koening, mergelgrond
+- meaning_id: tanah poetih, pipa bumi, tanah putih
+  meaning_en: tanah poetih, pipe earth, white soil
+  meaning_nl: tanah poetih, pijpaarde, witte grond
+- meaning_id: tanah oedip, tanah yang sudah dicuci
+  meaning_en: tanah oedip, washed-up land
+  meaning_nl: tanah oedip, aangewassen grond
+- meaning_id: tanah tjèm-paga, sulfur
+  meaning_en: tanah tjèm-paga, sulphur
+  meaning_nl: tanah tjèm-paga, zwavel
+examples: []
+etymology: ''
+related_words: []
+dialect_notes: ''
+source: 'K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage: Martinus Nijhoff, voor het
+  Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië, 1889, hlm. 55'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+language_uncertain: false
+modern_spelling: tanah
+extraction_notes: Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each
+  headword); not AI-generated. Indonesian and English were produced by machine translation of van Langen's
+  Dutch (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl` for verification;
+  the rendering is not from the source and needs a human check. Part of speech not stated in the source;
+  left blank.

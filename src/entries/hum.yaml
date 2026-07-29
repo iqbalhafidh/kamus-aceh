@@ -1,23 +1,43 @@
 headword: h'um
-jawi: ''
-alt_spelling: []
+jawi: هم
+alt_spelling:
+- hoem
 ipa: ''
 part_of_speech: n
 definitions:
 - meaning_id: bunyi nyala api yang besar, desing, atau gegar pukulan gada
   meaning_en: the sound of a large blazing fire, whizz, or the shock of a mace blow
+- meaning_id: aku tidak tahu, aku tidak bisa mengatakannya. secara umum, untuk mengekspresikan ketidakpastian
+    dalam pengetahuan sesuatu
+  meaning_en: i don't know, I can't say. In general, to express uncertainty in the knowledge of something
+  meaning_nl: ik weet niet, ik kan niet zeggen. In het algemeen, om onzekerheid in de kennis van iets
+    uit te drukken
 examples:
 - aceh: meu h'um
   jawi: ''
   id: mengeluarkan bunyi H.um
   en: to make the sound h'um
+- aceh: hum hana lun tupue
+  aceh_1889: hoem hana loen toepoë
+  jawi: ''
+  id: aku tak bisa bilang aku tak tahu
+  en: i can't say I don't know
+  nl: ik kan niet zeggen, dat ik het niet weet
 etymology: ''
 related_words:
 - h'am-h'um
 dialect_notes: ''
 source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
-  Pendidikan dan Kebudayaan, 1985, hlm. 300'
+  Pendidikan dan Kebudayaan, 1985, hlm. 300; K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage:
+  Martinus Nijhoff, voor het Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië,
+  1889, hlm. 281'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
 extraction_notes: 'Jawi left blank: the source is Latin-script only and no Jawi form is printed for this
-  entry.'
+  entry. | Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each headword);
+  not AI-generated. `modern_spelling` “hum” is an AI-supplied transposition of the 1889 orthography (oe->u,
+  dj->j, tj->c, nj->ny, ë->eu); it is NOT from the source and needs checking before it is used to match
+  the 1985 dictionary. Indonesian and English were produced by machine translation of van Langen''s Dutch
+  (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl` for verification;
+  the rendering is not from the source and needs a human check. Part of speech not stated in the source;
+  left blank.'

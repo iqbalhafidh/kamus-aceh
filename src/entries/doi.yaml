@@ -1,0 +1,31 @@
+headword: doi
+jawi: دوى
+alt_spelling: []
+ipa: ''
+part_of_speech: ''
+definitions:
+- meaning_id: doei-doei, menyeret kain sepanjang tanah, benar-benar meninggalkan garis sesuatu di belakang
+  meaning_en: doei-doei, drag a cloth along the ground, actually leave a line of something behind
+  meaning_nl: voorhoofdsplaat. دوى² doei-doei, een kleed langs den grond slepen, eigenlijk een lijn van
+    iets achterlaten
+examples:
+- aceh: van rijst
+  aceh_1889: van rijst
+  jawi: ''
+  id: mereka diangkut dan dari mana biji-bijian jatuh di tanah tanpa henti
+  en: they are transported and from which grains fall on the ground incessantly
+  nl: die men vervoert en waarvan onophoudelijk korrels op den grond vallen. Men zegt ook toei-toei
+etymology: ''
+related_words: []
+dialect_notes: ''
+source: 'K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage: Martinus Nijhoff, voor het
+  Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië, 1889, hlm. 114'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+language_uncertain: false
+modern_spelling: doi
+extraction_notes: Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each
+  headword); not AI-generated. Indonesian and English were produced by machine translation of van Langen's
+  Dutch (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl` for verification;
+  the rendering is not from the source and needs a human check. Part of speech not stated in the source;
+  left blank.

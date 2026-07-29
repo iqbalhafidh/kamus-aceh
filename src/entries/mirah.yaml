@@ -1,11 +1,23 @@
 headword: mirah
-jawi: ''
+jawi: میرا
 alt_spelling: []
 ipa: ''
 part_of_speech: a
 definitions:
 - meaning_id: merah
   meaning_en: red
+- meaning_id: merah, coklat
+  meaning_en: red, brown
+  meaning_nl: rood, ros, bruin
+- meaning_id: mirah moeda, warna coklat muda
+  meaning_en: mirah moeda, light brown
+  meaning_nl: mirah moeda, licht bruin
+- meaning_id: mirah toeha, coklat gelap
+  meaning_en: mirah toeha, dark brown
+  meaning_nl: mirah toeha, donkerbruin
+- meaning_id: mirah boh manoek, Dooir telur
+  meaning_en: mirah boh manoek, dooir of an egg
+  meaning_nl: mirah boh manoek, dooïer van een ei
 examples:
 - aceh: boh manokmirah
   jawi: ''
@@ -50,8 +62,14 @@ related_words:
 - gumira )
 dialect_notes: ''
 source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
-  Pendidikan dan Kebudayaan, 1985, hlm. 607'
+  Pendidikan dan Kebudayaan, 1985, hlm. 607; K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage:
+  Martinus Nijhoff, voor het Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië,
+  1889, hlm. 269'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
 extraction_notes: 'Jawi left blank: the source is Latin-script only and no Jawi form is printed for this
-  entry.'
+  entry. | Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each headword);
+  not AI-generated. Indonesian and English were produced by machine translation of van Langen''s Dutch
+  (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl` for verification;
+  the rendering is not from the source and needs a human check. Part of speech not stated in the source;
+  left blank.'

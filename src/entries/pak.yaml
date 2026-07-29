@@ -1,5 +1,5 @@
 headword: pak
-jawi: ''
+jawi: فق
 alt_spelling: []
 ipa: ''
 part_of_speech: n
@@ -10,6 +10,9 @@ definitions:
   meaning_en: implement war
 - meaning_id: pak, pajak, sewa, cukai
   meaning_en: packet, tax, rent, excise
+- meaning_id: sewa
+  meaning_en: rent
+  meaning_nl: pacht
 examples:
 - aceh: gade
   jawi: ''
@@ -24,7 +27,9 @@ related_words:
 - pak-pak
 dialect_notes: ''
 source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
-  Pendidikan dan Kebudayaan, 1985, hlm. 660, 676'
+  Pendidikan dan Kebudayaan, 1985, hlm. 660, 676; K. F. H. van Langen. Woordenboek der Atjehsche Taal.
+  ''s-Gravenhage: Martinus Nijhoff, voor het Koninklijk Instituut voor de Taal-, Land- en Volkenkunde
+  van Nederlandsch-Indië, 1889, hlm. 185'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
 extraction_notes: 'Homonym 1 in the source (printed as a superscript numeral before the headword). Jawi
@@ -33,4 +38,8 @@ extraction_notes: 'Homonym 1 in the source (printed as a superscript numeral bef
   Latin-script only and no Jawi form is printed for this entry. | Source gives this only as a cross-reference
   (→ pak-pak); no independent definition is printed, so meaning fields are left blank rather than guessed.
   Jawi left blank: the source is Latin-script only and no Jawi form is printed for this entry. Part of
-  speech not stated in the source; left blank.'
+  speech not stated in the source; left blank. | Jawi copied verbatim from the printed source (van Langen
+  prints the Jawi form for each headword); not AI-generated. Indonesian and English were produced by machine
+  translation of van Langen''s Dutch (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in
+  `meaning_nl`/`nl` for verification; the rendering is not from the source and needs a human check. Part
+  of speech not stated in the source; left blank.'

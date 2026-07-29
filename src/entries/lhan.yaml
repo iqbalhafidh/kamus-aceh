@@ -1,11 +1,14 @@
 headword: lhan
-jawi: ''
+jawi: لُهن
 alt_spelling: []
 ipa: ''
 part_of_speech: n
 definitions:
 - meaning_id: ular sawah yang suka makan ayam dan kambing
   meaning_en: ''
+- meaning_id: ular ular raksasa, melahap kambing dan ayam
+  meaning_en: boa or giant snake, devouring goats and chickens
+  meaning_nl: boa of reuzenslang, die geiten en kippen verslindt
 examples:
 - aceh: lagèe lhan peuubat droe
   jawi: ''
@@ -21,8 +24,15 @@ related_words:
 - peureulan
 dialect_notes: ''
 source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
-  Pendidikan dan Kebudayaan, 1985, hlm. 534'
+  Pendidikan dan Kebudayaan, 1985, hlm. 534; K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage:
+  Martinus Nijhoff, voor het Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië,
+  1889, hlm. 247'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
 extraction_notes: 'English gloss left blank: no confident translation of the Indonesian definition was
-  available. Jawi left blank: the source is Latin-script only and no Jawi form is printed for this entry.'
+  available. Jawi left blank: the source is Latin-script only and no Jawi form is printed for this entry.
+  | Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each headword);
+  not AI-generated. Indonesian and English were produced by machine translation of van Langen''s Dutch
+  (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl` for verification;
+  the rendering is not from the source and needs a human check. Part of speech not stated in the source;
+  left blank.'

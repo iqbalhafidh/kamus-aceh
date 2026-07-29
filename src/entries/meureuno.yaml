@@ -1,0 +1,32 @@
+headword: mërëno
+jawi: مردو
+alt_spelling: []
+ipa: ''
+part_of_speech: ''
+definitions:
+- meaning_id: kerumunan besar atau sejumlah besar orang atau kawanan, bergerak bersama-sama
+  meaning_en: a large crowd or a large number of persons or flock, moving together
+  meaning_nl: een groote menigte of groot aantal personen of kudde, die zich gezamenlijk beweegt
+examples:
+- aceh: seurdadu jileubit di dalam bunoi oh meureuno jijak mubaris
+  aceh_1889: sërdadoe djilëbit di dalam boenoi oh mërëno djidjak moebaris
+  jawi: ''
+  id: tentara datang ooeven dari Dalam, itu adalah kerumunan besar, yang akan berlatih
+  en: the soldiers came ooeven from the Dalam, it was a large crowd, who were going to practice
+  nl: de soldaten kwamen zooeven uit de dalam, het was eene groote menigte, die gingen exerceeren
+etymology: ''
+related_words: []
+dialect_notes: ''
+source: 'K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage: Martinus Nijhoff, voor het
+  Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië, 1889, hlm. 258'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+language_uncertain: false
+modern_spelling: meureuno
+extraction_notes: Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each
+  headword); not AI-generated. `modern_spelling` “meureuno” is an AI-supplied transposition of the 1889
+  orthography (oe->u, dj->j, tj->c, nj->ny, ë->eu); it is NOT from the source and needs checking before
+  it is used to match the 1985 dictionary. Indonesian and English were produced by machine translation
+  of van Langen's Dutch (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl`
+  for verification; the rendering is not from the source and needs a human check. Part of speech not stated
+  in the source; left blank.

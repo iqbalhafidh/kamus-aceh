@@ -1,0 +1,44 @@
+headword: sëkoëët
+jawi: سکوت
+alt_spelling: []
+ipa: ''
+part_of_speech: ''
+definitions:
+- meaning_id: mengambil sesuatu secara keseluruhan
+  meaning_en: take away something in its entirety
+  meaning_nl: iets in zijn geheel wegnemen
+- meaning_id: lensa ke garis kepang
+  meaning_en: lenses to braid mats
+  meaning_nl: biezen lenig maken om er matten van te vlechten
+- meaning_id: pënjëkoëët, sisir digunakan untuk tujuan ini
+  meaning_en: pënjëkoëët, comb used for this purpose
+  meaning_nl: pënjëkoëët, de daartoe gebezigde kam
+examples:
+- aceh: ka ji seukueeut le wali harta teuku pulan jih jang mate
+  aceh_1889: ka dji sëkoëët lé wali harta Tëkoe Poelan djih jang maté
+  jawi: ''
+  id: ahli waris telah mengambil semua barang dari Tëkoe N n
+  en: the heirs have taken all the goods from Tëkoe N. N
+  nl: de erfgenamen hebben al de goederen weggenomen van Tëkoe N. N
+etymology: ''
+related_words: []
+dialect_notes: ''
+source: 'K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage: Martinus Nijhoff, voor het
+  Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië, 1889, hlm. 149'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+language_uncertain: false
+modern_spelling: seukueeut
+extraction_notes: 'Homonym I in the source (printed as a numeral before the headword). Jawi copied verbatim
+  from the printed source (van Langen prints the Jawi form for each headword); not AI-generated. `modern_spelling`
+  “seukueeut” is an AI-supplied transposition of the 1889 orthography (oe->u, dj->j, tj->c, nj->ny, ë->eu);
+  it is NOT from the source and needs checking before it is used to match the 1985 dictionary. Indonesian
+  and English were produced by machine translation of van Langen''s Dutch (Dutch→English→Indonesian, OPUS-MT).
+  The Dutch original is kept in `meaning_nl`/`nl` for verification; the rendering is not from the source
+  and needs a human check. Part of speech not stated in the source; left blank. | Homonym II in the source
+  (printed as a numeral before the headword). Jawi left blank: no Jawi form is printed for this entry.
+  `modern_spelling` “seukueeut” is an AI-supplied transposition of the 1889 orthography (oe->u, dj->j,
+  tj->c, nj->ny, ë->eu); it is NOT from the source and needs checking before it is used to match the 1985
+  dictionary. Indonesian and English were produced by machine translation of van Langen''s Dutch (Dutch→English→Indonesian,
+  OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl` for verification; the rendering is not from
+  the source and needs a human check. Part of speech not stated in the source; left blank.'

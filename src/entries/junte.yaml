@@ -1,18 +1,37 @@
 headword: juntè
-jawi: ''
-alt_spelling: []
+jawi: جونتى
+alt_spelling:
+- djoenté
 ipa: ''
 part_of_speech: v
 definitions:
 - meaning_id: berjuntai, duduk pada suatu ketinggian dengan kaki tergantung lemah ke bawah
   meaning_en: dangling, to sit up high with the legs dangling loosely
+- meaning_id: longgar, tergantung ke bawah, seperti kaki duduk di depan penanda untuk sangat tidak sopan
+  meaning_en: loose, hanging down, like the legs sitting in front of significants for very disrespectful
+  meaning_nl: los, neêrhangend, zooals de beenen bij het zitten, dat in bijzijn van aanzienlijken voor
+    zeer oneerbiedig wordt gehouden
+- meaning_id: lain juga digunakan bunga di batang mereka, ropework, sayap dll
+  meaning_en: other also used flowers on their stems, ropework, wings etc
+  meaning_nl: verder ook gebezigd van bloemen aan hun stengels, van touwwerk, vleugels enz
+- meaning_id: anjing mé-djoenté, dengan kaki menggantung longgar
+  meaning_en: dog mé-djoenté, with the legs hanging loose
+  meaning_nl: doeg mé-djoenté, met de beenen los neêrhangend zitten
 examples: []
 etymology: ''
 related_words: []
 dialect_notes: ''
 source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
-  Pendidikan dan Kebudayaan, 1985, hlm. 356'
+  Pendidikan dan Kebudayaan, 1985, hlm. 356; K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage:
+  Martinus Nijhoff, voor het Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië,
+  1889, hlm. 88'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
 extraction_notes: 'Jawi left blank: the source is Latin-script only and no Jawi form is printed for this
-  entry.'
+  entry. | Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each headword);
+  not AI-generated. `modern_spelling` “junte” is an AI-supplied transposition of the 1889 orthography
+  (oe->u, dj->j, tj->c, nj->ny, ë->eu); it is NOT from the source and needs checking before it is used
+  to match the 1985 dictionary. Indonesian and English were produced by machine translation of van Langen''s
+  Dutch (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl` for verification;
+  the rendering is not from the source and needs a human check. Part of speech not stated in the source;
+  left blank.'

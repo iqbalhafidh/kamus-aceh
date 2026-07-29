@@ -1,5 +1,5 @@
 headword: lan
-jawi: ''
+jawi: لن
 alt_spelling: []
 ipa: ''
 part_of_speech: a
@@ -20,6 +20,9 @@ definitions:
   meaning_en: nauseated
 - meaning_id: sangka, tuduh
   meaning_en: surmise, to accuse
+- meaning_id: jijik, enggan makan
+  meaning_en: disgust, aversion to food
+  meaning_nl: tegenzin, afkeer bekomen van spijzen
 examples:
 - aceh: lan lôn that lôn kalon si Pulan nyan maguen
   jawi: ''
@@ -33,17 +36,30 @@ examples:
   jawi: ''
   id: Anda jangan menyangka yg bukan-bukan thd seseorang
   en: Do not think ill of anyone without cause
+- aceh: lan lun teuhat lun kalon si pulan nyan magun
+  aceh_1889: '*lan loen tëhat loen kalon si Poelan njan magoen*'
+  jawi: ''
+  id: aku akan mendapatkan jijik besar tentang makanan jika aku mengambil N.N. itu
+  en: i'm gonna get a big disgust about the food if I take that N.N
+  nl: ik krijg grooten afkeer van het eten, indien ik die N.N
 etymology: ''
 related_words:
 - luat
 - seugan
+- koken
 dialect_notes: 'Marked (dl hik) in the source: attested in hikayat, the classical Acehnese narrative verse
   register.'
 source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
-  Pendidikan dan Kebudayaan, 1985, hlm. 496'
+  Pendidikan dan Kebudayaan, 1985, hlm. 496; K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage:
+  Martinus Nijhoff, voor het Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië,
+  1889, hlm. 243'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
 extraction_notes: 'Homonym 1 in the source (printed as a superscript numeral before the headword). Jawi
   left blank: the source is Latin-script only and no Jawi form is printed for this entry. | Homonym 2
   in the source (printed as a superscript numeral before the headword). Jawi left blank: the source is
-  Latin-script only and no Jawi form is printed for this entry.'
+  Latin-script only and no Jawi form is printed for this entry. | Jawi copied verbatim from the printed
+  source (van Langen prints the Jawi form for each headword); not AI-generated. Indonesian and English
+  were produced by machine translation of van Langen''s Dutch (Dutch→English→Indonesian, OPUS-MT). The
+  Dutch original is kept in `meaning_nl`/`nl` for verification; the rendering is not from the source and
+  needs a human check. Part of speech not stated in the source; left blank.'

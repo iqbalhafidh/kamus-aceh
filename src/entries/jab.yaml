@@ -1,6 +1,7 @@
 headword: jab
-jawi: ''
-alt_spelling: []
+jawi: جب
+alt_spelling:
+- djab
 ipa: ''
 part_of_speech: ''
 definitions:
@@ -10,6 +11,12 @@ definitions:
     bubu serta tertutup rapat pada ujungnya
   meaning_en: the throat of a fish trap, consisting of a bamboo funnel woven crosswise, open at the mouth
     of the trap and closed tight at the end
+- meaning_id: untuk elkaār, bersatu, dari satu perasaan
+  meaning_en: to elkaār, unite together, of one feeling
+  meaning_nl: bij elkaār brengen, tot één geheel vereenigd, van één gevoelen
+- meaning_id: mēdjab, cobalah untuk membuat satu perasaan
+  meaning_en: mēdjab, try to make one feeling
+  meaning_nl: mēdjab, tot één gevoelen trachten te brengen
 examples:
 - aceh: bêk jab that taduek bak bintêh, teuboih bajèeteu
   jawi: ''
@@ -23,11 +30,20 @@ etymology: ''
 related_words: []
 dialect_notes: ''
 source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
-  Pendidikan dan Kebudayaan, 1985, hlm. 318'
+  Pendidikan dan Kebudayaan, 1985, hlm. 318; K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage:
+  Martinus Nijhoff, voor het Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië,
+  1889, hlm. 79'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
 extraction_notes: 'Homonym 1 in the source (printed as a superscript numeral before the headword). Jawi
   left blank: the source is Latin-script only and no Jawi form is printed for this entry. Part of speech
   not stated in the source; left blank. | Homonym 2 in the source (printed as a superscript numeral before
   the headword). Jawi left blank: the source is Latin-script only and no Jawi form is printed for this
-  entry. Part of speech not stated in the source; left blank.'
+  entry. Part of speech not stated in the source; left blank. | Homonym I in the source (printed as a
+  numeral before the headword). Jawi copied verbatim from the printed source (van Langen prints the Jawi
+  form for each headword); not AI-generated. `modern_spelling` “jab” is an AI-supplied transposition of
+  the 1889 orthography (oe->u, dj->j, tj->c, nj->ny, ë->eu); it is NOT from the source and needs checking
+  before it is used to match the 1985 dictionary. Indonesian and English were produced by machine translation
+  of van Langen''s Dutch (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl`
+  for verification; the rendering is not from the source and needs a human check. Part of speech not stated
+  in the source; left blank.'

@@ -1,0 +1,33 @@
+headword: daras
+jawi: دارس
+alt_spelling: []
+ipa: ''
+part_of_speech: ''
+definitions:
+- meaning_id: pintu pagar
+  meaning_en: door of a fence
+  meaning_nl: deur van een omheining
+examples:
+- aceh: tameuh daras meuculik
+  aceh_1889: tamëh daras mëtjoelik
+  jawi: ''
+  id: sipoet ban lëk dëngon tjimpala, gaya pintu pagar diukir dengan bunga, mirip dengan shellfish, sebagai
+    kura-kura merpati berkelahi dengan tjimpala-vogel
+  en: sipoet ban lëk mëloet dëngon tjimpala, the styles of the door of the fence are carved with flowers,
+    similar to shellfish, as the turtle dove fights with the tjimpala-vogel
+  nl: sipoet ban lëk mëloet dëngon tjimpala, de stijlen van de deur der omheining zijn gebeeldhouwd met
+    bloemen, gelijkende op schelpdieren, even als de tortelduif vecht met den tjimpala-vogel
+etymology: ''
+related_words: []
+dialect_notes: ''
+source: 'K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage: Martinus Nijhoff, voor het
+  Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië, 1889, hlm. 107'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+language_uncertain: false
+modern_spelling: daras
+extraction_notes: Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each
+  headword); not AI-generated. Indonesian and English were produced by machine translation of van Langen's
+  Dutch (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl` for verification;
+  the rendering is not from the source and needs a human check. Part of speech not stated in the source;
+  left blank.

@@ -1,0 +1,31 @@
+headword: abëng-abëng
+jawi: ایغ
+alt_spelling: []
+ipa: ''
+part_of_speech: n
+definitions:
+- meaning_id: sejenis pohon, yang kayu sangat rapuh
+  meaning_en: a kind of tree, whose wood is very fragile
+  meaning_nl: een soort van boom, wiens hout zeer broos is
+examples:
+- aceh: ulun tuwan teuku umpama boh abeung-abeung angin ba put keudeuh keunoi
+  aceh_1889: oeloen toewan Tëkoe oempama boh abëng-abëng angin ba poet këdëh kënoi
+  jawi: ''
+  id: i, Tëkoe, seperti pada buah abeng- abeng, yang ditiup oleh angin dan ditiup oleh angin
+  en: i, Tëkoe, as on an abeng-abeng fruit, which is blown by the wind and blown by the wind
+  nl: ik, Tëkoe, gelijk op een abeng-abeng vrucht, die door den wind her- en derwaarts wordt geblazen
+etymology: ''
+related_words: []
+dialect_notes: ''
+source: 'K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage: Martinus Nijhoff, voor het
+  Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië, 1889, hlm. 1'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+language_uncertain: false
+modern_spelling: abeung-abeung
+extraction_notes: Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each
+  headword); not AI-generated. `modern_spelling` “abeung-abeung” is an AI-supplied transposition of the
+  1889 orthography (oe->u, dj->j, tj->c, nj->ny, ë->eu); it is NOT from the source and needs checking
+  before it is used to match the 1985 dictionary. Indonesian and English were produced by machine translation
+  of van Langen's Dutch (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl`
+  for verification; the rendering is not from the source and needs a human check.

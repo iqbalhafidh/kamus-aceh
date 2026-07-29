@@ -1,0 +1,38 @@
+headword: tjing
+jawi: چينغ
+alt_spelling: []
+ipa: ''
+part_of_speech: ''
+definitions:
+- meaning_id: skala untuk obyek kasar
+  meaning_en: scales for rough objects
+  meaning_nl: weegschaal voor ruwe voorwerpen
+examples:
+- aceh: timang ngon cing
+  aceh_1889: timang ngon tjing
+  jawi: ''
+  id: berat pada skala, skala untuk obyek b
+  en: weigh it on the scale. A scale for fine objects b
+  nl: weeg het op de weegschaal. Een weegschaal voor fijne voorwerpen b
+- aceh: cing karut of ilat
+  aceh_1889: tjing karoet of ilat
+  jawi: ''
+  id: skala palsu, yang selalu melewati terlalu banyak di satu sisi atau lainnya
+  en: a false scale, which always skips too much on one side or another
+  nl: een valsche weegschaal, die steeds te veel aan de eene of andere zijde overslaat
+etymology: ''
+related_words: []
+dialect_notes: ''
+source: 'K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage: Martinus Nijhoff, voor het
+  Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië, 1889, hlm. 102'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+language_uncertain: false
+modern_spelling: cing
+extraction_notes: Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each
+  headword); not AI-generated. `modern_spelling` “cing” is an AI-supplied transposition of the 1889 orthography
+  (oe->u, dj->j, tj->c, nj->ny, ë->eu); it is NOT from the source and needs checking before it is used
+  to match the 1985 dictionary. Indonesian and English were produced by machine translation of van Langen's
+  Dutch (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl` for verification;
+  the rendering is not from the source and needs a human check. Part of speech not stated in the source;
+  left blank.

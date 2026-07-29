@@ -1,5 +1,5 @@
 headword: ma
-jawi: ''
+jawi: مَا
 alt_spelling:
 - mak
 ipa: ''
@@ -13,6 +13,12 @@ definitions:
   meaning_en: uncle
 - meaning_id: wanita yang telah lanjut usianya
   meaning_en: ''
+- meaning_id: ibu, juga referensi untuk wanita tua
+  meaning_en: mother, also reference for old women
+  meaning_nl: moeder, ook aanspreekwoord voor oude vrouwen
+- meaning_id: ma tjoet, saudara perempuan ayah atau ibu (bibi), namun lebih muda dari ayah atau ibu
+  meaning_en: ma tjoet, sister of father or mother (aunt), however younger than father or mother
+  meaning_nl: ma tjoet, zuster van vader of moeder (tante), die echter jonger is dan vader of moeder
 examples:
 - aceh: ma ha (kep dr tuha)
   jawi: ''
@@ -26,8 +32,14 @@ etymology: ''
 related_words: []
 dialect_notes: ''
 source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
-  Pendidikan dan Kebudayaan, 1985, hlm. 563'
+  Pendidikan dan Kebudayaan, 1985, hlm. 563; K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage:
+  Martinus Nijhoff, voor het Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië,
+  1889, hlm. 251'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
 extraction_notes: 'Homonym 1 in the source (printed as a superscript numeral before the headword). Jawi
-  left blank: the source is Latin-script only and no Jawi form is printed for this entry.'
+  left blank: the source is Latin-script only and no Jawi form is printed for this entry. | Jawi copied
+  verbatim from the printed source (van Langen prints the Jawi form for each headword); not AI-generated.
+  Indonesian and English were produced by machine translation of van Langen''s Dutch (Dutch→English→Indonesian,
+  OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl` for verification; the rendering is not from
+  the source and needs a human check. Part of speech not stated in the source; left blank.'

@@ -1,0 +1,45 @@
+headword: aoek
+jawi: اوق
+alt_spelling: []
+ipa: ''
+part_of_speech: ''
+definitions:
+- meaning_id: sendok topi clapper
+  meaning_en: a spoon of clapper cap
+  meaning_nl: een lepel van klapperdop
+- meaning_id: aoek djaroi, bentuk luar dari tangan dibandingkan dengan seperti sendok
+  meaning_en: aoek djaroi, the outer shape of the hand to be compared with such a spoon
+  meaning_nl: aoek djaroi, de uiterlijke vorm van de hand, dien men bij een dergelijken lepel vergelijkt
+- meaning_id: petani aoek, sendok beras
+  meaning_en: aoek farmer, rice spoon
+  meaning_nl: aoek boer, rijstlepel
+examples:
+- aceh: pegej auk be tutung jaroi
+  aceh_1889: pēgēdj aoek bē toetoeng djaroi
+  jawi: ''
+  id: oeloen pēlihara gata kēsenambat djaroi, (Atj)
+  en: oeloen pēlihara gata kēsenambat djaroi, (Atj)
+  nl: oeloen pēlihara gata kēsenambat djaroi, (Atj
+- aceh: spreekw ik maak een lepel
+  aceh_1889: spreekw.) ik maak een lepel
+  jawi: ''
+  id: aku akan menjaga kalian dan mendengarkan apa yang terjadi antara kalian dan Fir 'aun. Dan kalian
+    berdua akan mendapatkan kemenangan dan dukungan
+  en: so that you do not burn your hands, I will keep you, that you may help me (actually)
+  nl: opdat ge uwe handen niet brandt, ik onderhoud u, om mij behulpzaam te zijn (eigenl
+etymology: ''
+related_words: []
+dialect_notes: ''
+source: 'K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage: Martinus Nijhoff, voor het
+  Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië, 1889, hlm. 18'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+language_uncertain: false
+modern_spelling: auk
+extraction_notes: Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each
+  headword); not AI-generated. `modern_spelling` “auk” is an AI-supplied transposition of the 1889 orthography
+  (oe->u, dj->j, tj->c, nj->ny, ë->eu); it is NOT from the source and needs checking before it is used
+  to match the 1985 dictionary. Indonesian and English were produced by machine translation of van Langen's
+  Dutch (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl` for verification;
+  the rendering is not from the source and needs a human check. Part of speech not stated in the source;
+  left blank.

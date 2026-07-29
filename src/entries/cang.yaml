@@ -1,20 +1,35 @@
-headword: cang
-jawi: ''
+headword: tjang
+jawi: چغ
 alt_spelling: []
 ipa: ''
 part_of_speech: ''
 definitions:
-- meaning_id: bacok
-  meaning_en: slash, strike
-- meaning_id: cincang
-  meaning_en: slice, chop
+- meaning_id: memotong pada seseorang dengan pedang
+  meaning_en: chopping on someone with the sword
+  meaning_nl: met het zwaard op iemand houwen
+- meaning_id: métjang, saling memotong dengan pedang
+  meaning_en: métjang, chopping each other with the sword
+  meaning_nl: métjang, op elkaär met het zwaard houwen
+- meaning_id: tjémétjang, dia yang memotong dengan pedang
+  meaning_en: tjémétjang, he who cuts with the sword
+  meaning_nl: tjémétjang, hij die met het zwaard houwt
+- meaning_id: kénong tjang, telah terpengaruh oleh pemotongan pedang
+  meaning_en: kénong tjang, have been affected by sword cutting
+  meaning_nl: kénong tjang, door zwaardhouwen getroffen zijn
 examples: []
 etymology: ''
-related_words:
-- tak
+related_words: []
 dialect_notes: ''
-source: 'Daud, Bukhari & Mark Durie. Kamus Basa Acèh = Kamus Bahasa Aceh: Acehnese–Indonesian–English Thesaurus.
-  Pacific Linguistics C-151, 1999, p. 20; p. 41.'
-date_added: '2026-07-20'
+source: 'K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage: Martinus Nijhoff, voor het
+  Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië, 1889, hlm. 94'
+date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: ''
+language_uncertain: false
+modern_spelling: cang
+extraction_notes: Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each
+  headword); not AI-generated. `modern_spelling` “cang” is an AI-supplied transposition of the 1889 orthography
+  (oe->u, dj->j, tj->c, nj->ny, ë->eu); it is NOT from the source and needs checking before it is used
+  to match the 1985 dictionary. Indonesian and English were produced by machine translation of van Langen's
+  Dutch (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl` for verification;
+  the rendering is not from the source and needs a human check. Part of speech not stated in the source;
+  left blank.

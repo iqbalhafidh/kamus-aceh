@@ -1,0 +1,40 @@
+headword: sarong
+jawi: ساروغ
+alt_spelling: []
+ipa: ''
+part_of_speech: ''
+definitions:
+- meaning_id: tengkorak senjata
+  meaning_en: skull of a weapon
+  meaning_nl: scheede van een wapen
+- meaning_id: sarong oelër, kulit ular hilang
+  meaning_en: sarong oelër, snake skin lost
+  meaning_nl: sarong oelër, afgevallen huid van slangen
+- meaning_id: sarong sënampang, laci pistol
+  meaning_en: sarong sënampang, drawer of a gun
+  meaning_nl: sarong sënampang, lade van een geweer
+- meaning_id: kata dengan yang béjos ditujukan dalam Aceh béjo adalah spesies burung yang terkenal, yang
+    dapat belajar untuk berbicara
+  meaning_en: the word with which the béjos is addressed in Aceh The béjo is the famous starling species,
+    which one can learn to talk
+  meaning_nl: het woord waarmede men de béjos in Atjeh aanspreekt. De béjo is de bekende spreeuwsoort,
+    die men kan leeren praten
+examples: []
+etymology: ''
+related_words: []
+dialect_notes: ''
+source: 'K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage: Martinus Nijhoff, voor het
+  Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië, 1889, hlm. 137'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+language_uncertain: false
+modern_spelling: sarong
+extraction_notes: 'Homonym I in the source (printed as a numeral before the headword). Jawi copied verbatim
+  from the printed source (van Langen prints the Jawi form for each headword); not AI-generated. Indonesian
+  and English were produced by machine translation of van Langen''s Dutch (Dutch→English→Indonesian, OPUS-MT).
+  The Dutch original is kept in `meaning_nl`/`nl` for verification; the rendering is not from the source
+  and needs a human check. Part of speech not stated in the source; left blank. | Homonym II in the source
+  (printed as a numeral before the headword). Jawi left blank: no Jawi form is printed for this entry.
+  Indonesian and English were produced by machine translation of van Langen''s Dutch (Dutch→English→Indonesian,
+  OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl` for verification; the rendering is not from
+  the source and needs a human check. Part of speech not stated in the source; left blank.'

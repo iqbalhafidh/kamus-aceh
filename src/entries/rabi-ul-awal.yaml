@@ -1,0 +1,62 @@
+headword: rabi 'oel awal
+jawi: رع الأول
+alt_spelling: []
+ipa: ''
+part_of_speech: ''
+definitions:
+- meaning_id: 3 bulan dari Moh. raboek melihat raboek reboet, seseorang dalam perjalanan, di darat atau
+    di laut dengan kekerasan, mengambil barang-barangnya, merampok
+  meaning_en: 3rd month of the Moh. raboek see raboek. r reboet, a person on his way, on land or on the
+    sea by force, taking away his goods, robbing
+  meaning_nl: 3e maand van het Moh. jaar. رعّr rêban, een soort van vogelkooi, waarin men een lokvogel
+    plaatst, om vogels te vangen. رعّr raboek zie راعو raboek. رعّr rêboet, iemand op weg, te land of
+    ter zee met geweld zijne goederen ontnemen, rooven
+- meaning_id: orëng mëreboet, roovers reboes, memasak reboeng, kecambah bambu atau kala, pisang, tebu,
+    alang-alang, dll R reboh-rebah, air mata mengalir tanpa penundaan
+  meaning_en: orëng mëreboet, roovers. r reboes, cooking. r reboeng, sprouts of bamboo or kala, pisang,
+    sugar cane, alang-alang, etc. r reboh-rebah, tears flowing without delay
+  meaning_nl: orëng mërêboet, roovers. رعّr rêboes, koken. رعّr rêboeng, uitspruitsels van bamboe of kala,
+    pisang, suikerriet, alang-alang enz. رعّr rêboh-rêbah, het zonder ophouden vloeien der tranen
+examples:
+- aceh: reboh rebah ngon ijeur mata
+  aceh_1889: rêboh-rêbah ngon ijër mata
+  jawi: ''
+  id: air matanya mengalir tanpa henti. sinonim dengan redjoeh-redjah, boh- bah dan djoh-djah R rebah,
+    jatuh, jatuh, menggantung juga tergantung, dari dada seorang wanita
+  en: his tears flowed without stopping. Synonymous with redjoeh-redjah, boh-bah and djoh-djah. r rebah,
+    fall down, fall down, hang down Also hanging, from the breasts of a woman
+  nl: zijne tranen vloeiden zonder ophouden. Synoniem met rêdjoeh-rêdjah, boh-bah en djoh-djah. رعّr rêbah,
+    omvallen, neêrvallen, neêrhangen. Ook hangende, van de borsten eener vrouw. رعّr rabbi, mijn Heer
+    (van God). رعّr rêtêb, zie راتب ratêb. رعّr rêtak, gebarsten, barst van porselein, glas, aardewerk
+    en messen. رعّr rêtêk, algemeene naam voor peulvrucht
+- aceh: retek lek
+  aceh_1889: rêtêk lêk
+  jawi: ''
+  id: buah polong kecil di liar tumbuh dengan daun segitiga, sehingga disebut karena merpati kura-kura
+    (kebocoran) bertindak sebagai makanan
+  en: a small pod fruit in the wild growing with triangular leaves, so called because the turtle pigeon
+    (leak) acting as food
+  nl: eene kleine peulvrucht in 't wild groeiende met driekantig blad, zoo genaamd omdat de tortelduif
+    (lêk) die als voedsel bezigt
+- aceh: retek lulun
+  aceh_1889: rêtêk loeloen
+  jawi: ''
+  id: yang kataner umum
+  en: the common cathanger
+  nl: de gewone katjang
+etymology: ''
+related_words: []
+dialect_notes: ''
+source: 'K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage: Martinus Nijhoff, voor het
+  Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië, 1889, hlm. 123'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+language_uncertain: false
+modern_spelling: rabi 'ul awal
+extraction_notes: Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each
+  headword); not AI-generated. `modern_spelling` “rabi 'ul awal” is an AI-supplied transposition of the
+  1889 orthography (oe->u, dj->j, tj->c, nj->ny, ë->eu); it is NOT from the source and needs checking
+  before it is used to match the 1985 dictionary. Indonesian and English were produced by machine translation
+  of van Langen's Dutch (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl`
+  for verification; the rendering is not from the source and needs a human check. Part of speech not stated
+  in the source; left blank.

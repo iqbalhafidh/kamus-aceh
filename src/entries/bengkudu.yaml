@@ -1,0 +1,30 @@
+headword: bêngkoedoe
+jawi: بغكونو
+alt_spelling: []
+ipa: ''
+part_of_speech: n
+definitions:
+- meaning_id: sejenis pohon, jus buah yang digunakan untuk mencuci kepala, sementara jus diperas daun
+    mabuk, setelah disaring, melawan formasi limpa. pohon ini juga disebut kemoedée
+  meaning_en: a kind of tree, the fruit juice of which is used for washing the head, while the squeezed
+    juice of the leaves is drunk, after being sieved, against spleen formation. This tree is also called
+    kemoedée
+  meaning_nl: een soort van boom, waarvan het vruchtensap voor het wasschen van het hoofd wordt gebezigd,
+    terwijl het uitgeperste sap der bladeren, na gezeefd te zijn, tegen opzetting der milt wordt gedronken.
+    Deze boom wordt ook kemoedée genoemd
+examples: []
+etymology: ''
+related_words: []
+dialect_notes: ''
+source: 'K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage: Martinus Nijhoff, voor het
+  Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië, 1889, hlm. 35'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+language_uncertain: false
+modern_spelling: bengkudu
+extraction_notes: Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each
+  headword); not AI-generated. `modern_spelling` “bengkudu” is an AI-supplied transposition of the 1889
+  orthography (oe->u, dj->j, tj->c, nj->ny, ë->eu); it is NOT from the source and needs checking before
+  it is used to match the 1985 dictionary. Indonesian and English were produced by machine translation
+  of van Langen's Dutch (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl`
+  for verification; the rendering is not from the source and needs a human check.

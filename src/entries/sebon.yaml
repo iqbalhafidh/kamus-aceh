@@ -1,0 +1,41 @@
+headword: sêbon
+jawi: سبون
+alt_spelling: []
+ipa: ''
+part_of_speech: ''
+definitions:
+- meaning_id: nama untuk bēlanak ikan, sebelum dicuci ke rapēng
+  meaning_en: name for the bēlanak fish, before being washed to rapēng
+  meaning_nl: naam voor den bēlanak-visch, alvorens hij gewassen is tot rapēng
+examples:
+- aceh: sprw als hij de belanak klein is
+  aceh_1889: sprw.) als hij (de bēlanak) klein is
+  jawi: ''
+  id: dia disebut serampong
+  en: he's called serampong
+  nl: wordt hij serampong genoemd
+- aceh: als hij zikh uit de vuten kan maken
+  aceh_1889: als hij zich uit de voeten kan maken
+  jawi: ''
+  id: ia disebut kadra, jika ia sedikit lebih besar, ia disebut sēbon, jika ia bisa melompat, ia disebut
+    Rapeng besar
+  en: he is called kadra, if he is a little bigger, he is called sēbon, if he can jump, he is called the
+    great rapeng
+  nl: wordt hij kadra genoemd, als hij nog een weinig grooter is, noemt men hem sēbon, als hij kan springen,
+    noemt men hem de groote rapeng
+etymology: ''
+related_words: []
+dialect_notes: ''
+source: 'K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage: Martinus Nijhoff, voor het
+  Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië, 1889, hlm. 141'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+language_uncertain: false
+modern_spelling: sebon
+extraction_notes: Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each
+  headword); not AI-generated. `modern_spelling` “sebon” is an AI-supplied transposition of the 1889 orthography
+  (oe->u, dj->j, tj->c, nj->ny, ë->eu); it is NOT from the source and needs checking before it is used
+  to match the 1985 dictionary. Indonesian and English were produced by machine translation of van Langen's
+  Dutch (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl` for verification;
+  the rendering is not from the source and needs a human check. Part of speech not stated in the source;
+  left blank.

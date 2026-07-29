@@ -1,11 +1,14 @@
 headword: mara
-jawi: ''
+jawi: مارا
 alt_spelling: []
 ipa: ''
 part_of_speech: n
 definitions:
 - meaning_id: mara, halangan, aral, bencana
   meaning_en: danger, obstacle, calamity
+- meaning_id: kerusakan, kesulitan, kecelakaan, bahaya
+  meaning_en: damage, distress, accident, danger
+  meaning_nl: schade, leed, ongeluk, gevaar
 examples:
 - aceh: h'an peue mara
   jawi: ''
@@ -15,12 +18,36 @@ examples:
   jawi: ''
   id: Moga-moga tidak berhalangan, kuta mara, mara kuta
   en: May there be no hindrance
+- aceh: lun singah meungbeu na pue mara lun keumeung jak u dalam
+  aceh_1889: loen singâh mëngbë na poë mara loen këmëng djak oe dalam
+  jawi: ''
+  id: aku ingin pergi ke Dalam besok, jika tidak ada kemalangan terjadi padaku
+  en: i want to go to the Dalam tomorrow, if no misfortune happens to me
+  nl: ik wil morgen naar den dalam gaan, indien mij geen ongeluk overkomt
+- aceh: marabahja
+  aceh_1889: marabahja
+  jawi: ''
+  id: kecelakaan
+  en: accident
+  nl: ongeluk
+- aceh: lun singah meungbe na pue mara lun keumeung jak u dalam
+  aceh_1889: loen singâh mëngbe na poeë mara loen këmëng djak oe dalam
+  jawi: ''
+  id: aku ingin pergi ke Dalam besok, jika tidak ada kemalangan terjadi padaku
+  en: i want to go to the Dalam tomorrow, if no misfortune happens to me
+  nl: ik wil morgen naar den dalam gaan, indien mij geen ongeluk overkomt
 etymology: ''
 related_words: []
 dialect_notes: ''
 source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
-  Pendidikan dan Kebudayaan, 1985, hlm. 577'
+  Pendidikan dan Kebudayaan, 1985, hlm. 577; K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage:
+  Martinus Nijhoff, voor het Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië,
+  1889, hlm. 252, 253'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
 extraction_notes: 'Jawi left blank: the source is Latin-script only and no Jawi form is printed for this
-  entry.'
+  entry. | Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each headword);
+  not AI-generated. Indonesian and English were produced by machine translation of van Langen''s Dutch
+  (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl` for verification;
+  the rendering is not from the source and needs a human check. Part of speech not stated in the source;
+  left blank.'

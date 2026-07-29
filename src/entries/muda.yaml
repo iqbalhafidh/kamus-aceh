@@ -1,11 +1,24 @@
 headword: muda
-jawi: ''
-alt_spelling: []
+jawi: مودا
+alt_spelling:
+- moeda
 ipa: ''
 part_of_speech: a
 definitions:
 - meaning_id: muda, belum masak, pucat, patah, putus
   meaning_en: young, not yet cook, pale, broken, broken off
+- meaning_id: muda
+  meaning_en: young
+  meaning_nl: jong, jeugdig
+- meaning_id: 'dari buah: belum matang, belum dewasa'
+  meaning_en: 'of fruit: immature, immature'
+  meaning_nl: 'van vruchten: onrijp, onvolwassen'
+- meaning_id: 'dari warna: cahaya, cerah, pucat'
+  meaning_en: 'of colors: light, bright, pale'
+  meaning_nl: 'van kleuren: licht, helder, bleek'
+- meaning_id: digunakan sebagai judul untuk nama Acehse Hoofden
+  meaning_en: is used as a title for the names of the Acehse Hoofden
+  meaning_nl: wordt als titel voor de namen der Atjehsche Hoofden gebezigd,
 examples:
 - aceh: putôih
   jawi: ''
@@ -35,14 +48,34 @@ examples:
   jawi: ''
   id: menurut dia, tubuhya menjadi sangat indah
   en: ''
+- aceh: teku muda lamkota
+  aceh_1889: Tékoe Moeda Lamkota
+  jawi: ''
+  id: tékoe Moeda Latif
+  en: tékoe Moeda Latif
+  nl: Tékoe Moeda Latif
 etymology: ''
 related_words:
 - meu'en
 dialect_notes: 'Marked (dl hik) in the source: attested in hikayat, the classical Acehnese narrative verse
   register.'
 source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
-  Pendidikan dan Kebudayaan, 1985, hlm. 613'
+  Pendidikan dan Kebudayaan, 1985, hlm. 613; K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage:
+  Martinus Nijhoff, voor het Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië,
+  1889, hlm. 266'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
 extraction_notes: 'Jawi left blank: the source is Latin-script only and no Jawi form is printed for this
-  entry.'
+  entry. | Homonym I in the source (printed as a numeral before the headword). Jawi copied verbatim from
+  the printed source (van Langen prints the Jawi form for each headword); not AI-generated. `modern_spelling`
+  “muda” is an AI-supplied transposition of the 1889 orthography (oe->u, dj->j, tj->c, nj->ny, ë->eu);
+  it is NOT from the source and needs checking before it is used to match the 1985 dictionary. Indonesian
+  and English were produced by machine translation of van Langen''s Dutch (Dutch→English→Indonesian, OPUS-MT).
+  The Dutch original is kept in `meaning_nl`/`nl` for verification; the rendering is not from the source
+  and needs a human check. Part of speech not stated in the source; left blank. | Homonym II in the source
+  (printed as a numeral before the headword). Jawi left blank: no Jawi form is printed for this entry.
+  `modern_spelling` “muda” is an AI-supplied transposition of the 1889 orthography (oe->u, dj->j, tj->c,
+  nj->ny, ë->eu); it is NOT from the source and needs checking before it is used to match the 1985 dictionary.
+  Indonesian and English were produced by machine translation of van Langen''s Dutch (Dutch→English→Indonesian,
+  OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl` for verification; the rendering is not from
+  the source and needs a human check. Part of speech not stated in the source; left blank.'

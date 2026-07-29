@@ -1,0 +1,32 @@
+headword: dêpa
+jawi: دفا
+alt_spelling: []
+ipa: ''
+part_of_speech: ''
+definitions:
+- meaning_id: vadem. salah satu membedakan depa umum, jarak ujung jari tangan pada lengan terentang dan
+    dempa menara, di antara petani yang digunakan, jarak, ketika seseorang berdiri miring, dari ujung
+    lengan membentang ke jari kaki panjang kaki lainnya
+  meaning_en: vadem. One distinguishes the common depa, the distance of the fingertips at the outstretched
+    arms and the depa menara, among farmers in use, the distance, when one stands oblique, from the fingertip
+    of the stretched arm to the toe of the extended other leg
+  meaning_nl: vadem. Men onderscheidt de gewone dêpa, den afstand der vingertoppen bij de uitgestrekte
+    armen en de dêpa mênara, bij landbouwers in gebruik, den afstand, wanneer men schuins staat, van den
+    vingertop des uitgestrekt arms tot aan de teen van het uitgestrekte andere been
+examples: []
+etymology: ''
+related_words: []
+dialect_notes: ''
+source: 'K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage: Martinus Nijhoff, voor het
+  Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië, 1889, hlm. 111'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+language_uncertain: false
+modern_spelling: depa
+extraction_notes: Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each
+  headword); not AI-generated. `modern_spelling` “depa” is an AI-supplied transposition of the 1889 orthography
+  (oe->u, dj->j, tj->c, nj->ny, ë->eu); it is NOT from the source and needs checking before it is used
+  to match the 1985 dictionary. Indonesian and English were produced by machine translation of van Langen's
+  Dutch (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl` for verification;
+  the rendering is not from the source and needs a human check. Part of speech not stated in the source;
+  left blank.

@@ -1,5 +1,5 @@
 headword: pirak
-jawi: ''
+jawi: ڤيرق
 alt_spelling: []
 ipa: ''
 part_of_speech: n
@@ -8,6 +8,15 @@ definitions:
   meaning_en: silver
 - meaning_id: dari perak
   meaning_en: ''
+- meaning_id: perak
+  meaning_en: silver
+  meaning_nl: zilver
+- meaning_id: ijèr pirak, perak emas
+  meaning_en: ijèr pirak, silver gilding
+  meaning_nl: ijèr pirak, zilver verguldsel
+- meaning_id: pirak sèntagi, kabel perak atau cord
+  meaning_en: pirak sèntagi, silver cord or cord
+  meaning_nl: pirak sèntagi, zilveren koord of snoer
 examples:
 - aceh: seuntagi, perak murni, ie pirak, celupan perak, air perak, meuih pirak, emas dan perak, ureueng
     nyan le meuih ngon pirak
@@ -18,8 +27,14 @@ etymology: ''
 related_words: []
 dialect_notes: ''
 source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
-  Pendidikan dan Kebudayaan, 1985, hlm. 726'
+  Pendidikan dan Kebudayaan, 1985, hlm. 726; K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage:
+  Martinus Nijhoff, voor het Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië,
+  1889, hlm. 194'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
 extraction_notes: 'Jawi left blank: the source is Latin-script only and no Jawi form is printed for this
-  entry.'
+  entry. | Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each headword);
+  not AI-generated. Indonesian and English were produced by machine translation of van Langen''s Dutch
+  (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl` for verification;
+  the rendering is not from the source and needs a human check. Part of speech not stated in the source;
+  left blank.'

@@ -1,5 +1,5 @@
 headword: rakan
-jawi: ''
+jawi: راكون
 alt_spelling: []
 ipa: ''
 part_of_speech: n
@@ -12,6 +12,9 @@ definitions:
   meaning_en: friend
 - meaning_id: (selanjutnya) pengikut seorang pemimpin
   meaning_en: ''
+- meaning_id: pengikut, pendamping, mitra
+  meaning_en: follower, companion, partner
+  meaning_nl: volgeling, medegezel, deelgenoot, vennoot
 examples:
 - aceh: lôn ngon gobnyan sirakan
   jawi: ''
@@ -34,8 +37,14 @@ etymology: ''
 related_words: []
 dialect_notes: ''
 source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
-  Pendidikan dan Kebudayaan, 1985, hlm. 767'
+  Pendidikan dan Kebudayaan, 1985, hlm. 767; K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage:
+  Martinus Nijhoff, voor het Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië,
+  1889, hlm. 119'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
 extraction_notes: 'Jawi left blank: the source is Latin-script only and no Jawi form is printed for this
-  entry.'
+  entry. | Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each headword);
+  not AI-generated. Indonesian and English were produced by machine translation of van Langen''s Dutch
+  (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl` for verification;
+  the rendering is not from the source and needs a human check. Part of speech not stated in the source;
+  left blank.'

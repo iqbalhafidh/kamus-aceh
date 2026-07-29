@@ -1,0 +1,35 @@
+headword: papën
+jawi: فافن
+alt_spelling: []
+ipa: ''
+part_of_speech: ''
+definitions:
+- meaning_id: papan
+  meaning_en: plank
+  meaning_nl: plank
+- meaning_id: papën sëmoerat, papan tulis, piring
+  meaning_en: papën sëmoerat, writing board, plate
+  meaning_nl: papën sëmoerat, schrijfplank, bord
+- meaning_id: papën tjoeng-kah, sebuah blok kayu berbentuk tongkang dengan lesung pasti Inl permainan
+  meaning_en: papën tjoeng-kah, a barge shaped block of wood with dimples for sure Inl. game
+  meaning_nl: papën tjoeng-kah, een schuitvormig blok hout met kuiltjes voor zeker Inl. spel
+- meaning_id: papën tjatoer, chesboard
+  meaning_en: papën tjatoer, chessboard
+  meaning_nl: papën tjatoer, schaakbord
+examples: []
+etymology: ''
+related_words: []
+dialect_notes: ''
+source: 'K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage: Martinus Nijhoff, voor het
+  Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië, 1889, hlm. 176'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+language_uncertain: false
+modern_spelling: papeun
+extraction_notes: Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each
+  headword); not AI-generated. `modern_spelling` “papeun” is an AI-supplied transposition of the 1889
+  orthography (oe->u, dj->j, tj->c, nj->ny, ë->eu); it is NOT from the source and needs checking before
+  it is used to match the 1985 dictionary. Indonesian and English were produced by machine translation
+  of van Langen's Dutch (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl`
+  for verification; the rendering is not from the source and needs a human check. Part of speech not stated
+  in the source; left blank.

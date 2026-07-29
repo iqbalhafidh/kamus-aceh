@@ -1,8 +1,9 @@
 headword: nyampang
-jawi: ''
+jawi: پمفغ
 alt_spelling:
 - jampang
 - yampang
+- njampang
 ipa: ''
 part_of_speech: adv
 definitions:
@@ -10,6 +11,9 @@ definitions:
   meaning_en: easy easy, if
 - meaning_id: menyampang, menolong
   meaning_en: to happen, help
+- meaning_id: pada saat itu, selama, jika
+  meaning_en: at the time, during, if
+  meaning_nl: ten tijde, tijdens, als, indien, in geval
 examples:
 - aceh: nyampang nyampang
   jawi: ''
@@ -19,15 +23,48 @@ examples:
   jawi: ''
   id: Mengapa
   en: why
+- aceh: bee tapoh poh kamoi meudagang nyampang alang tajueer hue guda
+  aceh_1889: bée tapoh-poh kamoi mëdagang njampang alang tajoëer hoeë goeda
+  jawi: ''
+  id: (Atj)
+  en: (Atj)
+  nl: (Atj
+- aceh: spreekw gijlieden mut ons
+  aceh_1889: spreekw.) gijlieden moet ons
+  jawi: ''
+  id: orang asing, jangan memukul
+  en: strangers, don't hit
+  nl: vreemdelingen, niet slaan
+- aceh: als ge in zorg verkeert
+  aceh_1889: als ge in zorg verkeert
+  jawi: ''
+  id: bisakah kau membuat kami menarik seperti kuda?
+  en: can you make us pull like horses?
+  nl: kunt ge ons als paarden doen trekken
+- aceh: tapeugeuj jambur di sinoi saboh nyampang tajak jak jid ta singgh taduk
+  aceh_1889: tapëgëdj djamboer di sinoi saboh njampang tadjak-djak djid ta singgåh tadoek
+  jawi: ''
+  id: anda harus membuat pondok di sini, jika Anda kemudian pergi di jalan, Anda dapat tempat di sana,
+    untuk duduk
+  en: you must make a hut here, if you then go on your way, you can place there, to sit down
+  nl: gij moet hier een hutje vervaardigen, als ge dan op weg gaat, kunt ge daar aanleggen, om te zitten
 etymology: ''
 related_words: []
 dialect_notes: 'Marked (dl hik) in the source: attested in hikayat, the classical Acehnese narrative verse
   register.'
 source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
-  Pendidikan dan Kebudayaan, 1985, hlm. 643'
+  Pendidikan dan Kebudayaan, 1985, hlm. 643; K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage:
+  Martinus Nijhoff, voor het Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië,
+  1889, hlm. 287'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
 extraction_notes: 'Homonym 1 in the source (printed as a superscript numeral before the headword). Jawi
   left blank: the source is Latin-script only and no Jawi form is printed for this entry. | Homonym 2
   in the source (printed as a superscript numeral before the headword). Jawi left blank: the source is
-  Latin-script only and no Jawi form is printed for this entry.'
+  Latin-script only and no Jawi form is printed for this entry. | Jawi copied verbatim from the printed
+  source (van Langen prints the Jawi form for each headword); not AI-generated. `modern_spelling` “nyampang”
+  is an AI-supplied transposition of the 1889 orthography (oe->u, dj->j, tj->c, nj->ny, ë->eu); it is
+  NOT from the source and needs checking before it is used to match the 1985 dictionary. Indonesian and
+  English were produced by machine translation of van Langen''s Dutch (Dutch→English→Indonesian, OPUS-MT).
+  The Dutch original is kept in `meaning_nl`/`nl` for verification; the rendering is not from the source
+  and needs a human check. Part of speech not stated in the source; left blank.'

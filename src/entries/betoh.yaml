@@ -1,0 +1,44 @@
+headword: bētoh
+jawi: بتوه
+alt_spelling: []
+ipa: ''
+part_of_speech: ''
+definitions:
+- meaning_id: (gadis-gadis)
+  meaning_en: mature (of girls)
+  meaning_nl: volwassen (van meisjes),
+examples:
+- aceh: anek dara nyan betoh tehat mantong adat jiberi lun mekawin
+  aceh_1889: anēk dara njan bētoh tēhat mantong adat djibēri loen mēkawin
+  jawi: ''
+  id: bahwa perawan memang matang
+  en: that virgin is indeed mature
+  nl: die maagd is inderdaad volwassen
+- aceh: indien men haar geeft
+  aceh_1889: indien men haar geeft
+  jawi: ''
+  id: aku akan menikahinya
+  en: i'll marry her
+  nl: huw ik haar. II
+- aceh: betoh zegt men van suikerriet
+  aceh_1889: bētoh zegt men van suikerriet
+  jawi: ''
+  id: yang telah tumbuh pada perkebunan pertama
+  en: which has grown at the first plantings
+  nl: dat bij den eersten aanplant is opgewassen
+etymology: ''
+related_words: []
+dialect_notes: ''
+source: 'K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage: Martinus Nijhoff, voor het
+  Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië, 1889, hlm. 30'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+language_uncertain: false
+modern_spelling: betoh
+extraction_notes: Homonym I in the source (printed as a numeral before the headword). Jawi copied verbatim
+  from the printed source (van Langen prints the Jawi form for each headword); not AI-generated. `modern_spelling`
+  “betoh” is an AI-supplied transposition of the 1889 orthography (oe->u, dj->j, tj->c, nj->ny, ë->eu);
+  it is NOT from the source and needs checking before it is used to match the 1985 dictionary. Indonesian
+  and English were produced by machine translation of van Langen's Dutch (Dutch→English→Indonesian, OPUS-MT).
+  The Dutch original is kept in `meaning_nl`/`nl` for verification; the rendering is not from the source
+  and needs a human check. Part of speech not stated in the source; left blank.

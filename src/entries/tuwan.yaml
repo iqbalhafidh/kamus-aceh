@@ -1,18 +1,44 @@
-headword: tuwan
-jawi: ''
-alt_spelling:
-- tuan
+headword: toewan
+jawi: توان
+alt_spelling: []
 ipa: ''
 part_of_speech: ''
 definitions:
-- meaning_id: mertua
-  meaning_en: parents-in-law
+- meaning_id: pak, Tuan
+  meaning_en: sir, Master
+  meaning_nl: heer, meester, mijnheer
+- meaning_id: seseorang in- hukum juga disebut toewan
+  meaning_en: someone's in-laws are also called toewan
+  meaning_nl: de schoonouders van iemand worden eveneens met toewan betiteld
+- meaning_id: dalam hubungannya dengan oeloen, ketika oeloen toewan, i, dalam bahasa berbicara dan bahasa
+    menulis yang tepat, muncul
+  meaning_en: in conjunction with oeloen, when oeloen toewan, I, in the proper speaking and writing language,
+    appear
+  meaning_nl: komt in verbinding met oeloen, als oeloen toewan, ik, in de deftige spreek- en schrijftaal,
+    voor. تونتوö toentoet, eischen, vorderen, opvorderen
+- meaning_id: toewan BILA, Tuntutan balas dendam
+  meaning_en: toewan bila, revenge demands
+  meaning_nl: toewan bila, weerwraak eischen
+- meaning_id: toewan mënale, menuntut balas dendam atas aib yang diderita
+  meaning_en: toewan mënale, claim revenge for disgrace suffered
+  meaning_nl: toewan mënale, weerwraak voor aangedane schande vorderen
+- meaning_id: toewan pësaka, mengklaim sebuah warisan
+  meaning_en: toewan pësaka, claim an inheritance
+  meaning_nl: toewan pësaka, een erfenis opvorderen
 examples: []
 etymology: ''
 related_words: []
 dialect_notes: ''
-source: 'Daud, Bukhari & Mark Durie. Kamus Basa Acèh = Kamus Bahasa Aceh: Acehnese–Indonesian–English Thesaurus.
-  Pacific Linguistics C-151, 1999, p. 5; p. 13; vii (PDF p. 5).'
-date_added: '2026-07-20'
+source: 'K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage: Martinus Nijhoff, voor het
+  Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië, 1889, hlm. 72'
+date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: Spelling/dialect variant(s) explicitly discussed in the Introduction.
+language_uncertain: false
+modern_spelling: tuwan
+extraction_notes: Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each
+  headword); not AI-generated. `modern_spelling` “tuwan” is an AI-supplied transposition of the 1889 orthography
+  (oe->u, dj->j, tj->c, nj->ny, ë->eu); it is NOT from the source and needs checking before it is used
+  to match the 1985 dictionary. Indonesian and English were produced by machine translation of van Langen's
+  Dutch (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl` for verification;
+  the rendering is not from the source and needs a human check. Part of speech not stated in the source;
+  left blank.

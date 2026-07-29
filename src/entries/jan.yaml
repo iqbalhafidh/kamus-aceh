@@ -1,11 +1,18 @@
 headword: jan
-jawi: ''
-alt_spelling: []
+jawi: جَن
+alt_spelling:
+- djan
 ipa: ''
 part_of_speech: n
 definitions:
 - meaning_id: keselamatan, waktu, jikalau
   meaning_en: safety, time, if
+- meaning_id: muncul sebagai bentuk singkat dari padjan, ketika
+  meaning_en: appears as abridged form of padjan, when
+  meaning_nl: komt als verkorte vorm voor van padjan, wanneer
+- meaning_id: djan setelah, ketika itu, jika itu djandjan, sekarang lagi, sekali lagi
+  meaning_en: djan after, when it is, if it is. djandjan, now again, then again
+  meaning_nl: djan na, wanneer het zoo is, als het zoo is. جَن² djandjan, nu weer, dan weer
 examples:
 - aceh: hana jan lôn jak!
   jawi: ''
@@ -17,7 +24,7 @@ examples:
   en: I have no time to call on you, I have much other work
 - aceh: h'an jan
   jawi: ''
-  id: tidak mempunyai waktu utk ..., begitu ... sudaa
+  id: tidak mempunyai waktu utk..., begitu... sudaa
   en: to have no time for, no sooner than
 - aceh: h'an jan lôn êh, ka teungeut
   jawi: ''
@@ -40,12 +47,29 @@ examples:
   jawi: ''
   id: Jika
   en: if
+- aceh: janjan sakit
+  aceh_1889: djandjan sakit
+  jawi: ''
+  id: djandjan manhole, djandjan nikmat, djandjan soeka, sekarang sakit, kemudian sehat lagi (bagus),
+    sekarang sedih lagi, kemudian rapi lagi
+  en: djandjan manhole, djandjan nikmat, djandjan soeka, now sick, then healthy again (nice), now sad
+    again, then tidy again
+  nl: djandjan mangat, djandjan nikmat, djandjan soeka, nu weer ziek, dan weer gezond (lekker), nu weer
+    droevig, dan weer opgeruimd
 etymology: ''
 related_words: []
 dialect_notes: ''
 source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
-  Pendidikan dan Kebudayaan, 1985, hlm. 327'
+  Pendidikan dan Kebudayaan, 1985, hlm. 327; K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage:
+  Martinus Nijhoff, voor het Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië,
+  1889, hlm. 84'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
 extraction_notes: 'Jawi left blank: the source is Latin-script only and no Jawi form is printed for this
-  entry.'
+  entry. | Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each headword);
+  not AI-generated. `modern_spelling` “jan” is an AI-supplied transposition of the 1889 orthography (oe->u,
+  dj->j, tj->c, nj->ny, ë->eu); it is NOT from the source and needs checking before it is used to match
+  the 1985 dictionary. Indonesian and English were produced by machine translation of van Langen''s Dutch
+  (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl` for verification;
+  the rendering is not from the source and needs a human check. Part of speech not stated in the source;
+  left blank.'

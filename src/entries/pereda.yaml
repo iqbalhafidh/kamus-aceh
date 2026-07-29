@@ -1,0 +1,47 @@
+headword: pêrêda
+jawi: قردا
+alt_spelling: []
+ipa: ''
+part_of_speech: ''
+definitions:
+- meaning_id: kelopak tembaga halus
+  meaning_en: fine copper petals
+  meaning_nl: fijne blaadjes van koper
+- meaning_id: pereda mirah, red koperblaadjes
+  meaning_en: pereda mirah, red koperblaadjes
+  meaning_nl: pêrêda mirah, roode koperblaadjes
+- meaning_id: pereda hidjau, koperblaadjes hijau
+  meaning_en: pereda hidjau, green koperblaadjes
+  meaning_nl: pêrêda hidjau, groene koperblaadjes
+- meaning_id: pereda koening, kuning koperblaadjes
+  meaning_en: pereda koening, yellow koperblaadjes
+  meaning_nl: pêrêda koening, gele koperblaadjes
+- meaning_id: ijer pereda, warnish emas
+  meaning_en: ijer pereda, gold varnish
+  meaning_nl: ijêr pêrêda, goudvernis
+- meaning_id: dibuat bunga koperblaadjes, yang ditempatkan di tutup piring di pesta
+  meaning_en: made flowers of koperblaadjes, which are placed on the lids of the dishes at feasts
+  meaning_nl: gemaakte bloemen van koperblaadjes, die men bij feesten op de deksels der schotels plaatst
+examples: []
+etymology: ''
+related_words: []
+dialect_notes: ''
+source: 'K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage: Martinus Nijhoff, voor het
+  Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië, 1889, hlm. 181'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+language_uncertain: false
+modern_spelling: pereda
+extraction_notes: 'Homonym I in the source (printed as a numeral before the headword). Jawi copied verbatim
+  from the printed source (van Langen prints the Jawi form for each headword); not AI-generated. `modern_spelling`
+  “pereda” is an AI-supplied transposition of the 1889 orthography (oe->u, dj->j, tj->c, nj->ny, ë->eu);
+  it is NOT from the source and needs checking before it is used to match the 1985 dictionary. Indonesian
+  and English were produced by machine translation of van Langen''s Dutch (Dutch→English→Indonesian, OPUS-MT).
+  The Dutch original is kept in `meaning_nl`/`nl` for verification; the rendering is not from the source
+  and needs a human check. Part of speech not stated in the source; left blank. | Homonym II in the source
+  (printed as a numeral before the headword). Jawi left blank: no Jawi form is printed for this entry.
+  `modern_spelling` “pereda” is an AI-supplied transposition of the 1889 orthography (oe->u, dj->j, tj->c,
+  nj->ny, ë->eu); it is NOT from the source and needs checking before it is used to match the 1985 dictionary.
+  Indonesian and English were produced by machine translation of van Langen''s Dutch (Dutch→English→Indonesian,
+  OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl` for verification; the rendering is not from
+  the source and needs a human check. Part of speech not stated in the source; left blank.'

@@ -1,11 +1,65 @@
 headword: pisang
-jawi: ''
+jawi: ڤيسغ
 alt_spelling: []
 ipa: ''
 part_of_speech: n
 definitions:
 - meaning_id: pisang
   meaning_en: banana
+- meaning_id: 'buah pisang spesies pisang adalah: pisang mas'
+  meaning_en: 'banana fruit. Species of pisang are: pisang mas'
+  meaning_nl: 'banaanvrucht. Soorten van pisang zijn: pisang mas'
+- meaning_id: pisang taloen atau pisang radja
+  meaning_en: pisang taloen or pisang radja
+  meaning_nl: pisang taloen of pisang radja
+- meaning_id: pisang albin
+  meaning_en: pisang albin
+  meaning_nl: pisang albin
+- meaning_id: pisang boengong
+  meaning_en: pisang boengong
+  meaning_nl: pisang boengong
+- meaning_id: pisang bèrat atau pisang ambon atau boeë
+  meaning_en: pisang bèrat or pisang ambon or boeë
+  meaning_nl: pisang bèrat of pisang ambon of boeë
+- meaning_id: pisang klèng atau pisang tandoek
+  meaning_en: pisang klèng or pisang tandoek
+  meaning_nl: pisang klèng of pisang tandoek
+- meaning_id: pisang simatoe atau pisang batoe
+  meaning_en: pisang simatoe or pisang batoe
+  meaning_nl: pisang simatoe of pisang batoe
+- meaning_id: pisang soewasa
+  meaning_en: pisang soewasa
+  meaning_nl: pisang soewasa
+- meaning_id: pisang oedèng
+  meaning_en: pisang oedèng
+  meaning_nl: pisang oedèng
+- meaning_id: pisang abée atau pisang bèng
+  meaning_en: pisang abée or pisang bèng
+  meaning_nl: pisang abée of pisang bèng
+- meaning_id: pisang katake
+  meaning_en: pisang kapok
+  meaning_nl: pisang kapok
+- meaning_id: pisang djaroem
+  meaning_en: pisang djaroem
+  meaning_nl: pisang djaroem
+- meaning_id: pisang sididi atau pisang lidi
+  meaning_en: pisang sididi or pisang lidi
+  meaning_nl: pisang sididi of pisang lidi
+- meaning_id: pisang capal, sebuah miniatur pipang tanaman dengan buah-buahan besar
+  meaning_en: pisang capal, a miniature pisang plant with large fruits
+  meaning_nl: pisang kapal, een miniatuurpisangplant met groote vruchten
+- meaning_id: pisang roesa
+  meaning_en: pisang roesa
+  meaning_nl: pisang roesa
+- meaning_id: pisang sè-lajoe
+  meaning_en: pisang sè-lajoe
+  meaning_nl: pisang sè-lajoe
+- meaning_id: pisang noe, sekelompok pisang
+  meaning_en: pisang noe, a bunch of pisang
+  meaning_nl: pisang noe, een tros pisang
+- meaning_id: si sisir pisang, sepotong dari sekelompok pisang
+  meaning_en: si sisir pisang, a piece of a bunch of pisang
+  meaning_nl: si sisir pisang, een stuk van een tros pisang
 examples:
 - aceh: abēe, pisang kepok, pisang abēe h'am, pisang abēe b'om, pisang abēe Klēng, lebih besar dr pisang
     abēe biasa, pisang abin
@@ -33,8 +87,14 @@ etymology: ''
 related_words: []
 dialect_notes: ''
 source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
-  Pendidikan dan Kebudayaan, 1985, hlm. 726'
+  Pendidikan dan Kebudayaan, 1985, hlm. 726; K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage:
+  Martinus Nijhoff, voor het Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië,
+  1889, hlm. 194'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
 extraction_notes: 'Jawi left blank: the source is Latin-script only and no Jawi form is printed for this
-  entry.'
+  entry. | Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each headword);
+  not AI-generated. Indonesian and English were produced by machine translation of van Langen''s Dutch
+  (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl` for verification;
+  the rendering is not from the source and needs a human check. Part of speech not stated in the source;
+  left blank.'

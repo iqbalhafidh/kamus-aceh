@@ -1,0 +1,45 @@
+headword: ke
+jawi: ك
+alt_spelling:
+- ké
+ipa: ''
+part_of_speech: n
+definitions:
+- meaning_id: untuk
+  meaning_en: to
+  meaning_nl: aan, voor, om, jegens, tot
+- meaning_id: sejenis blapper
+  meaning_en: a kind of blapper
+  meaning_nl: een soort van klapper
+- meaning_id: ketika menghitung salah satu item dihitung secara terpisah untuk menunjukkan puluhan, ratusan,
+    dll
+  meaning_en: when counting one of the items counted separately to indicate tens, hundreds, etc
+  meaning_nl: bij het tellen één der getelde voorwerpen afzonderlijk leggen om tientallen, honderdtallen
+    enz. aan te geven
+examples: []
+etymology: ''
+related_words: []
+dialect_notes: ''
+source: 'K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage: Martinus Nijhoff, voor het
+  Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië, 1889, hlm. 198, 218'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+language_uncertain: false
+modern_spelling: ke
+extraction_notes: 'Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each
+  headword); not AI-generated. Indonesian and English were produced by machine translation of van Langen''s
+  Dutch (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl` for verification;
+  the rendering is not from the source and needs a human check. Part of speech not stated in the source;
+  left blank. | Homonym I in the source (printed as a numeral before the headword). Jawi copied verbatim
+  from the printed source (van Langen prints the Jawi form for each headword); not AI-generated. `modern_spelling`
+  “ke” is an AI-supplied transposition of the 1889 orthography (oe->u, dj->j, tj->c, nj->ny, ë->eu); it
+  is NOT from the source and needs checking before it is used to match the 1985 dictionary. Indonesian
+  and English were produced by machine translation of van Langen''s Dutch (Dutch→English→Indonesian, OPUS-MT).
+  The Dutch original is kept in `meaning_nl`/`nl` for verification; the rendering is not from the source
+  and needs a human check. | Homonym II in the source (printed as a numeral before the headword). Jawi
+  left blank: no Jawi form is printed for this entry. `modern_spelling` “ke” is an AI-supplied transposition
+  of the 1889 orthography (oe->u, dj->j, tj->c, nj->ny, ë->eu); it is NOT from the source and needs checking
+  before it is used to match the 1985 dictionary. Indonesian and English were produced by machine translation
+  of van Langen''s Dutch (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl`
+  for verification; the rendering is not from the source and needs a human check. Part of speech not stated
+  in the source; left blank.'

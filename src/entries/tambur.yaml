@@ -1,0 +1,32 @@
+headword: tamboer
+jawi: تَمِيْوْ
+alt_spelling: []
+ipa: ''
+part_of_speech: ''
+definitions:
+- meaning_id: drum, tamboer
+  meaning_en: drum, tamboer
+  meaning_nl: trommel, tamboer
+- meaning_id: tamboer mèsdjid, bèdoek di mèsdjid
+  meaning_en: tamboer mèsdjid, the bèdoek in the mèsdjid
+  meaning_nl: tamboer mèsdjid, de bèdoek in de mèsdjid
+- meaning_id: tamboer mènèèn, drum biasa
+  meaning_en: tamboer mènèèn, the regular drum
+  meaning_nl: tamboer mènèèn, de gewone trom
+examples: []
+etymology: ''
+related_words: []
+dialect_notes: ''
+source: 'K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage: Martinus Nijhoff, voor het
+  Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië, 1889, hlm. 64'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+language_uncertain: false
+modern_spelling: tambur
+extraction_notes: Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each
+  headword); not AI-generated. `modern_spelling` “tambur” is an AI-supplied transposition of the 1889
+  orthography (oe->u, dj->j, tj->c, nj->ny, ë->eu); it is NOT from the source and needs checking before
+  it is used to match the 1985 dictionary. Indonesian and English were produced by machine translation
+  of van Langen's Dutch (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl`
+  for verification; the rendering is not from the source and needs a human check. Part of speech not stated
+  in the source; left blank.

@@ -1,29 +1,29 @@
-headword: gula
-jawi: ڬولا
+headword: goela
+jawi: كولا
 alt_spelling: []
 ipa: ''
-part_of_speech: n
+part_of_speech: ''
 definitions:
-- meaning_id: 'gula-gula: —'
-  meaning_en: ''
-  examples:
-  - aceh: jòk
-    jawi: ''
-    id: gula enau
-    en: ''
-  - aceh: tak
-    jawi: ''
-    id: gula-gula manisan tebu yg dikeraskan
-    en: ''
-  - aceh: tarèk
-    jawi: ''
-    id: gula-gula manisan teby yg utk memotongnya harus ditarik-tarik (=tarèk)
-    en: candy, to cut it must be pulled
+- meaning_id: gula confeery, goela tarik, cookie
+  meaning_en: sugar confectionery, goela tarik, cookie
+  meaning_nl: suikerwerk, goela tarik, kokinje
+- meaning_id: goela djoek, gula palem
+  meaning_en: goela djoek, palm sugar
+  meaning_nl: goela djoek, palmsuiker
+examples: []
 etymology: ''
-related_words:
-- saka
+related_words: []
 dialect_notes: ''
-source: Kamus Aceh-Indonesia (Acehnese-Indonesian Dictionary), p. 260
+source: 'K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage: Martinus Nijhoff, voor het
+  Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië, 1889, hlm. 230'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate reviewer. Some fields (English translations, Jawi) may be incomplete due to API rate limits during processing. Re-run the translation script to fill in missing fields.
+language_uncertain: false
+modern_spelling: gula
+extraction_notes: Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each
+  headword); not AI-generated. `modern_spelling` “gula” is an AI-supplied transposition of the 1889 orthography
+  (oe->u, dj->j, tj->c, nj->ny, ë->eu); it is NOT from the source and needs checking before it is used
+  to match the 1985 dictionary. Indonesian and English were produced by machine translation of van Langen's
+  Dutch (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl` for verification;
+  the rendering is not from the source and needs a human check. Part of speech not stated in the source;
+  left blank.

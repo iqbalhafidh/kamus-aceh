@@ -1,0 +1,35 @@
+headword: dêmab
+jawi: دمب
+alt_spelling: []
+ipa: ''
+part_of_speech: ''
+definitions:
+- meaning_id: dengan payudara dan perut yang berbaring di tanah, memandang musuhnya dan merampoknya. flat
+    tangan membawa ke posisi yang ke payudara, untuk dapat meningkat segera
+  meaning_en: with breasts and belly, lying on the ground, looking at his enemy and robbing him. The flat
+    of the hands brings to that position to the breasts, to be able to rise soon
+  meaning_nl: met borst en buik lang uit op den grond liggen, om op zijn vijand te loeren en hem te overvallen.
+    Het plat der handen brengt men bij die positie aan de borsten, om spoedig te kunnen opstaan
+examples:
+- aceh: demab lagee paroi kenong kawi
+  aceh_1889: dêmab lagée paroi kênong kawi
+  jawi: ''
+  id: berbaring lama di tanah seperti ikan paroi, terkena kail
+  en: lying long on the ground like a paroi fish, hit by a hook
+  nl: lang uit op den grond liggen als een paroi-visch, door een haak getroffen
+etymology: ''
+related_words: []
+dialect_notes: ''
+source: 'K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage: Martinus Nijhoff, voor het
+  Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië, 1889, hlm. 111'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+language_uncertain: false
+modern_spelling: demab
+extraction_notes: Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each
+  headword); not AI-generated. `modern_spelling` “demab” is an AI-supplied transposition of the 1889 orthography
+  (oe->u, dj->j, tj->c, nj->ny, ë->eu); it is NOT from the source and needs checking before it is used
+  to match the 1985 dictionary. Indonesian and English were produced by machine translation of van Langen's
+  Dutch (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl` for verification;
+  the rendering is not from the source and needs a human check. Part of speech not stated in the source;
+  left blank.

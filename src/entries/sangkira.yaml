@@ -1,22 +1,30 @@
 headword: sangkira
-jawi: ''
+jawi: سُغُو
 alt_spelling: []
 ipa: ''
-part_of_speech: p
+part_of_speech: ''
 definitions:
-- meaning_id: sekitarnya, jika, kalau, andaikata
-  meaning_en: around, if, supposing
+- meaning_id: jika, seperti, kapan
+  meaning_en: if, as, when
+  meaning_nl: indien, als, wanneer
 examples:
-- aceh: adak sangkira leubèh si uroe dua bèk jeuet keu beungèh gata
+- aceh: di lun singh sangkira hana pue kesukaran cit terus lun teka bak droine
+  aceh_1889: di loen singāh sangkira hana poeē kēsoekaran tjit tēroes loen tēka bak droinē
   jawi: ''
-  id: Sekiranya berlebih satu dua hari janganlah Anda menjadi marah
-  en: ''
+  id: jika aku tidak punya masalah besok, aku akan datang padamu
+  en: if I have no trouble tomorrow, I will come to you
+  nl: indien ik morgen geene moeilijkheden heb, kom ik naar U toe
 etymology: ''
 related_words: []
 dialect_notes: ''
-source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
-  Pendidikan dan Kebudayaan, 1985, hlm. 844'
+source: 'K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage: Martinus Nijhoff, voor het
+  Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië, 1889, hlm. 147'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: 'Jawi left blank: the source is Latin-script only and no Jawi form is printed for this
-  entry.'
+language_uncertain: false
+modern_spelling: sangkira
+extraction_notes: Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each
+  headword); not AI-generated. Indonesian and English were produced by machine translation of van Langen's
+  Dutch (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl` for verification;
+  the rendering is not from the source and needs a human check. Part of speech not stated in the source;
+  left blank.

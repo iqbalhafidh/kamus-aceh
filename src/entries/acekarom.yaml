@@ -1,14 +1,25 @@
-headword: "acèkarom"
-jawi: ""
-alt_spelling: ["acèhkarom", "kacèkarom", "cèkarom"]
-ipa: ""
-part_of_speech: "n"
+headword: atjékarom
+jawi: اچیکرم
+alt_spelling: []
+ipa: ''
+part_of_speech: n
 definitions:
-  - meaning_id: "sj kain berwarna biru tua yang dipergunakan utk selimut dsb"
-    meaning_en: "a type of dark blue cloth used for blankets, etc."
+- meaning_id: sejenis spreiengoed biru gelap
+  meaning_en: a kind of dark blue spreiengoed
+  meaning_nl: een soort van donkerblauw spreiengoed
+examples: []
+etymology: ''
 related_words: []
-dialect_notes: ""
-source: "Aboe Bakar et al., Kamus Aceh-Indonesia Seri 1 A–L, 1985, p.4"
-date_added: "2025-06-18"
-contributor: "AI-extracted — needs human review"
-extraction_notes: "Multiple variant spellings listed. Jawi transliteration is AI-generated, not from source — needs verification."
+dialect_notes: ''
+source: 'K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage: Martinus Nijhoff, voor het
+  Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië, 1889, hlm. 3'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+language_uncertain: false
+modern_spelling: acekarom
+extraction_notes: Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each
+  headword); not AI-generated. `modern_spelling` “acekarom” is an AI-supplied transposition of the 1889
+  orthography (oe->u, dj->j, tj->c, nj->ny, ë->eu); it is NOT from the source and needs checking before
+  it is used to match the 1985 dictionary. Indonesian and English were produced by machine translation
+  of van Langen's Dutch (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl`
+  for verification; the rendering is not from the source and needs a human check.

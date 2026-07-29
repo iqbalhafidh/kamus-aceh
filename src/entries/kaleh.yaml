@@ -1,11 +1,14 @@
 headword: kalèh
-jawi: ''
+jawi: كاليه
 alt_spelling: []
 ipa: ''
 part_of_speech: v
 definitions:
 - meaning_id: menjawab, menangkis, membelas, beralih arah (untuk angin)
   meaning_en: to answer, to parry, to requite, to shift direction, of the wind
+- meaning_id: balas dendam, balas dendam, berbalik dari angin ke sisi yang berlawanan
+  meaning_en: revenge, revenge, turn from the wind to the opposite side
+  meaning_nl: wedervergelden, weêrwraak nemen, omslaan van den wind naar den tegenovergestelden kant
 examples:
 - aceh: ka jipoh gata, ta kalèh poh ji sigo
   jawi: ''
@@ -41,14 +44,28 @@ examples:
   jawi: ''
   id: dijawab, dibalas, dipindahkan, digantikan
   en: answered, requited, moved, replaced
+- aceh: ka ji poh gata takaleh poh jeh sigo
+  aceh_1889: ka dji-poh gata takalèh poh djèh sigo
+  jawi: ''
+  id: dia mengalahkanmu, sekarang kau harus membayarnya dengan memukulnya sekali
+  en: he beat you, now you have to repay it by hitting him once
+  nl: hij heeft u geslagen, nu moet ge het vergelden door hem eenmaal te slaan
 etymology: ''
 related_words:
 - aleh
 - taleh
 dialect_notes: ''
 source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
-  Pendidikan dan Kebudayaan, 1985, hlm. 367'
+  Pendidikan dan Kebudayaan, 1985, hlm. 367; K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage:
+  Martinus Nijhoff, voor het Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië,
+  1889, hlm. 201'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
 extraction_notes: 'Jawi left blank: the source is Latin-script only and no Jawi form is printed for this
-  entry.'
+  entry. | Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each headword);
+  not AI-generated. `modern_spelling` “kaleh” is an AI-supplied transposition of the 1889 orthography
+  (oe->u, dj->j, tj->c, nj->ny, ë->eu); it is NOT from the source and needs checking before it is used
+  to match the 1985 dictionary. Indonesian and English were produced by machine translation of van Langen''s
+  Dutch (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl` for verification;
+  the rendering is not from the source and needs a human check. Part of speech not stated in the source;
+  left blank.'

@@ -1,24 +1,43 @@
 headword: wat
-jawi: ''
+jawi: وات
 alt_spelling: []
 ipa: ''
-part_of_speech: n
+part_of_speech: ''
 definitions:
-- meaning_id: kekuatan, daya, tenaga, kuat
-  meaning_en: strong, southwest, strength
+- meaning_id: oedēng wat, spesies udang
+  meaning_en: oedēng wat, a species of shrimp
+  meaning_nl: oedēng wat, een soort van groote garnaal
+- meaning_id: kuat
+  meaning_en: strong, powerful
+  meaning_nl: sterk, krachtig
 examples:
-- aceh: 'ureueng ta tuha hana wat bak jak, Orang yg sudah tua tidak kuat lagi berjalan: inong nyan ka
-    habeh wat, mum ho jitupat ret'
+- aceh: hukum bak babah
+  aceh_1889: hoekoem bak babah
   jawi: ''
-  id: Perempuan itu sudah berpengalaman dan mengenal semua liku-liku jalan. (dikatakan thd seorang perempuan
-    yg tidak baik kelakuannya)
-  en: ''
+  id: ba apa aoek djaroi, (Atj)
+  en: what bak aoek djaroi, (Atj)
+  nl: wat bak aoek djaroi, (Atj
+- aceh: spreekw oordeelen dut men met den mond
+  aceh_1889: spreekw.) oordeelen doet men met den mond
+  jawi: ''
+  id: tapi kekuatan ada di tangan
+  en: but the power is in the hand
+  nl: doch de kracht zit in de hand
 etymology: ''
 related_words: []
 dialect_notes: ''
-source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
-  Pendidikan dan Kebudayaan, 1985, hlm. 1064'
+source: 'K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage: Martinus Nijhoff, voor het
+  Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië, 1889, hlm. 275'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: 'Jawi left blank: the source is Latin-script only and no Jawi form is printed for this
-  entry.'
+language_uncertain: false
+modern_spelling: wat
+extraction_notes: 'Homonym I in the source (printed as a numeral before the headword). Jawi copied verbatim
+  from the printed source (van Langen prints the Jawi form for each headword); not AI-generated. Indonesian
+  and English were produced by machine translation of van Langen''s Dutch (Dutch→English→Indonesian, OPUS-MT).
+  The Dutch original is kept in `meaning_nl`/`nl` for verification; the rendering is not from the source
+  and needs a human check. Part of speech not stated in the source; left blank. | Homonym II in the source
+  (printed as a numeral before the headword). Jawi left blank: no Jawi form is printed for this entry.
+  Indonesian and English were produced by machine translation of van Langen''s Dutch (Dutch→English→Indonesian,
+  OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl` for verification; the rendering is not from
+  the source and needs a human check. Part of speech not stated in the source; left blank.'

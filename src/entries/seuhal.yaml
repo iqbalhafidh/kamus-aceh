@@ -1,0 +1,38 @@
+headword: sëhal
+jawi: سهيك
+alt_spelling: []
+ipa: ''
+part_of_speech: ''
+definitions:
+- meaning_id: mencolok, tidak pengertian, kelalaian
+  meaning_en: inconspicuous, inconsiderate, negligence
+  meaning_nl: onopmerkzaamheid, onattent, nalatigheid, verzuim, achteloosheid,
+examples:
+- aceh: peutoi gata hana tagunci teukeudir gadoh barang gapue kon seuhal di ateus gata
+  aceh_1889: pëtoi gata hana tagoentji tëkëdir gadoh barang gapoeë kon sëhal di atës gata
+  jawi: ''
+  id: anda peti mati Anda belum ditutup
+  en: your coffin you have not closed
+  nl: uw kist hebt ge niet gesloten
+- aceh: als bij tuval iets verdwijnt
+  aceh_1889: als bij toeval iets verdwijnt
+  jawi: ''
+  id: bukankah itu karena kelalaian Anda?
+  en: isn't it because of your negligence?
+  nl: is het dan niet door uwe nalatigheid? Synoniem met taksir
+etymology: ''
+related_words: []
+dialect_notes: ''
+source: 'K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage: Martinus Nijhoff, voor het
+  Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië, 1889, hlm. 160'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+language_uncertain: false
+modern_spelling: seuhal
+extraction_notes: Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each
+  headword); not AI-generated. `modern_spelling` “seuhal” is an AI-supplied transposition of the 1889
+  orthography (oe->u, dj->j, tj->c, nj->ny, ë->eu); it is NOT from the source and needs checking before
+  it is used to match the 1985 dictionary. Indonesian and English were produced by machine translation
+  of van Langen's Dutch (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl`
+  for verification; the rendering is not from the source and needs a human check. Part of speech not stated
+  in the source; left blank.

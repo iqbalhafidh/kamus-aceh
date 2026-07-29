@@ -1,0 +1,34 @@
+headword: chēlēmbak
+jawi: خليق
+alt_spelling: []
+ipa: ''
+part_of_speech: n
+definitions:
+- meaning_id: sejenis Atj odeur terdiri dari halus digosok tjindana dan gahroe-hout dicampur dengan bunga,
+    air mawar dan minyak olfaktur
+  meaning_en: a kind of Atj. odeur composed of finely rubbed tjindana and gahroe-hout mixed with flowers,
+    rosewater and olfactory oil
+  meaning_nl: een soort van Atj. odeur, samengesteld uit fijngewreven tjindana en gahroe-hout vermengd
+    met bloemen, rozenwater en reukolie
+examples:
+- aceh: jiput angen megisar pucak bee khelembak gahru cindana
+  aceh_1889: djipoet angēn mēgisar poetjak bēe chēlēmbak gahroe tjindana
+  jawi: ''
+  id: angin bergerak dalam rotasi menuju atas, aroma chēlēmbak mengeluarkan gahroe
+  en: the wind moved in rotation towards the top, a scent of chēlēmbak gahroe issuing
+  nl: de wind bewoog in draaiende richting den top, een geur van chēlēmbak gahroe afgevende
+etymology: ''
+related_words: []
+dialect_notes: ''
+source: 'K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage: Martinus Nijhoff, voor het
+  Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië, 1889, hlm. 105'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+language_uncertain: false
+modern_spelling: khelembak
+extraction_notes: Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each
+  headword); not AI-generated. `modern_spelling` “khelembak” is an AI-supplied transposition of the 1889
+  orthography (oe->u, dj->j, tj->c, nj->ny, ë->eu); it is NOT from the source and needs checking before
+  it is used to match the 1985 dictionary. Indonesian and English were produced by machine translation
+  of van Langen's Dutch (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl`
+  for verification; the rendering is not from the source and needs a human check.

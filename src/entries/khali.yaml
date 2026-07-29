@@ -1,6 +1,8 @@
 headword: khali
-jawi: ''
-alt_spelling: []
+jawi: خالص
+alt_spelling:
+- chali
+- chališ
 ipa: ''
 part_of_speech: ''
 definitions:
@@ -8,18 +10,39 @@ definitions:
   meaning_en: ''
 - meaning_id: selalu
   meaning_en: always
+- meaning_id: benar, murni
+  meaning_en: true, pure
+  meaning_nl: oprecht, zuiver
+- meaning_id: kontinyu
+  meaning_en: continuous
+  meaning_nl: onophoudelijk, aanhoudend
 examples:
 - aceh: bek na khalikhali
   jawi: ''
   id: agar tidak henti-hentinya terjadi
   en: so that it does not cease
+- aceh: oroi nyan prang hana khali le tehat mate kawan raja kerah
+  aceh_1889: oroi njan prang hana chali lē tēhat maté kawan radja kérah
+  jawi: ''
+  id: pada hari itu banyak dari para pangeran Singapura berkumpul pengikut berjuang tanpa henti dan meninggal
+  en: on that day many of the prince's gathered followers were fought incessantly and died
+  nl: op dien dag werd er onophoudelijk gevochten en stierven zeer velen der door den vorst verzamelde
+    volgelingen [chali bet
 etymology: ''
 related_words:
 - h'a-h'i
 dialect_notes: ''
 source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
-  Pendidikan dan Kebudayaan, 1985, hlm. 422'
+  Pendidikan dan Kebudayaan, 1985, hlm. 422; K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage:
+  Martinus Nijhoff, voor het Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië,
+  1889, hlm. 104'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
 extraction_notes: 'Jawi left blank: the source is Latin-script only and no Jawi form is printed for this
-  entry. Part of speech not stated in the source; left blank.'
+  entry. Part of speech not stated in the source; left blank. | Jawi copied verbatim from the printed
+  source (van Langen prints the Jawi form for each headword); not AI-generated. `modern_spelling` “khali”
+  is an AI-supplied transposition of the 1889 orthography (oe->u, dj->j, tj->c, nj->ny, ë->eu); it is
+  NOT from the source and needs checking before it is used to match the 1985 dictionary. Indonesian and
+  English were produced by machine translation of van Langen''s Dutch (Dutch→English→Indonesian, OPUS-MT).
+  The Dutch original is kept in `meaning_nl`/`nl` for verification; the rendering is not from the source
+  and needs a human check. Part of speech not stated in the source; left blank.'

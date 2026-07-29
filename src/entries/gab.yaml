@@ -1,29 +1,37 @@
 headword: gab
-jawi: ''
+jawi: كب
 alt_spelling: []
 ipa: ''
-part_of_speech: a
+part_of_speech: ''
 definitions:
-- meaning_id: kokoh, tetap
-  meaning_en: ''
+- meaning_id: weII-terbentuk, geëvenredigd
+  meaning_en: well-formed, geëvenredigd
+  meaning_nl: welgevormd, geëvenredigd
+- meaning_id: lajer gab, bramsail
+  meaning_en: lajer gab, bramsail
+  meaning_nl: lajêr gab, bramzeil
 examples:
-- aceh: badan si Pulan nyan - that
+- aceh: badan si pulan nyan gab tehat
+  aceh_1889: badan si Poelan njan gab têhat
   jawi: ''
-  id: Badan si Polan itu tegap sekali
-  en: ''
-- aceh: rumoh nyan - that peuneugetji, hana meuyok-yok sagai, rumoh itu kokoh sekali buatannya tidak sedikit
-    pun bergoyang
-  jawi: ''
-  id: ''
-  en: ''
+  id: tubuh N.N. yang
+  en: the body of that N.N
+  nl: het lichaam van die N. N
 etymology: ''
-related_words:
-- keusan
+related_words: []
 dialect_notes: ''
-source: 'Kamus Aceh-Indonesia (extracted from pp.124-270 of the source edition, Acehnese section entries
-  cèm-unyèn through gutie/H). File: markdown.md supplied by the user. — p.203'
+source: 'K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage: Martinus Nijhoff, voor het
+  Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië, 1889, hlm. 222'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: Indonesian example translations are taken verbatim from the source. English meanings
-  and Jawi transliterations are AI-flagged as unverified and need human review. Jawi transliteration is
-  AI-generated, not from source — needs verification by a Jawi-literate reviewer.
+language_uncertain: false
+modern_spelling: gab
+extraction_notes: 'Homonym I in the source (printed as a numeral before the headword). Jawi copied verbatim
+  from the printed source (van Langen prints the Jawi form for each headword); not AI-generated. Indonesian
+  and English were produced by machine translation of van Langen''s Dutch (Dutch→English→Indonesian, OPUS-MT).
+  The Dutch original is kept in `meaning_nl`/`nl` for verification; the rendering is not from the source
+  and needs a human check. Part of speech not stated in the source; left blank. | Homonym II in the source
+  (printed as a numeral before the headword). Jawi left blank: no Jawi form is printed for this entry.
+  Indonesian and English were produced by machine translation of van Langen''s Dutch (Dutch→English→Indonesian,
+  OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl` for verification; the rendering is not from
+  the source and needs a human check. Part of speech not stated in the source; left blank.'

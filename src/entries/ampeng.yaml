@@ -1,0 +1,37 @@
+headword: ampēng
+jawi: امفغ
+alt_spelling: []
+ipa: ''
+part_of_speech: ''
+definitions:
+- meaning_id: seseorang untuk pergi ke gemoet, menjemput seseorang, membayar upeti atau kehormatan ėmpang,
+    salah satu karung padan dikepang
+  meaning_en: someone to go to gemoet, pick someone up, pay tribute or honor. ėmpang, one of pandan braided
+    sacks
+  meaning_nl: iemand te gemoet gaan, iemand afhalen, iemand hulde of eer bewijzen. امفغ ėmpang, een van
+    pandan gevlochten zak
+- meaning_id: ampēng Padi, tas Padi
+  meaning_en: ampēng padi, padi bag
+  meaning_nl: ampēng padi, padi-zak
+- meaning_id: ampēng brēs, kantong beras ėmpēk, kēladi, sejenis tanaman dengan tepung, akar yang bisa
+    dimakan
+  meaning_en: ampēng brēs, rice bag. ėmpēk, kēladi, a kind of plant with flour, edible root
+  meaning_nl: ampēng brēs, rijstzak. امفق ėmpēk, kēladi, een soort van plant met meelachtigen, eetbaren
+    wortel
+examples: []
+etymology: ''
+related_words: []
+dialect_notes: ''
+source: 'K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage: Martinus Nijhoff, voor het
+  Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië, 1889, hlm. 10'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+language_uncertain: false
+modern_spelling: ampeng
+extraction_notes: Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each
+  headword); not AI-generated. `modern_spelling` “ampeng” is an AI-supplied transposition of the 1889
+  orthography (oe->u, dj->j, tj->c, nj->ny, ë->eu); it is NOT from the source and needs checking before
+  it is used to match the 1985 dictionary. Indonesian and English were produced by machine translation
+  of van Langen's Dutch (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl`
+  for verification; the rendering is not from the source and needs a human check. Part of speech not stated
+  in the source; left blank.

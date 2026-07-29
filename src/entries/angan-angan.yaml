@@ -1,0 +1,33 @@
+headword: angan-angan
+jawi: ٢ اغن
+alt_spelling: []
+ipa: ''
+part_of_speech: ''
+definitions:
+- meaning_id: tujuan, niat
+  meaning_en: purpose, intention
+  meaning_nl: oogmerk, voornemen
+examples:
+- aceh: di lun baroikon
+  aceh_1889: di loen baroikon
+  jawi: ''
+  id: lois angan- angan loen këmëng djak pëdj boh hana tëroesan, dari kemarin itu niat saya untuk memilih
+    djamboe-vruchten
+  en: loen angan-angan loen këmëng djak pëdj boh djambée hana mëëmëng djak tëroesan djinoi, from yesterday
+    it was my intention to pick djamboe-vruchten
+  nl: loen angan-angan loen këmëng djak pëdj boh djambée hana mëëmëng djak tëroesan djinoi, van gisteren
+    af was het mijn oogmerk, djamboe-vruchten te gaan plukken
+etymology: ''
+related_words: []
+dialect_notes: ''
+source: 'K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage: Martinus Nijhoff, voor het
+  Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië, 1889, hlm. 7'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+language_uncertain: false
+modern_spelling: angan-angan
+extraction_notes: Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each
+  headword); not AI-generated. Indonesian and English were produced by machine translation of van Langen's
+  Dutch (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl` for verification;
+  the rendering is not from the source and needs a human check. Part of speech not stated in the source;
+  left blank.

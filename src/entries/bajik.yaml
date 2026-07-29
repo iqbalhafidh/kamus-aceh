@@ -1,18 +1,33 @@
-headword: bajik
-jawi: ''
-alt_spelling: []
+headword: badjik
+jawi: باجیک
+alt_spelling:
+- bajik
 ipa: ''
-part_of_speech: ''
+part_of_speech: n
 definitions:
-- meaning_id: putik
-  meaning_en: immature, not yet ripe
+- meaning_id: adalah nama untuk buah muda dari Nangka, soekoen, koeloe dan tjëmpëdak
+  meaning_en: is the name for the young fruit of nangka, soekoen, koeloe and tjëmpëdak
+  meaning_nl: is de naam voor de jonge vrucht van nangka, soekoen, koeloe en tjëmpëdak
+- meaning_id: sejenis tanaman parasit dengan daun yang luas
+  meaning_en: a kind of parasites plant with broad leaves
+  meaning_nl: een soort van parasieten plant met breede bladeren
 examples: []
 etymology: ''
-related_words:
-- puték
+related_words: []
 dialect_notes: ''
-source: 'Daud, Bukhari & Mark Durie. Kamus Basa Acèh = Kamus Bahasa Aceh: Acehnese–Indonesian–English Thesaurus.
-  Pacific Linguistics C-151, 1999, p. 101.'
-date_added: '2026-07-20'
+source: 'K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage: Martinus Nijhoff, voor het
+  Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië, 1889, hlm. 25, 29'
+date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: ''
+language_uncertain: false
+modern_spelling: bajik
+extraction_notes: Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each
+  headword); not AI-generated. `modern_spelling` “bajik” is an AI-supplied transposition of the 1889 orthography
+  (oe->u, dj->j, tj->c, nj->ny, ë->eu); it is NOT from the source and needs checking before it is used
+  to match the 1985 dictionary. Indonesian and English were produced by machine translation of van Langen's
+  Dutch (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl` for verification;
+  the rendering is not from the source and needs a human check. Part of speech not stated in the source;
+  left blank. | Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each
+  headword); not AI-generated. Indonesian and English were produced by machine translation of van Langen's
+  Dutch (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl` for verification;
+  the rendering is not from the source and needs a human check.

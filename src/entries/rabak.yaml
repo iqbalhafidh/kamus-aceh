@@ -1,5 +1,5 @@
 headword: rabak
-jawi: ''
+jawi: رابق
 alt_spelling: []
 ipa: ''
 part_of_speech: a
@@ -10,6 +10,12 @@ definitions:
   meaning_en: in tatters
 - meaning_id: selembar tikar yang dipotong empat persegi atau bulat dijahit dgn kain untuk tampuk bantal
   meaning_en: ''
+- meaning_id: memotong sebuah ligmat tua ke dalam tikar untuk kepala. oroi raboe, wednesday, juga digunakan
+    sebagai namanya sendiri
+  meaning_en: cut an old ligmat into a mat for the head. raboe, oroi raboe, Wednesday, is also used as
+    its own name
+  meaning_nl: een oude ligmat versnijden tot een matje voor het hoofd. رابو [ربوع] raboe, oroi raboe,
+    Woensdag, wordt ook als eigennaam gebezigd
 examples:
 - aceh: ija-ija lon karabak, Kain saya sudah koyak-koyak, jaroe lon karabak keunong duroe
   jawi: ''
@@ -27,8 +33,14 @@ etymology: ''
 related_words: []
 dialect_notes: ''
 source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
-  Pendidikan dan Kebudayaan, 1985, hlm. 760'
+  Pendidikan dan Kebudayaan, 1985, hlm. 760; K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage:
+  Martinus Nijhoff, voor het Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië,
+  1889, hlm. 117'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
 extraction_notes: 'Jawi left blank: the source is Latin-script only and no Jawi form is printed for this
-  entry.'
+  entry. | Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each headword);
+  not AI-generated. Indonesian and English were produced by machine translation of van Langen''s Dutch
+  (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl` for verification;
+  the rendering is not from the source and needs a human check. Part of speech not stated in the source;
+  left blank.'

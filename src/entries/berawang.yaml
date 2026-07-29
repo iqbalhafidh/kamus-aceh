@@ -1,0 +1,38 @@
+headword: bérawang
+jawi: براواغ
+alt_spelling: []
+ipa: ''
+part_of_speech: n
+definitions:
+- meaning_id: roede untuk merak, di mana salah satu memasuki melalui parit atau masuk dekat
+  meaning_en: a roede for peacocks, in which one enters through a trench or close entry
+  meaning_nl: een reede voor prauwen, waarin men door een geul of nauwe invaart binnenkomt
+- meaning_id: sejenis kolam, yang satu menggali di sungai, di mana satu ranting dll. ditempatkan dan ditutup
+    hilir dengan tumpukan untuk menangkap ikan
+  meaning_en: a kind of pond, which one digs in a river, in which one twigs etc. placed and closed downstream
+    with a stack to catch fish
+  meaning_nl: een soort van vijver, dien men in eene rivier graaft, waarin men takjes enz. plaatst en
+    dien men stroomafwaarts met een staketsel sluit om visch te vangen
+examples: []
+etymology: ''
+related_words: []
+dialect_notes: ''
+source: 'K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage: Martinus Nijhoff, voor het
+  Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië, 1889, hlm. 33'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+language_uncertain: false
+modern_spelling: berawang
+extraction_notes: 'Homonym I in the source (printed as a numeral before the headword). Jawi copied verbatim
+  from the printed source (van Langen prints the Jawi form for each headword); not AI-generated. `modern_spelling`
+  “berawang” is an AI-supplied transposition of the 1889 orthography (oe->u, dj->j, tj->c, nj->ny, ë->eu);
+  it is NOT from the source and needs checking before it is used to match the 1985 dictionary. Indonesian
+  and English were produced by machine translation of van Langen''s Dutch (Dutch→English→Indonesian, OPUS-MT).
+  The Dutch original is kept in `meaning_nl`/`nl` for verification; the rendering is not from the source
+  and needs a human check. Part of speech not stated in the source; left blank. | Homonym II in the source
+  (printed as a numeral before the headword). Jawi left blank: no Jawi form is printed for this entry.
+  `modern_spelling` “berawang” is an AI-supplied transposition of the 1889 orthography (oe->u, dj->j,
+  tj->c, nj->ny, ë->eu); it is NOT from the source and needs checking before it is used to match the 1985
+  dictionary. Indonesian and English were produced by machine translation of van Langen''s Dutch (Dutch→English→Indonesian,
+  OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl` for verification; the rendering is not from
+  the source and needs a human check.'

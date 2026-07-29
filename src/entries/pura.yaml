@@ -1,6 +1,7 @@
 headword: pura
-jawi: ''
-alt_spelling: []
+jawi: قورا
+alt_spelling:
+- poera
 ipa: ''
 part_of_speech: n
 definitions:
@@ -16,6 +17,12 @@ definitions:
   meaning_en: ''
 - meaning_id: papan Singapura pada masa dahulu
   meaning_en: ''
+- meaning_id: hanya terjadi dalam komposisi dengan papën
+  meaning_en: occurs only in composition with papën
+  meaning_nl: komt alleen in samenstelling met papën voor
+- meaning_id: papën poera, rak Singapoerse
+  meaning_en: papën poera, Singapoerse shelves
+  meaning_nl: papën poera, Singapoersche planken
 examples:
 - aceh: tapeugah keu bit-bit
   jawi: ''
@@ -29,11 +36,20 @@ related_words:
 - pôt
 dialect_notes: ''
 source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
-  Pendidikan dan Kebudayaan, 1985, hlm. 754'
+  Pendidikan dan Kebudayaan, 1985, hlm. 754; K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage:
+  Martinus Nijhoff, voor het Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië,
+  1889, hlm. 190'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
 extraction_notes: 'Homonym 1 in the source (printed as a superscript numeral before the headword). Jawi
   left blank: the source is Latin-script only and no Jawi form is printed for this entry. | English gloss
   left blank: no confident translation of the Indonesian definition was available. Homonym 2 in the source
   (printed as a superscript numeral before the headword). Jawi left blank: the source is Latin-script
-  only and no Jawi form is printed for this entry. Part of speech not stated in the source; left blank.'
+  only and no Jawi form is printed for this entry. Part of speech not stated in the source; left blank.
+  | Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each headword);
+  not AI-generated. `modern_spelling` “pura” is an AI-supplied transposition of the 1889 orthography (oe->u,
+  dj->j, tj->c, nj->ny, ë->eu); it is NOT from the source and needs checking before it is used to match
+  the 1985 dictionary. Indonesian and English were produced by machine translation of van Langen''s Dutch
+  (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl` for verification;
+  the rendering is not from the source and needs a human check. Part of speech not stated in the source;
+  left blank.'

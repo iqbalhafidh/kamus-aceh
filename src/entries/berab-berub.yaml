@@ -1,0 +1,35 @@
+headword: bērab-bēroeb
+jawi: بروب
+alt_spelling: []
+ipa: ''
+part_of_speech: ''
+definitions:
+- meaning_id: suara buah jatuh terus-menerus
+  meaning_en: sound of continuously falling fruit
+  meaning_nl: geluid van onafgebroken vallende vruchten
+examples:
+- aceh: boh mamplam angen jor seruj oh berab berub di juh bak
+  aceh_1889: boh mamplam angēn jor sēroedj oh bērab bēroeb di joeh bak
+  jawi: ''
+  id: sungai manggas digoyahkan oleh angin sampai mereka jatuh dan menyebabkan bunyi buah-buahan turun
+    terus-menerus di bawah pohon
+  en: the manggas are shaken by the wind until they fall and cause a continuous sound of falling fruits
+    under the tree
+  nl: de mangga's worden door den wind geschud totdat zij vallen en een onafgebroken geluid van vallende
+    vruchten onder den boom veroorzaken
+etymology: ''
+related_words: []
+dialect_notes: ''
+source: 'K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage: Martinus Nijhoff, voor het
+  Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië, 1889, hlm. 31'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+language_uncertain: false
+modern_spelling: berab berub
+extraction_notes: Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each
+  headword); not AI-generated. `modern_spelling` “berab berub” is an AI-supplied transposition of the
+  1889 orthography (oe->u, dj->j, tj->c, nj->ny, ë->eu); it is NOT from the source and needs checking
+  before it is used to match the 1985 dictionary. Indonesian and English were produced by machine translation
+  of van Langen's Dutch (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl`
+  for verification; the rendering is not from the source and needs a human check. Part of speech not stated
+  in the source; left blank.

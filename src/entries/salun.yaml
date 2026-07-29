@@ -1,0 +1,32 @@
+headword: saloen
+jawi: سالون
+alt_spelling: []
+ipa: ''
+part_of_speech: ''
+definitions:
+- meaning_id: tenang, tanpa gerakan, tanpa suara
+  meaning_en: quiet, without movement, without sound
+  meaning_nl: stil, zonder beweging, zonder geluid
+examples:
+- aceh: ka jisalun jeum ulun han jitim jak le
+  aceh_1889: ka djisaloen djëem oeloen han djitim djak lé
+  jawi: ''
+  id: jam saya berhenti dan memenangkan berjalan lagi
+  en: my clock is stopped and won't walk anymore
+  nl: mijn klok staat stil en wil niet meer loopen
+etymology: ''
+related_words: []
+dialect_notes: ''
+source: 'K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage: Martinus Nijhoff, voor het
+  Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië, 1889, hlm. 139'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+language_uncertain: false
+modern_spelling: salun
+extraction_notes: Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each
+  headword); not AI-generated. `modern_spelling` “salun” is an AI-supplied transposition of the 1889 orthography
+  (oe->u, dj->j, tj->c, nj->ny, ë->eu); it is NOT from the source and needs checking before it is used
+  to match the 1985 dictionary. Indonesian and English were produced by machine translation of van Langen's
+  Dutch (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl` for verification;
+  the rendering is not from the source and needs a human check. Part of speech not stated in the source;
+  left blank.

@@ -1,6 +1,7 @@
 headword: piliek
-jawi: ''
-alt_spelling: []
+jawi: فِييلِيغْ
+alt_spelling:
+- piliëk
 ipa: ''
 part_of_speech: v
 definitions:
@@ -10,6 +11,9 @@ definitions:
   meaning_en: ''
 - meaning_id: merepih sesuatu
   meaning_en: ''
+- meaning_id: menyentuh, tangan ke tangan datang, menahan diri sinonim dengan pilët
+  meaning_en: touching, hand-to-hand coming, holding back. Synonymous with pilët
+  meaning_nl: aanraken, aanroeren, met de hand aan iets komen, zich ophouden. Synoniem met pilët
 examples:
 - aceh: mupiliek
   jawi: ''
@@ -20,8 +24,17 @@ related_words:
 - pilèt
 dialect_notes: ''
 source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
-  Pendidikan dan Kebudayaan, 1985, hlm. 721'
+  Pendidikan dan Kebudayaan, 1985, hlm. 721; K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage:
+  Martinus Nijhoff, voor het Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië,
+  1889, hlm. 195'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
 extraction_notes: 'English gloss left blank: no confident translation of the Indonesian definition was
-  available. Jawi left blank: the source is Latin-script only and no Jawi form is printed for this entry.'
+  available. Jawi left blank: the source is Latin-script only and no Jawi form is printed for this entry.
+  | Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each headword);
+  not AI-generated. `modern_spelling` “piliek” is an AI-supplied transposition of the 1889 orthography
+  (oe->u, dj->j, tj->c, nj->ny, ë->eu); it is NOT from the source and needs checking before it is used
+  to match the 1985 dictionary. Indonesian and English were produced by machine translation of van Langen''s
+  Dutch (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl` for verification;
+  the rendering is not from the source and needs a human check. Part of speech not stated in the source;
+  left blank.'

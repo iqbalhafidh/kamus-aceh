@@ -1,0 +1,33 @@
+headword: dam-dam
+jawi: دام ۲
+alt_spelling: []
+ipa: ''
+part_of_speech: ''
+definitions:
+- meaning_id: mencari seseorang kemalangan dengan segala cara dan tidak berhenti sebelum tujuan tercapai,
+    menganiaya seseorang terus-menerus
+  meaning_en: looking for someone's misfortune by all means and not stopping before the goal is achieved,
+    persecute someone constantly
+  meaning_nl: iemands ongeluk zoeken door allerlei mogelijke middelen en daarmede niet ophouden, alvorens
+    het doel bereikt is, iemand voortdurend vervolgen
+examples:
+- aceh: raja ngon raja medam dam
+  aceh_1889: radja ngon radja mēdam-dam
+  jawi: ''
+  id: tēngkoe ngon tēngkoe orēng kaja orēng kaja mēkowēh-kowēh, (Atj)
+  en: tēngkoe ngon tēngkoe mēdēngki-dēngki orēng kaja orēng kaja mēkowēh-kowēh, (Atj)
+  nl: tēngkoe ngon tēngkoe mēdēngki-dēngki orēng kaja ngon orēng kaja mēkowēh-kowēh, (Atj
+etymology: ''
+related_words: []
+dialect_notes: ''
+source: 'K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage: Martinus Nijhoff, voor het
+  Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië, 1889, hlm. 108'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+language_uncertain: false
+modern_spelling: dam-dam
+extraction_notes: Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each
+  headword); not AI-generated. Indonesian and English were produced by machine translation of van Langen's
+  Dutch (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl` for verification;
+  the rendering is not from the source and needs a human check. Part of speech not stated in the source;
+  left blank.

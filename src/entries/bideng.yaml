@@ -1,0 +1,47 @@
+headword: bidēng
+jawi: ببدغ
+alt_spelling: []
+ipa: ''
+part_of_speech: ''
+definitions:
+- meaning_id: lebar
+  meaning_en: wide, width
+  meaning_nl: breed, ruim van oppervlakte, breedte
+- meaning_id: bidēng bahoe, lebar bahu
+  meaning_en: bidēng bahoe, shoulders width
+  meaning_nl: bidēng bahoe, breedte der schouders
+- meaning_id: bidēng roemāh, lebar rumah
+  meaning_en: bidēng roemāh, width of the house
+  meaning_nl: bidēng roemāh, breedte van het huis
+- meaning_id: bidēng capal, lebar kapal
+  meaning_en: bidēng capal, width of the ship
+  meaning_nl: bidēng kapal, breedte van het schip
+- meaning_id: bidēng tikar, lebar dari matras
+  meaning_en: bidēng tikar, width of a mat
+  meaning_nl: bidēng tikar, breedte van een mat
+- meaning_id: bidēng idjar, lebar bagian yang baik
+  meaning_en: bidēng idjar, width of piece good
+  meaning_nl: bidēng idjar, breedte van een stuk goed
+- meaning_id: juga digunakan sebagai countword komposit, sibidēng, lebar
+  meaning_en: is also used as a composite countword, sibidēng, a width
+  meaning_nl: wordt ook als samengesteld telwoord gebezigd, sibidēng, een breedte
+- meaning_id: tikar sibidēng, sebuah tikar lebar
+  meaning_en: tikar sibidēng, a wide mat
+  meaning_nl: tikar sibidēng, een breede mat
+examples: []
+etymology: ''
+related_words: []
+dialect_notes: ''
+source: 'K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage: Martinus Nijhoff, voor het
+  Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië, 1889, hlm. 48'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+language_uncertain: false
+modern_spelling: bideng
+extraction_notes: Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each
+  headword); not AI-generated. `modern_spelling` “bideng” is an AI-supplied transposition of the 1889
+  orthography (oe->u, dj->j, tj->c, nj->ny, ë->eu); it is NOT from the source and needs checking before
+  it is used to match the 1985 dictionary. Indonesian and English were produced by machine translation
+  of van Langen's Dutch (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl`
+  for verification; the rendering is not from the source and needs a human check. Part of speech not stated
+  in the source; left blank.

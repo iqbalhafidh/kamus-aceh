@@ -1,11 +1,16 @@
 headword: ramien
-jawi: ''
-alt_spelling: []
+jawi: رامین
+alt_spelling:
+- ramièn
 ipa: ''
 part_of_speech: v
 definitions:
 - meaning_id: menyembelih hewan dan lain-lain dan makan bersama-sama di alam terbuka
   meaning_en: ''
+- meaning_id: pergi pada parade atau pergi ke suatu tempat dengan banyak untuk mengambil bagian dalam
+    pesta
+  meaning_en: go on a parade or go somewhere with many to take part in a feast
+  meaning_nl: zich in optocht of met zijn velen ergens heen begeven om aan een feestmaal deel te nemen
 examples:
 - aceh: kameng
   jawi: ''
@@ -23,12 +28,27 @@ examples:
   jawi: ''
   id: '? Siapakah yg Anda undang bertamasya besok?'
   en: ''
+- aceh: singah getanyoi tajak meramien u pasir
+  aceh_1889: singâh gètanjoi tadjak meramièn oe pasir
+  jawi: ''
+  id: besok kita pergi ke pantai dengan banyak dari kita untuk mengambil bagian dalam sebuah pesta
+  en: tomorrow we go to the beach with many of us to take part in a feast [e.g
+  nl: morgen gaan wij met zijn velen naar het strand om aan een feestmaal deel te nemen [verg. رامی]
 etymology: ''
 related_words: []
 dialect_notes: ''
 source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
-  Pendidikan dan Kebudayaan, 1985, hlm. 771'
+  Pendidikan dan Kebudayaan, 1985, hlm. 771; K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage:
+  Martinus Nijhoff, voor het Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië,
+  1889, hlm. 121'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
 extraction_notes: 'English gloss left blank: no confident translation of the Indonesian definition was
-  available. Jawi left blank: the source is Latin-script only and no Jawi form is printed for this entry.'
+  available. Jawi left blank: the source is Latin-script only and no Jawi form is printed for this entry.
+  | Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each headword);
+  not AI-generated. `modern_spelling` “ramien” is an AI-supplied transposition of the 1889 orthography
+  (oe->u, dj->j, tj->c, nj->ny, ë->eu); it is NOT from the source and needs checking before it is used
+  to match the 1985 dictionary. Indonesian and English were produced by machine translation of van Langen''s
+  Dutch (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl` for verification;
+  the rendering is not from the source and needs a human check. Part of speech not stated in the source;
+  left blank.'

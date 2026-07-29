@@ -1,0 +1,31 @@
+headword: babat
+jawi: بابت
+alt_spelling: []
+ipa: ''
+part_of_speech: ''
+definitions:
+- meaning_id: jumlah utang dan ketidakpedulian dalam rekening
+  meaning_en: the amount of debts and indebtedness in the accounts
+  meaning_nl: het bedrag van schulden en inschulden in de boeken
+examples:
+- aceh: kalon babat utang si pulan
+  aceh_1889: kalon babat oetang Si Poelan
+  jawi: ''
+  id: lihat dalam buku-buku jumlah utang N
+  en: see in the books the amount of debts of N. N
+  nl: zie eens in de boeken het bedrag der schulden van N. N
+etymology: ''
+related_words:
+- eens
+dialect_notes: ''
+source: 'K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage: Martinus Nijhoff, voor het
+  Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië, 1889, hlm. 24'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+language_uncertain: false
+modern_spelling: babat
+extraction_notes: Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each
+  headword); not AI-generated. Indonesian and English were produced by machine translation of van Langen's
+  Dutch (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl` for verification;
+  the rendering is not from the source and needs a human check. Part of speech not stated in the source;
+  left blank.

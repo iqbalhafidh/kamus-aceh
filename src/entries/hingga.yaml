@@ -1,11 +1,14 @@
 headword: hingga
-jawi: ''
+jawi: هیفکا
 alt_spelling: []
 ipa: ''
 part_of_speech: adv
 definitions:
 - meaning_id: hingga, batas yang terjauh, akhir
   meaning_en: limit, the furthest limit, end
+- meaning_id: untuk, berakhir
+  meaning_en: to, end
+  meaning_nl: tot, tot aan, einde
 examples:
 - aceh: tabôh hingga
   jawi: ''
@@ -47,12 +50,24 @@ examples:
   jawi: ''
   id: Pekerjaan ini belum lagi berakhir, tunggulah kira-kira dua hari lagi
   en: This work is not yet finished, wait about two more days
+- aceh: buet nyoi hana mehingga lom nepreh meng duwa oroi terek
+  aceh_1889: boeët njoi hana mèhingga lom nèprèh mèng doewa oroi tèrèk
+  jawi: ''
+  id: bahwa pekerjaan tidak memiliki akhir, bahkan jika Anda ingin menunggu dua hari lagi
+  en: that work has no end, even if you want to wait two more days
+  nl: dat werk heeft geen einde, zelfs al wilt ge nog twee dagen wachten
 etymology: ''
 related_words: []
 dialect_notes: ''
 source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
-  Pendidikan dan Kebudayaan, 1985, hlm. 291'
+  Pendidikan dan Kebudayaan, 1985, hlm. 291; K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage:
+  Martinus Nijhoff, voor het Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië,
+  1889, hlm. 284'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
 extraction_notes: 'Jawi left blank: the source is Latin-script only and no Jawi form is printed for this
-  entry.'
+  entry. | Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each headword);
+  not AI-generated. Indonesian and English were produced by machine translation of van Langen''s Dutch
+  (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl` for verification;
+  the rendering is not from the source and needs a human check. Part of speech not stated in the source;
+  left blank.'

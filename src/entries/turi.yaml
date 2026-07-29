@@ -1,19 +1,32 @@
-headword: turi
-jawi: ''
+headword: toeri
+jawi: توری
 alt_spelling: []
 ipa: ''
 part_of_speech: ''
-definitions: []
+definitions:
+- meaning_id: tahu, mengenali
+  meaning_en: know, recognize
+  meaning_nl: kennen, herkennen
+- meaning_id: mëtoeri, saling mengenali
+  meaning_en: mëtoeri, recognize each other
+  meaning_nl: mëtoeri, elkander herkennen
+- meaning_id: beritahu pëtoeri
+  meaning_en: notify pëtoeri
+  meaning_nl: pëtoeri, in kennis brengen
 examples: []
 etymology: ''
-related_words:
-- ri
-- tu
+related_words: []
 dialect_notes: ''
-source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
-  Pendidikan dan Kebudayaan, 1985, hlm. 1020'
+source: 'K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage: Martinus Nijhoff, voor het
+  Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië, 1889, hlm. 68'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: 'Source gives this only as a cross-reference (→ ri, tu); no independent definition is
-  printed, so meaning fields are left blank rather than guessed. Jawi left blank: the source is Latin-script
-  only and no Jawi form is printed for this entry. Part of speech not stated in the source; left blank.'
+language_uncertain: false
+modern_spelling: turi
+extraction_notes: Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each
+  headword); not AI-generated. `modern_spelling` “turi” is an AI-supplied transposition of the 1889 orthography
+  (oe->u, dj->j, tj->c, nj->ny, ë->eu); it is NOT from the source and needs checking before it is used
+  to match the 1985 dictionary. Indonesian and English were produced by machine translation of van Langen's
+  Dutch (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl` for verification;
+  the rendering is not from the source and needs a human check. Part of speech not stated in the source;
+  left blank.

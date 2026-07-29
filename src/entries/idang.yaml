@@ -1,5 +1,5 @@
 headword: idang
-jawi: ''
+jawi: ایدغ
 alt_spelling:
 - hidang
 ipa: ''
@@ -7,14 +7,23 @@ part_of_speech: n
 definitions:
 - meaning_id: tempat menghidangkan makanan secara Aceh
   meaning_en: a stand for serving food in the Acehnese manner
+- meaning_id: sampai jumpa Hidang
+  meaning_en: see "Hidang"
+  meaning_nl: zie هیدغ hidang
 examples: []
 etymology: ''
 related_words:
 - hanta
 dialect_notes: ''
 source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
-  Pendidikan dan Kebudayaan, 1985, hlm. 303'
+  Pendidikan dan Kebudayaan, 1985, hlm. 303; K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage:
+  Martinus Nijhoff, voor het Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië,
+  1889, hlm. 21'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
 extraction_notes: 'Jawi left blank: the source is Latin-script only and no Jawi form is printed for this
-  entry.'
+  entry. | Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each headword);
+  not AI-generated. Indonesian and English were produced by machine translation of van Langen''s Dutch
+  (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl` for verification;
+  the rendering is not from the source and needs a human check. Part of speech not stated in the source;
+  left blank.'

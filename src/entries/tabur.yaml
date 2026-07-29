@@ -1,0 +1,44 @@
+headword: taboer
+jawi: تابور
+alt_spelling: []
+ipa: ''
+part_of_speech: ''
+definitions:
+- meaning_id: dan (malaikat-malaikat) yang menyebarkan (rahmat Tuhannya) dengan seluas-luasnya
+  meaning_en: scattered, sow, scatter
+  meaning_nl: verspreid, verstrooid zijn, zaaien, strooien
+- meaning_id: mëtaboer-taboer, didistribusikan kiri dan kanan
+  meaning_en: mëtaboer-taboer, distributed left and right
+  meaning_nl: mëtaboer-taboer, links en rechts verspreid
+examples:
+- aceh: pakon meutabur tabur bur nyan
+  aceh_1889: pakon mëtaboer-taboer boer njan
+  jawi: ''
+  id: mengapa beras yang tersebar kiri dan kanan? itu juga dikatakan dari kains berbunga, jika bunga-bunga
+    tersebar, mëtaboer-taboer
+  en: why is that rice scattered left and right? It is also said of flowered kains, if the flowers are
+    scattered, mëtaboer-taboer
+  nl: waarom is die rijst links en rechts verspreid? Men zegt ook van gebloemde kains, indien de bloemen
+    verspreid zijn, mëtaboer-taboer
+- aceh: teutabur bije
+  aceh_1889: tëtaboer bidjé
+  jawi: ''
+  id: menabur sinonim dengan sëpëk
+  en: sow. Synonym with sëpëk
+  nl: zaaien. Synoniem met sëpëk
+etymology: ''
+related_words: []
+dialect_notes: ''
+source: 'K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage: Martinus Nijhoff, voor het
+  Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië, 1889, hlm. 52'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+language_uncertain: false
+modern_spelling: tabur
+extraction_notes: Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each
+  headword); not AI-generated. `modern_spelling` “tabur” is an AI-supplied transposition of the 1889 orthography
+  (oe->u, dj->j, tj->c, nj->ny, ë->eu); it is NOT from the source and needs checking before it is used
+  to match the 1985 dictionary. Indonesian and English were produced by machine translation of van Langen's
+  Dutch (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl` for verification;
+  the rendering is not from the source and needs a human check. Part of speech not stated in the source;
+  left blank.

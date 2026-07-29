@@ -1,0 +1,38 @@
+headword: boekoeng
+jawi: بوكوغ
+alt_spelling: []
+ipa: ''
+part_of_speech: ''
+definitions:
+- meaning_id: hornless, binatang tanpa tanduk
+  meaning_en: hornless, an animal without horns
+  meaning_nl: hoornloos, een dier zonder hoornen
+- meaning_id: mengkombinasikan boekoeng, seekor kambing tanpa tanduk
+  meaning_en: combining boekoeng, a goat without horns
+  meaning_nl: kameng boekoeng, een geit zonder hoornen
+- meaning_id: lēmo boekoeng, seekor sapi tanpa tanduk figuratif also bareheads
+  meaning_en: lēmo boekoeng, a bovine without horns. Figuratively also bareheads
+  meaning_nl: lēmo boekoeng, een rund zonder hoornen. Figuurlijk ook blootshoofds
+examples:
+- aceh: pakon tajak ulee bukung
+  aceh_1889: pakon tadjak oelée boekoeng
+  jawi: ''
+  id: kenapa tanpa pelana?
+  en: why go bareheaded?
+  nl: waarom gaat ge bloothoofds?
+etymology: ''
+related_words: []
+dialect_notes: ''
+source: 'K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage: Martinus Nijhoff, voor het
+  Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië, 1889, hlm. 44'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+language_uncertain: false
+modern_spelling: bukung
+extraction_notes: Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each
+  headword); not AI-generated. `modern_spelling` “bukung” is an AI-supplied transposition of the 1889
+  orthography (oe->u, dj->j, tj->c, nj->ny, ë->eu); it is NOT from the source and needs checking before
+  it is used to match the 1985 dictionary. Indonesian and English were produced by machine translation
+  of van Langen's Dutch (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl`
+  for verification; the rendering is not from the source and needs a human check. Part of speech not stated
+  in the source; left blank.

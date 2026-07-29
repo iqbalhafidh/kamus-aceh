@@ -1,0 +1,42 @@
+headword: bangoi
+jawi: باغوی
+alt_spelling: []
+ipa: ''
+part_of_speech: ''
+definitions:
+- meaning_id: wangi dan harum
+  meaning_en: fragrant and fragrant
+  meaning_nl: welriekend en geurig
+examples:
+- aceh: beureus putih ijeur bangoi oreung binoi peut perkara rupa geuj
+  aceh_1889: bërës poetih ijër bangoi orëng binoi pët perkara roepa gëdj
+  jawi: ''
+  id: përangoi djëroh, bangsa lëbëh, kemudian neh, (ZAtj)
+  en: përangoi djëroh, bangsa lëbëh, then neh, (Atj)
+  nl: përangoi djëroh, bangsa lëbëh, dan neh, (Atj
+- aceh: pantun evenals de rijst wit en het water welriekend mut zijn
+  aceh_1889: 'pantoen): evenals de rijst wit en het water welriekend moet zijn'
+  jawi: ''
+  id: jadi, seorang istri harus memenuhi empat kondisi, n.l
+  en: thus, a wife must satisfy four conditions, n.l
+  nl: zoo moet een echtgenoote aan vier voorwaarden voldoen, n.l
+- aceh: een gud uiterlijk
+  aceh_1889: een goed uiterlijk
+  jawi: ''
+  id: memiliki perilaku murni, asal yang baik dan sensualitas
+  en: have a pure behavior, good origin and sensuality
+  nl: een zuiver gedrag, eene goede afkomst en zindelijkheid bezitten
+etymology: ''
+related_words: []
+dialect_notes: ''
+source: 'K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage: Martinus Nijhoff, voor het
+  Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië, 1889, hlm. 27'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+language_uncertain: false
+modern_spelling: bangoi
+extraction_notes: Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each
+  headword); not AI-generated. Indonesian and English were produced by machine translation of van Langen's
+  Dutch (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl` for verification;
+  the rendering is not from the source and needs a human check. Part of speech not stated in the source;
+  left blank.

@@ -1,7 +1,8 @@
 headword: h’ong
-jawi: ''
+jawi: هوغ
 alt_spelling:
 - meuh’ong
+- hong
 ipa: ''
 part_of_speech: v
 definitions:
@@ -13,6 +14,9 @@ definitions:
   meaning_en: a magical syllable at the beginning, the ending or a portion of a prayer
 - meaning_id: berdengung, menderu
   meaning_en: to drone, to roar, to rumble
+- meaning_id: melempar, melempar sinonim dengan sërom
+  meaning_en: throwing, throwing. Synonym with sërom
+  meaning_nl: werpen, gooien, smijten. Synoniem met sërom
 examples:
 - aceh: ranub nyoe h’ong that
   jawi: ''
@@ -36,7 +40,9 @@ related_words:
 - bantôt
 dialect_notes: ''
 source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
-  Pendidikan dan Kebudayaan, 1985, hlm. 296'
+  Pendidikan dan Kebudayaan, 1985, hlm. 296; K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage:
+  Martinus Nijhoff, voor het Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië,
+  1889, hlm. 283'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
 extraction_notes: 'Homonym 1 in the source (printed as a superscript numeral before the headword). Jawi
@@ -46,4 +52,8 @@ extraction_notes: 'Homonym 1 in the source (printed as a superscript numeral bef
   a superscript numeral before the headword). Jawi left blank: the source is Latin-script only and no
   Jawi form is printed for this entry. Part of speech not stated in the source; left blank. | Homonym
   4 in the source (printed as a superscript numeral before the headword). Jawi left blank: the source
-  is Latin-script only and no Jawi form is printed for this entry.'
+  is Latin-script only and no Jawi form is printed for this entry. | Jawi copied verbatim from the printed
+  source (van Langen prints the Jawi form for each headword); not AI-generated. Indonesian and English
+  were produced by machine translation of van Langen''s Dutch (Dutch→English→Indonesian, OPUS-MT). The
+  Dutch original is kept in `meaning_nl`/`nl` for verification; the rendering is not from the source and
+  needs a human check. Part of speech not stated in the source; left blank.'

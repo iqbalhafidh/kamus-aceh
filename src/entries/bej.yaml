@@ -1,0 +1,38 @@
+headword: bēdj
+jawi: بج
+alt_spelling: []
+ipa: ''
+part_of_speech: ''
+definitions:
+- meaning_id: berhenti berlangganan, baca
+  meaning_en: unsubscribe, read
+  meaning_nl: opzeggen, lezen
+- meaning_id: bēdj Al-Quran, membaca atau membaca Al-Quran
+  meaning_en: bēdj Quran, reciting or reading the Qur'an
+  meaning_nl: bēdj koran, den koran reciteeren of lezen
+- meaning_id: bēdj doā, melakukan doa-doa
+  meaning_en: bēdj doā, doing prayers
+  meaning_nl: bēdj doā, gebeden doen
+- meaning_id: bēdj kitab, membaca kitab suci
+  meaning_en: bēdj kitab, reading sacred scriptures
+  meaning_nl: bēdj kitab, heilige schriften lezen
+- meaning_id: bēdj soerat, baca surat
+  meaning_en: bēdj soerat, read letters
+  meaning_nl: bēdj soerat, brieven lezen
+examples: []
+etymology: ''
+related_words: []
+dialect_notes: ''
+source: 'K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage: Martinus Nijhoff, voor het
+  Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië, 1889, hlm. 30'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+language_uncertain: false
+modern_spelling: bej
+extraction_notes: Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each
+  headword); not AI-generated. `modern_spelling` “bej” is an AI-supplied transposition of the 1889 orthography
+  (oe->u, dj->j, tj->c, nj->ny, ë->eu); it is NOT from the source and needs checking before it is used
+  to match the 1985 dictionary. Indonesian and English were produced by machine translation of van Langen's
+  Dutch (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl` for verification;
+  the rendering is not from the source and needs a human check. Part of speech not stated in the source;
+  left blank.

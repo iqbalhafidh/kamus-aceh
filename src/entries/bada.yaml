@@ -1,17 +1,38 @@
 headword: bada
-jawi: ''
+jawi: باد
 alt_spelling: []
 ipa: ''
-part_of_speech: ''
+part_of_speech: n
 definitions:
-- meaning_id: pisang goreng
-  meaning_en: fried banana
-examples: []
+- meaning_id: pisang goreng, (Pisang gorèng)
+  meaning_en: fried pisang, (pisang gorèng)
+  meaning_nl: gebakken pisang, (pisang gorèng)
+- meaning_id: sejenis semak-semak, daun yang dimasukkan ke dalam air
+  meaning_en: a kind of shrub, the leaves of which are put in the water, with which the corpses are washed
+  meaning_nl: een soort van heester, waarvan de bladeren in het water worden gedaan, waarmede men de lijken
+    wascht
+examples:
+- aceh: jak bloi bada pisang
+  aceh_1889: djak bloi bada pisang
+  jawi: ''
+  id: pergi membeli pipang goreng
+  en: go buy fried pisang
+  nl: ga gebakken pisang koopen
 etymology: ''
 related_words: []
 dialect_notes: ''
-source: 'Daud, Bukhari & Mark Durie. Kamus Basa Acèh = Kamus Bahasa Aceh: Acehnese–Indonesian–English Thesaurus.
-  Pacific Linguistics C-151, 1999, p. 72.'
-date_added: '2026-07-20'
+source: 'K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage: Martinus Nijhoff, voor het
+  Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië, 1889, hlm. 26'
+date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: ''
+language_uncertain: false
+modern_spelling: bada
+extraction_notes: 'Homonym I in the source (printed as a numeral before the headword). Jawi copied verbatim
+  from the printed source (van Langen prints the Jawi form for each headword); not AI-generated. Indonesian
+  and English were produced by machine translation of van Langen''s Dutch (Dutch→English→Indonesian, OPUS-MT).
+  The Dutch original is kept in `meaning_nl`/`nl` for verification; the rendering is not from the source
+  and needs a human check. Part of speech not stated in the source; left blank. | Homonym II in the source
+  (printed as a numeral before the headword). Jawi left blank: no Jawi form is printed for this entry.
+  Indonesian and English were produced by machine translation of van Langen''s Dutch (Dutch→English→Indonesian,
+  OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl` for verification; the rendering is not from
+  the source and needs a human check.'

@@ -1,0 +1,73 @@
+headword: asan
+jawi: اسن
+alt_spelling:
+- ḥasan
+ipa: ''
+part_of_speech: n
+definitions:
+- meaning_id: nama pohon dengan bunga kuning yang indah, begitu-disebut angsana
+  meaning_en: name of a tree with beautiful yellow flowers, the so-called angsana
+  meaning_nl: naam van een boom met fraaie gele bloemen, de zoogenaamde angsana
+- meaning_id: nama pria
+  meaning_en: male name
+  meaning_nl: mannelijke persoonseigennaam
+- meaning_id: pohon dengan anggun, Wangi, {\ fnCandara\ fs60\ b1\ 4cH000000\ 4aH80} Bunga kuning emas
+  meaning_en: a tree with graceful, fragrant, gold yellow flowers
+  meaning_nl: een boom met sierlijke, welriekende, goud gele bloemen. حاسود ḥasoed, nijdig, nijd, afgunst
+examples:
+- aceh: pakon gata galak tehat taasud te gob jang hana takalon
+  aceh_1889: pakon gata galak tēhat taḥasoed tē gob jang hana takalon
+  jawi: ''
+  id: mengapa Anda memiliki kesenangan seperti itu? Apa kau terpesona oleh orang yang tak terlihat?
+  en: why do you have such a pleasure? Are you envyed by an invisible person?
+  nl: waarom hebt ge zoo'n genoegen? zijt ge afgunstig op een onzichtbaar persoon? حاضر ḥadlir, tegenwoordig.
+    حايض ḥaidl, menstruatie. حبشي ḥabesjie, Abyssinië
+- aceh: oreng asan
+  aceh_1889: orēng ḥasan
+  jawi: ''
+  id: 'abyssiniër abib, judul yang mungkin dibaca oleh orang Arab: Séjjids atau keturunan mereka dibicarakan.
+    avaidji, seseorang yang melakukan iarah, dialamatkan oleh gelar tēngkoe'
+  en: 'abyssiniër. abib, title with which the Arabs [probably read: the Séjjids] or their descendants
+    are spoken. "adji," someone who performed the pilgrimage, is addressed by the title of tēngkoe'
+  nl: 'Abyssiniër. حبيب ḥabib, titel waarmede de Arabieren [waarschijnlijk te lezen: de Séjjids] of hunne
+    afstammelingen worden aan gesproken. حمج ḥadji, iemand, die de bedevaart heeft verricht, hij wordt
+    met den titel van tēngkoe aangesproken'
+- aceh: ik aji ter bede vaart gaan  ujah
+  aceh_1889: ik ḥadji ter bede vaart gaan. حجج ḥoedjah
+  jawi: ''
+  id: pengadilan, bukti
+  en: trial, proof
+  nl: proef, bewijs. حل ḥad, grens, begrenzing, bepaalde straf. حديث ḥadits, overlevering van Mohammad.
+    حرف ḥaraf, letter. حركة ḥarēkat, winst, voordeel[?] حرم ḥarēm, ongeoorloofd, verboden
+- aceh: anek arem jedah
+  aceh_1889: anēk ḥarēm djēdah
+  jawi: ''
+  id: 'on'
+  en: on-
+  nl: on-
+etymology: ''
+related_words: []
+dialect_notes: ''
+source: 'K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage: Martinus Nijhoff, voor het
+  Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië, 1889, hlm. 5, 103'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+language_uncertain: false
+modern_spelling: asan
+extraction_notes: 'Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each
+  headword); not AI-generated. Indonesian and English were produced by machine translation of van Langen''s
+  Dutch (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl` for verification;
+  the rendering is not from the source and needs a human check. | Homonym I in the source (printed as
+  a numeral before the headword). Jawi copied verbatim from the printed source (van Langen prints the
+  Jawi form for each headword); not AI-generated. `modern_spelling` “asan” is an AI-supplied transposition
+  of the 1889 orthography (oe->u, dj->j, tj->c, nj->ny, ë->eu); it is NOT from the source and needs checking
+  before it is used to match the 1985 dictionary. Indonesian and English were produced by machine translation
+  of van Langen''s Dutch (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl`
+  for verification; the rendering is not from the source and needs a human check. Part of speech not stated
+  in the source; left blank. | Homonym II in the source (printed as a numeral before the headword). Jawi
+  left blank: no Jawi form is printed for this entry. `modern_spelling` “asan” is an AI-supplied transposition
+  of the 1889 orthography (oe->u, dj->j, tj->c, nj->ny, ë->eu); it is NOT from the source and needs checking
+  before it is used to match the 1985 dictionary. Indonesian and English were produced by machine translation
+  of van Langen''s Dutch (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl`
+  for verification; the rendering is not from the source and needs a human check. Part of speech not stated
+  in the source; left blank.'

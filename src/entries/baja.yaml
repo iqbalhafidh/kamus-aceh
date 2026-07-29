@@ -1,0 +1,55 @@
+headword: badja
+jawi: بجا
+alt_spelling: []
+ipa: ''
+part_of_speech: ''
+definitions:
+- meaning_id: sejenis kegelapan, untuk merusak gigi hitam
+  meaning_en: a kind of blackness, to spoil the teeth black
+  meaning_nl: een soort zwartsel, om de tanden zwart te verwen
+- meaning_id: pupuk
+  meaning_en: manure
+  meaning_nl: mest
+examples:
+- aceh: hana lajak tapelajak gaki supak taboh gaca
+  aceh_1889: hana lajak tapēlajak gaki soepak taboh gatja
+  jawi: ''
+  id: hana patoet tapēpatoet oentoet Tabu Zgēnta, hana gigoi roempang tabh
+  en: hana patoet tapēpatoet oentoet taboh gēnta, hana rēmbang tapērēmbang gigoi roempang taboh badja,
+    (Atj)
+  nl: hana patoet tapēpatoet gaki oentoet taboh gēnta, hana rēmbang tapērēmbang gigoi roempang taboh badja,
+    (Atj
+- aceh: spr het is niet vugzaam
+  aceh_1889: spr.) het is niet voegzaam
+  jawi: ''
+  id: gosok kaki sakit dengan henna, atau membuat panggilan untuk kaki berair atau jika seseorang tidak
+    lagi memiliki gigi, mengoleskannya dengan hitam (badja) peribahasa ini biasanya dikutip, jika seseorang
+    ingin melakukan atau telah melakukan sesuatu yang tidak sesuai
+  en: rub a sick foot with henna, or make a call to a watery foot or if one no longer has teeth, smear
+    it with black (badja) This proverb is usually quoted, if one wishes to do or has done something which
+    is not appropriate
+  nl: een zieken voet met henna in te wrijven, evenmin een belletje aan een waterzuchtigen voet te doen
+    of als men geen tanden meer heeft, ze met zwartsel (badja) in te smeeren. Dit spreekwoord wordt gewoonlijk
+    aangehaald, als men iets verrichten wil of heeft verricht, wat niet voegzaam is
+etymology: ''
+related_words: []
+dialect_notes: ''
+source: 'K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage: Martinus Nijhoff, voor het
+  Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië, 1889, hlm. 30'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+language_uncertain: false
+modern_spelling: baja
+extraction_notes: 'Homonym I in the source (printed as a numeral before the headword). Jawi copied verbatim
+  from the printed source (van Langen prints the Jawi form for each headword); not AI-generated. `modern_spelling`
+  “baja” is an AI-supplied transposition of the 1889 orthography (oe->u, dj->j, tj->c, nj->ny, ë->eu);
+  it is NOT from the source and needs checking before it is used to match the 1985 dictionary. Indonesian
+  and English were produced by machine translation of van Langen''s Dutch (Dutch→English→Indonesian, OPUS-MT).
+  The Dutch original is kept in `meaning_nl`/`nl` for verification; the rendering is not from the source
+  and needs a human check. Part of speech not stated in the source; left blank. | Homonym II in the source
+  (printed as a numeral before the headword). Jawi left blank: no Jawi form is printed for this entry.
+  `modern_spelling` “baja” is an AI-supplied transposition of the 1889 orthography (oe->u, dj->j, tj->c,
+  nj->ny, ë->eu); it is NOT from the source and needs checking before it is used to match the 1985 dictionary.
+  Indonesian and English were produced by machine translation of van Langen''s Dutch (Dutch→English→Indonesian,
+  OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl` for verification; the rendering is not from
+  the source and needs a human check. Part of speech not stated in the source; left blank.'

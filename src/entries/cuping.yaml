@@ -1,19 +1,36 @@
----
-headword: "cuping"
-jawi: ""
+headword: tjoeping
+jawi: ''
 alt_spelling: []
-ipa: "/cu.piŋ/"
-part_of_speech: "n"
-language_uncertain: false
+ipa: ''
+part_of_speech: ''
 definitions:
-  - meaning_id: "kalung sebagai bagian dari senjata untuk berperang merupakan salah satu penangkal berupa plat besi yg dilapisi emas, bentuknya seperti segitiga tidak bersudut"
-    meaning_en: ""
-examples:
-  []
-etymology: ""
+- meaning_id: sepiring logam atau topi dikenakan oleh gadis-gadis muda untuk menutupi organ seksual
+  meaning_en: a plate of metal or of a cap worn by very young girls to cover the pubic part
+  meaning_nl: een plaatje van metaal of van een klapperdop, door zeer jeugdige meisjes gedragen ter bedekking
+    van het schaamdeel
+- meaning_id: tjoeping biēng, lobster cawan payudara
+  meaning_en: tjoeping biēng, lobster breast dish
+  meaning_nl: tjoeping biēng, de schaal voor de borst van een kreeft
+examples: []
+etymology: ''
 related_words: []
-dialect_notes: ""
-source: "Kamus Bahasa Aceh Daring (Balai Bahasa Provinsi Aceh), 'Entri huruf — cuping', URL: https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/C?page=4 (diakses 20 Juli 2026); halaman tambahan: C?page=11, C?page=12, C?page=13, C?page=14, C?page=15, C?page=16, C?page=17, C?page=18, C?page=19, C?page=4, C?page=5, C?page=6, C?page=7, C?page=8, C?page=9"
-date_added: "2026-07-20"
-contributor: "AI-extracted — needs human review"
-extraction_notes: "Diekstrak dari 16 halaman sumber (https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/C?page=10, https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/C?page=11, https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/C?page=12, https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/C?page=13, https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/C?page=14, https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/C?page=15, https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/C?page=16, https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/C?page=17, https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/C?page=18, https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/C?page=19, https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/C?page=4, https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/C?page=5, https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/C?page=6, https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/C?page=7, https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/C?page=8, https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/C?page=9). Ditemukan pada beberapa halaman; definisi dan contoh digabungkan. Tidak ada bentuk Jawi dalam sumber — dibiarkan kosong sesuai aturan."
+dialect_notes: ''
+source: 'K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage: Martinus Nijhoff, voor het
+  Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië, 1889, hlm. 99'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+language_uncertain: false
+modern_spelling: cuping
+extraction_notes: 'Homonym I in the source (printed as a numeral before the headword). Jawi left blank:
+  no Jawi form is printed for this entry. `modern_spelling` “cuping” is an AI-supplied transposition of
+  the 1889 orthography (oe->u, dj->j, tj->c, nj->ny, ë->eu); it is NOT from the source and needs checking
+  before it is used to match the 1985 dictionary. Indonesian and English were produced by machine translation
+  of van Langen''s Dutch (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl`
+  for verification; the rendering is not from the source and needs a human check. Part of speech not stated
+  in the source; left blank. | Homonym II in the source (printed as a numeral before the headword). Jawi
+  left blank: no Jawi form is printed for this entry. `modern_spelling` “cuping” is an AI-supplied transposition
+  of the 1889 orthography (oe->u, dj->j, tj->c, nj->ny, ë->eu); it is NOT from the source and needs checking
+  before it is used to match the 1985 dictionary. Indonesian and English were produced by machine translation
+  of van Langen''s Dutch (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl`
+  for verification; the rendering is not from the source and needs a human check. Part of speech not stated
+  in the source; left blank.'

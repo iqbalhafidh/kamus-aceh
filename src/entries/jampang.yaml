@@ -1,18 +1,39 @@
 headword: jampang
-jawi: ''
-alt_spelling: []
+jawi: جَمَفْع
+alt_spelling:
+- djampang
 ipa: ''
 part_of_speech: ''
-definitions: []
-examples: []
+definitions:
+- meaning_id: sebagai, dari waktu ke waktu, kadang-kadang
+  meaning_en: as, from time to time, occasionally
+  meaning_nl: als, van tijd tot tijd, nu en dan,
+examples:
+- aceh: ta peugeuj jambur di sinoi saboh jampang tajak jak jid ta singgah kenan
+  aceh_1889: ta-pëgëdj djamboer di sinoi saboh djampang tadjak-djak djid ta-singgah kēnan
+  jawi: ''
+  id: ada pondok di sini, dan jika Anda pergi di jalan sekarang dan kemudian, Anda dapat membangunnya.
+    sinonim dengan njampong
+  en: there is a hut here, and if you go on the road now and then, you can build it. Synonymous with njampong
+  nl: vervaardigt hier eene hut, als ge u nu en dan op weg begeeft, kunt ge er aanleggen. Synoniem met
+    njampong
 etymology: ''
 related_words:
 - nyampang
 dialect_notes: ''
 source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
-  Pendidikan dan Kebudayaan, 1985, hlm. 326'
+  Pendidikan dan Kebudayaan, 1985, hlm. 326; K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage:
+  Martinus Nijhoff, voor het Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië,
+  1889, hlm. 84'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
 extraction_notes: 'Source gives this only as a cross-reference (→ nyampang); no independent definition
   is printed, so meaning fields are left blank rather than guessed. Jawi left blank: the source is Latin-script
-  only and no Jawi form is printed for this entry. Part of speech not stated in the source; left blank.'
+  only and no Jawi form is printed for this entry. Part of speech not stated in the source; left blank.
+  | Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each headword);
+  not AI-generated. `modern_spelling` “jampang” is an AI-supplied transposition of the 1889 orthography
+  (oe->u, dj->j, tj->c, nj->ny, ë->eu); it is NOT from the source and needs checking before it is used
+  to match the 1985 dictionary. Indonesian and English were produced by machine translation of van Langen''s
+  Dutch (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl` for verification;
+  the rendering is not from the source and needs a human check. Part of speech not stated in the source;
+  left blank.'

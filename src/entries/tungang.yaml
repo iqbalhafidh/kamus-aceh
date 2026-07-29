@@ -1,17 +1,50 @@
-headword: tungang
-jawi: ''
+headword: toengang
+jawi: تُوغْغْ
 alt_spelling: []
 ipa: ''
 part_of_speech: ''
 definitions:
 - meaning_id: keras kepala
-  meaning_en: stubborn
-examples: []
+  meaning_en: stiff-headed, stubborn
+  meaning_nl: stijfhoofdig, koppig
+- meaning_id: parfum bau
+  meaning_en: perfumes of odor
+  meaning_nl: doordringend van reuk
+examples:
+- aceh: hai
+  aceh_1889: hai
+  jawi: ''
+  id: gata pakon toengang tēhat han tapatēh narit gob, hé! Mengapa kau begitu keras kepala dan Anda tidak
+    ingin mendengarkan nasihat laki-laki?
+  en: gata pakon toengang tēhat han tapatēh narit gob, hé! Why are you so stubborn and you do not want
+    to listen to the advice of men?
+  nl: gata pakon toengang tēhat han tapatēh narit gob, hé! gij daar, waarom zijt ge zoo stijfhoofdig en
+    wilt ge niet naar der menschen raad hooren?
+- aceh: poee bee di sinoi tungang tehat
+  aceh_1889: poēē bée di sinoi toengang tēhat
+  jawi: ''
+  id: apa itu bau menusuk di sini?
+  en: what is that piercing smell here?
+  nl: wat is dat voor een doordringenden reuk hier?
 etymology: ''
 related_words: []
 dialect_notes: ''
-source: 'Daud, Bukhari & Mark Durie. Kamus Basa Acèh = Kamus Bahasa Aceh: Acehnese–Indonesian–English Thesaurus.
-  Pacific Linguistics C-151, 1999, p. 49.'
-date_added: '2026-07-20'
+source: 'K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage: Martinus Nijhoff, voor het
+  Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië, 1889, hlm. 69'
+date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: ''
+language_uncertain: false
+modern_spelling: tungang
+extraction_notes: 'Homonym I in the source (printed as a numeral before the headword). Jawi copied verbatim
+  from the printed source (van Langen prints the Jawi form for each headword); not AI-generated. `modern_spelling`
+  “tungang” is an AI-supplied transposition of the 1889 orthography (oe->u, dj->j, tj->c, nj->ny, ë->eu);
+  it is NOT from the source and needs checking before it is used to match the 1985 dictionary. Indonesian
+  and English were produced by machine translation of van Langen''s Dutch (Dutch→English→Indonesian, OPUS-MT).
+  The Dutch original is kept in `meaning_nl`/`nl` for verification; the rendering is not from the source
+  and needs a human check. Part of speech not stated in the source; left blank. | Homonym II in the source
+  (printed as a numeral before the headword). Jawi left blank: no Jawi form is printed for this entry.
+  `modern_spelling` “tungang” is an AI-supplied transposition of the 1889 orthography (oe->u, dj->j, tj->c,
+  nj->ny, ë->eu); it is NOT from the source and needs checking before it is used to match the 1985 dictionary.
+  Indonesian and English were produced by machine translation of van Langen''s Dutch (Dutch→English→Indonesian,
+  OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl` for verification; the rendering is not from
+  the source and needs a human check. Part of speech not stated in the source; left blank.'

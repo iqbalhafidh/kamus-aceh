@@ -1,11 +1,15 @@
 headword: prèh
-jawi: ''
-alt_spelling: []
+jawi: قَرِيْه
+alt_spelling:
+- prēh
 ipa: ''
 part_of_speech: v
 definitions:
 - meaning_id: menunggu, menanti
   meaning_en: wait, later
+- meaning_id: tunggu
+  meaning_en: wait
+  meaning_nl: wachten
 examples:
 - aceh: lôn geupuprèh lé gobnyan h'an geubiri woe reujang
   jawi: ''
@@ -19,12 +23,32 @@ examples:
   jawi: ''
   id: sudah dipersiapkan orang-orang
   en: ''
+- aceh: preh dilee
+  aceh_1889: prēh dilée
+  jawi: ''
+  id: tunggu sebentar
+  en: wait a minute
+  nl: wacht even
+- aceh: preh siat
+  aceh_1889: prēh siat
+  jawi: ''
+  id: tunggu sebentar
+  en: wait a moment
+  nl: wacht een oogenblik
 etymology: ''
 related_words: []
 dialect_notes: ''
 source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
-  Pendidikan dan Kebudayaan, 1985, hlm. 738'
+  Pendidikan dan Kebudayaan, 1985, hlm. 738; K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage:
+  Martinus Nijhoff, voor het Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië,
+  1889, hlm. 183'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
 extraction_notes: 'Jawi left blank: the source is Latin-script only and no Jawi form is printed for this
-  entry.'
+  entry. | Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each headword);
+  not AI-generated. `modern_spelling` “preh” is an AI-supplied transposition of the 1889 orthography (oe->u,
+  dj->j, tj->c, nj->ny, ë->eu); it is NOT from the source and needs checking before it is used to match
+  the 1985 dictionary. Indonesian and English were produced by machine translation of van Langen''s Dutch
+  (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl` for verification;
+  the rendering is not from the source and needs a human check. Part of speech not stated in the source;
+  left blank.'

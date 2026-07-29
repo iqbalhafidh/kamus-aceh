@@ -1,6 +1,7 @@
 headword: mula
-jawi: ''
-alt_spelling: []
+jawi: مولا
+alt_spelling:
+- moela
 ipa: ''
 part_of_speech: n
 definitions:
@@ -8,6 +9,12 @@ definitions:
   meaning_en: beginning, base, origin, again, beginning (in hikayat)
 - meaning_id: lobak
   meaning_en: radish
+- meaning_id: awal, asal
+  meaning_en: start, origin
+  meaning_nl: begin, oorsprong, aanvang
+- meaning_id: lobak
+  meaning_en: radishes, lobak
+  meaning_nl: radijs, lobak
 examples:
 - aceh: phôn-phôn
   jawi: ''
@@ -21,6 +28,12 @@ examples:
   jawi: ''
   id: (buah) lobak
   en: radish (fruit)
+- aceh: mula pehun-pehun gepeduk pakat pocut mohamad geboh keraja
+  aceh_1889: moela pēhoen-pēhoen gēpēdoek pakat Potjoet Mohamad gēboh kēradja
+  jawi: ''
+  id: di awal, mereka berbicara, untuk membuat Potjoet Mohamad pangeran
+  en: at the beginning, they were conversing, to make Potjoet Mohamad prince
+  nl: in den aanvang zaten zij te overleggen, om Potjoet Mohamad tot vorst aan te stellen
 etymology: ''
 related_words:
 - jadi
@@ -28,10 +41,25 @@ related_words:
 dialect_notes: 'Marked (dl hik) in the source: attested in hikayat, the classical Acehnese narrative verse
   register.'
 source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
-  Pendidikan dan Kebudayaan, 1985, hlm. 617'
+  Pendidikan dan Kebudayaan, 1985, hlm. 617; K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage:
+  Martinus Nijhoff, voor het Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië,
+  1889, hlm. 267'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
 extraction_notes: 'Homonym 1 in the source (printed as a superscript numeral before the headword). Jawi
   left blank: the source is Latin-script only and no Jawi form is printed for this entry. | Homonym 2
   in the source (printed as a superscript numeral before the headword). Jawi left blank: the source is
-  Latin-script only and no Jawi form is printed for this entry.'
+  Latin-script only and no Jawi form is printed for this entry. | Homonym I in the source (printed as
+  a numeral before the headword). Jawi copied verbatim from the printed source (van Langen prints the
+  Jawi form for each headword); not AI-generated. `modern_spelling` “mula” is an AI-supplied transposition
+  of the 1889 orthography (oe->u, dj->j, tj->c, nj->ny, ë->eu); it is NOT from the source and needs checking
+  before it is used to match the 1985 dictionary. Indonesian and English were produced by machine translation
+  of van Langen''s Dutch (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl`
+  for verification; the rendering is not from the source and needs a human check. Part of speech not stated
+  in the source; left blank. | Homonym II in the source (printed as a numeral before the headword). Jawi
+  left blank: no Jawi form is printed for this entry. `modern_spelling` “mula” is an AI-supplied transposition
+  of the 1889 orthography (oe->u, dj->j, tj->c, nj->ny, ë->eu); it is NOT from the source and needs checking
+  before it is used to match the 1985 dictionary. Indonesian and English were produced by machine translation
+  of van Langen''s Dutch (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl`
+  for verification; the rendering is not from the source and needs a human check. Part of speech not stated
+  in the source; left blank.'

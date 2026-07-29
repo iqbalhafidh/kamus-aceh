@@ -1,0 +1,31 @@
+headword: sabas
+jawi: سَابِس
+alt_spelling: []
+ipa: ''
+part_of_speech: ''
+definitions:
+- meaning_id: dengan menunjukkan tindakan buruk orang lain mencoba untuk datang ke dalam mendukung
+  meaning_en: by indicating bad actions of others trying to come into favor
+  meaning_nl: door het aangeven van slechte handelingen van anderen in gunst trachten te komen
+- meaning_id: dalam anak-anak yang belum bisa berbicara, undangan untuk memberikan sesuatu
+  meaning_en: in children who are not yet able to speak, an invitation to deliver something
+  meaning_nl: bij kinderen, die nog niet praten kunnen, eene uitnoodiging om iets af te geven
+examples: []
+etymology: ''
+related_words: []
+dialect_notes: ''
+source: 'K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage: Martinus Nijhoff, voor het
+  Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië, 1889, hlm. 135'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+language_uncertain: false
+modern_spelling: sabas
+extraction_notes: 'Homonym I in the source (printed as a numeral before the headword). Jawi copied verbatim
+  from the printed source (van Langen prints the Jawi form for each headword); not AI-generated. Indonesian
+  and English were produced by machine translation of van Langen''s Dutch (Dutch→English→Indonesian, OPUS-MT).
+  The Dutch original is kept in `meaning_nl`/`nl` for verification; the rendering is not from the source
+  and needs a human check. Part of speech not stated in the source; left blank. | Homonym II in the source
+  (printed as a numeral before the headword). Jawi left blank: no Jawi form is printed for this entry.
+  Indonesian and English were produced by machine translation of van Langen''s Dutch (Dutch→English→Indonesian,
+  OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl` for verification; the rendering is not from
+  the source and needs a human check. Part of speech not stated in the source; left blank.'

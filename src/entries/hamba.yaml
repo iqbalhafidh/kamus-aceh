@@ -6,6 +6,9 @@ part_of_speech: n
 definitions:
 - meaning_id: hamba, hamba sahaya, budak
   meaning_en: servant, servant slave, slave
+- meaning_id: budak, hamba, subjek, tunduk
+  meaning_en: slave, servant, subject, submissive
+  meaning_nl: slaaf, dienaar, onderdaan, onderhoorige
 examples:
 - aceh: Allah
   jawi: ''
@@ -27,11 +30,17 @@ related_words:
 - ulon
 dialect_notes: ''
 source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
-  Pendidikan dan Kebudayaan, 1985, hlm. 278'
+  Pendidikan dan Kebudayaan, 1985, hlm. 278; K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage:
+  Martinus Nijhoff, voor het Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië,
+  1889, hlm. 281'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
 language_uncertain: true
 extraction_notes: 'Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate
   reviewer. Language flagged uncertain: this is an Arabic loanword shared with Indonesian. It is listed
   as a headword in an Acehnese dictionary, so it is treated as naturalised Acehnese, but a reviewer should
-  confirm.'
+  confirm. | Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each headword);
+  not AI-generated. Indonesian and English were produced by machine translation of van Langen''s Dutch
+  (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl` for verification;
+  the rendering is not from the source and needs a human check. Part of speech not stated in the source;
+  left blank.'

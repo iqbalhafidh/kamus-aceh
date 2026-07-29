@@ -1,18 +1,33 @@
 headword: mala
-jawi: ''
+jawi: ملا
 alt_spelling: []
 ipa: ''
 part_of_speech: a
 definitions:
 - meaning_id: mala, layu suram hampir padam
   meaning_en: misfortune, faded, dim, almost out
-examples: []
+- meaning_id: liar, berwarna, tak berbau
+  meaning_en: wilted, colored, odorless
+  meaning_nl: verwelkt, verflenst, geurloos
+examples:
+- aceh: bungong melur nyoi ka mala hana gej le
+  aceh_1889: boengong méloer njoi ka mala hana gédj lé
+  jawi: ''
+  id: melatibloem ini sudah layu dan tidak baik lagi
+  en: this melatibloem is already wilted and not well anymore
+  nl: deze melatibloem is reeds verwelkt en niet goed meer
 etymology: ''
 related_words: []
 dialect_notes: ''
 source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
-  Pendidikan dan Kebudayaan, 1985, hlm. 569'
+  Pendidikan dan Kebudayaan, 1985, hlm. 569; K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage:
+  Martinus Nijhoff, voor het Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië,
+  1889, hlm. 263'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
 extraction_notes: 'Jawi left blank: the source is Latin-script only and no Jawi form is printed for this
-  entry.'
+  entry. | Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each headword);
+  not AI-generated. Indonesian and English were produced by machine translation of van Langen''s Dutch
+  (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl` for verification;
+  the rendering is not from the source and needs a human check. Part of speech not stated in the source;
+  left blank.'

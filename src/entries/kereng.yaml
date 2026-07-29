@@ -1,0 +1,30 @@
+headword: kêrêng
+jawi: کرغ
+alt_spelling: []
+ipa: ''
+part_of_speech: n
+definitions:
+- meaning_id: 'sejenis kerang air asin dimakan. spesies ini shellfish adalah: genoekoer, gading dan nipah,
+    turneng fonding manis koewah, turneng nipah poetih asoi pantoen) Translasi yang hilang'
+  meaning_en: 'a kind of edible saltwater shellfish. Species of these shellfish are: genoekoer, gading
+    and nipah, turneng fonding manis koewah, turneng nipah poetih asoi pantoen) [translation missing]'
+  meaning_nl: 'een soort van eetbaar zoutwaterschelpdier. Soorten van die schelpdieren zijn: gênoekoer,
+    gading en nipah, kêrêng gading manis koewah, kêrêng nipah poetih asoi. Si Njak Poetih boentoeng toewah,
+    Si Njak Isa loen toeng boewêt djaroi. (Atj. pantoen) [vertaling ontbreekt]. کراê kêrang, broos, sprokkig,
+    van goud en ijzer'
+examples: []
+etymology: ''
+related_words: []
+dialect_notes: ''
+source: 'K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage: Martinus Nijhoff, voor het
+  Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië, 1889, hlm. 205'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+language_uncertain: false
+modern_spelling: kereng
+extraction_notes: Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each
+  headword); not AI-generated. `modern_spelling` “kereng” is an AI-supplied transposition of the 1889
+  orthography (oe->u, dj->j, tj->c, nj->ny, ë->eu); it is NOT from the source and needs checking before
+  it is used to match the 1985 dictionary. Indonesian and English were produced by machine translation
+  of van Langen's Dutch (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl`
+  for verification; the rendering is not from the source and needs a human check.

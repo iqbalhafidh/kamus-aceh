@@ -1,0 +1,26 @@
+headword: gadong
+jawi: كادوغ
+alt_spelling: []
+ipa: ''
+part_of_speech: n
+definitions:
+- meaning_id: 'spesies buah bumi yang besar dan bisa dimakan. spesies buah-buahan ini adalah: gadong lëkat,
+    gadong kemerahan, gadong primal, gadong putih dan addong, gadong hitam'
+  meaning_en: 'a species of large and edible earth fruit. Species of these fruits are: gadong lëkat, the
+    reddish gadong, gadong primal, the white gadong and gadong addong, the black gadong'
+  meaning_nl: 'een soort van groote en eetbare aardvrucht. Soorten van die aardvruchten zijn: gadong lëkat,
+    de roodachtige gadong, gadong oer, de witte gadong en gadong adong, de zwarte gadong'
+examples: []
+etymology: ''
+related_words: []
+dialect_notes: ''
+source: 'K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage: Martinus Nijhoff, voor het
+  Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië, 1889, hlm. 220'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+language_uncertain: false
+modern_spelling: gadong
+extraction_notes: Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each
+  headword); not AI-generated. Indonesian and English were produced by machine translation of van Langen's
+  Dutch (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl` for verification;
+  the rendering is not from the source and needs a human check.

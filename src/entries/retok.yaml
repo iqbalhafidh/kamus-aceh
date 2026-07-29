@@ -1,0 +1,34 @@
+headword: retok
+jawi: رتوق
+alt_spelling: []
+ipa: ''
+part_of_speech: ''
+definitions:
+- meaning_id: gerakan lambat, seperti berjalan ke mana yang merasa mampu setelah pemulihan penyakit parah
+  meaning_en: slow movement, such as walking to which one feels able after recovery of a severe illness
+  meaning_nl: langzame beweging, zoo als loopen waartoe men na herstel eener zware ziekte zich in staat
+    gevoelt
+examples:
+- aceh: lun sakit baroi han ik lun jak saho
+  aceh_1889: loen sakit baroi han ik loen djak saho
+  jawi: ''
+  id: tētapi droi njoi i loen rētok batjoet-batjoet, saya sakit kemarin dan tidak dapat pergi ke mana
+    pun, tapi hari ini saya merasa kuat untuk berjalan sedikit
+  en: tētapi droi njoi i loen rētok batjoet-batjoet, I was sick yesterday and unable to go anywhere, but
+    today I feel strong to walk a little
+  nl: tētapi droi njoi ik loen rētok batjoet-batjoet, ik was gisteren ziek en niet in staat ergens heen
+    te gaan, doch heden voel ik mij sterk om een weinig te loopen
+etymology: ''
+related_words: []
+dialect_notes: ''
+source: 'K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage: Martinus Nijhoff, voor het
+  Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië, 1889, hlm. 123'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+language_uncertain: false
+modern_spelling: retok
+extraction_notes: Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each
+  headword); not AI-generated. Indonesian and English were produced by machine translation of van Langen's
+  Dutch (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl` for verification;
+  the rendering is not from the source and needs a human check. Part of speech not stated in the source;
+  left blank.

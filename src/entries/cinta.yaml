@@ -1,0 +1,35 @@
+headword: tjinta
+jawi: چينت
+alt_spelling: []
+ipa: ''
+part_of_speech: ''
+definitions:
+- meaning_id: cinta
+  meaning_en: love
+  meaning_nl: liefde
+- meaning_id: mëtjinta, pikiran memiliki memenuhi sesuatu
+  meaning_en: mëtjinta, the thought of having fulfilled something
+  meaning_nl: mëtjinta, de gedachte van iets vervuld te hebben
+- meaning_id: tjinta bërëhi, cinta mart
+  meaning_en: tjinta bërëhi, love mart
+  meaning_nl: tjinta bërëhi, liefdesmart
+- meaning_id: tjinta goena, terima kasih
+  meaning_en: tjinta goena, gratitude
+  meaning_nl: tjinta goena, dankbaarheid
+examples: []
+etymology: ''
+related_words: []
+dialect_notes: ''
+source: 'K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage: Martinus Nijhoff, voor het
+  Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië, 1889, hlm. 102'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+language_uncertain: false
+modern_spelling: cinta
+extraction_notes: Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each
+  headword); not AI-generated. `modern_spelling` “cinta” is an AI-supplied transposition of the 1889 orthography
+  (oe->u, dj->j, tj->c, nj->ny, ë->eu); it is NOT from the source and needs checking before it is used
+  to match the 1985 dictionary. Indonesian and English were produced by machine translation of van Langen's
+  Dutch (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl` for verification;
+  the rendering is not from the source and needs a human check. Part of speech not stated in the source;
+  left blank.

@@ -1,20 +1,42 @@
 headword: asah
-jawi: ''
+jawi: اسع
 alt_spelling: []
 ipa: ''
 part_of_speech: ''
 definitions:
-- meaning_id: asah, canai
-  meaning_en: whet
-- meaning_id: asah
-  meaning_en: whet
-examples: []
+- meaning_id: menggiling, hukum, menghidupkan
+  meaning_en: grinding, Laws, Turn on
+  meaning_nl: slijpen, wetten, aanzetten
+examples:
+- aceh: asah seukin bacut
+  aceh_1889: asah sëkin batjoet
+  jawi: ''
+  id: mempertajam sëkin saya
+  en: sharpens my sëkin
+  nl: slijpt mijn sëkin even
+- aceh: asah gigoi
+  aceh_1889: asah gigoi
+  jawi: ''
+  id: pertajam gigi
+  en: sharpen the teeth
+  nl: de tanden afslijpen
+- aceh: meuasah
+  aceh_1889: mëasah
+  jawi: ''
+  id: melakukan grinding
+  en: doing grinding
+  nl: het bezig zijn met slijpen
 etymology: ''
-related_words:
-- canè
+related_words: []
 dialect_notes: ''
-source: 'Daud, Bukhari & Mark Durie. Kamus Basa Acèh = Kamus Bahasa Aceh: Acehnese–Indonesian–English Thesaurus.
-  Pacific Linguistics C-151, 1999, p. 42; p. 46; p. 66.'
-date_added: '2026-07-20'
+source: 'K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage: Martinus Nijhoff, voor het
+  Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië, 1889, hlm. 5'
+date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: ''
+language_uncertain: false
+modern_spelling: asah
+extraction_notes: Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each
+  headword); not AI-generated. Indonesian and English were produced by machine translation of van Langen's
+  Dutch (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl` for verification;
+  the rendering is not from the source and needs a human check. Part of speech not stated in the source;
+  left blank.

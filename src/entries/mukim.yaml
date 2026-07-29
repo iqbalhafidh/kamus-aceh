@@ -1,18 +1,42 @@
 headword: mukim
-jawi: ''
-alt_spelling: []
+jawi: مقیم
+alt_spelling:
+- moekim
 ipa: ''
 part_of_speech: n
 definitions:
 - meaning_id: daerah lingkungan mesjid
   meaning_en: district surroundings mosque
+- meaning_id: distrik Kekaisaran Aceh
+  meaning_en: a district of the Aceh Empire
+  meaning_nl: een district van het Atjehsche rijk
+- meaning_id: memang, penduduk umum dari suatu daerah yang wajib untuk melakukan pelayanan Jumat di masjid
+    tertentu
+  meaning_en: indeed, the common inhabitants of a region who are obliged to perform Friday service in
+    a certain mosque
+  meaning_nl: inderdaad de gezamenlijke inwoners van eene streek, die verplicht zijn, den vrijdagsdienst
+    in eene bepaalde moskee te verrichten
+- meaning_id: chervil
+  meaning_en: chervil
+  meaning_nl: kerspel
+- meaning_id: lihat moekim
+  meaning_en: see moekim
+  meaning_nl: zie مقيم moekim
 examples: []
 etymology: ''
 related_words: []
 dialect_notes: ''
 source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
-  Pendidikan dan Kebudayaan, 1985, hlm. 616'
+  Pendidikan dan Kebudayaan, 1985, hlm. 616; K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage:
+  Martinus Nijhoff, voor het Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië,
+  1889, hlm. 262, 267'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
 extraction_notes: 'Jawi left blank: the source is Latin-script only and no Jawi form is printed for this
-  entry.'
+  entry. | Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each headword);
+  not AI-generated. `modern_spelling` “mukim” is an AI-supplied transposition of the 1889 orthography
+  (oe->u, dj->j, tj->c, nj->ny, ë->eu); it is NOT from the source and needs checking before it is used
+  to match the 1985 dictionary. Indonesian and English were produced by machine translation of van Langen''s
+  Dutch (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl` for verification;
+  the rendering is not from the source and needs a human check. Part of speech not stated in the source;
+  left blank.'

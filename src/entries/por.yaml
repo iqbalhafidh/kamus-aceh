@@ -1,18 +1,43 @@
 headword: pôr
-jawi: ''
-alt_spelling: []
+jawi: قَر
+alt_spelling:
+- por
 ipa: ''
 part_of_speech: ''
-definitions: []
-examples: []
+definitions:
+- meaning_id: lalat
+  meaning_en: flies
+  meaning_nl: vliegen
+- meaning_id: poepor, knalpot
+  meaning_en: poepor, exhaust
+  meaning_nl: poepor, oplaten
+- meaning_id: poepor gēlajang, siapkan layangan
+  meaning_en: poepor gēlajang, let up a kite
+  meaning_nl: poepor gēlajang, een vlieger oplaten
+examples:
+- aceh: tajak u blang pupor gelajang
+  aceh_1889: tadjak oe blang poepor gēlajang
+  jawi: ''
+  id: tadoek di raffang taoeloer taloi tangoh Zoe langit na tjahja bintang, loen ngiēng raffang tjahja
+    adoi, (Atj)
+  en: tadoek di raffang taoeloer taloi tangoh oe langit na tjahja bintang, loen ngiēng oe raffang tjahja
+    moeka adoi, (Atj)
+  nl: tadoek di rangkang taoeloer taloi tangoh oe langit na tjahja bintang, loen ngiēng oe rangkang tjahja
+    moeka adoi, (Atj
 etymology: ''
 related_words:
 - pôt
 dialect_notes: ''
 source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
-  Pendidikan dan Kebudayaan, 1985, hlm. 735'
+  Pendidikan dan Kebudayaan, 1985, hlm. 735; K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage:
+  Martinus Nijhoff, voor het Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië,
+  1889, hlm. 180'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
 extraction_notes: 'Source gives this only as a cross-reference (→ pôt); no independent definition is printed,
   so meaning fields are left blank rather than guessed. Jawi left blank: the source is Latin-script only
-  and no Jawi form is printed for this entry. Part of speech not stated in the source; left blank.'
+  and no Jawi form is printed for this entry. Part of speech not stated in the source; left blank. | Jawi
+  copied verbatim from the printed source (van Langen prints the Jawi form for each headword); not AI-generated.
+  Indonesian and English were produced by machine translation of van Langen''s Dutch (Dutch→English→Indonesian,
+  OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl` for verification; the rendering is not from
+  the source and needs a human check. Part of speech not stated in the source; left blank.'

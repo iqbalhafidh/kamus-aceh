@@ -1,0 +1,33 @@
+headword: ampis
+jawi: امفيس
+alt_spelling: []
+ipa: ''
+part_of_speech: ''
+definitions:
+- meaning_id: barikade, penghalang
+  meaning_en: barricade, barrier
+  meaning_nl: versperren, versperring
+examples:
+- aceh: ta boh ampis bacut mangat ji ik ijer lam umong
+  aceh_1889: ta boh ampis batjoet mangat dji ik ijēr lam oemong
+  jawi: ''
+  id: buatlah penghalang kecil, sehingga air mudah naik di Sawah ěmpiēng, ayah muda, yang basah kuyup,
+    panggang, dicap, dibersihkan dan kemudian dimakan sebagai kelezatan; ara, bebek mawar
+  en: make a small barrier, so that the water easily rises in the Sawah. ěmpiēng, young padi, which is
+    soaked, roasted, stamped, purified and then eaten as a delicacy; ara, duck rose
+  nl: maak een kleine versperring, opdat het water gemakkelijk in de sawah stijge. امفيغ ěmpiēng, jonge
+    padi, die geweekt, geroost, gestampt, gezuiverd en daarna als lekkernij wordt gegeten; — ara, eendenkroos
+etymology: ''
+related_words: []
+dialect_notes: ''
+source: 'K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage: Martinus Nijhoff, voor het
+  Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië, 1889, hlm. 11'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+language_uncertain: false
+modern_spelling: ampis
+extraction_notes: Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each
+  headword); not AI-generated. Indonesian and English were produced by machine translation of van Langen's
+  Dutch (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl` for verification;
+  the rendering is not from the source and needs a human check. Part of speech not stated in the source;
+  left blank.

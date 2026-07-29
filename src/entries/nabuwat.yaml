@@ -1,0 +1,35 @@
+headword: naboewat
+jawi: نبوة
+alt_spelling: []
+ipa: ''
+part_of_speech: ''
+definitions:
+- meaning_id: ramalan
+  meaning_en: prophethood
+  meaning_nl: profeetschap
+- meaning_id: bahroennaboewat, sebuah jimat untuk kebal
+  meaning_en: bahroennaboewat, an amulet for invulnerability
+  meaning_nl: bahroennaboewat, een amulet voor onkwetsbaarheid
+examples:
+- aceh: soi jang na ngoi bahrunnabuwat han lut geupeuhet dalam mata
+  aceh_1889: soi jang na ngoi bahroennaboewat han loet gëpëhet dalam mata
+  jawi: ''
+  id: siapa itu bahroennaboewat?
+  en: who's a bahroennaboewat
+  nl: wie een bahroennaboewat
+etymology: ''
+related_words: []
+dialect_notes: ''
+source: 'K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage: Martinus Nijhoff, voor het
+  Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië, 1889, hlm. 271'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+language_uncertain: false
+modern_spelling: nabuwat
+extraction_notes: Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each
+  headword); not AI-generated. `modern_spelling` “nabuwat” is an AI-supplied transposition of the 1889
+  orthography (oe->u, dj->j, tj->c, nj->ny, ë->eu); it is NOT from the source and needs checking before
+  it is used to match the 1985 dictionary. Indonesian and English were produced by machine translation
+  of van Langen's Dutch (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl`
+  for verification; the rendering is not from the source and needs a human check. Part of speech not stated
+  in the source; left blank.

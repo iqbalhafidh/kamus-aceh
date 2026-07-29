@@ -1,0 +1,31 @@
+headword: tjaram
+jawi: چارم
+alt_spelling: []
+ipa: ''
+part_of_speech: ''
+definitions:
+- meaning_id: saya ingin menunjukkan bahwa proposal Komisi Commission untuk arahan tentang pendekatan
+    hukum dari Amerika Member berhubungan dengan tingkat daya suara kendaraan dan trailer mereka adalah
+    salah satu yang baik. sinonim dengan tjnggrom
+  meaning_en: i would like to point out that the Commission's proposal for a directive on the approximation
+    of the laws of the Member States relating to the permissible sound power level of motor vehicles and
+    their trailers is a good one. Synonymous with tjnggrom
+  meaning_nl: geld, dat men vooruit geeft als men iets koopt ten bewijze dat de koop is gesloten. Synoniem
+    met tjnggrom
+examples: []
+etymology: ''
+related_words: []
+dialect_notes: ''
+source: 'K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage: Martinus Nijhoff, voor het
+  Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië, 1889, hlm. 90'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+language_uncertain: false
+modern_spelling: caram
+extraction_notes: Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each
+  headword); not AI-generated. `modern_spelling` “caram” is an AI-supplied transposition of the 1889 orthography
+  (oe->u, dj->j, tj->c, nj->ny, ë->eu); it is NOT from the source and needs checking before it is used
+  to match the 1985 dictionary. Indonesian and English were produced by machine translation of van Langen's
+  Dutch (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl` for verification;
+  the rendering is not from the source and needs a human check. Part of speech not stated in the source;
+  left blank.

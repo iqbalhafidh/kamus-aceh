@@ -1,6 +1,8 @@
 headword: ku
-jawi: ''
-alt_spelling: []
+jawi: كو
+alt_spelling:
+- kée
+- koe
 ipa: ''
 part_of_speech: n
 definitions:
@@ -8,6 +10,12 @@ definitions:
   meaning_en: father, second and third person
 - meaning_id: mengukur
   meaning_en: to measure
+- meaning_id: memperpendek Mal. akoe, aku, secara pribadi kata ganti. dari orang pertama, muncul lebih
+    dalam tulisan daripada dalam bahasa berbicara
+  meaning_en: shortening of the Mal. akoe, me, personally Pronoun. of the 1st person, appears more in
+    the writing than in the speaking language
+  meaning_nl: verkorting van 't Mal. akoe, ik, pers. voornw. van den 1en persoon, komt meer in de schrijf-
+    dan in de spreektaal voor
 examples:
 - aceh: hana ma hana ku
   jawi: ''
@@ -49,15 +57,29 @@ examples:
   jawi: ''
   id: melakukan kukur
   en: to perform grate
+- aceh: guna cokmar nyan ku pegah bak gata
+  aceh_1889: goena tjokmar njan koe pēgah bak gata
+  jawi: ''
+  id: aku akan menyatakan kepadamu penggunaan prajurit ini
+  en: i will declare to thee the use of these warriors
+  nl: het nut van dien strijdknods zal ik U verklaren
 etymology: ''
 related_words:
 - geunuku
 dialect_notes: ''
 source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
-  Pendidikan dan Kebudayaan, 1985, hlm. 456'
+  Pendidikan dan Kebudayaan, 1985, hlm. 456; K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage:
+  Martinus Nijhoff, voor het Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië,
+  1889, hlm. 213'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
 extraction_notes: 'Homonym 2 in the source (printed as a superscript numeral before the headword). Jawi
   left blank: the source is Latin-script only and no Jawi form is printed for this entry. | Homonym 3
   in the source (printed as a superscript numeral before the headword). Jawi left blank: the source is
-  Latin-script only and no Jawi form is printed for this entry.'
+  Latin-script only and no Jawi form is printed for this entry. | Jawi copied verbatim from the printed
+  source (van Langen prints the Jawi form for each headword); not AI-generated. `modern_spelling` “ku”
+  is an AI-supplied transposition of the 1889 orthography (oe->u, dj->j, tj->c, nj->ny, ë->eu); it is
+  NOT from the source and needs checking before it is used to match the 1985 dictionary. Indonesian and
+  English were produced by machine translation of van Langen''s Dutch (Dutch→English→Indonesian, OPUS-MT).
+  The Dutch original is kept in `meaning_nl`/`nl` for verification; the rendering is not from the source
+  and needs a human check. Part of speech not stated in the source; left blank.'

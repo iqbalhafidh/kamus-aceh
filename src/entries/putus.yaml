@@ -1,0 +1,41 @@
+headword: poetoes
+jawi: قُوتُوس
+alt_spelling: []
+ipa: ''
+part_of_speech: ''
+definitions:
+- meaning_id: patah, patah sepotong, tali
+  meaning_en: breaking, broken, broken piece, of rope
+  meaning_nl: breken, gebroken, afgebroken stuk, van touw
+- meaning_id: geëindigd, memutuskan sebuah kasus
+  meaning_en: geëindigd, decided on a case
+  meaning_nl: geëindigd, beslist, van eene zaak
+- meaning_id: poetoes ijoem, membuat harga
+  meaning_en: poetoes ijoem, making the price
+  meaning_nl: poetoes ijoem, den prijs uitmaken
+- meaning_id: poetoes njawong, kehilangan hidupmu
+  meaning_en: poetoes njawong, losing your life
+  meaning_nl: poetoes njawong, het leven verliezen
+- meaning_id: poetoes narit, memecahkan cerita
+  meaning_en: poetoes narit, break a story
+  meaning_nl: poetoes narit, een verhaal afbreken
+- meaning_id: chabar poetoes, hapus pesan
+  meaning_en: poetoes chabar, abort message
+  meaning_nl: poetoes chabar, het bericht afbreken
+examples: []
+etymology: ''
+related_words: []
+dialect_notes: ''
+source: 'K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage: Martinus Nijhoff, voor het
+  Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië, 1889, hlm. 189'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+language_uncertain: false
+modern_spelling: putus
+extraction_notes: Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each
+  headword); not AI-generated. `modern_spelling` “putus” is an AI-supplied transposition of the 1889 orthography
+  (oe->u, dj->j, tj->c, nj->ny, ë->eu); it is NOT from the source and needs checking before it is used
+  to match the 1985 dictionary. Indonesian and English were produced by machine translation of van Langen's
+  Dutch (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl` for verification;
+  the rendering is not from the source and needs a human check. Part of speech not stated in the source;
+  left blank.

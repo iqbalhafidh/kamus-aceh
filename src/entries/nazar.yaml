@@ -1,0 +1,30 @@
+headword: nazar
+jawi: نزر
+alt_spelling: []
+ipa: ''
+part_of_speech: ''
+definitions:
+- meaning_id: '{\ cHffffff} Berkorban?'
+  meaning_en: sacrifice[?] to obtain one's intercession
+  meaning_nl: offeren[?] om iemands voorbede te verkrijgen
+examples:
+- aceh: nazar lun bak tengku di kuwala si hidang bur kunyit
+  aceh_1889: nazar loen bak Tèngkoe di Koewala si hidang boer koenjit
+  jawi: ''
+  id: pengorbananku untuk Tengkoe di Koewala adalah piring beras kuning
+  en: my sacrifice to Tengkoe di Koewala is a dish of yellow rice
+  nl: mijn offer aan Tengkoe di Koewala is een schotel gele rijst
+etymology: ''
+related_words: []
+dialect_notes: ''
+source: 'K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage: Martinus Nijhoff, voor het
+  Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië, 1889, hlm. 272'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+language_uncertain: false
+modern_spelling: nazar
+extraction_notes: Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each
+  headword); not AI-generated. Indonesian and English were produced by machine translation of van Langen's
+  Dutch (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl` for verification;
+  the rendering is not from the source and needs a human check. Part of speech not stated in the source;
+  left blank.

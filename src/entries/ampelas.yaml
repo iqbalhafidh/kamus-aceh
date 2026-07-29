@@ -1,0 +1,32 @@
+headword: ampélas
+jawi: امفلس
+alt_spelling: []
+ipa: ''
+part_of_speech: ''
+definitions:
+- meaning_id: berpoles, berkilau, bersinar
+  meaning_en: polishing, glossing, shining
+  meaning_nl: polijsten, glanzen, glans geven
+examples:
+- aceh: mar geampelas jeroh tehat rupa
+  aceh_1889: mar gēampēlas djeroh tēhat roepa
+  jawi: ''
+  id: kita akan memoles sampai terlihat bersih
+  en: we'll polish it until it looks clean
+  nl: wij zullen het polijsten, totdat het er schoon uitziet
+etymology: ''
+related_words: []
+dialect_notes: ''
+source: 'K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage: Martinus Nijhoff, voor het
+  Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië, 1889, hlm. 10'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+language_uncertain: false
+modern_spelling: ampelas
+extraction_notes: Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each
+  headword); not AI-generated. `modern_spelling` “ampelas” is an AI-supplied transposition of the 1889
+  orthography (oe->u, dj->j, tj->c, nj->ny, ë->eu); it is NOT from the source and needs checking before
+  it is used to match the 1985 dictionary. Indonesian and English were produced by machine translation
+  of van Langen's Dutch (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl`
+  for verification; the rendering is not from the source and needs a human check. Part of speech not stated
+  in the source; left blank.

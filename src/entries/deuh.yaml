@@ -1,20 +1,44 @@
-headword: deuh
-jawi: ''
+headword: dëh
+jawi: دِيَه
 alt_spelling: []
 ipa: ''
 part_of_speech: ''
 definitions:
-- meaning_id: terdengar
-  meaning_en: audible
-- meaning_id: tampak, dapat dilihat
-  meaning_en: visible, appear
-examples: []
+- meaning_id: di sana, di sana, tidak terjadi secara terpisah tapi dalam komposisi
+  meaning_en: there, over there, does not occur separately but in compositions
+  meaning_nl: daar, ginds, komt niet afzonderlijk, doch in samenstellingen voor
+examples:
+- aceh: keudeuh
+  aceh_1889: këdëh
+  jawi: ''
+  id: di sana
+  en: over there
+  nl: derwaarts, daarginds
+- aceh: beulah deuh
+  aceh_1889: bëlah dëh
+  jawi: ''
+  id: di sebelah sana
+  en: on over there side
+  nl: aan gindschen kant
+- aceh: neudeuh
+  aceh_1889: nëdëh
+  jawi: ''
+  id: di sisi ini
+  en: on this side
+  nl: aan dezen kant
 etymology: ''
-related_words:
-- leumah
+related_words: []
 dialect_notes: ''
-source: 'Daud, Bukhari & Mark Durie. Kamus Basa Acèh = Kamus Bahasa Aceh: Acehnese–Indonesian–English Thesaurus.
-  Pacific Linguistics C-151, 1999, p. 33.'
-date_added: '2026-07-20'
+source: 'K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage: Martinus Nijhoff, voor het
+  Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië, 1889, hlm. 116'
+date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: ''
+language_uncertain: false
+modern_spelling: deuh
+extraction_notes: Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each
+  headword); not AI-generated. `modern_spelling` “deuh” is an AI-supplied transposition of the 1889 orthography
+  (oe->u, dj->j, tj->c, nj->ny, ë->eu); it is NOT from the source and needs checking before it is used
+  to match the 1985 dictionary. Indonesian and English were produced by machine translation of van Langen's
+  Dutch (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl` for verification;
+  the rendering is not from the source and needs a human check. Part of speech not stated in the source;
+  left blank.

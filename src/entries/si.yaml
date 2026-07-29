@@ -1,32 +1,85 @@
 headword: si
-jawi: ''
+jawi: سوي
 alt_spelling: []
 ipa: ''
-part_of_speech: p
+part_of_speech: ''
 definitions:
-- meaning_id: se
-  meaning_en: one
-- meaning_id: menyikat
-  meaning_en: to brush
-- meaning_id: memberus
-  meaning_en: ''
+- meaning_id: adalah dalam arti sa dalam nomor sederhana dan komposit
+  meaning_en: is in the sense of sa in simple and composite numbers
+  meaning_nl: komt voor in den zin van sa in eenvoudige en samengestelde telwoorden
+- meaning_id: datang untuk nama sendiri juga
+  meaning_en: comes for own names as well
+  meaning_nl: komt voor ook voor eigennamen,
 examples:
-- aceh: teupeuen
+- aceh: sipluh
+  aceh_1889: siploeh
   jawi: ''
-  id: penyikat benang lungsin
-  en: ''
-- aceh: meu si, teu si
+  id: sepuluh
+  en: ten
+  nl: tien
+- aceh: siblas
+  aceh_1889: siblas
   jawi: ''
-  id: disisir, disikat
-  en: ''
+  id: '11'
+  en: '11'
+  nl: elf
+- aceh: sikureung
+  aceh_1889: sikoerëng
+  jawi: ''
+  id: sembilan
+  en: nine
+  nl: negen
+- aceh: sikureung blas
+  aceh_1889: sikoerëng blas
+  jawi: ''
+  id: '19'
+  en: '19'
+  nl: negentien
+- aceh: sidroi
+  aceh_1889: sidroi
+  jawi: ''
+  id: seseorang
+  en: a person
+  nl: een persoon
+- aceh: sikeuhan
+  aceh_1889: sikëhan
+  jawi: ''
+  id: setengah, tapi di
+  en: half, but across
+  nl: de helft, doch overdwars
+- aceh: sibeulah
+  aceh_1889: sibëlah
+  jawi: ''
+  id: setengah tapi panjang
+  en: half but in length
+  nl: de helft, doch in de lengte
+- aceh: sikeurak
+  aceh_1889: sikërak
+  jawi: ''
+  id: satu bagian
+  en: one piece
+  nl: een stuk
+- aceh: si daud
+  aceh_1889: si Daoed
+  jawi: ''
+  id: si Doellah, si Djariah
+  en: si Doellah, si Djariah
+  nl: si Doellah, si Djariah
 etymology: ''
 related_words: []
 dialect_notes: ''
-source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
-  Pendidikan dan Kebudayaan, 1985, hlm. 875'
+source: 'K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage: Martinus Nijhoff, voor het
+  Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië, 1889, hlm. 160, 161'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: 'Homonym 1 in the source (printed as a superscript numeral before the headword). Jawi
-  left blank: the source is Latin-script only and no Jawi form is printed for this entry. | Homonym 4
-  in the source (printed as a superscript numeral before the headword). Jawi left blank: the source is
-  Latin-script only and no Jawi form is printed for this entry.'
+language_uncertain: false
+modern_spelling: si
+extraction_notes: 'Homonym I in the source (printed as a numeral before the headword). Jawi copied verbatim
+  from the printed source (van Langen prints the Jawi form for each headword); not AI-generated. Indonesian
+  and English were produced by machine translation of van Langen''s Dutch (Dutch→English→Indonesian, OPUS-MT).
+  The Dutch original is kept in `meaning_nl`/`nl` for verification; the rendering is not from the source
+  and needs a human check. Part of speech not stated in the source; left blank. | Homonym II in the source
+  (printed as a numeral before the headword). Jawi left blank: no Jawi form is printed for this entry.
+  Indonesian and English were produced by machine translation of van Langen''s Dutch (Dutch→English→Indonesian,
+  OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl` for verification; the rendering is not from
+  the source and needs a human check. Part of speech not stated in the source; left blank.'

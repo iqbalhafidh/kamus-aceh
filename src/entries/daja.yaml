@@ -1,0 +1,49 @@
+headword: daja
+jawi: دیا
+alt_spelling: []
+ipa: ''
+part_of_speech: ''
+definitions:
+- meaning_id: tipuan, curang, palsu
+  meaning_en: ruse, cheating, fake
+  meaning_nl: list, bedrog, verschalken, bedriegen
+- meaning_id: barat daja, barat daya
+  meaning_en: barat daja, southwest
+  meaning_nl: barat daja, zuidwesten
+- meaning_id: solatan daja, selatan-barat
+  meaning_en: selatan daja, south-south-west
+  meaning_nl: selatan daja, zuid-zuid-west
+- meaning_id: barat-barat daja, barat-selatan-barat
+  meaning_en: barat-barat daja, west-south-west
+  meaning_nl: barat-barat daja, west-zuid-west
+examples:
+- aceh: ku tipee saboh daja
+  aceh_1889: koe tipée saboh daja
+  jawi: ''
+  id: aku akan menipunya dengan tipu muslihat juga nama dari Atj
+  en: i will deceive him by a ruse. Also name of a Atj
+  nl: ik zal (hem) door een list bedriegen. Ook naam van een Atj
+- aceh: landstreek
+  aceh_1889: landstreek
+  jawi: ''
+  id: 'bernama: tipée daja, karena di daerah itu begitu banyak penipu dan penjahat ditemukan'
+  en: 'named: tipée daja, because in that region so many cheaters and crooks are found'
+  nl: 'genaamd: tipée daja, omdat in die streek zoovele bedriegers en oplichters worden aangetroffen'
+etymology: ''
+related_words: []
+dialect_notes: ''
+source: 'K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage: Martinus Nijhoff, voor het
+  Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië, 1889, hlm. 115'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+language_uncertain: false
+modern_spelling: daja
+extraction_notes: 'Homonym I in the source (printed as a numeral before the headword). Jawi copied verbatim
+  from the printed source (van Langen prints the Jawi form for each headword); not AI-generated. Indonesian
+  and English were produced by machine translation of van Langen''s Dutch (Dutch→English→Indonesian, OPUS-MT).
+  The Dutch original is kept in `meaning_nl`/`nl` for verification; the rendering is not from the source
+  and needs a human check. Part of speech not stated in the source; left blank. | Homonym II in the source
+  (printed as a numeral before the headword). Jawi left blank: no Jawi form is printed for this entry.
+  Indonesian and English were produced by machine translation of van Langen''s Dutch (Dutch→English→Indonesian,
+  OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl` for verification; the rendering is not from
+  the source and needs a human check. Part of speech not stated in the source; left blank.'

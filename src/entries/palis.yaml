@@ -1,0 +1,42 @@
+headword: palis
+jawi: قاليس
+alt_spelling: []
+ipa: ''
+part_of_speech: ''
+definitions:
+- meaning_id: bahagia, bodoh
+  meaning_en: unhappy, dumb
+  meaning_nl: ongelukkig, dom
+examples:
+- aceh: kafir palis
+  aceh_1889: kafir palis
+  jawi: ''
+  id: tidak bahagia infidel
+  en: unhappy infidel
+  nl: ongelukkige ongeloovige
+- aceh: een skheldwoord
+  aceh_1889: een scheldwoord
+  jawi: ''
+  id: dengan referensi khusus ke Belanda
+  en: with special reference to the Dutch
+  nl: waarmede speciaal de Nederlanders worden betiteld
+- aceh: palis
+  aceh_1889: palis
+  jawi: ''
+  id: tjilaka metoewah, mebahgia, (Atj)
+  en: tjilaka metoewah, mebahgia, (Atj)
+  nl: tjilaka metoewah, mebahgia, (Atj
+etymology: ''
+related_words: []
+dialect_notes: ''
+source: 'K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage: Martinus Nijhoff, voor het
+  Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië, 1889, hlm. 177'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+language_uncertain: false
+modern_spelling: palis
+extraction_notes: Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each
+  headword); not AI-generated. Indonesian and English were produced by machine translation of van Langen's
+  Dutch (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl` for verification;
+  the rendering is not from the source and needs a human check. Part of speech not stated in the source;
+  left blank.

@@ -1,27 +1,40 @@
 headword: bak
-jawi: ''
+jawi: بك
 alt_spelling: []
 ipa: ''
 part_of_speech: ''
 definitions:
-- meaning_id: batang
-  meaning_en: trunk
-- meaning_id: biar, biar saja
-  meaning_en: let it be so
-- meaning_id: di, pada
-  meaning_en: at, on
-- meaning_id: batang
-  meaning_en: trees, long things
-- meaning_id: di, pada
-  meaning_en: at
+- meaning_id: pohon, batang
+  meaning_en: tree, trunk
+  meaning_nl: boom, stam
+- meaning_id: bak primer, popper tree
+  meaning_en: bak primer, popper tree
+  meaning_nl: bak oer, klapperboom
+- meaning_id: bak mantjang, ambatjangboom
+  meaning_en: bak mantjang, ambatjangboom
+  meaning_nl: bak mantjang, ambatjangboom
+- meaning_id: bak dèrièn, doerianboom
+  meaning_en: bak dèrièn, doerianboom
+  meaning_nl: bak dèrièn, doerianboom
+- meaning_id: preposisi sesuai dengan Mal. pada
+  meaning_en: preposition corresponding to the Mal. pada
+  meaning_nl: voorzetsel, overeenkomende met het Mal. pada
 examples: []
 etymology: ''
-related_words:
-- bah
-- bah that
+related_words: []
 dialect_notes: ''
-source: 'Daud, Bukhari & Mark Durie. Kamus Basa Acèh = Kamus Bahasa Aceh: Acehnese–Indonesian–English Thesaurus.
-  Pacific Linguistics C-151, 1999, p. 4; p. 98; p. 111; p. 113; vii (PDF p. 5).'
-date_added: '2026-07-20'
+source: 'K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage: Martinus Nijhoff, voor het
+  Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië, 1889, hlm. 36'
+date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: ''
+language_uncertain: false
+modern_spelling: bak
+extraction_notes: 'Homonym I in the source (printed as a numeral before the headword). Jawi copied verbatim
+  from the printed source (van Langen prints the Jawi form for each headword); not AI-generated. Indonesian
+  and English were produced by machine translation of van Langen''s Dutch (Dutch→English→Indonesian, OPUS-MT).
+  The Dutch original is kept in `meaning_nl`/`nl` for verification; the rendering is not from the source
+  and needs a human check. Part of speech not stated in the source; left blank. | Homonym II in the source
+  (printed as a numeral before the headword). Jawi left blank: no Jawi form is printed for this entry.
+  Indonesian and English were produced by machine translation of van Langen''s Dutch (Dutch→English→Indonesian,
+  OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl` for verification; the rendering is not from
+  the source and needs a human check. Part of speech not stated in the source; left blank.'

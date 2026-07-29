@@ -1,0 +1,35 @@
+headword: djëloeng
+jawi: جلوغ
+alt_spelling: []
+ipa: ''
+part_of_speech: ''
+definitions:
+- meaning_id: menendang
+  meaning_en: kick
+  meaning_nl: 'schop, trap, schoppen, trappen:'
+examples:
+- aceh: hai kah bek panjang narit euntreuk ku jeulung bak muka
+  aceh_1889: hai kah bek pandjang narit ëntrëk koe djëloeng bak moeka
+  jawi: ''
+  id: hé Engkau tidak akan memiliki seperti bicara di sana, atau aku akan segera memberikan tendangan
+    di wajah-Mu sinonim dengan gëloeng dan drum
+  en: hé thou shalt not have such a talk there, or I will soon give thee a kick in thy face Synonymous
+    with gëloeng and drum
+  nl: hé gij daar moet zoo'n praats niet hebben of ik zal u zoo aanstonds een schop in uw gezicht geven.
+    Synoniem met gëloeng en trom
+etymology: ''
+related_words: []
+dialect_notes: ''
+source: 'K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage: Martinus Nijhoff, voor het
+  Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië, 1889, hlm. 83'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+language_uncertain: false
+modern_spelling: jeulung
+extraction_notes: Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each
+  headword); not AI-generated. `modern_spelling` “jeulung” is an AI-supplied transposition of the 1889
+  orthography (oe->u, dj->j, tj->c, nj->ny, ë->eu); it is NOT from the source and needs checking before
+  it is used to match the 1985 dictionary. Indonesian and English were produced by machine translation
+  of van Langen's Dutch (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl`
+  for verification; the rendering is not from the source and needs a human check. Part of speech not stated
+  in the source; left blank.

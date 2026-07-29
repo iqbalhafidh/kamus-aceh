@@ -1,0 +1,33 @@
+headword: djerëngée
+jawi: جرغو
+alt_spelling: []
+ipa: ''
+part_of_speech: ''
+definitions:
+- meaning_id: tanaman yang akarnya dikunyah oleh perempuan voodoo dan air liur yang ludah selama 7 hari
+    pertama setelah melahirkan di sekitar wanita itu melahirkan untuk melindunginya dan anak baru lahir
+    nya dari roh-roh jahat Karena mereka tidak berani mendekati dengan bau yang tidak menyenangkan
+  meaning_en: a plant whose root is chewed with sirih by voodoo women and whose saliva spit during the
+    first 7 days after delivery around the woman gave birth to protect her and her newly born child from
+    evil spirits because they do not dare to approach it by its unpleasant smell
+  meaning_nl: een plant, waarvan de wortel door vroed vrouwen met sirih gekauwd wordt en waarvan zij het
+    speeksel gedurende de eerste 7 dagen na de bevalling rondom de bevallen vrouw spuwen om haar en haar
+    pas geboren kind tegen kwade geesten te behoeden, dewijl zij dan door den onaangenamen reuk ervan
+    niet durven te naderen
+examples: []
+etymology: ''
+related_words: []
+dialect_notes: ''
+source: 'K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage: Martinus Nijhoff, voor het
+  Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië, 1889, hlm. 80'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+language_uncertain: false
+modern_spelling: jereungee
+extraction_notes: Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each
+  headword); not AI-generated. `modern_spelling` “jereungee” is an AI-supplied transposition of the 1889
+  orthography (oe->u, dj->j, tj->c, nj->ny, ë->eu); it is NOT from the source and needs checking before
+  it is used to match the 1985 dictionary. Indonesian and English were produced by machine translation
+  of van Langen's Dutch (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl`
+  for verification; the rendering is not from the source and needs a human check. Part of speech not stated
+  in the source; left blank.

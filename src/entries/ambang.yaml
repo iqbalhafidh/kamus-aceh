@@ -1,23 +1,36 @@
----
-headword: "ambang"
-jawi: ""
+headword: ambang
+jawi: امبغ
 alt_spelling: []
-ipa: "/am.baŋ/"
-part_of_speech: "n"
-language_uncertain: false
+ipa: ''
+part_of_speech: ''
 definitions:
-  - meaning_id: "1 bentuk tubuh; sikap badan; perawakan; keadaan lahiriah"
-    meaning_en: ""
-  - meaning_id: "2 keadaan"
-    meaning_en: ""
-  - meaning_id: "3 bingkai (pintu atau jendela)"
-    meaning_en: ""
+- meaning_id: memiliki penampilan yang bersih, terlihat bagus, terutama rumah dan kapal
+  meaning_en: have a clean appearance, look good, especially of houses and vessels
+  meaning_nl: een schoon voorkomen hebben, er goed uitzien, inzonderheid van huizen en vaartuigen
 examples:
-  []
-etymology: ""
+- aceh: rumh teku jeroh tehat ambang bak takalon di jeroh
+  aceh_1889: roemāh Tēkoe djeroh tēhat ambang bak takalon di djeroh
+  jawi: ''
+  id: tekoe's rumah, terlihat dari jauh, memiliki penampilan yang bersih
+  en: tekoe's house, seen from afar, has a clean appearance
+  nl: Tekoe's huis heeft, van verre gezien, een schoon voorkomen
+- aceh: prahu nyoi gej tehat ambang bak jidong
+  aceh_1889: prahoe njoi gēdj tēhat ambang bak djidong
+  jawi: ''
+  id: merak ini terlihat bagus jika berdiri
+  en: this peacock looks good if it's standing
+  nl: deze prauw ziet er goed uit, indien zij staat
+etymology: ''
 related_words: []
-dialect_notes: ""
-source: "Kamus Bahasa Aceh Daring (Balai Bahasa Provinsi Aceh), 'Entri huruf — ambang', URL: https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/A?page=2 (diakses 20 Juli 2026)"
-date_added: "2026-07-20"
-contributor: "AI-extracted — needs human review"
-extraction_notes: "Diekstrak dari 1 halaman sumber (https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/A?page=2). Tidak ada bentuk Jawi dalam sumber — dibiarkan kosong sesuai aturan."
+dialect_notes: ''
+source: 'K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage: Martinus Nijhoff, voor het
+  Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië, 1889, hlm. 10'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+language_uncertain: false
+modern_spelling: ambang
+extraction_notes: Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each
+  headword); not AI-generated. Indonesian and English were produced by machine translation of van Langen's
+  Dutch (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl` for verification;
+  the rendering is not from the source and needs a human check. Part of speech not stated in the source;
+  left blank.

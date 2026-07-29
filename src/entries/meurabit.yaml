@@ -1,0 +1,32 @@
+headword: mërabit
+jawi: مربيت
+alt_spelling: []
+ipa: ''
+part_of_speech: ''
+definitions:
+- meaning_id: robek
+  meaning_en: torn
+  meaning_nl: gescheurd, vaneengereten
+examples:
+- aceh: ijar lun bunoi ka meurabit bak duroi
+  aceh_1889: idjar loen boenoï ka mërabit bak doeroi
+  jawi: ''
+  id: saya telah ooeven robek kanvas saya ke duri
+  en: i have ooeven torn my canvas to thorns
+  nl: ik heb zooeven mijn kleed gescheurd aan doornen
+etymology: ''
+related_words: []
+dialect_notes: ''
+source: 'K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage: Martinus Nijhoff, voor het
+  Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië, 1889, hlm. 257'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+language_uncertain: false
+modern_spelling: meurabit
+extraction_notes: Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each
+  headword); not AI-generated. `modern_spelling` “meurabit” is an AI-supplied transposition of the 1889
+  orthography (oe->u, dj->j, tj->c, nj->ny, ë->eu); it is NOT from the source and needs checking before
+  it is used to match the 1985 dictionary. Indonesian and English were produced by machine translation
+  of van Langen's Dutch (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl`
+  for verification; the rendering is not from the source and needs a human check. Part of speech not stated
+  in the source; left blank.

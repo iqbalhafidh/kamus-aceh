@@ -1,11 +1,15 @@
 headword: nyo
-jawi: ''
-alt_spelling: []
+jawi: پو
+alt_spelling:
+- njo
 ipa: ''
 part_of_speech: adv
 definitions:
 - meaning_id: ya, benar, sesungguhnya, memang
   meaning_en: yes, right, truly, indeed
+- meaning_id: yeah, benar
+  meaning_en: yeah, right
+  meaning_nl: ja, jawel, juist
 examples:
 - aceh: meung atau meu)
   jawi: ''
@@ -23,12 +27,26 @@ examples:
   jawi: ''
   id: membenarkan, mengiakan
   en: ''
+- aceh: nyo keumeunan lagee droineu keuheun
+  aceh_1889: njo këmënan lagée droinë këhën
+  jawi: ''
+  id: ya, itu, seperti yang Anda katakan
+  en: yes, it is, as you say
+  nl: ja, het is zoo, gelijk ge zegt
 etymology: ''
 related_words: []
 dialect_notes: ''
 source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
-  Pendidikan dan Kebudayaan, 1985, hlm. 646'
+  Pendidikan dan Kebudayaan, 1985, hlm. 646; K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage:
+  Martinus Nijhoff, voor het Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië,
+  1889, hlm. 287'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
 extraction_notes: 'Jawi left blank: the source is Latin-script only and no Jawi form is printed for this
-  entry.'
+  entry. | Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each headword);
+  not AI-generated. `modern_spelling` “nyo” is an AI-supplied transposition of the 1889 orthography (oe->u,
+  dj->j, tj->c, nj->ny, ë->eu); it is NOT from the source and needs checking before it is used to match
+  the 1985 dictionary. Indonesian and English were produced by machine translation of van Langen''s Dutch
+  (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl` for verification;
+  the rendering is not from the source and needs a human check. Part of speech not stated in the source;
+  left blank.'

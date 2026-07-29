@@ -1,0 +1,57 @@
+headword: dang-dang
+jawi: داغ
+alt_spelling: []
+ipa: ''
+part_of_speech: ''
+definitions:
+- meaning_id: '{Y: i} menunggu tapi hanya sesaat'
+  meaning_en: wait but only a moment time
+  meaning_nl: wachten doch slechts een oogenblik tijds
+- meaning_id: hadiah yang ditawarkan selama kehamilan
+  meaning_en: gifts offered during pregnancy
+  meaning_nl: geschenken die men bij zwangerschap aanbiedt
+- meaning_id: dang-dang Masak, ketika hadiah dalam makanan
+  meaning_en: dang-dang masak, when the gift is in food
+  meaning_nl: dang-dang masak, wanneer het geschenk in spijzen
+- meaning_id: dang-dang mēntah, jika itu terbuat dari uang tunai
+  meaning_en: dang-dang mēntah, if it is made up of cash
+  meaning_nl: dang-dang mēntah, wanneer het uit kontanten bestaat
+- meaning_id: sementara, sementara itu
+  meaning_en: while, during, meanwhile, in the meantime
+  meaning_nl: terwijl, gedurende, inmiddels, ondertusschen, intusschen
+- meaning_id: lihat dang-dang
+  meaning_en: see dang-dang
+  meaning_nl: zie داغ٢ dang-dang
+examples:
+- aceh: dang-dang ulun pikir
+  aceh_1889: dang-dang oeloen pikir
+  jawi: ''
+  id: tunggu sebentar sampai aku memikirkannya
+  en: wait a minute until I think about it
+  nl: wacht even tot ik er over heb nagedacht
+etymology: ''
+related_words: []
+dialect_notes: ''
+source: 'K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage: Martinus Nijhoff, voor het
+  Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië, 1889, hlm. 108, 111'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+language_uncertain: false
+modern_spelling: dang-dang
+extraction_notes: 'Homonym I in the source (printed as a numeral before the headword). Jawi copied verbatim
+  from the printed source (van Langen prints the Jawi form for each headword); not AI-generated. Indonesian
+  and English were produced by machine translation of van Langen''s Dutch (Dutch→English→Indonesian, OPUS-MT).
+  The Dutch original is kept in `meaning_nl`/`nl` for verification; the rendering is not from the source
+  and needs a human check. Part of speech not stated in the source; left blank. | Homonym II in the source
+  (printed as a numeral before the headword). Jawi left blank: no Jawi form is printed for this entry.
+  Indonesian and English were produced by machine translation of van Langen''s Dutch (Dutch→English→Indonesian,
+  OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl` for verification; the rendering is not from
+  the source and needs a human check. Part of speech not stated in the source; left blank. | Homonym III
+  in the source (printed as a numeral before the headword). Jawi left blank: no Jawi form is printed for
+  this entry. Indonesian and English were produced by machine translation of van Langen''s Dutch (Dutch→English→Indonesian,
+  OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl` for verification; the rendering is not from
+  the source and needs a human check. Part of speech not stated in the source; left blank. | Jawi copied
+  verbatim from the printed source (van Langen prints the Jawi form for each headword); not AI-generated.
+  Indonesian and English were produced by machine translation of van Langen''s Dutch (Dutch→English→Indonesian,
+  OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl` for verification; the rendering is not from
+  the source and needs a human check. Part of speech not stated in the source; left blank.'

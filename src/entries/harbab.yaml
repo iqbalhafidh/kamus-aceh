@@ -1,0 +1,27 @@
+headword: harbab
+jawi: هريب
+alt_spelling: []
+ipa: ''
+part_of_speech: ''
+definitions:
+- meaning_id: biola tri- string asli. sebuah konser harbab terdiri dari harbab, sebuah gëdoembah (drum
+    berbentuk silinder kecil, terbuka di satu sisi) dan penyanyi-min-ne-
+  meaning_en: the tri-string native violin. A harbab concert consists of a harbab, a gëdoembah (small
+    cylinder-shaped drum, open on one side) and a min-ne-singer
+  meaning_nl: de driesnarige inlandsche viool. Een harbab-concert bestaat uit een harbab, een gëdoembah
+    (kleine cylindervormige trom, aan de eene zijde open) en een min-nezanger
+examples: []
+etymology: ''
+related_words: []
+dialect_notes: ''
+source: 'K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage: Martinus Nijhoff, voor het
+  Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië, 1889, hlm. 280'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+language_uncertain: false
+modern_spelling: harbab
+extraction_notes: Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each
+  headword); not AI-generated. Indonesian and English were produced by machine translation of van Langen's
+  Dutch (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl` for verification;
+  the rendering is not from the source and needs a human check. Part of speech not stated in the source;
+  left blank.

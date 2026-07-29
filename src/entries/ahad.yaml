@@ -1,19 +1,36 @@
-headword: "ahad"
-jawi: ""
+headword: ahad
+jawi: احد
 alt_spelling: []
-ipa: ""
-part_of_speech: "n"
+ipa: ''
+part_of_speech: ''
 definitions:
-  - meaning_id: "esa, satu"
-    meaning_en: "one, single, unique"
+- meaning_id: satu, tunggal
+  meaning_en: one, single
+  meaning_nl: een, eenig
 examples:
-  - aceh: "Allah ahad"
-    jawi: ""
-    id: "Allah Esa"
-    en: "Allah is One"
-related_words: ["aleuhat"]
-dialect_notes: ""
-source: "Aboe Bakar et al., Kamus Aceh-Indonesia Seri 1 A–L, 1985, p.10"
-date_added: "2025-06-18"
-contributor: "AI-extracted — needs human review"
-extraction_notes: "Arabic loanword. Jawi transliteration is AI-generated, not from source — needs verification."
+- aceh: allah ahad
+  aceh_1889: allah ahad
+  jawi: ''
+  id: tuhan adalah Satu
+  en: God is One
+  nl: God is eenig
+- aceh: oroi al ahad
+  aceh_1889: oroi al-ahad
+  jawi: ''
+  id: minggu
+  en: sunday
+  nl: Zondag
+etymology: ''
+related_words: []
+dialect_notes: ''
+source: 'K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage: Martinus Nijhoff, voor het
+  Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië, 1889, hlm. 3'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+language_uncertain: false
+modern_spelling: ahad
+extraction_notes: Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each
+  headword); not AI-generated. Indonesian and English were produced by machine translation of van Langen's
+  Dutch (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl` for verification;
+  the rendering is not from the source and needs a human check. Part of speech not stated in the source;
+  left blank.

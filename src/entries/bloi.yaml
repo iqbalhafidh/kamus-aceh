@@ -1,0 +1,37 @@
+headword: bloi
+jawi: بلى
+alt_spelling: []
+ipa: ''
+part_of_speech: ''
+definitions:
+- meaning_id: beli
+  meaning_en: buy
+  meaning_nl: koopen
+- meaning_id: moebloi beli sesuatu
+  meaning_en: moebloi buy something
+  meaning_nl: moebloi iets koopen
+- meaning_id: bloi talék, beli perceraian suami (oleh istri), bènèloi, beli apa yang dibeli
+  meaning_en: bloi talék, buy the divorce (of the husband) (by the wife), bènèloi, buy what was bought
+  meaning_nl: bloi talék, de echtscheiding (van den man) koopen (door de vrouw), bènèloi, koop, wat gekocht
+    is
+examples:
+- aceh: pane sekin nyoi bak droine beneloi ulun tuwan
+  aceh_1889: pané sèkin njoi bak droine bènèloi oeloen toewan
+  jawi: ''
+  id: darimana kau dapat sèkin ini? yang dibeli oleh saya
+  en: where did you get this sèkin? that was bought by me
+  nl: hoe komt ge aan deze sèkin? die is door mij gekocht
+etymology: ''
+related_words: []
+dialect_notes: ''
+source: 'K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage: Martinus Nijhoff, voor het
+  Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië, 1889, hlm. 38'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+language_uncertain: false
+modern_spelling: bloi
+extraction_notes: Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each
+  headword); not AI-generated. Indonesian and English were produced by machine translation of van Langen's
+  Dutch (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl` for verification;
+  the rendering is not from the source and needs a human check. Part of speech not stated in the source;
+  left blank.

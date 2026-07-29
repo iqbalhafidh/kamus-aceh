@@ -1,0 +1,53 @@
+headword: ver
+jawi: ''
+alt_spelling: []
+ipa: ''
+part_of_speech: ''
+definitions:
+- meaning_id: emas, air tembaga, berlapis emas
+  meaning_en: gold, copper water, gold-plated
+  meaning_nl: goud-, koperwater, om te vergulden
+- meaning_id: ver sakar, gula air
+  meaning_en: ver sakar, sugar water
+  meaning_nl: ver sakar, suikerwater
+- meaning_id: ver Kahawa, kopi
+  meaning_en: ver kahawa, coffee
+  meaning_nl: ver kahawa, koffij
+- meaning_id: ver tëbée, tebu juice
+  meaning_en: ver tëbée, sugar cane juice
+  meaning_nl: ver tëbée, suikerrietsap
+- meaning_id: ver mamës, sirup
+  meaning_en: ver mamës, syrup
+  meaning_nl: ver mamës, siroop
+- meaning_id: ver raksa, merkuri
+  meaning_en: ver raksa, mercury
+  meaning_nl: ver raksa, kwikzilver
+- meaning_id: ver moeka, warna wajah
+  meaning_en: ver moeka, face color
+  meaning_nl: ver moeka, kleur van 't gezicht
+examples:
+- aceh: hiram ijeur muka
+  aceh_1889: hiram ijër moeka
+  jawi: ''
+  id: wajahnya berubah warna
+  en: his face changes color
+  nl: zijn gelaat verandert van kleur
+- aceh: mameus ijeur muka
+  aceh_1889: mamës ijër moeka
+  jawi: ''
+  id: wajahnya jinak
+  en: his face is benign
+  nl: zijn gelaat is goedaardig
+etymology: ''
+related_words: []
+dialect_notes: ''
+source: 'K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage: Martinus Nijhoff, voor het
+  Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië, 1889, hlm. 22'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+language_uncertain: false
+modern_spelling: ver
+extraction_notes: 'Jawi left blank: no Jawi form is printed for this entry. Indonesian and English were
+  produced by machine translation of van Langen''s Dutch (Dutch→English→Indonesian, OPUS-MT). The Dutch
+  original is kept in `meaning_nl`/`nl` for verification; the rendering is not from the source and needs
+  a human check. Part of speech not stated in the source; left blank.'

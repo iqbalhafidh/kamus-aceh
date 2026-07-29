@@ -1,0 +1,38 @@
+headword: bēsoet
+jawi: بَسُوَّة
+alt_spelling: []
+ipa: ''
+part_of_speech: ''
+definitions:
+- meaning_id: kebocoran, penuh lubang
+  meaning_en: leak, full of holes
+  meaning_nl: lek, vol gaten
+examples:
+- aceh: ka besut prahu
+  aceh_1889: ka bēsoet prahoe
+  jawi: ''
+  id: merak sudah bocor
+  en: the peacock is already leaking
+  nl: de prauw is reeds lek
+- aceh: ook gaten in een stuk gud
+  aceh_1889: ook gaten in een stuk goed
+  jawi: ''
+  id: disebabkan oleh semut putih atau serangga lainnya
+  en: caused by white ants or other insects
+  nl: door witte mieren of andere insekten veroorzaakt
+etymology: ''
+related_words: []
+dialect_notes: ''
+source: 'K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage: Martinus Nijhoff, voor het
+  Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië, 1889, hlm. 34'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+language_uncertain: false
+modern_spelling: besut
+extraction_notes: Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each
+  headword); not AI-generated. `modern_spelling` “besut” is an AI-supplied transposition of the 1889 orthography
+  (oe->u, dj->j, tj->c, nj->ny, ë->eu); it is NOT from the source and needs checking before it is used
+  to match the 1985 dictionary. Indonesian and English were produced by machine translation of van Langen's
+  Dutch (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl` for verification;
+  the rendering is not from the source and needs a human check. Part of speech not stated in the source;
+  left blank.

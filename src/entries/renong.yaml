@@ -1,0 +1,38 @@
+headword: rēnong
+jawi: رُوغ
+alt_spelling: []
+ipa: ''
+part_of_speech: ''
+definitions:
+- meaning_id: long stake, to pull something towards itself
+  meaning_en: long stake, to pull something toward itself
+  meaning_nl: lange staak, om iets naar zich toe te trekken
+examples:
+- aceh: tamita renong ngon sambat jaroi
+  aceh_1889: tamita rēnong ngon sambat djaroi
+  jawi: ''
+  id: tapëgëdj aoek bēk toetoeng2, (ZAtj)
+  en: tapëgëdj aoek bēk toetoeng djaroi, (Atj)
+  nl: tapëgëdj aoek bēk toetoeng djaroi, (Atj
+- aceh: spreekw zuk een staak om uwe vingers langer te maken
+  aceh_1889: spreekw.) zoek een staak om uwe vingers langer te maken
+  jawi: ''
+  id: buat sendok, jangan sampai jarimu terbakar
+  en: make a spoon lest your fingers be burned
+  nl: maak een lepel, om uwe vingers niet te branden
+etymology: ''
+related_words: []
+dialect_notes: ''
+source: 'K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage: Martinus Nijhoff, voor het
+  Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië, 1889, hlm. 128'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+language_uncertain: false
+modern_spelling: renong
+extraction_notes: Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each
+  headword); not AI-generated. `modern_spelling` “renong” is an AI-supplied transposition of the 1889
+  orthography (oe->u, dj->j, tj->c, nj->ny, ë->eu); it is NOT from the source and needs checking before
+  it is used to match the 1985 dictionary. Indonesian and English were produced by machine translation
+  of van Langen's Dutch (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl`
+  for verification; the rendering is not from the source and needs a human check. Part of speech not stated
+  in the source; left blank.

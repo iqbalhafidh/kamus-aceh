@@ -1,0 +1,38 @@
+headword: daris
+jawi: داريس
+alt_spelling: []
+ipa: ''
+part_of_speech: n
+definitions:
+- meaning_id: nama pohon berduri wildwood
+  meaning_en: name of a thorny wildwood tree
+  meaning_nl: naam van een doornachtigen wildhoutboom
+- meaning_id: oelër daris, sejenis ular
+  meaning_en: oelër daris, a kind of snake
+  meaning_nl: oelër daris, een soort van slang
+examples:
+- aceh: uleur daris mudik taloi keurung beneng di rekung sutra
+  aceh_1889: oelër daris moedik taloi këroeng bènèng di rēkoeng soetra
+  jawi: ''
+  id: pēnoetar adad han maté ngon misē rinong bahlé loen djak ZLamtēba, (ZAtj)
+  en: pēnoetar adat han maté ngon misē rinong bahlé loen djak toeng koelat Lamtēba, (Atj)
+  nl: pēnoetar adat han maté ngon misē rinong bahlé loen djak toeng koelat Lamtēba, (Atj
+- aceh: als ge niet sterft tengevolge der snorharen van den tijger
+  aceh_1889: als ge niet sterft tengevolge der snorharen van den tijger
+  jawi: ''
+  id: aku akan mendapatkan paddestoelen di Lambeba
+  en: i'm going to get paddestoelen at Lambeba
+  nl: ga ik paddestoelen te Lamteba halen
+etymology: ''
+related_words: []
+dialect_notes: ''
+source: 'K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage: Martinus Nijhoff, voor het
+  Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië, 1889, hlm. 107'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+language_uncertain: false
+modern_spelling: daris
+extraction_notes: Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each
+  headword); not AI-generated. Indonesian and English were produced by machine translation of van Langen's
+  Dutch (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl` for verification;
+  the rendering is not from the source and needs a human check.

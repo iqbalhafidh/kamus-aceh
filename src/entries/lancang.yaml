@@ -1,6 +1,7 @@
 headword: lancang
-jawi: ''
-alt_spelling: []
+jawi: لنجير
+alt_spelling:
+- lantjang
 ipa: ''
 part_of_speech: n
 definitions:
@@ -27,6 +28,15 @@ definitions:
   meaning_en: ''
 - meaning_id: lapangan tempat membuat garam
   meaning_en: spacious place to make salt
+- meaning_id: ketel garam
+  meaning_en: a salt kettle
+  meaning_nl: een zoutkeet
+- meaning_id: merak terbuat dari daun scabbard dari pinang, yang dibuat untuk mendorong menyusuri sungai
+    sebagai pengorbanan, untuk mengusir penyakit atau epidemieën
+  meaning_en: a peacock made of the leaf scabbard of the pinang, which is made to drive down a river as
+    a sacrifice, to expel disease or epidemieën
+  meaning_nl: een prauwtje, vervaardigd van de bladscheede van de pinang, die men als offer eene rivier
+    doet afdrijven, om ziekte of epidemieën te verdrijven
 examples: []
 etymology: ''
 related_words:
@@ -34,8 +44,22 @@ related_words:
 - teumpeuen
 dialect_notes: ''
 source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
-  Pendidikan dan Kebudayaan, 1985, hlm. 496'
+  Pendidikan dan Kebudayaan, 1985, hlm. 496; K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage:
+  Martinus Nijhoff, voor het Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië,
+  1889, hlm. 244'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
 extraction_notes: 'Jawi left blank: the source is Latin-script only and no Jawi form is printed for this
-  entry.'
+  entry. | Homonym I in the source (printed as a numeral before the headword). Jawi copied verbatim from
+  the printed source (van Langen prints the Jawi form for each headword); not AI-generated. `modern_spelling`
+  “lancang” is an AI-supplied transposition of the 1889 orthography (oe->u, dj->j, tj->c, nj->ny, ë->eu);
+  it is NOT from the source and needs checking before it is used to match the 1985 dictionary. Indonesian
+  and English were produced by machine translation of van Langen''s Dutch (Dutch→English→Indonesian, OPUS-MT).
+  The Dutch original is kept in `meaning_nl`/`nl` for verification; the rendering is not from the source
+  and needs a human check. Part of speech not stated in the source; left blank. | Homonym III in the source
+  (printed as a numeral before the headword). Jawi left blank: no Jawi form is printed for this entry.
+  `modern_spelling` “lancang” is an AI-supplied transposition of the 1889 orthography (oe->u, dj->j, tj->c,
+  nj->ny, ë->eu); it is NOT from the source and needs checking before it is used to match the 1985 dictionary.
+  Indonesian and English were produced by machine translation of van Langen''s Dutch (Dutch→English→Indonesian,
+  OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl` for verification; the rendering is not from
+  the source and needs a human check. Part of speech not stated in the source; left blank.'

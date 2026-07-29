@@ -1,0 +1,47 @@
+headword: bilēng
+jawi: بيلغ
+alt_spelling: []
+ipa: ''
+part_of_speech: ''
+definitions:
+- meaning_id: 'menghitung, menghitung: bilēng ringgit, keturunan nasional, dalam uang umum, menghitung,
+    karena Atj don ''t have a single word for money'
+  meaning_en: 'counting, counting: bilēng ringgit, national descendants, in general money, counting, because
+    the Atj don''t have a single word for money'
+  meaning_nl: 'tellen, rekenen: bilēng ringgit, rijksdaalders, in het algemeen geld, tellen, omdat de
+    Atj. voor geld geen afzonderlijk woord bezitten'
+- meaning_id: tabilēng oroi, menghitung hari
+  meaning_en: tabilēng oroi, counting the days
+  meaning_nl: tabilēng oroi, de dagen tellen
+- meaning_id: moebilēng
+  meaning_en: moebilēng
+  meaning_nl: moebilēng
+- meaning_id: menghitung
+  meaning_en: counting
+  meaning_nl: aan het tellen zijn
+- meaning_id: poselein
+  meaning_en: poselein
+  meaning_nl: postelein
+examples: []
+etymology: ''
+related_words: []
+dialect_notes: ''
+source: 'K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage: Martinus Nijhoff, voor het
+  Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië, 1889, hlm. 50'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+language_uncertain: false
+modern_spelling: bileng
+extraction_notes: 'Homonym I in the source (printed as a numeral before the headword). Jawi copied verbatim
+  from the printed source (van Langen prints the Jawi form for each headword); not AI-generated. `modern_spelling`
+  “bileng” is an AI-supplied transposition of the 1889 orthography (oe->u, dj->j, tj->c, nj->ny, ë->eu);
+  it is NOT from the source and needs checking before it is used to match the 1985 dictionary. Indonesian
+  and English were produced by machine translation of van Langen''s Dutch (Dutch→English→Indonesian, OPUS-MT).
+  The Dutch original is kept in `meaning_nl`/`nl` for verification; the rendering is not from the source
+  and needs a human check. Part of speech not stated in the source; left blank. | Homonym II in the source
+  (printed as a numeral before the headword). Jawi left blank: no Jawi form is printed for this entry.
+  `modern_spelling` “bileng” is an AI-supplied transposition of the 1889 orthography (oe->u, dj->j, tj->c,
+  nj->ny, ë->eu); it is NOT from the source and needs checking before it is used to match the 1985 dictionary.
+  Indonesian and English were produced by machine translation of van Langen''s Dutch (Dutch→English→Indonesian,
+  OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl` for verification; the rendering is not from
+  the source and needs a human check. Part of speech not stated in the source; left blank.'

@@ -1,22 +1,33 @@
 headword: blang
-jawi: ''
+jawi: بلغ
 alt_spelling: []
 ipa: ''
 part_of_speech: ''
 definitions:
 - meaning_id: sawah
   meaning_en: rice field
-- meaning_id: padang
-  meaning_en: plains, field
-examples: []
+  meaning_nl: rijstveld
+examples:
+- aceh: pade di gata blang nyan
+  aceh_1889: padé di gata blang njan
+  jawi: ''
+  id: toeroen-moeroen nibak oreng tjèhik oeloenZ2hingga toek bakoeloen, bagaimana kau mendapatkan sawah
+    itu? Ia selalu ada di tangan-Ku, dan leluhur-Ku membawa kepada-Ku
+  en: toeroen-moeroen nibak oreng tjèhik oeloen hingga toek bakoeloen, how did you get that rice field?
+    It's always been in my possession. My ancestors have brought it to me
+  nl: toeroen-moeroen nibak oreng tjèhik oeloen hingga toek bakoeloen, hoe komt ge aan dat rijstveld?
+    het is altijd in mijn bezit geweest, van mijne voorvaderen is het aan mij gekomen
 etymology: ''
-related_words:
-- padang
-- umöng
+related_words: []
 dialect_notes: ''
-source: 'Daud, Bukhari & Mark Durie. Kamus Basa Acèh = Kamus Bahasa Aceh: Acehnese–Indonesian–English Thesaurus.
-  Pacific Linguistics C-151, 1999, p. 61; p. 76; p. 90.'
-date_added: '2026-07-20'
+source: 'K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage: Martinus Nijhoff, voor het
+  Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië, 1889, hlm. 38'
+date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: Headword spelling was aligned to the supplied OCR by conservative fuzzy matching (fuzzy:0.92);
-  verify against printed p. 61.
+language_uncertain: false
+modern_spelling: blang
+extraction_notes: Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each
+  headword); not AI-generated. Indonesian and English were produced by machine translation of van Langen's
+  Dutch (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl` for verification;
+  the rendering is not from the source and needs a human check. Part of speech not stated in the source;
+  left blank.

@@ -1,0 +1,36 @@
+headword: bait
+jawi: ببت
+alt_spelling: []
+ipa: ''
+part_of_speech: ''
+definitions:
+- meaning_id: loyalitas, tutup lampiran
+  meaning_en: loyalty, close attachment
+  meaning_nl: trouw, innige gehechtheid
+- meaning_id: rumah, kuil
+  meaning_en: house, temple
+  meaning_nl: huis, tempel
+- meaning_id: baitoe Ail- Haram, kuil di Mekah
+  meaning_en: baitoe'l-haram, the temple at Mekah
+  meaning_nl: baitoe 'l-haram, de tempel te Mekah
+- meaning_id: baitoe Air- Rachman, masjid besar yang terkenal di Aceh
+  meaning_en: baitoe'r-Rachman, the famous great mosque in Aceh
+  meaning_nl: baitoe 'r-Rachman, de befaamde groote moskee te Atjeh
+- meaning_id: baitoe Airer- Rahim, masjid di craton itu sendiri
+  meaning_en: baitoe 'r-Rahim, the mosque in the craton itself
+  meaning_nl: baitoe 'r-Rahim, de moskee in den kraton zelf
+examples: []
+etymology: ''
+related_words: []
+dialect_notes: ''
+source: 'K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage: Martinus Nijhoff, voor het
+  Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië, 1889, hlm. 48'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+language_uncertain: false
+modern_spelling: bait
+extraction_notes: Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each
+  headword); not AI-generated. Indonesian and English were produced by machine translation of van Langen's
+  Dutch (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl` for verification;
+  the rendering is not from the source and needs a human check. Part of speech not stated in the source;
+  left blank.

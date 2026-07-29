@@ -1,12 +1,16 @@
 headword: lingkök
-jawi: ''
+jawi: ليغكوق
 alt_spelling:
 - lingkok
+- lingkoh
 ipa: ''
 part_of_speech: n
 definitions:
 - meaning_id: lengkung, belokan, kelok (umpamanya sungai, jalan, keris) bengkok, membungkukkan
   meaning_en: curve, bend, a bend, as of a river, walk, crooked kris, to stoop
+- meaning_id: melengkung, memutar
+  meaning_en: curved, twist
+  meaning_nl: krom, gebogen, kromte, draai
 examples:
 - aceh: rèt, krueng
   jawi: ''
@@ -29,14 +33,32 @@ examples:
   jawi: ''
   id: = lingkök
   en: ''
+- aceh: lingkoh reuj
+  aceh_1889: lingkoh rëdj
+  jawi: ''
+  id: melengkung di jalan
+  en: curved in the way
+  nl: kromte in den weg
+- aceh: lingkoh kerung
+  aceh_1889: lingkoh keroeng
+  jawi: ''
+  id: meringkuk di sungai
+  en: curved in a river
+  nl: kromte in eene rivier
 etymology: ''
 related_words:
 - kilôk
 - lingkông
 dialect_notes: ''
 source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
-  Pendidikan dan Kebudayaan, 1985, hlm. 547'
+  Pendidikan dan Kebudayaan, 1985, hlm. 547; K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage:
+  Martinus Nijhoff, voor het Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië,
+  1889, hlm. 250'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
 extraction_notes: 'Jawi left blank: the source is Latin-script only and no Jawi form is printed for this
-  entry.'
+  entry. | Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each headword);
+  not AI-generated. Indonesian and English were produced by machine translation of van Langen''s Dutch
+  (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl` for verification;
+  the rendering is not from the source and needs a human check. Part of speech not stated in the source;
+  left blank.'

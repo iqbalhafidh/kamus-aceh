@@ -1,20 +1,45 @@
-headword: sane
-jawi: ''
+headword: sané
+jawi: سائي
 alt_spelling: []
 ipa: ''
 part_of_speech: ''
-definitions: []
-examples: []
+definitions:
+- meaning_id: air atau moerasgeesten
+  meaning_en: water or moerasgeesten
+  meaning_nl: water- of moerasgeesten
+- meaning_id: datang dari satu sisi. juga dikatakan doea né, berasal dari dua sisi, dan lebih jauh lèhée3,
+    berasal dari tiga sisi, pèt né, berasal dari empat sisi, lihat lebih lanjut né
+  meaning_en: coming from one side. It is also said to be doea né, coming from two sides, and further
+    lèhée né, coming from three sides, pèt né, coming from four sides, see further né
+  meaning_nl: van één kant komen. Men zegt ook doea né, van twee kanten te gelijk komen, en verder lèhée
+    né, van drie kanten komen, pèt né, van vier kanten komen, zie verder né
+examples:
+- aceh: pane tajak
+  aceh_1889: pané tadjak
+  jawi: ''
+  id: hana sané, dari mana saja kau berjalan? dari tidak ada sisi
+  en: hana sané, from where have you walked? from no side
+  nl: hana sané, van waar komt gij geloopen? van geen kant
 etymology: ''
 related_words:
-- nè
-- sa
+- verder
 dialect_notes: ''
-source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
-  Pendidikan dan Kebudayaan, 1985, hlm. 842'
+source: 'K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage: Martinus Nijhoff, voor het
+  Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië, 1889, hlm. 140'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: 'Source gives this only as a cross-reference (→ nè, sa); no independent definition is
-  printed, so meaning fields are left blank rather than guessed. Homonym 2 in the source (printed as a
-  superscript numeral before the headword). Jawi left blank: the source is Latin-script only and no Jawi
-  form is printed for this entry. Part of speech not stated in the source; left blank.'
+language_uncertain: false
+modern_spelling: sane
+extraction_notes: 'Homonym I in the source (printed as a numeral before the headword). Jawi copied verbatim
+  from the printed source (van Langen prints the Jawi form for each headword); not AI-generated. `modern_spelling`
+  “sane” is an AI-supplied transposition of the 1889 orthography (oe->u, dj->j, tj->c, nj->ny, ë->eu);
+  it is NOT from the source and needs checking before it is used to match the 1985 dictionary. Indonesian
+  and English were produced by machine translation of van Langen''s Dutch (Dutch→English→Indonesian, OPUS-MT).
+  The Dutch original is kept in `meaning_nl`/`nl` for verification; the rendering is not from the source
+  and needs a human check. Part of speech not stated in the source; left blank. | Homonym II in the source
+  (printed as a numeral before the headword). Jawi left blank: no Jawi form is printed for this entry.
+  `modern_spelling` “sane” is an AI-supplied transposition of the 1889 orthography (oe->u, dj->j, tj->c,
+  nj->ny, ë->eu); it is NOT from the source and needs checking before it is used to match the 1985 dictionary.
+  Indonesian and English were produced by machine translation of van Langen''s Dutch (Dutch→English→Indonesian,
+  OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl` for verification; the rendering is not from
+  the source and needs a human check. Part of speech not stated in the source; left blank.'

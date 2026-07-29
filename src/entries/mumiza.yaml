@@ -1,0 +1,35 @@
+headword: moemiza
+jawi: مبزا
+alt_spelling: []
+ipa: ''
+part_of_speech: ''
+definitions:
+- meaning_id: khas, teridentifikasi
+  meaning_en: distinctive, identifiable
+  meaning_nl: onderscheidend, onderkennend
+examples:
+- aceh: pakon meunan bueeut gata hana mumiza sagoi sala sic deungon beunar kapeusa
+  aceh_1889: pakon mënan boëët gata hana moemiza sagoi sala [sic] dëngon bënar kapësa
+  jawi: ''
+  id: mengapa kamu berbuat demikian; sedang kamu tidak dapat membedakan antara yang baik dan yang buruk?
+    Dan mengapa kamu berbuat seperti itu?
+  en: why do you act in this way and do not distinguish between evil and good, but are you acting as if
+    there was no difference?
+  nl: waarom handelt ge aldus en onderscheidt ge niet tusschen het kwade en het goede, doch wordt door
+    u gehandeld of er geen verschil was
+etymology: ''
+related_words: []
+dialect_notes: ''
+source: 'K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage: Martinus Nijhoff, voor het
+  Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië, 1889, hlm. 264'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+language_uncertain: false
+modern_spelling: mumiza
+extraction_notes: Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each
+  headword); not AI-generated. `modern_spelling` “mumiza” is an AI-supplied transposition of the 1889
+  orthography (oe->u, dj->j, tj->c, nj->ny, ë->eu); it is NOT from the source and needs checking before
+  it is used to match the 1985 dictionary. Indonesian and English were produced by machine translation
+  of van Langen's Dutch (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl`
+  for verification; the rendering is not from the source and needs a human check. Part of speech not stated
+  in the source; left blank.

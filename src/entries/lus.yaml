@@ -1,0 +1,48 @@
+headword: loes
+jawi: لوس
+alt_spelling: []
+ipa: ''
+part_of_speech: ''
+definitions:
+- meaning_id: botak, botak, halus, menusuk ayam, mencukur atau memotong bulu dari kain tenun
+  meaning_en: bald, hairless, smooth, plucking of a chicken, shaving or cutting away of fluff from woven
+    garment
+  meaning_nl: kaal, haarloos, glad, plukken van een kip, het wegscheren of wegknippen der pluisjes uit
+    geweven kleedingstukken
+- meaning_id: tepi antara revs, parit, entri dekat
+  meaning_en: edge between revs, trench, close entry
+  meaning_nl: engte tusschen reven, geul, nauwe invaart
+- meaning_id: diatur, diayak, dan terbuat dari unggas, didirikan oleh pembersihan bulunya
+  meaning_en: arranged, sifted, and made of poultry, set up by the cleansing of his feathers
+  meaning_nl: zich opschikken, zich opsieren, ook gebezigd van gevogelte, dat zich opschikt door het reinigen
+    zijner veeren
+examples: []
+etymology: ''
+related_words: []
+dialect_notes: ''
+source: 'K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage: Martinus Nijhoff, voor het
+  Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië, 1889, hlm. 245'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+language_uncertain: false
+modern_spelling: lus
+extraction_notes: 'Homonym I in the source (printed as a numeral before the headword). Jawi copied verbatim
+  from the printed source (van Langen prints the Jawi form for each headword); not AI-generated. `modern_spelling`
+  “lus” is an AI-supplied transposition of the 1889 orthography (oe->u, dj->j, tj->c, nj->ny, ë->eu);
+  it is NOT from the source and needs checking before it is used to match the 1985 dictionary. Indonesian
+  and English were produced by machine translation of van Langen''s Dutch (Dutch→English→Indonesian, OPUS-MT).
+  The Dutch original is kept in `meaning_nl`/`nl` for verification; the rendering is not from the source
+  and needs a human check. Part of speech not stated in the source; left blank. | Homonym II in the source
+  (printed as a numeral before the headword). Jawi left blank: no Jawi form is printed for this entry.
+  `modern_spelling` “lus” is an AI-supplied transposition of the 1889 orthography (oe->u, dj->j, tj->c,
+  nj->ny, ë->eu); it is NOT from the source and needs checking before it is used to match the 1985 dictionary.
+  Indonesian and English were produced by machine translation of van Langen''s Dutch (Dutch→English→Indonesian,
+  OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl` for verification; the rendering is not from
+  the source and needs a human check. Part of speech not stated in the source; left blank. | Homonym III
+  in the source (printed as a numeral before the headword). Jawi left blank: no Jawi form is printed for
+  this entry. `modern_spelling` “lus” is an AI-supplied transposition of the 1889 orthography (oe->u,
+  dj->j, tj->c, nj->ny, ë->eu); it is NOT from the source and needs checking before it is used to match
+  the 1985 dictionary. Indonesian and English were produced by machine translation of van Langen''s Dutch
+  (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl` for verification;
+  the rendering is not from the source and needs a human check. Part of speech not stated in the source;
+  left blank.'

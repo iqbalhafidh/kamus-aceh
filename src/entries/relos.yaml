@@ -1,0 +1,35 @@
+headword: rēlos
+jawi: رُلُوس
+alt_spelling: []
+ipa: ''
+part_of_speech: ''
+definitions:
+- meaning_id: memecah
+  meaning_en: break down
+  meaning_nl: afbreken, omverhalen, sloopen
+- meaning_id: juga runtuh, runtuh, razia gunung, tepi sungai, dll
+  meaning_en: also crumbling, collapse, mountain raids, riverbanks, etc
+  meaning_nl: ook afbrokkelen, instorten, invallen van bergen, rivieroever enz
+- meaning_id: rēlos rēlēng, kerak tepi sungai
+  meaning_en: rēlos rēlēng, crumbled riverbank
+  meaning_nl: rēlos rēlēng, afbrokkelen, van rivieroever
+- meaning_id: rēlos glé, jatuh terpisah, dari bukit
+  meaning_en: rēlos glé, falling apart, of a hill
+  meaning_nl: rēlos glé, instorten, van een heuvel
+examples: []
+etymology: ''
+related_words: []
+dialect_notes: ''
+source: 'K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage: Martinus Nijhoff, voor het
+  Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië, 1889, hlm. 126'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+language_uncertain: false
+modern_spelling: relos
+extraction_notes: Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each
+  headword); not AI-generated. `modern_spelling` “relos” is an AI-supplied transposition of the 1889 orthography
+  (oe->u, dj->j, tj->c, nj->ny, ë->eu); it is NOT from the source and needs checking before it is used
+  to match the 1985 dictionary. Indonesian and English were produced by machine translation of van Langen's
+  Dutch (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl` for verification;
+  the rendering is not from the source and needs a human check. Part of speech not stated in the source;
+  left blank.

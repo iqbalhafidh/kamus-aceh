@@ -1,17 +1,25 @@
 headword: sikrak
-jawi: ''
-alt_spelling: []
+jawi: سکوق
+alt_spelling:
+- sikrëk
 ipa: ''
 part_of_speech: ''
-definitions: []
+definitions:
+- meaning_id: dari kayu dan bahan
+  meaning_en: of wood and materials
+  meaning_nl: een stuk, van hout en stoffen
 examples: []
 etymology: ''
 related_words: []
 dialect_notes: ''
-source: 'Daud, Bukhari & Mark Durie. Kamus Basa Acèh = Kamus Bahasa Aceh: Acehnese–Indonesian–English Thesaurus.
-  Pacific Linguistics C-151, 1999, vii (PDF p. 5).'
-date_added: '2026-07-20'
+source: 'K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage: Martinus Nijhoff, voor het
+  Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië, 1889, hlm. 149'
+date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: Occurs in the unglossed Acehnese poem “Ranup Sigapu”; no definition has been inferred. Loan/proper-name
-  status should be checked by a reviewer.
-language_uncertain: true
+language_uncertain: false
+modern_spelling: sikrak
+extraction_notes: Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each
+  headword); not AI-generated. Indonesian and English were produced by machine translation of van Langen's
+  Dutch (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl` for verification;
+  the rendering is not from the source and needs a human check. Part of speech not stated in the source;
+  left blank.

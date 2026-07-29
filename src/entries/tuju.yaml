@@ -1,0 +1,35 @@
+headword: toedjoe
+jawi: توجو
+alt_spelling: []
+ipa: ''
+part_of_speech: ''
+definitions:
+- meaning_id: arti dari pepatah, pergi untuk sesuatu, menuju sesuatu, bertujuan untuk sesuatu, berarti,
+    memiliki mata
+  meaning_en: the meaning of a saying, going for something, heading for something, aiming for something,
+    meaning, having an eye
+  meaning_nl: de strekking van een gezegde, afgaan op iets, koers nemen naar iets, mikken op iets, bedoelen,
+    op het oog hebben
+examples:
+- aceh: oreung jak nyan rupa jituju laju keunoi
+  aceh_1889: orëng djak njan roepa djitoedjoe ladjoe kënoi
+  jawi: ''
+  id: pria yang berjalan di sana tampaknya ingin datang ke sini
+  en: the man who walks there seems to want to come up here
+  nl: de man, die daar loopt, schijnt herwaarts te willen komen
+etymology: ''
+related_words: []
+dialect_notes: ''
+source: 'K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage: Martinus Nijhoff, voor het
+  Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië, 1889, hlm. 68'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+language_uncertain: false
+modern_spelling: tuju
+extraction_notes: Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each
+  headword); not AI-generated. `modern_spelling` “tuju” is an AI-supplied transposition of the 1889 orthography
+  (oe->u, dj->j, tj->c, nj->ny, ë->eu); it is NOT from the source and needs checking before it is used
+  to match the 1985 dictionary. Indonesian and English were produced by machine translation of van Langen's
+  Dutch (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl` for verification;
+  the rendering is not from the source and needs a human check. Part of speech not stated in the source;
+  left blank.

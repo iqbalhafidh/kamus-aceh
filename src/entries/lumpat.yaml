@@ -1,11 +1,15 @@
 headword: lumpat
-jawi: ''
-alt_spelling: []
+jawi: لمفت
+alt_spelling:
+- loempat
 ipa: ''
 part_of_speech: v
 definitions:
 - meaning_id: melompat, lompatan
   meaning_en: to leap, a leap
+- meaning_id: lompat
+  meaning_en: jump
+  meaning_nl: springen
 examples:
 - aceh: èk ji lumpat parèk nyan
   jawi: ''
@@ -28,8 +32,16 @@ related_words:
 - grob
 dialect_notes: ''
 source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
-  Pendidikan dan Kebudayaan, 1985, hlm. 559'
+  Pendidikan dan Kebudayaan, 1985, hlm. 559; K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage:
+  Martinus Nijhoff, voor het Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië,
+  1889, hlm. 242'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
 extraction_notes: 'Jawi left blank: the source is Latin-script only and no Jawi form is printed for this
-  entry.'
+  entry. | Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each headword);
+  not AI-generated. `modern_spelling` “lumpat” is an AI-supplied transposition of the 1889 orthography
+  (oe->u, dj->j, tj->c, nj->ny, ë->eu); it is NOT from the source and needs checking before it is used
+  to match the 1985 dictionary. Indonesian and English were produced by machine translation of van Langen''s
+  Dutch (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl` for verification;
+  the rendering is not from the source and needs a human check. Part of speech not stated in the source;
+  left blank.'

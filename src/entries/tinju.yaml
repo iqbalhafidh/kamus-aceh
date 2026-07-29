@@ -1,20 +1,39 @@
-headword: tinju
-jawi: ''
+headword: tindjoe
+jawi: تينجو
 alt_spelling: []
 ipa: ''
-part_of_speech: v
+part_of_speech: ''
 definitions:
-- meaning_id: meninju
-  meaning_en: to punch
-- meaning_id: menumbuk dengan tumbuhan ke arah yang horisontal
-  meaning_en: ''
-examples: []
+- meaning_id: meninju, membagikan tinju, tinju, tapi kemudian tinju turun vertikal, melihat toemboek
+  meaning_en: punching, handing out fist, boxing, but then the fist comes down vertically, see toemboek
+  meaning_nl: stompen, vuistslagen uitdeelen, boksen, doch de vuist komt dan vertikaal neêr, zie toemboek
+examples:
+- aceh: banduva anek miet nyan ji adu metinju
+  aceh_1889: bandoeva anēk miēt njan dji adoe mētindjoe
+  jawi: ''
+  id: dua anak kecil yang ia hidupkan, untuk bertarung satu sama lain
+  en: those two little children he turned on, to fight with each other
+  nl: die beide kleine kinderen zette hij aan, om met elkaar te boksen
+- aceh: petinju
+  aceh_1889: pētindjoe
+  jawi: ''
+  id: lakukan tinju
+  en: do boxing
+  nl: doen boksen
 etymology: ''
-related_words: []
+related_words:
+- toemboek
 dialect_notes: ''
-source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
-  Pendidikan dan Kebudayaan, 1985, hlm. 988'
+source: 'K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage: Martinus Nijhoff, voor het
+  Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië, 1889, hlm. 76'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: 'Jawi left blank: the source is Latin-script only and no Jawi form is printed for this
-  entry.'
+language_uncertain: false
+modern_spelling: tinju
+extraction_notes: Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each
+  headword); not AI-generated. `modern_spelling` “tinju” is an AI-supplied transposition of the 1889 orthography
+  (oe->u, dj->j, tj->c, nj->ny, ë->eu); it is NOT from the source and needs checking before it is used
+  to match the 1985 dictionary. Indonesian and English were produced by machine translation of van Langen's
+  Dutch (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl` for verification;
+  the rendering is not from the source and needs a human check. Part of speech not stated in the source;
+  left blank.

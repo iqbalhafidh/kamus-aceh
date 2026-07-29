@@ -1,0 +1,32 @@
+headword: djënoelang
+jawi: جنولغ
+alt_spelling: []
+ipa: ''
+part_of_speech: ''
+definitions:
+- meaning_id: pangeran, darah bangsawan
+  meaning_en: princely, of royal blood
+  meaning_nl: vorstelijk, van koninklijken bloede
+- meaning_id: déau-lat djënoelang, Yang Mulia Raja
+  meaning_en: déau-lat djënoelang, His Royal Majesty
+  meaning_nl: déau-lat djënoelang, zijne vorstelijke majesteit
+- meaning_id: poetroi djënoelang, Putri Darah Kerajaan
+  meaning_en: poetroi djënoelang, Princess of Royal Blood
+  meaning_nl: poetroi djënoelang, prinses van koninklijken bloede
+examples: []
+etymology: ''
+related_words: []
+dialect_notes: ''
+source: 'K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage: Martinus Nijhoff, voor het
+  Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië, 1889, hlm. 85'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+language_uncertain: false
+modern_spelling: jeunulang
+extraction_notes: Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each
+  headword); not AI-generated. `modern_spelling` “jeunulang” is an AI-supplied transposition of the 1889
+  orthography (oe->u, dj->j, tj->c, nj->ny, ë->eu); it is NOT from the source and needs checking before
+  it is used to match the 1985 dictionary. Indonesian and English were produced by machine translation
+  of van Langen's Dutch (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl`
+  for verification; the rendering is not from the source and needs a human check. Part of speech not stated
+  in the source; left blank.

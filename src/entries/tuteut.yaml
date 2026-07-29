@@ -1,0 +1,33 @@
+headword: toetët
+jawi: توتت
+alt_spelling:
+- toetot
+ipa: ''
+part_of_speech: ''
+definitions:
+- meaning_id: menyimpang dari subjek percakapan
+  meaning_en: stray from the subject of a conversation
+  meaning_nl: van het onderwerp afdwalen bij een gesprek
+examples:
+- aceh: tutot di lun han jid lun peugah
+  aceh_1889: toetot di loen han djid loen pëgah
+  jawi: ''
+  id: saat aku menyimpang dari subjekku, aku tak bisa membicarakannya lagi
+  en: as I strayed from my subject, I couldn't talk about it anymore
+  nl: van mijn onderwerp afdwalende, kon ik er niet meer over spreken
+etymology: ''
+related_words: []
+dialect_notes: ''
+source: 'K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage: Martinus Nijhoff, voor het
+  Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië, 1889, hlm. 67'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+language_uncertain: false
+modern_spelling: tuteut
+extraction_notes: Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each
+  headword); not AI-generated. `modern_spelling` “tuteut” is an AI-supplied transposition of the 1889
+  orthography (oe->u, dj->j, tj->c, nj->ny, ë->eu); it is NOT from the source and needs checking before
+  it is used to match the 1985 dictionary. Indonesian and English were produced by machine translation
+  of van Langen's Dutch (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl`
+  for verification; the rendering is not from the source and needs a human check. Part of speech not stated
+  in the source; left blank.

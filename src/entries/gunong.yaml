@@ -1,28 +1,29 @@
-headword: gunong
-jawi: ''
+headword: goenong
+jawi: كُونوغ
 alt_spelling: []
 ipa: ''
-part_of_speech: n
+part_of_speech: ''
 definitions:
-- meaning_id: gunung
-  meaning_en: ''
-examples:
-- aceh: saulawah
-  jawi: ''
-  id: nama salah satu gunung di Aceh Besar
-  en: ''
-- aceh: gunongan, gunong-gunongan
-  jawi: ''
-  id: bangunan dl bentuk gunung kecil di Banda Aceh peninggalan bangunan-bangunan yg didirikan atas perintah
-    Sultan Iskandarmuda →
-  en: ''
+- meaning_id: bukit
+  meaning_en: hill
+  meaning_nl: heuvel
+- meaning_id: goenong-goenongan, garis perbukitan
+  meaning_en: goenong-goenongan, line of hills
+  meaning_nl: goenong-goenongan, heuvelreeks, heuvelrij
+examples: []
 etymology: ''
 related_words: []
 dialect_notes: ''
-source: 'Kamus Aceh-Indonesia (extracted from pp.124-270 of the source edition, Acehnese section entries
-  cèm-unyèn through gutie/H). File: markdown.md supplied by the user. — p.264'
+source: 'K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage: Martinus Nijhoff, voor het
+  Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië, 1889, hlm. 231'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: Indonesian example translations are taken verbatim from the source. English meanings
-  and Jawi transliterations are AI-flagged as unverified and need human review. Jawi transliteration is
-  AI-generated, not from source — needs verification by a Jawi-literate reviewer.
+language_uncertain: false
+modern_spelling: gunong
+extraction_notes: Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each
+  headword); not AI-generated. `modern_spelling` “gunong” is an AI-supplied transposition of the 1889
+  orthography (oe->u, dj->j, tj->c, nj->ny, ë->eu); it is NOT from the source and needs checking before
+  it is used to match the 1985 dictionary. Indonesian and English were produced by machine translation
+  of van Langen's Dutch (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl`
+  for verification; the rendering is not from the source and needs a human check. Part of speech not stated
+  in the source; left blank.

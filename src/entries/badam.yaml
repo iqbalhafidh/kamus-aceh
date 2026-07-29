@@ -1,0 +1,30 @@
+headword: badam
+jawi: بادم
+alt_spelling: []
+ipa: ''
+part_of_speech: ''
+definitions:
+- meaning_id: sangat lambat dalam bekerja
+  meaning_en: very slow in working
+  meaning_nl: zeer langzaam in het arbeiden
+examples:
+- aceh: badam lagoina tamubuwet gata
+  aceh_1889: badam lagoina tamoeboewet gata
+  jawi: ''
+  id: sangat lambat Anda berada dalam pekerjaan Anda
+  en: very slow you are in your work
+  nl: zeer langzaam zijt ge in uw werk
+etymology: ''
+related_words: []
+dialect_notes: ''
+source: 'K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage: Martinus Nijhoff, voor het
+  Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië, 1889, hlm. 26'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+language_uncertain: false
+modern_spelling: badam
+extraction_notes: Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each
+  headword); not AI-generated. Indonesian and English were produced by machine translation of van Langen's
+  Dutch (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl` for verification;
+  the rendering is not from the source and needs a human check. Part of speech not stated in the source;
+  left blank.

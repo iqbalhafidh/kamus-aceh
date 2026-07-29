@@ -6,6 +6,11 @@ part_of_speech: v
 definitions:
 - meaning_id: menghadap
   meaning_en: to face
+- meaning_id: membuat front untuk sesuatu, dengan depan berubah menjadi sesuatu, membuat penampilannya
+    untuk
+  meaning_en: make a front to something, with the front turned to something, make his appearance to
+  meaning_nl: front maken naar iets, met de voorzijde toegekeerd zijn naar iets, zijne opwachting maken
+    aan
 examples:
 - aceh: ka geu hadap akhirat, Ia sudah menghadapi akhirat. = Ia sudah meninggal, lheueh nyan geu hadap
     ateueh kamoe
@@ -49,16 +54,34 @@ examples:
   jawi: ''
   id: Hadapkan orang itu kpd raja. hadapan, hadapan
   en: Bring that man before the king
+- aceh: mehadap kiblat
+  aceh_1889: mēhadap kiblat
+  jawi: ''
+  id: ubah wajah ke killat
+  en: turn the face to the kiblat
+  nl: het gelaat naar de kiblat keeren
+- aceh: mehadap prang
+  aceh_1889: mēhadap prang
+  jawi: ''
+  id: membuat depan ke samping, di mana pertempuran dilakukan
+  en: make the front to the side, where fighting is done
+  nl: front maken naar de zijde, waar gestreden wordt
 etymology: Arabic loanword; the Jawi form given here is the Arabic etymon.
 related_words:
 - cabeueng
 dialect_notes: ''
 source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
-  Pendidikan dan Kebudayaan, 1985, hlm. 272'
+  Pendidikan dan Kebudayaan, 1985, hlm. 272; K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage:
+  Martinus Nijhoff, voor het Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië,
+  1889, hlm. 278'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
 language_uncertain: true
 extraction_notes: 'Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate
   reviewer. Language flagged uncertain: this is an Arabic loanword shared with Indonesian. It is listed
   as a headword in an Acehnese dictionary, so it is treated as naturalised Acehnese, but a reviewer should
-  confirm.'
+  confirm. | Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each headword);
+  not AI-generated. Indonesian and English were produced by machine translation of van Langen''s Dutch
+  (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl` for verification;
+  the rendering is not from the source and needs a human check. Part of speech not stated in the source;
+  left blank.'

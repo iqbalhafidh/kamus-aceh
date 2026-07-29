@@ -1,0 +1,29 @@
+headword: haroek-haroek
+jawi: هاروق
+alt_spelling: []
+ipa: ''
+part_of_speech: ''
+definitions:
+- meaning_id: bambu diperkuat, tombak bambu atau tombak. secara kiasan juga digunakan untuk menusuk, yang
+    dirasakan di perut dalam kasus nyeri perut
+  meaning_en: a reinforced bamboo, a bamboo spear or lance. Figuratively also used of stabbing, which
+    is felt in the abdomen in case of abdominal pain
+  meaning_nl: een aangescherpte bamboe, een bamboezen speer of lans. Figuurlijk ook gebezigd van steken,
+    die men in den buik gevoelt bij buikpijn
+examples: []
+etymology: ''
+related_words: []
+dialect_notes: ''
+source: 'K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage: Martinus Nijhoff, voor het
+  Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië, 1889, hlm. 278'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+language_uncertain: false
+modern_spelling: haruk-haruk
+extraction_notes: Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each
+  headword); not AI-generated. `modern_spelling` “haruk-haruk” is an AI-supplied transposition of the
+  1889 orthography (oe->u, dj->j, tj->c, nj->ny, ë->eu); it is NOT from the source and needs checking
+  before it is used to match the 1985 dictionary. Indonesian and English were produced by machine translation
+  of van Langen's Dutch (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl`
+  for verification; the rendering is not from the source and needs a human check. Part of speech not stated
+  in the source; left blank.

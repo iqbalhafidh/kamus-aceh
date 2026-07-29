@@ -1,0 +1,36 @@
+headword: andam
+jawi: اندم
+alt_spelling: []
+ipa: ''
+part_of_speech: ''
+definitions:
+- meaning_id: potong atau potong rambut
+  meaning_en: cut or cut the hair
+  meaning_nl: het haar knippen of snijden
+examples:
+- aceh: meandam inong nyan
+  aceh_1889: mēandam inong njan
+  jawi: ''
+  id: potong rambut wanita itu
+  en: cut that woman's hair
+  nl: knip de haren van die vrouw
+- aceh: meandam mise
+  aceh_1889: mēandam misé
+  jawi: ''
+  id: memotong gags
+  en: cut the gags
+  nl: de knevels knippen
+etymology: ''
+related_words: []
+dialect_notes: ''
+source: 'K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage: Martinus Nijhoff, voor het
+  Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië, 1889, hlm. 12'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+language_uncertain: false
+modern_spelling: andam
+extraction_notes: Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each
+  headword); not AI-generated. Indonesian and English were produced by machine translation of van Langen's
+  Dutch (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl` for verification;
+  the rendering is not from the source and needs a human check. Part of speech not stated in the source;
+  left blank.

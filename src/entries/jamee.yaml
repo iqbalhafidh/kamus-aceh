@@ -1,11 +1,21 @@
 headword: jamèe
-jawi: ''
-alt_spelling: []
+jawi: جامو
+alt_spelling:
+- djamée
 ipa: ''
 part_of_speech: n
 definitions:
 - meaning_id: tamu
   meaning_en: guest
+- meaning_id: untuk menjadi tamu, tamu
+  meaning_en: to be a guest, guest
+  meaning_nl: te gast zijn, gast
+- meaning_id: mēdjamée, kedatangan tamu
+  meaning_en: mēdjamée, having a guest
+  meaning_nl: mēdjamée, iemand te gast hebben
+- meaning_id: pēdjamée, seseorang menerima sesuatu
+  meaning_en: pēdjamée, someone on something receiving
+  meaning_nl: pēdjamée, iemand op iets onthalen
 examples: []
 etymology: ''
 related_words:
@@ -14,8 +24,16 @@ related_words:
 - jinamee
 dialect_notes: ''
 source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
-  Pendidikan dan Kebudayaan, 1985, hlm. 325'
+  Pendidikan dan Kebudayaan, 1985, hlm. 325; K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage:
+  Martinus Nijhoff, voor het Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië,
+  1889, hlm. 79'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
 extraction_notes: 'Jawi left blank: the source is Latin-script only and no Jawi form is printed for this
-  entry.'
+  entry. | Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each headword);
+  not AI-generated. `modern_spelling` “jamee” is an AI-supplied transposition of the 1889 orthography
+  (oe->u, dj->j, tj->c, nj->ny, ë->eu); it is NOT from the source and needs checking before it is used
+  to match the 1985 dictionary. Indonesian and English were produced by machine translation of van Langen''s
+  Dutch (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl` for verification;
+  the rendering is not from the source and needs a human check. Part of speech not stated in the source;
+  left blank.'

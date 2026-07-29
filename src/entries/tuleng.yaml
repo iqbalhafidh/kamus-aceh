@@ -1,0 +1,77 @@
+headword: toeleng
+jawi: تولغ
+alt_spelling: []
+ipa: ''
+part_of_speech: ''
+definitions:
+- meaning_id: tulang
+  meaning_en: bone, bones
+  meaning_nl: been, beenderen, gebeente
+- meaning_id: toeleng idoeng, tulang hidung
+  meaning_en: toeleng idoeng, nasal bone
+  meaning_nl: toeleng idoeng, het neusbeen
+- meaning_id: toeleng djoenka, cockbone
+  meaning_en: toeleng djoenka, the cockbone
+  meaning_nl: toeleng djoenka, het kakebeen
+- meaning_id: toeleng takoeē, tulang leher
+  meaning_en: toeleng takoeē, neckbones
+  meaning_nl: toeleng takoeē, halsbeenderen
+- meaning_id: toeleng bahoe, tulang bahu
+  meaning_en: toeleng bahoe, shoulderbone
+  meaning_nl: toeleng bahoe, het schouderbeen
+- meaning_id: toeleng dada, sternums
+  meaning_en: toeleng dada, sternums
+  meaning_nl: toeleng dada, borstbeenderen
+- meaning_id: toeleng dajoeng, pisau bahu
+  meaning_en: toeleng dajoeng, shoulder blade
+  meaning_nl: toeleng dajoeng, het schouderblad
+- meaning_id: toeleng roeng, sumsum tulang belakang
+  meaning_en: toeleng roeng, spinal cord
+  meaning_nl: toeleng roeng, ruggestreng
+- meaning_id: toeleng roesoek, iga
+  meaning_en: toeleng roesoek, ribs
+  meaning_nl: toeleng roesoek, de ribben
+- meaning_id: toeleng sikitoeng atau kēkitoeng, kaki pinggul
+  meaning_en: toeleng sikitoeng or kēkitoeng, hip legs
+  meaning_nl: toeleng sikitoeng of kēkitoeng, heupbeende ren
+- meaning_id: toeleng solbi
+  meaning_en: toeleng solbi, pubic bone
+  meaning_nl: toeleng solbi, schaambeen
+- meaning_id: toeleng pēha, femras
+  meaning_en: toeleng pēha, femurs
+  meaning_nl: toeleng pēha, dijbeenderen
+- meaning_id: toeleng bētis, Fibula
+  meaning_en: toeleng bētis, fibula
+  meaning_nl: toeleng bētis, het kuitbeen
+- meaning_id: toeleng gasin, tibia
+  meaning_en: toeleng gasin, tibia
+  meaning_nl: toeleng gasin, het scheenbeen
+- meaning_id: toeleng singké, tulang lengan atas
+  meaning_en: toeleng singké, upper arm bones
+  meaning_nl: toeleng singké, bovenarm-beenderen
+- meaning_id: toeleng sapai, tulang lengan bawah
+  meaning_en: toeleng sapai, lower arm bones
+  meaning_nl: toeleng sapai, benedenarm-beenderen
+- meaning_id: toeleng djaroi, tulang jari
+  meaning_en: toeleng djaroi, the fingerbones
+  meaning_nl: toeleng djaroi, de vingerbeenderen
+- meaning_id: toeleng Gaki, voetbeenderen
+  meaning_en: toeleng gaki, the voetbeenderen
+  meaning_nl: toeleng gaki, de voetbeenderen
+examples: []
+etymology: ''
+related_words: []
+dialect_notes: ''
+source: 'K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage: Martinus Nijhoff, voor het
+  Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië, 1889, hlm. 70'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+language_uncertain: false
+modern_spelling: tuleng
+extraction_notes: Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each
+  headword); not AI-generated. `modern_spelling` “tuleng” is an AI-supplied transposition of the 1889
+  orthography (oe->u, dj->j, tj->c, nj->ny, ë->eu); it is NOT from the source and needs checking before
+  it is used to match the 1985 dictionary. Indonesian and English were produced by machine translation
+  of van Langen's Dutch (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl`
+  for verification; the rendering is not from the source and needs a human check. Part of speech not stated
+  in the source; left blank.

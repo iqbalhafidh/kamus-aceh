@@ -1,6 +1,7 @@
 headword: murông
-jawi: ''
-alt_spelling: []
+jawi: موروغ
+alt_spelling:
+- moerong
 ipa: ''
 part_of_speech: n
 definitions:
@@ -12,6 +13,9 @@ definitions:
   meaning_en: fruit
 - meaning_id: dan daunnya tidak baik
   meaning_en: and its leaves are not good
+- meaning_id: nama pohon yang membawa daun dan buah yang dimakan
+  meaning_en: name of a tree bearing edible leaves and fruits
+  meaning_nl: naam van een boom, die eetbare bladeren en vruchten draagt
 examples: []
 etymology: ''
 related_words:
@@ -19,8 +23,15 @@ related_words:
 - sikupan)
 dialect_notes: ''
 source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
-  Pendidikan dan Kebudayaan, 1985, hlm. 620'
+  Pendidikan dan Kebudayaan, 1985, hlm. 620; K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage:
+  Martinus Nijhoff, voor het Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië,
+  1889, hlm. 267'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
 extraction_notes: 'Jawi left blank: the source is Latin-script only and no Jawi form is printed for this
-  entry.'
+  entry. | Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each headword);
+  not AI-generated. `modern_spelling` “murong” is an AI-supplied transposition of the 1889 orthography
+  (oe->u, dj->j, tj->c, nj->ny, ë->eu); it is NOT from the source and needs checking before it is used
+  to match the 1985 dictionary. Indonesian and English were produced by machine translation of van Langen''s
+  Dutch (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl` for verification;
+  the rendering is not from the source and needs a human check.'

@@ -1,0 +1,32 @@
+headword: gèhon
+jawi: كَهَوْنَ
+alt_spelling: []
+ipa: ''
+part_of_speech: ''
+definitions:
+- meaning_id: berat
+  meaning_en: heavy
+  meaning_nl: zwaar
+examples:
+- aceh: barang nyoi gehon tehat han ik lun me
+  aceh_1889: barang njoi gèhon tèhat han ik loen mé
+  jawi: ''
+  id: itu bagus sangat berat, aku tidak cukup kuat untuk membawanya sinonim dengan anak nakal
+  en: that good is very heavy, I am not strong enough to bring it. Synonymous with brat
+  nl: dat goed is zeer zwaar, ik ben niet sterk genoeg om het te brengen. Synoniem met brat
+etymology: ''
+related_words: []
+dialect_notes: ''
+source: 'K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage: Martinus Nijhoff, voor het
+  Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië, 1889, hlm. 232'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+language_uncertain: false
+modern_spelling: gehon
+extraction_notes: Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each
+  headword); not AI-generated. `modern_spelling` “gehon” is an AI-supplied transposition of the 1889 orthography
+  (oe->u, dj->j, tj->c, nj->ny, ë->eu); it is NOT from the source and needs checking before it is used
+  to match the 1985 dictionary. Indonesian and English were produced by machine translation of van Langen's
+  Dutch (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl` for verification;
+  the rendering is not from the source and needs a human check. Part of speech not stated in the source;
+  left blank.

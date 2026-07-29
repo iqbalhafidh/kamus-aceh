@@ -1,5 +1,5 @@
 headword: irang
-jawi: ''
+jawi: ايراغ
 alt_spelling: []
 ipa: ''
 part_of_speech: n
@@ -8,6 +8,9 @@ definitions:
   meaning_en: slanting, not following the true direction
 - meaning_id: aib, hal yang memalukan
   meaning_en: disgrace, a shameful matter
+- meaning_id: lihat Hirang
+  meaning_en: see "Hirang"
+  meaning_nl: zie ميرغ hirang
 examples:
 - aceh: talirang òn pisang bèk irang
   jawi: ''
@@ -26,11 +29,17 @@ etymology: ''
 related_words: []
 dialect_notes: ''
 source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
-  Pendidikan dan Kebudayaan, 1985, hlm. 314'
+  Pendidikan dan Kebudayaan, 1985, hlm. 314; K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage:
+  Martinus Nijhoff, voor het Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië,
+  1889, hlm. 22'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
 extraction_notes: 'Homonym 1 in the source (printed as a superscript numeral before the headword). Jawi
   left blank: the source is Latin-script only and no Jawi form is printed for this entry. Part of speech
   not stated in the source; left blank. | Homonym 2 in the source (printed as a superscript numeral before
   the headword). Jawi left blank: the source is Latin-script only and no Jawi form is printed for this
-  entry.'
+  entry. | Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each headword);
+  not AI-generated. Indonesian and English were produced by machine translation of van Langen''s Dutch
+  (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl` for verification;
+  the rendering is not from the source and needs a human check. Part of speech not stated in the source;
+  left blank.'

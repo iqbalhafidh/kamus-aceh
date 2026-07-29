@@ -1,26 +1,36 @@
 headword: sang
-jawi: ''
+jawi: سُغ
 alt_spelling: []
 ipa: ''
-part_of_speech: p
+part_of_speech: ''
 definitions:
-- meaning_id: seperti, laksana, sebagai, seolah-olah, penaka
-  meaning_en: like, as, as though, as if
-- meaning_id: sang
-  meaning_en: as if
-- meaning_id: gelar kepada dewa
-  meaning_en: ''
-- meaning_id: raja-raja dan hewan dalam cerita
-  meaning_en: ''
-examples: []
+- meaning_id: sebagai
+  meaning_en: as
+  meaning_nl: even als, gelijk,
+examples:
+- aceh: ji perupa sang oreng binoi
+  aceh_1889: dji pēroepa sang orēng binoi
+  jawi: ''
+  id: dia terlihat seperti seorang wanita
+  en: he looks like a woman
+  nl: hij ziet er uit als eene vrouw
+- aceh: sang-sang na ulun nging
+  aceh_1889: sang-sang na oeloen nging
+  jawi: ''
+  id: aku melihatnya
+  en: as I've seen it
+  nl: evenals ik het gezien heb
 etymology: ''
 related_words: []
 dialect_notes: ''
-source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
-  Pendidikan dan Kebudayaan, 1985, hlm. 842'
+source: 'K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage: Martinus Nijhoff, voor het
+  Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië, 1889, hlm. 146'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: 'Homonym 1 in the source (printed as a superscript numeral before the headword). Jawi
-  left blank: the source is Latin-script only and no Jawi form is printed for this entry. | Homonym 2
-  in the source (printed as a superscript numeral before the headword). Jawi left blank: the source is
-  Latin-script only and no Jawi form is printed for this entry.'
+language_uncertain: false
+modern_spelling: sang
+extraction_notes: Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each
+  headword); not AI-generated. Indonesian and English were produced by machine translation of van Langen's
+  Dutch (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl` for verification;
+  the rendering is not from the source and needs a human check. Part of speech not stated in the source;
+  left blank.

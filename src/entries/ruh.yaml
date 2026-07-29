@@ -1,0 +1,43 @@
+headword: roeh
+jawi: رُوج
+alt_spelling: []
+ipa: ''
+part_of_speech: ''
+definitions:
+- meaning_id: prinsip hidup, semangat
+  meaning_en: principle of life, spirit
+  meaning_nl: levensbeginsel, geest
+- meaning_id: tetap di, ikut campur, pergi ke arah yang salah
+  meaning_en: stick in, meddle in, go in the wrong direction
+  meaning_nl: insteken, zich bemoeien, eene verkeerde richting inslaan
+examples:
+- aceh: karuh jaroi lam rehung kajee
+  aceh_1889: karoeh djaroi lam rēhoeng kajée
+  jawi: ''
+  id: apakah Anda meletakkan tangan Anda di lubang hutan
+  en: have you put your hand in the hole of the wood. š roewah, substances from sacks on a heap of dumps,
+    such as b
+  nl: hebt ge uw hand in het gat van het hout gestoken. روš roewah, zelfstandigheden uit zakken op een
+    hoop storten, zooals b
+- aceh: padi
+  aceh_1889: padi
+  jawi: ''
+  id: garam, lada, dan sebagainya
+  en: salt, pepper, etc
+  nl: zout, peper enz
+etymology: ''
+related_words: []
+dialect_notes: ''
+source: 'K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage: Martinus Nijhoff, voor het
+  Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië, 1889, hlm. 128, 131'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+language_uncertain: false
+modern_spelling: ruh
+extraction_notes: Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each
+  headword); not AI-generated. `modern_spelling` “ruh” is an AI-supplied transposition of the 1889 orthography
+  (oe->u, dj->j, tj->c, nj->ny, ë->eu); it is NOT from the source and needs checking before it is used
+  to match the 1985 dictionary. Indonesian and English were produced by machine translation of van Langen's
+  Dutch (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl` for verification;
+  the rendering is not from the source and needs a human check. Part of speech not stated in the source;
+  left blank.

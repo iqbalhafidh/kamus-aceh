@@ -1,19 +1,31 @@
 headword: pupr'ot
-jawi: ''
-alt_spelling: []
+jawi: فُوكْوَة
+alt_spelling:
+- poeprot
 ipa: ''
 part_of_speech: n
 definitions:
 - meaning_id: sejenis cacing yang hidup di tanah masin dan dipergunakan sebagai umpan untuk menangkap
     ikan bla-neuk dan ikan gapah
   meaning_en: ''
+- meaning_id: sejenis serangga bentuk kelabang, yang terletak di tanah asin
+  meaning_en: a kind of insect of the shape of a centipede, which is located in salty soil
+  meaning_nl: een soort van insect van den vorm van een duizendpoot, dat zich in ziltigen grond ophoudt
 examples: []
 etymology: ''
 related_words: []
 dialect_notes: ''
 source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
-  Pendidikan dan Kebudayaan, 1985, hlm. 754'
+  Pendidikan dan Kebudayaan, 1985, hlm. 754; K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage:
+  Martinus Nijhoff, voor het Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië,
+  1889, hlm. 191'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
 extraction_notes: 'English gloss left blank: no confident translation of the Indonesian definition was
-  available. Jawi left blank: the source is Latin-script only and no Jawi form is printed for this entry.'
+  available. Jawi left blank: the source is Latin-script only and no Jawi form is printed for this entry.
+  | Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each headword);
+  not AI-generated. `modern_spelling` “puprot” is an AI-supplied transposition of the 1889 orthography
+  (oe->u, dj->j, tj->c, nj->ny, ë->eu); it is NOT from the source and needs checking before it is used
+  to match the 1985 dictionary. Indonesian and English were produced by machine translation of van Langen''s
+  Dutch (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl` for verification;
+  the rendering is not from the source and needs a human check.'

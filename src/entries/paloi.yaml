@@ -1,0 +1,36 @@
+headword: paloi
+jawi: قالوي
+alt_spelling: []
+ipa: ''
+part_of_speech: ''
+definitions:
+- meaning_id: gangguan
+  meaning_en: disturbance, obstruction, spoiling
+  meaning_nl: verstoren, belemmeren, bederven, storen
+examples:
+- aceh: buet nyoi kapaloi han jid tajak buet le
+  aceh_1889: boeēt njoi kapaloi han djid tadjak boeēt lé
+  jawi: ''
+  id: bahwa pekerjaan sudah terganggu
+  en: that work is already disturbed
+  nl: dat werk is reeds verstoord
+- aceh: het is niet noodig
+  aceh_1889: het is niet noodig
+  jawi: ''
+  id: bahwa Anda akan melakukannya
+  en: that you're gonna do it
+  nl: dat ge het nog gaat verrichten
+etymology: ''
+related_words: []
+dialect_notes: ''
+source: 'K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage: Martinus Nijhoff, voor het
+  Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië, 1889, hlm. 177'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+language_uncertain: false
+modern_spelling: paloi
+extraction_notes: Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each
+  headword); not AI-generated. Indonesian and English were produced by machine translation of van Langen's
+  Dutch (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl` for verification;
+  the rendering is not from the source and needs a human check. Part of speech not stated in the source;
+  left blank.

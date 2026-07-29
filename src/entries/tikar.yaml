@@ -1,0 +1,54 @@
+headword: tikar
+jawi: تيمك
+alt_spelling: []
+ipa: ''
+part_of_speech: ''
+definitions:
+- meaning_id: tikar
+  meaning_en: mat
+  meaning_nl: mat
+- meaning_id: tikar bantal, matt dan bantal terdiri dari tempat tidur Atjeher
+  meaning_en: tikar bantal, matt and pillows consisting of the sleeping place of the Atjeher
+  meaning_nl: tikar bantal, mat en kussens, waaruit de slaapplaats van den Atjeher bestaat
+- meaning_id: tikar sèmbahjang, bidmatje
+  meaning_en: tikar sèmbahjang, bidmatje
+  meaning_nl: tikar sèmbahjang, bidmatje
+- meaning_id: tikar panèk orlapik, kain, kecil persegi itmatjes
+  meaning_en: tikar panèk orlapik, cloth, small square itmatjes
+  meaning_nl: tikar panèk of lapik, doek, kleine vierkante zitmatjes
+- meaning_id: tikar sibidèng, sepotong tikar tanpa kerah
+  meaning_en: tikar sibidèng, a piece of mat without collar
+  meaning_nl: tikar sibidèng, een stuk mat zonder boordsel
+- meaning_id: tikar sèkèh, pandanmat
+  meaning_en: tikar sèkèh, Pandanmat
+  meaning_nl: tikar sèkèh, pandanmat
+examples:
+- aceh: tikar bantal tilam kelambu mekasap mes simumata
+  aceh_1889: tikar bantal tilam kèlamboe mèkasap mès simoemata
+  jawi: ''
+  id: ès lintoer darah baroe dalam èmpos mèloerZ, (ZAtj)
+  en: bak ès lintoer darah baroe dalam èmpos boengong mèloer, (Atj)
+  nl: bak ès lintoer darah baroe dalam èmpos boengong mèloer, (Atj
+- aceh: spreekw mat en kussens
+  aceh_1889: spreekw.) mat en kussens
+  jawi: ''
+  id: kantong sapu dan kelambu dengan kawat emas murni dijahit, adalah tempat tidur pernikahan muda, sama
+    seperti taman adalah tempat untuk mèlati-bloem
+  en: humpbag and mosquito net with pure gold wire stitched, is the sleeping place of young married, just
+    as the garden is the place for the mèlati-bloem
+  nl: bultzak en klamboe met zuiver gouddraad gestikt, is de slaapplaats van jong gehuwden, even als de
+    tuin de plaats is voor de mèlati-bloem
+etymology: ''
+related_words: []
+dialect_notes: ''
+source: 'K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage: Martinus Nijhoff, voor het
+  Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië, 1889, hlm. 75'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+language_uncertain: false
+modern_spelling: tikar
+extraction_notes: Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each
+  headword); not AI-generated. Indonesian and English were produced by machine translation of van Langen's
+  Dutch (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl` for verification;
+  the rendering is not from the source and needs a human check. Part of speech not stated in the source;
+  left blank.

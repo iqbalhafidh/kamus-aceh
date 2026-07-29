@@ -1,17 +1,36 @@
 headword: asap
-jawi: ''
+jawi: اسف
 alt_spelling: []
 ipa: ''
 part_of_speech: ''
 definitions:
-- meaning_id: asap
-  meaning_en: smoke
-examples: []
+- meaning_id: asap, uap
+  meaning_en: smoke, vapour, steam
+  meaning_nl: rook, damp, smook, stoom
+examples:
+- aceh: asap jipeutunjuk apui
+  aceh_1889: asap djipëtoendjoek apoei
+  jawi: ''
+  id: dalih djipëtoendjoek mëdëloël, (Atj)
+  en: dalih djipëtoendjoek mëdëloël, (Atj)
+  nl: dalih djipëtoendjoek mëdëloël, (Atj
+- aceh: spreekw rook duidt op vuur
+  aceh_1889: spreekw.) rook duidt op vuur
+  jawi: ''
+  id: kecurigaan menunjukkan orang yang bersalah
+  en: suspicion indicates the guilty person
+  nl: verdenking duidt op den schuldige
 etymology: ''
 related_words: []
 dialect_notes: ''
-source: 'Daud, Bukhari & Mark Durie. Kamus Basa Acèh = Kamus Bahasa Aceh: Acehnese–Indonesian–English Thesaurus.
-  Pacific Linguistics C-151, 1999, p. 70.'
-date_added: '2026-07-20'
+source: 'K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage: Martinus Nijhoff, voor het
+  Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië, 1889, hlm. 5'
+date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: ''
+language_uncertain: false
+modern_spelling: asap
+extraction_notes: Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each
+  headword); not AI-generated. Indonesian and English were produced by machine translation of van Langen's
+  Dutch (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl` for verification;
+  the rendering is not from the source and needs a human check. Part of speech not stated in the source;
+  left blank.

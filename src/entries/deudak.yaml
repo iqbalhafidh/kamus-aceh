@@ -1,30 +1,40 @@
-headword: deudak
-jawi: ''
+headword: dëdak
+jawi: ددق
 alt_spelling: []
 ipa: ''
-part_of_speech: n
+part_of_speech: ''
 definitions:
-- meaning_id: 'dedak, sisa tumbukan, buah lada yg belum masak yg dicampur dng yg sudah masak spy banyak
-    jumlahnya: — kawa, bubuk kopi'
-  meaning_en: ''
-- meaning_id: — lada, dedak lada, lada yg halus-halus
-  meaning_en: ''
-- meaning_id: — padé, dedak padi yg terjadi ketika menumbuk padi
-  meaning_en: ''
-- meaning_id: 'habèh hancô jeuet keu —, semua sudah hancur menjadi dedak: meu —, berdedak, bercampur dedak'
-  meaning_en: ''
-examples:
-- aceh: lada nyoe meu -, h'an lon bloe, lada ini bercampur dng buah yg belum masak
-  jawi: ''
-  id: saya tidak mau membelinya
-  en: ''
+- meaning_id: bran
+  meaning_en: bran
+  meaning_nl: zemelen
+- meaning_id: secara umum, semua yang tersisa dari produk, yang satu dihapus dari kulit luar mereka dengan
+    stamping
+  meaning_en: in general, all that remains of products, which one removes from their outer shell by stamping
+  meaning_nl: in 't algemeen alles wat er overblijft van producten, die men door stampen van hun buitenste
+    omhulsel ontdoet
+- meaning_id: dëdak Padi, kulit nasi
+  meaning_en: dëdak padi, rice peel
+  meaning_nl: dëdak padi, rijstschil
+- meaning_id: dëdak Kahawa, kulit kopi
+  meaning_en: dëdak kahawa, coffee peel
+  meaning_nl: dëdak kahawa, koffieschil
+- meaning_id: dëdak lada, kulit lada
+  meaning_en: dëdak lada, pepper peel
+  meaning_nl: dëdak lada, peperschil
+examples: []
 etymology: ''
 related_words: []
 dialect_notes: ''
-source: 'Kamus Aceh-Indonesia (extracted from pp.124-270 of the source edition, Acehnese section entries
-  cèm-unyèn through gutie/H). File: markdown.md supplied by the user. — pp.164-165'
+source: 'K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage: Martinus Nijhoff, voor het
+  Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië, 1889, hlm. 109'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: Indonesian example translations are taken verbatim from the source. English meanings
-  and Jawi transliterations are AI-flagged as unverified and need human review. Jawi transliteration is
-  AI-generated, not from source — needs verification by a Jawi-literate reviewer.
+language_uncertain: false
+modern_spelling: deudak
+extraction_notes: Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each
+  headword); not AI-generated. `modern_spelling` “deudak” is an AI-supplied transposition of the 1889
+  orthography (oe->u, dj->j, tj->c, nj->ny, ë->eu); it is NOT from the source and needs checking before
+  it is used to match the 1985 dictionary. Indonesian and English were produced by machine translation
+  of van Langen's Dutch (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl`
+  for verification; the rendering is not from the source and needs a human check. Part of speech not stated
+  in the source; left blank.

@@ -1,17 +1,45 @@
 headword: bintang
-jawi: ''
+jawi: بنتغ
 alt_spelling: []
 ipa: ''
 part_of_speech: ''
 definitions:
-- meaning_id: bintang
-  meaning_en: star
+- meaning_id: bintang, ksatria
+  meaning_en: star, knighthood
+  meaning_nl: ster, ridderorde
+- meaning_id: bintang timoer, bintang pagi
+  meaning_en: bintang timoer, the morning star
+  meaning_nl: bintang timoer, de morgenster
+- meaning_id: bintang barat, bintang malam
+  meaning_en: bintang barat, the evening star
+  meaning_nl: bintang barat, de avondster
+- meaning_id: bintang oetara, bintang kolam renang
+  meaning_en: bintang oetara, the pool star
+  meaning_nl: bintang oetara, de poolster
+- meaning_id: bintang toedjoeh, tujuh bintang
+  meaning_en: bintang toedjoeh, seven-star
+  meaning_nl: bintang toedjoeh, het zevengesternte
+- meaning_id: bintang Kala, Kalajengking
+  meaning_en: bintang kala, the scorpion
+  meaning_nl: bintang kala, de schorpioen
+- meaning_id: bintang léhée, tridente
+  meaning_en: bintang léhée, tridente
+  meaning_nl: bintang léhée, het driegesternte
+- meaning_id: bintang paroi, salib selatan
+  meaning_en: bintang paroi, the southern cross
+  meaning_nl: bintang paroi, het zuiderkruis
 examples: []
 etymology: ''
 related_words: []
 dialect_notes: ''
-source: 'Daud, Bukhari & Mark Durie. Kamus Basa Acèh = Kamus Bahasa Aceh: Acehnese–Indonesian–English Thesaurus.
-  Pacific Linguistics C-151, 1999, p. 96.'
-date_added: '2026-07-20'
+source: 'K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage: Martinus Nijhoff, voor het
+  Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië, 1889, hlm. 39'
+date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: ''
+language_uncertain: false
+modern_spelling: bintang
+extraction_notes: Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each
+  headword); not AI-generated. Indonesian and English were produced by machine translation of van Langen's
+  Dutch (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl` for verification;
+  the rendering is not from the source and needs a human check. Part of speech not stated in the source;
+  left blank.

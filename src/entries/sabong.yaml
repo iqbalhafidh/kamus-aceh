@@ -1,30 +1,51 @@
 headword: sabong
-jawi: ''
-alt_spelling:
-- meusabong
+jawi: سابوغ
+alt_spelling: []
 ipa: ''
-part_of_speech: v
+part_of_speech: ''
 definitions:
-- meaning_id: menyabung, melagakan, mengadu (ayam), mencampurkan
-  meaning_en: to set fighting, airs, to complain (fowl), to mix in
-- meaning_id: tidur tengkurap
-  meaning_en: ''
-examples:
-- aceh: ureueng meu sabong
-  jawi: ''
-  id: orang yg pekerjaannya mengadu ayam
-  en: ''
-- aceh: bèk kaen meu sabong
-  jawi: ''
-  id: maté makeuh Jangan engkau tidur tengkurap, nanti ibumu meninggal
-  en: ''
+- meaning_id: biarkan ayam bertarung
+  meaning_en: let cocks fight
+  meaning_nl: hanen laten vechten
+- meaning_id: mok sabong, fighting cock
+  meaning_en: manok sabong, fighting cock
+  meaning_nl: manok sabong, vechthaan
+- meaning_id: menempatkan seorang anak dengan perut di tanah yang tidak bisa berjalan lagi
+  meaning_en: putting a child with his belly on the ground who can't walk yet
+  meaning_nl: een kind, dat nog niet loopen kan, met zijn buik op den grond plaatsen
+- meaning_id: menurut Atj takhayul beratnya kematian ayah atau ibu
+  meaning_en: according to the Atj. superstition weighs the death of the father or mother
+  meaning_nl: brengt volgens het Atj. bijgeloof den dood van den vader of de moeder te weeg
+- meaning_id: memberikan jiwanya kepada Allah
+  meaning_en: giving his soul to God
+  meaning_nl: zijn ziel aan God overgeven
+- meaning_id: komponen untuk membuat dan campuran kembang api
+  meaning_en: the components to make and mix fireworks
+  meaning_nl: de bestanddeelen om vuurwerk te maken en te mengen
+examples: []
 etymology: ''
 related_words: []
 dialect_notes: ''
-source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
-  Pendidikan dan Kebudayaan, 1985, hlm. 831'
+source: 'K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage: Martinus Nijhoff, voor het
+  Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië, 1889, hlm. 136'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: 'Jawi left blank: the source is Latin-script only and no Jawi form is printed for this
-  entry. | English gloss left blank: no confident translation of the Indonesian definition was available.
-  Jawi left blank: the source is Latin-script only and no Jawi form is printed for this entry.'
+language_uncertain: false
+modern_spelling: sabong
+extraction_notes: 'Homonym I in the source (printed as a numeral before the headword). Jawi copied verbatim
+  from the printed source (van Langen prints the Jawi form for each headword); not AI-generated. Indonesian
+  and English were produced by machine translation of van Langen''s Dutch (Dutch→English→Indonesian, OPUS-MT).
+  The Dutch original is kept in `meaning_nl`/`nl` for verification; the rendering is not from the source
+  and needs a human check. Part of speech not stated in the source; left blank. | Homonym II in the source
+  (printed as a numeral before the headword). Jawi left blank: no Jawi form is printed for this entry.
+  Indonesian and English were produced by machine translation of van Langen''s Dutch (Dutch→English→Indonesian,
+  OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl` for verification; the rendering is not from
+  the source and needs a human check. Part of speech not stated in the source; left blank. | Homonym III
+  in the source (printed as a numeral before the headword). Jawi left blank: no Jawi form is printed for
+  this entry. Indonesian and English were produced by machine translation of van Langen''s Dutch (Dutch→English→Indonesian,
+  OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl` for verification; the rendering is not from
+  the source and needs a human check. Part of speech not stated in the source; left blank. | Homonym IV
+  in the source (printed as a numeral before the headword). Jawi left blank: no Jawi form is printed for
+  this entry. Indonesian and English were produced by machine translation of van Langen''s Dutch (Dutch→English→Indonesian,
+  OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl` for verification; the rendering is not from
+  the source and needs a human check. Part of speech not stated in the source; left blank.'

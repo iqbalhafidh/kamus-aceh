@@ -1,5 +1,5 @@
 headword: lindang
-jawi: ''
+jawi: لِيمَغْ
 alt_spelling:
 - meulindang
 - meulindang-lindang
@@ -8,6 +8,9 @@ part_of_speech: a
 definitions:
 - meaning_id: kental, sangat berlemak, berlemak, (umpamanya sayur yang banyak sekali dibubuhi santan)
   meaning_en: thick, very fat, fat, as a dish with a great deal of coconut milk
+- meaning_id: lemak, kuat, gemuk
+  meaning_en: fat, powerful, fatty
+  meaning_nl: vet, machtig, vetachtig
 examples:
 - aceh: jitaguen gulè 'oh meu lindang sare
   jawi: ''
@@ -18,7 +21,9 @@ related_words:
 - lindang-lindang
 dialect_notes: ''
 source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
-  Pendidikan dan Kebudayaan, 1985, hlm. 546'
+  Pendidikan dan Kebudayaan, 1985, hlm. 546; K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage:
+  Martinus Nijhoff, voor het Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië,
+  1889, hlm. 251'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
 extraction_notes: 'Homonym 1 in the source (printed as a superscript numeral before the headword). Jawi
@@ -26,4 +31,8 @@ extraction_notes: 'Homonym 1 in the source (printed as a superscript numeral bef
   this only as a cross-reference (→ lindang-lindang); no independent definition is printed, so meaning
   fields are left blank rather than guessed. Homonym 2 in the source (printed as a superscript numeral
   before the headword). Jawi left blank: the source is Latin-script only and no Jawi form is printed for
-  this entry. Part of speech not stated in the source; left blank.'
+  this entry. Part of speech not stated in the source; left blank. | Jawi copied verbatim from the printed
+  source (van Langen prints the Jawi form for each headword); not AI-generated. Indonesian and English
+  were produced by machine translation of van Langen''s Dutch (Dutch→English→Indonesian, OPUS-MT). The
+  Dutch original is kept in `meaning_nl`/`nl` for verification; the rendering is not from the source and
+  needs a human check. Part of speech not stated in the source; left blank.'

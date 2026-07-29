@@ -1,5 +1,5 @@
 headword: ratah
-jawi: ''
+jawi: راته
 alt_spelling: []
 ipa: ''
 part_of_speech: n
@@ -14,6 +14,12 @@ definitions:
   meaning_en: vegetable vegetable
 - meaning_id: makan tanpa nasi
   meaning_en: eat without cooked rice
+- meaning_id: tidak ada nasi, tapi hanya makan makanan mereka, seperti daging, ikan, sayuran, dll
+  meaning_en: no rice, but only eat their dishes, such as meat, fish, vegetables, etc
+  meaning_nl: geen rijst, doch slechts de toespijzen daarvan, zoo als vleesch, visch, groenten enz. eten
+- meaning_id: mēratah engkoet, makan apa-apa selain ikan
+  meaning_en: mēratah engkoet, eat nothing but fish
+  meaning_nl: mēratah engkoet, niets dan visch eten
 examples:
 - aceh: eungkōt, makan ikan tanpa nasi, melakukan ratah
   jawi: ''
@@ -27,8 +33,14 @@ etymology: ''
 related_words: []
 dialect_notes: ''
 source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
-  Pendidikan dan Kebudayaan, 1985, hlm. 782'
+  Pendidikan dan Kebudayaan, 1985, hlm. 782; K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage:
+  Martinus Nijhoff, voor het Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië,
+  1889, hlm. 117'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
 extraction_notes: 'Jawi left blank: the source is Latin-script only and no Jawi form is printed for this
-  entry.'
+  entry. | Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each headword);
+  not AI-generated. Indonesian and English were produced by machine translation of van Langen''s Dutch
+  (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl` for verification;
+  the rendering is not from the source and needs a human check. Part of speech not stated in the source;
+  left blank.'

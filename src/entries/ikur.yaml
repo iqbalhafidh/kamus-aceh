@@ -1,0 +1,41 @@
+headword: ikoer
+jawi: ایکور
+alt_spelling: []
+ipa: ''
+part_of_speech: ''
+definitions:
+- meaning_id: ekor
+  meaning_en: tail
+  meaning_nl: staart
+- meaning_id: ikoer këbë, carbow ekor
+  meaning_en: ikoer këbë, Carbouw tail
+  meaning_nl: ikoer këbë, karbouwenstaart
+- meaning_id: ikoer capal, buritan kapal
+  meaning_en: ikoer capal, stern of a ship
+  meaning_nl: ikoer kapal, achtersteven van een schip
+- meaning_id: ikoer prahoe, broth of a merak
+  meaning_en: ikoer prahoe, broths of a peacock
+  meaning_nl: ikoer prahoe, achtersteven van een prauw
+- meaning_id: ikoer mata, sudut luar mata
+  meaning_en: ikoer mata, the outer corners of the eyes
+  meaning_nl: ikoer mata, de buitenhoeken der oogen
+- meaning_id: mëikoer-ikoer, mengejar seseorang di mana-mana, seperti ayah anak atau ibu
+  meaning_en: mëikoer-ikoer, chasing after someone everywhere, like a child's father or mother
+  meaning_nl: mëikoer-ikoer, iemand overal achterna loopen, als een kind zijn vader of moeder
+examples: []
+etymology: ''
+related_words: []
+dialect_notes: ''
+source: 'K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage: Martinus Nijhoff, voor het
+  Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië, 1889, hlm. 23'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+language_uncertain: false
+modern_spelling: ikur
+extraction_notes: Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each
+  headword); not AI-generated. `modern_spelling` “ikur” is an AI-supplied transposition of the 1889 orthography
+  (oe->u, dj->j, tj->c, nj->ny, ë->eu); it is NOT from the source and needs checking before it is used
+  to match the 1985 dictionary. Indonesian and English were produced by machine translation of van Langen's
+  Dutch (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl` for verification;
+  the rendering is not from the source and needs a human check. Part of speech not stated in the source;
+  left blank.

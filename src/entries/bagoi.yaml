@@ -1,0 +1,47 @@
+headword: bagoi
+jawi: باكوى
+alt_spelling: []
+ipa: ''
+part_of_speech: ''
+definitions:
+- meaning_id: komponen, tipe, alam, kelas, mode
+  meaning_en: component, type, nature, class, mode
+  meaning_nl: onderdeel, soort, aard, klasse, wijze
+- meaning_id: seperti, apa, seperti itu
+  meaning_en: like, what, like that
+  meaning_nl: gelijk als, alsof, hoedanig, op welke wijze. باكي, bagi, deel, aandeel, verdeelen
+- meaning_id: suatu spesies
+  meaning_en: a species
+  meaning_nl: een soort
+- meaning_id: '-bagoi, spesies yang berbeda atau sederhana: berbeda'
+  meaning_en: 'bagoi-bagoi, different species or simple: different'
+  meaning_nl: 'bagoi-bagoi, verschillende soorten of eenvoudig: verschillende'
+examples:
+- aceh: beklam bagoi-bagoi narit
+  aceh_1889: bēklam bagoi-bagoi narit
+  jawi: ''
+  id: tadi malam beberapa hal yang dibahas
+  en: last night several things were discussed
+  nl: den afgeloopen nacht is er over verschillende zaken gesproken
+etymology: ''
+related_words: []
+dialect_notes: ''
+source: 'K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage: Martinus Nijhoff, voor het
+  Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië, 1889, hlm. 28, 37'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+language_uncertain: false
+modern_spelling: bagoi
+extraction_notes: 'Homonym I in the source (printed as a numeral before the headword). Jawi copied verbatim
+  from the printed source (van Langen prints the Jawi form for each headword); not AI-generated. Indonesian
+  and English were produced by machine translation of van Langen''s Dutch (Dutch→English→Indonesian, OPUS-MT).
+  The Dutch original is kept in `meaning_nl`/`nl` for verification; the rendering is not from the source
+  and needs a human check. Part of speech not stated in the source; left blank. | Homonym II in the source
+  (printed as a numeral before the headword). Jawi left blank: no Jawi form is printed for this entry.
+  Indonesian and English were produced by machine translation of van Langen''s Dutch (Dutch→English→Indonesian,
+  OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl` for verification; the rendering is not from
+  the source and needs a human check. Part of speech not stated in the source; left blank. | Jawi copied
+  verbatim from the printed source (van Langen prints the Jawi form for each headword); not AI-generated.
+  Indonesian and English were produced by machine translation of van Langen''s Dutch (Dutch→English→Indonesian,
+  OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl` for verification; the rendering is not from
+  the source and needs a human check. Part of speech not stated in the source; left blank.'

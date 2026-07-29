@@ -1,0 +1,62 @@
+headword: djoek
+jawi: جو
+alt_spelling:
+- joek
+ipa: ''
+part_of_speech: ''
+definitions:
+- meaning_id: idjoe digunakan untuk atap
+  meaning_en: idjoe is used for roofing
+  meaning_nl: idjoe dient tot dakbedekking
+- meaning_id: bak djoek, arënboom
+  meaning_en: bak djoek, the arënboom
+  meaning_nl: bak djoek, de arënboom
+- meaning_id: taloi djoek, gemoetitouw
+  meaning_en: taloi djoek, gemoetitouw
+  meaning_nl: taloi djoek, gemoetitouw
+- meaning_id: poeris djoek, butir idjoe, digunakan oleh Atj sebagai pena
+  meaning_en: poeris djoek, grain of the idjoe, used by the Atj as pen
+  meaning_nl: poeris djoek, nerf van de idjoe, door de Atj. als pen gebezigd
+- meaning_id: menyerahkan, menyerah
+  meaning_en: handing over, giving in, handing in
+  meaning_nl: aanreiken, overreiken, aangeven, overhandigen, aanlangen, toereiken, aanwijzen, ten geschenke
+    geven
+- meaning_id: ukuran polos untuk sawah
+  meaning_en: plain size for rice fields
+  meaning_nl: vlaktemaat voor rijstvelden
+- meaning_id: kayu melengkung dalam kendaraan dan bajak, di mana kerbau dan sapi tongkat leher mereka,
+    untuk dapat menarik
+  meaning_en: the curved wood in vehicles and ploughs, in which buffalo and cows stick their necks, to
+    be able to pull
+  meaning_nl: het gekromde hout bij voertuigen en ploegen, waarin buffels en koeien hun nek steken, om
+    te kunnen trekken
+examples: []
+etymology: ''
+related_words: []
+dialect_notes: ''
+source: 'K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage: Martinus Nijhoff, voor het
+  Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië, 1889, hlm. 85, 87,
+  286'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+language_uncertain: false
+modern_spelling: juk
+extraction_notes: 'Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each
+  headword); not AI-generated. `modern_spelling` “juk” is an AI-supplied transposition of the 1889 orthography
+  (oe->u, dj->j, tj->c, nj->ny, ë->eu); it is NOT from the source and needs checking before it is used
+  to match the 1985 dictionary. Indonesian and English were produced by machine translation of van Langen''s
+  Dutch (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl` for verification;
+  the rendering is not from the source and needs a human check. Part of speech not stated in the source;
+  left blank. | Homonym I in the source (printed as a numeral before the headword). Jawi copied verbatim
+  from the printed source (van Langen prints the Jawi form for each headword); not AI-generated. `modern_spelling`
+  “juk” is an AI-supplied transposition of the 1889 orthography (oe->u, dj->j, tj->c, nj->ny, ë->eu);
+  it is NOT from the source and needs checking before it is used to match the 1985 dictionary. Indonesian
+  and English were produced by machine translation of van Langen''s Dutch (Dutch→English→Indonesian, OPUS-MT).
+  The Dutch original is kept in `meaning_nl`/`nl` for verification; the rendering is not from the source
+  and needs a human check. Part of speech not stated in the source; left blank. | Homonym II in the source
+  (printed as a numeral before the headword). Jawi left blank: no Jawi form is printed for this entry.
+  `modern_spelling` “juk” is an AI-supplied transposition of the 1889 orthography (oe->u, dj->j, tj->c,
+  nj->ny, ë->eu); it is NOT from the source and needs checking before it is used to match the 1985 dictionary.
+  Indonesian and English were produced by machine translation of van Langen''s Dutch (Dutch→English→Indonesian,
+  OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl` for verification; the rendering is not from
+  the source and needs a human check. Part of speech not stated in the source; left blank.'

@@ -1,0 +1,32 @@
+headword: rènjak
+jawi: رِيه
+alt_spelling: []
+ipa: ''
+part_of_speech: ''
+definitions:
+- meaning_id: berandal dengan air, kolam air
+  meaning_en: ponding with water, a pool of water
+  meaning_nl: beplassen met water, een plas water
+examples:
+- aceh: pakon taple ijer di sinan habis renyah aler rumah habis renyah jub mah
+  aceh_1889: pakon taplé ijèr di sinan habis rènjah alèr roemâh habis rènjah joeb mâh
+  jawi: ''
+  id: mengapa kau menuangkan air di sana? lantai pipis dengan air dan kencing di bawah rumah
+  en: why are you pouring out the water there? the floor is peed with water and pee under the house
+  nl: waarom giet ge daar het water uit? de vloer wordt met water beplast en onder het huis komen waterplassen
+etymology: ''
+related_words: []
+dialect_notes: ''
+source: 'K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage: Martinus Nijhoff, voor het
+  Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië, 1889, hlm. 134'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+language_uncertain: false
+modern_spelling: renyak
+extraction_notes: Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each
+  headword); not AI-generated. `modern_spelling` “renyak” is an AI-supplied transposition of the 1889
+  orthography (oe->u, dj->j, tj->c, nj->ny, ë->eu); it is NOT from the source and needs checking before
+  it is used to match the 1985 dictionary. Indonesian and English were produced by machine translation
+  of van Langen's Dutch (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl`
+  for verification; the rendering is not from the source and needs a human check. Part of speech not stated
+  in the source; left blank.

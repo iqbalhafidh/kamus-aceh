@@ -1,5 +1,5 @@
 headword: latah
-jawi: ''
+jawi: لاتة
 alt_spelling: []
 ipa: ''
 part_of_speech: a
@@ -13,13 +13,21 @@ definitions:
 - meaning_id: melakukan atau meniru tindakan atau perkataan seseorang dg cara tidak disengaja shg menderita
     penyakit latah
   meaning_en: to imitate another's acts or words involuntarily, as in the latah affliction
+- meaning_id: sejenis penyakit saraf, di mana satu meniru segala sesuatu yang lain tidak
+  meaning_en: a kind of nervous disease, in which one imitates everything another does
+  meaning_nl: een soort van zenuwziekte, waarin men alles nadoet, wat een ander doet
 examples: []
 etymology: ''
 related_words: []
 dialect_notes: ''
 source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
-  Pendidikan dan Kebudayaan, 1985, hlm. 507'
+  Pendidikan dan Kebudayaan, 1985, hlm. 507; K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage:
+  Martinus Nijhoff, voor het Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië,
+  1889, hlm. 233'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
 extraction_notes: 'Jawi left blank: the source is Latin-script only and no Jawi form is printed for this
-  entry.'
+  entry. | Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each headword);
+  not AI-generated. Indonesian and English were produced by machine translation of van Langen''s Dutch
+  (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl` for verification;
+  the rendering is not from the source and needs a human check.'

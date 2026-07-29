@@ -1,0 +1,30 @@
+headword: lolo
+jawi: لولو
+alt_spelling: []
+ipa: ''
+part_of_speech: ''
+definitions:
+- meaning_id: menyelesaikan sesuatu yang ceroboh
+  meaning_en: finish something sloppy
+  meaning_nl: iets slordig afwerken
+examples:
+- aceh: utus nyoi peugeuj rumah ulun hana geuj bueet ji lolo
+  aceh_1889: oetoes njoi pëgëdj roemäh oeloen hana gëdj boëet dji lolo
+  jawi: ''
+  id: pekerja ini tidak membuat rumah saya benar, karyanya ceroboh
+  en: this workman didn't make my house right, his work is sloppy
+  nl: deze werkman heeft mijn huis niet goed vervaardigd, zijn werk is slordig
+etymology: ''
+related_words: []
+dialect_notes: ''
+source: 'K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage: Martinus Nijhoff, voor het
+  Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië, 1889, hlm. 246'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+language_uncertain: false
+modern_spelling: lolo
+extraction_notes: Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each
+  headword); not AI-generated. Indonesian and English were produced by machine translation of van Langen's
+  Dutch (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl` for verification;
+  the rendering is not from the source and needs a human check. Part of speech not stated in the source;
+  left blank.

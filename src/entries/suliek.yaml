@@ -1,35 +1,47 @@
-headword: suliek
-jawi: ''
-alt_spelling:
-- puliek
+headword: soeliëk
+jawi: سوليق
+alt_spelling: []
 ipa: ''
 part_of_speech: ''
 definitions:
-- meaning_id: berbeda, berlainan, menyimpang
-  meaning_en: different, other, to deviate
+- meaning_id: kulit, debuffing
+  meaning_en: peel, debuffing
+  meaning_nl: schillen, ontbolsteren
+- meaning_id: soeliëk primordial, selang
+  meaning_en: soeliëk primordial, prolapse
+  meaning_nl: soeliëk oer, een klapper ontbolsteren
+- meaning_id: soeliëk boh mamplam, kulit mangga sinonim dengan poeliëk
+  meaning_en: soeliëk boh mamplam, a mangga peel. Synonym with poeliëk
+  meaning_nl: soeliëk boh mamplam, een mangga schillen. Synoniem met poeliëk
+- meaning_id: berbeda, berbeda dari, tapi khusus untuk kemiripan
+  meaning_en: different, different from, but special to resemblance
+  meaning_nl: verschillen, afwijken van, zich onderscheiden van, doch speciaal ten opzichte van gelijkenis
 examples:
-- aceh: Si Pulan hana suliek lagèe ku jih
+- aceh: nyak him hana suliek lagee ku ji rupa hana obah sagal
+  aceh_1889: Njak Him hana soeliëk lageë koe dji roepa hana obah sagal
   jawi: ''
-  id: Si Polan tidak berbeda dng ayahnya
-  en: ''
-- aceh: meu suliek, teu suliek
-  jawi: ''
-  id: di kuliti, terkelupas
-  en: skin at, peeled off
-- aceh: jaroe lôn ka meu suliek bacut
-  jawi: ''
-  id: tangan saya sudah terkelupas sedikit
-  en: ''
-- aceh: u seunuliek
-  jawi: ''
-  id: kelapa yg telah dikupas
-  en: ''
+  id: dia tidak berbeda dari ayahnya dalam penampilan dan tidak berbeda dari dia
+  en: njak Him is not distinguished from his father in appearance and does not differ from him
+  nl: Njak Him is in uiterlijk niets van zijn vader onderscheiden en verschilt in niets met hem
 etymology: ''
 related_words: []
 dialect_notes: ''
-source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
-  Pendidikan dan Kebudayaan, 1985, hlm. 906'
+source: 'K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage: Martinus Nijhoff, voor het
+  Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië, 1889, hlm. 158'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: 'Jawi left blank: the source is Latin-script only and no Jawi form is printed for this
-  entry. Part of speech not stated in the source; left blank.'
+language_uncertain: false
+modern_spelling: suliek
+extraction_notes: 'Homonym I in the source (printed as a numeral before the headword). Jawi copied verbatim
+  from the printed source (van Langen prints the Jawi form for each headword); not AI-generated. `modern_spelling`
+  “suliek” is an AI-supplied transposition of the 1889 orthography (oe->u, dj->j, tj->c, nj->ny, ë->eu);
+  it is NOT from the source and needs checking before it is used to match the 1985 dictionary. Indonesian
+  and English were produced by machine translation of van Langen''s Dutch (Dutch→English→Indonesian, OPUS-MT).
+  The Dutch original is kept in `meaning_nl`/`nl` for verification; the rendering is not from the source
+  and needs a human check. Part of speech not stated in the source; left blank. | Homonym II in the source
+  (printed as a numeral before the headword). Jawi left blank: no Jawi form is printed for this entry.
+  `modern_spelling` “suliek” is an AI-supplied transposition of the 1889 orthography (oe->u, dj->j, tj->c,
+  nj->ny, ë->eu); it is NOT from the source and needs checking before it is used to match the 1985 dictionary.
+  Indonesian and English were produced by machine translation of van Langen''s Dutch (Dutch→English→Indonesian,
+  OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl` for verification; the rendering is not from
+  the source and needs a human check. Part of speech not stated in the source; left blank.'

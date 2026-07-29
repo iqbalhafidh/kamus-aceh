@@ -1,0 +1,36 @@
+headword: balik
+jawi: باليك
+alt_spelling: []
+ipa: ''
+part_of_speech: ''
+definitions:
+- meaning_id: '# reverse, reverse, reverse #'
+  meaning_en: reverse
+  meaning_nl: omkeeren, keerzijde, rugzijde, het omgekeerde
+- meaning_id: balik kë, maju ke depan
+  meaning_en: balik kë, make front to
+  meaning_nl: balik kë, front maken naar
+- meaning_id: moebalik, neërvallen
+  meaning_en: moebalik, neërvallen
+  meaning_nl: moebalik, neërvallen
+- meaning_id: balik mata, sihir
+  meaning_en: balik mata, magic
+  meaning_nl: balik mata, goochelen
+- meaning_id: moebalik-balik narit, memutar kata-katanya
+  meaning_en: moebalik-balik narit, twist his words
+  meaning_nl: moebalik-balik narit, zijne woorden verdraaien
+examples: []
+etymology: ''
+related_words: []
+dialect_notes: ''
+source: 'K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage: Martinus Nijhoff, voor het
+  Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië, 1889, hlm. 29'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+language_uncertain: false
+modern_spelling: balik
+extraction_notes: Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each
+  headword); not AI-generated. Indonesian and English were produced by machine translation of van Langen's
+  Dutch (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl` for verification;
+  the rendering is not from the source and needs a human check. Part of speech not stated in the source;
+  left blank.

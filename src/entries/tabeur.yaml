@@ -1,0 +1,32 @@
+headword: tabër
+jawi: تَابِر
+alt_spelling: []
+ipa: ''
+part_of_speech: ''
+definitions:
+- meaning_id: hambar, samar, pengecut, dari beberapa makanan, segar, tidak asin
+  meaning_en: tasteless, faint, cowardice, of some foods, fresh, not salted
+  meaning_nl: smakeloos, flauw, laf, van sommige eetwaren, versch, niet gezouten
+- meaning_id: 'dari air: segar'
+  meaning_en: 'of water: fresh'
+  meaning_nl: 'van water: versch'
+- meaning_id: 'ijër tabër, air tawar, air musim semi, percakapan: saltless'
+  meaning_en: 'ijër tabër, fresh water, spring water, conversations: saltless'
+  meaning_nl: 'ijër tabër, zoet water, bronwater, van gesprekken: zouteloos'
+examples: []
+etymology: ''
+related_words: []
+dialect_notes: ''
+source: 'K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage: Martinus Nijhoff, voor het
+  Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië, 1889, hlm. 51'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+language_uncertain: false
+modern_spelling: tabeur
+extraction_notes: Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each
+  headword); not AI-generated. `modern_spelling` “tabeur” is an AI-supplied transposition of the 1889
+  orthography (oe->u, dj->j, tj->c, nj->ny, ë->eu); it is NOT from the source and needs checking before
+  it is used to match the 1985 dictionary. Indonesian and English were produced by machine translation
+  of van Langen's Dutch (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl`
+  for verification; the rendering is not from the source and needs a human check. Part of speech not stated
+  in the source; left blank.

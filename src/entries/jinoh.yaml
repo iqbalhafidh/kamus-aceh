@@ -1,7 +1,8 @@
 headword: jinoh
-jawi: ''
+jawi: جِينُو
 alt_spelling:
 - jeunoh
+- djinoh
 ipa: ''
 part_of_speech: v
 definitions:
@@ -9,6 +10,9 @@ definitions:
   meaning_en: recover (for wound)
 - meaning_id: mau, berkehendak
   meaning_en: want, to desire
+- meaning_id: memperbaiki luka dan penyakit
+  meaning_en: repair of wounds and diseases
+  meaning_nl: hersteld van de wonden en ziekten
 examples: []
 etymology: ''
 related_words:
@@ -16,10 +20,18 @@ related_words:
 - tém
 dialect_notes: ''
 source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
-  Pendidikan dan Kebudayaan, 1985, hlm. 346'
+  Pendidikan dan Kebudayaan, 1985, hlm. 346; K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage:
+  Martinus Nijhoff, voor het Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië,
+  1889, hlm. 89'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
 extraction_notes: 'Homonym 1 in the source (printed as a superscript numeral before the headword). Jawi
   left blank: the source is Latin-script only and no Jawi form is printed for this entry. | Homonym 2
   in the source (printed as a superscript numeral before the headword). Jawi left blank: the source is
-  Latin-script only and no Jawi form is printed for this entry.'
+  Latin-script only and no Jawi form is printed for this entry. | Jawi copied verbatim from the printed
+  source (van Langen prints the Jawi form for each headword); not AI-generated. `modern_spelling` “jinoh”
+  is an AI-supplied transposition of the 1889 orthography (oe->u, dj->j, tj->c, nj->ny, ë->eu); it is
+  NOT from the source and needs checking before it is used to match the 1985 dictionary. Indonesian and
+  English were produced by machine translation of van Langen''s Dutch (Dutch→English→Indonesian, OPUS-MT).
+  The Dutch original is kept in `meaning_nl`/`nl` for verification; the rendering is not from the source
+  and needs a human check. Part of speech not stated in the source; left blank.'

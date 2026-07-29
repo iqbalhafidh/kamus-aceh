@@ -1,0 +1,32 @@
+headword: djaloi
+jawi: جلوی
+alt_spelling: []
+ipa: ''
+part_of_speech: ''
+definitions:
+- meaning_id: menjalankan sesuatu bersama-sama
+  meaning_en: run something together
+  meaning_nl: iets in elkaar draaien
+examples:
+- aceh: tajaloi peurambut kanul lun sigo le gata
+  aceh_1889: tadjaloi përamboet kanoel loen sigo lé gata
+  jawi: ''
+  id: oleh Anda akan menjadi tali fishhip saya sekali memutar
+  en: by You will be the rope of my fishhip once twisted
+  nl: door U worde het touw van mijn vischhengel eenmaal in elkaar gedraaid
+etymology: ''
+related_words: []
+dialect_notes: ''
+source: 'K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage: Martinus Nijhoff, voor het
+  Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië, 1889, hlm. 78'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+language_uncertain: false
+modern_spelling: jaloi
+extraction_notes: Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each
+  headword); not AI-generated. `modern_spelling` “jaloi” is an AI-supplied transposition of the 1889 orthography
+  (oe->u, dj->j, tj->c, nj->ny, ë->eu); it is NOT from the source and needs checking before it is used
+  to match the 1985 dictionary. Indonesian and English were produced by machine translation of van Langen's
+  Dutch (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl` for verification;
+  the rendering is not from the source and needs a human check. Part of speech not stated in the source;
+  left blank.

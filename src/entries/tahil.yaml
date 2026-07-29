@@ -1,0 +1,37 @@
+headword: tahil
+jawi: تاهيل
+alt_spelling: []
+ipa: ''
+part_of_speech: ''
+definitions:
+- meaning_id: berat, untuk menimbang emas
+  meaning_en: weight, for weighing gold
+  meaning_nl: gewicht, om goud te wegen
+- meaning_id: (melihat boengkal)
+  meaning_en: (see boengkal)
+  meaning_nl: (zie boengkal)
+- meaning_id: juga digunakan sebagai indikasi uang. tahil hoekoem atau djinamée kemudian merepresentasikan
+    nilai dari lima tiang tikar
+  meaning_en: is also used as an indication of money. The tahil hoekoem or djinamée then represents a
+    value of five pillar mats
+  meaning_nl: wordt ook ter aanduiding van geld gebezigd. De tahil hoekoem of djinamée stelt dan eene
+    waarde van vijf pilaarmatten voor
+- meaning_id: tahil addat dari salah empat dan tahil atau sabong, juga empat tiang tiang
+  meaning_en: the tahil addat of salah four and the tahil djoedi or sabong, also four pillar mats
+  meaning_nl: de tahil adat of salah vier en de tahil djoedi of sabong, eveneens vier pilaarmatten
+examples: []
+etymology: ''
+related_words:
+- boengkal
+dialect_notes: ''
+source: 'K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage: Martinus Nijhoff, voor het
+  Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië, 1889, hlm. 55'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+language_uncertain: false
+modern_spelling: tahil
+extraction_notes: Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each
+  headword); not AI-generated. Indonesian and English were produced by machine translation of van Langen's
+  Dutch (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl` for verification;
+  the rendering is not from the source and needs a human check. Part of speech not stated in the source;
+  left blank.

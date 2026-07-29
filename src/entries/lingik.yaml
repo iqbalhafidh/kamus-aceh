@@ -1,0 +1,38 @@
+headword: lingik
+jawi: ليغيك
+alt_spelling: []
+ipa: ''
+part_of_speech: ''
+definitions:
+- meaning_id: pindahkan kepala dari kiri ke kanan bolak-balik
+  meaning_en: move the head from left to right back and forth
+  meaning_nl: het hoofd van links naar rechts heen en weêr bewegen,
+examples:
+- aceh: jitik lingik na jum sigupang
+  aceh_1889: djitik lingik na joem sigoepang
+  jawi: ''
+  id: djitik linggang na joem sibahra, (Atj)
+  en: djitik linggang na joem sibahra, (Atj)
+  nl: djitik linggang na joem sibahra, (Atj
+- aceh: spreekw hij dut zijn hoofd van links naar rekhts heen en weer bewegen
+  aceh_1889: spreekw.) hij doet zijn hoofd van links naar rechts heen en weêr bewegen
+  jawi: ''
+  id: apakah nilai dari koepang ada di sana, ia membiarkan gelombang lengannya, atau nilai sebuah bahra
+    ada
+  en: whether the value of a koepang is there, he lets his arms wave, or the value of a bahra is there
+  nl: of de waarde er van een koepang is, hij laat zijne armen zwaaien, of de waarde er van een bahra
+    is
+etymology: ''
+related_words: []
+dialect_notes: ''
+source: 'K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage: Martinus Nijhoff, voor het
+  Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië, 1889, hlm. 250'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+language_uncertain: false
+modern_spelling: lingik
+extraction_notes: Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each
+  headword); not AI-generated. Indonesian and English were produced by machine translation of van Langen's
+  Dutch (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl` for verification;
+  the rendering is not from the source and needs a human check. Part of speech not stated in the source;
+  left blank.

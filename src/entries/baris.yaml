@@ -1,0 +1,33 @@
+headword: baris
+jawi: باریس
+alt_spelling: []
+ipa: ''
+part_of_speech: ''
+definitions:
+- meaning_id: stripe, suara tanda, baris, urutan, garis, anggota, orang-orang perang
+  meaning_en: stripe, sound signs, row, sequence, line, member, war people
+  meaning_nl: streep, klankteekens, rij, reeks, regel, gelid, krijgsvolk
+- meaning_id: mëbaris, latihan
+  meaning_en: mëbaris, exercises
+  meaning_nl: mëbaris, exerceeren
+- meaning_id: baris di atës, baris di baroeh, baris KKING, Atj nama untuk Ar tanda suara
+  meaning_en: baris di atës, baris di baroeh, bariskiwing, Atj. names for the Ar. sound signs
+  meaning_nl: baris di atës, baris di baroeh, baris kiwing, Atj. namen voor de Ar. klankteekens
+- meaning_id: baris tëpat, garis lurus
+  meaning_en: baris tëpat, a straight line
+  meaning_nl: baris tëpat, een rechte streep
+examples: []
+etymology: ''
+related_words: []
+dialect_notes: ''
+source: 'K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage: Martinus Nijhoff, voor het
+  Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië, 1889, hlm. 27'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+language_uncertain: false
+modern_spelling: baris
+extraction_notes: Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each
+  headword); not AI-generated. Indonesian and English were produced by machine translation of van Langen's
+  Dutch (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl` for verification;
+  the rendering is not from the source and needs a human check. Part of speech not stated in the source;
+  left blank.

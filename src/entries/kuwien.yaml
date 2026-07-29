@@ -1,12 +1,19 @@
 headword: kuwien
-jawi: ''
+jawi: کوئی
 alt_spelling:
 - kuien
+- koewiën
 ipa: ''
 part_of_speech: v
 definitions:
 - meaning_id: membengkokkan, menarik ke atas (umpamanya kaki)
   meaning_en: to bend, to pull to upon (for example foot)
+- meaning_id: tertarik dari anggota badan
+  meaning_en: withdrawn from the limbs
+  meaning_nl: ingetrokken van de ledematen
+- meaning_id: kēnoewiën, posisi dari kaki ditarik
+  meaning_en: kēnoewiën, the position of the withdrawn leg
+  meaning_nl: kēnoewiën, de stand van het ingetrokken been
 examples:
 - aceh: ta-kabat tapeuget kawe
   jawi: ''
@@ -36,12 +43,26 @@ examples:
   jawi: ''
   id: Ia sudah terbaring
   en: He is already lying down
+- aceh: jaroi sipeluh hanjid kuwien penoh incin unggas derema
+  aceh_1889: djaroi sipēloeh handjid koewiën pēnoh intjin oenggas dērēma
+  jawi: ''
+  id: (Atj)
+  en: (Atj)
+  nl: (Atj
 etymology: ''
 related_words: []
 dialect_notes: ''
 source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
-  Pendidikan dan Kebudayaan, 1985, hlm. 478'
+  Pendidikan dan Kebudayaan, 1985, hlm. 478; K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage:
+  Martinus Nijhoff, voor het Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië,
+  1889, hlm. 217'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
 extraction_notes: 'Jawi left blank: the source is Latin-script only and no Jawi form is printed for this
-  entry.'
+  entry. | Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each headword);
+  not AI-generated. `modern_spelling` “kuwien” is an AI-supplied transposition of the 1889 orthography
+  (oe->u, dj->j, tj->c, nj->ny, ë->eu); it is NOT from the source and needs checking before it is used
+  to match the 1985 dictionary. Indonesian and English were produced by machine translation of van Langen''s
+  Dutch (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl` for verification;
+  the rendering is not from the source and needs a human check. Part of speech not stated in the source;
+  left blank.'

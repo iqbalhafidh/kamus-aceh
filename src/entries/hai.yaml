@@ -1,5 +1,5 @@
 headword: hai
-jawi: ''
+jawi: هی
 alt_spelling: []
 ipa: ''
 part_of_speech: ''
@@ -8,6 +8,9 @@ definitions:
   meaning_en: O!, hey!
 - meaning_id: hal, keadaan, perkara, kecelakaan, halangan
   meaning_en: matter, state, affair, misfortune, obstacle
+- meaning_id: perantara klaim, hé, o
+  meaning_en: intermediary of claim, hé, o
+  meaning_nl: tusschenwerpsel van aanspraak, hé, o
 examples:
 - aceh: soe nyan? Hai, siapa itu? hai, aneuk, bèk kameu'ên di sinan
   jawi: ''
@@ -30,16 +33,28 @@ examples:
   jawi: ''
   id: padahal saya tidak tahu apa-apa
   en: although I know nothing at all
+- aceh: hai
+  aceh_1889: hai
+  jawi: ''
+  id: soi njan djak kèdèh, siapa disana?
+  en: soi njan djak kèdèh, who is it that goes there?
+  nl: soi njan djak kèdèh, wie is het, die daar gaat?
 etymology: ''
 related_words:
 - êhwai
 dialect_notes: ''
 source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
-  Pendidikan dan Kebudayaan, 1985, hlm. 274'
+  Pendidikan dan Kebudayaan, 1985, hlm. 274; K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage:
+  Martinus Nijhoff, voor het Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië,
+  1889, hlm. 284'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
 extraction_notes: 'Homonym 1 in the source (printed as a superscript numeral before the headword). Jawi
   left blank: the source is Latin-script only and no Jawi form is printed for this entry. Part of speech
   not stated in the source; left blank. | Homonym 2 in the source (printed as a superscript numeral before
   the headword). Jawi left blank: the source is Latin-script only and no Jawi form is printed for this
-  entry. Part of speech not stated in the source; left blank.'
+  entry. Part of speech not stated in the source; left blank. | Jawi copied verbatim from the printed
+  source (van Langen prints the Jawi form for each headword); not AI-generated. Indonesian and English
+  were produced by machine translation of van Langen''s Dutch (Dutch→English→Indonesian, OPUS-MT). The
+  Dutch original is kept in `meaning_nl`/`nl` for verification; the rendering is not from the source and
+  needs a human check. Part of speech not stated in the source; left blank.'

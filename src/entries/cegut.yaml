@@ -1,0 +1,34 @@
+headword: tjégoet
+jawi: چکوة
+alt_spelling: []
+ipa: ''
+part_of_speech: ''
+definitions:
+- meaning_id: peregangan untuk mendapatkan atau memahami sesuatu, berpegangan tangan untuk sesuatu yang
+    luar jangkauan kami
+  meaning_en: stretching to get or grasp something, holding hands to something that's out of our reach
+  meaning_nl: zich uitrekken om iets te krijgen of te vatten, met de handen naar iets grijpen, wat even
+    buiten ons bereik is,
+examples:
+- aceh: het grijpen naar een tak
+  aceh_1889: het grijpen naar een tak
+  jawi: ''
+  id: untuk menguasai buah
+  en: to master the fruits
+  nl: om de vruchten meester te worden
+etymology: ''
+related_words: []
+dialect_notes: ''
+source: 'K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage: Martinus Nijhoff, voor het
+  Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië, 1889, hlm. 95'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+language_uncertain: false
+modern_spelling: cegut
+extraction_notes: Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each
+  headword); not AI-generated. `modern_spelling` “cegut” is an AI-supplied transposition of the 1889 orthography
+  (oe->u, dj->j, tj->c, nj->ny, ë->eu); it is NOT from the source and needs checking before it is used
+  to match the 1985 dictionary. Indonesian and English were produced by machine translation of van Langen's
+  Dutch (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl` for verification;
+  the rendering is not from the source and needs a human check. Part of speech not stated in the source;
+  left blank.

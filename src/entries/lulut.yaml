@@ -1,6 +1,7 @@
 headword: lulut
-jawi: ''
-alt_spelling: []
+jawi: لولوة
+alt_spelling:
+- loeloet
 ipa: ''
 part_of_speech: a
 definitions:
@@ -8,17 +9,34 @@ definitions:
   meaning_en: ''
 - meaning_id: bisul
   meaning_en: boil
+- meaning_id: penuh luka atau luka karena kulit kepala atau ruam
+  meaning_en: full of sores or wounds due to scalp or rash
+  meaning_nl: vol zweren of wondjes, tengevolge van schurft of uitslag
 examples:
 - aceh: aneuk lôn purèe lulut ban saboh badan
   jawi: ''
   id: Badan anak saya penuh puru
   en: My child's body is covered with yaws
+- aceh: aneuk ulun pueree lulut ban saboh badan
+  aceh_1889: anëk oeloen poërée loeloet ban saboh badan
+  jawi: ''
+  id: anak saya memiliki ruam dan penuh luka di seluruh tubuhnya
+  en: my child has rash and is full of sores over his whole body
+  nl: mijn kind heeft uitslag en is vol zweren over zijn geheele lichaam
 etymology: ''
 related_words: []
 dialect_notes: ''
 source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
-  Pendidikan dan Kebudayaan, 1985, hlm. 557'
+  Pendidikan dan Kebudayaan, 1985, hlm. 557; K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage:
+  Martinus Nijhoff, voor het Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië,
+  1889, hlm. 246'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
 extraction_notes: 'Jawi left blank: the source is Latin-script only and no Jawi form is printed for this
-  entry.'
+  entry. | Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each headword);
+  not AI-generated. `modern_spelling` “lulut” is an AI-supplied transposition of the 1889 orthography
+  (oe->u, dj->j, tj->c, nj->ny, ë->eu); it is NOT from the source and needs checking before it is used
+  to match the 1985 dictionary. Indonesian and English were produced by machine translation of van Langen''s
+  Dutch (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl` for verification;
+  the rendering is not from the source and needs a human check. Part of speech not stated in the source;
+  left blank.'

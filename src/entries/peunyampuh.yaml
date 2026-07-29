@@ -1,0 +1,35 @@
+headword: pënjampoeh
+jawi: فِيَمَفُوء
+alt_spelling: []
+ipa: ''
+part_of_speech: ''
+definitions:
+- meaning_id: sapu
+  meaning_en: broom
+  meaning_nl: bezem
+- meaning_id: pënjampoeh poerik, sapu dari akar kumbangnya
+  meaning_en: pënjampoeh poerik, a broom of beetroot
+  meaning_nl: pënjampoeh poerik, een bezem van bladnerven
+- meaning_id: pënjampoeh boelée2, sebuah sapu serat
+  meaning_en: pënjampoeh boelée idjoeh, an aren fibre broom
+  meaning_nl: pënjampoeh boelée idjoeh, een bezem van arenvezels
+- meaning_id: pënjampoeh taleh, a tapihbezem
+  meaning_en: pënjampoeh tapih, a tapihbezem
+  meaning_nl: pënjampoeh tapih, een tapihbezem
+examples: []
+etymology: ''
+related_words: []
+dialect_notes: ''
+source: 'K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage: Martinus Nijhoff, voor het
+  Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië, 1889, hlm. 196'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+language_uncertain: false
+modern_spelling: peunyampuh
+extraction_notes: Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each
+  headword); not AI-generated. `modern_spelling` “peunyampuh” is an AI-supplied transposition of the 1889
+  orthography (oe->u, dj->j, tj->c, nj->ny, ë->eu); it is NOT from the source and needs checking before
+  it is used to match the 1985 dictionary. Indonesian and English were produced by machine translation
+  of van Langen's Dutch (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl`
+  for verification; the rendering is not from the source and needs a human check. Part of speech not stated
+  in the source; left blank.

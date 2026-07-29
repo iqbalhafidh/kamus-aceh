@@ -1,0 +1,29 @@
+headword: baba
+jawi: ببا
+alt_spelling: []
+ipa: ''
+part_of_speech: ''
+definitions:
+- meaning_id: seorang Cina yang lahir di Interier Archipelo
+  meaning_en: a Chinese born in the Indianer Archipelago
+  meaning_nl: een in den Indischer Archipel geboren Chinees
+- meaning_id: tidak seperti yang lahir di Cina, yang disebut ké keduanya dialamatkan dengan keuntungan
+    ini
+  meaning_en: unlike one born in China, who is called ké. Both are addressed with these advantages
+  meaning_nl: in tegenstelling van een in China geborene, die men ké noemt. Beiden worden met deze voorden
+    aangesproken
+examples: []
+etymology: ''
+related_words: []
+dialect_notes: ''
+source: 'K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage: Martinus Nijhoff, voor het
+  Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië, 1889, hlm. 30'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+language_uncertain: false
+modern_spelling: baba
+extraction_notes: Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each
+  headword); not AI-generated. Indonesian and English were produced by machine translation of van Langen's
+  Dutch (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl` for verification;
+  the rendering is not from the source and needs a human check. Part of speech not stated in the source;
+  left blank.

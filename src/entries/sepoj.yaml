@@ -1,0 +1,34 @@
+headword: sêpodj
+jawi: سُفُوح
+alt_spelling: []
+ipa: ''
+part_of_speech: ''
+definitions:
+- meaning_id: pemukulan
+  meaning_en: beating
+  meaning_nl: slaan, afranselen
+examples:
+- aceh: bek le tehat narit gata ngon lun entrek lun sepoj ngon tungkat bak ulee
+  aceh_1889: bêk lé têhat narit gata ngon loen êntrêk loen sêpodj ngon toengkat bak oelée
+  jawi: ''
+  id: anda harus memiliki begitu banyak berbicara dengan saya sejenak, dan aku akan memukul Anda dengan
+    tongkat saya di kepala
+  en: you shouldn't have so much talk to me for a moment, and I'll hit you with my stick on the head
+  nl: ge moet niet zooveel praats hebben tegenover mij, een oogenblik nog en ik sla U met mijn stok op
+    't hoofd
+etymology: ''
+related_words: []
+dialect_notes: ''
+source: 'K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage: Martinus Nijhoff, voor het
+  Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië, 1889, hlm. 148'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+language_uncertain: false
+modern_spelling: sepoj
+extraction_notes: Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each
+  headword); not AI-generated. `modern_spelling` “sepoj” is an AI-supplied transposition of the 1889 orthography
+  (oe->u, dj->j, tj->c, nj->ny, ë->eu); it is NOT from the source and needs checking before it is used
+  to match the 1985 dictionary. Indonesian and English were produced by machine translation of van Langen's
+  Dutch (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl` for verification;
+  the rendering is not from the source and needs a human check. Part of speech not stated in the source;
+  left blank.

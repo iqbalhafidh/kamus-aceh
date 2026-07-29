@@ -1,0 +1,32 @@
+headword: gêtah
+jawi: گُتُتَ
+alt_spelling: []
+ipa: ''
+part_of_speech: ''
+definitions:
+- meaning_id: 'permen karet, jus tanaman tipe dari permen karet yang: getah balam, goulastic'
+  meaning_en: 'plant gum, plant juice. Types of that gum are: getah balam, gomelastic'
+  meaning_nl: 'plantengom, plantensap. Soorten van die gom zijn: gêtah balam, gomelastiek'
+- meaning_id: getah rambong, the so-disebut getah pertja
+  meaning_en: getah rambong, the so-called getah pertja
+  meaning_nl: gêtah rambong, de zoogenaamde getah pertja
+- meaning_id: getah djerenang, darah naga
+  meaning_en: getah djerenang, dragon blood
+  meaning_nl: gêtah djêrênang, drakenbloed
+examples: []
+etymology: ''
+related_words: []
+dialect_notes: ''
+source: 'K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage: Martinus Nijhoff, voor het
+  Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië, 1889, hlm. 223'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+language_uncertain: false
+modern_spelling: getah
+extraction_notes: Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each
+  headword); not AI-generated. `modern_spelling` “getah” is an AI-supplied transposition of the 1889 orthography
+  (oe->u, dj->j, tj->c, nj->ny, ë->eu); it is NOT from the source and needs checking before it is used
+  to match the 1985 dictionary. Indonesian and English were produced by machine translation of van Langen's
+  Dutch (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl` for verification;
+  the rendering is not from the source and needs a human check. Part of speech not stated in the source;
+  left blank.

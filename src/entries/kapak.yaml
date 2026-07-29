@@ -1,5 +1,5 @@
 headword: kapak
-jawi: ''
+jawi: كائق
 alt_spelling: []
 ipa: ''
 part_of_speech: n
@@ -9,6 +9,12 @@ definitions:
 - meaning_id: lembing, pendahan (dengan tangkai kayu atau rotan yang se- makin membesar pada bahagian
     be- sinya)
   meaning_en: spear, a billhook with a wooden or rattan handle thickening towards the iron
+- meaning_id: kapak pendek untuk retak kayu
+  meaning_en: a short axe to crack wood
+  meaning_nl: een korte bijl om hout te kloven
+- meaning_id: lëmbing kapak, pie pitching
+  meaning_en: lëmbing kapak, pitching pie
+  meaning_nl: lëmbing kapak, werpspies
 examples:
 - aceh: meu kapak
   jawi: ''
@@ -27,10 +33,16 @@ related_words:
 - galang
 dialect_notes: ''
 source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
-  Pendidikan dan Kebudayaan, 1985, hlm. 377'
+  Pendidikan dan Kebudayaan, 1985, hlm. 377; K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage:
+  Martinus Nijhoff, voor het Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië,
+  1889, hlm. 200'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
 extraction_notes: 'Homonym 1 in the source (printed as a superscript numeral before the headword). Jawi
   left blank: the source is Latin-script only and no Jawi form is printed for this entry. | Homonym 2
   in the source (printed as a superscript numeral before the headword). Jawi left blank: the source is
-  Latin-script only and no Jawi form is printed for this entry.'
+  Latin-script only and no Jawi form is printed for this entry. | Jawi copied verbatim from the printed
+  source (van Langen prints the Jawi form for each headword); not AI-generated. Indonesian and English
+  were produced by machine translation of van Langen''s Dutch (Dutch→English→Indonesian, OPUS-MT). The
+  Dutch original is kept in `meaning_nl`/`nl` for verification; the rendering is not from the source and
+  needs a human check. Part of speech not stated in the source; left blank.'

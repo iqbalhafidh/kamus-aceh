@@ -1,0 +1,32 @@
+headword: pēgah
+jawi: فكه
+alt_spelling: []
+ipa: ''
+part_of_speech: ''
+definitions:
+- meaning_id: menjelaskan, cerita, mengatakan
+  meaning_en: explain, stories, tell, say
+  meaning_nl: verklaren, verhalen, vertellen, zeggen
+examples:
+- aceh: buka saqti nan gepegah
+  aceh_1889: Boeka Saqti nan gēpēgah
+  jawi: ''
+  id: tentang Boeka Saqti kita akan bercerita
+  en: about Boeka Saqti we will tell stories
+  nl: over Boeka Saqti zullen wij verhalen
+etymology: ''
+related_words: []
+dialect_notes: ''
+source: 'K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage: Martinus Nijhoff, voor het
+  Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië, 1889, hlm. 185'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+language_uncertain: false
+modern_spelling: pegah
+extraction_notes: Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each
+  headword); not AI-generated. `modern_spelling` “pegah” is an AI-supplied transposition of the 1889 orthography
+  (oe->u, dj->j, tj->c, nj->ny, ë->eu); it is NOT from the source and needs checking before it is used
+  to match the 1985 dictionary. Indonesian and English were produced by machine translation of van Langen's
+  Dutch (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl` for verification;
+  the rendering is not from the source and needs a human check. Part of speech not stated in the source;
+  left blank.

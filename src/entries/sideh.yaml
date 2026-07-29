@@ -1,22 +1,32 @@
-headword: sidèh
-jawi: ''
+headword: sidēh
+jawi: سيديه
 alt_spelling: []
 ipa: ''
-part_of_speech: p
+part_of_speech: ''
 definitions:
-- meaning_id: di sana
-  meaning_en: at there
+- meaning_id: di sana, di sidēh
+  meaning_en: over there, di sidēh
+  meaning_nl: ginds, di sidēh, daarginds
 examples:
-- aceh: gata taduek sidèh, bèk taduek sinoe
+- aceh: gata taduk sideh bek taminah
+  aceh_1889: gata tadoek sidēh bēk taminah
   jawi: ''
-  id: Anda duduk di sana, jangan Anda duduk di sini sidèh dèh. dan si, hidèh
-  en: ''
+  id: duduk di sana dan jangan bergerak
+  en: sit over there and don't move
+  nl: ga ginds zitten en verplaats u niet
 etymology: ''
 related_words: []
 dialect_notes: ''
-source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
-  Pendidikan dan Kebudayaan, 1985, hlm. 877'
+source: 'K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage: Martinus Nijhoff, voor het
+  Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië, 1889, hlm. 162'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: 'Jawi left blank: the source is Latin-script only and no Jawi form is printed for this
-  entry.'
+language_uncertain: false
+modern_spelling: sideh
+extraction_notes: Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each
+  headword); not AI-generated. `modern_spelling` “sideh” is an AI-supplied transposition of the 1889 orthography
+  (oe->u, dj->j, tj->c, nj->ny, ë->eu); it is NOT from the source and needs checking before it is used
+  to match the 1985 dictionary. Indonesian and English were produced by machine translation of van Langen's
+  Dutch (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl` for verification;
+  the rendering is not from the source and needs a human check. Part of speech not stated in the source;
+  left blank.

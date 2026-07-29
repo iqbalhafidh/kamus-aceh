@@ -1,0 +1,50 @@
+headword: oi
+jawi: اوی
+alt_spelling:
+- ôi
+ipa: ''
+part_of_speech: n
+definitions:
+- meaning_id: sejenis jamur harum, yang ditanam sebagai pagar
+  meaning_en: a kind of fragrant shrub, which is planted as a fence
+  meaning_nl: een soort van welriekende heester, die men als omheining plant
+- meaning_id: merendam, kembali ke sesuatu
+  meaning_en: soak up, come back to something
+  meaning_nl: oprakelen, op iets terugkomen
+- meaning_id: merangkak di atas tanah
+  meaning_en: crawling over the ground
+  meaning_nl: over den grond kruipen
+- meaning_id: dari anak kecil, bergerak dengan tangan dan kaki
+  meaning_en: of small children, moving on hands and feet
+  meaning_nl: van kleine kinderen, zich op handen en voeten voortbewegen
+examples:
+- aceh: but jang ka dilee be ta oi le jinoi
+  aceh_1889: boet jang ka dilée bē ta oi lé djinoi
+  jawi: ''
+  id: anda harus mengaduk hal-hal lagi
+  en: you shouldn't stir things up again
+  nl: gedane zaken moet ge nu niet weer oprakelen
+etymology: ''
+related_words: []
+dialect_notes: ''
+source: 'K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage: Martinus Nijhoff, voor het
+  Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië, 1889, hlm. 20, 171'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+language_uncertain: false
+modern_spelling: oi
+extraction_notes: 'Homonym I in the source (printed as a numeral before the headword). Jawi copied verbatim
+  from the printed source (van Langen prints the Jawi form for each headword); not AI-generated. Indonesian
+  and English were produced by machine translation of van Langen''s Dutch (Dutch→English→Indonesian, OPUS-MT).
+  The Dutch original is kept in `meaning_nl`/`nl` for verification; the rendering is not from the source
+  and needs a human check. | Homonym II in the source (printed as a numeral before the headword). Jawi
+  left blank: no Jawi form is printed for this entry. Indonesian and English were produced by machine
+  translation of van Langen''s Dutch (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in
+  `meaning_nl`/`nl` for verification; the rendering is not from the source and needs a human check. Part
+  of speech not stated in the source; left blank. | Jawi copied verbatim from the printed source (van
+  Langen prints the Jawi form for each headword); not AI-generated. `modern_spelling` “oi” is an AI-supplied
+  transposition of the 1889 orthography (oe->u, dj->j, tj->c, nj->ny, ë->eu); it is NOT from the source
+  and needs checking before it is used to match the 1985 dictionary. Indonesian and English were produced
+  by machine translation of van Langen''s Dutch (Dutch→English→Indonesian, OPUS-MT). The Dutch original
+  is kept in `meaning_nl`/`nl` for verification; the rendering is not from the source and needs a human
+  check. Part of speech not stated in the source; left blank.'

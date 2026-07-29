@@ -1,0 +1,44 @@
+headword: tampoek
+jawi: تمفوق
+alt_spelling: []
+ipa: ''
+part_of_speech: ''
+definitions:
+- meaning_id: cover, waarmeë buah-buahan duduk di batang
+  meaning_en: cover, waarmeë fruits sitting on the stem
+  meaning_nl: bedeksel, waarmeë vruchten aan den steel zitten
+- meaning_id: 'dikatakan juga dari potongan-potongan pakaian dan perhiasan: tampoek kopiia, mahkota emas
+    di copias dari Atj kepala'
+  meaning_en: 'is also said of clothing pieces and jewelry: tampoek kopia, golden crown on the copias
+    of the Atj. heads'
+  meaning_nl: 'wordt ook van kleedingstukken en sieraden gezegd: tampoek kopia, gouden kroontje op de
+    kopia''s der Atj. hoofden'
+- meaning_id: tampoek pädang, penutup pedang
+  meaning_en: tampoek pädang, sword cover
+  meaning_nl: tampoek pädang, zwaardbedeksel
+- meaning_id: tampoek siwas, dekorasi emas di ujung jaket
+  meaning_en: tampoek siwas, golden decoration at the end of the jacket
+  meaning_nl: tampoek siwas, gouden versiersel aan het eind van het gevest
+examples:
+- aceh: siwas matampuk
+  aceh_1889: siwas mätampoek
+  jawi: ''
+  id: sèkin mëpoetjoek, idjar mëtëlëpoek, tangkoeloek mësëroek Salinan ho njan gëkëmëng djak (ZAtj)
+  en: sèkin mëpoetjoek, idjar mëtëlëpoek, tangkoeloek mësëroek salinan ho njan gëkëmëng djak (Atj)
+  nl: sèkin mëpoetjoek, idjar mëtëlëpoek, tangkoeloek mësëroek salinan ho njan gëkëmëng djak (Atj
+etymology: ''
+related_words: []
+dialect_notes: ''
+source: 'K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage: Martinus Nijhoff, voor het
+  Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië, 1889, hlm. 65'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+language_uncertain: false
+modern_spelling: tampuk
+extraction_notes: Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each
+  headword); not AI-generated. `modern_spelling` “tampuk” is an AI-supplied transposition of the 1889
+  orthography (oe->u, dj->j, tj->c, nj->ny, ë->eu); it is NOT from the source and needs checking before
+  it is used to match the 1985 dictionary. Indonesian and English were produced by machine translation
+  of van Langen's Dutch (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl`
+  for verification; the rendering is not from the source and needs a human check. Part of speech not stated
+  in the source; left blank.

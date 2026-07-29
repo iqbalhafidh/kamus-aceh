@@ -1,7 +1,8 @@
 headword: jahôi
-jawi: ''
+jawi: جاعوی
 alt_spelling:
 - meujahôi
+- djahoi
 ipa: ''
 part_of_speech: a
 definitions:
@@ -13,19 +14,36 @@ definitions:
   meaning_en: smoke
 - meaning_id: tumbuh-tumbuhan rerumputan)
   meaning_en: ''
+- meaning_id: berat, tertutup rapat
+  meaning_en: heavy, densely covered
+  meaning_nl: zwaar, dicht begroeid
 examples:
 - aceh: naleueng lam umong lôn lé that timoh, 'oh meu jahôi saré
   jawi: ''
   id: Banyak sekali tumbuh rumput di sawah saya, tumbuhnya lebat sekali
   en: A great deal of grass grows in my field, very thickly
+- aceh: naleng lam umong lun le tehat timoh oh mejahoi
+  aceh_1889: nalēng lam oemong loen lé tēhat timoh ~oh mēdjahoi
+  jawi: ''
+  id: rumput di sawah saya begitu umum, sehingga (bidang beras) tertutup padat
+  en: the grass on my rice field is so common, so that the (rice field) is densely covered
+  nl: het gras op mijn rijst veld komt zoo menigvuldig op, zoodat het (rijstveld) dicht begroeid is
 etymology: ''
 related_words:
 - bôi
 - jai
 dialect_notes: ''
 source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
-  Pendidikan dan Kebudayaan, 1985, hlm. 321'
+  Pendidikan dan Kebudayaan, 1985, hlm. 321; K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage:
+  Martinus Nijhoff, voor het Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië,
+  1889, hlm. 79'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
 extraction_notes: 'Jawi left blank: the source is Latin-script only and no Jawi form is printed for this
-  entry.'
+  entry. | Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each headword);
+  not AI-generated. `modern_spelling` “jahoi” is an AI-supplied transposition of the 1889 orthography
+  (oe->u, dj->j, tj->c, nj->ny, ë->eu); it is NOT from the source and needs checking before it is used
+  to match the 1985 dictionary. Indonesian and English were produced by machine translation of van Langen''s
+  Dutch (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl` for verification;
+  the rendering is not from the source and needs a human check. Part of speech not stated in the source;
+  left blank.'

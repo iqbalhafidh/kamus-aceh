@@ -1,5 +1,5 @@
 headword: roh
-jawi: ''
+jawi: رؤه
 alt_spelling:
 - meuroh
 ipa: ''
@@ -37,6 +37,9 @@ definitions:
   meaning_en: ''
 - meaning_id: tidak dirawat
   meaning_en: ''
+- meaning_id: benar, lurus ke atas
+  meaning_en: right, straight up
+  meaning_nl: juist, regelrecht
 examples:
 - aceh: gata lagèe ureueng hana lé roh
   jawi: ''
@@ -50,12 +53,20 @@ examples:
   jawi: ''
   id: roh
   en: spirit
+- aceh: roh ubak mie ku juk panggang
+  aceh_1889: roh oebak miē koe djoek panggang
+  jawi: ''
+  id: hanya untuk kucing saya menawarkan (daging panggang)
+  en: just to the cat I offer the roasted (meat)
+  nl: juist aan de kat bied ik het geroosterde (vleesch) aan
 etymology: ''
 related_words:
 - aru-ah
 dialect_notes: ''
 source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
-  Pendidikan dan Kebudayaan, 1985, hlm. 813'
+  Pendidikan dan Kebudayaan, 1985, hlm. 813; K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage:
+  Martinus Nijhoff, voor het Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië,
+  1889, hlm. 131'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
 extraction_notes: 'Homonym 1 in the source (printed as a superscript numeral before the headword). Jawi
@@ -64,4 +75,8 @@ extraction_notes: 'Homonym 1 in the source (printed as a superscript numeral bef
   Latin-script only and no Jawi form is printed for this entry. | English gloss left blank: no confident
   translation of the Indonesian definition was available. Homonym 3 in the source (printed as a superscript
   numeral before the headword). Jawi left blank: the source is Latin-script only and no Jawi form is printed
-  for this entry.'
+  for this entry. | Jawi copied verbatim from the printed source (van Langen prints the Jawi form for
+  each headword); not AI-generated. Indonesian and English were produced by machine translation of van
+  Langen''s Dutch (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl`
+  for verification; the rendering is not from the source and needs a human check. Part of speech not stated
+  in the source; left blank.'

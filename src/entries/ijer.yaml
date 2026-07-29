@@ -1,0 +1,41 @@
+headword: ijêr
+jawi: ایر
+alt_spelling: []
+ipa: ''
+part_of_speech: ''
+definitions:
+- meaning_id: air dan, secara umum, kelembaban apapun
+  meaning_en: water and, in general, any moisture
+  meaning_nl: water en, in 't algemeen, elk vocht
+- meaning_id: ijer loedah, spog, ketika dikeluarkan
+  meaning_en: ijer loedah, spog, when ejected
+  meaning_nl: ijêr loedah, spog, wanneer het reeds uitgeworpen is
+- meaning_id: iier babah, air liur, ketika masih dalam mulut
+  meaning_en: iier babah, saliva, when it is still in the mouth
+  meaning_nl: ijêr babah, speeksel, wanneer men het nog in den mond heeft
+- meaning_id: ijer mata, air mata
+  meaning_en: ijer mata, tears
+  meaning_nl: ijêr mata, tranen
+- meaning_id: ijer hidoeng, ingus
+  meaning_en: ijer hidoeng, snot
+  meaning_nl: ijêr hidoeng, snot
+- meaning_id: ijer pirak, ijer pisau, ijer tembaga, zil-
+  meaning_en: ijer pirak, ijer knife, ijer tembaga, zil-
+  meaning_nl: ijêr pirak, ijêr mês, ijêr têmbaga, zil-
+examples: []
+etymology: ''
+related_words: []
+dialect_notes: ''
+source: 'K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage: Martinus Nijhoff, voor het
+  Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië, 1889, hlm. 21'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+language_uncertain: false
+modern_spelling: ijer
+extraction_notes: Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each
+  headword); not AI-generated. `modern_spelling` “ijer” is an AI-supplied transposition of the 1889 orthography
+  (oe->u, dj->j, tj->c, nj->ny, ë->eu); it is NOT from the source and needs checking before it is used
+  to match the 1985 dictionary. Indonesian and English were produced by machine translation of van Langen's
+  Dutch (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl` for verification;
+  the rendering is not from the source and needs a human check. Part of speech not stated in the source;
+  left blank.

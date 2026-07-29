@@ -1,0 +1,38 @@
+headword: oer
+jawi: اور
+alt_spelling: []
+ipa: ''
+part_of_speech: ''
+definitions:
+- meaning_id: kelapa
+  meaning_en: coconut
+  meaning_nl: kokosnoot
+- meaning_id: bak oer, pohon popper
+  meaning_en: bak oer, popper tree
+  meaning_nl: bak oer, klapperboom
+- meaning_id: oer masak, kelapa terlalu matang
+  meaning_en: oer masak, overripe coconut
+  meaning_nl: oer masak, overrijpe kokosnoot
+- meaning_id: oer tjènoengkil, copra
+  meaning_en: oer tjènoengkil, copra
+  meaning_nl: oer tjènoengkil, copra
+- meaning_id: oer moeda, kelapa muda
+  meaning_en: oer moeda, young coconut
+  meaning_nl: oer moeda, jonge kokosnoot
+examples: []
+etymology: ''
+related_words: []
+dialect_notes: ''
+source: 'K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage: Martinus Nijhoff, voor het
+  Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië, 1889, hlm. 15'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+language_uncertain: false
+modern_spelling: ur
+extraction_notes: Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each
+  headword); not AI-generated. `modern_spelling` “ur” is an AI-supplied transposition of the 1889 orthography
+  (oe->u, dj->j, tj->c, nj->ny, ë->eu); it is NOT from the source and needs checking before it is used
+  to match the 1985 dictionary. Indonesian and English were produced by machine translation of van Langen's
+  Dutch (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl` for verification;
+  the rendering is not from the source and needs a human check. Part of speech not stated in the source;
+  left blank.

@@ -1,5 +1,5 @@
 headword: ragam
-jawi: ''
+jawi: راكم
 alt_spelling: []
 ipa: ''
 part_of_speech: n
@@ -8,6 +8,9 @@ definitions:
     jenis, warna, menyanyikan sesuatu irama, bercerita, bersikap seperti, seolah-olah
   meaning_en: variety, rhythm, tune, tone, way to perform something (also), attitude, behaviour, kind
     (further), colour, to sing something rhythm, story, to behave like, as though
+- meaning_id: obat, lemon, bijaksana, warna, hue compare
+  meaning_en: cure, lemon, wise, color, hue [compare.....]
+  meaning_nl: kuur, luim, wijs, kleur, tint [vergel. راكم]
 examples:
 - aceh: peue ragam jiyob bangsi ureueng jéh bunoe?
   jawi: ''
@@ -17,8 +20,14 @@ etymology: ''
 related_words: []
 dialect_notes: ''
 source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
-  Pendidikan dan Kebudayaan, 1985, hlm. 763'
+  Pendidikan dan Kebudayaan, 1985, hlm. 763; K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage:
+  Martinus Nijhoff, voor het Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië,
+  1889, hlm. 120'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
 extraction_notes: 'Jawi left blank: the source is Latin-script only and no Jawi form is printed for this
-  entry.'
+  entry. | Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each headword);
+  not AI-generated. Indonesian and English were produced by machine translation of van Langen''s Dutch
+  (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl` for verification;
+  the rendering is not from the source and needs a human check. Part of speech not stated in the source;
+  left blank.'

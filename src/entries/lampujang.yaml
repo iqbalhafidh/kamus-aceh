@@ -1,0 +1,28 @@
+headword: lampoejang
+jawi: لمفويغ
+alt_spelling: []
+ipa: ''
+part_of_speech: n
+definitions:
+- meaning_id: nama sebuah tanaman
+  meaning_en: name of a plant
+  meaning_nl: naam eener plant
+- meaning_id: zingiber nol atau cassumunar, tidak di Great Aceh, tapi di pulau Bras
+  meaning_en: zingiber zerumbet or cassumunar, not in Great Aceh, but on the island of Bras
+  meaning_nl: zingiber zerumbet of cassumunar, niet in Groot Atjeh, doch op het eiland Bras voorkomende
+examples: []
+etymology: ''
+related_words: []
+dialect_notes: ''
+source: 'K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage: Martinus Nijhoff, voor het
+  Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië, 1889, hlm. 242'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+language_uncertain: false
+modern_spelling: lampujang
+extraction_notes: Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each
+  headword); not AI-generated. `modern_spelling` “lampujang” is an AI-supplied transposition of the 1889
+  orthography (oe->u, dj->j, tj->c, nj->ny, ë->eu); it is NOT from the source and needs checking before
+  it is used to match the 1985 dictionary. Indonesian and English were produced by machine translation
+  of van Langen's Dutch (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl`
+  for verification; the rendering is not from the source and needs a human check.

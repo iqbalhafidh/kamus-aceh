@@ -1,0 +1,30 @@
+headword: lidang-lidang
+jawi: ليدغ
+alt_spelling: []
+ipa: ''
+part_of_speech: ''
+definitions:
+- meaning_id: berjalan naik dan turun, berjalan di sekitar sesuatu
+  meaning_en: walking up and down, walking around something
+  meaning_nl: op en neêr loopen, om iets rondloopen
+examples:
+- aceh: pue bueet gata meulidang lidang sinoi geuj taminah
+  aceh_1889: poeë boëet gata mëlidang-lidang sinoi gëdj taminah
+  jawi: ''
+  id: apa yang Anda lakukan untuk berjalan naik dan turun di sini?
+  en: what do you do to walk up and down here? It is better that you go away
+  nl: wat doet ge hier op en neêr te loopen, het is beter dat gij weggaat
+etymology: ''
+related_words: []
+dialect_notes: ''
+source: 'K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage: Martinus Nijhoff, voor het
+  Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië, 1889, hlm. 249'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+language_uncertain: false
+modern_spelling: lidang-lidang
+extraction_notes: Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each
+  headword); not AI-generated. Indonesian and English were produced by machine translation of van Langen's
+  Dutch (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl` for verification;
+  the rendering is not from the source and needs a human check. Part of speech not stated in the source;
+  left blank.

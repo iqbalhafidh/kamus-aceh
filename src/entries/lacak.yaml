@@ -1,6 +1,7 @@
 headword: lacak
-jawi: ''
-alt_spelling: []
+jawi: لاچق
+alt_spelling:
+- latjak
 ipa: ''
 part_of_speech: n
 definitions:
@@ -8,6 +9,9 @@ definitions:
     yang dapat diamati di kejauhan
   meaning_en: the impression given by a person or thing seen at a distance, appearance, conduct visible
     from a distance
+- meaning_id: memiliki penampilan, penampilan, pandangan
+  meaning_en: having appearance, appearance, view
+  meaning_nl: het voorkomen hebben, uiterlijk, uitzicht
 examples:
 - aceh: ureueng nyan lacak takalon di jeueoh lagee inong, jijak-jak lagee inong
   jawi: ''
@@ -21,12 +25,32 @@ examples:
   jawi: ''
   id: tampaknya spt akan hujan
   en: visible like will rain
+- aceh: lacak lagee inong
+  aceh_1889: latjak lagée inong
+  jawi: ''
+  id: pencegahan seorang wanita
+  en: the prevention of a woman
+  nl: het voorkomen hebben eener vrouw
+- aceh: lacak jih kemeng pemupoh
+  aceh_1889: latjak djih kēmeng pēmoepoh
+  jawi: ''
+  id: penampilannya menunjukkan seorang bos pesawat tempur
+  en: his appearance indicates a fighter boss
+  nl: zijn uiterlijk duidt een vechtersbaas aan
 etymology: ''
 related_words: []
 dialect_notes: ''
 source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
-  Pendidikan dan Kebudayaan, 1985, hlm. 481'
+  Pendidikan dan Kebudayaan, 1985, hlm. 481; K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage:
+  Martinus Nijhoff, voor het Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië,
+  1889, hlm. 234'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
 extraction_notes: 'Jawi left blank: the source is Latin-script only and no Jawi form is printed for this
-  entry.'
+  entry. | Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each headword);
+  not AI-generated. `modern_spelling` “lacak” is an AI-supplied transposition of the 1889 orthography
+  (oe->u, dj->j, tj->c, nj->ny, ë->eu); it is NOT from the source and needs checking before it is used
+  to match the 1985 dictionary. Indonesian and English were produced by machine translation of van Langen''s
+  Dutch (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl` for verification;
+  the rendering is not from the source and needs a human check. Part of speech not stated in the source;
+  left blank.'

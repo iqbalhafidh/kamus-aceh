@@ -1,0 +1,36 @@
+headword: angkoet
+jawi: اَغْكُوَة
+alt_spelling: []
+ipa: ''
+part_of_speech: ''
+definitions:
+- meaning_id: ēngkoet, ikan
+  meaning_en: ēngkoet, fish
+  meaning_nl: wegbrengen, oplichten, verplaatsen van goederen. اَغْكُوَة ēngkoet, visch
+- meaning_id: angkoet laoet, ikan laut
+  meaning_en: angkoet laoet, sea fish
+  meaning_nl: angkoet laoet, zeevisch
+- meaning_id: angkoet kērong, ikan sungai, ikan angkoet paja, moerasvis ēngkong, pendek-ekor atau terlalu-disebut
+    Lampong monyet ēngkēhoei, nama sejenis kue ēngkhēr, satu - berkaki melompat
+  meaning_en: angkoet kērong, river fish, angkoet paja, moerasvis. ēngkong, short-tailed or so-called
+    Lampong monkey. ēngkēhoei, name of a kind of pastry. ēngkhēr, one-legged jumping
+  meaning_nl: angkoet kērong, riviervisch, angkoet paja, moerasvisch. اَغْكُوغ ēngkong, de kortstaartige
+    of zoogenaamde Lampong-sche aap. اَغْكَهْوَى ēngkēhoei, naam van een soort gebak. اَغْكَهِيَر ēngkhēr,
+    op één been voortspringen
+examples: []
+etymology: ''
+related_words: []
+dialect_notes: ''
+source: 'K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage: Martinus Nijhoff, voor het
+  Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië, 1889, hlm. 6'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+language_uncertain: false
+modern_spelling: angkut
+extraction_notes: Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each
+  headword); not AI-generated. `modern_spelling` “angkut” is an AI-supplied transposition of the 1889
+  orthography (oe->u, dj->j, tj->c, nj->ny, ë->eu); it is NOT from the source and needs checking before
+  it is used to match the 1985 dictionary. Indonesian and English were produced by machine translation
+  of van Langen's Dutch (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl`
+  for verification; the rendering is not from the source and needs a human check. Part of speech not stated
+  in the source; left blank.

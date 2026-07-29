@@ -1,11 +1,24 @@
 headword: piet
-jawi: ''
-alt_spelling: []
+jawi: فِيَتَ
+alt_spelling:
+- piët
 ipa: ''
 part_of_speech: n
 definitions:
 - meaning_id: jenis kutu yang bentuknya lebih besar dari kutu biasa dan hidup pada hewan
   meaning_en: ''
+- meaning_id: luis
+  meaning_en: luis
+  meaning_nl: luis
+- meaning_id: piët këbë, kutu carbouw
+  meaning_en: piët këbë, Carbouw lice
+  meaning_nl: piët këbë, karbouwenluis
+- meaning_id: piët lëmo, kutu sapi
+  meaning_en: piët lëmo, bovine lice
+  meaning_nl: piët lëmo, runderenluis
+- meaning_id: piët angina, Luis, ditemukan dalam manusia
+  meaning_en: piët angina, the Luis, found in humans
+  meaning_nl: piët angin, de luis, die bij menschen wordt aangetroffen
 examples:
 - aceh: asèe, bui, gajah, keube-ue, leumo, manok, kutu anjing, babi, gajah
   jawi: ''
@@ -27,8 +40,17 @@ etymology: ''
 related_words: []
 dialect_notes: ''
 source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
-  Pendidikan dan Kebudayaan, 1985, hlm. 718'
+  Pendidikan dan Kebudayaan, 1985, hlm. 718; K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage:
+  Martinus Nijhoff, voor het Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië,
+  1889, hlm. 193'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
 extraction_notes: 'English gloss left blank: no confident translation of the Indonesian definition was
-  available. Jawi left blank: the source is Latin-script only and no Jawi form is printed for this entry.'
+  available. Jawi left blank: the source is Latin-script only and no Jawi form is printed for this entry.
+  | Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each headword);
+  not AI-generated. `modern_spelling` “piet” is an AI-supplied transposition of the 1889 orthography (oe->u,
+  dj->j, tj->c, nj->ny, ë->eu); it is NOT from the source and needs checking before it is used to match
+  the 1985 dictionary. Indonesian and English were produced by machine translation of van Langen''s Dutch
+  (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl` for verification;
+  the rendering is not from the source and needs a human check. Part of speech not stated in the source;
+  left blank.'

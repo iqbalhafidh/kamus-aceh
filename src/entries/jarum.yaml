@@ -1,0 +1,35 @@
+headword: djaroem
+jawi: جاروم
+alt_spelling: []
+ipa: ''
+part_of_speech: ''
+definitions:
+- meaning_id: jarum suntik, jarum kompas, searah jarum jam
+  meaning_en: needle, compass needle, clockwise hand
+  meaning_nl: naald, kompasnaald, wijzer van een uurwerk
+- meaning_id: djaroem djatoer Tilam, perdana untuk tersedak kasur
+  meaning_en: djaroem djatoer tilam, prime to choke mattresses
+  meaning_nl: djaroem djatoer tilam, priem om matrassen te stikken
+- meaning_id: poengoeng djaroem, mata jarum
+  meaning_en: poengoeng djaroem, the eye of a needle
+  meaning_nl: poengoeng djaroem, het oog van een naald
+- meaning_id: djaroem rindo, sebuah pin
+  meaning_en: djaroem rindo, a pin
+  meaning_nl: djaroem rindo, een speld
+examples: []
+etymology: ''
+related_words: []
+dialect_notes: ''
+source: 'K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage: Martinus Nijhoff, voor het
+  Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië, 1889, hlm. 77'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+language_uncertain: false
+modern_spelling: jarum
+extraction_notes: Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each
+  headword); not AI-generated. `modern_spelling` “jarum” is an AI-supplied transposition of the 1889 orthography
+  (oe->u, dj->j, tj->c, nj->ny, ë->eu); it is NOT from the source and needs checking before it is used
+  to match the 1985 dictionary. Indonesian and English were produced by machine translation of van Langen's
+  Dutch (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl` for verification;
+  the rendering is not from the source and needs a human check. Part of speech not stated in the source;
+  left blank.

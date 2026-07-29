@@ -1,11 +1,24 @@
 headword: Laba
-jawi: ''
-alt_spelling: []
+jawi: ليا
+alt_spelling:
+- laba
 ipa: ''
 part_of_speech: n
 definitions:
 - meaning_id: laba, keuntungan
   meaning_en: profit
+- meaning_id: profit
+  meaning_en: profit, benefit
+  meaning_nl: winst, voordeel, baat
+- meaning_id: mēlaba, menguntungkan
+  meaning_en: mēlaba, profitable
+  meaning_nl: mēlaba, winstgevend zijn
+- meaning_id: pēlaba, menguntungkan, produktif
+  meaning_en: pēlaba, profitable, productive
+  meaning_nl: pēlaba, winstgevend maken, productief maken
+- meaning_id: mēlaba-laba, bunga pada menarik minat
+  meaning_en: mēlaba-laba, interest on drawing interest
+  meaning_nl: mēlaba-laba, interest op interest trekken
 examples:
 - aceh: sihareukat, Laba meucarikat Laba hareukat, meudua Laba, Laba dua, maw'aih
   jawi: ''
@@ -37,8 +50,14 @@ related_words: []
 dialect_notes: 'Marked (dl hik) in the source: attested in hikayat, the classical Acehnese narrative verse
   register.'
 source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
-  Pendidikan dan Kebudayaan, 1985, hlm. 479'
+  Pendidikan dan Kebudayaan, 1985, hlm. 479; K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage:
+  Martinus Nijhoff, voor het Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië,
+  1889, hlm. 237'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
 extraction_notes: 'Jawi left blank: the source is Latin-script only and no Jawi form is printed for this
-  entry.'
+  entry. | Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each headword);
+  not AI-generated. Indonesian and English were produced by machine translation of van Langen''s Dutch
+  (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl` for verification;
+  the rendering is not from the source and needs a human check. Part of speech not stated in the source;
+  left blank.'

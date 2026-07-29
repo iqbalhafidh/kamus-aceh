@@ -1,0 +1,35 @@
+headword: gëlap
+jawi: كَلُف
+alt_spelling: []
+ipa: ''
+part_of_speech: ''
+definitions:
+- meaning_id: gelap, buram, penjara
+  meaning_en: dark, opaque, prison
+  meaning_nl: donker, duister, ondoorschijnend, gevangenis
+- meaning_id: ge-lap-goelita, gelap gulita, Stitch gelap
+  meaning_en: ge-lap-goelita, pitch dark, stitch dark
+  meaning_nl: ge-lap-goelita, stikdonker, pikdonker, stikduister
+examples:
+- aceh: ladum jigeulab jigeulap jipeusyiksa
+  aceh_1889: ladoem djigëlab (djigëlap) djipësjiksa
+  jawi: ''
+  id: beberapa ia dimasukkan ke dalam penjara dan dihukum
+  en: some he threw in prison and punished
+  nl: een gedeelte wierp hij in de gevangenis en strafte hij
+etymology: ''
+related_words: []
+dialect_notes: ''
+source: 'K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage: Martinus Nijhoff, voor het
+  Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië, 1889, hlm. 226'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+language_uncertain: false
+modern_spelling: geulap
+extraction_notes: Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each
+  headword); not AI-generated. `modern_spelling` “geulap” is an AI-supplied transposition of the 1889
+  orthography (oe->u, dj->j, tj->c, nj->ny, ë->eu); it is NOT from the source and needs checking before
+  it is used to match the 1985 dictionary. Indonesian and English were produced by machine translation
+  of van Langen's Dutch (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl`
+  for verification; the rendering is not from the source and needs a human check. Part of speech not stated
+  in the source; left blank.

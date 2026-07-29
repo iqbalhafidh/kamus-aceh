@@ -1,0 +1,33 @@
+headword: tëlas
+jawi: تَلَس
+alt_spelling: []
+ipa: ''
+part_of_speech: ''
+definitions:
+- meaning_id: yang banyak mencela, yang kian ke mari menghambur fitnah
+  meaning_en: repenting, blaming
+  meaning_nl: berouw hebben, zich over iets berouwen, zich verwijten
+examples:
+- aceh: pikir bak habis bek teulas dudoi
+  aceh_1889: pikir bak habis bék tëlas doedoi
+  jawi: ''
+  id: mempertimbangkan semuanya dengan baik, sehingga Anda tidak bertobat kemudian sinonim dengan mënjësal
+    dan mëlas
+  en: consider everything well, so you don't repent later. Synonymize with mënjësal and mëlas
+  nl: overdenk alles goed, opdat ge er later geen berouw van hebbet. Synoniem met mënjësal en mëlas
+etymology: ''
+related_words: []
+dialect_notes: ''
+source: 'K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage: Martinus Nijhoff, voor het
+  Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië, 1889, hlm. 63'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+language_uncertain: false
+modern_spelling: teulas
+extraction_notes: Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each
+  headword); not AI-generated. `modern_spelling` “teulas” is an AI-supplied transposition of the 1889
+  orthography (oe->u, dj->j, tj->c, nj->ny, ë->eu); it is NOT from the source and needs checking before
+  it is used to match the 1985 dictionary. Indonesian and English were produced by machine translation
+  of van Langen's Dutch (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl`
+  for verification; the rendering is not from the source and needs a human check. Part of speech not stated
+  in the source; left blank.

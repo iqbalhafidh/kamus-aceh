@@ -1,0 +1,30 @@
+headword: balong
+jawi: بالوغ
+alt_spelling: []
+ipa: ''
+part_of_speech: ''
+definitions:
+- meaning_id: ikan yang tidak perlu didistribusikan oleh nelayan dalam perusahaan nelayan, karena ikan
+    lain telah merobek sepotong ikan yang tertangkap. juga spesies ikan loebiem, yang memiliki mulut kecil
+    dan sulit untuk menggigit hook, tidak perlu dibagi
+  meaning_en: fish which does not need to be distributed by the fisherman in a fishing company, because
+    another fish has torn a piece of that caught fish. Also the fish species loebiem, which has a small
+    mouth and difficult to bite at a hook, need not be divided
+  meaning_nl: visch die in een visschersvennootschap door den visscher niet behoeft verdeeld te worden,
+    omdat een andere visch een stuk van dien gevangen visch heeft afgescheurd. Ook de vischsoort loebiem,
+    die een kleinen muil heeft en moeilijk aan een haak bijt, behoeft men niet te verdeelen
+examples: []
+etymology: ''
+related_words: []
+dialect_notes: ''
+source: 'K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage: Martinus Nijhoff, voor het
+  Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië, 1889, hlm. 28'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+language_uncertain: false
+modern_spelling: balong
+extraction_notes: Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each
+  headword); not AI-generated. Indonesian and English were produced by machine translation of van Langen's
+  Dutch (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl` for verification;
+  the rendering is not from the source and needs a human check. Part of speech not stated in the source;
+  left blank.

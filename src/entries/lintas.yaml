@@ -1,0 +1,44 @@
+headword: lintas
+jawi: لِيمَغْ
+alt_spelling: []
+ipa: ''
+part_of_speech: ''
+definitions:
+- meaning_id: berjalan bolak-balik, mengubah sesuatu
+  meaning_en: walk back and forth, turn around something
+  meaning_nl: heen en weêr loopen, om iets heen draaien
+- meaning_id: '{Y: i} sebuah kayu basah, yang satu tempat di suatu tempat'
+  meaning_en: a wooden weld, which one places somewhere
+  meaning_nl: een houten lasch, die men ergens inzet
+- meaning_id: mengingat sesuatu, sesuatu yang datang ke pikiran
+  meaning_en: remembering something, something that comes to mind
+  meaning_nl: zich iets herinneren, iets wat in de gedachten komt
+examples:
+- aceh: be melintas gob duk
+  aceh_1889: bè mèlintas gob doek
+  jawi: ''
+  id: jangan berjalan bolak-balik, di mana orang
+  en: don't walk back and forth, where people are
+  nl: loop niet zoo heen en weêr, waar de menschen zitten
+etymology: ''
+related_words: []
+dialect_notes: ''
+source: 'K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage: Martinus Nijhoff, voor het
+  Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië, 1889, hlm. 251'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+language_uncertain: false
+modern_spelling: lintas
+extraction_notes: 'Homonym I in the source (printed as a numeral before the headword). Jawi copied verbatim
+  from the printed source (van Langen prints the Jawi form for each headword); not AI-generated. Indonesian
+  and English were produced by machine translation of van Langen''s Dutch (Dutch→English→Indonesian, OPUS-MT).
+  The Dutch original is kept in `meaning_nl`/`nl` for verification; the rendering is not from the source
+  and needs a human check. Part of speech not stated in the source; left blank. | Homonym II in the source
+  (printed as a numeral before the headword). Jawi left blank: no Jawi form is printed for this entry.
+  Indonesian and English were produced by machine translation of van Langen''s Dutch (Dutch→English→Indonesian,
+  OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl` for verification; the rendering is not from
+  the source and needs a human check. Part of speech not stated in the source; left blank. | Homonym III
+  in the source (printed as a numeral before the headword). Jawi left blank: no Jawi form is printed for
+  this entry. Indonesian and English were produced by machine translation of van Langen''s Dutch (Dutch→English→Indonesian,
+  OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl` for verification; the rendering is not from
+  the source and needs a human check. Part of speech not stated in the source; left blank.'

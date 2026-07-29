@@ -1,0 +1,32 @@
+headword: béroet
+jawi: بروغ
+alt_spelling: []
+ipa: ''
+part_of_speech: ''
+definitions:
+- meaning_id: wanita yang malu, mengumpat
+  meaning_en: female shame, swearing
+  meaning_nl: vrouwelijk schaamdeel, scheldwoord
+examples:
+- aceh: hoka ka me arta ulun bunoi lam berut kah
+  aceh_1889: hoka ka mé arta oeloen boenoi lam béroet kah
+  jawi: ''
+  id: di mana saja kau membuat barang-barangku menghilang karena rasa malumu?
+  en: where have you made my goods disappear in your shame?
+  nl: waar hebt ge mijne goederen zoeven doen verdwijnen? in uw schaamdeel
+etymology: ''
+related_words: []
+dialect_notes: ''
+source: 'K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage: Martinus Nijhoff, voor het
+  Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië, 1889, hlm. 33'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+language_uncertain: false
+modern_spelling: berut
+extraction_notes: Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each
+  headword); not AI-generated. `modern_spelling` “berut” is an AI-supplied transposition of the 1889 orthography
+  (oe->u, dj->j, tj->c, nj->ny, ë->eu); it is NOT from the source and needs checking before it is used
+  to match the 1985 dictionary. Indonesian and English were produced by machine translation of van Langen's
+  Dutch (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl` for verification;
+  the rendering is not from the source and needs a human check. Part of speech not stated in the source;
+  left blank.

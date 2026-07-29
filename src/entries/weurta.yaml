@@ -1,0 +1,32 @@
+headword: wërta
+jawi: ورتا
+alt_spelling: []
+ipa: ''
+part_of_speech: ''
+definitions:
+- meaning_id: berita, pesan, rumor, cerita, khotbah
+  meaning_en: news, message, rumor, messages, stories, preaching
+  meaning_nl: tijding, nieuws, bericht, gerucht, berichten, verhalen, verkondigen
+examples:
+- aceh: weurta gob meunan bit han bit hana lun tuan tuoh
+  aceh_1889: wërta gob mënan bit han bit hana loen toean toeoh
+  jawi: ''
+  id: i tidak tahu apakah itu benar atau salah
+  en: i do not know whether it is correct or incorrect
+  nl: aldus bericht men, of het juist of onjuist is, weet ik niet
+etymology: ''
+related_words: []
+dialect_notes: ''
+source: 'K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage: Martinus Nijhoff, voor het
+  Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië, 1889, hlm. 276'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+language_uncertain: false
+modern_spelling: weurta
+extraction_notes: Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each
+  headword); not AI-generated. `modern_spelling` “weurta” is an AI-supplied transposition of the 1889
+  orthography (oe->u, dj->j, tj->c, nj->ny, ë->eu); it is NOT from the source and needs checking before
+  it is used to match the 1985 dictionary. Indonesian and English were produced by machine translation
+  of van Langen's Dutch (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl`
+  for verification; the rendering is not from the source and needs a human check. Part of speech not stated
+  in the source; left blank.

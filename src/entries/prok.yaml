@@ -1,5 +1,5 @@
 headword: prok
-jawi: ''
+jawi: قُروك
 alt_spelling:
 - pr'ok
 ipa: ''
@@ -11,19 +11,30 @@ definitions:
   meaning_en: ''
 - meaning_id: bunyi telur yang pecah
   meaning_en: ''
+- meaning_id: diserang oleh cacar, motty
+  meaning_en: invaded by smallpox, motty
+  meaning_nl: door de pokken geschonden, mottig
 examples:
 - aceh: gadoh prok
   jawi: ''
   id: hilang semangat, bingung, kecewa, rôt prok, jatuh semangat, pingsan, murca (ump krn sangat terkejut),
     sangat terkejut
   en: ''
+- aceh: muka prok lagee euk kebe ujeun sompom
+  aceh_1889: moeka prok lagée ëk kēbē oedjën sompom
+  jawi: ''
+  id: translasi yang hilang
+  en: '[translation missing]'
+  nl: '[vertaling ontbreekt]'
 etymology: ''
 related_words:
 - pruk
 - pr'ak-pr'ok
 dialect_notes: ''
 source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
-  Pendidikan dan Kebudayaan, 1985, hlm. 742'
+  Pendidikan dan Kebudayaan, 1985, hlm. 742; K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage:
+  Martinus Nijhoff, voor het Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië,
+  1889, hlm. 182'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
 extraction_notes: 'Homonym 1 in the source (printed as a superscript numeral before the headword). Jawi
@@ -32,4 +43,8 @@ extraction_notes: 'Homonym 1 in the source (printed as a superscript numeral bef
   (printed as a superscript numeral before the headword). Jawi left blank: the source is Latin-script
   only and no Jawi form is printed for this entry. Part of speech not stated in the source; left blank.
   | English gloss left blank: no confident translation of the Indonesian definition was available. Jawi
-  left blank: the source is Latin-script only and no Jawi form is printed for this entry.'
+  left blank: the source is Latin-script only and no Jawi form is printed for this entry. | Jawi copied
+  verbatim from the printed source (van Langen prints the Jawi form for each headword); not AI-generated.
+  Indonesian and English were produced by machine translation of van Langen''s Dutch (Dutch→English→Indonesian,
+  OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl` for verification; the rendering is not from
+  the source and needs a human check. Part of speech not stated in the source; left blank.'

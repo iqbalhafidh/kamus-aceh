@@ -1,0 +1,38 @@
+headword: mêharadja
+jawi: مهرجا
+alt_spelling: []
+ipa: ''
+part_of_speech: ''
+definitions:
+- meaning_id: 'kepala, berdaulat. dalam Aceh mereka digunakan untuk memiliki boemi meharadja''s: meharadja
+    mangkoe, dalam estimasi di pantai timur Aceh'
+  meaning_en: 'chief, sovereign. In Aceh they used to have boemi meharadja''s: meharadja mangkoe boemi,
+    inside of the estimate on the east coast of Aceh'
+  meaning_nl: 'opperheer, soeverein. In Atjeh had men voorheen 3 mêharadja''s: mêharadja mangkoe boemi,
+    inner van de schatting ter oostkust van Atjeh'
+- meaning_id: meharadja bësoi, perkiraan internal di pantai barat Aceh
+  meaning_en: meharadja bësoi, internal estimate on the west coast of Aceh
+  meaning_nl: mêharadja bësoi, inner van de schatting ter westkust van Atjeh
+- meaning_id: meharadja lëla, bendahara
+  meaning_en: meharadja lëla, Treasurer
+  meaning_nl: mêharadja lëla, schatkistbewaarder
+- meaning_id: mereka hanya pejabat biasa Sultan
+  meaning_en: they were merely ordinary officials of Sultan
+  meaning_nl: zij waren slechts gewone ambtenaren van den Sultan
+examples: []
+etymology: ''
+related_words: []
+dialect_notes: ''
+source: 'K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage: Martinus Nijhoff, voor het
+  Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië, 1889, hlm. 269'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+language_uncertain: false
+modern_spelling: meharaja
+extraction_notes: Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each
+  headword); not AI-generated. `modern_spelling` “meharaja” is an AI-supplied transposition of the 1889
+  orthography (oe->u, dj->j, tj->c, nj->ny, ë->eu); it is NOT from the source and needs checking before
+  it is used to match the 1985 dictionary. Indonesian and English were produced by machine translation
+  of van Langen's Dutch (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl`
+  for verification; the rendering is not from the source and needs a human check. Part of speech not stated
+  in the source; left blank.

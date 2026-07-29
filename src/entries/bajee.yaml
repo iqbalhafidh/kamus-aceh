@@ -1,0 +1,53 @@
+headword: badjée
+jawi: باجو
+alt_spelling: []
+ipa: ''
+part_of_speech: ''
+definitions:
+- meaning_id: pakaian tubuh bagian atas, baadjë
+  meaning_en: upper body garment, baadjë
+  meaning_nl: kleedingstuk voor het bovenlijf, baadjë
+- meaning_id: badjée hapkot, (setengah mantel)
+  meaning_en: badjée hapkot, (half coat)
+  meaning_nl: badjée hapkot, (half coat)
+- meaning_id: badjée kamëdja, kemeja
+  meaning_en: badjée kamëdja, shirt
+  meaning_nl: badjée kamëdja, overhemd
+- meaning_id: badjée koeroeng, close- merajut baadjë, dengan pembukaan, membuat kepala sengatan
+  meaning_en: badjée koeroeng, close-knit baadjë, with an opening, making the head sting
+  meaning_nl: badjée koeroeng, nauw sluitend baadjë, met eene opening, waardoor men het hoofd steekt
+- meaning_id: badjée sëmantong, sebuah longgar menggantung baadjë di leher dengan tombol tertutup
+  meaning_en: badjée sëmantong, a loose hanging baadjë on the neck with a button closed
+  meaning_nl: badjée sëmantong, een loshangend baadjë aan den hals met een knoop dicht gemaakt
+- meaning_id: badjée hajik, pendek-LEARD cardigan
+  meaning_en: badjée hajik, short-sleeved cardigan
+  meaning_nl: badjée hajik, vest met korte mouwen
+- meaning_id: badjée djoeba, kanvas panjang dari Hadjis
+  meaning_en: badjée djoeba, long canvas of the Hadjis
+  meaning_nl: badjée djoeba, lang kleed der Hadjis
+- meaning_id: badjée poentoeng, tabung sleeed pendek
+  meaning_en: badjée poentoeng, short-sleeved tube
+  meaning_nl: badjée poentoeng, een buis met korte mouwen
+- meaning_id: badjée misëkit, tabung tanpa lengan
+  meaning_en: badjée misëkit, a sleeveless tube
+  meaning_nl: badjée misëkit, een buis zonder mouwen
+- meaning_id: badjée sadriah, tabung, ditutup dengan banyak knot di dada
+  meaning_en: badjée sadriah, a tube, closed with many knots on the chest
+  meaning_nl: badjée sadriah, een buis, dat met vele knoopen op de borst wordt gesloten
+examples: []
+etymology: ''
+related_words: []
+dialect_notes: ''
+source: 'K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage: Martinus Nijhoff, voor het
+  Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië, 1889, hlm. 25'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+language_uncertain: false
+modern_spelling: bajee
+extraction_notes: Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each
+  headword); not AI-generated. `modern_spelling` “bajee” is an AI-supplied transposition of the 1889 orthography
+  (oe->u, dj->j, tj->c, nj->ny, ë->eu); it is NOT from the source and needs checking before it is used
+  to match the 1985 dictionary. Indonesian and English were produced by machine translation of van Langen's
+  Dutch (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl` for verification;
+  the rendering is not from the source and needs a human check. Part of speech not stated in the source;
+  left blank.

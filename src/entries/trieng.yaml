@@ -1,34 +1,41 @@
-headword: trieng
-jawi: ''
+headword: triēng
+jawi: تربغ
 alt_spelling: []
 ipa: ''
-part_of_speech: n
+part_of_speech: ''
 definitions:
-- meaning_id: nama umum utd bambu kecuali jenis yang dinamakan buloh dan igeueh
-  meaning_en: ''
-examples:
-- aceh: trieng gadeng
-  jawi: ''
-  id: (beruas kecil-kecil dan kuning warnanya)
-  en: ''
-- aceh: trieng phet
-  jawi: ''
-  id: (daunnya terasa pauit dan diberikan kpd hewan yg baru melahirkan)
-  en: ''
-- aceh: trieng tulo
-  jawi: ''
-  id: (beruas kecil-kecil dan panjang-panjang daunnya)
-  en: ''
-- aceh: pisang trieng
-  jawi: ''
-  id: jenis pisang berwarna kuning dan wangi
-  en: ''
+- meaning_id: nama umum untuk bambu
+  meaning_en: general name for bamboo
+  meaning_nl: algemeene naam voor bamboe
+- meaning_id: 'spesies: triēng patjoek, umum, bambu sedang'
+  meaning_en: 'species: triēng patjoek, common, medium bamboo'
+  meaning_nl: 'soorten: triēng patjoek, gewone, middelsoort bamboe'
+- meaning_id: triēng toeloer, tipe bambu sebagai triēng patjoek tapi lebih tebal
+  meaning_en: triēng toeloer, bamboo type as triēng patjoek but thicker
+  meaning_nl: triēng toeloer, soort bamboe als triēng patjoek, doch dikker
+- meaning_id: triēng menyukai, tipis, bambu kuning
+  meaning_en: triēng liked, thin, yellow bamboo
+  meaning_nl: triēng gading, dunne, gele bamboe
+- meaning_id: triēng bētong, spesies bambu terbesar
+  meaning_en: triēng bētong, the largest bamboo species
+  meaning_nl: triēng bētong, de grootste soort bamboe
+- meaning_id: triēng mēdoeroi, bambu doeri
+  meaning_en: triēng mēdoeroi, bamboo doeri
+  meaning_nl: triēng mēdoeroi, de bamboe doeri
+examples: []
 etymology: ''
 related_words: []
 dialect_notes: ''
-source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
-  Pendidikan dan Kebudayaan, 1985, hlm. 997'
+source: 'K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage: Martinus Nijhoff, voor het
+  Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië, 1889, hlm. 59'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: 'English gloss left blank: no confident translation of the Indonesian definition was
-  available. Jawi left blank: the source is Latin-script only and no Jawi form is printed for this entry.'
+language_uncertain: false
+modern_spelling: trieng
+extraction_notes: Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each
+  headword); not AI-generated. `modern_spelling` “trieng” is an AI-supplied transposition of the 1889
+  orthography (oe->u, dj->j, tj->c, nj->ny, ë->eu); it is NOT from the source and needs checking before
+  it is used to match the 1985 dictionary. Indonesian and English were produced by machine translation
+  of van Langen's Dutch (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl`
+  for verification; the rendering is not from the source and needs a human check. Part of speech not stated
+  in the source; left blank.

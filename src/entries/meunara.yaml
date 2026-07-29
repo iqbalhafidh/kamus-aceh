@@ -1,12 +1,16 @@
 headword: meunara
-jawi: ''
+jawi: منارا
 alt_spelling:
 - mônara
+- mënara
 ipa: ''
 part_of_speech: n
 definitions:
 - meaning_id: menara
   meaning_en: tower
+- meaning_id: minaret, tempat di mana cahaya terlihat, cahaya untuk menjalankan, tempat di mana api membakar
+  meaning_en: minaret, place where light is seen, light to run, place where the fire burns
+  meaning_nl: minaret, plaats, waar men licht ziet, lichtto-ren, plaats waar het vuur brandt
 examples:
 - aceh: tujôh boh
   jawi: ''
@@ -20,8 +24,16 @@ etymology: ''
 related_words: []
 dialect_notes: ''
 source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
-  Pendidikan dan Kebudayaan, 1985, hlm. 594'
+  Pendidikan dan Kebudayaan, 1985, hlm. 594; K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage:
+  Martinus Nijhoff, voor het Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië,
+  1889, hlm. 264'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
 extraction_notes: 'Homonym 1 in the source (printed as a superscript numeral before the headword). Jawi
-  left blank: the source is Latin-script only and no Jawi form is printed for this entry.'
+  left blank: the source is Latin-script only and no Jawi form is printed for this entry. | Jawi copied
+  verbatim from the printed source (van Langen prints the Jawi form for each headword); not AI-generated.
+  `modern_spelling` “meunara” is an AI-supplied transposition of the 1889 orthography (oe->u, dj->j, tj->c,
+  nj->ny, ë->eu); it is NOT from the source and needs checking before it is used to match the 1985 dictionary.
+  Indonesian and English were produced by machine translation of van Langen''s Dutch (Dutch→English→Indonesian,
+  OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl` for verification; the rendering is not from
+  the source and needs a human check. Part of speech not stated in the source; left blank.'

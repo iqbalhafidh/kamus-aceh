@@ -1,6 +1,7 @@
 headword: nyak
-jawi: ''
-alt_spelling: []
+jawi: پق
+alt_spelling:
+- njak
 ipa: ''
 part_of_speech: n
 definitions:
@@ -9,17 +10,42 @@ definitions:
   meaning_en: a call to children, used of children, in the second or third person, before the given name
 - meaning_id: panggilan kepada ibu
   meaning_en: a form of address to one's mother
+- meaning_id: indikator nama untuk nama-diri pria
+  meaning_en: name indicator for male self-names
+  meaning_nl: naamaanwijzer voor mannelijke eigennamen
+- meaning_id: nilai menunjuk nama untuk perempuan
+  meaning_en: grade pointing name for women
+  meaning_nl: rang-aanwijzende naam voor vrouwen
+- meaning_id: njak Gam, Njak Mohamad Perempuan dari hoeléebalang's, bukan bangsawan, ditujukan kepada
+    Njak
+  meaning_en: njak Gam, Njak Mohamad. Women of hoeléebalang's, not of nobility, are addressed to Njak
+  meaning_nl: Njak Gam, Njak Mohamad. Vrouwen, van hoeléebalang's, niet van adel zijnde, spreekt men met
+    Njak aan
+- meaning_id: dari bangsawan dengan Tjoet1
+  meaning_en: of nobility with Tjoet Njak
+  meaning_nl: van adel zijnde, met Tjoet Njak
+- meaning_id: gadis-gadis bangsawan juga ditangani dengan cara ini
+  meaning_en: girls of nobility are also addressed in this way
+  meaning_nl: ook meisjes van adel worden op die wijze aangesproken
 examples: []
 etymology: ''
 related_words:
 - ma
 dialect_notes: ''
 source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
-  Pendidikan dan Kebudayaan, 1985, hlm. 642, 643'
+  Pendidikan dan Kebudayaan, 1985, hlm. 642, 643; K. F. H. van Langen. Woordenboek der Atjehsche Taal.
+  ''s-Gravenhage: Martinus Nijhoff, voor het Koninklijk Instituut voor de Taal-, Land- en Volkenkunde
+  van Nederlandsch-Indië, 1889, hlm. 287'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
 extraction_notes: 'Homonym 1 in the source (printed as a superscript numeral before the headword). Jawi
   left blank: the source is Latin-script only and no Jawi form is printed for this entry. | Homonym 2
   in the source (printed as a superscript numeral before the headword). Jawi left blank: the source is
   Latin-script only and no Jawi form is printed for this entry. Part of speech not stated in the source;
+  left blank. | Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each
+  headword); not AI-generated. `modern_spelling` “nyak” is an AI-supplied transposition of the 1889 orthography
+  (oe->u, dj->j, tj->c, nj->ny, ë->eu); it is NOT from the source and needs checking before it is used
+  to match the 1985 dictionary. Indonesian and English were produced by machine translation of van Langen''s
+  Dutch (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl` for verification;
+  the rendering is not from the source and needs a human check. Part of speech not stated in the source;
   left blank.'

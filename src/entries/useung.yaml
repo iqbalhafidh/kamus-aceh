@@ -1,0 +1,36 @@
+headword: oesëng
+jawi: اوسغ
+alt_spelling: []
+ipa: ''
+part_of_speech: ''
+definitions:
+- meaning_id: dikatakan atas - the- counter beras atau padi dan juga digunakan dalam rasa lama
+  meaning_en: is said of over-the-counter rice or padi and is also used in the sense of old
+  meaning_nl: wordt van overjarige rijst of padi gezegd en ook overdrachtelijk gebezigd in den zin van
+    oud
+examples:
+- aceh: tabri lun bloi pade useung meung sinale
+  aceh_1889: tabri loen bloi padé oesëng mëng sinalé
+  jawi: ''
+  id: sebab di loen han djid loen padjoeh1baroe, Anda harus menjual saya nalé over-the-counter Pati, karena
+    saya bisa voidit makan nasi segar
+  en: sebab di loen han djid loen padjoeh bërës baroe, you have to sell me a nalé over-the-counter padi,
+    because I can't eat fresh rice
+  nl: sêbab di loen han djid loen padjoeh bërës baroe, gij moet mij een nalé overjarige padi ten verkoop
+    afstaan, omdat ik geen versche rijst mag eten
+etymology: ''
+related_words: []
+dialect_notes: ''
+source: 'K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage: Martinus Nijhoff, voor het
+  Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië, 1889, hlm. 17'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+language_uncertain: false
+modern_spelling: useung
+extraction_notes: Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each
+  headword); not AI-generated. `modern_spelling` “useung” is an AI-supplied transposition of the 1889
+  orthography (oe->u, dj->j, tj->c, nj->ny, ë->eu); it is NOT from the source and needs checking before
+  it is used to match the 1985 dictionary. Indonesian and English were produced by machine translation
+  of van Langen's Dutch (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl`
+  for verification; the rendering is not from the source and needs a human check. Part of speech not stated
+  in the source; left blank.

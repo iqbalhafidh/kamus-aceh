@@ -1,28 +1,54 @@
 headword: ban
-jawi: ''
+jawi: بن
 alt_spelling: []
 ipa: ''
 part_of_speech: ''
 definitions:
-- meaning_id: semua
-  meaning_en: all
-- meaning_id: seperti
-  meaning_en: like, manner
-- meaning_id: baru
-  meaning_en: just, just now
-- meaning_id: segera setelah
-  meaning_en: as soon as
-examples: []
+- meaning_id: seperti, tentang
+  meaning_en: like, concerning
+  meaning_nl: gelijk, gelijk als, alsof, betreffende, reeds, zoo even
+- meaning_id: semua, Terjadi sebagai bandoem
+  meaning_en: also in connection with doom, all, occurring as bandoem
+  meaning_nl: ook in verbinding met doem, alle, voorkomende als bandoem, alle
+- meaning_id: bandoem orèng, semua orang
+  meaning_en: bandoem orèng, all people
+  meaning_nl: bandoem orèng, alle menschen
+examples:
+- aceh: ban calitera
+  aceh_1889: ban tjalitéra
+  jawi: ''
+  id: seperti yang dikatakan dalam cerita
+  en: as the story [says]
+  nl: gelijk het verhaal [luidt]
+- aceh: ban ulun kalon
+  aceh_1889: ban oeloen kalon
+  jawi: ''
+  id: jadi benar saya telah melihat Pachiit
+  en: so right I have seen [it]
+  nl: zoo juist heb ik [het] gezien
+- aceh: ban ulun pajuh
+  aceh_1889: ban oeloen padjoeh
+  jawi: ''
+  id: itu benar, aku sudah makan
+  en: that's right. I ate
+  nl: zoo juist heb ik gegeten
+- aceh: ban les ulun jak
+  aceh_1889: ban lès oeloen djak
+  jawi: ''
+  id: jadi aku pergi ke sana untuk sementara waktu
+  en: so I went there for a while
+  nl: zoo even ben ik er heen gegaan
 etymology: ''
-related_words:
-- bagoe
-- lagèe
-- man-
-- mandum
-- meu-
+related_words: []
 dialect_notes: ''
-source: 'Daud, Bukhari & Mark Durie. Kamus Basa Acèh = Kamus Bahasa Aceh: Acehnese–Indonesian–English Thesaurus.
-  Pacific Linguistics C-151, 1999, p. 86; p. 112; p. 114.'
-date_added: '2026-07-20'
+source: 'K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage: Martinus Nijhoff, voor het
+  Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië, 1889, hlm. 39'
+date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: ''
+language_uncertain: false
+modern_spelling: ban
+extraction_notes: Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each
+  headword); not AI-generated. Indonesian and English were produced by machine translation of van Langen's
+  Dutch (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl` for verification;
+  the rendering is not from the source and needs a human check. Part of speech not stated in the source;
+  left blank.

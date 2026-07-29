@@ -1,0 +1,40 @@
+headword: ganda
+jawi: كند
+alt_spelling: []
+ipa: ''
+part_of_speech: ''
+definitions:
+- meaning_id: double
+  meaning_en: double
+  meaning_nl: dubbel, verdubbelen
+- meaning_id: batang
+  meaning_en: stem
+  meaning_nl: steel
+- meaning_id: ganda saoeh, pegangan jangkar
+  meaning_en: ganda saoeh, the handle of the anchor
+  meaning_nl: ganda saoeh, de steel van het anker
+- meaning_id: ganda da-joeng, batang dayung
+  meaning_en: ganda da-joeng, the stem of an oar
+  meaning_nl: ganda da-joeng, de steel van een roeispaan
+- meaning_id: ganda kēmoedoi, helm kemudi
+  meaning_en: ganda kēmoedoi, rudder helmet
+  meaning_nl: ganda kēmoedoi, helmstuk van een roer
+examples: []
+etymology: ''
+related_words: []
+dialect_notes: ''
+source: 'K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage: Martinus Nijhoff, voor het
+  Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië, 1889, hlm. 229'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+language_uncertain: false
+modern_spelling: ganda
+extraction_notes: 'Homonym I in the source (printed as a numeral before the headword). Jawi copied verbatim
+  from the printed source (van Langen prints the Jawi form for each headword); not AI-generated. Indonesian
+  and English were produced by machine translation of van Langen''s Dutch (Dutch→English→Indonesian, OPUS-MT).
+  The Dutch original is kept in `meaning_nl`/`nl` for verification; the rendering is not from the source
+  and needs a human check. Part of speech not stated in the source; left blank. | Homonym III in the source
+  (printed as a numeral before the headword). Jawi left blank: no Jawi form is printed for this entry.
+  Indonesian and English were produced by machine translation of van Langen''s Dutch (Dutch→English→Indonesian,
+  OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl` for verification; the rendering is not from
+  the source and needs a human check. Part of speech not stated in the source; left blank.'

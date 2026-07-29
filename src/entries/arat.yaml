@@ -1,19 +1,36 @@
 headword: arat
-jawi: ''
+jawi: ارت
 alt_spelling: []
 ipa: ''
 part_of_speech: ''
 definitions:
-- meaning_id: sempit
-  meaning_en: narrow
-examples: []
+- meaning_id: menakutkan, ketat, sempit, bahkan, terlalu sempit, mengambang di sempit
+  meaning_en: scary, tight, narrow, even, too narrow, floating in the narrow
+  meaning_nl: eng, nauw, smal, even, te nauwernood, in de engte drijven
+examples:
+- aceh: allah lun arat raja jipagab bunoi le oreung me reubut
+  aceh_1889: Allah loen arat raja djipagab boenoi lé orëng mè-rëboet
+  jawi: ''
+  id: Allah, saya sangat takut, sehingga untuk sesaat perampok telah mengepung saya
+  en: Allah, I was very scared, so for a moment robbers have surrounded me
+  nl: Allah, ik was zeer in de engte gedreven, zoo even hebben roovers mij omsingeld
+- aceh: arat teuhat peuguruk bacut
+  aceh_1889: arat tëhat pëgoeroek batjoet
+  jawi: ''
+  id: itu terlalu ketat, membuatnya pas
+  en: it's too tight, make it fitting
+  nl: het is te nauw, maak het passend
 etymology: ''
-related_words:
-- ubeut
-- ubit
+related_words: []
 dialect_notes: ''
-source: 'Daud, Bukhari & Mark Durie. Kamus Basa Acèh = Kamus Bahasa Aceh: Acehnese–Indonesian–English Thesaurus.
-  Pacific Linguistics C-151, 1999, p. 86.'
-date_added: '2026-07-20'
+source: 'K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage: Martinus Nijhoff, voor het
+  Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië, 1889, hlm. 4'
+date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: ''
+language_uncertain: false
+modern_spelling: arat
+extraction_notes: Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each
+  headword); not AI-generated. Indonesian and English were produced by machine translation of van Langen's
+  Dutch (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl` for verification;
+  the rendering is not from the source and needs a human check. Part of speech not stated in the source;
+  left blank.

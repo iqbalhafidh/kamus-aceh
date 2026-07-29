@@ -1,17 +1,44 @@
-headword: bieng
-jawi: ''
+headword: biëng
+jawi: بيغ
 alt_spelling: []
 ipa: ''
 part_of_speech: ''
 definitions:
-- meaning_id: kepiting
-  meaning_en: crab
+- meaning_id: lobster
+  meaning_en: lobster
+  meaning_nl: kreeft
+- meaning_id: 'spesies lobster: biëng randjonggan, lobster dengan perisai spekkled'
+  meaning_en: 'species of lobster: biëng randjonggan, a lobster with a speckled shield'
+  meaning_nl: 'soorten van kreeften: biëng randjonggan, een kreeft met een gespikkeld schild'
+- meaning_id: biëng kē, moeraskreeft
+  meaning_en: biëng kē, moeraskreeft
+  meaning_nl: biëng kē, moeraskreeft
+- meaning_id: biëng gētem
+  meaning_en: biëng gētem
+  meaning_nl: biëng gētem
+- meaning_id: biëng oe
+  meaning_en: biëng oe
+  meaning_nl: biëng oe
+- meaning_id: biëng kong
+  meaning_en: biëng kong
+  meaning_nl: biëng kong
+- meaning_id: biëng pēho
+  meaning_en: biëng pēho
+  meaning_nl: biëng pēho
 examples: []
 etymology: ''
 related_words: []
 dialect_notes: ''
-source: 'Daud, Bukhari & Mark Durie. Kamus Basa Acèh = Kamus Bahasa Aceh: Acehnese–Indonesian–English Thesaurus.
-  Pacific Linguistics C-151, 1999, p. 71; p. 109.'
-date_added: '2026-07-20'
+source: 'K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage: Martinus Nijhoff, voor het
+  Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië, 1889, hlm. 50'
+date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: ''
+language_uncertain: false
+modern_spelling: bieng
+extraction_notes: Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each
+  headword); not AI-generated. `modern_spelling` “bieng” is an AI-supplied transposition of the 1889 orthography
+  (oe->u, dj->j, tj->c, nj->ny, ë->eu); it is NOT from the source and needs checking before it is used
+  to match the 1985 dictionary. Indonesian and English were produced by machine translation of van Langen's
+  Dutch (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl` for verification;
+  the rendering is not from the source and needs a human check. Part of speech not stated in the source;
+  left blank.

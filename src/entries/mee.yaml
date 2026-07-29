@@ -1,11 +1,15 @@
 headword: mèe
-jawi: ''
-alt_spelling: []
+jawi: مو
+alt_spelling:
+- mée
 ipa: ''
 part_of_speech: a
 definitions:
 - meaning_id: dpt, sanggup, mampu, wajar, pantas, layak
   meaning_en: can, capable, able, natural, fitting
+- meaning_id: akomodatif, sesuai, layak, tepat
+  meaning_en: accommodating, appropriate, decent
+  meaning_nl: voegzaam, passend, behoorlijk, betamelijk
 examples:
 - aceh: h'an mèe lôn leungo
   jawi: ''
@@ -15,14 +19,28 @@ examples:
   jawi: ''
   id: mungkin ada, mungkin tidak
   en: ''
+- aceh: mee ta pubuet menan gata
+  aceh_1889: mée ta-poeboeët ménan gata
+  jawi: ''
+  id: ini pas bahwa Anda harus bertindak dengan cara ini
+  en: it is fitting that you should act in this way
+  nl: het is voegzaam, dat ge aldus handelt
 etymology: ''
 related_words:
 - harôih
 - jeuet
 dialect_notes: ''
 source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
-  Pendidikan dan Kebudayaan, 1985, hlm. 584'
+  Pendidikan dan Kebudayaan, 1985, hlm. 584; K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage:
+  Martinus Nijhoff, voor het Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië,
+  1889, hlm. 266'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
 extraction_notes: 'Jawi left blank: the source is Latin-script only and no Jawi form is printed for this
-  entry.'
+  entry. | Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each headword);
+  not AI-generated. `modern_spelling` “mee” is an AI-supplied transposition of the 1889 orthography (oe->u,
+  dj->j, tj->c, nj->ny, ë->eu); it is NOT from the source and needs checking before it is used to match
+  the 1985 dictionary. Indonesian and English were produced by machine translation of van Langen''s Dutch
+  (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl` for verification;
+  the rendering is not from the source and needs a human check. Part of speech not stated in the source;
+  left blank.'

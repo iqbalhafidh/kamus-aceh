@@ -1,0 +1,32 @@
+headword: dëndajang
+jawi: دندایغ
+alt_spelling: []
+ipa: ''
+part_of_speech: ''
+definitions:
+- meaning_id: wanita pengadilan
+  meaning_en: lady of the court
+  meaning_nl: hofdame, hofjuffer
+examples:
+- aceh: di hadapan dum deundajang jang meusubang jang muda muda
+  aceh_1889: di hadapan doem dëndajang jang mësoebang jang moeda moeda
+  jawi: ''
+  id: di depan semua wanita di taman yang memakai anting-anting dan masih muda
+  en: in the sight of all the ladies of the garden who wore earrings and were young
+  nl: ten aanschouwe van (voor) al de hofdames, die oorringen droegen en die jeugdig waren
+etymology: ''
+related_words: []
+dialect_notes: ''
+source: 'K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage: Martinus Nijhoff, voor het
+  Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië, 1889, hlm. 112'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+language_uncertain: false
+modern_spelling: deundajang
+extraction_notes: Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each
+  headword); not AI-generated. `modern_spelling` “deundajang” is an AI-supplied transposition of the 1889
+  orthography (oe->u, dj->j, tj->c, nj->ny, ë->eu); it is NOT from the source and needs checking before
+  it is used to match the 1985 dictionary. Indonesian and English were produced by machine translation
+  of van Langen's Dutch (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl`
+  for verification; the rendering is not from the source and needs a human check. Part of speech not stated
+  in the source; left blank.

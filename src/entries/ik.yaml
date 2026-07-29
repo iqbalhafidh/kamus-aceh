@@ -1,22 +1,58 @@
----
-headword: "ik"
-jawi: ""
+headword: ik
+jawi: ايك
 alt_spelling: []
-ipa: "/ĩ?/"
-part_of_speech: "n"
-language_uncertain: false
+ipa: ''
+part_of_speech: ''
 definitions:
-  - meaning_id: "zat cair buangan yg terhimpun di dalam kandung kemih dan dikeluarkan dari dalam tubuh melalui saluran kemih; air kemih; air seni; urine"
-    meaning_en: ""
+- meaning_id: mendaki (tetapi tidak dalam arti kenaikan)
+  meaning_en: climbing (but not in the sense of rising)
+  meaning_nl: klimmen (doch niet in de beteekenis van in rang stijgen)
+- meaning_id: ik troen naik dan turun
+  meaning_en: ik troen up and down
+  meaning_nl: ik troen, op en neer
+- meaning_id: mata oroi ik, beras matahari
+  meaning_en: mata oroi ik, the sun rice
+  meaning_nl: mata oroi ik, de zon rijst
+- meaning_id: ik oe capal, board
+  meaning_en: ik oe capal, board
+  meaning_nl: ik oe kapal, aan boord gaan
+- meaning_id: ik goeda, naik di atas kuda
+  meaning_en: ik goeda, rising on horseback
+  meaning_nl: ik goeda, te paard stijgen
+- meaning_id: 'juga: ik atës goeda atau lewat goeda'
+  meaning_en: 'also: ik atës goeda or pasang goeda'
+  meaning_nl: 'ook: ik atës goeda of pasang goeda'
+- meaning_id: ik Haji, pergi ke Mekah untuk iarah
+  meaning_en: ik hadji, go to Mecca for pilgrimage
+  meaning_nl: ik hadji, ter bedevaart naar Mekka gaan
+- meaning_id: kuat, kejam
+  meaning_en: strong, powerful, violent
+  meaning_nl: sterk, machtig, gewelddadig
+- meaning_id: ADI ik, Hukum terkuat
+  meaning_en: adat ik, the law of the strongest
+  meaning_nl: adat ik, het recht van den sterkste
 examples:
-  - aceh: "itubit – lam luweu"
-    jawi: ""
-    id: "‘keluar – dalam celana’"
-    en: ""
-etymology: ""
+- aceh: ik u rumah
+  aceh_1889: ik oe roemäh
+  jawi: ''
+  id: memasuki rumah (karena Atj
+  en: enter the house (because the Atj
+  nl: stijg het huis binnen (omdat de Atj
+etymology: ''
 related_words: []
-dialect_notes: ""
-source: "Kamus Bahasa Aceh Daring (Balai Bahasa Provinsi Aceh), 'Entri huruf — ik', URL: https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/I?page=8 (diakses 20 Juli 2026); halaman tambahan: I?page=11, I?page=12, I?page=13, I?page=14, I?page=15, I?page=16, I?page=17, I?page=18, I?page=19, I?page=2, I?page=3, I?page=4, I?page=5, I?page=6, I?page=7, I?page=8, I?page=9"
-date_added: "2026-07-20"
-contributor: "AI-extracted — needs human review"
-extraction_notes: "Diekstrak dari 18 halaman sumber (https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/I?page=10, https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/I?page=11, https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/I?page=12, https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/I?page=13, https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/I?page=14, https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/I?page=15, https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/I?page=16, https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/I?page=17, https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/I?page=18, https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/I?page=19, https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/I?page=2, https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/I?page=3, https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/I?page=4, https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/I?page=5, https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/I?page=6, https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/I?page=7, https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/I?page=8, https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/I?page=9). Ditemukan pada beberapa halaman; definisi dan contoh digabungkan. Tidak ada bentuk Jawi dalam sumber — dibiarkan kosong sesuai aturan."
+dialect_notes: ''
+source: 'K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage: Martinus Nijhoff, voor het
+  Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië, 1889, hlm. 22'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+language_uncertain: false
+modern_spelling: ik
+extraction_notes: 'Homonym I in the source (printed as a numeral before the headword). Jawi copied verbatim
+  from the printed source (van Langen prints the Jawi form for each headword); not AI-generated. Indonesian
+  and English were produced by machine translation of van Langen''s Dutch (Dutch→English→Indonesian, OPUS-MT).
+  The Dutch original is kept in `meaning_nl`/`nl` for verification; the rendering is not from the source
+  and needs a human check. Part of speech not stated in the source; left blank. | Homonym II in the source
+  (printed as a numeral before the headword). Jawi left blank: no Jawi form is printed for this entry.
+  Indonesian and English were produced by machine translation of van Langen''s Dutch (Dutch→English→Indonesian,
+  OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl` for verification; the rendering is not from
+  the source and needs a human check. Part of speech not stated in the source; left blank.'

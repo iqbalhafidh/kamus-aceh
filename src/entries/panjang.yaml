@@ -1,0 +1,38 @@
+headword: pandjang
+jawi: قنجغ
+alt_spelling: []
+ipa: ''
+part_of_speech: ''
+definitions:
+- meaning_id: panjang
+  meaning_en: long
+  meaning_nl: lang
+- meaning_id: sipandjang rëdj, sepanjang jalan sepanjang
+  meaning_en: sipandjang rëdj, the whole way along
+  meaning_nl: sipandjang rëdj, den geheelen weg langs
+- meaning_id: tangan sipandjang, keseluruhan
+  meaning_en: hand sipandjang, whole
+  meaning_nl: han sipandjang, geheel en al
+- meaning_id: poepandjang, perluas
+  meaning_en: poepandjang, extend
+  meaning_nl: poepandjang, verlengen
+- meaning_id: pënandjang, panjang
+  meaning_en: pënandjang, length
+  meaning_nl: pënandjang, lengte
+examples: []
+etymology: ''
+related_words: []
+dialect_notes: ''
+source: 'K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage: Martinus Nijhoff, voor het
+  Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië, 1889, hlm. 187'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+language_uncertain: false
+modern_spelling: panjang
+extraction_notes: Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each
+  headword); not AI-generated. `modern_spelling` “panjang” is an AI-supplied transposition of the 1889
+  orthography (oe->u, dj->j, tj->c, nj->ny, ë->eu); it is NOT from the source and needs checking before
+  it is used to match the 1985 dictionary. Indonesian and English were produced by machine translation
+  of van Langen's Dutch (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl`
+  for verification; the rendering is not from the source and needs a human check. Part of speech not stated
+  in the source; left blank.

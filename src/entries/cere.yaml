@@ -1,0 +1,35 @@
+headword: tjéré
+jawi: چری
+alt_spelling: []
+ipa: ''
+part_of_speech: ''
+definitions:
+- meaning_id: terpisah
+  meaning_en: separate
+  meaning_nl: scheiden
+- meaning_id: tjéré oedip atau métalék, terpisah dengan pengucapan Talak
+  meaning_en: tjéré oedip or métalék, separate by pronouncing the talak
+  meaning_nl: tjéré oedip of métalék, scheiden door het uitspreken van de talak
+- meaning_id: tjéré maté, bercerai oleh kematian
+  meaning_en: tjéré maté, divorced by death
+  meaning_nl: tjéré maté, door den dood van elkaär scheiden
+- meaning_id: tjéré béré, menyebar dimana-mana béré sendiri adalah kata tanpa makna
+  meaning_en: tjéré béré, spread everywhere. béré is in itself a word without meaning
+  meaning_nl: tjéré béré, overal verspreid. Béré is op zich zelf een woord zonder beteekenis
+examples: []
+etymology: ''
+related_words: []
+dialect_notes: ''
+source: 'K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage: Martinus Nijhoff, voor het
+  Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië, 1889, hlm. 94'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+language_uncertain: false
+modern_spelling: cere
+extraction_notes: Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each
+  headword); not AI-generated. `modern_spelling` “cere” is an AI-supplied transposition of the 1889 orthography
+  (oe->u, dj->j, tj->c, nj->ny, ë->eu); it is NOT from the source and needs checking before it is used
+  to match the 1985 dictionary. Indonesian and English were produced by machine translation of van Langen's
+  Dutch (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl` for verification;
+  the rendering is not from the source and needs a human check. Part of speech not stated in the source;
+  left blank.

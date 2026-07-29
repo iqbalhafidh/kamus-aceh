@@ -1,0 +1,35 @@
+headword: salëh
+jawi: سالیع
+alt_spelling: []
+ipa: ''
+part_of_speech: ''
+definitions:
+- meaning_id: mungkin, kadang-kadang, dalam interval, dari waktu ke waktu
+  meaning_en: perhaps, occasionally, in intervals, from time to time, possibly
+  meaning_nl: wellicht, misschien, nu en dan, bij tusschenpoozen, van tijd tot tijd, mogelijk,
+examples:
+- aceh: saleuh na saleuh hana
+  aceh_1889: salëh na salëh hana
+  jawi: ''
+  id: mungkin ada di sana, mungkin tidak ada di sana. Salëh dalam tanda ini juga diucapkan sebagai alëh
+    di Regions Upper
+  en: it may be there, it may not be there. Salëh in this sign is also pronounced as alëh in the Upper
+    Regions
+  nl: mogelijk is het er, mogelijk is het er niet. Salëh in deze beteekenis wordt in de Bovenstreken ook
+    wel als alëh uitgesproken
+etymology: ''
+related_words: []
+dialect_notes: ''
+source: 'K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage: Martinus Nijhoff, voor het
+  Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië, 1889, hlm. 139'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+language_uncertain: false
+modern_spelling: saleuh
+extraction_notes: Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each
+  headword); not AI-generated. `modern_spelling` “saleuh” is an AI-supplied transposition of the 1889
+  orthography (oe->u, dj->j, tj->c, nj->ny, ë->eu); it is NOT from the source and needs checking before
+  it is used to match the 1985 dictionary. Indonesian and English were produced by machine translation
+  of van Langen's Dutch (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl`
+  for verification; the rendering is not from the source and needs a human check. Part of speech not stated
+  in the source; left blank.

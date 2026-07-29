@@ -1,42 +1,41 @@
-headword: utang
-jawi: ''
-alt_spelling:
-- hutang
+headword: oetang
+jawi: اوتق
+alt_spelling: []
 ipa: ''
-part_of_speech: n
+part_of_speech: ''
 definitions:
-- meaning_id: utang (uang dan sebagainya)
-  meaning_en: ''
-examples:
-- aceh: surat utang
-  jawi: ''
-  id: surat tanda berutang, surat utang
-  en: ''
-- aceh: geutheun (keu) utang
-  jawi: ''
-  id: dijadikan sandera krn berutang
-  en: ''
-- aceh: lon na utang bak gobnyan
-  jawi: ''
-  id: Saya berhutang uang pdnya
-  en: ''
-- aceh: si Pulan silingka keuieng atau sadum ngon ok, juga apoih
-  jawi: ''
-  id: (hrf) Utang si Polan sekeliling pinggangnya atau sebanyak rambutnya, tenggelam dl utang, yaitu sangat
-    banyak utangnya
-  en: ''
-- aceh: rumoh tiroh, aneuk puree, utang geutunggee, lam mon srot asée
-  jawi: ''
-  id: rumah bocor, anak dihinggapi penyakit patek, utang harus ditagih, anjing terjatuh ke dl sumur (sehingga
-    najis airnya), pb utk menggambarkan peruntungan seseorang yg malang
-  en: ''
+- meaning_id: utang, utang uang
+  meaning_en: debt, money debt
+  meaning_nl: schuld, geldschuld
+- meaning_id: oetang pëoetang, utang dan kecerobohan, debit dan kredit
+  meaning_en: oetang pëoetang, debts and indebtedness, debit and credit
+  meaning_nl: oetang pëoetang, schulden en inschulden, debet en credit
+- meaning_id: mëoetang, meminjam uang dari seseorang
+  meaning_en: mëoetang, borrow money from someone
+  meaning_nl: mëoetang, aan iemand geld leenen
+- meaning_id: orëng mëoetang, debitur
+  meaning_en: orëng mëoetang, debtor
+  meaning_nl: orëng mëoetang, schuldenaar
+- meaning_id: mëoetang sëlingkar kiëng, semua dalam utang
+  meaning_en: mëoetang sëlingkar kiëng, all around in debt
+  meaning_nl: mëoetang sëlingkar kiëng, rondom in schulden steken
+- meaning_id: soerat oetang, sertifikat utang, masuk ke utang
+  meaning_en: soerat oetang, debt certificate, admission to debt
+  meaning_nl: soerat oetang, schuldbewijs, schuldbekentenis
+examples: []
 etymology: ''
-related_words:
-- duek
+related_words: []
 dialect_notes: ''
-source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
-  Pendidikan dan Kebudayaan, 1985, hlm. 1054'
+source: 'K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage: Martinus Nijhoff, voor het
+  Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië, 1889, hlm. 14'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: 'English gloss left blank: no confident translation of the Indonesian definition was
-  available. Jawi left blank: the source is Latin-script only and no Jawi form is printed for this entry.'
+language_uncertain: false
+modern_spelling: utang
+extraction_notes: Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each
+  headword); not AI-generated. `modern_spelling` “utang” is an AI-supplied transposition of the 1889 orthography
+  (oe->u, dj->j, tj->c, nj->ny, ë->eu); it is NOT from the source and needs checking before it is used
+  to match the 1985 dictionary. Indonesian and English were produced by machine translation of van Langen's
+  Dutch (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl` for verification;
+  the rendering is not from the source and needs a human check. Part of speech not stated in the source;
+  left blank.

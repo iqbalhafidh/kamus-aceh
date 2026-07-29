@@ -1,0 +1,35 @@
+headword: mantjoeng
+jawi: منجوغ
+alt_spelling: []
+ipa: ''
+part_of_speech: ''
+definitions:
+- meaning_id: hewan yang menonjol moncong, menonjol, menunjuk.? méndajoe-dajoe, bergoyang, melambai, berputar,
+    berputar bolak-balik, tidak diikat, ragu-ragu
+  meaning_en: an animal's protruding snout, protruding, pointed.? méndajoe-dajoe, waggling, swirling,
+    swirling back and forth, unfastened, wavering
+  meaning_nl: vooruitstekende snuit van een dier, vooruitstekend, spits. منجايو? méndajoe-dajoe, waggelen,
+    wankelen, heen en weêr zwikken, onvast, wankelend
+examples:
+- aceh: pakon gata menan mendaju daju tehat
+  aceh_1889: pakon gata mènan méndajoe-dajoe tèhat
+  jawi: ''
+  id: oeloen toewan sakit sabè oeroi, mengapa kau bergoyang begitu? Aku sakit setiap hari
+  en: oeloen toewan sakit sabè gènap-nap oeroi, why are you waggling so? I'm sick every day
+  nl: oeloen toewan sakit sabè gènap-nap oeroi, waarom waggelt ge aldus? ik ben iederen dag ziek
+etymology: ''
+related_words: []
+dialect_notes: ''
+source: 'K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage: Martinus Nijhoff, voor het
+  Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië, 1889, hlm. 265'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+language_uncertain: false
+modern_spelling: mancung
+extraction_notes: Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each
+  headword); not AI-generated. `modern_spelling` “mancung” is an AI-supplied transposition of the 1889
+  orthography (oe->u, dj->j, tj->c, nj->ny, ë->eu); it is NOT from the source and needs checking before
+  it is used to match the 1985 dictionary. Indonesian and English were produced by machine translation
+  of van Langen's Dutch (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl`
+  for verification; the rendering is not from the source and needs a human check. Part of speech not stated
+  in the source; left blank.

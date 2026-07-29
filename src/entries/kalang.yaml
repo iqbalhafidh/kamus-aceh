@@ -1,5 +1,5 @@
 headword: kalang
-jawi: ''
+jawi: كالغ
 alt_spelling: []
 ipa: ''
 part_of_speech: n
@@ -8,6 +8,9 @@ definitions:
   meaning_en: grime on the body
 - meaning_id: hanya dalam meukalang batang
   meaning_en: only in meukalang batang
+- meaning_id: kotoran tubuh dan putih baik
+  meaning_en: dirt of the body and of white good
+  meaning_nl: vuil van 't lichaam en van wit goed
 examples:
 - aceh: meu kalang
   jawi: ''
@@ -21,11 +24,17 @@ etymology: ''
 related_words: []
 dialect_notes: ''
 source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
-  Pendidikan dan Kebudayaan, 1985, hlm. 367'
+  Pendidikan dan Kebudayaan, 1985, hlm. 367; K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage:
+  Martinus Nijhoff, voor het Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië,
+  1889, hlm. 200'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
 extraction_notes: 'Homonym 1 in the source (printed as a superscript numeral before the headword). Jawi
   left blank: the source is Latin-script only and no Jawi form is printed for this entry. | Homonym 2
   in the source (printed as a superscript numeral before the headword). Jawi left blank: the source is
   Latin-script only and no Jawi form is printed for this entry. Part of speech not stated in the source;
+  left blank. | Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each
+  headword); not AI-generated. Indonesian and English were produced by machine translation of van Langen''s
+  Dutch (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl` for verification;
+  the rendering is not from the source and needs a human check. Part of speech not stated in the source;
   left blank.'

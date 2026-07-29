@@ -1,34 +1,46 @@
-headword: sèn
-jawi: ''
+headword: sēn
+jawi: سن
 alt_spelling:
-- s'èn
 - sen
 ipa: ''
-part_of_speech: n
+part_of_speech: ''
 definitions:
-- meaning_id: s'èm
-  meaning_en: ''
-- meaning_id: s'èng seng
-  meaning_en: ''
+- meaning_id: kali
+  meaning_en: times
+  meaning_nl: keer, maal
+- meaning_id: si sēn, sekali
+  meaning_en: si sēn, once
+  meaning_nl: si sēn, een keer, een maal
+- meaning_id: sēn batjoet, setiap kali, sedikit, sēn si kerak, setiap kali sepotong
+  meaning_en: sēn batjoet, each time, a little, sēn si kerak, each time a piece
+  meaning_nl: sēn batjoet, elken keer, een weinig, sēn si kerak, elken keer een stuk
+- meaning_id: sēn sēn sadroi, setiap kali satu
+  meaning_en: sēn sēn sadroi, each time one
+  meaning_nl: sēn sēn sidroi, elken keer een
+- meaning_id: sadjan si sēn doewa, keduanya secara bersamaan
+  meaning_en: sadjan si sēn doewa, both simultaneously
+  meaning_nl: sadjan si sēn doewa, beiden gelijktijdig
+- meaning_id: persen
+  meaning_en: cent
+  meaning_nl: cent
 examples: []
 etymology: ''
-related_words:
-- sayén
-- si
-- teu
+related_words: []
 dialect_notes: ''
-source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
-  Pendidikan dan Kebudayaan, 1985, hlm. 852'
+source: 'K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage: Martinus Nijhoff, voor het
+  Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië, 1889, hlm. 153, 165'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: 'Source gives this only as a cross-reference (→ sayén); no independent definition is
-  printed, so meaning fields are left blank rather than guessed. Jawi left blank: the source is Latin-script
-  only and no Jawi form is printed for this entry. Part of speech not stated in the source; left blank.
-  | English gloss left blank: no confident translation of the Indonesian definition was available. Jawi
-  left blank: the source is Latin-script only and no Jawi form is printed for this entry. | Source gives
-  this only as a cross-reference (→ si); no independent definition is printed, so meaning fields are left
-  blank rather than guessed. Jawi left blank: the source is Latin-script only and no Jawi form is printed
-  for this entry. Part of speech not stated in the source; left blank. | Source gives this only as a cross-reference
-  (→ teu); no independent definition is printed, so meaning fields are left blank rather than guessed.
-  Jawi left blank: the source is Latin-script only and no Jawi form is printed for this entry. Part of
-  speech not stated in the source; left blank.'
+language_uncertain: false
+modern_spelling: sen
+extraction_notes: Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each
+  headword); not AI-generated. `modern_spelling` “sen” is an AI-supplied transposition of the 1889 orthography
+  (oe->u, dj->j, tj->c, nj->ny, ë->eu); it is NOT from the source and needs checking before it is used
+  to match the 1985 dictionary. Indonesian and English were produced by machine translation of van Langen's
+  Dutch (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl` for verification;
+  the rendering is not from the source and needs a human check. Part of speech not stated in the source;
+  left blank. | Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each
+  headword); not AI-generated. Indonesian and English were produced by machine translation of van Langen's
+  Dutch (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl` for verification;
+  the rendering is not from the source and needs a human check. Part of speech not stated in the source;
+  left blank.

@@ -1,12 +1,22 @@
 headword: minyeuk
-jawi: ''
+jawi: مييق
 alt_spelling:
 - meunyeuk
+- minjëk
 ipa: ''
 part_of_speech: n
 definitions:
 - meaning_id: minyak
   meaning_en: oil
+- meaning_id: minyak, pelumas
+  meaning_en: oil, grease, lubrication
+  meaning_nl: olie, vet, smeer
+- meaning_id: minjëk tanāh, minyak bumi, minyak minyak bumi
+  meaning_en: minjëk tanāh, petroleum, petroleum oils
+  meaning_nl: minjëk tanāh, petroleum, aard-olie
+- meaning_id: minjëk primer, minyak clapper
+  meaning_en: minjëk primer, clapper oil
+  meaning_nl: minjëk oer, klapperolie
 examples:
 - aceh: angên
   jawi: ''
@@ -40,8 +50,16 @@ etymology: ''
 related_words: []
 dialect_notes: ''
 source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
-  Pendidikan dan Kebudayaan, 1985, hlm. 606'
+  Pendidikan dan Kebudayaan, 1985, hlm. 606; K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage:
+  Martinus Nijhoff, voor het Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië,
+  1889, hlm. 270'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
 extraction_notes: 'Jawi left blank: the source is Latin-script only and no Jawi form is printed for this
-  entry.'
+  entry. | Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each headword);
+  not AI-generated. `modern_spelling` “minyeuk” is an AI-supplied transposition of the 1889 orthography
+  (oe->u, dj->j, tj->c, nj->ny, ë->eu); it is NOT from the source and needs checking before it is used
+  to match the 1985 dictionary. Indonesian and English were produced by machine translation of van Langen''s
+  Dutch (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl` for verification;
+  the rendering is not from the source and needs a human check. Part of speech not stated in the source;
+  left blank.'

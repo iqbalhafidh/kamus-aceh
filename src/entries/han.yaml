@@ -1,6 +1,7 @@
 headword: h'an
-jawi: ''
-alt_spelling: []
+jawi: هم
+alt_spelling:
+- han
 ipa: ''
 part_of_speech: ''
 definitions:
@@ -10,6 +11,25 @@ definitions:
   meaning_en: there is none
 - meaning_id: dan sebagainya)
   meaning_en: and so forth
+- meaning_id: tidak, sama sekali tidak
+  meaning_en: not, no, in no way
+  meaning_nl: niet, neen, geenszins
+- meaning_id: hana, kebalikan dari mengejar, tidak menjadi, tidak ada, tidak tersedia
+  meaning_en: hana, the opposite of being after, not being, not existing, not being available
+  meaning_nl: hana, het tegenovergestelde van na, niet zijn, niet wezen, niet bestaan, niet voorhanden
+    zijn
+- meaning_id: han djan, tidak ada waktu untuk apa pun
+  meaning_en: han djan, no time for anything
+  meaning_nl: han djan, geen tijd hebben voor iets
+- meaning_id: han-djid, aku bisa
+  meaning_en: han-djid, I can't
+  meaning_nl: han-djid, het gaat niet
+- meaning_id: han di kée, tidak dikenal
+  meaning_en: han di kée, not recognised
+  meaning_nl: han di kée, niet erkennen
+- meaning_id: han soi, tidak semua orang, tidak hanya seperti setiap
+  meaning_en: han soi, not everyone, not just like any
+  meaning_nl: han soi, niet ieder, niet even als iedere
 examples:
 - aceh: h'an lôn jak
   jawi: ''
@@ -38,8 +58,14 @@ etymology: ''
 related_words: []
 dialect_notes: ''
 source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
-  Pendidikan dan Kebudayaan, 1985, hlm. 279'
+  Pendidikan dan Kebudayaan, 1985, hlm. 279; K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage:
+  Martinus Nijhoff, voor het Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië,
+  1889, hlm. 281'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
 extraction_notes: 'Jawi left blank: the source is Latin-script only and no Jawi form is printed for this
-  entry. Part of speech not stated in the source; left blank.'
+  entry. Part of speech not stated in the source; left blank. | Jawi copied verbatim from the printed
+  source (van Langen prints the Jawi form for each headword); not AI-generated. Indonesian and English
+  were produced by machine translation of van Langen''s Dutch (Dutch→English→Indonesian, OPUS-MT). The
+  Dutch original is kept in `meaning_nl`/`nl` for verification; the rendering is not from the source and
+  needs a human check. Part of speech not stated in the source; left blank.'

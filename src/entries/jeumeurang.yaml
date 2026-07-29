@@ -1,11 +1,33 @@
 headword: jeumeurang
-jawi: ''
-alt_spelling: []
+jawi: جلوئلو
+alt_spelling:
+- djëmërang
 ipa: ''
 part_of_speech: v
 definitions:
 - meaning_id: menyeberang, melewati
   meaning_en: to cross over, to pass by
+- meaning_id: menyeberang
+  meaning_en: cross over
+  meaning_nl: oversteken, naar de overzijde gaan
+- meaning_id: djëmërang këroeng, menyeberangi sungai
+  meaning_en: djëmërang këroeng, cross a river
+  meaning_nl: djëmërang këroeng, een rivier oversteken
+- meaning_id: djëmërang blang, lintas sawah
+  meaning_en: djëmërang blang, cross a rice field
+  meaning_nl: djëmërang blang, een rijstveld oversteken
+- meaning_id: djëmërang laoet, melintasi laut
+  meaning_en: djëmërang laoet, crossing the sea
+  meaning_nl: djëmërang laoet, de zee oversteken
+- meaning_id: djëmërang goenoeng, meliputi gunung
+  meaning_en: djëmërang goenoeng, covering a mountain
+  meaning_nl: djëmërang goenoeng, een berg overtrekken
+- meaning_id: djëmërang rimba, hutan trekking
+  meaning_en: djëmërang rimba, a forest trekking
+  meaning_nl: djëmërang rimba, een bosch doortrekken
+- meaning_id: djëmërang paja, melintasi rawa
+  meaning_en: djëmërang paja, crossing a swamp
+  meaning_nl: djëmërang paja, een moeras oversteken
 examples:
 - aceh: blang, krueng, laôt, paya
   jawi: ''
@@ -37,8 +59,16 @@ related_words:
 - arong
 dialect_notes: ''
 source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
-  Pendidikan dan Kebudayaan, 1985, hlm. 340'
+  Pendidikan dan Kebudayaan, 1985, hlm. 340; K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage:
+  Martinus Nijhoff, voor het Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië,
+  1889, hlm. 83'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
 extraction_notes: 'Jawi left blank: the source is Latin-script only and no Jawi form is printed for this
-  entry.'
+  entry. | Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each headword);
+  not AI-generated. `modern_spelling` “jeumeurang” is an AI-supplied transposition of the 1889 orthography
+  (oe->u, dj->j, tj->c, nj->ny, ë->eu); it is NOT from the source and needs checking before it is used
+  to match the 1985 dictionary. Indonesian and English were produced by machine translation of van Langen''s
+  Dutch (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl` for verification;
+  the rendering is not from the source and needs a human check. Part of speech not stated in the source;
+  left blank.'

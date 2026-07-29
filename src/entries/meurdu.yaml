@@ -1,0 +1,35 @@
+headword: mërdoe
+jawi: مردو
+alt_spelling: []
+ipa: ''
+part_of_speech: ''
+definitions:
+- meaning_id: lembut, manis, suara
+  meaning_en: soft, sweet, voice
+  meaning_nl: zacht, liefelijk, van de stem
+examples:
+- aceh: suwara mangat laram meurdu soi jang deungor hireun bicara
+  aceh_1889: soewara mangat laram mërdoe soi jang dëngor hïrën bitjara
+  jawi: ''
+  id: suara yang menyenangkan, disertai dengan bacaan yang indah, sehingga siapa pun yang mendengarnya
+    berbicara dengan heran
+  en: a pleasant voice, accompanied by a lovely recitation, so that whoever heard it spoke of it with
+    wonder
+  nl: eene aangename stem, gepaard aan eene liefelijke voordracht (air), zoodat wie het hoorde, er met
+    verwondering over sprak
+etymology: ''
+related_words: []
+dialect_notes: ''
+source: 'K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage: Martinus Nijhoff, voor het
+  Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië, 1889, hlm. 258'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+language_uncertain: false
+modern_spelling: meurdu
+extraction_notes: Homonym I in the source (printed as a numeral before the headword). Jawi copied verbatim
+  from the printed source (van Langen prints the Jawi form for each headword); not AI-generated. `modern_spelling`
+  “meurdu” is an AI-supplied transposition of the 1889 orthography (oe->u, dj->j, tj->c, nj->ny, ë->eu);
+  it is NOT from the source and needs checking before it is used to match the 1985 dictionary. Indonesian
+  and English were produced by machine translation of van Langen's Dutch (Dutch→English→Indonesian, OPUS-MT).
+  The Dutch original is kept in `meaning_nl`/`nl` for verification; the rendering is not from the source
+  and needs a human check. Part of speech not stated in the source; left blank.

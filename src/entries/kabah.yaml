@@ -1,18 +1,31 @@
 headword: ka'bah
-jawi: ''
-alt_spelling: []
+jawi: كعيه
+alt_spelling:
+- kaābah
 ipa: ''
 part_of_speech: ''
-definitions: []
+definitions:
+- meaning_id: tempat suci di Mekkah, sebuah bangunan persegi di masjid sana
+  meaning_en: the sanctuary in Mecca, a square building in the mosque there
+  meaning_nl: het heiligdom te Mekka, een vierkant gebouwtje in de moskee aldaar
 examples: []
 etymology: ''
 related_words:
 - kakbah
 dialect_notes: ''
 source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
-  Pendidikan dan Kebudayaan, 1985, hlm. 360'
+  Pendidikan dan Kebudayaan, 1985, hlm. 360; K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage:
+  Martinus Nijhoff, voor het Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië,
+  1889, hlm. 207'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
 extraction_notes: 'Source gives this only as a cross-reference (→ kakbah); no independent definition is
   printed, so meaning fields are left blank rather than guessed. Jawi left blank: the source is Latin-script
-  only and no Jawi form is printed for this entry. Part of speech not stated in the source; left blank.'
+  only and no Jawi form is printed for this entry. Part of speech not stated in the source; left blank.
+  | Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each headword);
+  not AI-generated. `modern_spelling` “kabah” is an AI-supplied transposition of the 1889 orthography
+  (oe->u, dj->j, tj->c, nj->ny, ë->eu); it is NOT from the source and needs checking before it is used
+  to match the 1985 dictionary. Indonesian and English were produced by machine translation of van Langen''s
+  Dutch (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl` for verification;
+  the rendering is not from the source and needs a human check. Part of speech not stated in the source;
+  left blank.'

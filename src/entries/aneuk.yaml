@@ -1,21 +1,135 @@
-headword: aneuk
-jawi: ''
+headword: anëk
+jawi: انق
 alt_spelling: []
 ipa: ''
 part_of_speech: ''
 definitions:
-- meaning_id: anak
-  meaning_en: child
-- meaning_id: biji
-  meaning_en: seed, stone
-- meaning_id: anak
-  meaning_en: offspring
+- meaning_id: muda dari hewan dan tanaman, anggota, bagian
+  meaning_en: young of animals and plants, member, part
+  meaning_nl: jong van dieren en planten, lid, gedeelte
+- meaning_id: anëk oeloen, anakku
+  meaning_en: anëk oeloen, my child
+  meaning_nl: anëk oeloen, mijn kind
+- meaning_id: anëk gob, anak yang berbeda
+  meaning_en: anëk gob, a different child
+  meaning_nl: anëk gob, eens anders kind
+- meaning_id: anëk agam, anak laki-laki
+  meaning_en: anëk agam, son, boy
+  meaning_nl: anëk agam, zoon, jongen
+- meaning_id: anëk inong, putri, gadis
+  meaning_en: anëk inong, daughter, girl
+  meaning_nl: anëk inong, dochter, meisje
+- meaning_id: anëk itik, bebek muda
+  meaning_en: anëk itik, duck young
+  meaning_nl: anëk itik, jong van een eend
+- meaning_id: anëk kajée, pohon muda
+  meaning_en: anëk kajée, young trees
+  meaning_nl: anëk kajée, jonge boompjes
+- meaning_id: anëk ijër, sungai
+  meaning_en: anëk ijër, creek
+  meaning_nl: anëk ijër, kreekje
+- meaning_id: anëk tjok, anak adopsi
+  meaning_en: anëk tjok, adopted child
+  meaning_nl: anëk tjok, aangenomen kind
+- meaning_id: anëk moh, anak tiri
+  meaning_en: anëk moh, stepchild
+  meaning_nl: anëk moh, stiefkind
+- meaning_id: anëk sjéaudara, anak saudara atau adik
+  meaning_en: anëk sjéaudara, child of brother or sister
+  meaning_nl: anëk sjéaudara, broeders- of zusterskind
+- meaning_id: anëk halal, anak hukum
+  meaning_en: anëk halal, legal child
+  meaning_nl: anëk halal, wettig kind
+- meaning_id: anëk haram djëdah, anak palsu
+  meaning_en: anëk haram djëdah, a fake child
+  meaning_nl: anëk haram djëdah, een onecht kind
+- meaning_id: manfaat dalam bentuk
+  meaning_en: benefit in kind, form
+  meaning_nl: anëk badjing, hoerekind
+- meaning_id: anëk mës, anak budak
+  meaning_en: anëk mës, a slave child
+  meaning_nl: anëk mës, een slavenkind
+- meaning_id: anëk Nanggroi, asli
+  meaning_en: anëk nanggroi, native
+  meaning_nl: anëk nanggroi, inboorling
+- meaning_id: anëk moerid, murid sekolah priestly
+  meaning_en: anëk moerid, pupil of a priestly school
+  meaning_nl: anëk moerid, leerling van een priesterschool
+- meaning_id: anëk prahoe, tukang perahu, navigator
+  meaning_en: anëk prahoe, boatboarder, navigator
+  meaning_nl: anëk prahoe, opvarende van een vaartuig, schepeling
+- meaning_id: anëk tëkak, peluk
+  meaning_en: anëk tëkak, hug
+  meaning_nl: anëk tëkak, huig
+- meaning_id: anëk djaroi, jari-jari
+  meaning_en: anëk djaroi, fingers
+  meaning_nl: anëk djaroi, vingers
+- meaning_id: anëk gaki, kaki jari kaki
+  meaning_en: anëk gaki, foot toe
+  meaning_nl: anëk gaki, teen van den voet
+- meaning_id: foal anëk goeda
+  meaning_en: foal anëk goeda
+  meaning_nl: anëk goeda, veulen
+- meaning_id: anëk gënta, bell clasp
+  meaning_en: anëk gënta, bell clasp
+  meaning_nl: anëk gënta, klepel van een bel
+- meaning_id: anëk bädil, shotgun
+  meaning_en: anëk bädil, shotgun
+  meaning_nl: anëk bädil, geweerkogel
+- meaning_id: anëk mëriam, meriam
+  meaning_en: anëk mëriam, cannonball
+  meaning_nl: anëk mëriam, kanonskogel
+- meaning_id: anëk goentji, kunci
+  meaning_en: anëk goentji, key
+  meaning_nl: anëk goentji, sleutel
+- meaning_id: anëk rënjën, tangga tangga
+  meaning_en: anëk rënjën, steps of stairs
+  meaning_nl: anëk rënjën, trede van een trap
+- meaning_id: anëk mëanëk, kelahiran
+  meaning_en: anëk mëanëk, births
+  meaning_nl: anëk mëanëk, baren
+- meaning_id: anëk mëanëk ringgit, ekspansi uang
+  meaning_en: anëk mëanëk ringgit, money expansion
+  meaning_nl: anëk mëanëk ringgit, geld uitzetten
+- meaning_id: anëk mëanëk, ayah ke anak
+  meaning_en: anëk mëanëk, father to son
+  meaning_nl: anëk mëanëk, van vader tot zoon
+- meaning_id: anëk mannjak, bayi
+  meaning_en: anëk mannjak, infant
+  meaning_nl: anëk mannjak, zuigeling
+- meaning_id: anëk tjoet, seorang anak yang belum bisa berjalan
+  meaning_en: anëk tjoet, a child who cannot walk yet
+  meaning_nl: anëk tjoet, een kind, dat nog niet loopen kan
+- meaning_id: anëk miët, nama di mana seorang anak ditunjuk, sehingga dapat berjalan sampai disunat
+  meaning_en: anëk miët, the name by which a child is designated, that it may walk until circumcised
+  meaning_nl: anëk miët, de naam, waarmede men een kind aanduidt, van dat het loopen kan, totdat het besneden
+    is
+- meaning_id: mignons juga disebut anëk miët
+  meaning_en: the mignons are also called anëk miët
+  meaning_nl: de mignons worden ook wel anëk miët genaamd
+- meaning_id: anëk jatim, yatim piatu
+  meaning_en: anëk jatim, orphan
+  meaning_nl: anëk jatim, weeskind
+- meaning_id: anëk sianëk bidjëh timon, biji ketimun
+  meaning_en: anëk sianëk bidjëh timon, cucumber seed
+  meaning_nl: 'komt ook als samengesteld telw. voor: anëk sianëk bidjëh timon, komkommerzaad'
+- meaning_id: anëk tit, kittelar yang
+  meaning_en: anëk tit, the kittelar
+  meaning_nl: anëk tit, de kittelaar
 examples: []
 etymology: ''
 related_words: []
 dialect_notes: ''
-source: 'Daud, Bukhari & Mark Durie. Kamus Basa Acèh = Kamus Bahasa Aceh: Acehnese–Indonesian–English Thesaurus.
-  Pacific Linguistics C-151, 1999, p. 12; p. 99; p. 104.'
-date_added: '2026-07-20'
+source: 'K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage: Martinus Nijhoff, voor het
+  Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië, 1889, hlm. 13'
+date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: ''
+language_uncertain: false
+modern_spelling: aneuk
+extraction_notes: Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each
+  headword); not AI-generated. `modern_spelling` “aneuk” is an AI-supplied transposition of the 1889 orthography
+  (oe->u, dj->j, tj->c, nj->ny, ë->eu); it is NOT from the source and needs checking before it is used
+  to match the 1985 dictionary. Indonesian and English were produced by machine translation of van Langen's
+  Dutch (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl` for verification;
+  the rendering is not from the source and needs a human check. Part of speech not stated in the source;
+  left blank.

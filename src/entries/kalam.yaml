@@ -1,5 +1,5 @@
 headword: kalam
-jawi: ''
+jawi: كالم
 alt_spelling: []
 ipa: ''
 part_of_speech: n
@@ -8,6 +8,18 @@ definitions:
   meaning_en: pen, the word of God, called kaleuem in verse
 - meaning_id: kalam, pena tulis (terbuat dari lidi enau), (dalam kitab-kitab agama) kemaluan laki-laki
   meaning_en: pen, a writing pen made of palm rib, ashamed mans (in books religion)
+- meaning_id: 'sebenarnya:'
+  meaning_en: '[actually] pen'
+  meaning_nl: '[eigenl. قلم] pen'
+- meaning_id: kalam poerih, sebuah pena dari biji-bijian dari telapak tangan
+  meaning_en: kalam poerih, a pen of the grain of an aren palm
+  meaning_nl: kalam poerih, een pen van de nerf van een arên-palm
+- meaning_id: kalam bēsoi, pena baja
+  meaning_en: kalam bēsoi, a steel pen
+  meaning_nl: kalam bēsoi, een stalen pen
+- meaning_id: kalam boelée, kandang angsa
+  meaning_en: kalam boelée, goose pen
+  meaning_nl: kalam boelée, een ganzenpen
 examples:
 - aceh: meu kalam
   jawi: ''
@@ -41,10 +53,16 @@ etymology: ''
 related_words: []
 dialect_notes: ''
 source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
-  Pendidikan dan Kebudayaan, 1985, hlm. 367'
+  Pendidikan dan Kebudayaan, 1985, hlm. 367; K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage:
+  Martinus Nijhoff, voor het Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië,
+  1889, hlm. 201'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
 extraction_notes: 'Homonym 1 in the source (printed as a superscript numeral before the headword). Jawi
   left blank: the source is Latin-script only and no Jawi form is printed for this entry. | Homonym 2
   in the source (printed as a superscript numeral before the headword). Jawi left blank: the source is
-  Latin-script only and no Jawi form is printed for this entry.'
+  Latin-script only and no Jawi form is printed for this entry. | Jawi copied verbatim from the printed
+  source (van Langen prints the Jawi form for each headword); not AI-generated. Indonesian and English
+  were produced by machine translation of van Langen''s Dutch (Dutch→English→Indonesian, OPUS-MT). The
+  Dutch original is kept in `meaning_nl`/`nl` for verification; the rendering is not from the source and
+  needs a human check. Part of speech not stated in the source; left blank.'

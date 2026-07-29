@@ -1,0 +1,44 @@
+headword: boelēn
+jawi: بولن
+alt_spelling: []
+ipa: ''
+part_of_speech: ''
+definitions:
+- meaning_id: bulan
+  meaning_en: moon
+  meaning_nl: maan
+- meaning_id: dimana Atj hitungan bulan, juga bulan
+  meaning_en: where the Atj. count at lunar months, also month
+  meaning_nl: daar de Atj. bij maanmaanden tellen, ook maand
+- meaning_id: boelēn pērnama, nama yang diberikan ke bulan dari sampai
+  meaning_en: boelēn pērnama, the name given to the moon from the 12th to the 14th
+  meaning_nl: boelēn pērnama, de naam, aan de maan gegeven van den 12en tot en met den 14en
+- meaning_id: boelēn baroe lēmah, kuartal pertama
+  meaning_en: boelēn baroe lēmah, first quarter
+  meaning_nl: boelēn baroe lēmah, eerste kwartier
+- meaning_id: anēk boelēn, kuartal terakhir
+  meaning_en: anēk boelēn, last quarter
+  meaning_nl: anēk boelēn, laatste kwartier
+- meaning_id: boelēn pēngēs tēhat, bulan sangat cerah, boelēn I, bulan terbit
+  meaning_en: boelēn pēngēs tēhat, the moon is very bright, boelēn I, the rising moon
+  meaning_nl: boelēn pēngēs tēhat, de maan is zeer helder, boelēn ik, de opkomende maan
+- meaning_id: boelēn tēroen, bulan menurun
+  meaning_en: boelēn tēroen, the descending moon
+  meaning_nl: boelēn tēroen, de neêrgaande maan
+examples: []
+etymology: ''
+related_words: []
+dialect_notes: ''
+source: 'K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage: Martinus Nijhoff, voor het
+  Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië, 1889, hlm. 45'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+language_uncertain: false
+modern_spelling: bulen
+extraction_notes: Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each
+  headword); not AI-generated. `modern_spelling` “bulen” is an AI-supplied transposition of the 1889 orthography
+  (oe->u, dj->j, tj->c, nj->ny, ë->eu); it is NOT from the source and needs checking before it is used
+  to match the 1985 dictionary. Indonesian and English were produced by machine translation of van Langen's
+  Dutch (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl` for verification;
+  the rendering is not from the source and needs a human check. Part of speech not stated in the source;
+  left blank.

@@ -1,0 +1,39 @@
+headword: hémpas
+jawi: همفس
+alt_spelling:
+- émpas
+ipa: ''
+part_of_speech: ''
+definitions:
+- meaning_id: memukul, mengejar
+  meaning_en: hitting, chasing
+  meaning_nl: slaan, slagen geven, kastijden
+examples:
+- aceh: tahempas bak ulee ji sigo
+  aceh_1889: tahémpas bak oelée dji sigo
+  jawi: ''
+  id: anda harus memukulnya sekali di kepalanya
+  en: you must hit him once on his head
+  nl: gij moet hem eenmaal op zijn hoofd slaan
+- aceh: ji hempas-hempas droi
+  aceh_1889: dji hémpas-hémpas droi
+  jawi: ''
+  id: dia menghukum dirinya sendiri
+  en: he chastised himself
+  nl: hij kastijdde zichzelve
+etymology: ''
+related_words: []
+dialect_notes: ''
+source: 'K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage: Martinus Nijhoff, voor het
+  Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië, 1889, hlm. 281'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+language_uncertain: false
+modern_spelling: hempas
+extraction_notes: Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each
+  headword); not AI-generated. `modern_spelling` “hempas” is an AI-supplied transposition of the 1889
+  orthography (oe->u, dj->j, tj->c, nj->ny, ë->eu); it is NOT from the source and needs checking before
+  it is used to match the 1985 dictionary. Indonesian and English were produced by machine translation
+  of van Langen's Dutch (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl`
+  for verification; the rendering is not from the source and needs a human check. Part of speech not stated
+  in the source; left blank.

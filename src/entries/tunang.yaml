@@ -1,21 +1,33 @@
----
-headword: "tunang"
-jawi: ""
+headword: toenang
+jawi: تونغ
 alt_spelling: []
-ipa: "/tu.naŋ/"
-part_of_speech: "n"
-language_uncertain: false
+ipa: ''
+part_of_speech: ''
 definitions:
-  - meaning_id: "1 pertandingan;"
-    meaning_en: ""
-  - meaning_id: "2 mempertandingkan atau mengadu antara dua tim"
-    meaning_en: ""
-examples:
-  []
-etymology: ""
+- meaning_id: ''
+  meaning_en: he who does not abide by it is the loser
+  meaning_nl: overeengekomen inzet bij het doen vechten van dieren. Hij, die er zich niet aan houdt, is
+    de verliezer
+- meaning_id: pëtoenang, melakukan operasi itu
+  meaning_en: pëtoenang, carrying out that operation
+  meaning_nl: pëtoenang, het verrichten van die handeling
+- meaning_id: mëtoenang, telah diambil tempat operasi itu
+  meaning_en: mëtoenang, having already taken place that operation
+  meaning_nl: mëtoenang, het reeds plaats gehad hebben van die handeling
+examples: []
+etymology: ''
 related_words: []
-dialect_notes: ""
-source: "Kamus Bahasa Aceh Daring (Balai Bahasa Provinsi Aceh), 'Entri huruf — tunang', URL: https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/T?page=7 (diakses 20 Juli 2026); halaman tambahan: T?page=11, T?page=12, T?page=13, T?page=14, T?page=15, T?page=16, T?page=17, T?page=18, T?page=19, T?page=6, T?page=7, T?page=8, T?page=9"
-date_added: "2026-07-20"
-contributor: "AI-extracted — needs human review"
-extraction_notes: "Diekstrak dari 14 halaman sumber (https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/T?page=10, https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/T?page=11, https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/T?page=12, https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/T?page=13, https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/T?page=14, https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/T?page=15, https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/T?page=16, https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/T?page=17, https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/T?page=18, https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/T?page=19, https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/T?page=6, https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/T?page=7, https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/T?page=8, https://kamusbbpa.kemendikdasmen.go.id/index.php/kamus/Aceh/T?page=9). Ditemukan pada beberapa halaman; definisi dan contoh digabungkan. Tidak ada bentuk Jawi dalam sumber — dibiarkan kosong sesuai aturan."
+dialect_notes: ''
+source: 'K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage: Martinus Nijhoff, voor het
+  Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië, 1889, hlm. 72'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+language_uncertain: false
+modern_spelling: tunang
+extraction_notes: Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each
+  headword); not AI-generated. `modern_spelling` “tunang” is an AI-supplied transposition of the 1889
+  orthography (oe->u, dj->j, tj->c, nj->ny, ë->eu); it is NOT from the source and needs checking before
+  it is used to match the 1985 dictionary. Indonesian and English were produced by machine translation
+  of van Langen's Dutch (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl`
+  for verification; the rendering is not from the source and needs a human check. Part of speech not stated
+  in the source; left blank.

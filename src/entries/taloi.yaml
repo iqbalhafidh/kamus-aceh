@@ -1,0 +1,54 @@
+headword: taloi
+jawi: تاکي
+alt_spelling: []
+ipa: ''
+part_of_speech: ''
+definitions:
+- meaning_id: tali
+  meaning_en: rope
+  meaning_nl: touw
+- meaning_id: taloi djoek, gemoeti-touw
+  meaning_en: taloi djoek, gemoeti-touw
+  meaning_nl: taloi djoek, gemoeti-touw
+- meaning_id: taloi tjing, tali skala
+  meaning_en: taloi tjing, scale rope
+  meaning_nl: taloi tjing, touw eener weegschaal
+- meaning_id: taloi doegal, memimpin dalam
+  meaning_en: taloi doegal, deep lead
+  meaning_nl: taloi doegal, dieplood
+- meaning_id: taloi lingang, tali tegak, untuk menjaga tiang lurus
+  meaning_en: taloi lingang, the upright ropes, to keep a mast straight
+  meaning_nl: taloi lingang, de opstaande touwen, om een mast recht te houden
+- meaning_id: taloi pènding, ikat pinggang
+  meaning_en: taloi pènding, waistband
+  meaning_nl: taloi pènding, buikband
+- meaning_id: taloi poesat, cord
+  meaning_en: taloi poesat, cord
+  meaning_nl: taloi poesat, navelstreng
+- meaning_id: taloi njawong, pubes seorang pria
+  meaning_en: taloi njawong, the pubes of a man
+  meaning_nl: taloi njawong, de schaamdeelen van een man
+- meaning_id: taloi-toemaloi, semua jenis ropework, seperti di kapal
+  meaning_en: taloi-toemaloi, all kinds of ropework, like on a ship
+  meaning_nl: taloi-toemaloi, allerlei soort van touwwerk, zooals op een schip
+- meaning_id: mètaloi-taloi, di belakang garis satu sama lain
+  meaning_en: mètaloi-taloi, on a line behind each other
+  meaning_nl: mètaloi-taloi, op eene lijn achter elkaàr
+- meaning_id: taloi tèmírang, ropework dari kapal
+  meaning_en: taloi tèmírang, ropework of a vessel
+  meaning_nl: taloi tèmírang, touwwerk van het want van een vaartuig
+examples: []
+etymology: ''
+related_words: []
+dialect_notes: ''
+source: 'K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage: Martinus Nijhoff, voor het
+  Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië, 1889, hlm. 54'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+language_uncertain: false
+modern_spelling: taloi
+extraction_notes: Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each
+  headword); not AI-generated. Indonesian and English were produced by machine translation of van Langen's
+  Dutch (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl` for verification;
+  the rendering is not from the source and needs a human check. Part of speech not stated in the source;
+  left blank.

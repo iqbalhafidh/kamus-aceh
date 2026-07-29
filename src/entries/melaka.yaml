@@ -1,0 +1,35 @@
+headword: mélaka
+jawi: ''
+alt_spelling: []
+ipa: ''
+part_of_speech: n
+definitions:
+- meaning_id: nama sebuah kota di Semenanjung Mal
+  meaning_en: name of a town on the Mal. Peninsula
+  meaning_nl: naam eener stad op het Mal. Schiereiland
+- meaning_id: boh mélaka, sejenis kue Aceh dari tepung, gula dan pappers kisi dalam bentuk bola
+  meaning_en: boh mélaka, a kind of Aceh's pastry of flour, sugar and grated poppers in the form of balls
+  meaning_nl: boh mélaka, een soort van Atjehsch gebak van meel, suiker en geraspte klappers in den vorm
+    van balletjes
+examples: []
+etymology: ''
+related_words: []
+dialect_notes: ''
+source: 'K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage: Martinus Nijhoff, voor het
+  Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië, 1889, hlm. 263'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+language_uncertain: false
+modern_spelling: melaka
+extraction_notes: 'Homonym I in the source (printed as a numeral before the headword). Jawi left blank:
+  no Jawi form is printed for this entry. `modern_spelling` “melaka” is an AI-supplied transposition of
+  the 1889 orthography (oe->u, dj->j, tj->c, nj->ny, ë->eu); it is NOT from the source and needs checking
+  before it is used to match the 1985 dictionary. Indonesian and English were produced by machine translation
+  of van Langen''s Dutch (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl`
+  for verification; the rendering is not from the source and needs a human check. | Homonym II in the
+  source (printed as a numeral before the headword). Jawi left blank: no Jawi form is printed for this
+  entry. `modern_spelling` “melaka” is an AI-supplied transposition of the 1889 orthography (oe->u, dj->j,
+  tj->c, nj->ny, ë->eu); it is NOT from the source and needs checking before it is used to match the 1985
+  dictionary. Indonesian and English were produced by machine translation of van Langen''s Dutch (Dutch→English→Indonesian,
+  OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl` for verification; the rendering is not from
+  the source and needs a human check. Part of speech not stated in the source; left blank.'

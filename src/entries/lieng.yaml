@@ -1,6 +1,7 @@
 headword: lieng
-jawi: ''
-alt_spelling: []
+jawi: ليغ
+alt_spelling:
+- liëng
 ipa: ''
 part_of_speech: n
 definitions:
@@ -11,14 +12,28 @@ definitions:
   meaning_en: a hole dug in the ground or in the wall of a grave, the latter also called leuhad
 - meaning_id: tempat meletakkan jenazah (yang tidak dimasukkan ke dalam kerenda) dan hanya ditutupi papan
   meaning_en: ''
+- meaning_id: lubang kematian, di mana orang meletakkan tubuh unboxed
+  meaning_en: death pit, in which one lays the unboxed body
+  meaning_nl: doodskuil, waarin men het ongekiste lijk legt
+- meaning_id: bagian bawah kuburan, yang digali
+  meaning_en: the lower part of the grave, which is excavated
+  meaning_nl: het onderste gedeelte van het graf, dat uitgegraven wordt
 examples: []
 etymology: ''
 related_words:
 - uruek
 dialect_notes: ''
 source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
-  Pendidikan dan Kebudayaan, 1985, hlm. 542'
+  Pendidikan dan Kebudayaan, 1985, hlm. 542; K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage:
+  Martinus Nijhoff, voor het Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië,
+  1889, hlm. 249'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
 extraction_notes: 'Jawi left blank: the source is Latin-script only and no Jawi form is printed for this
-  entry.'
+  entry. | Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each headword);
+  not AI-generated. `modern_spelling` “lieng” is an AI-supplied transposition of the 1889 orthography
+  (oe->u, dj->j, tj->c, nj->ny, ë->eu); it is NOT from the source and needs checking before it is used
+  to match the 1985 dictionary. Indonesian and English were produced by machine translation of van Langen''s
+  Dutch (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl` for verification;
+  the rendering is not from the source and needs a human check. Part of speech not stated in the source;
+  left blank.'

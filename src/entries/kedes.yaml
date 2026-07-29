@@ -1,0 +1,32 @@
+headword: kēdēs
+jawi: کدیِس
+alt_spelling: []
+ipa: ''
+part_of_speech: ''
+definitions:
+- meaning_id: sisa makanan dalam pot di mana mereka telah dimasak
+  meaning_en: rest of food in pots in which they have been cooked
+  meaning_nl: overblijfsel van spijzen in potten, waarin zij gekookt zijn
+- meaning_id: kerak yang melekat pada panci oleh panas yang berlebihan
+  meaning_en: the crust attached to the pot by excessive heat
+  meaning_nl: de korst, die zich door te zware hitte aan den pot vasthecht
+- meaning_id: pembakaran
+  meaning_en: combustion
+  meaning_nl: aanbrandsel
+examples: []
+etymology: ''
+related_words: []
+dialect_notes: ''
+source: 'K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage: Martinus Nijhoff, voor het
+  Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië, 1889, hlm. 204'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+language_uncertain: false
+modern_spelling: kedes
+extraction_notes: Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each
+  headword); not AI-generated. `modern_spelling` “kedes” is an AI-supplied transposition of the 1889 orthography
+  (oe->u, dj->j, tj->c, nj->ny, ë->eu); it is NOT from the source and needs checking before it is used
+  to match the 1985 dictionary. Indonesian and English were produced by machine translation of van Langen's
+  Dutch (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl` for verification;
+  the rendering is not from the source and needs a human check. Part of speech not stated in the source;
+  left blank.

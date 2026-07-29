@@ -1,0 +1,32 @@
+headword: tjiët
+jawi: چيت
+alt_spelling: []
+ipa: ''
+part_of_speech: ''
+definitions:
+- meaning_id: juga, bahkan, baik
+  meaning_en: also, even, well
+  meaning_nl: ook, zelfs, wel
+- meaning_id: sabé tjiët, sama saja
+  meaning_en: sabé tjiët, completely the same
+  meaning_nl: sabé tjiët, geheel dezelfde
+- meaning_id: tjiët njoi, tentu, seperti ini
+  meaning_en: tjiët njoi, sure, just like this
+  meaning_nl: tjiët njoi, wel zeker, juist zoo
+examples: []
+etymology: ''
+related_words: []
+dialect_notes: ''
+source: 'K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage: Martinus Nijhoff, voor het
+  Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië, 1889, hlm. 101'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+language_uncertain: false
+modern_spelling: ciet
+extraction_notes: Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each
+  headword); not AI-generated. `modern_spelling` “ciet” is an AI-supplied transposition of the 1889 orthography
+  (oe->u, dj->j, tj->c, nj->ny, ë->eu); it is NOT from the source and needs checking before it is used
+  to match the 1985 dictionary. Indonesian and English were produced by machine translation of van Langen's
+  Dutch (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl` for verification;
+  the rendering is not from the source and needs a human check. Part of speech not stated in the source;
+  left blank.

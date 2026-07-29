@@ -1,0 +1,29 @@
+headword: raboen
+jawi: رابون
+alt_spelling: []
+ipa: ''
+part_of_speech: ''
+definitions:
+- meaning_id: untuk memanggang daun untuk menghasilkan asap
+  meaning_en: to roast leaves to produce smoke
+  meaning_nl: bladeren roosteren om rook te verwekken
+- meaning_id: il-mée pēraboen, seni mengaburkan mata seseorang
+  meaning_en: il-mée pēraboen, the art of clouding someone's eyes
+  meaning_nl: il-mée pēraboen, de kunst om iemands oogen te benevelen
+examples: []
+etymology: ''
+related_words: []
+dialect_notes: ''
+source: 'K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage: Martinus Nijhoff, voor het
+  Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië, 1889, hlm. 117'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+language_uncertain: false
+modern_spelling: rabun
+extraction_notes: Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each
+  headword); not AI-generated. `modern_spelling` “rabun” is an AI-supplied transposition of the 1889 orthography
+  (oe->u, dj->j, tj->c, nj->ny, ë->eu); it is NOT from the source and needs checking before it is used
+  to match the 1985 dictionary. Indonesian and English were produced by machine translation of van Langen's
+  Dutch (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl` for verification;
+  the rendering is not from the source and needs a human check. Part of speech not stated in the source;
+  left blank.

@@ -1,21 +1,29 @@
-headword: ceurana
-jawi: چيورانا
-alt_spelling:
-- crana
+headword: tjërana
+jawi: چرانا
+alt_spelling: []
 ipa: ''
-part_of_speech: n
+part_of_speech: ''
 definitions:
-- meaning_id: cerana, sj baki tembaga, dulang tembaga (tempat sirih, tempat air minum)
-  meaning_en: cerana, a copper plate, copper tray (place for betel nut, place for drinking water)
-  examples:
-  - aceh: meu
-    jawi: ''
-    id: mempunyai cerana
-    en: has a wife
+- meaning_id: piring tembaga bulat dengan satu kaki, untuk kebutuhan sirah
+  meaning_en: a round copper dish with one foot, for sirih needs
+  meaning_nl: een ronde koperen schotel met één voet, voor sirih-benoodigdheden
+- meaning_id: juga piring, di atas yang seorang tukang emas file emas atau perak
+  meaning_en: also a dish, above which a goldsmith files gold or silver
+  meaning_nl: ook een schotel, waarboven een goudsmid goud of zilver vijlt
+examples: []
 etymology: ''
 related_words: []
 dialect_notes: ''
-source: Kamus Aceh-Indonesia (Acehnese-Indonesian Dictionary), p. 130
+source: 'K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage: Martinus Nijhoff, voor het
+  Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië, 1889, hlm. 93'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: 'Source lists variant spellings: crana. Jawi transliteration is AI-generated, not from source — needs verification by a Jawi-literate reviewer.'
+language_uncertain: false
+modern_spelling: ceurana
+extraction_notes: Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each
+  headword); not AI-generated. `modern_spelling` “ceurana” is an AI-supplied transposition of the 1889
+  orthography (oe->u, dj->j, tj->c, nj->ny, ë->eu); it is NOT from the source and needs checking before
+  it is used to match the 1985 dictionary. Indonesian and English were produced by machine translation
+  of van Langen's Dutch (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl`
+  for verification; the rendering is not from the source and needs a human check. Part of speech not stated
+  in the source; left blank.

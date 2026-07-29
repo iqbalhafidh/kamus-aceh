@@ -1,8 +1,9 @@
 headword: panee
-jawi: ''
+jawi: فانو
 alt_spelling:
 - panie
 - mupancee-panee
+- panée
 ipa: ''
 part_of_speech: v
 definitions:
@@ -22,14 +23,34 @@ definitions:
   meaning_en: ''
 - meaning_id: terbayang-bayang
   meaning_en: ''
-examples: []
+- meaning_id: bintik pada kulit warna sedikit lebih ringan dari kulit itu sendiri. sinonim dengan djéloem
+    dan géloem Di antara Atjehers, tempat-tempat ini dihitung di antara keindahan tubuh
+  meaning_en: spots on the skin of slightly lighter color than the skin itself. Synonymous with djéloem
+    and géloem Among the Atjehers, these spots are counted among the beauties of the body
+  meaning_nl: vlekken op de huid van eenigszins lichtere kleur dan de huid zelve. Synoniem met djéloem
+    en géloem. Bij de Atjehers worden deze vlekken tot de schoonheden van 't lichaam gerekend
+examples:
+- aceh: di bak dada han jid ta er panee metabur mitsil metiar
+  aceh_1889: di bak dada han djid ta èr panée métaboer mitsil métiar
+  jawi: ''
+  id: di dada seseorang dapat melihat bintik-bintik tersebar di atas mereka seperti mutiara
+  en: on the chest one can't see the spots scattered on them as pearls
+  nl: op de borst vermag men de vlekken niet te aanschouwen, die er op verspreid zijn als paarlen
 etymology: ''
 related_words:
 - mupadee-padee pd padee
 dialect_notes: ''
 source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
-  Pendidikan dan Kebudayaan, 1985, hlm. 668'
+  Pendidikan dan Kebudayaan, 1985, hlm. 668; K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage:
+  Martinus Nijhoff, voor het Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië,
+  1889, hlm. 178'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
 extraction_notes: 'Homonym 2 in the source (printed as a superscript numeral before the headword). Jawi
-  left blank: the source is Latin-script only and no Jawi form is printed for this entry.'
+  left blank: the source is Latin-script only and no Jawi form is printed for this entry. | Jawi copied
+  verbatim from the printed source (van Langen prints the Jawi form for each headword); not AI-generated.
+  `modern_spelling` “panee” is an AI-supplied transposition of the 1889 orthography (oe->u, dj->j, tj->c,
+  nj->ny, ë->eu); it is NOT from the source and needs checking before it is used to match the 1985 dictionary.
+  Indonesian and English were produced by machine translation of van Langen''s Dutch (Dutch→English→Indonesian,
+  OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl` for verification; the rendering is not from
+  the source and needs a human check. Part of speech not stated in the source; left blank.'

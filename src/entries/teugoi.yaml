@@ -1,0 +1,32 @@
+headword: tëgoi
+jawi: تَكُوي
+alt_spelling: []
+ipa: ''
+part_of_speech: ''
+definitions:
+- meaning_id: awas
+  meaning_en: watch out
+  meaning_nl: let op, pas op
+- meaning_id: tëgoi-goi, perhatikan
+  meaning_en: tëgoi-goi, pay attention
+  meaning_nl: tëgoi-goi, let goed op
+- meaning_id: penyebab
+  meaning_en: cause
+  meaning_nl: toedoen, oorzaak
+examples: []
+etymology: ''
+related_words: []
+dialect_notes: ''
+source: 'K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage: Martinus Nijhoff, voor het
+  Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië, 1889, hlm. 63'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+language_uncertain: false
+modern_spelling: teugoi
+extraction_notes: Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each
+  headword); not AI-generated. `modern_spelling` “teugoi” is an AI-supplied transposition of the 1889
+  orthography (oe->u, dj->j, tj->c, nj->ny, ë->eu); it is NOT from the source and needs checking before
+  it is used to match the 1985 dictionary. Indonesian and English were produced by machine translation
+  of van Langen's Dutch (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl`
+  for verification; the rendering is not from the source and needs a human check. Part of speech not stated
+  in the source; left blank.

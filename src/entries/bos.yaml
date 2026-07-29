@@ -1,0 +1,31 @@
+headword: bos
+jawi: بوس
+alt_spelling: []
+ipa: ''
+part_of_speech: ''
+definitions:
+- meaning_id: melemparkan pergi, Menolak, menghapus, membuang, pengurangan (dalam aritmetik)
+  meaning_en: throwing away, rejecting, abolishing, banishing, subtracting (in arithmetic)
+  meaning_nl: wegwerpen, wegsmijten, weggooien, verwerpen, afschaffen, verbannen, verstooten, aftrekken
+    (in de rekenkunde)
+- meaning_id: bos saoeh, jangkar
+  meaning_en: bos saoeh, anchoring
+  meaning_nl: bos saoeh, het anker werpen
+- meaning_id: buang kotoran
+  meaning_en: dispose of the dirt
+  meaning_nl: bos bēroes, de vuiligheid wegwerpen
+examples: []
+etymology: ''
+related_words: []
+dialect_notes: ''
+source: 'K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage: Martinus Nijhoff, voor het
+  Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië, 1889, hlm. 43'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+language_uncertain: false
+modern_spelling: bos
+extraction_notes: Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each
+  headword); not AI-generated. Indonesian and English were produced by machine translation of van Langen's
+  Dutch (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl` for verification;
+  the rendering is not from the source and needs a human check. Part of speech not stated in the source;
+  left blank.

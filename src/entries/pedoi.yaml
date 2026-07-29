@@ -1,0 +1,38 @@
+headword: pēdoi
+jawi: قَدُوِي
+alt_spelling: []
+ipa: ''
+part_of_speech: ''
+definitions:
+- meaning_id: jumlah objek ditempatkan pada, dalam atau samping satu sama lain, hutan, bundel, perpindahan
+    orang
+  meaning_en: quantity of objects placed on, in or next to each other, forest, bundle, displacement of
+    people
+  meaning_nl: hoeveelheid van op, in of naast elkander geplaatste voorwerpen, bos, bundel, verdringen
+    van menschen
+examples:
+- aceh: padum sipedoi ranub
+  aceh_1889: padoem sipēdoi ranoeb
+  jawi: ''
+  id: berapa banyak biaya sirah? orēng di ramé ōh moepēdoi, ada begitu banyak orang di sawah yang mereka
+    dorong elkaār
+  en: how much does a bunch of sirih cost? orēng di blang ramé tēhat ōh moepēdoi, there are so many people
+    on the rice field that they push elkaār
+  nl: hoeveel kost een bos sirih? orēng di blang ramé tēhat ōh moepēdoi, er zijn zoo veel menschen op
+    het rijstveld, dat zij elkaār verdringen
+etymology: ''
+related_words: []
+dialect_notes: ''
+source: 'K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage: Martinus Nijhoff, voor het
+  Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië, 1889, hlm. 180'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+language_uncertain: false
+modern_spelling: pedoi
+extraction_notes: Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each
+  headword); not AI-generated. `modern_spelling` “pedoi” is an AI-supplied transposition of the 1889 orthography
+  (oe->u, dj->j, tj->c, nj->ny, ë->eu); it is NOT from the source and needs checking before it is used
+  to match the 1985 dictionary. Indonesian and English were produced by machine translation of van Langen's
+  Dutch (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl` for verification;
+  the rendering is not from the source and needs a human check. Part of speech not stated in the source;
+  left blank.

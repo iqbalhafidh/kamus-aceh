@@ -1,0 +1,32 @@
+headword: gådam
+jawi: گُيُيُ
+alt_spelling: []
+ipa: ''
+part_of_speech: ''
+definitions:
+- meaning_id: menginjak-injak kaki, seperti pedang Aceh c dong, ruang penyimpanan pada umumnya, gudang
+    atau gudang c gedoek, bergulir suara apapun, seperti gelombang sinonim dengan tagor c gedoembak, sejenis
+    tamborin kecil
+  meaning_en: stomping with the feet. >C gedoebang, a kind of Aceh's sword. C dong, storage space in general,
+    a warehouse or warehouse. C gedoek, rolling of any sound, like waves Synonym with tagor. C gedoembak,
+    a kind of small tambourine
+  meaning_nl: stampen met de voeten. گُيُيُ>C gêdoebang, een soort van Atjehsch zwaard. گُيُيُC gêdong,
+    bergplaats in 't algemeen, een pakhuis of magazijn. گُيُيُC gêdoek, rollen van eenig geluid, zoo als
+    van golven. Synoniem met tagor. گُيُيُC gêdoembak, een soort van kleine tamboerijn
+examples: []
+etymology: ''
+related_words: []
+dialect_notes: ''
+source: 'K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage: Martinus Nijhoff, voor het
+  Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië, 1889, hlm. 223'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+language_uncertain: false
+modern_spelling: gdam
+extraction_notes: Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each
+  headword); not AI-generated. `modern_spelling` “gdam” is an AI-supplied transposition of the 1889 orthography
+  (oe->u, dj->j, tj->c, nj->ny, ë->eu); it is NOT from the source and needs checking before it is used
+  to match the 1985 dictionary. Indonesian and English were produced by machine translation of van Langen's
+  Dutch (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl` for verification;
+  the rendering is not from the source and needs a human check. Part of speech not stated in the source;
+  left blank.

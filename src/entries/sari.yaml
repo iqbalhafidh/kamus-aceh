@@ -1,23 +1,36 @@
 headword: sari
-jawi: ''
-alt_spelling:
-- salah-sari
+jawi: ساری
+alt_spelling: []
 ipa: ''
 part_of_speech: ''
-definitions: []
-examples: []
+definitions:
+- meaning_id: pada saat itu, jika
+  meaning_en: at the time of, if
+  meaning_nl: of ʔoh sari, toen, ten tijde van, als, wanneer,
+examples:
+- aceh: han sari meutemeung lun ngon si pulan nyan cit lun tunggee
+  aceh_1889: han sari mëtemëng loen ngon si Poelan njan tjit loen toenggée
+  jawi: ''
+  id: lé oetang, ketika aku melayani N n
+  en: lé oetang, when I serve N. N
+  nl: lé oetang, wanneer ik dien N. N
+- aceh: ontmut
+  aceh_1889: ontmoet
+  jawi: ''
+  id: saya akan bersikeras sekali lagi pada pembayaran utang
+  en: i will insist once again on payment of debt
+  nl: zal ik nogmaals op betaling van schuld aandringen
 etymology: ''
-related_words:
-- saghi
-- salah
+related_words: []
 dialect_notes: ''
-source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
-  Pendidikan dan Kebudayaan, 1985, hlm. 848'
+source: 'K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage: Martinus Nijhoff, voor het
+  Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië, 1889, hlm. 137'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: 'Source gives this only as a cross-reference (→ saghi); no independent definition is
-  printed, so meaning fields are left blank rather than guessed. Jawi left blank: the source is Latin-script
-  only and no Jawi form is printed for this entry. Part of speech not stated in the source; left blank.
-  | Source gives this only as a cross-reference (→ salah); no independent definition is printed, so meaning
-  fields are left blank rather than guessed. Jawi left blank: the source is Latin-script only and no Jawi
-  form is printed for this entry. Part of speech not stated in the source; left blank.'
+language_uncertain: false
+modern_spelling: sari
+extraction_notes: Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each
+  headword); not AI-generated. Indonesian and English were produced by machine translation of van Langen's
+  Dutch (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl` for verification;
+  the rendering is not from the source and needs a human check. Part of speech not stated in the source;
+  left blank.

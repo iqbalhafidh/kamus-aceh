@@ -1,18 +1,42 @@
 headword: put
-jawi: ''
-alt_spelling: []
+jawi: قُوة
+alt_spelling:
+- poet
 ipa: ''
 part_of_speech: n
 definitions:
 - meaning_id: sejenis ukuran isi
   meaning_en: a kind of measure fill
+- meaning_id: cool, blow, blow away with a fan
+  meaning_en: cool, blow, blow away with a fan
+  meaning_nl: zich met een waaier verkoelen, blazen, wegblazen
+- meaning_id: berbicara dalam dirinya sendiri
+  meaning_en: speak within himself
+  meaning_nl: in zich zelf spreken
+- meaning_id: moepoet-poet, terus menerus atau semua jenis berbicara dalam diri mereka sendiri
+  meaning_en: moepoet-poet, constantly or all kinds of speaking in themselves
+  meaning_nl: moepoet-poet, voortdurend of allerlei in zichzelf spreken
 examples: []
 etymology: ''
 related_words: []
 dialect_notes: ''
 source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
-  Pendidikan dan Kebudayaan, 1985, hlm. 757'
+  Pendidikan dan Kebudayaan, 1985, hlm. 757; K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage:
+  Martinus Nijhoff, voor het Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië,
+  1889, hlm. 189'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
 extraction_notes: 'Jawi left blank: the source is Latin-script only and no Jawi form is printed for this
-  entry.'
+  entry. | Homonym I in the source (printed as a numeral before the headword). Jawi copied verbatim from
+  the printed source (van Langen prints the Jawi form for each headword); not AI-generated. `modern_spelling`
+  “put” is an AI-supplied transposition of the 1889 orthography (oe->u, dj->j, tj->c, nj->ny, ë->eu);
+  it is NOT from the source and needs checking before it is used to match the 1985 dictionary. Indonesian
+  and English were produced by machine translation of van Langen''s Dutch (Dutch→English→Indonesian, OPUS-MT).
+  The Dutch original is kept in `meaning_nl`/`nl` for verification; the rendering is not from the source
+  and needs a human check. Part of speech not stated in the source; left blank. | Homonym II in the source
+  (printed as a numeral before the headword). Jawi left blank: no Jawi form is printed for this entry.
+  `modern_spelling` “put” is an AI-supplied transposition of the 1889 orthography (oe->u, dj->j, tj->c,
+  nj->ny, ë->eu); it is NOT from the source and needs checking before it is used to match the 1985 dictionary.
+  Indonesian and English were produced by machine translation of van Langen''s Dutch (Dutch→English→Indonesian,
+  OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl` for verification; the rendering is not from
+  the source and needs a human check. Part of speech not stated in the source; left blank.'

@@ -1,6 +1,8 @@
 headword: pek
-jawi: ''
-alt_spelling: []
+jawi: فق
+alt_spelling:
+- pēkā
+- pēk
 ipa: ''
 part_of_speech: v
 definitions:
@@ -10,14 +12,34 @@ definitions:
   meaning_en: ''
 - meaning_id: mengetuk
   meaning_en: to knock
-examples: []
+- meaning_id: keluar, sekali pakai sinonim dengan sēt
+  meaning_en: eject, disposable. Synonym with sēt
+  meaning_nl: uitwerpen, wegwerpen. Synoniem met sēt
+- meaning_id: hardcore
+  meaning_en: hardcore
+  meaning_nl: hardhoorig
+examples:
+- aceh: pue gata ka pek hana tadengor lun tawuk
+  aceh_1889: poeē gata ka pēkā hana tadēngor loen tawoek
+  jawi: ''
+  id: apakah kau begitu keras sehingga kau tidak mendengar, bahwa aku memanggilmu
+  en: are you so loud that you do not hear, that I call you
+  nl: zijt ge zoo hardhoorig, dat ge niet hoort, dat ik U roep
 etymology: ''
 related_words:
 - leupek
 dialect_notes: ''
 source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
-  Pendidikan dan Kebudayaan, 1985, hlm. 689'
+  Pendidikan dan Kebudayaan, 1985, hlm. 689; K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage:
+  Martinus Nijhoff, voor het Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië,
+  1889, hlm. 185'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
 extraction_notes: 'Jawi left blank: the source is Latin-script only and no Jawi form is printed for this
-  entry.'
+  entry. | Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each headword);
+  not AI-generated. `modern_spelling` “pek” is an AI-supplied transposition of the 1889 orthography (oe->u,
+  dj->j, tj->c, nj->ny, ë->eu); it is NOT from the source and needs checking before it is used to match
+  the 1985 dictionary. Indonesian and English were produced by machine translation of van Langen''s Dutch
+  (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl` for verification;
+  the rendering is not from the source and needs a human check. Part of speech not stated in the source;
+  left blank.'

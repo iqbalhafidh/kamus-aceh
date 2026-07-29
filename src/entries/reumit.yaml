@@ -1,0 +1,38 @@
+headword: rëmit
+jawi: رمب
+alt_spelling: []
+ipa: ''
+part_of_speech: ''
+definitions:
+- meaning_id: menggigit ikan di hook
+  meaning_en: biting fish on a hook
+  meaning_nl: bijten van visch aan een haak
+examples:
+- aceh: na jicok eungkut bak kawil gata
+  aceh_1889: na djitjok ëngkoet bak kawil gata
+  jawi: ''
+  id: djërëmit-rëmit salëh njo salëh bisa, jika ikan ingin ditangkap oleh kailmu, mereka menggigit
+  en: djërëmit-rëmit salëh njo salëh could, if the fish wants to be caught by your hook, they bite
+  nl: djërëmit-rëmit salëh njo salëh kon, wil de visch zich door uw haak laten vangen, zij bijten
+- aceh: wellikht is het wat
+  aceh_1889: wellicht is het wat
+  jawi: ''
+  id: mungkin tidak ada
+  en: maybe nothing
+  nl: wellicht niets
+etymology: ''
+related_words: []
+dialect_notes: ''
+source: 'K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage: Martinus Nijhoff, voor het
+  Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië, 1889, hlm. 127'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+language_uncertain: false
+modern_spelling: reumit
+extraction_notes: Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each
+  headword); not AI-generated. `modern_spelling` “reumit” is an AI-supplied transposition of the 1889
+  orthography (oe->u, dj->j, tj->c, nj->ny, ë->eu); it is NOT from the source and needs checking before
+  it is used to match the 1985 dictionary. Indonesian and English were produced by machine translation
+  of van Langen's Dutch (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl`
+  for verification; the rendering is not from the source and needs a human check. Part of speech not stated
+  in the source; left blank.

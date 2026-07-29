@@ -1,0 +1,42 @@
+headword: ratib
+jawi: رَاقِيب
+alt_spelling: []
+ipa: ''
+part_of_speech: ''
+definitions:
+- meaning_id: 'kelelahan konstan dari rumus agama tertentu. dan berbagai cara di mana hal ini terjadi
+    disebut: ratib rapiil, pembacaan keyakinan dengan panduan dari rēpana dan rapiled?'
+  meaning_en: 'the constant exhaustion of certain religious formulas. The various ways in which this takes
+    place are called: ratib rapail, the recitation of the creed with the guidance of the rēpana and rapail
+    [Rāfe''i?] in which his body parts are drilled with an iron prime'
+  meaning_nl: 'het voortdurend tot uitputting toe opzeggen van zekere godsdienstige formulen. De verschillende
+    wijzen waarop dit plaats heeft, heeten: ratib rapail, het opzeggen der geloofsbelijdenis met begeleiding
+    der rēpana en rapail [Rāfe''i?] waarbij men zijne lichaamsdeelen met een ijzeren priem doorboort'
+- meaning_id: ratib sēdati, mengucapkan kata-kata, sementara sēdatis (little dance boys) dance
+  meaning_en: ratib sēdati, reciting the words, while sēdatis (little dance boys) dance
+  meaning_nl: ratib sēdati, het opzeggen dier woorden, terwijl sēdatis (kleine dansjongens) dansen
+- meaning_id: ratib saman ánSamman, mengatakan kata-kata itu duduk dan dengan kepala dan tangan bergerak
+  meaning_en: ratib saman [Samman], saying those words sitting and with head and hands moving
+  meaning_nl: ratib saman [Samman], het opzeggen van die woorden zittende en met hoofd en handen beweging
+    makende
+- meaning_id: ratib mēsēkat, mengatakan kata-kata berlutut dan menggerakkan tubuh bagian atas
+  meaning_en: ratib mēsēkat, saying those words kneeling and moving the upper body
+  meaning_nl: ratib mēsēkat, het opzeggen van die woorden knielende en het bovenlijf bewegende
+- meaning_id: ratib minsar, membaca kata-kata berdiri dan meniru suara menggergaji
+  meaning_en: ratib minsar, reciting those words standing up and mimicking a sawing sound
+  meaning_nl: ratib minsar, het opzeggen van die woorden rechtopstaande en een zagend geluid nabootsende
+examples: []
+etymology: ''
+related_words: []
+dialect_notes: ''
+source: 'K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage: Martinus Nijhoff, voor het
+  Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië, 1889, hlm. 118'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+language_uncertain: false
+modern_spelling: ratib
+extraction_notes: Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each
+  headword); not AI-generated. Indonesian and English were produced by machine translation of van Langen's
+  Dutch (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl` for verification;
+  the rendering is not from the source and needs a human check. Part of speech not stated in the source;
+  left blank.

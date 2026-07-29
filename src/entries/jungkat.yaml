@@ -1,7 +1,8 @@
 headword: jungkat
-jawi: ''
+jawi: جوغکت
 alt_spelling:
 - jeungkat
+- djoengkat
 ipa: ''
 part_of_speech: a
 definitions:
@@ -9,6 +10,18 @@ definitions:
   meaning_en: arrogant
 - meaning_id: mengungkit, mengangkat
   meaning_en: to lever up, to lift
+- meaning_id: vanilla, sombong, membelai, kasar, gemuk
+  meaning_en: vanilla, cocky, fondling, brushy, fatty
+  meaning_nl: ijdel, verwaand, van opschik houden, kwasterig, fatterig
+- meaning_id: berjungkat-jungkit
+  meaning_en: to seesaw
+  meaning_nl: wippen
+- meaning_id: médjoengkat, menyengat ekor di tinggi, seperti karbin dll
+  meaning_en: médjoengkat, sting the tail in height, such as carbouws etc
+  meaning_nl: médjoengkat, den staart in de hoogte steken, zooals karbouwen enz
+- meaning_id: djoengkat-djoengkit, berayun di atas papan
+  meaning_en: djoengkat-djoengkit, swinging on a plank
+  meaning_nl: djoengkat-djoengkit, wippen op een wip
 examples:
 - aceh: that si Pulan, hana jithée na gob, Si Polan itu angkuh sekali, ia tidak memperdulikan orang lain
     peu jungkat
@@ -44,10 +57,18 @@ related_words:
 - sabab
 dialect_notes: ''
 source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
-  Pendidikan dan Kebudayaan, 1985, hlm. 355'
+  Pendidikan dan Kebudayaan, 1985, hlm. 355; K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage:
+  Martinus Nijhoff, voor het Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië,
+  1889, hlm. 86, 87'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
 extraction_notes: 'Homonym 1 in the source (printed as a superscript numeral before the headword). Jawi
   left blank: the source is Latin-script only and no Jawi form is printed for this entry. | Homonym 2
   in the source (printed as a superscript numeral before the headword). Jawi left blank: the source is
-  Latin-script only and no Jawi form is printed for this entry.'
+  Latin-script only and no Jawi form is printed for this entry. | Jawi copied verbatim from the printed
+  source (van Langen prints the Jawi form for each headword); not AI-generated. `modern_spelling` “jungkat”
+  is an AI-supplied transposition of the 1889 orthography (oe->u, dj->j, tj->c, nj->ny, ë->eu); it is
+  NOT from the source and needs checking before it is used to match the 1985 dictionary. Indonesian and
+  English were produced by machine translation of van Langen''s Dutch (Dutch→English→Indonesian, OPUS-MT).
+  The Dutch original is kept in `meaning_nl`/`nl` for verification; the rendering is not from the source
+  and needs a human check. Part of speech not stated in the source; left blank.'

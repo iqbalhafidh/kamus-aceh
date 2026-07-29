@@ -1,6 +1,7 @@
 headword: leupie
-jawi: ''
-alt_spelling: []
+jawi: لُغِي
+alt_spelling:
+- lëpië
 ipa: ''
 part_of_speech: a
 definitions:
@@ -8,6 +9,12 @@ definitions:
   meaning_en: cold to the touch
 - meaning_id: umpamanya orang yang meninggal)
   meaning_en: ''
+- meaning_id: dingin, kaku
+  meaning_en: cold, stiff
+  meaning_nl: koud, stijf
+- meaning_id: yang mengelupas kulit perut pada orang-orang yang gemuk
+  meaning_en: the overhanging skin of the belly in fat people
+  meaning_nl: het overhangende vel van den buik bij dikke menschen
 examples:
 - aceh: badanji jinoe ka leupie, ka gadoh deumam
   jawi: ''
@@ -29,12 +36,32 @@ examples:
   jawi: ''
   id: Anda jangan berdigin-dingin dl hujan
   en: Do not stand about in the rain getting cold
+- aceh: leupie peurut ban bantail guda
+  aceh_1889: lëpië përoet ban bantail goeda
+  jawi: ''
+  id: kulit yang menggantung di perutnya menyerupai bantal yang diletakkan di atas kuda
+  en: the overhanging skin of his belly resembles the cushions that one lays on a horse. (Atj)
+  nl: het overhangende vel van zijn buik gelijkt de kussens, die men op een paard legt. (Atj
+- aceh: bak leupie peurut jid tameuin jidok piet angin duwa leuheu gunja
+  aceh_1889: bak lëpië përoet djid tamëin djidok piët angin doewa lëhëe goendja
+  jawi: ''
+  id: pada kulit menggantung di perutnya seseorang bisa bermain
+  en: on the overhanging skin of his belly one can play
+  nl: op het overhangende vel van zijn buik kan men spelen
 etymology: ''
 related_words: []
 dialect_notes: ''
 source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
-  Pendidikan dan Kebudayaan, 1985, hlm. 531'
+  Pendidikan dan Kebudayaan, 1985, hlm. 531; K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage:
+  Martinus Nijhoff, voor het Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië,
+  1889, hlm. 240'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
 extraction_notes: 'Jawi left blank: the source is Latin-script only and no Jawi form is printed for this
-  entry.'
+  entry. | Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each headword);
+  not AI-generated. `modern_spelling` “leupie” is an AI-supplied transposition of the 1889 orthography
+  (oe->u, dj->j, tj->c, nj->ny, ë->eu); it is NOT from the source and needs checking before it is used
+  to match the 1985 dictionary. Indonesian and English were produced by machine translation of van Langen''s
+  Dutch (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl` for verification;
+  the rendering is not from the source and needs a human check. Part of speech not stated in the source;
+  left blank.'

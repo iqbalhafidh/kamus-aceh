@@ -1,0 +1,32 @@
+headword: sēngkoi
+jawi: سُغُو
+alt_spelling: []
+ipa: ''
+part_of_speech: ''
+definitions:
+- meaning_id: mencium rasa sakit menusuk, menusuk
+  meaning_en: '[sic] piercing pain, stab'
+  meaning_nl: '[sic] doordringende pijn, steek'
+examples:
+- aceh: di lun hana lun tukon ka duva oroi sengkoi tehat lam dada
+  aceh_1889: di loen hana loen toekon ka doeva oroi sēngkoi tēhat lam dada
+  jawi: ''
+  id: sejauh yang saya prihatin, saya tidak tahu mengapa saya memiliki dua hari dari nyeri dada menusuk
+  en: as far as I'm concerned, I don't know why I have two days of piercing chest pain
+  nl: wat mij betreft, ik weet niet waarom ik twee dagen doordringende pijn in mijn borst heb
+etymology: ''
+related_words: []
+dialect_notes: ''
+source: 'K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage: Martinus Nijhoff, voor het
+  Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië, 1889, hlm. 147'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+language_uncertain: false
+modern_spelling: sengkoi
+extraction_notes: Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each
+  headword); not AI-generated. `modern_spelling` “sengkoi” is an AI-supplied transposition of the 1889
+  orthography (oe->u, dj->j, tj->c, nj->ny, ë->eu); it is NOT from the source and needs checking before
+  it is used to match the 1985 dictionary. Indonesian and English were produced by machine translation
+  of van Langen's Dutch (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl`
+  for verification; the rendering is not from the source and needs a human check. Part of speech not stated
+  in the source; left blank.

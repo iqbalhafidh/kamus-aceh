@@ -1,0 +1,41 @@
+headword: tēpoek
+jawi: تُفُوق
+alt_spelling: []
+ipa: ''
+part_of_speech: ''
+definitions:
+- meaning_id: dengan stroke tangan datar
+  meaning_en: with the flat hand stroke
+  meaning_nl: met de vlakke hand slaan
+- meaning_id: tēpoek djaroi, tepukkan tanganmu
+  meaning_en: tēpoek djaroi, clap your hands
+  meaning_nl: tēpoek djaroi, in de handen klappen
+- meaning_id: tēpoek dada, pemukulan di dada kesedihan
+  meaning_en: tēpoek dada, beating on the chest of sadness
+  meaning_nl: tēpoek dada, zich op de borst slaan van droefheid
+- meaning_id: tēpoek pintoe, menabrak pintu, tēpoek pēha, memukul paha
+  meaning_en: tēpoek pintoe, hit the door, tēpoek pēha, hit the thighs
+  meaning_nl: tēpoek pintoe, tegen de deur slaan, tēpoek pēha, tegen de dijen slaan
+- meaning_id: yang terakhir ini tidak Aceher, jika ia dapat mencapai tujuannya atau melupakan sesuatu.
+    sinonim dengan kēpoek
+  meaning_en: this last one does an Aceher, if he can't reach his goal or forget something. Synonymous
+    with kēpoek
+  meaning_nl: dit laatste doet een Atjeher, als hij zijn doel niet bereiken kan of iets vergeten heeft.
+    Synoniem met kēpoek
+examples: []
+etymology: ''
+related_words: []
+dialect_notes: ''
+source: 'K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage: Martinus Nijhoff, voor het
+  Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië, 1889, hlm. 61'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+language_uncertain: false
+modern_spelling: tepuk
+extraction_notes: Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each
+  headword); not AI-generated. `modern_spelling` “tepuk” is an AI-supplied transposition of the 1889 orthography
+  (oe->u, dj->j, tj->c, nj->ny, ë->eu); it is NOT from the source and needs checking before it is used
+  to match the 1985 dictionary. Indonesian and English were produced by machine translation of van Langen's
+  Dutch (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl` for verification;
+  the rendering is not from the source and needs a human check. Part of speech not stated in the source;
+  left blank.

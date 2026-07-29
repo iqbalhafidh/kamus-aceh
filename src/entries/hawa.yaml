@@ -8,6 +8,9 @@ definitions:
   meaning_en: desire, carnal desire, passion
 - meaning_id: udara
   meaning_en: air
+- meaning_id: hasrat, gairah, rasa
+  meaning_en: desire, passion, sense
+  meaning_nl: begeerte, verlangen, hartstocht, lust
 examples:
 - aceh: na hawa gata keu peunajôh mangat?
   jawi: ''
@@ -17,6 +20,12 @@ examples:
   jawi: ''
   id: keing inan mata saja, bukan keinginan mulut
   en: a desire of the eye only, not of the mouth
+- aceh: na hawa nyoi di gata
+  aceh_1889: na hawa njoi di gata
+  jawi: ''
+  id: apakah keinginan itu ada bersamamu?
+  en: does that desire exist with you?
+  nl: bestaat dat verlangen bij u?
 etymology: Arabic loanword; the Jawi form given here is the Arabic etymon.
 related_words:
 - ai
@@ -24,7 +33,9 @@ related_words:
 - napsu
 dialect_notes: ''
 source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
-  Pendidikan dan Kebudayaan, 1985, hlm. 285, 286'
+  Pendidikan dan Kebudayaan, 1985, hlm. 285, 286; K. F. H. van Langen. Woordenboek der Atjehsche Taal.
+  ''s-Gravenhage: Martinus Nijhoff, voor het Koninklijk Instituut voor de Taal-, Land- en Volkenkunde
+  van Nederlandsch-Indië, 1889, hlm. 282'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
 language_uncertain: true
@@ -36,4 +47,8 @@ extraction_notes: 'Homonym 1 in the source (printed as a superscript numeral bef
   not from source — needs verification by a Jawi-literate reviewer. Part of speech not stated in the source;
   left blank. Language flagged uncertain: this is an Arabic loanword shared with Indonesian. It is listed
   as a headword in an Acehnese dictionary, so it is treated as naturalised Acehnese, but a reviewer should
-  confirm.'
+  confirm. | Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each headword);
+  not AI-generated. Indonesian and English were produced by machine translation of van Langen''s Dutch
+  (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl` for verification;
+  the rendering is not from the source and needs a human check. Part of speech not stated in the source;
+  left blank.'

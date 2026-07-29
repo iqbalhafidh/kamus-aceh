@@ -1,11 +1,19 @@
 headword: rante
-jawi: ''
-alt_spelling: []
+jawi: رانتی
+alt_spelling:
+- ranté
 ipa: ''
 part_of_speech: n
 definitions:
 - meaning_id: rantai, belenggu, merantai, membelenggu
   meaning_en: chain, shackle, to shackle
+- meaning_id: kalung
+  meaning_en: necklace
+  meaning_nl: ketting
+- meaning_id: ranté pelampung, sepotong besi bengkok di mulut babi, yang properti membuat seseorang kebal
+  meaning_en: ranté buoy, a piece of twisted iron in the mouth of pigs, whose property makes someone invulnerable
+  meaning_nl: ranté boei, een stuk gedraaid ijzer, dat zich in den mond van varkens bevindt en waarvan
+    het bezit iemand onkwetsbaar maakt
 examples:
 - aceh: si rante, si meurante
   jawi: ''
@@ -39,8 +47,16 @@ etymology: ''
 related_words: []
 dialect_notes: ''
 source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
-  Pendidikan dan Kebudayaan, 1985, hlm. 778'
+  Pendidikan dan Kebudayaan, 1985, hlm. 778; K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage:
+  Martinus Nijhoff, voor het Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië,
+  1889, hlm. 121'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
 extraction_notes: 'Jawi left blank: the source is Latin-script only and no Jawi form is printed for this
-  entry.'
+  entry. | Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each headword);
+  not AI-generated. `modern_spelling` “rante” is an AI-supplied transposition of the 1889 orthography
+  (oe->u, dj->j, tj->c, nj->ny, ë->eu); it is NOT from the source and needs checking before it is used
+  to match the 1985 dictionary. Indonesian and English were produced by machine translation of van Langen''s
+  Dutch (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl` for verification;
+  the rendering is not from the source and needs a human check. Part of speech not stated in the source;
+  left blank.'

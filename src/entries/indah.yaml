@@ -1,11 +1,23 @@
 headword: indah
-jawi: ''
+jawi: اینده
 alt_spelling: []
 ipa: ''
 part_of_speech: a
 definitions:
 - meaning_id: indah, berharga
   meaning_en: beautiful, price
+- meaning_id: bersih, baik, indah, menyenangkan
+  meaning_en: clean, good, beautiful, pleasant
+  meaning_nl: schoon, goed, fraai, aangenaam
+- meaning_id: inong indah tëhat, seorang wanita cantik
+  meaning_en: inong indah tëhat, a very beautiful woman
+  meaning_nl: inong indah tëhat, een zeer schoone vrouw
+- meaning_id: indah tëhat kalakoean, baik dalam dada
+  meaning_en: indah tëhat kalakoean, well in chest
+  meaning_nl: indah tëhat kalakoean, goed van inborst
+- meaning_id: chabar jang indah, cerita yang indah
+  meaning_en: chabar jang indah, a beautiful story
+  meaning_nl: chabar jang indah, een fraai verhaal
 examples:
 - aceh: jipuwoe da-beueh indah that
   jawi: ''
@@ -37,8 +49,14 @@ related_words:
 - beuaih
 dialect_notes: ''
 source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
-  Pendidikan dan Kebudayaan, 1985, hlm. 311'
+  Pendidikan dan Kebudayaan, 1985, hlm. 311; K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage:
+  Martinus Nijhoff, voor het Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië,
+  1889, hlm. 24'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
 extraction_notes: 'Jawi left blank: the source is Latin-script only and no Jawi form is printed for this
-  entry.'
+  entry. | Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each headword);
+  not AI-generated. Indonesian and English were produced by machine translation of van Langen''s Dutch
+  (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl` for verification;
+  the rendering is not from the source and needs a human check. Part of speech not stated in the source;
+  left blank.'

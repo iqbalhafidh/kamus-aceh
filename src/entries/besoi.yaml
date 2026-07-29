@@ -1,0 +1,44 @@
+headword: bēsoi
+jawi: بَسُوِي
+alt_spelling: []
+ipa: ''
+part_of_speech: ''
+definitions:
+- meaning_id: besi
+  meaning_en: iron
+  meaning_nl: ijzer
+- meaning_id: bēsoi ali, bar dan batang
+  meaning_en: bēsoi ali, bars and rods
+  meaning_nl: bēsoi alir, staafijzer
+- meaning_id: bēsoi tanāh, besi berkualitas buruk
+  meaning_en: bēsoi tanāh, poor quality iron
+  meaning_nl: bēsoi tanāh, ijzer van slechte kwaliteit
+- meaning_id: bēsoi bērani, magnet
+  meaning_en: bēsoi bērani, magnet
+  meaning_nl: bēsoi bērani, magneet
+- meaning_id: bēsoi oen lang, plat besi
+  meaning_en: bēsoi oen ilang, plate iron
+  meaning_nl: bēsoi oen ilang, plaat ijzer
+- meaning_id: bēsoi malila, baja
+  meaning_en: bēsoi malila, steel
+  meaning_nl: bēsoi malila, staal
+- meaning_id: bēsoi apoei, menembak
+  meaning_en: bēsoi apoei, firing
+  meaning_nl: bēsoi apoei, vuurslag
+examples: []
+etymology: ''
+related_words: []
+dialect_notes: ''
+source: 'K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage: Martinus Nijhoff, voor het
+  Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië, 1889, hlm. 34'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+language_uncertain: false
+modern_spelling: besoi
+extraction_notes: Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each
+  headword); not AI-generated. `modern_spelling` “besoi” is an AI-supplied transposition of the 1889 orthography
+  (oe->u, dj->j, tj->c, nj->ny, ë->eu); it is NOT from the source and needs checking before it is used
+  to match the 1985 dictionary. Indonesian and English were produced by machine translation of van Langen's
+  Dutch (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl` for verification;
+  the rendering is not from the source and needs a human check. Part of speech not stated in the source;
+  left blank.

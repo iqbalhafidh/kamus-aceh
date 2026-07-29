@@ -1,0 +1,38 @@
+headword: bèhak
+jawi: بهق
+alt_spelling: []
+ipa: ''
+part_of_speech: ''
+definitions:
+- meaning_id: lelah, tenang (laut)
+  meaning_en: weary, lying (of the wind), calm (the sea)
+  meaning_nl: vermoeid, afgemat, liggen (van den wind), bedaren (van de zee)
+examples:
+- aceh: di lun ka behak han ik lun pelung le
+  aceh_1889: di loen ka bèhak han ik loen pèloeng lé
+  jawi: ''
+  id: sejauh yang aku ketahui, aku sangat lelah, aku tak bisa lari lagi
+  en: as far as I'm concerned, I'm so tired, I can't run away anymore
+  nl: wat mij betreft, ik ben zoo afgemat, dat ik niet meer kan wegloopen
+- aceh: angen ka behak han jijak le prahu
+  aceh_1889: angen ka bèhak han djidjak lé prahoe
+  jawi: ''
+  id: angin telah turun, merak tidak bergerak maju sinonim dengan pèhak
+  en: the wind has gone down, the peacock is not moving forward. Synonymous with pèhak
+  nl: de wind is gaan liggen, de prauw gaat niet meer vooruit. Synoniem met pèhak
+etymology: ''
+related_words: []
+dialect_notes: ''
+source: 'K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage: Martinus Nijhoff, voor het
+  Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië, 1889, hlm. 47'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+language_uncertain: false
+modern_spelling: behak
+extraction_notes: Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each
+  headword); not AI-generated. `modern_spelling` “behak” is an AI-supplied transposition of the 1889 orthography
+  (oe->u, dj->j, tj->c, nj->ny, ë->eu); it is NOT from the source and needs checking before it is used
+  to match the 1985 dictionary. Indonesian and English were produced by machine translation of van Langen's
+  Dutch (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl` for verification;
+  the rendering is not from the source and needs a human check. Part of speech not stated in the source;
+  left blank.

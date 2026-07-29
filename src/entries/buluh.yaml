@@ -1,0 +1,39 @@
+headword: boeloeh
+jawi: بولوة
+alt_spelling: []
+ipa: ''
+part_of_speech: ''
+definitions:
+- meaning_id: bambu, dengan nama ini hanya bamboe-soorten tipis, n.l bambu tatang dan bambu igē bamboesoorten
+    yang lain diindikasikan dengan Jing
+  meaning_en: bamboo, with this name only thin bamboe-soorten, n.l the bamboo talang and the bamboo igē
+    The other bamboesoorten are indicated with jing
+  meaning_nl: bamboe, met dezen naam worden slechts 2 dunne bamboe-soorten aangeduid, n.l. de bamboe talang
+    en de bamboe igē. De overige bamboesoorten worden met tring aangeduid
+- meaning_id: boeloeh lēmang, yang tipis bambu tatang, sehingga-disebut, karena memiliki sejenis kue beras,
+    lēmang, panggang di dalamnya
+  meaning_en: boeloeh lēmang, the thin bamboo talang, so-called, because it has a kind of rice cake, lēmang,
+    toasted in it
+  meaning_nl: boeloeh lēmang, de dunne bamboe talang, zoogenaamd, omdat men er een soort rijstgebak, lēmang,
+    in roostert
+- meaning_id: boeloeh soempit, juga dikenal sebagai boeloeh igē, karena ini terbuat dari stirring kandung
+    kemih
+  meaning_en: boeloeh soempit, also known as boeloeh igē, because it is made of bladder stirrings
+  meaning_nl: boeloeh soempit, ook boeloeh igē zoogenaamd, omdat er blaasroeren van worden vervaardigd
+examples: []
+etymology: ''
+related_words: []
+dialect_notes: ''
+source: 'K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage: Martinus Nijhoff, voor het
+  Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië, 1889, hlm. 45'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+language_uncertain: false
+modern_spelling: buluh
+extraction_notes: Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each
+  headword); not AI-generated. `modern_spelling` “buluh” is an AI-supplied transposition of the 1889 orthography
+  (oe->u, dj->j, tj->c, nj->ny, ë->eu); it is NOT from the source and needs checking before it is used
+  to match the 1985 dictionary. Indonesian and English were produced by machine translation of van Langen's
+  Dutch (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl` for verification;
+  the rendering is not from the source and needs a human check. Part of speech not stated in the source;
+  left blank.

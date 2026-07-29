@@ -1,0 +1,43 @@
+headword: rampih
+jawi: رامفید
+alt_spelling: []
+ipa: ''
+part_of_speech: ''
+definitions:
+- meaning_id: cetak
+  meaning_en: prints
+  meaning_nl: kneuzen
+- meaning_id: trim pagar dari semak-semak
+  meaning_en: trim a fence of shrubs
+  meaning_nl: een omheining van heesters snoeien
+examples:
+- aceh: si pulan kenong anek bedil bak takue hana tehat merampih bacut
+  aceh_1889: Si Poelan kènong anèk bèdil bak takoeè hana tèhat mèrampih batjoet
+  jawi: ''
+  id: n
+  en: n. N
+  nl: N. N
+- aceh: is door een geweerkogel in zijn hals getroffen
+  aceh_1889: is door een geweerkogel in zijn hals getroffen
+  jawi: ''
+  id: tetapi hanya sedikit memar
+  en: but is only a little bruised
+  nl: doch is slechts een weinig gekneusd
+etymology: ''
+related_words: []
+dialect_notes: ''
+source: 'K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage: Martinus Nijhoff, voor het
+  Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië, 1889, hlm. 121'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+language_uncertain: false
+modern_spelling: rampih
+extraction_notes: 'Homonym I in the source (printed as a numeral before the headword). Jawi copied verbatim
+  from the printed source (van Langen prints the Jawi form for each headword); not AI-generated. Indonesian
+  and English were produced by machine translation of van Langen''s Dutch (Dutch→English→Indonesian, OPUS-MT).
+  The Dutch original is kept in `meaning_nl`/`nl` for verification; the rendering is not from the source
+  and needs a human check. Part of speech not stated in the source; left blank. | Homonym II in the source
+  (printed as a numeral before the headword). Jawi left blank: no Jawi form is printed for this entry.
+  Indonesian and English were produced by machine translation of van Langen''s Dutch (Dutch→English→Indonesian,
+  OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl` for verification; the rendering is not from
+  the source and needs a human check. Part of speech not stated in the source; left blank.'

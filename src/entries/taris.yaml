@@ -1,0 +1,48 @@
+headword: taris
+jawi: تاریس
+alt_spelling: []
+ipa: ''
+part_of_speech: ''
+definitions:
+- meaning_id: angin sesuatu dengan tali sepenuhnya
+  meaning_en: wind something with rope completely
+  meaning_nl: iets met touw geheel omwinden
+- meaning_id: taris pētoi, angin kotak
+  meaning_en: taris pētoi, wind up a box
+  meaning_nl: taris pētoi, een kist omwinden
+- meaning_id: taris gotji, sebuah pot angin
+  meaning_en: taris gotji, a pot of wind
+  meaning_nl: taris gotji, een pot omwinden
+- meaning_id: taris lidah, angin barel juga digunakan secara kiasan dari orang-orang yang telah mendapatkan
+    begitu banyak hewings bahwa mereka terlihat seolah-olah mereka telah dibuat oleh tali
+  meaning_en: taris tongue, wind a barrel Also figuratively used of people who have obtained so many hewings
+    that they look as if they have been made by rope
+  meaning_nl: taris tong, een vat omwinden. Ook figuurlijk van menschen gebezigd, die zoovele houwen hebben
+    bekomen, dat zij er uitzien alsof zij door touw zijn omwonden geweest
+examples:
+- aceh: si pulan nyan parut oh metaris
+  aceh_1889: Si Poelan njan paroet óh mētaris
+  jawi: ''
+  id: ban sabo badan, mati N N N
+  en: ban saboh badan, die N. N
+  nl: ban saboh badan, die N. N
+- aceh: is zoo verwond
+  aceh_1889: is zoo verwond
+  jawi: ''
+  id: bahwa seluruh tubuhnya terlihat seperti itu telah dibungkus oleh tali
+  en: that his whole body looks like it's been wrapped up by ropes
+  nl: dat zijn geheele lichaam er uitziet, alsof het door touwen omwonden is geweest
+etymology: ''
+related_words: []
+dialect_notes: ''
+source: 'K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage: Martinus Nijhoff, voor het
+  Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië, 1889, hlm. 53'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+language_uncertain: false
+modern_spelling: taris
+extraction_notes: Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each
+  headword); not AI-generated. Indonesian and English were produced by machine translation of van Langen's
+  Dutch (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl` for verification;
+  the rendering is not from the source and needs a human check. Part of speech not stated in the source;
+  left blank.

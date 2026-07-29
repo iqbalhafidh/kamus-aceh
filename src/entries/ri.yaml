@@ -1,7 +1,9 @@
 headword: ri
-jawi: ''
+jawi: رَاعِي
 alt_spelling:
 - re
+- ri
+- rāi
 ipa: ''
 part_of_speech: n
 definitions:
@@ -35,6 +37,21 @@ definitions:
   meaning_en: ''
 - meaning_id: (
   meaning_en: ''
+- meaning_id: untuk berkontribusi, untuk mencapai sesuatu bersama-sama
+  meaning_en: to contribute, to achieve something together
+  meaning_nl: bijdragen, om iets gezamenlijk tot stand te brengen
+- meaning_id: memperpendek guang gari, apa pun, berapa banyak
+  meaning_en: shortening of barang gari, whatever, how many
+  meaning_nl: verkorting van barang gari, wat ook, hoeveel
+- meaning_id: sage, cara, penampilan
+  meaning_en: sage, manner, appearance
+  meaning_nl: wijze, manier, schijn, voorkomen, uiterlijk
+- meaning_id: meri, menentukan sesuatu dengan penampilan
+  meaning_en: meri, determine something by appearance
+  meaning_nl: mêri, iets door het uiterlijk voorkomen bepalen
+- meaning_id: peri, untuk menentukan sesuatu dari penampilan
+  meaning_en: peri, to determine something from appearance appearance
+  meaning_nl: pêri, iets doen bepalen uit het uiterlijk voorkomen
 examples:
 - aceh: siteungoh ri
   jawi: ''
@@ -48,13 +65,42 @@ examples:
   jawi: ''
   id: mana, apa atau siapa saja, masing-masing, tiap-tiap, semua, segala, sebarang
   en: ''
+- aceh: ri na ri habis
+  aceh_1889: ri na ri habis
+  jawi: ''
+  id: tidak peduli berapa banyak yang ada, begitu banyak yang terjadi
+  en: no matter how much there is, so much goes on
+  nl: hoeveel er ook is, zooveel gaat ook op
+- aceh: tejuer jiperi oleh medehak toh uram bak toh ujongnya
+  aceh_1889: têjoeêr djipêri oleh Mêdehak toh oeram bak toh oedjongnja
+  jawi: ''
+  id: dilas oleh Medehak dari penampilan, di mana awal dan di mana ujung kayu
+  en: was welded by Medehak from the appearance, where the beginning and where the end of the wood was
+  nl: door hem werd gelast door Medehak uit het uiterlijk voorkomen te doen bepalen, waar het begin en
+    waar het uiteinde van het hout was
 etymology: ''
 related_words:
 - siri)
 dialect_notes: ''
 source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
-  Pendidikan dan Kebudayaan, 1985, hlm. 803'
+  Pendidikan dan Kebudayaan, 1985, hlm. 803; K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage:
+  Martinus Nijhoff, voor het Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië,
+  1889, hlm. 118, 132'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
 extraction_notes: 'Jawi left blank: the source is Latin-script only and no Jawi form is printed for this
-  entry.'
+  entry. | Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each headword);
+  not AI-generated. `modern_spelling` “ri” is an AI-supplied transposition of the 1889 orthography (oe->u,
+  dj->j, tj->c, nj->ny, ë->eu); it is NOT from the source and needs checking before it is used to match
+  the 1985 dictionary. Indonesian and English were produced by machine translation of van Langen''s Dutch
+  (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl` for verification;
+  the rendering is not from the source and needs a human check. Part of speech not stated in the source;
+  left blank. | Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each
+  headword); not AI-generated. Indonesian and English were produced by machine translation of van Langen''s
+  Dutch (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl` for verification;
+  the rendering is not from the source and needs a human check. Part of speech not stated in the source;
+  left blank. | Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each
+  headword); not AI-generated. Indonesian and English were produced by machine translation of van Langen''s
+  Dutch (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl` for verification;
+  the rendering is not from the source and needs a human check. Part of speech not stated in the source;
+  left blank.'

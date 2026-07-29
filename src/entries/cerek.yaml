@@ -1,0 +1,38 @@
+headword: tjèrèk
+jawi: چرق
+alt_spelling: []
+ipa: ''
+part_of_speech: ''
+definitions:
+- meaning_id: berbicara, mengobrol, memahami
+  meaning_en: talking, chatting, understanding
+  meaning_nl: praten, babbelen, snappen
+examples:
+- aceh: hai pue tameuceur rek sabe jak udeuh woi oroi kaseuput
+  aceh_1889: hai poë tamëtjër rèk sabé djak oedëh woi oroi kasëpoet
+  jawi: ''
+  id: apa yang kau bicarakan?
+  en: what are you sitting there talking about?
+  nl: wat zit ge daar samen te babbelen
+- aceh: welaan gaat terug naar huis
+  aceh_1889: welaan gaat terug naar huis
+  jawi: ''
+  id: sudah mulai gelap sinonim dengan rëpoen
+  en: it's already getting dark. Synonymous with rëpoen
+  nl: het begint reeds duister te worden. Synoniem met rëpoen
+etymology: ''
+related_words: []
+dialect_notes: ''
+source: 'K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage: Martinus Nijhoff, voor het
+  Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië, 1889, hlm. 93'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+language_uncertain: false
+modern_spelling: cerek
+extraction_notes: Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each
+  headword); not AI-generated. `modern_spelling` “cerek” is an AI-supplied transposition of the 1889 orthography
+  (oe->u, dj->j, tj->c, nj->ny, ë->eu); it is NOT from the source and needs checking before it is used
+  to match the 1985 dictionary. Indonesian and English were produced by machine translation of van Langen's
+  Dutch (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl` for verification;
+  the rendering is not from the source and needs a human check. Part of speech not stated in the source;
+  left blank.

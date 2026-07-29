@@ -1,22 +1,51 @@
-headword: suboh
-jawi: ''
+headword: soeboh
+jawi: صبيح
 alt_spelling: []
 ipa: ''
-part_of_speech: a
+part_of_speech: ''
 definitions:
-- meaning_id: subuh, fajar, dinihari
-  meaning_en: dawn prayer, dawn, the small hours
+- meaning_id: fajar
+  meaning_en: the dawn
+  meaning_nl: de dageraad
+- meaning_id: wachistée soeboh, waktu dari morgengodsdienstoefening. şabar, pengunduran diri, sabar teman,
+    teman. bekerja, teman, menjadi teman. bekerja, ya, benar, benar, nyata şedēkah, sedekah, pengorbanan,
+    hadiah cinta dalam kata-kata yang jelas untuk menunjukkan bahwa questie telah selesai. mulai, baris
+    benar-benar hancur nama bulan ke-2 dari tahun Islam
+  meaning_en: wachistée soeboh, the time of the morgengodsdienstoefening. şabar, resignation, patience.
+    şah, right, true, really, valid of a witness. şahib, boss, lord, master, mate companion, friend. şahabat,
+    friend, befriend. şaaventeh, yes, right, true, real. şedēkah, alms, sacrifice, gift of love. şadik,
+    sincere, unfeigned, heartfelt. şaraf, kitab şaraf speech art. şareh, pure, clear, in clear words to
+    indicate that a quaestie is finished. şef, row, member. şafa, bright, shiny. şafan-şafa Completely
+    destroyed. Oh, my God, şafar, name of the 2nd month of the Islamic year
+  meaning_nl: waḳtée soeboh, de tijd van de morgengodsdienstoefening. صبر şabar, berusting, geduld. صم
+    şah, juist, waar, echt, geldig van een getuige. صاحب şahib, baas, heer, meester, makker, metgezel,
+    vriend. صحيحة şahabat, vriend, bevriend zijn. صحيح şaḥeh, ja, juist, waar, echt. صدقة şedēkah, aalmoes,
+    offerande, liefdegift. صديق şadik, oprecht, ongeveinsd, welgemeend. صرف şaraf, kitab şaraf, spraakkunst.
+    صريح şareh, zuiver, duidelijk, in duidelijke bewoordingen te kennen geven dat eene quaestie afgedaan
+    is. صف şef, rij, gelid. صفا şafa, helder, glanzend. صفا şafan-şafa, geheel en al vernietigd. صفر şafar,
+    naam der 2e maand van het Mohamedaansche jaar. صالح şaleh, vroom, rechtschapen, braaf, een braaf man
 examples:
-- aceh: oroe ka suboh
+- aceh: pekejan putih lagee aleh nyum-nyum pakeh bak ri rupa
+  aceh_1889: pēkējan poetih lagée şaleh njoem-njoem pakēh bak ri roepa
   jawi: ''
-  id: hari sudah subuh atau pagi
-  en: ''
+  id: pakaian putih sebagai orang yang baik membuatnya seperti tulis. bekerja, ritual praktek agama şelawēt,
+    sebenarnya
+  en: white clothes as a good man made him like a scribe. şalah, ritual religious practice. şelawēt, [actually]
+  nl: witte kleederen even als een braaf man deden hem gelijken op een schriftgeleerde. صلاة şalah, ritueele
+    godsdienstoefening. صلوة şelawēt, [eigenl
 etymology: ''
 related_words: []
 dialect_notes: ''
-source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
-  Pendidikan dan Kebudayaan, 1985, hlm. 901'
+source: 'K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage: Martinus Nijhoff, voor het
+  Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië, 1889, hlm. 167'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
-extraction_notes: 'Jawi left blank: the source is Latin-script only and no Jawi form is printed for this
-  entry.'
+language_uncertain: false
+modern_spelling: suboh
+extraction_notes: Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each
+  headword); not AI-generated. `modern_spelling` “suboh” is an AI-supplied transposition of the 1889 orthography
+  (oe->u, dj->j, tj->c, nj->ny, ë->eu); it is NOT from the source and needs checking before it is used
+  to match the 1985 dictionary. Indonesian and English were produced by machine translation of van Langen's
+  Dutch (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl` for verification;
+  the rendering is not from the source and needs a human check. Part of speech not stated in the source;
+  left blank.

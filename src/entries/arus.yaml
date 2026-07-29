@@ -1,0 +1,29 @@
+headword: aroes
+jawi: اروس
+alt_spelling: []
+ipa: ''
+part_of_speech: ''
+definitions:
+- meaning_id: conter sabun mengalir cepat, laut-panjang, jalan aroes raja, begitu-disebut bagian cedar
+  meaning_en: fast-flowing soap counter, sea-ength, street aroes raja, the so-called cedar passage
+  meaning_nl: snelstroomende zeepassage, zee-engte, straat aroes raja, de zoogenaamde cederpassage
+- meaning_id: aroes tjoet, Passage Surat
+  meaning_en: aroes tjoet, the Surat Passage
+  meaning_nl: aroes tjoet, de Suratte-passage
+examples: []
+etymology: ''
+related_words: []
+dialect_notes: ''
+source: 'K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage: Martinus Nijhoff, voor het
+  Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië, 1889, hlm. 4'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+language_uncertain: false
+modern_spelling: arus
+extraction_notes: Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each
+  headword); not AI-generated. `modern_spelling` “arus” is an AI-supplied transposition of the 1889 orthography
+  (oe->u, dj->j, tj->c, nj->ny, ë->eu); it is NOT from the source and needs checking before it is used
+  to match the 1985 dictionary. Indonesian and English were produced by machine translation of van Langen's
+  Dutch (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl` for verification;
+  the rendering is not from the source and needs a human check. Part of speech not stated in the source;
+  left blank.

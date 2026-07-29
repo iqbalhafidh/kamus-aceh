@@ -8,6 +8,13 @@ definitions:
   meaning_en: there is none
 - meaning_id: tidak
   meaning_en: ''
+- meaning_id: tara *, ceritanya begitu bersih, itu tak tertandingi
+  meaning_en: tara*, the story is so clean, it's incomparable
+  meaning_nl: tara*, het verhaal is zoo schoon, dat het niet te ver gelijken is
+- meaning_id: nanggroi Watoe téhat hana tara, selebriti dari Watoe negorium tidak sebanding
+  meaning_en: nanggroi Watoe téhat mësjëhoer hana tara, the celebrity of the Watoe negorium is not comparable
+  meaning_nl: nanggroi watoe téhat mësjëhoer hana tara, de vermaardheid van de negorij Watoe is niet te
+    vergelijken
 examples:
 - aceh: hana di rumoh
   jawi: ''
@@ -29,8 +36,13 @@ etymology: ''
 related_words: []
 dialect_notes: ''
 source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
-  Pendidikan dan Kebudayaan, 1985, hlm. 279'
+  Pendidikan dan Kebudayaan, 1985, hlm. 279; K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage:
+  Martinus Nijhoff, voor het Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië,
+  1889, hlm. 57'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
 extraction_notes: 'Jawi left blank: the source is Latin-script only and no Jawi form is printed for this
-  entry. Part of speech not stated in the source; left blank.'
+  entry. Part of speech not stated in the source; left blank. | Jawi left blank: no Jawi form is printed
+  for this entry. Indonesian and English were produced by machine translation of van Langen''s Dutch (Dutch→English→Indonesian,
+  OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl` for verification; the rendering is not from
+  the source and needs a human check. Part of speech not stated in the source; left blank.'

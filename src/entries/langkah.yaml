@@ -1,5 +1,5 @@
 headword: langkah
-jawi: ''
+jawi: لُغَكَه
 alt_spelling: []
 ipa: ''
 part_of_speech: n
@@ -7,13 +7,37 @@ definitions:
 - meaning_id: langkah, gerak kaki jika berjalan, kedatangan, keberangkatan, (kiasan) melanggar, melangkahi
   meaning_en: step, the movement of the feet in walking, come, departure, to violate (figuratively), to
     step over
-examples: []
+- meaning_id: lulus, langkah
+  meaning_en: pass, step
+  meaning_nl: pas, tred, stap, schrede
+- meaning_id: mengundang seseorang untuk pergi ke suatu tempat, baik di rumahnya atau di tempat lain yang
+    ditunjuk
+  meaning_en: invite someone to go somewhere, either in his home or in another designated place
+  meaning_nl: iemand uitnoodigen om ergens te komen, hetzij in zijn huis of op eene andere aangewezen
+    plaats
+examples:
+- aceh: teku melangkah kenoi siat
+  aceh_1889: Têkoe mêlangkah kênoi siat
+  jawi: ''
+  id: datang sebentar, Tekoe
+  en: come in a moment, Tekoe
+  nl: kom een oogenblik binnen, Têkoe
 etymology: ''
 related_words: []
 dialect_notes: ''
 source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
-  Pendidikan dan Kebudayaan, 1985, hlm. 500'
+  Pendidikan dan Kebudayaan, 1985, hlm. 500; K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage:
+  Martinus Nijhoff, voor het Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië,
+  1889, hlm. 239'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
 extraction_notes: 'Jawi left blank: the source is Latin-script only and no Jawi form is printed for this
-  entry.'
+  entry. | Homonym I in the source (printed as a numeral before the headword). Jawi copied verbatim from
+  the printed source (van Langen prints the Jawi form for each headword); not AI-generated. Indonesian
+  and English were produced by machine translation of van Langen''s Dutch (Dutch→English→Indonesian, OPUS-MT).
+  The Dutch original is kept in `meaning_nl`/`nl` for verification; the rendering is not from the source
+  and needs a human check. Part of speech not stated in the source; left blank. | Homonym II in the source
+  (printed as a numeral before the headword). Jawi left blank: no Jawi form is printed for this entry.
+  Indonesian and English were produced by machine translation of van Langen''s Dutch (Dutch→English→Indonesian,
+  OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl` for verification; the rendering is not from
+  the source and needs a human check. Part of speech not stated in the source; left blank.'

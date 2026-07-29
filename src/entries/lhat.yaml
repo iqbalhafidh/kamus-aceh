@@ -1,5 +1,5 @@
 headword: lhat
-jawi: ''
+jawi: لُهت
 alt_spelling: []
 ipa: ''
 part_of_speech: ''
@@ -12,6 +12,15 @@ definitions:
   meaning_en: ''
 - meaning_id: ureueng lhat
   meaning_en: ''
+- meaning_id: masukan atau berpotongan sesuatu
+  meaning_en: insert or intersect something
+  meaning_nl: iets ergens insteken of tusschensteken
+- meaning_id: orëng lhat, begitu-disebut oranglaet
+  meaning_en: orëng lhat, the so-called orang laet
+  meaning_nl: orëng lhat, worden de zoogenaamde orang laet, genoemd
+- meaning_id: lhat juga digunakan dalam arti bajak laut
+  meaning_en: lhat is also used in the meaning of pirates
+  meaning_nl: lhat wordt ook in de beteekenis van zeeroovers gebezigd
 examples:
 - aceh: sikin
   jawi: ''
@@ -55,11 +64,25 @@ examples:
   jawi: ''
   id: yg mencengceng-ceng apa yg mereka temukan
   en: ''
+- aceh: lhat seukin
+  aceh_1889: lhat sëkin
+  jawi: ''
+  id: angkat pedangmu
+  en: raise your sword (in the scabbard)
+  nl: steek uw zwaard (in de scheede) op
+- aceh: lhat di binteuh
+  aceh_1889: lhat di bintëh
+  jawi: ''
+  id: masukkan diantara batas
+  en: insert it between the border
+  nl: steek het tusschen de omwanding
 etymology: ''
 related_words: []
 dialect_notes: ''
 source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
-  Pendidikan dan Kebudayaan, 1985, hlm. 534'
+  Pendidikan dan Kebudayaan, 1985, hlm. 534; K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage:
+  Martinus Nijhoff, voor het Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië,
+  1889, hlm. 247'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
 extraction_notes: 'Homonym 1 in the source (printed as a superscript numeral before the headword). Jawi
@@ -67,4 +90,13 @@ extraction_notes: 'Homonym 1 in the source (printed as a superscript numeral bef
   not stated in the source; left blank. | English gloss left blank: no confident translation of the Indonesian
   definition was available. Homonym 2 in the source (printed as a superscript numeral before the headword).
   Jawi left blank: the source is Latin-script only and no Jawi form is printed for this entry. Part of
-  speech not stated in the source; left blank.'
+  speech not stated in the source; left blank. | Homonym I in the source (printed as a numeral before
+  the headword). Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each
+  headword); not AI-generated. Indonesian and English were produced by machine translation of van Langen''s
+  Dutch (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl` for verification;
+  the rendering is not from the source and needs a human check. Part of speech not stated in the source;
+  left blank. | Homonym II in the source (printed as a numeral before the headword). Jawi left blank:
+  no Jawi form is printed for this entry. Indonesian and English were produced by machine translation
+  of van Langen''s Dutch (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl`
+  for verification; the rendering is not from the source and needs a human check. Part of speech not stated
+  in the source; left blank.'

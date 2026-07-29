@@ -1,5 +1,5 @@
 headword: poh
-jawi: ''
+jawi: قُوَة
 alt_spelling:
 - pōh
 ipa: ''
@@ -21,6 +21,9 @@ definitions:
   meaning_en: ''
 - meaning_id: menyibukkan diri dengan sesuatu
   meaning_en: ''
+- meaning_id: smack
+  meaning_en: smack
+  meaning_nl: slaan
 examples:
 - aceh: bak maté
   jawi: ''
@@ -63,13 +66,31 @@ examples:
   jawi: ''
   id: Saya tidak menaruh perhatian terhadapnya
   en: ''
+- aceh: poh bak mati
+  aceh_1889: poh bak mati
+  jawi: ''
+  id: mengalahkan seorang pria sampai ia menyerah semangat
+  en: beating a man until he gives up the spirit
+  nl: iemand slaan, tot hij den geest opgeeft
+- aceh: poh padum
+  aceh_1889: poh padoem
+  jawi: ''
+  id: jam berapa sekarang?
+  en: what time is it?
+  nl: hoe laat is het?
 etymology: ''
 related_words:
 - pah-pōh
 dialect_notes: ''
 source: 'Aboe Bakar, dkk. Kamus Aceh–Indonesia. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen
-  Pendidikan dan Kebudayaan, 1985, hlm. 733'
+  Pendidikan dan Kebudayaan, 1985, hlm. 733; K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage:
+  Martinus Nijhoff, voor het Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië,
+  1889, hlm. 192'
 date_added: '2026-07-27'
 contributor: AI-extracted — needs human review
 extraction_notes: 'Jawi left blank: the source is Latin-script only and no Jawi form is printed for this
-  entry.'
+  entry. | Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each headword);
+  not AI-generated. Indonesian and English were produced by machine translation of van Langen''s Dutch
+  (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl` for verification;
+  the rendering is not from the source and needs a human check. Part of speech not stated in the source;
+  left blank.'

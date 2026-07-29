@@ -1,0 +1,32 @@
+headword: sēroeb
+jawi: سروب
+alt_spelling: []
+ipa: ''
+part_of_speech: ''
+definitions:
+- meaning_id: tas di lumpur
+  meaning_en: bags in the mud
+  meaning_nl: in den modder zakken
+examples:
+- aceh: hanjid tabloh kenan rej lehob serub oh teut
+  aceh_1889: handjid tabloh kēnan rēdj lēhob sēroeb *oh tēoet
+  jawi: ''
+  id: anda tidak bisa berjalan di sana, jalan berlumpur, dan Anda jatuh ke dalamnya sampai lutut
+  en: you can't walk there, the road is muddy, and you fall into it to the knee
+  nl: ge kunt daar niet loopen (indompelen), de weg is bemodderd en men zakt er in tot aan de knie
+etymology: ''
+related_words: []
+dialect_notes: ''
+source: 'K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage: Martinus Nijhoff, voor het
+  Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië, 1889, hlm. 144'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+language_uncertain: false
+modern_spelling: serub
+extraction_notes: Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each
+  headword); not AI-generated. `modern_spelling` “serub” is an AI-supplied transposition of the 1889 orthography
+  (oe->u, dj->j, tj->c, nj->ny, ë->eu); it is NOT from the source and needs checking before it is used
+  to match the 1985 dictionary. Indonesian and English were produced by machine translation of van Langen's
+  Dutch (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl` for verification;
+  the rendering is not from the source and needs a human check. Part of speech not stated in the source;
+  left blank.

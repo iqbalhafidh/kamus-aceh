@@ -1,0 +1,35 @@
+headword: sangkoet-pawoet
+jawi: سُغُو
+alt_spelling: []
+ipa: ''
+part_of_speech: ''
+definitions:
+- meaning_id: ditahan oleh sesuatu
+  meaning_en: being held up by something
+  meaning_nl: door het een of ander opgehouden worden
+examples:
+- aceh: di lun jinoi han jid lun bungkar le kerena ka sangkut pawut getanyoi ba meanek anek
+  aceh_1889: di loen djinoi han djid loen boengkar le kērēna ka sangkoet-pawoet gētanjoi ba mēanēk-anēk
+  jawi: ''
+  id: sejauh yang saya prihatin, saya tidak bisa pergi dalam perjalanan lagi, karena saya telah mengangkat,
+    karena kami memiliki anak
+  en: as far as I'm concerned, I can't go on a journey anymore, because I've been held up, because we've
+    had a child
+  nl: wat mij betreft, ik kan niet meer op reis gaan, want ik ben opgehouden geworden, daar wij een kind
+    hebben gekregen
+etymology: ''
+related_words: []
+dialect_notes: ''
+source: 'K. F. H. van Langen. Woordenboek der Atjehsche Taal. ''s-Gravenhage: Martinus Nijhoff, voor het
+  Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië, 1889, hlm. 147'
+date_added: '2026-07-27'
+contributor: AI-extracted — needs human review
+language_uncertain: false
+modern_spelling: sangkut pawut
+extraction_notes: Jawi copied verbatim from the printed source (van Langen prints the Jawi form for each
+  headword); not AI-generated. `modern_spelling` “sangkut pawut” is an AI-supplied transposition of the
+  1889 orthography (oe->u, dj->j, tj->c, nj->ny, ë->eu); it is NOT from the source and needs checking
+  before it is used to match the 1985 dictionary. Indonesian and English were produced by machine translation
+  of van Langen's Dutch (Dutch→English→Indonesian, OPUS-MT). The Dutch original is kept in `meaning_nl`/`nl`
+  for verification; the rendering is not from the source and needs a human check. Part of speech not stated
+  in the source; left blank.
